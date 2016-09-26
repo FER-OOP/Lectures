@@ -1,0 +1,4 @@
+**/bin/
+.metadata/
+**/nbproject/private/
+**/build
