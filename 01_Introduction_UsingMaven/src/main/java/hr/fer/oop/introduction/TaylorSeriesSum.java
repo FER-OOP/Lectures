@@ -1,7 +1,7 @@
 package hr.fer.oop.introduction;
 /**
-@author OOP course
-@version 1.0
+ * @author OOP course
+ * @version 1.0
  */
 public class TaylorSeriesSum {
 	/**

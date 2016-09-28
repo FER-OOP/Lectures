@@ -1,15 +1,15 @@
 package hr.fer.oop.introduction;
 
 /**
-@author OOP course
-@version 1.0
-*/
+ * @author OOP course
+ * @version 1.0
+ */
 public class CustomLinkedList{
 
   /**
-  This method is called once the program is run. Arguments are described below
-  It creates linked list with few names in C/C++ manner (not in object oriented programming manner)
-  @param args Command line arguments (not used in this program)
+   * This method is called once the program is run. Arguments are described below
+   * It creates linked list with few names in C/C++ manner (not in object oriented programming manner)
+   * @param args Command line arguments (not used in this program)
    */
   public static void main(String[] args) {
     Node head = null; // similar to Node *head = null in C/C++
@@ -29,10 +29,10 @@ public class CustomLinkedList{
   }
   
   /**
-  add string to the end of the list
-  @param head head of the list
-  @param name element to add
-  @returns new head of the list if list was empty or previous head of the list
+   * add string to the end of the list
+   * @param head head of the list
+   * @param name element to add
+   * @return new head of the list if list was empty or previous head of the list
    */
   static Node add(Node head, String name) {
     if (head == null){
@@ -52,9 +52,9 @@ public class CustomLinkedList{
 	return head;
   }
 
- /**
-  print list content
-  @param head head of the list
+  /**
+   * print list content
+   * @param head head of the list
    */
   static void printList(Node head){	
 	int pos=1;

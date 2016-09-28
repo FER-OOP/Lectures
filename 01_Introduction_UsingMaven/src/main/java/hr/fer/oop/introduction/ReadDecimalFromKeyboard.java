@@ -1,9 +1,9 @@
 package hr.fer.oop.introduction;
 import java.util.Scanner;
 /**
-@author OOP course
-@version 1.0
-*/
+ * @author OOP course
+ * @version 1.0
+ */
 public class ReadDecimalFromKeyboard{
    public static void main(String[] args)  { 
       System.out.println("Program calculates the sum of positive numbers."); 
