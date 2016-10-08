@@ -23,7 +23,8 @@ public class Wrapper<T> {
 	  public <V> void printWith(V another){
 		  System.out.format("first: %s second %s %n", this.toString(), another.toString());
 	  }
-	  
+	  	  
+	  //public <V> void printWithWrapper(Wrapper<V> another){
 	  public void printWithWrapper(Wrapper<?> another){
 		  System.out.format("first: %s second %s %n", this.toString(), another.getValue().toString());
 	  }
