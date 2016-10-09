@@ -6,7 +6,7 @@ public class Main {
 		Point b = new Point(6,0);
 		Point c = new Point(3,5);
 		Point center = Point.centerOf(a, b, c);
-		System.out.println(center.toString()); //toString ovdje nije bio nu�an, ali je dodan da se naglasi razlika izme�u stati�ke i ne-stati�ke
+		System.out.println(center.toString()); //toString ovdje nije bio nužan, ali je dodan da se naglasi razlika između statičke i ne-statičke
 		
 		Point[] points = new Point[] {a, b, c};
 		center = Point.centerOf(points);
