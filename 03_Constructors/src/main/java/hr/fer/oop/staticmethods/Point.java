@@ -27,18 +27,18 @@ public class Point {
 	}
 	
 	public static Point centerOf(Point a, Point b, Point c){		
-		double x = (a.getX() + b.getX() + c.getX()) / 3.;
-		double y = (a.getY() + b.getY() + c.getY()) / 3.;
+		double x = (a.x + b.x + c.x) / 3.;
+		double y = (a.y + b.y + c.y) / 3.;
 		Point p = new Point(x, y);
 		return p;		
 	}
 	
 	public static Point centerOf(Point a, Point b, Point... points){		
-		double x = a.getX() + b.getX();
-		double y = a.getY() + b.getY();		
+		double x = a.x + b.x;
+		double y = a.y + b.y;		
 		for(Point p : points){
-			x += p.getX();
-			y += p.getY();
+			x += p.x;
+			y += p.y;
 		}		
 		int len = points.length + 2; //points.length and also a and b
 		Point p = new Point(x / len, y / len);
@@ -49,12 +49,12 @@ public class Point {
 		double x = 0, y = 0;
 		int len = points.length;
 //		for(int i=0; i<len; i++){
-//			x += points[i].getX();
-//			y += points[i].getY();
+//			x += points[i].x;
+//			y += points[i].y;
 //		}
 		for(Point p : points){
-			x += p.getX();
-			y += p.getY();
+			x += p.x;
+			y += p.y;
 		}
 		
 		Point p = new Point(x / len, y / len);
