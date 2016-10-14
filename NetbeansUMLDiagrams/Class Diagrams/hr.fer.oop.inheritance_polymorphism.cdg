@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassDiagram name="main.java.hr.fer.oop.inheritance_polymorphism">
+  <ClassDiagramComponents>
+    <Class name="Main" package="hr.fer.oop.inheritance_polymorphism" visibility="public" xPosition="506.0" yPosition="2.0">
+      <Fields/>
+      <Constructors/>
+      <Methods>
+        <Method name="main" returnType="void" visibility="public" isStatic="true">
+          <Argument type="String[]" name="args"/>
+        </Method>
+      </Methods>
+    </Class>
+    <Class name="Polymorphism" package="hr.fer.oop.inheritance_polymorphism" visibility="public" xPosition="506.0" yPosition="572.0">
+      <Fields/>
+      <Constructors/>
+      <Methods>
+        <Method name="main" returnType="void" visibility="public" isStatic="true">
+          <Argument type="String[]" name="args"/>
+        </Method>
+        <Method name="calculatePrice" returnType="void" visibility="private" isStatic="true">
+          <Argument type="Item[]" name="items"/>
+        </Method>
+      </Methods>
+    </Class>
+    <Class name="Item" package="hr.fer.oop.inheritance_polymorphism" visibility="public" xPosition="506.0" yPosition="126.0">
+      <Fields>
+        <Field name="sku" type="String" visibility="private" isFinal="true"/>
+        <Field name="name" type="String" visibility="private"/>
+        <Field name="netSalePrice" type="double" visibility="private"/>
+      </Fields>
+      <Constructors>
+        <Constructor visibility="public">
+          <Argument type="String" name="sku"/>
+          <Argument type="String" name="name"/>
+        </Constructor>
+        <Constructor visibility="public">
+          <Argument type="String" name="sku"/>
+          <Argument type="String" name="name"/>
+          <Argument type="double" name="price"/>
+        </Constructor>
+      </Constructors>
+      <Methods>
+        <Method name="getSku" returnType="String" visibility="public"/>
+        <Method name="getName" returnType="String" visibility="public"/>
+        <Method name="setName" returnType="void" visibility="public">
+          <Argument type="String" name="name"/>
+        </Method>
+        <Method name="getNetSalePrice" returnType="double" visibility="public"/>
+        <Method name="setNetSalePrice" returnType="void" visibility="public">
+          <Argument type="double" name="netSalePrice"/>
+        </Method>
+        <Method name="getVAT" returnType="double" visibility="public"/>
+        <Method name="getPrice" returnType="double" visibility="public">
+          <Argument type="int" name="count"/>
+        </Method>
+        <Method name="getItemType" returnType="String" visibility="public"/>
+        <Method name="toString" returnType="String" visibility="public"/>
+      </Methods>
+    </Class>
+    <Class name="Beverage" package="hr.fer.oop.inheritance_polymorphism" visibility="public" xPosition="20.0" yPosition="216.0">
+      <Fields>
+        <Field name="volume" type="double" visibility="private"/>
+      </Fields>
+      <Constructors>
+        <Constructor visibility="public">
+          <Argument type="String" name="sku"/>
+          <Argument type="String" name="name"/>
+          <Argument type="double" name="volume"/>
+        </Constructor>
+        <Constructor visibility="public">
+          <Argument type="String" name="sku"/>
+          <Argument type="String" name="name"/>
+          <Argument type="double" name="price"/>
+          <Argument type="double" name="volume"/>
+        </Constructor>
+      </Constructors>
+      <Methods>
+        <Method name="getItemType" returnType="String" visibility="public"/>
+        <Method name="getVolume" returnType="double" visibility="public"/>
+        <Method name="setVolume" returnType="void" visibility="public">
+          <Argument type="double" name="volume"/>
+        </Method>
+      </Methods>
+    </Class>
+    <Class name="Food" package="hr.fer.oop.inheritance_polymorphism" visibility="public" xPosition="20.0" yPosition="419.0">
+      <Fields>
+        <Field name="weight" type="double" visibility="private"/>
+        <Field name="bestBefore" type="LocalDate" visibility="private"/>
+      </Fields>
+      <Constructors>
+        <Constructor visibility="public">
+          <Argument type="String" name="sku"/>
+          <Argument type="String" name="name"/>
+          <Argument type="LocalDate" name="bestBefore"/>
+        </Constructor>
+        <Constructor visibility="public">
+          <Argument type="String" name="sku"/>
+          <Argument type="String" name="name"/>
+          <Argument type="double" name="price"/>
+          <Argument type="LocalDate" name="bestBefore"/>
+        </Constructor>
+      </Constructors>
+      <Methods>
+        <Method name="getWeight" returnType="double" visibility="public"/>
+        <Method name="setWeight" returnType="void" visibility="public">
+          <Argument type="double" name="weight"/>
+        </Method>
+        <Method name="getBestBefore" returnType="LocalDate" visibility="public"/>
+        <Method name="setBestBefore" returnType="void" visibility="public">
+          <Argument type="LocalDate" name="bestBefore"/>
+        </Method>
+        <Method name="toString" returnType="String" visibility="public"/>
+        <Method name="getItemType" returnType="String" visibility="public"/>
+        <Method name="getVAT" returnType="double" visibility="public"/>
+      </Methods>
+    </Class>
+    <Class name="Cloth" package="hr.fer.oop.inheritance_polymorphism" visibility="public" xPosition="20.0" yPosition="2.0">
+      <Fields>
+        <Field name="size" type="double" visibility="private"/>
+      </Fields>
+      <Constructors>
+        <Constructor visibility="public">
+          <Argument type="String" name="sku"/>
+          <Argument type="String" name="name"/>
+          <Argument type="double" name="size"/>
+        </Constructor>
+        <Constructor visibility="public">
+          <Argument type="String" name="sku"/>
+          <Argument type="String" name="name"/>
+          <Argument type="double" name="price"/>
+          <Argument type="double" name="size"/>
+        </Constructor>
+      </Constructors>
+      <Methods>
+        <Method name="getItemType" returnType="String" visibility="public"/>
+        <Method name="getSize" returnType="double" visibility="public"/>
+        <Method name="setSize" returnType="void" visibility="public">
+          <Argument type="double" name="size"/>
+        </Method>
+      </Methods>
+    </Class>
+  </ClassDiagramComponents>
+  <ClassDiagramRelations>
+    <IsRelation name="is" source="hr.fer.oop.inheritance_polymorphism.Food" target="hr.fer.oop.inheritance_polymorphism.Item"/>
+    <IsRelation name="is" source="hr.fer.oop.inheritance_polymorphism.Cloth" target="hr.fer.oop.inheritance_polymorphism.Item"/>
+    <UseRelation source="hr.fer.oop.inheritance_polymorphism.Polymorphism" target="hr.fer.oop.inheritance_polymorphism.Item" sourceCardinality="1..1" targetCardinality="1..1"/>
+    <IsRelation name="is" source="hr.fer.oop.inheritance_polymorphism.Beverage" target="hr.fer.oop.inheritance_polymorphism.Item"/>
+  </ClassDiagramRelations>
+</ClassDiagram>
