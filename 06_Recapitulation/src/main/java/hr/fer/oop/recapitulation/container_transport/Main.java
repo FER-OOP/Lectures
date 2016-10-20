@@ -1,9 +1,5 @@
 package hr.fer.oop.recapitulation.container_transport;
 
-/**
- *
- * @author Krešimir Pripužić <kresimir.pripuzic@fer.hr>
- */
 public class Main {
     public static void main(String[] args) {
         Cargo boxedCargo1 = new BoxedCargo(32.5, 56.7, 0);

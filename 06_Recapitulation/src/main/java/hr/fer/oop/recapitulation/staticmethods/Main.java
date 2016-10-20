@@ -1,9 +1,5 @@
 package hr.fer.oop.recapitulation.staticmethods;
 
-/**
- *
- * @author Krešimir Pripužić <kresimir.pripuzic@fer.hr>
- */
 public class Main {
 
     public static void main(String[] args) {

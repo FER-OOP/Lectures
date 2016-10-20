@@ -2,10 +2,6 @@ package hr.fer.oop.recapitulation.container_transport;
 
 import hr.fer.oop.recapitulation.mylist.MyList;
 
-/**
- *
- * @author Krešimir Pripužić <kresimir.pripuzic@fer.hr>
- */
 public abstract class CargoHolder {
 
     private final double weight;

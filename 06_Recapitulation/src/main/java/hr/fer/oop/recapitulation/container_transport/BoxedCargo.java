@@ -1,9 +1,5 @@
 package hr.fer.oop.recapitulation.container_transport;
 
-/**
- *
- * @author Krešimir Pripužić <kresimir.pripuzic@fer.hr>
- */
 public class BoxedCargo implements Cargo {
 
     private final double weight;

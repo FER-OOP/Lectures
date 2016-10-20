@@ -1,9 +1,5 @@
 package hr.fer.oop.recapitulation.fraction;
 
-/**
- *
- * @author Krešimir Pripužić <kresimir.pripuzic@fer.hr>
- */
 public class Fraction {
 
     private int numerator; //brojnik

@@ -1,9 +1,5 @@
 package hr.fer.oop.recapitulation.mylist;
 
-/**
- *
- * @author Krešimir Pripužić <kresimir.pripuzic@fer.hr>
- */
 public class MyList {
 
     private MyListElement head;

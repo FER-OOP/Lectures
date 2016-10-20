@@ -1,9 +1,5 @@
 package hr.fer.oop.recapitulation.container_transport;
 
-/**
- *
- * @author Krešimir Pripužić <kresimir.pripuzic@fer.hr>
- */
 public abstract class VolumeLimitedCargoHolder extends CargoHolder {
 
     private final double maxCargoVolume;
