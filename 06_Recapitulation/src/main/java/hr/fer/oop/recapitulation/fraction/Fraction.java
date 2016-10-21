@@ -57,7 +57,12 @@ public class Fraction {
     }
 
     private static int gcd(int x, int y) {
-        return (y == 0) ? x : gcd(y, x % y);
+        while(y != 0){
+        	int t = y;
+        	y = x % y;
+        	x = t;
+        }
+        return x;
     }
 
     @Override
