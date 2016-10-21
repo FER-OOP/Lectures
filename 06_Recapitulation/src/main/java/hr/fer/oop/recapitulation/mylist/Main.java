@@ -3,7 +3,7 @@ package hr.fer.oop.recapitulation.mylist;
 public class Main {
     public static void main(String[] args) {
         MyList list = new MyList();
-        
+   
         list.addLast("first");
         list.addLast("second");
         list.addLast("third");

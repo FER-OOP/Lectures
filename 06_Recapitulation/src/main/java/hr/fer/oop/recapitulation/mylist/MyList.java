@@ -23,38 +23,29 @@ public class MyList {
     }
 
     public void removeAt(int index) {
-
         if (index == 0) {
-            head = head.getNext();
+        	if (head != null) {
+        		head = head.getNext();
+        	}
             return;
         }
 
         MyListElement current = head;
-        for (int i = 0; i < index - 1; i++) {
-            if (current == null) {
-                return;
-            }
+        for (int i = 0; i < index - 1 && current != null; i++) {           
             current = current.getNext();
         }
 
-        if (current.getNext() != null) {
+        if (current != null && current.getNext() != null) {
             current.setNext(current.getNext().getNext());
-        }
+        }                      		
     }
 
     public Object elementAt(int index) {
-        MyListElement current = head;
-        for (int i = 0; i < index; i++) {
-            if (current == null) {
-                return null;
-            }
-            current = current.getNext();
-        }
-
-        if (current != null) {
-            return current.getContent();
-        }
-        return null;
+    	MyListElement current = head;
+		for(int i=0; i<index && current != null; i++){			
+			current = current.getNext();			
+		}
+		return current == null ? null : current.getContent();		    	   
     }
 
     public int size() {
