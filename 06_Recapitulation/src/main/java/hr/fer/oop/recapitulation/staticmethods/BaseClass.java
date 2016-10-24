@@ -1,8 +1,8 @@
 package hr.fer.oop.recapitulation.staticmethods;
 
 public class BaseClass {
-    private final String message1 = "message1";
-    private static final String message2 = "message2";
+    private final String message1 = "M1";
+    private static final String message2 = "M2";
 
     public String getMessage() {
         return message1;
