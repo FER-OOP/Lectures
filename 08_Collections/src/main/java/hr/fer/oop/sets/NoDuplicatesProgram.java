@@ -26,7 +26,7 @@ public class NoDuplicatesProgram {
 		return set;
 	}
 
-	private static void writeCollection(Collection<String> col) {
+	private static void writeCollection(Iterable<String> col) {
 		for (String element : col) {
 			System.out.println(element);
 		}
