@@ -1,4 +1,4 @@
-package hr.fer.oop.topic11.example4;
+package hr.fer.oop.testing.example4;
 
 import java.util.HashMap;
 import java.util.Map;

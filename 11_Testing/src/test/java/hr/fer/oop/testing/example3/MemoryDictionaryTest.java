@@ -1,5 +1,7 @@
-package hr.fer.oop.topic11.example3;
+package hr.fer.oop.testing.example3;
 
+import hr.fer.oop.testing.example3.MemoryDictionary;
+import hr.fer.oop.testing.example3.Dictionary;
 import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.CoreMatchers.nullValue;
 import static org.junit.Assert.assertThat;

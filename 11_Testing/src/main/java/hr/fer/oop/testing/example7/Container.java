@@ -1,4 +1,4 @@
-package hr.fer.oop.topic11.example7;
+package hr.fer.oop.testing.example7;
 
 public interface Container<T> {
 

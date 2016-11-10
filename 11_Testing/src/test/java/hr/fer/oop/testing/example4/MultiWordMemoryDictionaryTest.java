@@ -1,5 +1,6 @@
-package hr.fer.oop.topic11.example4;
+package hr.fer.oop.testing.example4;
 
+import hr.fer.oop.testing.example4.MultiWordMemoryDictionary;
 import static org.hamcrest.CoreMatchers.allOf;
 import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.CoreMatchers.not;

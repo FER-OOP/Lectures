@@ -1,4 +1,4 @@
-package hr.fer.oop.topic11.example5;
+package hr.fer.oop.testing.example5;
 
 import com.erp.ExchangeRateProvider;
 

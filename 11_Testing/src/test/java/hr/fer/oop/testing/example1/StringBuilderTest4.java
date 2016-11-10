@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package hr.fer.oop.topic11.example1;
+package hr.fer.oop.testing.example1;
 
 import org.junit.Test;
 import static org.junit.Assert.*;

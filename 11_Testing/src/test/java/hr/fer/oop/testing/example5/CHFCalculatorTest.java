@@ -1,5 +1,6 @@
-package hr.fer.oop.topic11.example5;
+package hr.fer.oop.testing.example5;
 
+import hr.fer.oop.testing.example5.CHFCalculator;
 import com.erp.ExchangeRateProvider;
 import static org.hamcrest.CoreMatchers.is;
 import static org.junit.Assert.assertThat;

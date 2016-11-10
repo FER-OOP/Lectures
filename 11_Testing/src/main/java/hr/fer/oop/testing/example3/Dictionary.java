@@ -1,4 +1,4 @@
-package hr.fer.oop.topic11.example3;
+package hr.fer.oop.testing.example3;
 
 public interface Dictionary {
     /**

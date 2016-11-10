@@ -1,6 +1,6 @@
-package hr.fer.oop.topic11.example4;
+package hr.fer.oop.testing.example4;
 
-import hr.fer.oop.topic11.example3.Dictionary;
+import hr.fer.oop.testing.example3.Dictionary;
 
 public interface MultiWordDictionary extends Dictionary {
 

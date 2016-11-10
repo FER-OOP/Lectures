@@ -1,7 +1,7 @@
-package hr.fer.oop.topic11.example6;
+package hr.fer.oop.testing.example6;
 
 import com.erp.ExchangeRateProvider;
-import hr.fer.oop.topic11.example5.CHFCalculator;
+import hr.fer.oop.testing.example5.CHFCalculator;
 import static org.hamcrest.Matchers.closeTo;
 import static org.junit.Assert.assertThat;
 import org.junit.Before;

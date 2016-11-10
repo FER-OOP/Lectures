@@ -1,4 +1,4 @@
-package hr.fer.oop.topic11.example2;
+package hr.fer.oop.testing.example2;
 
 import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.CoreMatchers.not;
