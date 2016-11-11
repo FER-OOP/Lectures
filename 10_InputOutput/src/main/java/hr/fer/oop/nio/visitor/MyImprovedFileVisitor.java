@@ -17,7 +17,7 @@ public class MyImprovedFileVisitor extends SimpleFileVisitor<Path> {
     @Override
     public FileVisitResult visitFile(Path file, BasicFileAttributes attrs) throws IOException {
 
-        if (file.getFileName().endsWith(".java") || file.getFileName().endsWith(".class")) {
+        if (file.toString().endsWith(".java") || file.toString().endsWith(".class")) {
             print(level, String.format("%s (%s bytes) (%s) ",
                     file.getFileName().toString(),
                     attrs.size(),
@@ -32,10 +32,10 @@ public class MyImprovedFileVisitor extends SimpleFileVisitor<Path> {
         if (level == 0) {
             System.out.println(dir);
         } else {
-            print(level, dir.getFileName().toString(), false);            
+            print(level, dir.getFileName().toString(), false);
         }
         level++;
-        
+
         return FileVisitResult.CONTINUE;
     }
 
