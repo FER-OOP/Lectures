@@ -7,42 +7,48 @@ import java.nio.file.SimpleFileVisitor;
 import java.nio.file.attribute.BasicFileAttributes;
 
 public class MyFileVisitor extends SimpleFileVisitor<Path> {
-	int firstLevel = 0;
 
-	@Override
-	public FileVisitResult visitFile(Path file, BasicFileAttributes attrs) throws IOException {
+    int level = 0;
 
-		if (file.toString().endsWith(".java") || file.toString().endsWith(".class")) {
-			int level = file.getNameCount();
-			print(level - firstLevel, String.format("%s (%s bytes) (%s) ", 
-										file.getName(level - 1).toString(),
-										attrs.size(), 
-										attrs.lastModifiedTime().toString())
-				 , true);
-		}
+    @Override
+    public FileVisitResult visitFile(Path file, BasicFileAttributes attrs) throws IOException {
 
-		return FileVisitResult.CONTINUE;
-	}
+        if (file.toString().endsWith(".java") || file.toString().endsWith(".class")) {
+            print(level, String.format("%s (%s bytes) (%s) ",
+                    file.getFileName().toString(),
+                    attrs.size(),
+                    attrs.lastModifiedTime().toString()), true);
+        }
 
-	@Override
-	public FileVisitResult preVisitDirectory(Path dir, BasicFileAttributes attrs) throws IOException {
+        return FileVisitResult.CONTINUE;
+    }
 
-		if (firstLevel == 0) {
-			firstLevel = dir.getNameCount();
-			System.out.println(dir);
-		} else {
-			int level = dir.getNameCount();
-			print(level - firstLevel, dir.getName(level - 1).toString(), false);
-		}
+    @Override
+    public FileVisitResult preVisitDirectory(Path dir, BasicFileAttributes attrs) throws IOException {
+        if (level == 0) {
+            System.out.println(dir);
+        } else {
+            print(level, dir.getFileName().toString(), false);
+        }
+        level++;
 
-		return FileVisitResult.CONTINUE;
-	}
+        return FileVisitResult.CONTINUE;
+    }
 
-	private void print(int level, String name, boolean isFile) {
-		if (level != 0)
-			System.out.print("|");
-		for (int i = 0; i < level - 1; i++)
-			System.out.print(isFile ? " " : "-");
-		System.out.println(name);
-	}
+    @Override
+    public FileVisitResult postVisitDirectory(Path dir, IOException exc) throws IOException {
+        level--;
+
+        return FileVisitResult.CONTINUE;
+    }
+
+    private void print(int level, String name, boolean isFile) {
+        if (level != 0) {
+            System.out.print("|");
+        }
+        for (int i = 0; i < level - 1; i++) {
+            System.out.print(isFile ? " " : "-");
+        }
+        System.out.println(name);
+    }
 }
