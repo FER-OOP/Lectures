@@ -51,6 +51,6 @@ public class CHFCalculatorMockitoTest {
     @Test
     public void testPrintRates() {      
         calculator.printRates();
-        verify(mockErp).printRates();
+        verify(mockErp).printRates(); //verify that happend once
     }
 }
