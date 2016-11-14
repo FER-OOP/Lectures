@@ -1,14 +1,13 @@
 package hr.fer.oop.testing.example4;
 
-import hr.fer.oop.testing.example4.MultiWordMemoryDictionary;
 import static org.hamcrest.CoreMatchers.allOf;
+import static org.hamcrest.CoreMatchers.containsString;
 import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.CoreMatchers.not;
 import static org.hamcrest.CoreMatchers.nullValue;
 import static org.junit.Assert.assertThat;
 import org.junit.Before;
 import org.junit.Test;
-import static org.junit.matchers.JUnitMatchers.containsString;
 
 public class MultiWordMemoryDictionaryTest {
 

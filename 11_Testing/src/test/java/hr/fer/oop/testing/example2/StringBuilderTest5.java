@@ -2,10 +2,10 @@ package hr.fer.oop.testing.example2;
 
 import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.CoreMatchers.not;
+import static org.hamcrest.CoreMatchers.containsString;
 import org.junit.Test;
 import static org.junit.Assert.*;
 import org.junit.Before;
-import static org.junit.matchers.JUnitMatchers.containsString;
 
 public class StringBuilderTest5 {
 
