@@ -26,7 +26,6 @@ public class CustomNode<T> implements Node {
 		return value;
 	}
 
-	@SuppressWarnings("unchecked")
 	@Override
 	public void setValue(Object value) {
 		this.value = (T) value;
