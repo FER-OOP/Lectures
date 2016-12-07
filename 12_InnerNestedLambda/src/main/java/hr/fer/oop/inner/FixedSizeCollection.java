@@ -9,6 +9,7 @@ public class FixedSizeCollection<T> implements Iterable<T> {
 	public FixedSizeCollection(int count){
 		elements = (T[]) new Object[count]; //new T[count] not possible in Java
 	}
+	@SuppressWarnings("unchecked")
 	public FixedSizeCollection(T... items){
 		elements = (T[]) new Object[items.length]; //new T[count] not possible in Java
 		for(int i=0; i<items.length ; i++){
@@ -20,7 +21,7 @@ public class FixedSizeCollection<T> implements Iterable<T> {
 	}
 	
 	public T getElement(int index) {		
-		return (T) elements[index];
+		return elements[index];
 	}
 
 	public void setElement(int index, T value) {		
