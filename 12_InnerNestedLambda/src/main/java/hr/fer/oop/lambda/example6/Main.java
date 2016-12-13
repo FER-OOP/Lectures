@@ -17,7 +17,7 @@ public class Main {
 		);		
 	}
 	
-	public static void theMostSimilarCar(Iterable<Car> cars, BiFunction<Car, Car, Integer> similarity,  BiConsumer<Car, Car> action){			
+	public static void theMostSimilarCar(Iterable<Car> cars, BiFunction<Car, Car, Integer> distanceFunction, BiConsumer<Car, Car> action){			
 					
 		class CarPair{
 			public Car first, second;
@@ -33,10 +33,10 @@ public class Main {
 		for(Car first : cars){
 			for(Car second : cars){
 				if (first == second) continue;
-				
-				if (pair == null || similarity.apply(first, second) < min){
+				int distance = distanceFunction.apply(first, second);
+				if (pair == null || distance < min){
 					pair = new CarPair(first, second);
-					min = similarity.apply(first, second);
+					min = distance;
 				}				
 			}
 		}
