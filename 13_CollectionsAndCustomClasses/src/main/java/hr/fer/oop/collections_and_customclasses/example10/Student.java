@@ -52,7 +52,8 @@ public class Student implements  Comparable<Student> {
 	}	
 	
 	public static final Comparator<Student> BY_LAST_NAME = (s1,s2) -> s1.lastName.compareTo(s2.lastName);
-	public static final Comparator<Student> BY_FIRST_NAME = (s1,s2) -> s1.firstName.compareTo(s2.firstName);
+	//public static final Comparator<Student> BY_FIRST_NAME = (s1,s2) -> s1.firstName.compareTo(s2.firstName);
+        public static final Comparator<Student> BY_FIRST_NAME = Comparator.comparing(Student::getFirstName);
 	public static final Comparator<Student> BY_STUDENT_ID = (s1,s2) -> s1.studentID.compareTo(s2.studentID);
 
 	    
