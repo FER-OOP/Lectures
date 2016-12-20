@@ -1,6 +1,8 @@
 package hr.fer.oop.streams;
 
+import java.text.Collator;
 import java.util.Comparator;
+import java.util.Locale;
 
 public class Student  implements Comparable<Student> {
 	
@@ -55,8 +57,9 @@ public class Student  implements Comparable<Student> {
 		return this.studentID.compareTo(o.studentID);
 	}
 	
-	public static final Comparator<Student> BY_LAST_NAME = (o1,o2) -> o1.lastName.compareTo(o2.lastName);
-	public static final Comparator<Student> BY_FIRST_NAME = (o1,o2) -> o1.firstName.compareTo(o2.firstName);
+	private static Comparator<Object> hrcomparator = Collator.getInstance(Locale.forLanguageTag("hr"));
+	public static final Comparator<Student> BY_LAST_NAME = (o1,o2) -> hrcomparator.compare(o1.lastName, o2.lastName);
+	public static final Comparator<Student> BY_FIRST_NAME = (o1,o2) -> hrcomparator.compare(o1.firstName, o2.firstName);
 	public static final Comparator<Student> BY_STUDENT_ID = (o1,o2) -> o1.studentID.compareTo(o2.studentID);
 	public static final Comparator<Student> BY_FINAL_GRADE = (o1,o2) -> Integer.compare(o1.finalGrade, o2.finalGrade);
 }
