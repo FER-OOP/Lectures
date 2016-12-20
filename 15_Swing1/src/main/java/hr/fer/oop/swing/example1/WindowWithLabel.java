@@ -1,27 +1,26 @@
 package hr.fer.oop.swing.example1;
 
-import javax.swing.ImageIcon;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.SwingUtilities;
 import javax.swing.WindowConstants;
 
-public class PictureFrame extends JFrame {
+public class WindowWithLabel extends JFrame {
 
-  public PictureFrame() {
+  public WindowWithLabel() {
     setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
-    setTitle("Picture");
-    
-    ImageIcon image = new ImageIcon("fer.jpg");
-    JLabel label = new JLabel(image);
+    setSize(500, 200);
+    setTitle("Window with label");
+        
+    JLabel label = new JLabel();
+    label.setText("One of the first examples...");
     add(label);    
   }
 
   public static void main(String[] args) throws Exception {
     SwingUtilities.invokeAndWait(() -> {
-      PictureFrame window = new PictureFrame();
-      window.setLocation(20, 20);
-      window.pack();
+      WindowWithLabel window = new WindowWithLabel();
+      window.setLocation(20, 20);      
       window.setVisible(true);
     });
   }
