@@ -20,7 +20,6 @@ import hr.fer.oop.swing.example4.InputUserDataPanel;
 import hr.fer.oop.swing.example4.UserData;
 
 public class SplitPaneWindow extends JFrame {
-  private int commandId = 0;
   private List<UserData> userDataList;
   private List<JToggleButton> buttons;
   private InputUserDataPanel userDataPanel;
@@ -61,7 +60,7 @@ public class SplitPaneWindow extends JFrame {
     toggleButtonListener = (actionEvent) -> {
       JToggleButton selectedButton = (JToggleButton) actionEvent.getSource();
       deselectOthers(selectedButton);
-      int index = findButtonPosition(buttons, actionEvent.getActionCommand());
+      int index = findButtonPosition(buttons, selectedButton);
       userDataPanel.setUserData(userDataList.get(index));
     };
     
@@ -74,8 +73,7 @@ public class SplitPaneWindow extends JFrame {
 
         for (UserData data : userDataList) {
           JToggleButton button = new JToggleButton(data.getFirstName() + " "
-        		  								 + data.getLastName());
-          button.setActionCommand(Integer.toString(commandId++));      
+        		  								 + data.getLastName());              
           buttonsPanel.add(button);
           buttons.add(button);          
           button.addActionListener(toggleButtonListener);
@@ -93,8 +91,7 @@ public class SplitPaneWindow extends JFrame {
 	  JButton newUserData = new JButton("New");
 	  toolBar.add(newUserData);
 	  newUserData.addActionListener((actionEvent) -> {
-	      JToggleButton tb = new JToggleButton("New User Data");
-	      tb.setActionCommand(Integer.toString(commandId++));
+	      JToggleButton tb = new JToggleButton("New User Data");	      
 	      tb.addActionListener(toggleButtonListener);
 	      buttons.add(tb);	      
 	      userDataList.add(new UserData());
@@ -128,9 +125,9 @@ public class SplitPaneWindow extends JFrame {
 	  });
   }
 
-  private int findButtonPosition(List<JToggleButton> buttons, String actionCommand) {
+  private int findButtonPosition(List<JToggleButton> buttons, JToggleButton button) {
     for(int i=0; i<buttons.size(); i++)	
-      if (buttons.get(i).getActionCommand().equals(actionCommand)) 
+      if (buttons.get(i) == button) 
         return i;     
     return -1;
   }
