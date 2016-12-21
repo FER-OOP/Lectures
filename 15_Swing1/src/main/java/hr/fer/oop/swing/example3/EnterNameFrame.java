@@ -60,6 +60,6 @@ public class EnterNameFrame extends JFrame {
 			JOptionPane.showMessageDialog(EnterNameFrame.this, "Hello " + tfInput.getText());			
 		}
 	});
-    //btnOK.addActionListener(e -> JOptionPane.showMessageDialog(EnterNameFrame.this, "Hello " + tfInput.getText()));					
+//    btnOK.addActionListener(e -> JOptionPane.showMessageDialog(this, "Hello " + tfInput.getText()));					
   }
 }

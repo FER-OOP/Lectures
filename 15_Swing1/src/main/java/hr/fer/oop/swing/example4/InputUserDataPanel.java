@@ -56,7 +56,7 @@ public class InputUserDataPanel extends JPanel {
     cbEmail = new JCheckBox("Želite li primati e-mailove?");
     add(cbEmail);
 
-    // rox 3
+    // row 3
     add(new JPanel());
 
     JPanel radioPanel = new JPanel();
@@ -67,16 +67,18 @@ public class InputUserDataPanel extends JPanel {
     add(radioPanel);
 
     radioPanel.setLayout(new GridLayout(0, 1, 0, 0));
-    emailGroup = new ButtonGroup();
+    
     rbWeekly = new JRadioButton("Tjedno");
-    radioPanel.add(rbWeekly);
-    emailGroup.add(rbWeekly);
+    radioPanel.add(rbWeekly);    
     rbDaily = new JRadioButton("Dnevno");
-    radioPanel.add(rbDaily);
-    emailGroup.add(rbDaily);
+    radioPanel.add(rbDaily);    
     rbMonthly = new JRadioButton("Mjesečno");
     radioPanel.add(rbMonthly);
-    emailGroup.add(rbMonthly);
+        
+    emailGroup = new ButtonGroup();
+    emailGroup.add(rbWeekly);
+    emailGroup.add(rbDaily);
+    emailGroup.add(rbMonthly);    
 
     // row 4
     add(new JLabel("Ulica i broj:", SwingConstants.RIGHT));
@@ -107,10 +109,10 @@ public class InputUserDataPanel extends JPanel {
     data.setReceiveEmails(cbEmail.isSelected());
     if (rbDaily.isSelected()) {
       data.setEmailType(EmailType.DAILY);
-    } else if (rbMonthly.isSelected()) {
-      data.setEmailType(EmailType.MONTHLY);
-    } else {
+    } else if (rbWeekly.isSelected()) {
       data.setEmailType(EmailType.WEEKLY);
+    } else if (rbMonthly.isSelected()){
+      data.setEmailType(EmailType.MONTHLY);
     }
     data.setStreet(tfStreet.getText());
     if(tfPostalCode.getValue() == null) {
