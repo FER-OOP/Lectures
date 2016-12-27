@@ -29,22 +29,21 @@ public class InputUserDataFrame extends JFrame {
     userDataPanel = new InputUserDataPanel();
     add(userDataPanel, BorderLayout.CENTER);
 
-    // FlowLayout panel -> GridLayout panel -> 2 buttons in row    
+    // buttons
+    JPanel buttonsPanel = new JPanel();
+    add(buttonsPanel, BorderLayout.SOUTH);
+
     JPanel buttonsGridPanel = new JPanel();
-    buttonsGridPanel.setLayout(new GridLayout(1, 0, 10, 0));
-    
+    buttonsGridPanel.setLayout(new GridLayout(1, 2, 10, 0));
+    buttonsPanel.add(buttonsGridPanel);
+
     JButton btnOK = new JButton("U redu");
     buttonsGridPanel.add(btnOK);
 
     JButton btnCancel = new JButton("Odustani");
     buttonsGridPanel.add(btnCancel);
-        
-    JPanel buttonsPanel = new JPanel();
-    buttonsPanel.add(buttonsGridPanel);
-    add(buttonsPanel, BorderLayout.SOUTH);
-    //
 
-    // buttons actions
+    // actions
     btnOK.addActionListener(new ActionListener() {
       @Override
       public void actionPerformed(ActionEvent e) {
@@ -54,7 +53,15 @@ public class InputUserDataFrame extends JFrame {
       }
     });
 
-    btnCancel.addActionListener(e -> System.exit(0)); //or e -> dispose() if we only want to close window   
+    btnCancel.addActionListener(new ActionListener() {
+      @Override
+      public void actionPerformed(ActionEvent e) {
+        System.exit(0);
+        // ako želimo ugasiti samo prozor, a ne čitavu aplikaciju
+        //dispose();
+      }
+    });
+
   }
 
 }
