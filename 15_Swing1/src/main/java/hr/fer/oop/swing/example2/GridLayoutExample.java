@@ -12,12 +12,12 @@ public class GridLayoutExample extends JFrame {
 
   public GridLayoutExample() {
     setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
-    setLayout(new GridLayout(3, 0));
+    setLayout(new GridLayout(3, 2));
 
     add(new JButton("Gumb 1"));
     add(new JButton("2"));
     add(new JButton("Gumb 3"));
-    add(new JButton("Dugački naziv gumba 4"));
+    add(new JButton("Duga�ki naziv gumba 4"));
     add(new JButton("Gumb 5"));
   }
 
