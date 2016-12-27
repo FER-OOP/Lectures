@@ -1,5 +1,7 @@
 package hr.fer.oop.swing.example1;
 
+import java.awt.BorderLayout;
+
 import javax.swing.ImageIcon;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
@@ -14,7 +16,7 @@ public class PictureFrame extends JFrame {
     
     ImageIcon image = new ImageIcon("fer.jpg");
     JLabel label = new JLabel(image);
-    add(label);    
+    add(label, BorderLayout.CENTER);
   }
 
   public static void main(String[] args) throws Exception {
