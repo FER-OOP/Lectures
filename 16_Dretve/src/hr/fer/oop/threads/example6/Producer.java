@@ -14,7 +14,7 @@ public class Producer extends Thread {
 			s.put(i);
 			System.out.println("Producer " + num + " stavio: " + i);
 			try {
-				sleep((int) (Math.random() * 100));
+				Thread.sleep((int) (Math.random() * 100));
 			} catch (InterruptedException e) {
 			}
 		}

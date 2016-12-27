@@ -21,7 +21,7 @@ public class Consumer extends Thread {
 			}
 			try {
 				//faktor 1.5 za prosjecno sporiji pokusaj konzumacije
-				sleep((int) (Math.random() * 100 * 1.5));
+				Thread.sleep((int) (Math.random() * 100 * 1.5));
 			} catch (InterruptedException e) {
 			}
 		}
