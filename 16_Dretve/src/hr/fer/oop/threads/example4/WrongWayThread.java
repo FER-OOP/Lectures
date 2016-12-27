@@ -8,11 +8,11 @@ import javax.swing.JFrame;
 import javax.swing.JProgressBar;
 import javax.swing.SwingUtilities;
 
-public class CorrectWay extends JFrame {
+public class WrongWayThread extends JFrame {
 	JButton btnAction = new JButton();
 	JProgressBar pbProgress = new JProgressBar();
 
-	public CorrectWay() {
+	public WrongWayThread() {
 		this.setDefaultCloseOperation(EXIT_ON_CLOSE);
 		pbProgress.setMaximum(10);
 		pbProgress.setMinimum(0);
@@ -20,32 +20,29 @@ public class CorrectWay extends JFrame {
 		btnAction.addActionListener((e) -> {
 			btnAction_actionPerformed(e);
 		});
-		this.getContentPane().add(btnAction, BorderLayout.WEST);
-		this.getContentPane().add(pbProgress, BorderLayout.CENTER);
+		add(btnAction, BorderLayout.WEST);
+		add(pbProgress, BorderLayout.CENTER);
 	}
 
 	public static void main(String[] args) {
 		SwingUtilities.invokeLater(() -> {
-			CorrectWay frame = new CorrectWay();
+			WrongWayBlocking frame = new WrongWayBlocking();
 			frame.pack();
 			frame.setVisible(true);
 		});
 	}
 
 	private void btnAction_actionPerformed(ActionEvent e) {
-		btnAction.setEnabled(false);
 		pbProgress.setValue(0);
-
 		new Thread(() -> {
 			for (int i = 0; i <= 10; i++) {
-				int progressValue = i;
-				SwingUtilities.invokeLater(() -> pbProgress.setValue(progressValue));
+				pbProgress.setValue(i);
 				try {
 					Thread.sleep(500);
 				} catch (InterruptedException ie) {
 				}
 			}
-			SwingUtilities.invokeLater(() -> btnAction.setEnabled(true));
 		}).start();
 	}
+
 }

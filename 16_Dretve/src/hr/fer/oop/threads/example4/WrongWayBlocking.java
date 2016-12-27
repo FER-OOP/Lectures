@@ -8,11 +8,11 @@ import javax.swing.JFrame;
 import javax.swing.JProgressBar;
 import javax.swing.SwingUtilities;
 
-public class WrongWay extends JFrame {
+public class WrongWayBlocking extends JFrame {
 	JButton btnAction = new JButton();
 	JProgressBar pbProgress = new JProgressBar();
 
-	public WrongWay() {
+	public WrongWayBlocking() {
 		this.setDefaultCloseOperation(EXIT_ON_CLOSE);
 		pbProgress.setMaximum(10);
 		pbProgress.setMinimum(0);
@@ -26,9 +26,9 @@ public class WrongWay extends JFrame {
 
 	public static void main(String[] args) {
 		SwingUtilities.invokeLater(() -> {
-			WrongWay wrongWay1 = new WrongWay();
-			wrongWay1.pack();
-			wrongWay1.setVisible(true);
+			WrongWayBlocking frame = new WrongWayBlocking();
+			frame.pack();
+			frame.setVisible(true);
 		});
 	}
 
