@@ -4,11 +4,11 @@ import java.util.concurrent.BlockingQueue;
 
 public class Producer extends Thread {
 	private BlockingQueue<Integer> queue;
-	private int num;
+	private int id;
 
-	public Producer(BlockingQueue<Integer> queue, int i) {
+	public Producer(BlockingQueue<Integer> queue, int id) {
 		this.queue = queue;
-		num = i;
+		this.id = id;
 	}
 
 	public void run() {
@@ -17,7 +17,7 @@ public class Producer extends Thread {
 				this.queue.put(i);
 			} catch (InterruptedException e1) {
 			}
-			System.out.println("Producer " + num + " stavio: " + i);
+			System.out.println("Producer " + id + " stavio: " + i);
 			try {
 				Thread.sleep((int) (Math.random() * 100));
 			} catch (InterruptedException e) {

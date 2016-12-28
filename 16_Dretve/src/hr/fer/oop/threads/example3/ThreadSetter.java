@@ -2,7 +2,7 @@ package hr.fer.oop.threads.example3;
 
 public class ThreadSetter extends Thread {
 	private Point point;
-	int start;
+	private int start;
 
 	public ThreadSetter(Point p, int s) {
 		point = p;

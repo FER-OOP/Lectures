@@ -4,26 +4,23 @@ import java.util.concurrent.BlockingQueue;
 
 public class Consumer extends Thread {
 	private BlockingQueue<Integer> queue;
-	private int num;
+	private int id;
 
-	public Consumer(BlockingQueue<Integer> queue, int i) {
+	public Consumer(BlockingQueue<Integer> queue, int id) {
 		this.queue = queue;
-		num = i;
+		this.id = id;
 	}
 
 	public void run() {
-		Integer n = 0; int i = 0;
-		while (i < 10) {
-			if(!queue.isEmpty()){
-				n = queue.remove();
-				i++;
-				System.out.println("Consumer " + num + " uzeo: " + n);
-			}
+		Integer n = null;
+		for(int i = 0; i<10; i++) {
 			try {
-				//faktor 1.5 za prosjecno sporiji pokusaj konzumacije
-				Thread.sleep((int) (Math.random() * 100 * 1.5));
+				n = queue.take();
 			} catch (InterruptedException e) {
+				e.printStackTrace();
+				n = null;
 			}
+			System.out.println("Consumer " + id + " uzeo: " + n);
 		}
 	}
 }
