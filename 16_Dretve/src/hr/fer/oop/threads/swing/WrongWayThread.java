@@ -1,4 +1,4 @@
-package hr.fer.oop.threads.example4;
+package hr.fer.oop.threads.swing;
 
 import java.awt.BorderLayout;
 import java.awt.event.ActionEvent;
@@ -8,11 +8,11 @@ import javax.swing.JFrame;
 import javax.swing.JProgressBar;
 import javax.swing.SwingUtilities;
 
-public class WrongWayBlocking extends JFrame {
+public class WrongWayThread extends JFrame {
 	JButton btnAction = new JButton();
 	JProgressBar pbProgress = new JProgressBar();
 
-	public WrongWayBlocking() {
+	public WrongWayThread() {
 		this.setDefaultCloseOperation(EXIT_ON_CLOSE);
 		pbProgress.setMaximum(10);
 		pbProgress.setMinimum(0);
@@ -34,12 +34,15 @@ public class WrongWayBlocking extends JFrame {
 
 	private void btnAction_actionPerformed(ActionEvent e) {
 		pbProgress.setValue(0);
-		for (int i = 0; i <= 10; i++) {
-			pbProgress.setValue(i);
-			try {
-				Thread.sleep(500);
-			} catch (InterruptedException ie) {
+		new Thread(() -> {
+			for (int i = 0; i <= 10; i++) {
+				pbProgress.setValue(i);
+				try {
+					Thread.sleep(500);
+				} catch (InterruptedException ie) {
+				}
 			}
-		}
+		}).start();
 	}
+
 }

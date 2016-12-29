@@ -1,4 +1,4 @@
-package hr.fer.oop.threads.example2;
+package hr.fer.oop.threads.basics;
 
 public class NamedThreadWithSleep {
 	public static void main(String[] args) {

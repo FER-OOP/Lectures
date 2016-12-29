@@ -1,8 +1,8 @@
-package hr.fer.oop.threads.example3;
+package hr.fer.oop.threads.safe;
 
 public class ThreadSetter extends Thread {
 	private Point point;
-	private int start;
+	int start;
 
 	public ThreadSetter(Point p, int s) {
 		point = p;
@@ -13,7 +13,7 @@ public class ThreadSetter extends Thread {
 		for (int i = start; i < 5 + start; i++) {
 			point.setPoint(i, i);
 			String str = point.toString();
-			System.out.println("t" + start + " " + str);
+			System.out.println("nit" + start + " " + str);
 		}
 	}
 }

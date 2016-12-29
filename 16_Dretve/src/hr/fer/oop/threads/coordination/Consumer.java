@@ -1,4 +1,4 @@
-package hr.fer.oop.threads.example7;
+package hr.fer.oop.threads.coordination;
 
 import java.util.concurrent.BlockingQueue;
 

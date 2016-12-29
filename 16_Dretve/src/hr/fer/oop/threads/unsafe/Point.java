@@ -1,4 +1,4 @@
-package hr.fer.oop.threads.example5;
+package hr.fer.oop.threads.unsafe;
 
 public class Point {
 	private int x, y;
@@ -6,12 +6,12 @@ public class Point {
 	public Point() {
 	}
 
-	public synchronized void setPoint(int x, int y) {
+	public void setPoint(int x, int y) {
 		this.x = x;
 		this.y = y;
 	}
 
-	public synchronized String toString() {
+	public String toString() {
 		return "(" + x + "," + y + ")";
 	}
 }

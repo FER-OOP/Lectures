@@ -1,4 +1,4 @@
-package hr.fer.oop.threads.example1;
+package hr.fer.oop.threads.create;
 
 public class ThreadImplements implements Runnable {
 

@@ -1,4 +1,4 @@
-package hr.fer.oop.threads.example3;
+package hr.fer.oop.threads.safe;
 
 public class Main {
 	public static void main(String[] args) {

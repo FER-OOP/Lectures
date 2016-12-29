@@ -1,4 +1,4 @@
-package hr.fer.oop.threads.example4;
+package hr.fer.oop.threads.swing;
 
 import java.awt.BorderLayout;
 import java.awt.event.ActionEvent;
