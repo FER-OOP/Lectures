@@ -26,7 +26,7 @@ public class WrongWayThread extends JFrame {
 
 	public static void main(String[] args) {
 		SwingUtilities.invokeLater(() -> {
-			WrongWayBlocking frame = new WrongWayBlocking();
+			WrongWayThread frame = new WrongWayThread();
 			frame.pack();
 			frame.setVisible(true);
 		});
@@ -42,7 +42,6 @@ public class WrongWayThread extends JFrame {
 				} catch (InterruptedException ie) {
 				}
 			}
-		}).start();
+		}).start();		
 	}
-
 }
