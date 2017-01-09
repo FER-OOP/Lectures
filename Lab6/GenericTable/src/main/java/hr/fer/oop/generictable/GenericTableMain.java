@@ -35,9 +35,9 @@ public class GenericTableMain {
             button.addActionListener(e -> {
                 //fill the table with some records and show them
                 List<Record> recordList = new ArrayList<>();
-                recordList.add(new Record(1, 1.0, "jedan"));
-                recordList.add(new Record(2, 2.0, "dva"));
-                recordList.add(new Record(3, 3.0, "tri"));                
+                recordList.add(new Record(1, 1.0, "jedan", true));
+                recordList.add(new Record(2, 2.0, "dva", false));
+                recordList.add(new Record(3, 3.0, "tri", false));                
                 tablePanel.update(recordList);
 
                 //print tabe content to the console
@@ -53,19 +53,26 @@ public class GenericTableMain {
 
     public static class Record {
 
+        //public attributes are shown in the table
         public int valueA;
         public double valueB;
         public String valueC;
+        
+        //private attributes are not shown in the table
+        private boolean valueD;
 
-        public Record(int valueA, double valueB, String valueC) {
+        public Record(int valueA, double valueB, String valueC, boolean valueD) {
             this.valueA = valueA;
             this.valueB = valueB;
             this.valueC = valueC;
+            this.valueD = valueD;
         }
 
         @Override
         public String toString() {
-            return "Record{" + "valueA=" + valueA + ", valueB=" + valueB + ", valueC=" + valueC + '}';
+            return "Record{" + "valueA=" + valueA + ", valueB=" + valueB + ", valueC=" + valueC + ", valueD=" + valueD + '}';
         }
+
+        
     }
 }
