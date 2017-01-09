@@ -56,7 +56,7 @@ public class GenericTableMain {
         private int valueA;
         private double valueB;
         private String valueC;
-        private boolean valueD;
+        private boolean valueD; //doesnt't have a getter and thus will not be shown in the table
 
         public Record(int valueA, double valueB, String valueC, boolean valueD) {
             this.valueA = valueA;
@@ -80,8 +80,6 @@ public class GenericTableMain {
 
         public String getValueC() {
             return valueC;
-        }
-
-        
+        }     
     }
 }
