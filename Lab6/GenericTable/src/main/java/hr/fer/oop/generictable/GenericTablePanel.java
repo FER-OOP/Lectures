@@ -2,9 +2,12 @@ package hr.fer.oop.generictable;
 
 import java.awt.BorderLayout;
 import java.awt.Dimension;
-import java.lang.reflect.Field;
+import java.lang.reflect.InvocationTargetException;
+import java.lang.reflect.Method;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
+import java.util.stream.Collectors;
 import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JTable;
@@ -16,6 +19,7 @@ import javax.swing.table.TableRowSorter;
 
 /**
  * A scrollable panel with a table of records of type T.
+ *
  * @author Krešimir Pripužić <kresimir.pripuzic@fer.hr>
  * @param <T> The type of records.
  */
@@ -25,7 +29,9 @@ public class GenericTablePanel<T> extends JPanel {
     private final JTable table;
 
     /**
-     * Creates a new scrollable panel with an empty table. Only public attributes of tClass are added to the table.
+     * Creates a new scrollable panel with an empty table. Only public
+     * attributes of tClass are added to the table.
+     *
      * @param tClass The class of records.
      */
     public GenericTablePanel(Class<T> tClass) {
@@ -43,9 +49,10 @@ public class GenericTablePanel<T> extends JPanel {
         scrollPane = new JScrollPane(table);
         super.add(scrollPane);
     }
-    
+
     /**
      * Updates table content and revalidates the panel.
+     *
      * @param records The records to put in the table.
      */
     public void update(List<T> records) {
@@ -53,9 +60,10 @@ public class GenericTablePanel<T> extends JPanel {
         table.invalidate();
         this.revalidate();
     }
-    
+
     /**
-     * Get a list of records that are currently shown in the table. 
+     * Get a list of records that are currently shown in the table.
+     *
      * @return The list of shown records.
      */
     public List<T> getRecords() {
@@ -67,9 +75,10 @@ public class GenericTablePanel<T> extends JPanel {
         setColumnSizes(preferredSize.getWidth());
         super.setPreferredSize(preferredSize);
     }
-    
+
     /**
      * Sets the same width for all columns.
+     *
      * @param width The width in pixels.
      */
     private void setColumnSizes(double width) {
@@ -84,12 +93,17 @@ public class GenericTablePanel<T> extends JPanel {
 
         List<T> records;
         private final Class<T> tClass;
-        Field[] fields;
+        List<Method> getters;
 
         private GenericTableModel(Class<T> tClass) {
             this.records = new ArrayList<>();
             this.tClass = tClass;
-            this.fields = tClass.getFields();
+            Method[] methods = tClass.getMethods();
+            this.getters = Arrays.asList(methods).
+                    stream().
+                    filter(method -> method.getName().startsWith("get")
+                    && !method.getName().equals("getClass")).
+                    collect(Collectors.toList());
         }
 
         @Override
@@ -99,27 +113,27 @@ public class GenericTablePanel<T> extends JPanel {
 
         @Override
         public int getColumnCount() {
-            return fields.length;
+            return getters.size();
         }
 
         @Override
         public Object getValueAt(int rowIndex, int columnIndex) {
             try {
-                return fields[columnIndex].get(records.get(rowIndex));
-            } catch (IllegalArgumentException | IllegalAccessException ex) {
+                return getters.get(columnIndex).invoke(records.get(rowIndex));
+            } catch (InvocationTargetException | IllegalAccessException ex) {
                 return null;
             }
         }
 
         @Override
         public String getColumnName(int column) {
-            return fields[column].getName();
+            return getters.get(column).getName().substring(3);
         }
-        
+
         private void setData(List<T> records) {
             this.records = records;
         }
-        
+
         private List<T> getData() {
             return records;
         }

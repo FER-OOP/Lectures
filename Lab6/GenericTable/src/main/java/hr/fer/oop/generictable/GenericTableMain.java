@@ -53,12 +53,9 @@ public class GenericTableMain {
 
     public static class Record {
 
-        //public attributes are shown in the table
-        public int valueA;
-        public double valueB;
-        public String valueC;
-        
-        //private attributes are not shown in the table
+        private int valueA;
+        private double valueB;
+        private String valueC;
         private boolean valueD;
 
         public Record(int valueA, double valueB, String valueC, boolean valueD) {
@@ -71,6 +68,18 @@ public class GenericTableMain {
         @Override
         public String toString() {
             return "Record{" + "valueA=" + valueA + ", valueB=" + valueB + ", valueC=" + valueC + ", valueD=" + valueD + '}';
+        }
+
+        public int getValueA() {
+            return valueA;
+        }
+
+        public double getValueB() {
+            return valueB;
+        }
+
+        public String getValueC() {
+            return valueC;
         }
 
         
