@@ -71,7 +71,7 @@ public class PrimeNumberCalculatorFrame2 extends JFrame {
                     timer = new Timer(DELAY, new ActionListener() {
                         @Override
                         public void actionPerformed(ActionEvent e) {
-                            progressBar.setValue((Integer) pnTask.getProgress());
+                            progressBar.setValue(pnTask.getProgress());
                             
                             //stop the timer, when finished with the task
                             if (pnTask.getProgress() == 100) {
