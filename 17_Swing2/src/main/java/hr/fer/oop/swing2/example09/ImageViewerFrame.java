@@ -8,10 +8,10 @@ import java.io.File;
 import java.io.IOException;
 import java.util.HashSet;
 import java.util.Set;
+
 import javax.imageio.ImageIO;
 import javax.swing.AbstractAction;
 import javax.swing.Action;
-import javax.swing.ButtonGroup;
 import javax.swing.ImageIcon;
 import javax.swing.JCheckBoxMenuItem;
 import javax.swing.JFileChooser;
@@ -22,12 +22,8 @@ import javax.swing.JMenuBar;
 import javax.swing.JMenuItem;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
-import javax.swing.JPopupMenu;
-import javax.swing.JRadioButtonMenuItem;
 import javax.swing.JScrollPane;
 import javax.swing.SwingUtilities;
-import javax.swing.UIManager;
-import javax.swing.UIManager.LookAndFeelInfo;
 import javax.swing.WindowConstants;
 
 public class ImageViewerFrame extends JFrame {
@@ -78,24 +74,6 @@ public class ImageViewerFrame extends JFrame {
         JMenu settingsMenu = new JMenu("Settings");
         settingsMenu.setMnemonic(KeyEvent.VK_S);
 
-        //plaf menu
-        JMenu plafMenu = new JMenu("Plaf");
-        plafMenu.setMnemonic(KeyEvent.VK_P);
-        plafMenu.setIcon(new ImageIcon("icons/window-new.png"));
-
-        //add a menu item (radio button) for each installed laf
-        UIManager.LookAndFeelInfo[] lfis = UIManager.getInstalledLookAndFeels();
-
-        //create a group for radio buttons
-        ButtonGroup lfButtons = new ButtonGroup();
-
-        for (LookAndFeelInfo lfi : lfis) {
-            JRadioButtonMenuItem lfButton = new JRadioButtonMenuItem();
-            plafMenu.add(lfButton);
-            lfButtons.add(lfButton);
-            lfButton.setAction(new SetLookAndFeelAction(lfi));
-        }
-
         //remember selection menu item
         rememberSelectionItem = new JCheckBoxMenuItem("Remember selection");
         rememberSelectionItem.setIcon(new ImageIcon("icons/process-stop.png"));
@@ -119,26 +97,6 @@ public class ImageViewerFrame extends JFrame {
                 frame.setVisible(true);
             }
         });
-    }
-
-    private class SetLookAndFeelAction extends AbstractAction {
-
-        private LookAndFeelInfo lfi;
-
-        public SetLookAndFeelAction(LookAndFeelInfo lfi) {
-            super(lfi.getName());
-            this.lfi = lfi;
-        }
-
-        @Override
-        public void actionPerformed(ActionEvent e) {
-            try {
-                UIManager.setLookAndFeel(lfi.getClassName());
-                SwingUtilities.updateComponentTreeUI(ImageViewerFrame.this);
-            } catch (Exception ex) {
-                System.err.println("Cannot load LookAndFeel");
-            }
-        }
     }
 
     private class ShowImageInPanelAction extends AbstractAction {
