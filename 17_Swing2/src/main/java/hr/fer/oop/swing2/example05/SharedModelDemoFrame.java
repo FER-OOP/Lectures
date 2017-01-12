@@ -13,7 +13,7 @@ public class SharedModelDemoFrame extends JFrame {
         JSplitPane splitPanel = new JSplitPane(JSplitPane.HORIZONTAL_SPLIT);
         splitPanel.setResizeWeight(0.5d); //equal width of the components
 
-        JTextField tf1 = new JTextField(0);
+        JTextField tf1 = new JTextField();
         splitPanel.setLeftComponent(tf1);
 
         //create the second textpane with the model from the first
