@@ -46,7 +46,7 @@ public class ImageViewerFrame extends JFrame {
         imagePanel = new JPanel();
         JScrollPane scrollPane = new JScrollPane();
         scrollPane.getViewport().add(imagePanel);
-        this.add(scrollPane, BorderLayout.CENTER);               
+        this.add(scrollPane, BorderLayout.CENTER);
     }
 
     private JMenuBar getMyMenuBar() {
@@ -122,7 +122,7 @@ public class ImageViewerFrame extends JFrame {
     }
 
     private class SetLookAndFeelAction extends AbstractAction {
-        
+
         private LookAndFeelInfo lfi;
 
         public SetLookAndFeelAction(LookAndFeelInfo lfi) {
@@ -205,8 +205,11 @@ public class ImageViewerFrame extends JFrame {
 
                             JMenuItem recentItem = new JMenuItem();
                             recentItem.setAction(showImageInPanelAction);
-                            openRecentMenu.add(recentItem);
-                            openRecentMenu.revalidate();
+
+                            if (rememberSelectionItem.isSelected()) {
+                                openRecentMenu.add(recentItem);
+                                openRecentMenu.revalidate();
+                            }
                         }
 
                         //show image in panel
