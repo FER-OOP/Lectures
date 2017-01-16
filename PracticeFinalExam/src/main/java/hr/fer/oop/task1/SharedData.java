@@ -4,23 +4,23 @@ import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.BlockingQueue;
 
 public class SharedData {
-	private boolean gameOver = false;
-	// TODO
 
-	public SharedData(int noOfEmployees){
-		// TODO
-	}
-	
-	// TODO
-	//metoda nextId vraća sljedeći redni broj natjecatelja
-	
-	public boolean isGameOver() {
-		return gameOver;
-	}
+    private boolean gameOver = false;
+    // TODO
 
-	public void setGameOver(boolean gameOver) {
-		this.gameOver = gameOver;
-	}
+    public SharedData(int noOfEmployees) {
+        // TODO
+    }
 
-	// TODO
+    // TODO
+    //metoda nextId vraća sljedeći redni broj natjecatelja
+    public boolean isGameOver() {
+        return gameOver;
+    }
+
+    public void setGameOver(boolean gameOver) {
+        this.gameOver = gameOver;
+    }
+
+    // TODO
 }
