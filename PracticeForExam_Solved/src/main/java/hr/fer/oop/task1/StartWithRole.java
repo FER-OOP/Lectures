@@ -14,7 +14,11 @@ public class StartWithRole implements Role {
 
     @Override
     public boolean matches(String resource, Action action) {
-        return resource.startsWith(startResource) && this.action == action;
+        if (resource != null) {
+            return resource.startsWith(startResource) && this.action == action;
+        } else {
+            return false;
+        }
     }
 
     @Override

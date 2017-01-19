@@ -14,7 +14,7 @@ public class BasicRole implements Role {
 
     @Override
     public boolean matches(String resource, Action action) {
-        return this.resource.equals(resource) && this.action == action;
+        return Objects.equals(this.resource, resource) && this.action == action;
     }
 
     @Override
