@@ -57,6 +57,8 @@ public class GenericTablePanel<T> extends JPanel {
      */
     public void update(List<T> records) {
         ((GenericTableModel) table.getModel()).setData(records);
+        //notify listeners (e.g. the sorter) about a table change
+        ((GenericTableModel) table.getModel()).fireTableDataChanged();
         table.invalidate();
         this.revalidate();
     }
