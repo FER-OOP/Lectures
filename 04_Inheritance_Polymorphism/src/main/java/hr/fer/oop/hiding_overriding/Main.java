@@ -33,7 +33,7 @@ public class Main {
 		bb.stat();
 		System.out.println("calling bb.virt():");
 		bb.virt();
-		A ab = new B();
+		A ab = (A) bb;
 		System.out.println("calling ab.stat():");
 		ab.stat();
 		System.out.println("calling ab.virt():");
