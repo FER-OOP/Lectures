@@ -141,17 +141,12 @@
     </Interface>
   </ClassDiagramComponents>
   <ClassDiagramRelations>
-    <ImplementsRelation name="&lt;&lt;implements&gt;&gt;" source="hr.fer.oop.recapitulation.container_transport.Container" target="hr.fer.oop.recapitulation.container_transport.Cargo"/>
-    <IsRelation name="is" source="hr.fer.oop.recapitulation.container_transport.WeightLimitedCargoHolder" target="hr.fer.oop.recapitulation.container_transport.CargoHolder"/>
-    <UseRelation source="hr.fer.oop.recapitulation.container_transport.CargoHolder" target="hr.fer.oop.recapitulation.container_transport.Cargo" sourceCardinality="1..1" targetCardinality="1..1"/>
-    <IsRelation name="is" source="hr.fer.oop.recapitulation.container_transport.VolumeLimitedCargoHolder" target="hr.fer.oop.recapitulation.container_transport.CargoHolder"/>
-    <IsRelation name="is" source="hr.fer.oop.recapitulation.container_transport.ContainerShip" target="hr.fer.oop.recapitulation.container_transport.WeightLimitedCargoHolder"/>
     <IsRelation name="is" source="hr.fer.oop.recapitulation.container_transport.BoxedCargoTruck" target="hr.fer.oop.recapitulation.container_transport.WeightLimitedCargoHolder"/>
-    <UseRelation source="hr.fer.oop.recapitulation.container_transport.VolumeLimitedCargoHolder" target="hr.fer.oop.recapitulation.container_transport.Cargo" sourceCardinality="1..1" targetCardinality="1..1"/>
-    <UseRelation source="hr.fer.oop.recapitulation.container_transport.WeightLimitedCargoHolder" target="hr.fer.oop.recapitulation.container_transport.Cargo" sourceCardinality="1..1" targetCardinality="1..1"/>
-    <IsRelation name="is" source="hr.fer.oop.recapitulation.container_transport.Container" target="hr.fer.oop.recapitulation.container_transport.VolumeLimitedCargoHolder"/>
     <ImplementsRelation name="&lt;&lt;implements&gt;&gt;" source="hr.fer.oop.recapitulation.container_transport.BoxedCargo" target="hr.fer.oop.recapitulation.container_transport.Cargo"/>
-    <UseRelation source="hr.fer.oop.recapitulation.container_transport.ContainerShip" target="hr.fer.oop.recapitulation.container_transport.Cargo" sourceCardinality="1..1" targetCardinality="1..1"/>
-    <UseRelation source="hr.fer.oop.recapitulation.container_transport.BoxedCargoTruck" target="hr.fer.oop.recapitulation.container_transport.Cargo" sourceCardinality="1..1" targetCardinality="1..1"/>
+    <IsRelation name="is" source="hr.fer.oop.recapitulation.container_transport.WeightLimitedCargoHolder" target="hr.fer.oop.recapitulation.container_transport.CargoHolder"/>
+    <ImplementsRelation name="&lt;&lt;implements&gt;&gt;" source="hr.fer.oop.recapitulation.container_transport.Container" target="hr.fer.oop.recapitulation.container_transport.Cargo"/>
+    <IsRelation name="is" source="hr.fer.oop.recapitulation.container_transport.VolumeLimitedCargoHolder" target="hr.fer.oop.recapitulation.container_transport.CargoHolder"/>
+    <IsRelation name="is" source="hr.fer.oop.recapitulation.container_transport.Container" target="hr.fer.oop.recapitulation.container_transport.VolumeLimitedCargoHolder"/>
+    <IsRelation name="is" source="hr.fer.oop.recapitulation.container_transport.ContainerShip" target="hr.fer.oop.recapitulation.container_transport.WeightLimitedCargoHolder"/>
   </ClassDiagramRelations>
 </ClassDiagram>
