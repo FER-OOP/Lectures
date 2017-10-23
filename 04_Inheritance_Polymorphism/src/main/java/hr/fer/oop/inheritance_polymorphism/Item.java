@@ -30,12 +30,12 @@ public class Item {
 	}
 	
 	public Item(String sku, String name){
-		this(sku, name, 0);		
+		this.sku = sku;
+		this.name = name;		
 	}
 	
 	public Item(String sku, String name, double price){
-		this.sku = sku;
-		this.name = name;
+		this(sku, name);
 		this.netSalePrice = price;
 	}
 	
