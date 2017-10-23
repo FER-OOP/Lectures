@@ -1,4 +1,4 @@
-package hr.fer.oop.exceptions.example4;
+package hr.fer.oop.exceptions.example6;
 
 public class Main {
 

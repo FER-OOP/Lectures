@@ -1,4 +1,4 @@
-package hr.fer.oop.exceptions.example7;
+package hr.fer.oop.exceptions.example5;
 
 public class Resource implements AutoCloseable {
 	private int i;
