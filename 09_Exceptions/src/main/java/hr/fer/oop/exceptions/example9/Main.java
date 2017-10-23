@@ -1,4 +1,4 @@
-package hr.fer.oop.exceptions.example8;
+package hr.fer.oop.exceptions.example9;
 
 /**
 * An example of matrix library usage and 

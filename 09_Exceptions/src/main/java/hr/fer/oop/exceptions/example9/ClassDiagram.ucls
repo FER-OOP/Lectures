@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<class-diagram version="1.1.8" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+<class-diagram version="1.1.11" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
   associations="true" dependencies="false" nesting-relationships="true">  
-  <class id="1" language="java" name="hr.fer.oop.exceptions.example8.SingularMatrixException" 
-    project="09_Exceptions" file="/09_Exceptions/src/main/java/hr/fer/oop/exceptions/example8/SingularMatrixException.java" 
-    binary="false" corner="BOTTOM_RIGHT">    
+  <class id="1" language="java" name="hr.fer.oop.exceptions.example9.SingularMatrixException" project="09_Exceptions" 
+    file="/09_Exceptions/src/main/java/hr/fer/oop/exceptions/example9/SingularMatrixException.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="228" y="441"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -11,8 +11,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="2" language="java" name="hr.fer.oop.exceptions.example8.MatrixException" project="09_Exceptions" 
-    file="/09_Exceptions/src/main/java/hr/fer/oop/exceptions/example8/MatrixException.java" binary="false" 
+  <class id="2" language="java" name="hr.fer.oop.exceptions.example9.MatrixException" project="09_Exceptions" 
+    file="/09_Exceptions/src/main/java/hr/fer/oop/exceptions/example9/MatrixException.java" binary="false" 
     corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="368" y="254"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
@@ -21,9 +21,9 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="3" language="java" name="hr.fer.oop.exceptions.example8.IncompatibleMatrixException" 
+  <class id="3" language="java" name="hr.fer.oop.exceptions.example9.IncompatibleMatrixException" 
     project="09_Exceptions" 
-    file="/09_Exceptions/src/main/java/hr/fer/oop/exceptions/example8/IncompatibleMatrixException.java" binary="false" 
+    file="/09_Exceptions/src/main/java/hr/fer/oop/exceptions/example9/IncompatibleMatrixException.java" binary="false" 
     corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="526" y="425"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
@@ -33,7 +33,7 @@
     </display>  
   </class>  
   <class id="4" language="java" name="java.lang.RuntimeException" project="09_Exceptions" 
-    file="C:/Program Files/Java/jre1.8.0_31/lib/rt.jar" binary="true" corner="BOTTOM_RIGHT">    
+    file="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar" binary="true" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="370" y="67"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -46,12 +46,12 @@
     <end type="TARGET" refId="2"/>  
   </generalization>  
   <generalization id="6">    
-    <end type="SOURCE" refId="2"/>    
-    <end type="TARGET" refId="4"/>  
-  </generalization>  
-  <generalization id="7">    
     <end type="SOURCE" refId="1"/>    
     <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <generalization id="7">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="4"/>  
   </generalization>  
   <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
     sort-features="false" accessors="true" visibility="true">    
