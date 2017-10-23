@@ -6,7 +6,7 @@ public class ExtendedClass extends BaseClass {
     
     @Override
     public String getMessage() {
-        return message3;
+        return message3  + " " + getStaticMessage();
     }
     public static String getStaticMessage() {
         return message4;

@@ -5,7 +5,7 @@ public class BaseClass {
     private static final String message2 = "M2";
 
     public String getMessage() {
-        return message1;
+        return message1  + " " + getStaticMessage();
     }
     public static String getStaticMessage() {
         return message2;
