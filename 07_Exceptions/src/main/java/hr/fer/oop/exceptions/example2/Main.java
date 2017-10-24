@@ -10,7 +10,7 @@ public class Main {
 				System.out.println(num);
 			}
 			catch(NumberFormatException exc){
-				System.err.println("Error: " + exc);
+				System.err.format("Error: %s is not a number%n", arr[i]);						
 			}
 		}
 		System.out.println("Done");

@@ -8,7 +8,10 @@ public class Main {
 			 a = a / b;
 		} 
 		catch (Exception e) {			
-			e.printStackTrace();
-		}		
+			e.printStackTrace(System.out);
+		}
+		finally{
+			System.out.println("finally");
+		}
 	}	
 }
