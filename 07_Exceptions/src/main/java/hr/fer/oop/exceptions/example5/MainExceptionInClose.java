@@ -1,11 +1,12 @@
 package hr.fer.oop.exceptions.example5;
 
-public class Main {
+public class MainExceptionInClose {
 
 	public static void main(String[] args) {
-		try(Resource r1 = new Resource(1); Resource r2 = new Resource(2)){
-			 int a = 5, b = 0;
-			 a = a / b;
+		try(ResourceCloseExc r1 = new ResourceCloseExc(1); ResourceCloseExc r2 = new ResourceCloseExc(2)){
+//			 int a = 5, b = 0;
+//			 a = a / b;
+			 System.out.println("Try block ends.");
 		} 
 		catch (Exception e) {	
 			System.out.println("Catch...");

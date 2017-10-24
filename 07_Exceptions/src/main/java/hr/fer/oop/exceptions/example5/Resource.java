@@ -8,7 +8,7 @@ public class Resource implements AutoCloseable {
 	}
 	@Override
 	public void close()  {
-		System.out.println("Closing #" + i);		
+		System.out.println("Closing #" + i);			
 	}
 
 }
