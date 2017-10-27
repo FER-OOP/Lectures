@@ -1,67 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <class-diagram version="1.2.1" icons="true" always-add-relationships="true" generalizations="true" realizations="true" 
-  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
-  <interface id="1" language="java" name="hr.fer.oop.salary.SalaryCalculator" project="Pokazni1" 
-    file="/Pokazni1/src/hr/fer/oop/salary/SalaryCalculator.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="83" width="216" x="138" y="36"/>    
-    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
-      sort-features="false" accessors="true" visibility="true">      
-      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
-      <operations public="true" package="true" protected="true" private="true" static="true"/>    
-    </display>  
-  </interface>  
-  <class id="2" language="java" name="hr.fer.oop.salary.Salesman" project="Pokazni1" 
-    file="/Pokazni1/src/hr/fer/oop/salary/Salesman.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="191" width="216" x="394" y="36"/>    
-    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
-      sort-features="false" accessors="true" visibility="true">      
-      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
-      <operations public="true" package="true" protected="true" private="true" static="true"/>    
-    </display>  
-  </class>  
-  <class id="3" language="java" name="hr.fer.oop.salary.Worker" project="Pokazni1" 
-    file="/Pokazni1/src/hr/fer/oop/salary/Worker.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="155" width="156" x="394" y="-159"/>    
-    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
-      sort-features="false" accessors="true" visibility="true">      
-      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
-      <operations public="true" package="true" protected="true" private="true" static="true"/>    
-    </display>  
-  </class>  
-  <class id="4" language="java" name="hr.fer.oop.salary.BankManager" project="Pokazni1" 
-    file="/Pokazni1/src/hr/fer/oop/salary/BankManager.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="101" width="183" x="667" y="-159"/>    
-    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
-      sort-features="false" accessors="true" visibility="true">      
-      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
-      <operations public="true" package="true" protected="true" private="true" static="true"/>    
-    </display>  
-  </class>  
-  <class id="5" language="java" name="hr.fer.oop.salary.HourBasedWorker" project="Pokazni1" 
-    file="/Pokazni1/src/hr/fer/oop/salary/HourBasedWorker.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="209" width="276" x="650" y="36"/>    
-    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
-      sort-features="false" accessors="true" visibility="true">      
-      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
-      <operations public="true" package="true" protected="true" private="true" static="true"/>    
-    </display>  
-  </class>  
-  <realization id="6">    
-    <end type="SOURCE" refId="3"/>    
-    <end type="TARGET" refId="1"/>  
-  </realization>  
-  <generalization id="7">    
-    <end type="SOURCE" refId="2"/>    
-    <end type="TARGET" refId="3"/>  
-  </generalization>  
-  <generalization id="8">    
-    <end type="SOURCE" refId="5"/>    
-    <end type="TARGET" refId="3"/>  
-  </generalization>  
-  <classifier-display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
-    sort-features="false" accessors="true" visibility="true">    
-    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
-    <operations public="true" package="true" protected="true" private="true" static="true"/>  
-  </classifier-display>  
-  <association-display labels="true" multiplicity="true"/>
+               associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+    <interface id="1" language="java" name="hr.fer.oop.salary.SalaryCalculator" project="Pokazni1" 
+               file="/Pokazni1/src/hr/fer/oop/salary/SalaryCalculator.java" binary="false" corner="BOTTOM_RIGHT">    
+        <position height="83" width="216" x="138" y="36"/>    
+        <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+                 sort-features="false" accessors="true" visibility="true">      
+            <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+            <operations public="true" package="true" protected="true" private="true" static="true"/>    
+        </display>  
+    </interface>  
+    <class id="2" language="java" name="hr.fer.oop.salary.Salesman" project="Pokazni1" 
+           file="/Pokazni1/src/hr/fer/oop/salary/Salesman.java" binary="false" corner="BOTTOM_RIGHT">    
+        <position height="191" width="216" x="394" y="36"/>    
+        <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+                 sort-features="false" accessors="true" visibility="true">      
+            <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+            <operations public="true" package="true" protected="true" private="true" static="true"/>    
+        </display>  
+    </class>  
+    <class id="3" language="java" name="hr.fer.oop.salary.Worker" project="Pokazni1" 
+           file="/Pokazni1/src/hr/fer/oop/salary/Worker.java" binary="false" corner="BOTTOM_RIGHT">    
+        <position height="155" width="156" x="394" y="-159"/>    
+        <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+                 sort-features="false" accessors="true" visibility="true">      
+            <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+            <operations public="true" package="true" protected="true" private="true" static="true"/>    
+        </display>  
+    </class>  
+    <class id="4" language="java" name="hr.fer.oop.salary.BankManager" project="Pokazni1" 
+           file="/Pokazni1/src/hr/fer/oop/salary/BankManager.java" binary="false" corner="BOTTOM_RIGHT">    
+        <position height="101" width="183" x="667" y="-159"/>    
+        <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+                 sort-features="false" accessors="true" visibility="true">      
+            <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+            <operations public="true" package="true" protected="true" private="true" static="true"/>    
+        </display>  
+    </class>  
+    <class id="5" language="java" name="hr.fer.oop.salary.HourBasedWorker" project="Pokazni1" 
+           file="/Pokazni1/src/hr/fer/oop/salary/HourBasedWorker.java" binary="false" corner="BOTTOM_RIGHT">    
+        <position height="209" width="276" x="650" y="36"/>    
+        <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+                 sort-features="false" accessors="true" visibility="true">      
+            <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+            <operations public="true" package="true" protected="true" private="true" static="true"/>    
+        </display>  
+    </class>  
+    <realization id="6">    
+        <end type="SOURCE" refId="3"/>    
+        <end type="TARGET" refId="1"/>  
+    </realization>  
+    <generalization id="7">    
+        <end type="SOURCE" refId="2"/>    
+        <end type="TARGET" refId="3"/>  
+    </generalization>  
+    <generalization id="8">    
+        <end type="SOURCE" refId="5"/>    
+        <end type="TARGET" refId="3"/>  
+    </generalization>  
+    <classifier-display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+                        sort-features="false" accessors="true" visibility="true">    
+        <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+        <operations public="true" package="true" protected="true" private="true" static="true"/>  
+    </classifier-display>  
+    <association-display labels="true" multiplicity="true"/>
 </class-diagram>
