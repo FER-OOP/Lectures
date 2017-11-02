@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassDiagram name="Multi-file class diagram">
+  <ClassDiagramComponents>
+    <Class name="BankManager" package="hr.fer.oop.recapitulation.salary" visibility="public" xPosition="649.0" yPosition="10.0">
+      <Fields/>
+      <Constructors/>
+      <Methods>
+        <Method name="payment" returnType="void" visibility="public">
+          <Argument type="Worker" name="worker"/>
+          <Argument type="double" name="amount"/>
+        </Method>
+      </Methods>
+    </Class>
+    <Class name="HourBasedWorker" package="hr.fer.oop.recapitulation.salary" visibility="public" xPosition="92.0" yPosition="332.0">
+      <Fields>
+        <Field name="MONTHLY_WORKING_HOURS" type="double" visibility="private" isStatic="true" isFinal="true"/>
+        <Field name="OVERTIME_FACTOR" type="double" visibility="private" isStatic="true" isFinal="true"/>
+        <Field name="workingHours" type="double" visibility="private"/>
+        <Field name="salaryPerHour" type="double" visibility="private"/>
+      </Fields>
+      <Constructors>
+        <Constructor visibility="public">
+          <Argument type="String" name="name"/>
+          <Argument type="String" name="bankNumber"/>
+          <Argument type="double" name="salaryPerHour"/>
+        </Constructor>
+      </Constructors>
+      <Methods>
+        <Method name="calculateSalary" returnType="void" visibility="public">
+          <Argument type="BankManager" name="bankManager"/>
+        </Method>
+        <Method name="getWorkingHours" returnType="double" visibility="public"/>
+        <Method name="setWorkingHours" returnType="void" visibility="public">
+          <Argument type="double" name="workingHours"/>
+        </Method>
+      </Methods>
+    </Class>
+    <Class name="Salesman" package="hr.fer.oop.recapitulation.salary" visibility="public" xPosition="92.0" yPosition="87.0">
+      <Fields>
+        <Field name="SALARY_PERCENT" type="double" visibility="private" isStatic="true" isFinal="true"/>
+        <Field name="turnover" type="double" visibility="private"/>
+        <Field name="minSalary" type="double" visibility="private"/>
+      </Fields>
+      <Constructors>
+        <Constructor visibility="public">
+          <Argument type="String" name="name"/>
+          <Argument type="String" name="bankNumber"/>
+          <Argument type="double" name="minSalary"/>
+        </Constructor>
+      </Constructors>
+      <Methods>
+        <Method name="getTurnover" returnType="double" visibility="public"/>
+        <Method name="setTurnover" returnType="void" visibility="public">
+          <Argument type="double" name="turnover"/>
+        </Method>
+        <Method name="calculateSalary" returnType="void" visibility="public">
+          <Argument type="BankManager" name="bankManager"/>
+        </Method>
+      </Methods>
+    </Class>
+    <Class name="Worker" package="hr.fer.oop.recapitulation.salary" visibility="public" isAbstract="true" xPosition="661.0" yPosition="128.0">
+      <Fields>
+        <Field name="name" type="String" visibility="private"/>
+        <Field name="bankNumber" type="String" visibility="private"/>
+      </Fields>
+      <Constructors>
+        <Constructor visibility="public">
+          <Argument type="String" name="name"/>
+          <Argument type="String" name="bankNumber"/>
+        </Constructor>
+      </Constructors>
+      <Methods>
+        <Method name="getName" returnType="String" visibility="public"/>
+        <Method name="getBankNumber" returnType="String" visibility="public"/>
+      </Methods>
+    </Class>
+    <Interface name="SalaryCalculator" package="hr.fer.oop.recapitulation.salary" visibility="public" xPosition="619.0" yPosition="463.0">
+      <Methods>
+        <Method name="calculateSalary" returnType="void" visibility="package">
+          <Argument type="BankManager" name="bankManager"/>
+        </Method>
+      </Methods>
+    </Interface>
+  </ClassDiagramComponents>
+  <ClassDiagramRelations>
+    <IsRelation name="is" source="hr.fer.oop.recapitulation.salary.Salesman" target="hr.fer.oop.recapitulation.salary.Worker"/>
+    <ImplementsRelation name="&lt;&lt;implements&gt;&gt;" source="hr.fer.oop.recapitulation.salary.Worker" target="hr.fer.oop.recapitulation.salary.SalaryCalculator"/>
+    <IsRelation name="is" source="hr.fer.oop.recapitulation.salary.HourBasedWorker" target="hr.fer.oop.recapitulation.salary.Worker"/>
+  </ClassDiagramRelations>
+</ClassDiagram>
