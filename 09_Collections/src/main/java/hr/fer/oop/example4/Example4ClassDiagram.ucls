@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <class-diagram version="1.1.8" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
   associations="true" dependencies="false" nesting-relationships="true">  
-  <class id="1" language="java" name="hr.fer.oop.example4.KeyboardNumberSource" project="08_Collections" 
-    file="/08_Collections/src/main/java/hr/fer/oop/example4/KeyboardNumberSource.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="1" language="java" name="hr.fer.oop.example4.KeyboardNumberSource" project="09_Collections" 
+    file="/09_Collections/src/main/java/hr/fer/oop/example4/KeyboardNumberSource.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="193" y="271"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -10,8 +10,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="2" language="java" name="hr.fer.oop.example4.FileNumberSource" project="08_Collections" 
-    file="/08_Collections/src/main/java/hr/fer/oop/example4/FileNumberSource.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="2" language="java" name="hr.fer.oop.example4.FileNumberSource" project="09_Collections" 
+    file="/09_Collections/src/main/java/hr/fer/oop/example4/FileNumberSource.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="395" y="280"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -19,8 +19,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <interface id="3" language="java" name="hr.fer.oop.example4.NumberSource" project="08_Collections" 
-    file="/08_Collections/src/main/java/hr/fer/oop/example4/NumberSource.java" binary="false" corner="BOTTOM_RIGHT">    
+  <interface id="3" language="java" name="hr.fer.oop.example4.NumberSource" project="09_Collections" 
+    file="/09_Collections/src/main/java/hr/fer/oop/example4/NumberSource.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="312" y="81"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
