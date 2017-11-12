@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
+import java.util.function.Predicate;
 
 public class Example3 {
 
@@ -30,7 +31,8 @@ public class Example3 {
 			double limit = avg*1.2;
 			
 			//remove all lower than limit
-			numbers.removeIf(num -> num < limit);
+			Predicate<Double> belowLimit = new BelowLimit(limit);
+			numbers.removeIf(belowLimit);
 			//sort remaining elements
 			Collections.sort(numbers);
 			
