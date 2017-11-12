@@ -28,7 +28,7 @@ public class Main {
 			x += p.getX().doubleValue();
 			y += p.getY().doubleValue();
 		}
-		Point<Double> point = new Point<>(x, y);
+		Point<Double> point = new Point<>(x / size, y / size);
 		return point;
 	}	
 }

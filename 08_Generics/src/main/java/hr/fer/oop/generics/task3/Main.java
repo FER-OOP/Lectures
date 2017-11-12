@@ -13,7 +13,7 @@ public class Main {
 		list.addLast(new Point<>(4.5, 5.7));
 		list.addLast(new Point<>(5.1, 3.4));
 		list.addLast(new Point<>(0.0, 4.1));
-		System.out.println("Center of list2: " + center(list));		
+		System.out.println("Center of list: " + center(list));		
 	}
 	
 	//public static <T extends Point<? extends Number>> Point<Double> center(MyList<T> list){
@@ -26,7 +26,7 @@ public class Main {
 			x += p.getX().doubleValue();
 			y += p.getY().doubleValue();
 		}
-		Point<Double> point = new Point<>(x, y);
+		Point<Double> point = new Point<>(x / size, y / size);
 		return point;
 	}	
 }
