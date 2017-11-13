@@ -12,7 +12,7 @@ public class Example3 {
 
 	public static void main(String[] args) {
 		
-		List<Double> numbers = LoadNumbers();
+		List<Double> numbers = loadNumbers();
 						
 		if(!numbers.isEmpty()) {
 			double avg = calcAverage(numbers);
@@ -33,7 +33,7 @@ public class Example3 {
 		}				
 	}
 
-	private static List<Double> LoadNumbers() {
+	private static List<Double> loadNumbers() {
 		List<Double> numbers = new LinkedList<>();
 		try(Scanner scanner = new Scanner(System.in)){					
 			System.out.println("Enter numbers (quit for end):");
