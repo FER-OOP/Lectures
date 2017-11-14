@@ -22,7 +22,7 @@ public class Example2b {
 		// Set for fast lookup...
 		Set<String> set = new HashSet<>();
 		for (int i = names.length - 1; i >= 0; i--) {
-			// Try add. If OK, first occurence => add to list.
+			// Try add. If OK, first occurrence => add to list.
 			if (set.add(names[i])) {
 				list.add(names[i]);
 			}
