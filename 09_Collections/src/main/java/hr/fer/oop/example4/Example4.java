@@ -5,6 +5,8 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
+import hr.fer.oop.lists.BelowLimit;
+
 public class Example4 {
 
 	
@@ -26,7 +28,7 @@ public class Example4 {
 			double limit = avg*1.2;
 			
 			//remove all lower than limit
-			numbers.removeIf(num -> num < limit);
+			numbers.removeIf(new BelowLimit(limit));
 			//sort remaining elements
 			Collections.sort(numbers);
 			
