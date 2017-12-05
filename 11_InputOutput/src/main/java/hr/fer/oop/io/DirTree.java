@@ -24,12 +24,7 @@ public class DirTree {
 	
 	public static void directoryTree(String root, int level){
 		File directory = new File(root);
-		if (level == 0){
-			System.out.println(root);
-		}
-		else{
-			print(level, directory.getName(), false);
-		}			
+		print(level, directory.getName(), false);				
 		
 		FilenameFilter filter = new MyFilenameFilter();		
 		File[] files = directory.listFiles(filter);
@@ -43,6 +38,4 @@ public class DirTree {
 			}			
 		}
 	}
-
-	
 }

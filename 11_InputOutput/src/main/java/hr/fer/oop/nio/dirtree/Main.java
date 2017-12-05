@@ -21,19 +21,14 @@ public class Main {
 	public static void directoryTree(String root, int level){
 		Path directory = Paths.get(root);
 		int nameCounts = directory.getNameCount();
-		if (level == 0){
-			System.out.println(root);
-		}
-		else{
-			print(level, directory.getName(nameCounts-1).toString(), false);
-		}	
+		print(level, directory.getName(nameCounts-1).toString(), false);		
 				
 		DirectoryStream.Filter<Path> filter = new MyPathStreamFilter();
 		
 		try(DirectoryStream<Path> dirStream = Files.newDirectoryStream(directory, filter)){
 			for(Path path : dirStream){
 				BasicFileAttributes attribs = Files.readAttributes(path, BasicFileAttributes.class);
-				if (attribs.isDirectory()){ //ili Files.isDirectory...
+				if (attribs.isDirectory()){ //or Files.isDirectory...
 					directoryTree(path.toAbsolutePath().toString(), level + 1);
 				}
 				else{
