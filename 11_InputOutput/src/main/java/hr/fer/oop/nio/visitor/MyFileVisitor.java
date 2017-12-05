@@ -25,11 +25,7 @@ public class MyFileVisitor extends SimpleFileVisitor<Path> {
 
     @Override
     public FileVisitResult preVisitDirectory(Path dir, BasicFileAttributes attrs) throws IOException {
-        if (level == 0) {
-            System.out.println(dir);
-        } else {
-            print(level, dir.getFileName().toString(), false);
-        }
+        print(level, dir.getFileName().toString(), false);        
         level++;
 
         return FileVisitResult.CONTINUE;
