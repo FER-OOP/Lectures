@@ -18,5 +18,10 @@ public class ScrambledOutputStream extends OutputStream{
 		stream.write(b ^ x);
 		stream.write(b ^ y);
 	}
+	
+	@Override
+	public void close() throws IOException {		
+		stream.close();
+	}
 
 }
