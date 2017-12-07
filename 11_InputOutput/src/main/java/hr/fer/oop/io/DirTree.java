@@ -14,12 +14,12 @@ public class DirTree {
 		}			
 	}	
 	
-	private static void print(int level, String name, boolean isFile) {
+	private static void print(int level, String stringToPrint, boolean isFile) {
 		if (level != 0)
 			System.out.print("|");		
 		for(int i=0; i<level-1; i++)
 			System.out.print(isFile? " " :  "-");
-		System.out.println(name);
+		System.out.println(stringToPrint);
 	}
 	
 	public static void directoryTree(String root, int level){

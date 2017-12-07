@@ -38,13 +38,13 @@ public class MyFileVisitor extends SimpleFileVisitor<Path> {
         return FileVisitResult.CONTINUE;
     }
 
-    private void print(int level, String name, boolean isFile) {
+    private void print(int level, String stringToPrint, boolean isFile) {
         if (level != 0) {
             System.out.print("|");
         }
         for (int i = 0; i < level - 1; i++) {
             System.out.print(isFile ? " " : "-");
         }
-        System.out.println(name);
+        System.out.println(stringToPrint);
     }
 }
