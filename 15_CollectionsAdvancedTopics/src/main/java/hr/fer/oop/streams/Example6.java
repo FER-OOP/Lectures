@@ -25,7 +25,7 @@ public class Example6 {
 		  })
 		  .average()
 		  .getAsDouble();
-		System.out.format("Avegare grade %.2f%n", avgGrade);
+		System.out.format("Average grade %.2f%n", avgGrade);
 
 		// using lambda
 		double avgGrade2 = students
@@ -34,7 +34,7 @@ public class Example6 {
 			.mapToInt(s -> s.getFinalGrade())
 			.average()
 			.getAsDouble();		
-		System.out.format("Avegare grade %.2f%n", avgGrade2);
+		System.out.format("Average grade %.2f%n", avgGrade2);
 	}
 	
 }
