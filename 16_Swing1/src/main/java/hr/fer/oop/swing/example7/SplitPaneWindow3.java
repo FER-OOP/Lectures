@@ -15,6 +15,7 @@ import hr.fer.oop.swing.example4.InputUserDataPanel;
 import hr.fer.oop.swing.example4.UserData;
 import hr.fer.oop.swing.example5.UserDataFactory;
 
+//Same as SplitPaneWindow2 except lambda used instead of anonymous class for ActionListener
 public class SplitPaneWindow3 extends JFrame {
   private List<UserData> userDataList;
   private List<JToggleButton> buttons;
