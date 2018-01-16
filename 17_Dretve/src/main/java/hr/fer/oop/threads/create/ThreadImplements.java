@@ -7,7 +7,7 @@ public class ThreadImplements implements Runnable {
         for (int i = 0; i < 5; i++) {
             System.out.println("broj " + i);
         }
-        System.out.println("Gotovo brojenje");
+        System.out.println("Gotovo brojanje");
     }
 
     public static void main(String[] args) {

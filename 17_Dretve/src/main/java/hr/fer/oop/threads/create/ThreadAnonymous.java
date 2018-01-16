@@ -8,7 +8,7 @@ public class ThreadAnonymous {
                 for (int i = 0; i < 5; i++) {
                     System.out.println("broj " + i);
                 }
-                System.out.println("Gotovo brojenje");
+                System.out.println("Gotovo brojanje");
             }
         };
         thread.start();
