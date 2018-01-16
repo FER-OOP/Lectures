@@ -24,7 +24,7 @@ public class SplitPaneWindow4 extends JFrame {
   private List<UserData> userDataList;
   private List<JToggleButton> buttons;
   private InputUserDataPanel userDataPanel;
-  private ActionListener toggleButtonListener;
+  private ActionListener toggleButtonListener;  
   private JPanel buttonsPanel;
 
   public static void main(String[] args) {
@@ -48,19 +48,20 @@ public class SplitPaneWindow4 extends JFrame {
     splitPane.setLeftComponent(buttonsPanel);
     buttonsPanel.setLayout(new GridLayout(0, 1));
 
+    toggleButtonListener = (actionEvent) -> {
+        JToggleButton selectedButton = (JToggleButton) actionEvent.getSource();
+        deselectOthers(selectedButton);
+        int index = findIndexOfAction(actionEvent.getActionCommand());
+        userDataPanel.setUserData(userDataList.get(index));
+      };
+    
     for (UserData data : userDataList) {
       JToggleButton button = new JToggleButton(data.getFirstName() + " "
           + data.getLastName());
       button.setActionCommand(Integer.toString(lastIndex++));
       buttonsPanel.add(button);
       buttons.add(button);
-
-      toggleButtonListener = (actionEvent) -> {
-        JToggleButton selectedButton = (JToggleButton) actionEvent.getSource();
-        deselectOthers(selectedButton);
-        int index = findIndexOfAction(actionEvent.getActionCommand());
-        userDataPanel.setUserData(userDataList.get(index));
-      };
+           
       button.addActionListener(toggleButtonListener);
     }
 
