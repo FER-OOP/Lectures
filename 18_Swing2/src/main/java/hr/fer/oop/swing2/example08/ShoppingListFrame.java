@@ -12,6 +12,7 @@ import java.awt.datatransfer.UnsupportedFlavorException;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.KeyEvent;
+import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.StandardOpenOption;
@@ -176,8 +177,8 @@ public class ShoppingListFrame extends JFrame {
                 chooser.addChoosableFileFilter(new TxtFileFilter());
 
                 int option = chooser.showOpenDialog(ShoppingListFrame.this);
-                if (option == javax.swing.JFileChooser.APPROVE_OPTION) {
-                    java.io.File file = chooser.getSelectedFile();
+                if (option == JFileChooser.APPROVE_OPTION) {
+                    File file = chooser.getSelectedFile();
 
                     try {
                         List<String> lines = Files.readAllLines(file.toPath());
@@ -198,13 +199,13 @@ public class ShoppingListFrame extends JFrame {
         return new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                javax.swing.JFileChooser chooser = new javax.swing.JFileChooser();
+                JFileChooser chooser = new JFileChooser();
                 chooser.addChoosableFileFilter(new TxtFileFilter());
 
                 int option = chooser.showSaveDialog(ShoppingListFrame.this);
-                if (option == javax.swing.JFileChooser.APPROVE_OPTION) {
+                if (option == JFileChooser.APPROVE_OPTION) {
                     try {
-                        java.io.File file = chooser.getSelectedFile();
+                        File file = chooser.getSelectedFile();
 
                         //copy list items to a string list and save it to the disk
                         List<String> items = Arrays.asList(Arrays.copyOf(listModel.toArray(), listModel.size(), String[].class));
