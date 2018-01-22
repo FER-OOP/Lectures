@@ -35,6 +35,7 @@ import javax.swing.SwingUtilities;
 import javax.swing.WindowConstants;
 import javax.swing.event.ListSelectionEvent;
 import javax.swing.event.ListSelectionListener;
+import javax.swing.filechooser.FileFilter;
 
 public class ShoppingListFrame extends JFrame {
 
@@ -292,10 +293,10 @@ public class ShoppingListFrame extends JFrame {
         }
     }
 
-    private static class TxtFileFilter extends javax.swing.filechooser.FileFilter {
+    private static class TxtFileFilter extends FileFilter {
 
         @Override
-        public boolean accept(java.io.File file) {
+        public boolean accept(File file) {
             if (file == null) {
                 return false;
             }
