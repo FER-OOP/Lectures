@@ -60,7 +60,7 @@ public class ShoppingListFrame extends JFrame {
         listModel.addElement("sardine");
 
         //setup list view        
-        JList itemList = new JList(listModel);
+        JList<String> itemList = new JList<>(listModel);
         itemList.setLayoutOrientation(JList.VERTICAL_WRAP);
         itemList.setSelectionMode(ListSelectionModel.SINGLE_SELECTION);
 
