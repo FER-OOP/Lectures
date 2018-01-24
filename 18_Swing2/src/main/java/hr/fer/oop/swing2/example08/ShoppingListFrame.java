@@ -41,8 +41,7 @@ public class ShoppingListFrame extends JFrame {
 
     private final JTextField newItemField;
     private final DefaultListModel<String> listModel;
-    private final JPopupMenu popupMenu;
-    JFileChooser chooser = new javax.swing.JFileChooser();
+    private final JPopupMenu popupMenu;    
     private int selectedIndex = -1;
 
     public ShoppingListFrame() {
@@ -60,7 +59,7 @@ public class ShoppingListFrame extends JFrame {
         listModel.addElement("sardine");
 
         //setup list view        
-        JList itemList = new JList(listModel);
+        JList<String> itemList = new JList<>(listModel);
         itemList.setLayoutOrientation(JList.VERTICAL_WRAP);
         itemList.setSelectionMode(ListSelectionModel.SINGLE_SELECTION);
 
@@ -175,6 +174,7 @@ public class ShoppingListFrame extends JFrame {
             @Override
             public void actionPerformed(ActionEvent e) {
                 //add file filter to chooser
+            	JFileChooser chooser = new javax.swing.JFileChooser();
                 chooser.addChoosableFileFilter(new TxtFileFilter());
 
                 int option = chooser.showOpenDialog(ShoppingListFrame.this);

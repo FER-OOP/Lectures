@@ -157,17 +157,17 @@ public class ImageViewerFrame extends JFrame {
 
                         Action showImageInPanelAction = new ShowImageInPanelAction(image, file.getAbsolutePath());
 
-                        //add image to recent items if not already added
-                        if (!recentItems.contains(file.getAbsolutePath())) {
-                            recentItems.add(file.getAbsolutePath());
-
-                            JMenuItem recentItem = new JMenuItem();
-                            recentItem.setAction(showImageInPanelAction);
-
-                            if (rememberSelectionItem.isSelected()) {
-                                openRecentMenu.add(recentItem);
-                                openRecentMenu.revalidate();
-                            }
+                        if (rememberSelectionItem.isSelected()) {
+	                        //add image to recent items if not already added
+	                        if (!recentItems.contains(file.getAbsolutePath())) {
+	                            recentItems.add(file.getAbsolutePath());
+	
+	                            JMenuItem recentItem = new JMenuItem();
+	                            recentItem.setAction(showImageInPanelAction);
+	
+	                            openRecentMenu.add(recentItem);
+	                            openRecentMenu.revalidate();
+	                        }
                         }
 
                         //show image in panel
