@@ -21,4 +21,11 @@
 			</plugin>
 		</plugins>
 	</build>
+    <dependencies>
+        <dependency>
+            <groupId>commons-validator</groupId>
+            <artifactId>commons-validator</artifactId>
+            <version>1.5.1</version>
+        </dependency>
+    </dependencies>
 </project>

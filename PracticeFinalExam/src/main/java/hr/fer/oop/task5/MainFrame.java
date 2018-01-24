@@ -1,4 +1,4 @@
-package hr.fer.oop.task4;
+package hr.fer.oop.task5;
 
 import java.awt.BorderLayout;
 import java.awt.Dimension;
@@ -10,7 +10,7 @@ import javax.swing.JTextArea;
 import javax.swing.SwingUtilities;
 import javax.swing.SwingWorker;
 
-import hr.fer.oop.task3.FileSearchMonitor;
+import hr.fer.oop.task4.FileSearchMonitor;
 
 public class MainFrame extends JFrame implements FileSearchMonitor {
 

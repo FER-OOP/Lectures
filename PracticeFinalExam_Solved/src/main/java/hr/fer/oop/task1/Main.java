@@ -1,41 +1,29 @@
 package hr.fer.oop.task1;
 
-import java.util.Random;
+import java.util.Set;
+import java.util.stream.Collectors;
 
 public class Main {
-	public static void main(String[] args) {
-		Random r = new Random();
-		int noOfEmployees = 5;
-		SharedData data = new SharedData(noOfEmployees);
 
-		OnAir onAir = new OnAir(data);
-		onAir.setDaemon(true);
-		onAir.start();
+    public static void main(String[] args) {
+        Set<Driver> drivers = DBLoader.loadDrivers();
 
-		for (int i = 0; i < noOfEmployees; i++) {
-			Employee d = new Employee(data, i);
-			d.setDaemon(true);
-			d.start();
-		}
-
-		int i = 0;
-		while (!data.isGameOver()) {
-			++i;
-			String player = Integer.toString(i);
-			try {
-				new Thread(() -> {
-					try {
-						System.out.format("Igrač %s stvoren %n", player);
-						data.getQueue().put(player);
-					} catch (Exception e) {
-						// TODO Auto-generated catch block
-						e.printStackTrace();
-					}
-				}).start();
-				Thread.sleep(r.nextInt(2000));
-			} catch (InterruptedException e) {
-			}
-		}
-
-	}
+        drivers.stream()
+                .filter((d) -> d.getAddress().contains("Zagreb"))
+                .sorted((d1, d2) -> Long.compare(d1.getPid(), d2.getPid()))
+                .forEach(d -> System.out.println(d));
+        
+        Set<Long> oibs = drivers.stream()
+                .filter((d) -> d.getSurName().startsWith("M"))
+                .map((d) -> d.getPid())
+                .collect(Collectors.toSet());
+        
+        //print oibs
+        oibs.forEach(o -> System.out.println(o));
+        
+        drivers.stream()
+                .mapToInt(d -> d.getFirstName().length())
+                .average()
+                .ifPresent(avg -> System.out.println(avg));
+    }
 }

@@ -1,4 +1,4 @@
-package hr.fer.oop.task3;
+package hr.fer.oop.task4;
 
 public interface FileSearchMonitor {
 	public void directoryChangedTo(String directory);

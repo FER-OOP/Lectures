@@ -1,4 +1,4 @@
-package hr.fer.oop.task3;
+package hr.fer.oop.task4;
 
 import java.util.List;
 

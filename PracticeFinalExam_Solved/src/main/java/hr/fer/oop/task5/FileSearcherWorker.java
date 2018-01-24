@@ -1,12 +1,12 @@
-package hr.fer.oop.task4;
+package hr.fer.oop.task5;
 
 import java.util.List;
 
 import javax.swing.SwingUtilities;
 import javax.swing.SwingWorker;
 
-import hr.fer.oop.task3.FileSearchMonitor;
-import hr.fer.oop.task3.FileSearcher;
+import hr.fer.oop.task4.FileSearchMonitor;
+import hr.fer.oop.task4.FileSearcher;
 
 public class FileSearcherWorker extends SwingWorker<List<String>, String> implements FileSearchMonitor {
 

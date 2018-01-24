@@ -1,4 +1,4 @@
-package hr.fer.oop.task2;
+package hr.fer.oop.task3;
 
 import java.awt.BorderLayout;
 import java.awt.Font;
