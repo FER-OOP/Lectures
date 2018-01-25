@@ -53,8 +53,9 @@ public class MainFrame extends JFrame {
 			north.add(btnUp);
 			south.add(btnDown);
 			
-			btnLeft.addActionListener(getActionListener());
-			btnUp.addActionListener(getActionListener());
+			ActionListener listener = getActionListener();
+			btnLeft.addActionListener(listener);
+			btnUp.addActionListener(listener);
 		}
 	}
 	

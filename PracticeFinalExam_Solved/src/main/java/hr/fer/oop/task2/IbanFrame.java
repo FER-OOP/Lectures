@@ -11,23 +11,20 @@ import javax.swing.WindowConstants;
 import org.apache.commons.validator.routines.checkdigit.IBANCheckDigit;
 
 public class IbanFrame extends JFrame {
-
-    private JTextField ibanField;
-    private JTextField validField;
-
+    
     public IbanFrame() {
-        super.setLayout(new GridLayout(3, 2));
+        super.setLayout(new GridLayout(0, 2));
 
         JLabel ibanLabel = new JLabel("IBAN");
         super.add(ibanLabel);
 
-        ibanField = new JTextField("HR", 21);
+        JTextField ibanField = new JTextField("HR", 21);
         super.add(ibanField);
 
         JLabel validLabel = new JLabel("Validan:");
         super.add(validLabel);
 
-        validField = new JTextField();
+        JTextField validField = new JTextField();
         validField.setEditable(false);
         super.add(validField);
 

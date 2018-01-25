@@ -39,25 +39,25 @@ public class FileSearcher {
 	
 	private class MyFileVisitor extends SimpleFileVisitor<Path>{
 		
-		private String toDirectory;
+		private Path to;
 		private List<String> fileNameList;
 
 		public MyFileVisitor(String toDirectory, List<String> list){
-			this.toDirectory = toDirectory;
+			this.to = Paths.get(toDirectory);
 			this.fileNameList = list;
 		}	
 		
 		@Override
 		public FileVisitResult preVisitDirectory(Path dir, BasicFileAttributes attrs) throws IOException {
-			//neće raditi dobro ako je na Windowsima odredišni direktorij zadan s / umjesto \\
-			//ali zanemarvo za ispit
-			//u stvarnosti bi koristili Path i metodu getName i uspoređivali dijelove putanje 			
-			if (!toDirectory.startsWith(dir.toString())){				
-				return FileVisitResult.SKIP_SUBTREE;
+			boolean onGoodPath = to.startsWith(dir);
+			//ili uspoređivati to.GetName(i) i dir.GetName(i) za i od 0 do dir.getNameCount()
+			
+			if (onGoodPath) {
+				monitor.directoryChangedTo(dir.toString());
+				return FileVisitResult.CONTINUE;				
 			}
 			else{
-				monitor.directoryChangedTo(dir.toString());
-				return FileVisitResult.CONTINUE;
+				return FileVisitResult.SKIP_SUBTREE;
 			}
 		}
 		
