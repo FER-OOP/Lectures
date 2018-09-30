@@ -25,7 +25,7 @@ public class TaylorSeriesSum {
 	 * @param number argument of function e^x 
 	 * @return function result for the point x=number calculated as sum of first 10 numbers in Taylor series.
 	 */
-	private static double ePowerX(double x) { 
+	public static double ePowerX(double x) { 
 		double sum = 0.0;
 		double power = 1.0; 
 		double factorial = 1.0;

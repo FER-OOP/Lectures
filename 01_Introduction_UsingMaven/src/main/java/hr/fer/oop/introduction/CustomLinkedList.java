@@ -34,7 +34,7 @@ public class CustomLinkedList{
    * @param name element to add
    * @return new head of the list if list was empty or previous head of the list
    */
-  static Node add(Node head, String name) {
+  public static Node add(Node head, String name) {
     if (head == null){
 		head = new Node();
 		head.value = name;
@@ -56,7 +56,7 @@ public class CustomLinkedList{
    * print list content
    * @param head head of the list
    */
-  static void printList(Node head){	
+  public static void printList(Node head){	
 	int pos=1;
 	while(head != null){
 		System.out.format("%d. %s%n", pos++, head.value);
