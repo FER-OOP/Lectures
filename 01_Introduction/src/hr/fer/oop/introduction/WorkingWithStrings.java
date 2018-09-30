@@ -31,7 +31,7 @@ public class WorkingWithStrings{
    * Concatenation using operator + split across multiple
    * commands is very inefficient. 
    */
-  private static void displayString1() {
+  public static void displayString1() {
 	String text = null;
 	text = "The quick " + "brown ";
 	text += "fox jumps over ";
@@ -45,7 +45,7 @@ public class WorkingWithStrings{
    * Concatenation using operator + in a single line
    * is more efficient. 
    */
-  private static void displayString2() {
+  public static void displayString2() {
 	String text = null;
 	int number = 3;
 	text = "The quick brown fox jumps over " + number + " lazy dogs.";
@@ -61,7 +61,7 @@ public class WorkingWithStrings{
    * Note: prior to Java version 5.0 StringBuffer was significantly 
    * slower
    */
-  private static void displayString3() {
+  public static void displayString3() {
 	String text = null;
 	StringBuilder sb = new StringBuilder();
 	sb.append("The quick ").append("brown ");
@@ -80,7 +80,7 @@ public class WorkingWithStrings{
    * Note: prior to Java version 5.0 StringBuffer was significantly 
    * slower
    */
-  private static void displayString4() {
+  public static void displayString4() {
 	String text = null;
 	StringBuilder sb = new StringBuilder(50);
 	sb.append("The quick ").append("brown ");
