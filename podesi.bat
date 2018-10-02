@@ -1,6 +1,6 @@
 @echo "Podesavamo staze:"
-@SET "JAVA_HOME=C:\Program Files\Java\jdk1.8.0_101"
-@SET "PATH=%PATH%;%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin"
+@SET "JAVA_HOME=D:\Java\jdk-11"
+@SET "PATH=%PATH%;%JAVA_HOME%\bin"
 @echo "JAVA_HOME je postavljen na %JAVA_HOME%"
 @echo "PATH je postavljen na %PATH%"
 @echo "Verzija javinog virtualnog stroja je:"
