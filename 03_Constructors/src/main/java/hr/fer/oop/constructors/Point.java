@@ -32,9 +32,12 @@ public class Point {
 	}
 		
 	@Override
-	  public boolean equals(Object obj) {	    
+	public boolean equals(Object obj) {	    
 	    Point other = (Point) obj;
-	    return x == other.x && y == other.y; 
+	    //return x == other.x && y == other.y;
+	    return Double.compare(x, other.x) == 0
+	    		&&
+	    	   Double.compare(y, other.y) == 0;
 	}
 
 }
