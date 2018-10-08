@@ -35,9 +35,9 @@ public class Point {
 	public boolean equals(Object obj) {	    
 	    Point other = (Point) obj;
 	    //return x == other.x && y == other.y;
-	    return Double.compare(x, other.x) == 0
+	    return Math.abs(x-other.x)<1E-15
 	    		&&
-	    	   Double.compare(y, other.y) == 0;
+	    	   Math.abs(y-other.y)<1E-15;
 	}
 
 }
