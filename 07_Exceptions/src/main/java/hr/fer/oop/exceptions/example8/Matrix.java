@@ -1,4 +1,4 @@
-package hr.fer.oop.exceptions.example9;
+package hr.fer.oop.exceptions.example8;
 
 
 /**

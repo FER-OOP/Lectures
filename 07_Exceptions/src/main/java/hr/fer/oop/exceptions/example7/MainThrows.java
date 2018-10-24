@@ -1,4 +1,4 @@
-package hr.fer.oop.exceptions.example8;
+package hr.fer.oop.exceptions.example7;
 
 import java.io.IOException;
 import java.nio.file.Files;

@@ -1,4 +1,4 @@
-package hr.fer.oop.exceptions.example9;
+package hr.fer.oop.exceptions.example8;
 
 /**
  * This is an general exception which is parent of all 
