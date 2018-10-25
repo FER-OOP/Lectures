@@ -1,18 +1,15 @@
-package hr.fer.oop.lists;
+package hr.fer.oop.example3;
 
-import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Collections;
-import java.util.LinkedList;
 import java.util.List;
-import java.util.Scanner;
 import java.util.function.Predicate;
 
-public class Example3 {
+public class Main {
 
 	public static void main(String[] args) {
 		
-		List<Double> numbers = loadNumbers();
+		List<Double> numbers = Loader.loadNumbers();
 						
 		if(!numbers.isEmpty()) {
 			double avg = calcAverage(numbers);
@@ -31,25 +28,6 @@ public class Example3 {
 			}
 			
 		}				
-	}
-
-	private static List<Double> loadNumbers() {
-		List<Double> numbers = new LinkedList<>();
-		try(Scanner scanner = new Scanner(System.in)){					
-			System.out.println("Enter numbers (quit for end):");
-			while(true) {
-				if(scanner.hasNextDouble()) {
-					numbers.add(scanner.nextDouble());
-					continue;
-				}
-				String value = scanner.next();
-				if("quit".equals(value)) {
-					break;
-				}
-				System.out.println("Unexpected input: " + value);
-			}
-		}
-		return numbers;
 	}
 
 	private static double calcAverage(Collection<Double> numbers) {

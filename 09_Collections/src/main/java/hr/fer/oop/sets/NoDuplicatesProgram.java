@@ -1,6 +1,5 @@
 package hr.fer.oop.sets;
 
-import java.util.Collection;
 import java.util.HashSet;
 import java.util.LinkedHashSet;
 import java.util.Set;

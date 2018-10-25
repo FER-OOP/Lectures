@@ -1,4 +1,4 @@
-package hr.fer.oop.lists;
+package hr.fer.oop.example3;
 
 import java.util.function.Predicate;
 

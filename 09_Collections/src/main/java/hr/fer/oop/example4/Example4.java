@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-import hr.fer.oop.lists.BelowLimit;
+import hr.fer.oop.example3.BelowLimit;
 
 public class Example4 {
 
