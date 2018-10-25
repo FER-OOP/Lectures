@@ -5,7 +5,7 @@ import hr.fer.oop.recapitulation.mylist.MyList;
 public abstract class CargoHolder {
 
     private final double weight;
-    protected final MyList content;
+    private final MyList content;
 
     public CargoHolder(double weight) {
         this.weight = weight;
@@ -30,6 +30,10 @@ public abstract class CargoHolder {
 
     public double getWeight() {
         return this.weight + getCargoWeight();
+    }
+    
+    protected int cargoCount() {
+    	return content.size();
     }
 
     public boolean add(Cargo cargo) {
