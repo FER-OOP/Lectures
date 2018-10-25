@@ -19,13 +19,18 @@ public class Example4 {
 		NumberSource source = new KeyboardNumberSource();
 		//NumberSource source = new FileNumberSource(Paths.get("numbers.txt"));
 		
+		double sum = 0;
+		int count = 0;
 		while(source.hasMoreNumbers()) {
-				numbers.add(source.getNumber());
+			double number = source.getNumber();
+			numbers.add(number);
+			++count;
+			sum += number;
 		}
 		
-		if(!numbers.isEmpty()) {
-			double avg = calcAverage(numbers);
-			double limit = avg*1.2;
+		if(!numbers.isEmpty()) {	
+			double avg = sum / count;
+			double limit = avg * 1.2;
 			
 			//remove all lower than limit
 			numbers.removeIf(new BelowLimit(limit));
@@ -38,13 +43,4 @@ public class Example4 {
 			}
 		}
 	}
-
-	private static double calcAverage(List<Double> numbers) {
-		double sum = 0;
-		for(double d : numbers) {
-			sum += d;
-		}
-		return sum/numbers.size();
-	}
-
 }
