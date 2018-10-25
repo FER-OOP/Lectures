@@ -2,19 +2,17 @@ package hr.fer.oop.generics.example1;
 
 public class BoxingUnboxing {
 
-	public static void main(String[] args) {				
-		IntWrapper number = new IntWrapper(5); // IntWrapper number = new IntWrapper(Integer.valueOf(5)); 
-		System.err.println(number);
+	public static void main(String[] args) {
+		IntegerPoint point = new IntegerPoint(10, 20);
+		// IntegerPoint point = 
+		//	  new IntegerPoint(Integer.valueOf(10), Integer.valueOf(20)); 
+		System.out.println(point);
 		
-		number.setValue(number.getValue()+1);
-		// Integer + int => unboxing => number.setValue(number.getValue().intValue()+1); 
-		// Sada: int + int => int as argument => number.setValue(Integer.valueOf(number.getValue().intValue()+1)); 
+		int sum = point.getX() + point.getY();
+		// Integer + Integer => 
+		// unboxing => point.getX().intValue() + point.getY().intValue(); 		
 
-		System.err.println(number);
-		
-		DoubleWrapper doubleNumber = new DoubleWrapper(2.5);
-		System.err.println(doubleNumber);
-		doubleNumber.setValue(doubleNumber.getValue()+1);
-		System.err.println(doubleNumber);		
+		System.out.println(sum);
+	
 	}		
 }

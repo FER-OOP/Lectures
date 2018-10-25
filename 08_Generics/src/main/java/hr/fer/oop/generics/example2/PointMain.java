@@ -28,11 +28,13 @@ public class PointMain {
         // so now the following line will compile, but
         // will never execute since the previous one will
         // throw an exception...
-        System.out.println(i.doubleValue());
+        System.out.println(i.intValue());
     }
 
     private static Point<Integer> updateRandomlyInt(Point<Integer> point) {
-        return new Point<>(point.getX()+1, point.getY()+1);
+    	int addX = (int) Math.round(Math.random());
+    	int addY = (int) Math.round(Math.random());
+        return new Point<>(point.getX()+addX, point.getY()+addY);
     }
 
     private static Point<Double> updateRandomlyDouble(Point<Double> point) {

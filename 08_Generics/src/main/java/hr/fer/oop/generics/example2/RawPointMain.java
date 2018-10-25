@@ -15,10 +15,12 @@ public class RawPointMain {
 	}
 
 	private static Point updateRandomlyInt(Point point) {
+		int addX = (int) Math.round(Math.random());
+    	int addY = (int) Math.round(Math.random());
 		Integer x = (Integer)point.getX();
 		Integer y = (Integer)point.getY();
-		return new Point(Integer.valueOf(x.intValue()+1),
-				Integer.valueOf(y.intValue()+1));
+		return new Point(Integer.valueOf(x.intValue()+addX),
+				Integer.valueOf(y.intValue()+addY));
 	}
 
 	private static Point updateRandomlyDouble(Point point) {
