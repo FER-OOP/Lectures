@@ -2,15 +2,16 @@ package hr.fer.oop.testing.example3;
 
 import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.CoreMatchers.nullValue;
-import static org.junit.Assert.assertThat;
-import org.junit.Before;
-import org.junit.Test;
+import static org.hamcrest.MatcherAssert.assertThat;
+
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
 
 public class MemoryDictionaryTest {
 
     private Dictionary dictionary;
 
-    @Before
+    @BeforeEach
     public void setUp() {
         dictionary = new MemoryDictionary("knjiga", "book", "stvar", "thing");
     }

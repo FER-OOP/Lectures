@@ -1,17 +1,18 @@
 package hr.fer.oop.testing.example2;
 
+import static org.hamcrest.CoreMatchers.containsString;
 import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.CoreMatchers.not;
-import static org.hamcrest.CoreMatchers.containsString;
-import org.junit.Test;
-import static org.junit.Assert.*;
-import org.junit.Before;
+import static org.hamcrest.MatcherAssert.assertThat;
+
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
 
 public class StringBuilderTest5 {
 
     private StringBuilder sb;
 
-    @Before
+    @BeforeEach
     public void setUp() {
         sb = new StringBuilder();
     }

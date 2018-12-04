@@ -5,15 +5,16 @@ import static org.hamcrest.CoreMatchers.containsString;
 import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.CoreMatchers.not;
 import static org.hamcrest.CoreMatchers.nullValue;
-import static org.junit.Assert.assertThat;
-import org.junit.Before;
-import org.junit.Test;
+import static org.hamcrest.MatcherAssert.assertThat;
+
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
 
 public class MultiWordMemoryDictionaryTest {
 
     private MultiWordMemoryDictionary dictionary;
 
-    @Before
+    @BeforeEach
     public void setUp() {
         dictionary = new MultiWordMemoryDictionary("osjećaj", "feeling", "osjećaj", "emotion");
     }

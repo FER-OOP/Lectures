@@ -1,15 +1,17 @@
 package hr.fer.oop.testing.example5;
 
-import com.erp.ExchangeRateProvider;
 import static org.hamcrest.CoreMatchers.is;
-import static org.junit.Assert.assertThat;
-import org.junit.Before;
-import org.junit.Test;
+import static org.hamcrest.MatcherAssert.assertThat;
+
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+
+import com.erp.ExchangeRateProvider;
 
 public class CHFCalculatorTest {
     private CHFCalculator calculator;
 
-    @Before
+    @BeforeEach
     public void setUp() {
         calculator = new CHFCalculator(new ExchangeRateProvider("sSqBg-VaQrq-aBm4L"));
     }

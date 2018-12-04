@@ -1,31 +1,22 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package hr.fer.oop.testing.example1;
 
-import org.junit.Test;
-import static org.junit.Assert.*;
+import static org.junit.jupiter.api.Assertions.*;
+import org.junit.jupiter.api.Test;
 
-/**
- *
- * @author Krešimir Pripužić <kresimir.pripuzic@fer.hr>
- */
 public class StringBuilderTest2 {
 
     @Test
     public void testEmpty() {
-        StringBuilder sb = new StringBuilder();
-        assertTrue("contains something", sb.toString().equals(""));
-        assertTrue("length not equal to: -1", sb.length() == -1);
+        StringBuilder sb = new StringBuilder();       
+        assertTrue(sb.toString().equals(""), "contains something");
+        assertTrue(sb.length() == -1, "length not equal to: -1");
     }
 
     @Test
     public void testAppend() {
         StringBuilder sb = new StringBuilder();
         sb.append("Some text");
-        assertEquals("text not equal to: S0me text", "S0me text", sb.toString());
-        assertEquals("length not equal to: 10", 10, sb.length());
+        assertEquals("S0me text", sb.toString(), "text not equal to: S0me text");
+        assertEquals(10, sb.length(), "length not equal to: 10");
     }
 }

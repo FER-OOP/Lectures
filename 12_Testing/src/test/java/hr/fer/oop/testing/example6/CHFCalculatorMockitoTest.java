@@ -1,19 +1,20 @@
 package hr.fer.oop.testing.example6;
 
-import com.erp.ExchangeRateProvider;
-import hr.fer.oop.testing.example5.CHFCalculator;
+import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.closeTo;
-import static org.junit.Assert.assertThat;
-import org.junit.Before;
-import org.junit.Test;
-import org.junit.runner.RunWith;
-import org.mockito.Mock;
 import static org.mockito.Mockito.times;
 import static org.mockito.Mockito.verify;
 import static org.mockito.Mockito.when;
-import org.mockito.junit.MockitoJUnitRunner;
 
-@RunWith(MockitoJUnitRunner.class)
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+import org.mockito.Mock;
+import org.mockito.MockitoAnnotations;
+
+import com.erp.ExchangeRateProvider;
+
+import hr.fer.oop.testing.example5.CHFCalculator;
+
 public class CHFCalculatorMockitoTest {
 
     private CHFCalculator calculator;
@@ -21,8 +22,9 @@ public class CHFCalculatorMockitoTest {
     @Mock
     ExchangeRateProvider mockErp;
 
-    @Before
+    @BeforeEach
     public void setUp() {
+    	MockitoAnnotations.initMocks(this);
         calculator = new CHFCalculator(mockErp);
     }
 

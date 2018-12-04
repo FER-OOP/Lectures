@@ -1,32 +1,29 @@
 package hr.fer.oop.testing.example6;
 
-import com.erp.ExchangeRateProvider;
-import hr.fer.oop.testing.example5.CHFCalculator;
-import org.easymock.EasyMock;
+import static org.hamcrest.MatcherAssert.assertThat;
 import static org.easymock.EasyMock.expect;
+import static org.easymock.EasyMock.mock;
 import static org.easymock.EasyMock.replay;
 import static org.easymock.EasyMock.verify;
-import org.easymock.EasyMockRunner;
-import org.easymock.Mock;
-import org.easymock.MockType;
-import org.easymock.TestSubject;
 import static org.hamcrest.Matchers.closeTo;
-import static org.junit.Assert.assertThat;
-import org.junit.Before;
-import org.junit.Test;
-import org.junit.runner.RunWith;
 
-@RunWith(EasyMockRunner.class)
-public class CHFCalculatorEasyMockTest {
+import org.easymock.EasyMock;
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
 
-    @TestSubject
+import com.erp.ExchangeRateProvider;
+
+import hr.fer.oop.testing.example5.CHFCalculator;
+
+public class CHFCalculatorEasyMockTest  {
+   
     private CHFCalculator calculator = new CHFCalculator(null);
-
-    @Mock(type = MockType.STRICT)
+   
     ExchangeRateProvider mockErp;
 
-    @Before
-    public void setUp() {
+    @BeforeEach
+    public void setUp() {   
+    	mockErp = mock(ExchangeRateProvider.class);
         calculator = new CHFCalculator(mockErp);
     }
 
