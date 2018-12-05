@@ -8,13 +8,15 @@ import static org.mockito.Mockito.when;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.Mock;
-import org.mockito.MockitoAnnotations;
+import org.mockito.junit.jupiter.MockitoExtension;
 
 import com.erp.ExchangeRateProvider;
 
 import hr.fer.oop.testing.example5.CHFCalculator;
 
+@ExtendWith(MockitoExtension.class)
 public class CHFCalculatorMockitoTest {
 
     private CHFCalculator calculator;
@@ -23,8 +25,7 @@ public class CHFCalculatorMockitoTest {
     ExchangeRateProvider mockErp;
 
     @BeforeEach
-    public void setUp() {
-    	MockitoAnnotations.initMocks(this);
+    public void setUp() {    	
         calculator = new CHFCalculator(mockErp);
     }
 
