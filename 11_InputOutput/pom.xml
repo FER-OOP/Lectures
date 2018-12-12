@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>hr.fer.oop</groupId>
   <artifactId>11_InputOutput</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.0</version>
   <name>11_InputOutput</name>
   <properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
