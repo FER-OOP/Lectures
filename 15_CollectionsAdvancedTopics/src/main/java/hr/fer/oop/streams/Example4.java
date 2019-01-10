@@ -7,7 +7,7 @@ public class Example4 {
 	public static void main(String[] args) {
 		List<Student> students = StudentData.load();
 		//print sorted by last name
-		System.out.println("---Students with grade > 3, sorted---");
+		System.out.println("---Students with grade 5, sorted---");
 		students.stream()
 				.filter(s -> s.getFinalGrade() == 5)
 				.sorted(Student.BY_LAST_NAME)
