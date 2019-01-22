@@ -144,7 +144,7 @@ public class FactorialCalculatorFrame2 extends JFrame {
                 }
 
                 //publish progress update
-                publish((int) Math.round((i * 100) / number));
+                publish((i * 100) / number);
             }
 
             return factorial;
