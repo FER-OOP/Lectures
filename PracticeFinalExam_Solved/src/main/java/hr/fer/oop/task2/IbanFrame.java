@@ -13,23 +13,23 @@ import org.apache.commons.validator.routines.checkdigit.IBANCheckDigit;
 public class IbanFrame extends JFrame {
     
     public IbanFrame() {
-        super.setLayout(new GridLayout(0, 2));
+        setLayout(new GridLayout(0, 2));
 
         JLabel ibanLabel = new JLabel("IBAN");
-        super.add(ibanLabel);
+        add(ibanLabel);
 
         JTextField ibanField = new JTextField("HR", 21);
-        super.add(ibanField);
+        add(ibanField);
 
         JLabel validLabel = new JLabel("Validan:");
-        super.add(validLabel);
+        add(validLabel);
 
         JTextField validField = new JTextField();
         validField.setEditable(false);
-        super.add(validField);
+        add(validField);
 
         //empty label to occupy space
-        super.add(new JLabel());
+        add(new JLabel());
 
         JButton button = new JButton("Validiraj");
 
@@ -52,7 +52,7 @@ public class IbanFrame extends JFrame {
             new Thread(heavyTask).start();
         });
 
-        super.add(button);
+        add(button);
     }
 
     public static void main(String[] args) {

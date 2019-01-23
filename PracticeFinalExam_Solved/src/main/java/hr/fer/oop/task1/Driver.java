@@ -3,13 +3,13 @@ package hr.fer.oop.task1;
 public class Driver {
 
     private String firstName;
-    private String surName;
+    private String surname;
     private String address;
     private long pid;
 
-    public Driver(String firstName, String surName, String address, long pid) {
+    public Driver(String firstName, String surname, String address, long pid) {
         this.firstName = firstName;
-        this.surName = surName;
+        this.surname = surname;
         this.address = address;
         this.pid = pid;
     }
@@ -18,8 +18,8 @@ public class Driver {
         return firstName;
     }
 
-    public String getSurName() {
-        return surName;
+    public String getSurname() {
+        return surname;
     }
 
     public String getAddress() {
@@ -33,6 +33,6 @@ public class Driver {
     //metodu toString smo izgenerirali iz razvojne okoline NetBeans (Source -> Insert Code... -> toString()...)
     @Override
     public String toString() {
-        return "Driver{" + "firstName=" + firstName + ", surName=" + surName + ", address=" + address + ", pid=" + pid + '}';
+        return "Driver{" + "first name=" + firstName + ", surname=" + surname + ", address=" + address + ", pid=" + pid + '}';
     }
 }

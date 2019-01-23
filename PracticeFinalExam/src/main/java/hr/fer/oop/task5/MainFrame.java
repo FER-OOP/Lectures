@@ -14,7 +14,7 @@ import hr.fer.oop.task4.FileSearchMonitor;
 
 public class MainFrame extends JFrame implements FileSearchMonitor {
 
-    JTextArea text;
+    private JTextArea text;
 
     public MainFrame() {
         text = new JTextArea();

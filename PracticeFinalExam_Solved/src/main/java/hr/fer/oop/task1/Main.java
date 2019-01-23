@@ -14,7 +14,7 @@ public class Main {
                 .forEach(d -> System.out.println(d));
         
         Set<Long> oibs = drivers.stream()
-                .filter((d) -> d.getSurName().startsWith("M"))
+                .filter((d) -> d.getSurname().startsWith("M"))
                 .map((d) -> d.getPid())
                 .collect(Collectors.toSet());
         
