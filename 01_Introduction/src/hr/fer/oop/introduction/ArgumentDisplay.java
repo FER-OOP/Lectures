@@ -12,7 +12,7 @@ public class ArgumentDisplay {
    public static void main(String[] args) { 
       int argumentNum = args.length;
       for(int i = 0; i < argumentNum; i++) { 
-         System.out.println("Argument " + (i+1) + ": " + args[i]);
+         System.out.printf("Argument %d: %s%n", i+1, args[i]);
       }
     }
 }
