@@ -1,6 +1,5 @@
 package hr.fer.oop.introduction.random;
 
-
 /**
  * Task 2:
  * You need to create an integer array. Size of array is given as arguments of the main program. 
@@ -10,11 +9,11 @@ package hr.fer.oop.introduction.random;
  * integer in the array and print them and their index in the array (in case of duplicated values return the index of first appearing one).
  *  
  * Zadatak 2:
- * Potrebno je napraviti program koji stvara polje cijelih brojeva (int). Veliï¿½ina polja odreï¿½ena je argumentom iz glavnog programa.
- * Moï¿½ete pretpostaviti da ï¿½e korisnik unijeti ispravan argument te nije potrebno izvoditi provjere nad argumentom.
- * Potom polje je potrebno popuniti nasumniï¿½nim brojevima iz raspona 0-100.
- * Nakon punjenja polja, program treba silazno ispisati sadrï¿½aj polja (od zadnjeg elementa prema prvom). Takoï¿½er potrebno je pronaï¿½i
- * najveï¿½i i najmanji element u polju, te ih ispisati kao i njihove indekse (u sluï¿½aju da se pojave dupliciranje vrijednosti ispisati indeks onog koji se pojavljuje prvi).
+ * Potrebno je napraviti program koji stvara polje cijelih brojeva (int). Velièina polja odreðena je argumentom iz glavnog programa.
+ * Možete pretpostaviti da æe korisnik unijeti ispravan argument te nije potrebno izvoditi provjere nad argumentom.
+ * Potom polje je potrebno popuniti nasumiènim brojevima iz raspona 0-100.
+ * Nakon punjenja polja, program treba silazno ispisati sadržaj polja (od zadnjeg elementa prema prvom). Takoðer potrebno je pronaæi
+ * najveæi i najmanji element u polju, te ih ispisati kao i njihove indekse (u sluèaju da se pojave dupliciranje vrijednosti ispisati indeks onog koji se pojavljuje prvi).
  *  
  * @author OOP
  *
@@ -23,15 +22,17 @@ package hr.fer.oop.introduction.random;
 public class RandomAndArrays {
 	
 	public static void main(String[] args) {
+		
 		if(args.length != 1) {
 			System.err.println("A program needs argument for array length!");
 			System.exit(1);
-		}		
+		}
+		
 				
 		//parsing value of array size from input parameters
 		int arraySize = Integer.parseInt(args[0]);
 		//creating array of certain size
-		int[] randomArray = new int[arraySize]; //at this point array is filled with zeros
+		int[] randomArray = new int[arraySize]; //at this point array is filled with null's
 				
 		//filling array with values from 0-100. Since Math.random returns double values from 0-1, 
 		//we need to multiply those with 100 and cast to int
