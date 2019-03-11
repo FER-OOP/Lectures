@@ -3,7 +3,7 @@ package hr.fer.oop.inheritance_polymorphism;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 
-public class Food extends Item implements IPerishable {
+public class Food extends Item implements Perishable {
 	private double weight;
 	private LocalDate bestBefore;
 	public double getWeight() {

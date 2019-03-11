@@ -17,8 +17,8 @@ public class ShowPerishableItems {
 	private static void printPerishableItems(Item[] items) {				
 		DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd.MM.yyyy.");				
 		for(Item item:items){
-			if (item instanceof IPerishable){
-				IPerishable perishable = (IPerishable) item;
+			if (item instanceof Perishable){
+				Perishable perishable = (Perishable) item;
 				System.out.format("%s, type: %s, use before: %s %n", item, item.getItemType(),
 						perishable.getBestBefore().format(formatter));
 			}			

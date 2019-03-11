@@ -2,7 +2,7 @@ package hr.fer.oop.inheritance_polymorphism;
 
 import java.time.LocalDate;
 
-public final class Milk extends Beverage implements IPerishable {
+public final class Milk extends Beverage implements Perishable {
 	private MilkType type;
 	private double fatPercentage;
 	
