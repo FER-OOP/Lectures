@@ -1,6 +1,5 @@
 package hr.fer.oop.introduction.strings;
 
-
 /**
  * Task 1:
  * * Your task is to concatenate all received parameters into one string separated with semicolon character (CSV format), for example for                                                                                                                                                                                        
@@ -14,15 +13,14 @@ package hr.fer.oop.introduction.strings;
  *  character - ";". Received substring needs to be printed on standard output.
  * 
  * Zadatak 1:
- * Vaï¿½ zadatak je spojiti (konkatenirati) sve primljene parametre u jedan niz znakova (String) odvojene toï¿½komzarez (CSV format), npr.
- * za primljeni niz parametara "jedan dva tri", znakovni niz bi trebao izgledati "jedan;dva;tri;". Ovaj znakvni niz koristit ï¿½e se u nastavku za podzadatke.
+ * Vaš zadatak je spojiti (konkatenirati) sve primljene parametre u jedan niz znakova (String) odvojene toèkom zarez (CSV format), npr. za primljeni niz parametara "jedan dva tri", znakovni niz bi trebao izgledati "jedan;dva;tri;". Ovaj znakovni niz koristit æe se u nastavku za pod zadatke
  * a) separacija znakovnog niza
- * 	potrebno je napisati metodu za separaciju znakovnog niza po znaku toï¿½kezarez - ";". Dobivene dijelove isprintati na standardni izlaz
- * b) indeksOdreï¿½enogZnaka
- * 	potrebno je napisati metodu za pronalazk prvog i zadnjeg indeksa odreï¿½enog znaka, u ovom sluï¿½aju toï¿½kezarez - ";" te ih potom ispisati na poï¿½etni ekran
+ * potrebno je napisati metodu za separaciju znakovnog niza po znaku toèke zarez - ";". Dobivene dijelove isprintati na standardni izlaz
+ * b) indeksOdreðenogZnaka
+ * potrebno je napisati metodu za pronalazak prvog i zadnjeg indeksa odreðenog znaka, u ovom sluèaju toèke zarez - ";" te ih potom ispisati na poèetni ekran
  * c) podniz
- * 	potrebno je napisati metodu za pronalazak odreï¿½enog podniza. Podniz se u ovom sluï¿½aju sastoji od dijela iza prve toï¿½ke zarez pa sve do zadnje toï¿½kezarez.
- * Dobiveni podniz je potrebno ispisati na standardni izlaz
+ * potrebno je napisati metodu za pronalazak odreðenog podniza. Podniz se u ovom sluèaju sastoji od dijela iza prve toèke zarez pa sve do zadnje toèke zarez. Dobiveni podniz je potrebno ispisati na standardni izlaz
+ *
  * 
  * 
  * @author OOP
@@ -41,7 +39,7 @@ public class AdvancedWorkingWithStrings {
 				
 		text = sb.toString();
 		
-		if (!text.isEmpty()) {		
+		if (!text.isEmpty()) {	
 			System.out.println(text);
 			System.out.println();
 			split();
