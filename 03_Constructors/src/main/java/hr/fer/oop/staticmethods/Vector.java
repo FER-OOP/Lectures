@@ -20,16 +20,15 @@ public class Vector {
 	public Vector(double x, double y){
 		this.p = new Point(x, y);		
 	}
-			
-	@Override
-	public String toString() {
+				
+	public void print() {
 		//(this.p.x, this.p.y) = a1 * (alpha1.x , alpha1.y) + a2 *  (alpha2.x , alpha2.y)
 		// => alpha1.x * a1 + alpha2.x * a2 = this.p.x
 		// => alpha1.y * a1 + alpha2.y * a2 = this.p.y
 		//need to find a1 and a2 => coeff = (a1,a2)		
 		Point coeff = EquationsSolver.Solve(alpha1.p.getX(), alpha2.p.getX(), p.getX(),
 								   alpha1.p.getY(), alpha2.p.getY(), p.getY() );
-		return String.format("(%.2f, %.2f) = %.2f * (%.2f, %.2f) + %.2f * (%.2f, %.2f)", 
+		System.out.format("(%.2f, %.2f) = %.2f * (%.2f, %.2f) + %.2f * (%.2f, %.2f)%n", 
 				p.getX(), p.getY(),
 				coeff.getX(), alpha1.p.getX(), alpha1.p.getY(),
 				coeff.getY(), alpha2.p.getX(), alpha2.p.getY()

@@ -6,20 +6,20 @@ public class Main {
 		Point b = new Point(6,0);
 		Point c = new Point(3,5);
 		Point center = Point.centerOf(a, b, c);
-		System.out.println(center.toString()); //toString ovdje nije bio nužan, ali je dodan da se naglasi razlika između statičke i ne-statičke
+		center.print();
 		
 		Point[] points = new Point[] {a, b, c};
 		center = Point.centerOf(points);
-		System.out.println(center);
+		center.print();
 		
-		System.out.println(Point.centerOf(a, b));
-		System.out.println(Point.centerOf(a, b, c));
-		System.out.println(Point.centerOf(a, b, c, new Point(4,8)));
+		Point.centerOf(a, b).print();
+		Point.centerOf(a, b, c).print();
+		Point.centerOf(a, b, c, new Point(4,8)).print();;
 		
 		Vector v = new Vector(new Point(3,4));
-		System.out.println(v);
+		v.print();
 		Vector.alpha1 = new Vector(1,1);
 		Vector.alpha2 = new Vector(-1,2);
-		System.out.println(v);
+		v.print();
 	}
 }
