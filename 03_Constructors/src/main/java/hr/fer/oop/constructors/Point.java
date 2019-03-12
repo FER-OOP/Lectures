@@ -25,15 +25,12 @@ public class Point {
 	public Point(Point p){
 		this(p.x, p.y);
 	}
-	
-	@Override
-	public String toString(){
-		return "(" + x + ", " + y + ")";		
-	}
 		
-	@Override
-	public boolean equals(Object obj) {	    
-	    Point other = (Point) obj;
+	public void print(){
+		System.out.printf("(%.2f, %.2f)%n", x, y);		
+	}
+			
+	public boolean isEqualTo(Point other) {	    
 	    //return x == other.x && y == other.y;
 	    return Math.abs(x-other.x)<1E-15
 	    		&&
