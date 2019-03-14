@@ -1,14 +1,16 @@
 package hr.fer.oop.constructors;
+
+import hr.fer.oop.constructors.operations.PointOperations;
+
 public class Main {
 	
 	public static void main(String[] args) {
-		Point p1 = new Point(2, 5);
-		Point p2 = new Point(p1);		
-		System.out.println("p1.equals(p2) : " + p1.equals(p2));
-		p1.setX(1); 
-		p1.setY(2);
-		System.out.println("p1.equals(p2) : " + p1.equals(p2));
-		System.out.println(p1);
-		System.out.println(p2);		
+		Point a = new Point(1, 1);
+		Point b = new Point(-2, 3);
+		Point c = new Point(-3, -3);
+		Point d = new Point(4, -2);
+		
+		Point mostDistantPoint = PointOperations.pointMostDistantFromOrigin(a, b, c, d);
+		System.out.println(mostDistantPoint);
 	}
 }
