@@ -16,7 +16,7 @@ public class HourBasedWorker extends Worker {
     }
 
     @Override
-    public void calculateSalary(BankManager bankManager) {
+    public void paySalary(BankManager bankManager) {
         if (workingHours < MONTHLY_WORKING_HOURS) {
             bankManager.payment(this, workingHours * salaryPerHour);
         } else {

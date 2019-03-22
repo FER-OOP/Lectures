@@ -20,7 +20,7 @@ public class Salesman extends Worker {
     }
 
     @Override
-    public void calculateSalary(BankManager bankManager) {
+    public void paySalary(BankManager bankManager) {
         bankManager.payment(this, minSalary + turnover * SALARY_PERCENT);
     }
 }

@@ -20,7 +20,7 @@ public class Main {
         employeeList[2] = hourWorker2;
 
         for (SalaryCalculator salaryCalculator : employeeList) {
-            salaryCalculator.calculateSalary(bankManager);
+            salaryCalculator.paySalary(bankManager);
         }
     }
 }
