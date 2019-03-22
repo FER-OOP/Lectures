@@ -4,18 +4,14 @@ public class Fraction {
 
     private int numerator; //brojnik
     private int denominator; //nazivnik
-
+    
+    private Fraction() { } 
+    
     public Fraction(int numerator, int denominator) {
         this.numerator = numerator;
         this.denominator = denominator;
     }
-
-    public void add(Fraction fraction) {
-        numerator = numerator * fraction.denominator + fraction.numerator * denominator;
-        denominator *= fraction.denominator;
-        simplify();
-    }
-
+    
     private void simplify() {
         int gcd = gcd(Math.abs(numerator), Math.abs(denominator));
         numerator /= gcd;
@@ -28,34 +24,46 @@ public class Fraction {
         }
     }
 
-    public void subtract(Fraction fraction) {
-        Fraction negatedFraction = new Fraction(fraction.numerator, fraction.denominator);
-        negatedFraction.negate();
-        add(negatedFraction);
+    public Fraction add(Fraction fraction) {
+    	Fraction f = new Fraction();
+        f.numerator = this.numerator * fraction.denominator + fraction.numerator * this.denominator;
+        f.denominator = this.denominator * fraction.denominator;
+        f.simplify();
+        return f;
+    }
+   
+    public Fraction subtract(Fraction fraction) {
+        Fraction negatedFraction = new Fraction(-fraction.numerator, fraction.denominator);
+        return add(negatedFraction);        
     }
 
-    public void multiply(Fraction fraction) {
-        numerator *= fraction.numerator;
-        denominator *= fraction.denominator;
-        simplify();
+    public Fraction multiply(Fraction fraction) {
+    	Fraction f = new Fraction();
+        f.numerator = this.numerator * fraction.numerator;
+        f.denominator = this.denominator * fraction.denominator;
+        f.simplify();
+        return f;
     }
 
-    public void divide(Fraction fraction) {
-        Fraction invertedFraction = new Fraction(fraction.numerator, fraction.denominator);
-        invertedFraction.invert();
-        multiply(invertedFraction);
+    public Fraction divide(Fraction fraction) {       
+        return multiply(fraction.invert());
     }
 
-    public void invert() {
-        int oldNumerator = numerator;
-        numerator = denominator;
-        denominator = oldNumerator;
+    public Fraction negate() {
+    	return new Fraction(-numerator, denominator);
     }
-
-    private void negate() {
-        numerator = -numerator;
+    
+    public Fraction invert() {
+    	Fraction inverted = new Fraction(denominator, numerator);
+        
+    	//put minus before numerator
+        if (inverted.denominator < 0) {
+        	inverted.denominator = -inverted.denominator;
+        	inverted.numerator = -inverted.numerator;
+        }
+        return inverted;
     }
-
+    
     private static int gcd(int x, int y) {
         while(y != 0){
         	int t = y;
@@ -67,6 +75,6 @@ public class Fraction {
 
     @Override
     public String toString() {
-        return numerator + " / " + denominator;
+        return numerator + "/" + denominator;
     }
 }
