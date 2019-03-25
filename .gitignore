@@ -173,4 +173,6 @@ fabric.properties
 # modules.xml
 # .idea/misc.xml 
 # *.ipr
+
+#MacOS file attributes
 .DS_Store
