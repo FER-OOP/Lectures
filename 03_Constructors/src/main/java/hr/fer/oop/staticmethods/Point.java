@@ -61,14 +61,14 @@ public class Point {
 		return p;		
 	}
 	
-	@Override		
-	public String toString(){
-		return "(" + x + ", " + y + ")";		
+	public void print(){
+		System.out.printf("(%.2f, %.2f)%n", x, y);		
 	}
-	
-	@Override
-	public boolean equals(Object obj) {	    
-	    Point other = (Point) obj;
-	    return x == other.x && y == other.y; 
+			
+	public boolean isEqualTo(Point other) {	    
+	    //return x == other.x && y == other.y;
+	    return Math.abs(x-other.x)<1E-15
+	    		&&
+	    	   Math.abs(y-other.y)<1E-15;
 	}
 }
