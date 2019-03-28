@@ -1,6 +1,6 @@
 package hr.fer.oop.recapitulation.mylist;
 
-public class MyListElement {
+class MyListElement {
     private Object content;
     private MyListElement next;
 
