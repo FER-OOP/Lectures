@@ -7,8 +7,9 @@ import java.util.List;
 
 public class Example1 {
 
-	public static void main(String[] args) {
-		List<String> list = Arrays.asList("Ivo", "Ana", "Jasna");
+	public static void main(String[] args) {	
+		//List<String> list = Arrays.asList("Ivo", "Ana", "Jasna");
+		List<String> list = List.of("Ivo", "Ana", "Jasna");
 		
 		List<String> list1 = new ArrayList<>(list);
 		write(list1);
