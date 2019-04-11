@@ -41,10 +41,14 @@ public class ParametrizedArrayList<T extends Comparable<T>> { // T is the type f
 	public boolean add(T o) {
 		ensureCapacity(size + 1);
 		int i=0;
+		// Find the place to put the new object, so that the array remains sorted
 		while(i<size && o.compareTo(elementData[i])>=0) i++;
+		// If the new object is the "greatest" one, put it in the last place
 		if(i==size) elementData[size++]=o;
 		else {
+			// If somewhere in the middle, move the remainder of the array for one place
 			for(int j=size++;j>i;j--) elementData[j]=elementData[j-1];
+			// Insert the new object in between
 			elementData[i]=o;
 		}
 		return true;
