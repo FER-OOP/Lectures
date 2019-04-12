@@ -9,20 +9,22 @@ import hr.fer.oop.generics.list.ParametrizedArrayList;
  * type of toys, cars and teddy bears. Ivan gave Marko plastic bags and card boxes to put his toys
  * in them. Marko has one rule: not to mix toy types in the same plastic bag or card box. Once he
  * puts a car in a plastic bag or card box, he needs to fill it with cars.
- * Each plastic bag and card box has its own capacity in cm3 (cubic centimeters), as each toy has
- * its own volume in cm3. Containers cannot be overfilled, i.e., if a toy exceeds the capacity of
- * the container, it must be put into another one.
+ * Each plastic bag and card box has its own capacity in cm3 (cubic centimeters).
+ * Plastic bag capacity is 6000 cm3. Card box capacity is 50000 cm3. Each toy has its own volume in cm3. 
+ * Containers cannot be overfilled, i.e., if a toy exceeds the capacity of the container, it must be 
+ * put into another one.
  * 
  * Use ParametrizedArrayList created in task 1.
  * 
  * Zadatak 3
  * 
- * Ivan ima sina Marka koji treba pospremiti sobu u kojoj se igra. U igraonici, Marko ima dva tipa
+ * Ivan ima sina Marka koji treba pospremiti sobu u kojoj se igra. U sobi za igranje, Marko ima dva tipa
  * igračaka: autiće i medeke. Ivan je dao Marku plastične vrećice i kartonske kutije kako bi pospremio
  * svoje igračke, uz jedno pravilo: svaka plastična vrećica ili kartonska kutija mora sadržavati samo
  * jedan tip igračaka. Jednom kada je u vrećicu ili kutiju stavljen autić, ta vrećica ili kutija
  * mora biti do kraja napunjena autićima.
  * Svaka plastična vrećica i kartonska kutija ima svoj volumni kapacitet izražen u kubnim centimetrima.
+ * Plastična vrećica tako ima kapacitet od 6000 cm3, a kartonska kutija 50000 cm3.
  * Svaka igračka ima svoju veličinu izraženu isto u kubnim centimetrima. Vrećice i kutije ne smiju
  * biti prepunjene, to jest ako igračka ne stane u vrećicu ili kutiju, mora se spremiti u drugu, u
  * kojoj još ima slobodnog mjesta.
