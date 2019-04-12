@@ -43,7 +43,7 @@ public class RoomCleanUp {
 			PlasticBag<CarToy> bag1=new PlasticBag<CarToy>();
 			CarToy car1=new CarToy(500,"The red car");
 			bag1.addToy(car1);
-			CarToy car2=new CarToy(1500,"The buldoger");
+			CarToy car2=new CarToy(1500,"The bulldozer");
 			bag1.addToy(car2);
 			bags.add(bag1);
 			
