@@ -6,20 +6,18 @@ import java.text.SimpleDateFormat;
 /**
  * Task 2
  * 
- * Implement a sorting variant of list from task 1. The list must have a parameterized type 
- * that is an implementation of the Comparable<T> interface. The list must implement method 
- * sort() that can be used to sort the list.
- * Elements of the list must be persons defined in the task 1, now implementing the Comparable<T>
- * interface.
+ * Implement a sorting variant of the list from task 1. The list must have a parameterized type 
+ * that is an implementation of the Comparable<T> interface. The list must be automatically sorted
+ * when adding an object to the list. Elements of the list must be persons defined in the task 1, 
+ * now implementing the Comparable<T> interface.
  * The list of persons must be sorted ascending by birth dates. 
  * 
  * Zadatak 2
  * 
- * Implementirajte sortirajuću varijantu liste iz zadatka 1. Lista mora imati parametrizirani tip
- * koji implementira sučelje Comparable<T>. Lista također mora imati sort() metodu, kojom se lista
- * sortira.
- * Elementi liste moraju biti osobe iz prvog zadatak, no klasa sada mora implementirati sučelje
- * Comparable<T> kako bi se mogla koristiti u sortirajućoj listi.
+ * Implementirajte sortirajuću varijantu liste iz zadatka 1. Lista mora imati parametrizirani tip 
+ * koji implementira sučelje Comparable<T>. Prilikom dodavanja novog objekta u listu, lista se 
+ * automatski sortira. Elementi liste moraju biti osobe iz prvog zadatka, no klasa Person sada 
+ * mora implementirati sučelje Comparable<T> kako bi se mogla koristiti u sortirajućoj listi. 
  * Lista osoba mora biti sortirana uzlazno prema datumu rođenja osobe.
  * 
  * @author Dalibor Krleža
@@ -33,6 +31,8 @@ public class ParametrizedArrayList<T extends Comparable<T>> { // T is the type f
 
 	@SuppressWarnings("unchecked")
 	public ParametrizedArrayList() {
+		// We initialize the array as Comparable, not Object
+		// This is necessary, so that we don't encounter ClassCastException
 		elementData = (T[])new Comparable[2];
 		size = 0; // Was not necessary
 	}
