@@ -37,7 +37,7 @@ public class ParametrizedArrayList<T extends Comparable<T>> { // T is the type f
 		size = 0; // Was not necessary
 	}
 
-	// Appends the specified element to the end of this list.
+	// Adds the specified element to the appropriate (sorted) position in this list.
 	public boolean add(T o) {
 		ensureCapacity(size + 1);
 		int i=0;
