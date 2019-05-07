@@ -9,7 +9,7 @@ import java.io.OutputStream;
 public class CustomDecoratorExample {
 
 	public static void main(String[] args) {
-		String filename = "D:/temp/test.bin";
+		String filename = "./test.bin";
 		writeFile(filename);
 		readFile(filename);
 	}
@@ -17,12 +17,11 @@ public class CustomDecoratorExample {
 	private static void writeFile(String filename) {
 		try (OutputStream os = new ScrambledOutputStream(
 									new FileOutputStream(filename), 
-									(byte) 0xF0,
-									(byte) 0x0F)) 
+									(byte) 0xC3)) // 1100 0011 
 		{
-			os.write(150); //0x96
-			os.write(new byte[] { 35, 70, 120 }); //0x23 0x46 0x78
-			os.write(129); //0x81
+			os.write(150); //0x96 (1001 0110)
+			os.write(new byte[] { 35, 70, 120 }); //0x23 (0010 0011) 0x46 (0100 0110) 0x78 (0111 1000)
+			os.write(129); //0x81 (1000 0001)
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
@@ -32,7 +31,7 @@ public class CustomDecoratorExample {
 		try (InputStream is = new FileInputStream(filename)) {
 			int b;
 			while ((b = is.read()) != -1){
-				System.out.format("%02x ", b);
+				System.out.format("%s ", Integer.toBinaryString(b));
 			}
 		} catch (IOException e) {
 			e.printStackTrace();
