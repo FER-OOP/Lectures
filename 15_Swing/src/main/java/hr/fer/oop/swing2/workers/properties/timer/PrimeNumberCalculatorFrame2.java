@@ -1,10 +1,10 @@
-package hr.fer.oop.swing2.workers;
+package hr.fer.oop.swing2.workers.properties.timer;
 
-import hr.fer.oop.swing1.layouts.SpringUtilities;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.util.LinkedList;
 import java.util.List;
+import java.util.function.Consumer;
+
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
@@ -20,6 +20,9 @@ import javax.swing.SwingWorker;
 import javax.swing.Timer;
 import javax.swing.WindowConstants;
 
+import hr.fer.oop.swing1.layouts.SpringUtilities;
+import hr.fer.oop.swing2.workers.properties.PrimeNumbersWorker;
+
 public class PrimeNumberCalculatorFrame2 extends JFrame {
 
     private JTextField tfNumber;
@@ -28,7 +31,7 @@ public class PrimeNumberCalculatorFrame2 extends JFrame {
     private JProgressBar progressBar;
 
     private Timer timer;
-    private SwingWorker pnTask;
+    private SwingWorker worker;
     private static final int DELAY = 1000;
     private static final int INITIAL_DELAY = 0;
 
@@ -63,18 +66,24 @@ public class PrimeNumberCalculatorFrame2 extends JFrame {
                     bCalculate.setEnabled(false);
                     textArea.setText("");
 
-                    //execute the task on a working thread 
-                    pnTask = new CalculatePrimeNumbersTask(number);
-                    pnTask.execute();
+                    Runnable onDone = () -> bCalculate.setEnabled(true);
+                    Consumer<List<Integer>> processChunks = chunks -> {
+                    	 for (int primeNumber : chunks) {
+                             textArea.append(primeNumber + "\n");
+                         }
+                    };
+                    
+                    worker = new PrimeNumbersWorker(number, processChunks, onDone);
+                    worker.execute();
 
                     //set up timer to regularly update the progress
                     timer = new Timer(DELAY, new ActionListener() {
                         @Override
                         public void actionPerformed(ActionEvent e) {
-                            progressBar.setValue(pnTask.getProgress());
+                            progressBar.setValue(worker.getProgress());
                             
                             //stop the timer, when finished with the task
-                            if (pnTask.getProgress() == 100) {
+                            if (worker.getProgress() == 100) {
                                 timer.stop();
                             }
                             System.out.println("Izvodim li se unutar dretve Event Dispatch? " + SwingUtilities.isEventDispatchThread());
@@ -118,72 +127,5 @@ public class PrimeNumberCalculatorFrame2 extends JFrame {
                 frame.setVisible(true);
             }
         });
-    }
-
-    private class CalculatePrimeNumbersTask extends SwingWorker<List<Integer>, Integer> {
-
-        private final int numberOfPrimes;
-
-        public CalculatePrimeNumbersTask(int numberOfPrimes) {
-            this.numberOfPrimes = numberOfPrimes;
-        }
-
-        @Override
-        protected List<Integer> doInBackground() throws Exception {
-            List<Integer> primeNumbers = new LinkedList<>();
-
-            int count = 0;
-            int number = 2;
-            boolean isPrime;
-
-            while (count < numberOfPrimes) {
-                isPrime = true;
-
-                int limit = (int) Math.sqrt(number);
-                for (int divisor = 2; divisor <= limit; divisor++) {
-                    if (number % divisor == 0) {
-                        isPrime = false;
-                        break;
-                    }
-                }
-
-                if (isPrime) {
-                    count++;
-
-                    primeNumbers.add(number);
-
-                    //set progress
-                    setProgress(100 * count / numberOfPrimes);
-
-                    //publish prime number
-                    publish((int) number);
-
-                    //slow down the thread
-                    try {
-                        Thread.sleep(500);
-                    } catch (InterruptedException e) {
-                        // TODO Auto-generated catch block
-                        e.printStackTrace();
-                    }
-                }
-
-                number++;
-            }
-
-            return primeNumbers;
-        }
-
-        @Override
-        protected void process(List<Integer> chunks) {
-            for (int primeNumber : chunks) {
-                textArea.append(primeNumber + "\n");
-            }
-        }
-
-        @Override
-        protected void done() {
-            //enable the button
-            bCalculate.setEnabled(true);
-        }
     }
 }

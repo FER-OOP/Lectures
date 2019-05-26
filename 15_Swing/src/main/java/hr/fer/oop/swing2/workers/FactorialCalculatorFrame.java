@@ -55,7 +55,7 @@ public class FactorialCalculatorFrame extends JFrame {
                     bCalculate.setEnabled(false);
                     lResult.setText("");
 
-                    //execute the task on a working thread 
+                    //schedule for execution on one of working threads 
                     new CalculateFactorialTask(number).execute();
 
                     System.out.println("4. Izvodim li se unutar dretve Event Dispatch? " + SwingUtilities.isEventDispatchThread());
