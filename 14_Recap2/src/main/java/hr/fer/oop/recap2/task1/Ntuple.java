@@ -71,10 +71,13 @@ public class Ntuple<T extends Comparable<T>> implements Comparable<Ntuple<T>> {
 	
 	@Override
 	public int hashCode() {
-		//not so clever, but will produce the same hashcode for equal objects
+		//not so clever, but it will produce the same hashcode 
+		//for equal objects
+		//and different for permutations
 		int sum = 0;
+		int pos = 0;
 		for(T t : data)
-			sum += t.toString().hashCode(); //or t.hashCode if we can be sure that T overrides hashCode
+			sum += ++pos * t.hashCode();
 		return sum;
 	}
 
@@ -86,10 +89,6 @@ public class Ntuple<T extends Comparable<T>> implements Comparable<Ntuple<T>> {
 			if (r != 0)
 				return r;
 		}
-		if (this.size() > min)
-			return 1;
-		if (o.size() > min)
-			return -1;
-		return 0;
+		return this.size() - o.size();		
 	}	
 }
