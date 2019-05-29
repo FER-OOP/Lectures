@@ -52,9 +52,10 @@ public class Ntuple<T extends Comparable<T>> implements Comparable<Ntuple<T>> {
 	
 	@Override
 	public boolean equals(Object obj) {	
-		// cannot write if (obj instanceof Comparable<T>) due to Java generics, but...
-		if (this.getClass().isInstance(obj)) {
-			Ntuple<?> other = (Ntuple<?>) obj; //Ntuple<T> raise warning, and it is not necessary
+		// cannot write if (obj instanceof NTuple<T>) due to Java generics, but we can do 
+		//if (this.getClass().isInstance(obj)) or (due to Java Erasure)
+		if (obj instanceof Ntuple) {		
+			Ntuple<?> other = (Ntuple<?>) obj; //Ntuple<T> or NTuple raise warning, and it is not necessary
 			if (other.data.size() != this.data.size())
 				return false;
 			for(int i=0; i<data.size(); i++) {
