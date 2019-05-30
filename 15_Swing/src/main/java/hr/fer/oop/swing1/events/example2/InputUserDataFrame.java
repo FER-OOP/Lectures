@@ -34,7 +34,7 @@ public class InputUserDataFrame extends JFrame {
     add(buttonsPanel, BorderLayout.SOUTH);
 
     JPanel buttonsGridPanel = new JPanel();
-    buttonsGridPanel.setLayout(new GridLayout(1, 2, 10, 0));
+    buttonsGridPanel.setLayout(new GridLayout(1, 0, 10, 0));
     buttonsPanel.add(buttonsGridPanel);
 
     JButton btnOK = new JButton("U redu");
