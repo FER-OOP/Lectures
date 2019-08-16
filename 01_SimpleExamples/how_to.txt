@@ -1,0 +1,11 @@
+- compile simple program:
+javac -d bin src/hr/fer/oop/simple/ArgumentDisplay.java 
+
+- run compiled program with arguments:
+java -cp bin hr.fer.oop.simple.ArgumentDisplay first second "this is third" "and then someting more" "and" "more"
+
+- compile program that uses code for other source files
+javac -d bin -sourcepath src src/hr/fer/oop/simple/CalculateE_v2.java 
+
+- Create documentation for our simple utility method
+javadoc -sourcepath src hr.fer.oop.util -d docs
