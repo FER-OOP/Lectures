@@ -1,17 +1,24 @@
-package hr.fer.oop.constructors.glass;
+package hr.fer.oop.classes.glass;
 
 /**
- * Zadatak 1:
- * Proširite klasu Point iz primjera s predavanja s metodom distanceToPoint(Point p) koja računa
- * geometrijsku udaljenost do dane točke. Stvorite klasu PointOperations koja služi za izvršavanje
- * operacija nad točkama. Klasa PointOperations mora imati metodu getPointMostDistantFromOrigin koja
- * vraća točku koja je najudaljenija od ishodišta koordinatnog sustava. Klasa PointOperations također
- * mora imati main metodu u kojoj je potrebno inicijalizirati proizvoljan broj točaka te nad njima
- * pozvati metodu getPointMostDistantFromOrigin.
+ * Zadatak 2:
+ * Napisati klasu GlassOfWater koja modelira čašu koja se može puniti vodom ili kockama leda.
+ * Svaka instanca klase mora enkapsulirati svoje stanje (kolika je zapremina čaše, koliko vode
+ * i koliko kocki leda sadrži) te imati dvije javne metode – addWater(int waterAmount) i
+ * addIceCubes(int numberOfIceCubes) kojima se čaša puni vodom zadanom u mililitrima ili ledom
+ * zadanim brojem kocaka. Svaka kocka leda zauzima 50ml i kocke se mogu savršeno složiti u čašu.
+ * Zapremina čaše zadaje se konstruktorom. Ukoliko se u čašu utoči previše vode ili doda
+ * previše leda, dolazi do prelijevanja. U slučaju prelijevanja prvo izlazi višak vode, a onda
+ * otpada višak kocaka leda. Enkapsulirati prelijevanje u zasebnu metodu koja se poziva iz
+ * javnih metoda klase za dodavanje vode ili leda. Pri dodavanju leda ili vode ispisati na
+ * ekran stanje čaše prije dodavanja, zatim količinu vode i leda koji se dodaju, a naposljetku
+ * nakon provjere prelijevanja ispisati novo stanje. U slučaju prelijevanja ispisati na ekran
+ * koliko se vode prelilo i koliko je kocki leda otpalo.
  * 
  * @author OOP
  *
  */
+
 public class GlassOfWater {
 
 	private int glassSize, currentWaterAmount, currentIceCubeCount;
@@ -72,13 +79,5 @@ public class GlassOfWater {
 			}
 		}
 		
-	}
-	
-	public static void main(String[] args) {
-		GlassOfWater glass = new GlassOfWater(250);
-		glass.addWater(200);
-		glass.addIceCubes(3);
-		glass.addIceCubes(4);
-	}
-
+	}	
 }

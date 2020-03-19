@@ -1,6 +1,6 @@
-package hr.fer.oop.constructors;
+package hr.fer.oop.classes;
 
-import hr.fer.oop.constructors.operations.PointOperations;
+import hr.fer.oop.classes.operations.PointOperations;
 
 public class Main {
 	
