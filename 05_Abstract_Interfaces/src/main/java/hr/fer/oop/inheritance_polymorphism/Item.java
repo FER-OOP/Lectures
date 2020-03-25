@@ -27,11 +27,11 @@ public abstract class Item {
 	}
 	public abstract String getItemType();
 	
-	public Item(String sku, String name){
+	protected Item(String sku, String name){
 		this(sku, name, 0);		
 	}
 	
-	public Item(String sku, String name, double price){		
+	protected Item(String sku, String name, double price){		
 		this.sku = sku;
 		this.name = name;
 		this.netSalePrice = price;
