@@ -9,7 +9,7 @@ public abstract class SeaAnimal extends Animal{
 
 	private SeaSpecies species;
 	
-	public SeaAnimal(SeaSpecies species) {
+	protected SeaAnimal(SeaSpecies species) {
 		this.species = species;
 	}
 	
