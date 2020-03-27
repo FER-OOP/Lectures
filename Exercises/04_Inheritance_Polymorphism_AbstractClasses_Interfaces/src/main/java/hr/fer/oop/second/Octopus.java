@@ -1,7 +1,5 @@
 package hr.fer.oop.second;
 
-import hr.fer.oop.fourth.SeaSpecies;
-
 /**
  * @author OOP
  */

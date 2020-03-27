@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>hr.fer.oop</groupId>
-  <artifactId>Exercise4</artifactId>
+  <artifactId>04_Inheritance_Polymorphism_AbstractClasses_Interfaces</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>Exercise4</name>
+  <name>04_Inheritance_Polymorphism_AbstractClasses_Interfaces</name>
   <url>http://maven.apache.org</url>
 
   <properties>
@@ -19,9 +19,9 @@
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-compiler-plugin</artifactId>
+				<version>3.8.1</version>
 				<configuration>
-					<source>1.8</source>
-					<target>1.8</target>
+					<release>11</release>
 				</configuration>
 			</plugin>
 		</plugins>

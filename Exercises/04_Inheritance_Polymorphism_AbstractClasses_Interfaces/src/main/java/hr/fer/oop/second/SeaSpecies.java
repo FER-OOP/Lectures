@@ -1,4 +1,4 @@
-package hr.fer.oop.fourth;
+package hr.fer.oop.second;
 
 /**
  * @author OOP
