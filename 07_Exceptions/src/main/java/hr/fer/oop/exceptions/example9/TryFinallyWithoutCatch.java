@@ -1,6 +1,6 @@
-package hr.fer.oop.exceptions.example6;
+package hr.fer.oop.exceptions.example9;
 
-public class Main {
+public class TryFinallyWithoutCatch {
 
 	public static void main(String[] args) {
 		String s = "a13";

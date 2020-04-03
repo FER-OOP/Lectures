@@ -1,6 +1,6 @@
-package hr.fer.oop.exceptions.example4;
+package hr.fer.oop.exceptions.example5;
 
-public class ExampleWithFinally {
+public class ExampleStackTrace {
 
 	private static void m2() {
 		System.out.println("\t\tHello from m2");
@@ -11,11 +11,7 @@ public class ExampleWithFinally {
 		catch(ArrayIndexOutOfBoundsException exc) {
 			//catching "wrong exception";
 			System.out.println("Catch in m2");
-		}
-		finally {
-			System.out.println("\t\tFinally-M2");
-		}
-		
+		}			
 		System.out.println("\t\tEnd of m2");
 	}
 	
@@ -27,19 +23,20 @@ public class ExampleWithFinally {
 		}
 		catch(NumberFormatException exc) {			
 			System.out.println("\tCatch in m1 - printing Stack trace");
-			exc.printStackTrace(System.out);
-			System.out.println();
-		}
-		finally {
-			System.out.println("\tFinally-M1");
-		}
+			exc.printStackTrace(System.out);			
+		}		
 		System.out.println("\tEnd of m1");
 	}	
 	
-	public static void main(String[] args) {
-		
+	public static void main(String[] args) {		
 		System.out.println("Before m1");
-		m1();
+		try {
+			m1();
+		}
+		catch(NumberFormatException exc) {			
+			System.out.println("\tCatch in main - printing Stack trace");
+			exc.printStackTrace(System.out);			
+		}			
 		System.out.println("After m1");				
 	}
 

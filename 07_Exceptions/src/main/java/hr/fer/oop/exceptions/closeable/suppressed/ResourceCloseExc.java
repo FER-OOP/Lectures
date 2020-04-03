@@ -1,4 +1,4 @@
-package hr.fer.oop.exceptions.example5;
+package hr.fer.oop.exceptions.closeable.suppressed;
 
 public class ResourceCloseExc implements AutoCloseable {
 	private int i;
@@ -9,7 +9,7 @@ public class ResourceCloseExc implements AutoCloseable {
 	@Override
 	public void close()  {
 		System.out.println("Closing and throwing exception #" + i);	
-		throw new RuntimeException("Proba"); 
+		throw new RuntimeException("Oh, exception in close..."); 
 	}
 
 }

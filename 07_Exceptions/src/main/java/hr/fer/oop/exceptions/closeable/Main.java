@@ -1,4 +1,4 @@
-package hr.fer.oop.exceptions.example5;
+package hr.fer.oop.exceptions.closeable;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package hr.fer.oop.exceptions.example3;
+package hr.fer.oop.exceptions.example4;
 
 public class MainMultiCatch {
 

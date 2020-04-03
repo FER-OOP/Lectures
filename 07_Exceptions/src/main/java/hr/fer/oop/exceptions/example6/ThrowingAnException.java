@@ -1,12 +1,12 @@
-package hr.fer.oop.exceptions.example3;
+package hr.fer.oop.exceptions.example6;
 
-public class MainThrow {
+public class ThrowingAnException {
 
 	public static void main(String[] args) {
 		try{
-			System.out.println(perimiter(5, 4, 3));
-			System.out.println(perimiter(4, 3, 2));
-			System.out.println(perimiter(3, 2, 1));
+			if (perimiter(5, 4, 3) > perimiter(3, 2, 1)) {
+				//do something...
+			}					
 		}
 		catch(Exception exc){
 			System.out.println(exc);
