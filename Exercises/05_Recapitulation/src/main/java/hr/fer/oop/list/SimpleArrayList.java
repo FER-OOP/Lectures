@@ -56,7 +56,7 @@ public class SimpleArrayList {
   public int indexOf(Object o) {
     int found = -1;
     for (int i = 0; i < size; i++) {
-      if (elementData[i].equals(o)) {
+      if (elementData[i] == o) {
         found = i;
         break;
       }
