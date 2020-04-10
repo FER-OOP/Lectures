@@ -1,7 +1,7 @@
 package hr.fer.oop.generics.task3;
 
-import hr.fer.oop.generics.example4.Point;
 import hr.fer.oop.generics.task1.MyList;
+import hr.fer.oop.generics.task2.Point;
 
 public class Main {
 
