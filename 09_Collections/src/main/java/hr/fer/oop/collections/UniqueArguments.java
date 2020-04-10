@@ -1,31 +1,31 @@
-package hr.fer.oop.sets;
+package hr.fer.oop.collections;
 
 import java.util.HashSet;
 import java.util.LinkedHashSet;
 import java.util.Set;
 import java.util.TreeSet;
 
-public class NoDuplicatesProgram {
+public class UniqueArguments {
 
 	public static void main(String[] args) {
 		System.out.println("Using HashSet:");
-		writeCollection(addToSet(new HashSet<String>(), args));
+		print(addToSet(new HashSet<String>(), args));
 		
 		System.out.println("Using TreeSet:");
-		writeCollection(addToSet(new TreeSet<String>(), args));
+		print(addToSet(new TreeSet<String>(), args));
 		
 		System.out.println("Using LinkedHashSet:");
-		writeCollection(addToSet(new LinkedHashSet<String>(), args));
+		print(addToSet(new LinkedHashSet<String>(), args));
 	}
 
-	private static Set<String> addToSet(Set<String> set, String[] elements) {
-		for (String element : elements) {
+	private static Set<String> addToSet(Set<String> set, String[] arr) {
+		for (String element : arr) {
 			set.add(element);
 		}
 		return set;
 	}
 
-	private static void writeCollection(Iterable<String> col) {
+	private static void print(Iterable<String> col) {
 		for (String element : col) {
 			System.out.println(element);
 		}

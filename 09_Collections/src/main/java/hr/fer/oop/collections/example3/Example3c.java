@@ -1,13 +1,13 @@
-package hr.fer.oop.lists;
+package hr.fer.oop.collections.example3;
 
 import java.util.LinkedHashSet;
 import java.util.Set;
 
-public class Example2c {
+public class Example3c {
 
 	public static void main(String[] args) {
-
-		String[] names = { "Eva", "Ivan", "Eva", "Ante", "Ivan", "Jasna", "Stjepan", "Jasna" };
+		
+		String[] names = { "Boris", "Anna", "Boris", "Wang", "Anna", "Li", "Chen", "Li" };
 
 		writeInReverse(names);
 	}

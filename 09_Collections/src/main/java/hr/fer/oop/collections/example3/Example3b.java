@@ -1,4 +1,4 @@
-package hr.fer.oop.lists;
+package hr.fer.oop.collections.example3;
 
 import java.util.ArrayList;
 import java.util.HashSet;
@@ -8,11 +8,11 @@ import java.util.Set;
 // Using list and set...
 // Appropriate set can offer fast lookup!
 
-public class Example2b {
+public class Example3b {
 
 	public static void main(String[] args) {
 
-		String[] names = { "Eva", "Ivan", "Eva", "Ante", "Ivan", "Jasna", "Stjepan", "Jasna" };
+		String[] names = { "Boris", "Anna", "Boris", "Wang", "Anna", "Li", "Chen", "Li" };
 
 		writeInReverse(names);
 	}

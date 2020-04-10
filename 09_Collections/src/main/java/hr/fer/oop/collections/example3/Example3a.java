@@ -1,12 +1,12 @@
-package hr.fer.oop.lists;
+package hr.fer.oop.collections.example3;
 
 // Using only given array...
 
-public class Example2a {
+public class Example3a {
 
 	public static void main(String[] args) {
 
-		String[] names = { "Eva", "Ivan", "Eva", "Ante", "Ivan", "Jasna", "Stjepan", "Jasna" };
+		String[] names = { "Boris", "Anna", "Boris", "Wang", "Anna", "Li", "Chen", "Li" };
 
 		writeInReverse(names);
 	}
