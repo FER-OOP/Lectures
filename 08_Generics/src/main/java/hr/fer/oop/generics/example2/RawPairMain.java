@@ -8,11 +8,11 @@ public class RawPairMain {
 		System.out.println("Before: " + iPair + ", " + sPair);
 		iPair = updateRandomlyInt(iPair);
 		sPair = updateRandomlyString(sPair);
-		// Will compiler catch the error if we uncomment
-		// next line?
+		
 		updateRandomlyString(iPair);
 		System.out.println("After: " + iPair + ", " + sPair);
 		
+		//causes exception (depending on random value)
 		updateRandomlyString2(iPair);
 		System.out.println("After: " + iPair + ", " + sPair);
 	}
