@@ -75,23 +75,23 @@ public class RoomCleanUp {
 			e.printStackTrace();
 		}
 
-		MyList<Toy> toys = firstFromContainers(bags);
+		MyList<Toy> toys = firstFromEachContainer(bags);
 		toys.print();
 
-		toys = firstFromContainers(boxes);
+		toys = firstFromEachContainer(boxes);
 		toys.print();
 
 	}
 
-	private static <C extends Container<?>> MyList<Toy> firstFromContainers(MyList<C> list) {
-		MyList<Toy> result = new MyList<>();
-		for (int i = 0, size = list.size(); i < size; i++) {
-			var container = list.elementAt(i);
+	private static <C extends Container<?>> MyList<Toy> firstFromEachContainer(MyList<C> containers) {
+		MyList<Toy> list = new MyList<>();
+		for (int i = 0, size = containers.size(); i < size; i++) {
+			C container = containers.elementAt(i);
 			if (container.getNoOfToys() > 0) {
 				Toy t = container.getToy(0);
-				result.add(t);
+				list.add(t);
 			}
 		}
-		return result;
+		return list;
 	}
 }
