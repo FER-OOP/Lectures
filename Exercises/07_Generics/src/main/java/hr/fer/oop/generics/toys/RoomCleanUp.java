@@ -37,12 +37,10 @@ import hr.fer.oop.generics.list.MyList;
  * @author Dalibor Krleža
  *
  */
-
-public class RoomCleanUp {
-	@SuppressWarnings("rawtypes")
+public class RoomCleanUp {	
 	public static void main(String[] args) {
-		MyList<PlasticBag> bags = new MyList<>();
-		MyList<CardBox> boxes = new MyList<>();
+		MyList<PlasticBag<? extends Toy>> bags = new MyList<>();
+		MyList<CardBox<? extends Toy>> boxes = new MyList<>();
 
 		try {
 			PlasticBag<CarToy> bag1 = new PlasticBag<>();
@@ -65,27 +63,26 @@ public class RoomCleanUp {
 			TeddyBearToy bear3 = new TeddyBearToy(22000, "Big brown teddy missing one ear");
 			box1.addToy(bear3);
 			boxes.add(box1);
-
-			bags.print();
-			boxes.print();
-
+		
 			TeddyBearToy doesntFit = new TeddyBearToy(22000, "Too big teddy :(");
 			box1.addToy(doesntFit);
 		} catch (TooLittleSpace e) {
 			e.printStackTrace();
 		}
-
+		
+		bags.print();
+		boxes.print(); 
+		
 		MyList<Toy> toys = firstFromEachContainer(bags);
 		toys.print();
-
+		
 		toys = firstFromEachContainer(boxes);
 		toys.print();
-
 	}
 
-	private static <C extends Container<?>> MyList<Toy> firstFromEachContainer(MyList<C> containers) {
+	private static <C extends Container<?>>  MyList<Toy> firstFromEachContainer(MyList<C> containers) {
 		MyList<Toy> list = new MyList<>();
-		for (int i = 0, size = containers.size(); i < size; i++) {
+		for(int i=0, size = containers.size(); i<size; i++) {
 			C container = containers.elementAt(i);
 			if (container.getNoOfToys() > 0) {
 				Toy t = container.getToy(0);
@@ -94,4 +91,18 @@ public class RoomCleanUp {
 		}
 		return list;
 	}
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 }

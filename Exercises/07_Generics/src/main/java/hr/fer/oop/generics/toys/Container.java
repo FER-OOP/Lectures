@@ -3,43 +3,48 @@ package hr.fer.oop.generics.toys;
 import hr.fer.oop.generics.list.MyList;
 
 public abstract class Container<T extends Toy> {
-	protected int capacity;
-	protected MyList<T> list;
-
+	private final int capacity;
+	private MyList<T> list = new MyList<>();;
+	
 	public Container(int capacity) {
-		this.capacity = capacity;
-		this.list = new MyList<T>();
+		this.capacity = capacity;		
 	}
-
-	public void addToy(T obj) throws TooLittleSpace {
-		int fin = obj.getVolume() + getTotalOccupance();
-		if (capacity < fin)
+	
+	public void addToy(T toy) throws TooLittleSpace {
+		int fin = toy.getVolume() + getTotalOccupance();
+		if (capacity < fin) 
 			throw new TooLittleSpace("Container exceedes capacity by " + (fin - capacity));
-		this.list.add(obj);
+		list.add(toy);
 	}
-
+	
 	public T getToy(int index) {
-		return (this.list.elementAt(index));
+		return list.elementAt(index);
 	}
-
+	
 	public int getNoOfToys() {
-		return (this.list.size());
+		return list.size();
 	}
 
-	public int getTotalOccupance() {
+	private int getTotalOccupance() {
 		int total = 0;
-		for (int i = 0; i < getNoOfToys(); i++)
+		for(int i = 0, cnt = getNoOfToys(); i < cnt ; i++) {
 			total += getToy(i).getVolume();
-		return (total);
+		}
+		return total;
 	}
-
+	
 	@Override
 	public String toString() {
 		StringBuilder sb = new StringBuilder();
-		for (int i = 0; i < getNoOfToys(); i++) {
-			sb.append(getToy(i));
-			sb.append("\n");
-		}
+		sb.append(getContainerType());
+		sb.append(" of capacity: ");
+		sb.append(capacity);
+		sb.append(", total occupance:");
+		sb.append(getTotalOccupance());
+		sb.append("\n");		
 		return sb.toString();
 	}
+
+	protected abstract String getContainerType();
+
 }

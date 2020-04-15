@@ -1,15 +1,12 @@
 package hr.fer.oop.generics.toys;
 
-public class TeddyBearToy extends Toy {
-	public TeddyBearToy(int volume,String name) {
-		super(volume,name);
-	}
-	public TeddyBearToy() {
-		super(5000,"Tedddyy");
+public class TeddyBearToy extends Toy{
+	public TeddyBearToy(int volume, String name) {
+		super(volume, name);
 	}
 	
 	@Override
-	public String toString() {
-		return "Teddy bear:"+super.name+"("+super.volume+" cm3)";
+	public String getType() {
+		return "Teddy bear";
 	}
 }
