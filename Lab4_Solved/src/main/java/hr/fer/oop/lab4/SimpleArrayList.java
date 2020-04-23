@@ -87,7 +87,7 @@ public class SimpleArrayList<T> {
 	// Increases the capacity of this SimpleArrayList instance, if
 	// necessary, to ensure that it can hold at least the number of elements
 	// specified by the minimum capacity argument.
-	public void ensureCapacity(int minCapacity) {
+	private void ensureCapacity(int minCapacity) {
 		int current = elementData.length;
 		if (minCapacity > current) {
 			// Ensure some extra space so as not to copy too many times
