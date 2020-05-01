@@ -3,37 +3,34 @@ package hr.fer.oop.employees;
 import java.time.LocalDate;
 
 public class Employee {
+  private String name;
+  private double salary;
+  private LocalDate hireDate;
 
-    private String name;
-    private double salary;
-    private LocalDate hireDay;
+  public Employee(String name, double salary, LocalDate hireDate) {
+    this.name = name;
+    this.salary = salary;
+    this.hireDate = hireDate;
+  }
 
-    public Employee(String n, double s, int year, int month, int day) {
-        name = n;
-        salary = s;
-        hireDay = LocalDate.of(year, month, day);
-    }
+  public String getName() {
+    return name;
+  }
 
-    public String getName() {
-        return name;
-    }
+  public double getSalary() {
+    return salary;
+  }
 
-    public double getSalary() {
-        return salary;
-    }
+  public LocalDate getHireDate() {
+    return hireDate;
+  }
 
-    public LocalDate getHireDay() {
-        return hireDay;
-    }
+  public void raiseSalary(double byPercent) {
+    salary *= byPercent / 100.0 + 1.0;
+  }
 
-    public void raiseSalary(double byPercent) {
-        double raise = salary * byPercent / 100;
-        salary += raise;
-    }
-
-    @Override
-    public String toString() {
-        return "Employee{" + "name=" + name + ", salary=" + salary + ", hireDay=" + hireDay + '}';
-    }
-
+  @Override
+  public String toString() {
+    return "Employee [name=" + name + ", salary=" + salary + ", hireDate=" + hireDate + "]";
+  }
 }

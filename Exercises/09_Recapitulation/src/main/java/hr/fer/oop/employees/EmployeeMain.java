@@ -29,7 +29,7 @@ public class EmployeeMain {
     printEmployees(staff, e -> e.getSalary() >= 80_000);
 
     // theMostSimilarEmployees
-    theMostSimilarEmployees(staff, (a, b) -> (int) (Math.abs(a.getHireDay().toEpochDay() - b.getHireDay().toEpochDay())));
+    theMostSimilarEmployees(staff, (a, b) -> (int) (Math.abs(a.getHireDate().toEpochDay() - b.getHireDate().toEpochDay())));
   }
 
   private static void printEmployees(Iterable<Employee> employees, Predicate<Employee> predicate) {
