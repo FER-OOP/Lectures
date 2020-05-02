@@ -1,83 +1,75 @@
 package hr.fer.oop.zad3;
 
+import java.text.Collator;
+import java.util.Comparator;
+import java.util.Locale;
+
 public class Person implements Comparable<Person> {
-	private String oib;
-	private String firstName;
-	private String surname;
-	private int age;
-	private String status;
-	
-	public Person(String oib, String firstName, String surname, int age, String status) {
-		this.oib = oib;
-		this.firstName = firstName;
-		this.surname = surname;
-		this.age = age;
-		this.status = status;
-	}
 
-	@Override
-	public int hashCode() {
-		return ((this.oib == null) ? 0 : this.oib.hashCode());
-	}
-	
-	@Override
-	 public boolean equals(Object obj) {
-		if (obj instanceof Person) {
-			Person person = (Person) obj;
-			return ((this.oib == null) ? false : this.oib.equals(person.oib));
-		} else {
-			return false;
-		}
-	}
+    private String oib;
+    private String firstName;
+    private String lastName;
+    private int age;
+    private String status;
 
-	@Override
-	public int compareTo(Person o) {
-		return this.getOib().compareTo(o.getOib());
-	}
+    public Person(String oib, String firstName, String lastName, int age, String status) {
+        this.oib = oib;
+        this.firstName = firstName;
+        this.lastName = lastName;
+        this.age = age;
+        this.status = status;
+    }
 
-	public String getOib() {
-		return oib;
-	}
+    @Override
+    public int hashCode() {
+        return this.oib.hashCode();
+    }
 
-	public void setOib(String oib) {
-		this.oib = oib;
-	}
+    @Override
+    public boolean equals(Object obj) {
+        if (obj instanceof Person) {
+            Person other = (Person) obj;
+            return this.oib.equals(other.oib);
+        } else {
+            return false;
+        }
+    }
 
-	public String getFirstName() {
-		return firstName;
-	}
+    @Override
+    public String toString() {
+        return "Person{" + "oib=" + oib + ", firstName=" + firstName + ", surname=" + lastName + ", age=" + age + ", status=" + status + '}';
+    }
 
-	public void setFirstName(String firstName) {
-		this.firstName = firstName;
-	}
+    //the commented method compareTo is wrong as it isn't consistent with equals     
+//    @Override
+//    public int compareTo(Person other) {
+//        //lastname
+//        int r = hrComparator.compare(this.lastName, other.lastName);
+//        if (r != 0) {
+//            return r;
+//        }
+//
+//        //firstname
+//        return hrComparator.compare(this.firstName, other.firstName);
+//    }
+    
+    private static Comparator<Object> hrComparator = Collator.getInstance(Locale.forLanguageTag("hr"));
 
-	public String getSurname() {
-		return surname;
-	}
+    @Override
+    public int compareTo(Person other) {
+        //lastname
+        int r = hrComparator.compare(this.lastName, other.lastName);
+        if (r != 0) {
+            return r;
+        }
 
-	public void setSurname(String surname) {
-		this.surname = surname;
-	}
+        //firstname
+        r = hrComparator.compare(this.firstName, other.firstName);
+        if (r != 0) {
+            return r;
+        }
 
-	public int getAge() {
-		return age;
-	}
-
-	public void setAge(int age) {
-		this.age = age;
-	}
-
-	public String getStatus() {
-		return status;
-	}
-
-	public void setStatus(String status) {
-		this.status = status;
-	}
-
-	@Override
-	public String toString() {
-		return "Person [oib=" + oib + ", firstName=" + firstName + ", surname=" + surname + ", age=" + age + ", status="
-				+ status + "]";
-	}
+        //should be consistant with equals
+        return this.oib.compareTo(other.oib);
+    }
 }

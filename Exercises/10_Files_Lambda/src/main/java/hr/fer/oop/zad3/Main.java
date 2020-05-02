@@ -1,32 +1,35 @@
 package hr.fer.oop.zad3;
 
-import java.util.Collections;
 import java.util.List;
 import java.util.Set;
 import java.util.TreeSet;
 
 public class Main {
-	
-	public static void main(String[] args) {
+
+    public static void main(String[] args) {
         List<Person> persons = Loader.loadPerson();
         List<Bicycle> bicycles = Loader.loadBicycle();
+     
+        //it seems that commented lines work with wrongly implemented natural order
+//        Collections.sort(persons);
+//        for(Person person:persons) {
+//            System.out.println(person.toString());
+//        }
 
-        Collections.sort(persons);
-        for (Person person : persons) {
+        Set<Person> sortedPersons = new TreeSet<>(persons);
+        for (Person person : sortedPersons) {
             System.out.println(person.toString());
         }
         System.out.println();
-        
-        Collections.sort(bicycles);
-        for (Bicycle bicycle : bicycles) {
-            System.out.println(bicycle.toString());
-        }
-        System.out.println();
-        
-        Set<Bicycle> bicyclesSort = new TreeSet<>(Bicycle.BY_BRAND.reversed().thenComparing(Bicycle.BY_OWNER));
-        bicyclesSort.addAll(bicycles);
 
-        for (Bicycle elem : bicyclesSort) {
+        //the commented line is wrong as it isn't consistent with equals  
+        //Set<Bicycle> sortedBicycles = new TreeSet<>(Bicycle.BY_BRAND.thenComparing(Bicycle.BY_OWNER.reversed()));
+        
+        Set<Bicycle> sortedBicycles = new TreeSet<>(Bicycle.BY_BRAND.thenComparing(Bicycle.BY_OWNER.reversed()).thenComparing(Bicycle.BY_PRICE));
+        
+        sortedBicycles.addAll(bicycles);
+
+        for (Bicycle elem : sortedBicycles) {
             System.out.println(elem.toString());
         }
         System.out.println();
