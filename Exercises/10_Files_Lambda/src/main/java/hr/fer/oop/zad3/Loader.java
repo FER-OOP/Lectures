@@ -19,11 +19,11 @@ public class Loader {
     public static List<Bicycle> loadBicycle() {
         List<Person> persons = Loader.loadPerson();
         List<Bicycle> bicycles = Arrays.asList(
-                new Bicycle("Pinarello", 10.5, persons.get(0)),
-                new Bicycle("Scott", 12, persons.get(1)),
-                new Bicycle("Rog", 17.5, persons.get(2)),
-                new Bicycle("Merida", 9.5, persons.get(3)),
-                new Bicycle("Merida", 8.5, persons.get(3))
+                new Bicycle("Pinarello", 1050, persons.get(0)),
+                new Bicycle("Scott", 1200, persons.get(1)),
+                new Bicycle("Rog", 1750, persons.get(2)),
+                new Bicycle("Merida", 950, persons.get(3)),
+                new Bicycle("Merida", 850, persons.get(3))
         );
         return bicycles;
     }  

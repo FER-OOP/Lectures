@@ -6,10 +6,10 @@ import java.util.Objects;
 public class Bicycle {
 
     private String brand;
-    private double price;
+    private int price;
     private Person owner;
 
-    public Bicycle(String brand, double price, Person owner) {
+    public Bicycle(String brand, int price, Person owner) {
         this.brand = brand;
         this.price = price;
         this.owner = owner;
@@ -28,9 +28,9 @@ public class Bicycle {
 
         Bicycle other = (Bicycle) obj;
 
-        return (Objects.equals(brand, other.brand)
-                && Objects.equals(price, other.price)
-                && Objects.equals(owner, other.owner));
+        return (brand.equals(other.brand)
+                && price == other.price
+                && owner.equals(other.owner));
     }
     
     @Override
@@ -39,6 +39,6 @@ public class Bicycle {
     }
 
     public static final Comparator<Bicycle> BY_BRAND = (a, b) -> a.brand.compareTo(b.brand);
-    public static final Comparator<Bicycle> BY_PRICE = (a, b) -> Double.compare(a.price, b.price);
+    public static final Comparator<Bicycle> BY_PRICE = (a, b) -> Integer.compare(a.price, b.price);
     public static final Comparator<Bicycle> BY_OWNER = (a, b) -> a.owner.compareTo(b.owner);
 }
