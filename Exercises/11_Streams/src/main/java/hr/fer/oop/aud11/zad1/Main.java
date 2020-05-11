@@ -9,22 +9,22 @@ public class Main {
 
         System.out.println("Average grade: " + getAverageGrade(gradesMap));
 
-        increaseGradesWithCompute(gradesMap, "arts");
+        increaseGrades(gradesMap, "arts");
 
         System.out.println("Average grade: " + getAverageGrade(gradesMap));
     }
 
-    private static void increaseGradesWithCompute(Map<String, Map<String, Integer>> gradesMap, String course) {
-        Map<String, Integer> gradesArt = gradesMap.get(course);
-        for (String student : gradesArt.keySet()) {
-            gradesArt.compute(student, (key, value) -> value < 5 ? value + 1 : value);
+    private static void increaseGrades(Map<String, Map<String, Integer>> gradesMap, String course) {
+        Map<String, Integer> nameGradeMap = gradesMap.get(course);
+        for (String name : nameGradeMap.keySet()) {
+            nameGradeMap.compute(name, (key, value) -> value < 5 ? value + 1 : value);
         }
     }
 
     private static double getAverageGrade(Map<String, Map<String, Integer>> gradesMap) {
-        OptionalDouble averageGrade = gradesMap.entrySet().stream()
-                .flatMap(courseGrades -> courseGrades.getValue().entrySet().stream())
-                .mapToInt(studentGrade -> studentGrade.getValue())
+        OptionalDouble averageGrade = gradesMap.values().stream()
+                .flatMap(nameGradeMap -> nameGradeMap.values().stream())
+                .mapToInt(Integer::intValue)
                 .average();
 
         return averageGrade.getAsDouble();

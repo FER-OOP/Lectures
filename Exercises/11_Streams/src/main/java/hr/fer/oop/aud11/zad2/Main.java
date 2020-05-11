@@ -4,34 +4,45 @@ import hr.fer.oop.aud11.zad1.Loader;
 import java.util.*;
 import java.util.AbstractMap.SimpleEntry;
 import java.util.stream.Collectors;
+import static java.util.stream.Collectors.groupingBy;
 
 public class Main {
 
     public static void main(String[] args) {
         Map<String, Map<String, Integer>> gradesMap = Loader.loadData();
 
-        System.out.println(getAverageGradesWithMerge(gradesMap));
+        System.out.println(getAverageCourseGrades(gradesMap));
+        System.out.println(getAverageStudentGrades(gradesMap));
     }
-    
-    private static Map<String, Double> getAverageGradesWithMerge(Map<String, Map<String, Integer>> gradesMap) {
-        Map<String, List<Integer>> allStudentGrades = new HashMap<>();
 
-        gradesMap.entrySet().stream()
-                .flatMap(courseGrades -> courseGrades.getValue().entrySet().stream())
-                .forEach(studentGrade -> allStudentGrades.merge(studentGrade.getKey(), new LinkedList<>(Arrays.asList(studentGrade.getValue())),
-                (oldList, list) -> {
-                    oldList.addAll(list);
-                    return oldList;
+    private static Map<String, Double> getAverageCourseGrades(Map<String, Map<String, Integer>> gradesMap) {
+
+        return gradesMap.entrySet().stream()
+                .map(courseNameGradeMap -> new AbstractMap.SimpleEntry<>(courseNameGradeMap.getKey(),
+                courseNameGradeMap.getValue().values().stream().mapToInt(Integer::intValue).average().getAsDouble())).
+                collect(Collectors.toMap(SimpleEntry::getKey, SimpleEntry::getValue));
+    }
+
+    private static Map<String, Double> getAverageStudentGrades(Map<String, Map<String, Integer>> gradesMap) {
+        Map<String, List<Integer>> nameGradesMap = new HashMap<>();
+
+        gradesMap.values().stream()
+                .flatMap(nameGradeMap -> nameGradeMap.entrySet().stream())
+                .forEach(nameGradePair -> nameGradesMap.merge(nameGradePair.getKey(), new LinkedList<>(Arrays.asList(nameGradePair.getValue())),
+                (oldGradeList, passedGradeList) -> {
+                    oldGradeList.addAll(passedGradeList);//faster than passedGradeList.addAll(oldGradeList)
+                    return oldGradeList;
                 }));
 
-        return allStudentGrades.entrySet().stream().
-                map(studentGrades -> new AbstractMap.SimpleEntry<>(studentGrades.getKey(),
-                studentGrades.getValue().stream().mapToInt(Integer::intValue).average().getAsDouble()))
+        return nameGradesMap.entrySet().stream().
+                map(nameGradeList -> new AbstractMap.SimpleEntry<>(nameGradeList.getKey(),
+                nameGradeList.getValue().stream().mapToInt(Integer::intValue).average().getAsDouble()))
                 .collect(Collectors.toMap(SimpleEntry::getKey, SimpleEntry::getValue));
     }
-//    private static Map<String, Double> getAverageGradesWithoutMerge(Map<String, Map<String, Integer>> gradesMap) {
-//        return gradesMap.entrySet().stream()
-//                .flatMap(courseGrades -> courseGrades.getValue().entrySet().stream())
+
+//    private static Map<String, Double> getAverageStudentGrades(Map<String, Map<String, Integer>> gradesMap) {
+//        return gradesMap.values().stream()
+//                .flatMap(studentGradeMap -> studentGradeMap.entrySet().stream())
 //                .collect(groupingBy(Map.Entry::getKey, Collectors.averagingDouble(Map.Entry::getValue)));
 //    }
 }
