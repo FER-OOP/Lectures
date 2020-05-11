@@ -15,10 +15,10 @@ public class Loader {
             Files.lines(filepath).forEach(row -> {
                 String[] fragments = row.split(";");
                 String fileName = fragments[0];
-                String label = fragments[1];
+                String gender = fragments[1];
                 Integer age = Integer.parseInt(fragments[2]);
 
-                PopulationSample newSample = new PopulationSample(fileName, label, age);
+                PopulationSample newSample = new PopulationSample(fileName, gender, age);
                 ret.add(newSample);
             });
         } catch (IOException e) {

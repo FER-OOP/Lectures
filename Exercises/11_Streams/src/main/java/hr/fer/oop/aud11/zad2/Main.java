@@ -4,6 +4,7 @@ import hr.fer.oop.aud11.zad1.Loader;
 import java.util.*;
 import java.util.AbstractMap.SimpleEntry;
 import java.util.stream.Collectors;
+import static java.util.stream.Collectors.averagingDouble;
 import static java.util.stream.Collectors.groupingBy;
 
 public class Main {
@@ -18,7 +19,7 @@ public class Main {
     private static Map<String, Double> getAverageCourseGrades(Map<String, Map<String, Integer>> gradesMap) {
 
         return gradesMap.entrySet().stream()
-                .map(courseNameGradeMap -> new AbstractMap.SimpleEntry<>(courseNameGradeMap.getKey(),
+                .map(courseNameGradeMap -> new SimpleEntry<>(courseNameGradeMap.getKey(),
                 courseNameGradeMap.getValue().values().stream().mapToInt(Integer::intValue).average().getAsDouble())).
                 collect(Collectors.toMap(SimpleEntry::getKey, SimpleEntry::getValue));
     }
@@ -35,7 +36,7 @@ public class Main {
                 }));
 
         return nameGradesMap.entrySet().stream().
-                map(nameGradeList -> new AbstractMap.SimpleEntry<>(nameGradeList.getKey(),
+                map(nameGradeList -> new SimpleEntry<>(nameGradeList.getKey(),
                 nameGradeList.getValue().stream().mapToInt(Integer::intValue).average().getAsDouble()))
                 .collect(Collectors.toMap(SimpleEntry::getKey, SimpleEntry::getValue));
     }
@@ -43,6 +44,6 @@ public class Main {
 //    private static Map<String, Double> getAverageStudentGrades(Map<String, Map<String, Integer>> gradesMap) {
 //        return gradesMap.values().stream()
 //                .flatMap(studentGradeMap -> studentGradeMap.entrySet().stream())
-//                .collect(groupingBy(Map.Entry::getKey, Collectors.averagingDouble(Map.Entry::getValue)));
+//                .collect(groupingBy(Map.Entry::getKey, averagingDouble(Map.Entry::getValue)));
 //    }
 }
