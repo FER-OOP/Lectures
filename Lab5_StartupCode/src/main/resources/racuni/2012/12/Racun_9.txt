@@ -1,0 +1,19 @@
+Račun br. 823615
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LELEX 1 downlight, četvrt. brušeni al., neutr. bijele b. LED                        230.68   26   5997.68   1499.42
+Bočne stranice za Modul 2000/3S, dubine 150mm, tip 41/150                             4160   29 120640.00  30160.00
+Tipka s ručicom,zelena,3 pol.,50°,lijevo bez-desno s povrat.                         45.85   28   1283.80    320.95
+3-fazna fleksibilna spojnica, bijela                                                101.03   16   1616.48    404.12
+Bakrena sabirnica,TT profil, 1600A, duljina 3.6m,pokositrena                       4942.95    3  14828.85   3707.21
+Uzidni okvir s vratima - M3000, 3U-42                                              1666.27    5   8331.35   2082.84
+Signalna svjetiljka, glatka leća, zelena, s držačima                                 19.35   10    193.50     48.38
+
+                                                                                                         ----------
+UKUPNO                                                                                                    152891.64
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

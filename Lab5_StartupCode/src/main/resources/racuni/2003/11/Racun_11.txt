@@ -1,0 +1,31 @@
+Račun br. 302350
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Samostojeći ormar, 1-vrata,1600x800x400 (VxŠxD) bez MP R5                          3386.72   23  77894.56  19473.64
+LED RETROFIT RL-C40 5,3W 230V 827 470lm mat E14 15000h                               34.86    9    313.74     78.43
+Ugradni downlighter Segon 175 IP44 opal 2x18W EVG DA 175mm                          248.21    8   1985.68    496.42
+Završni poklopac LBR okrugli, zatvoreni                                              51.19    1     51.19     12.80
+Sklopnik vel. 00 | 4kW (9A) [AC-3] | 24VAC, 50Hz | 1 N/O                            107.32    5    536.60    134.15
+GIOTTO'S izolirana spojnica za uže, krom, 2 kom.                                     99.51   10    995.10    248.78
+LUNA 20W HIT PGJ5 uklj. izvor 5° inox okvir                                        2787.94   29  80850.26  20212.56
+Bezhalogeni kabel s el. funkc. do90 Min. (N)HXCH4x50rm/25E90                         10000   25 250000.00  62500.00
+Optički prespojni kabel duplex, LC/LC, 62,5/125µm OM1, 3m                             68.6   22   1509.20    377.30
+Prednja ploča, čelična, sa otvorom za uređaje, 2G4                                    4160   23  95680.00  23920.00
+Phos B42 dvostruka poluga za stup 76mm crna antracit SABLE N                       8039.73    5  40198.65  10049.66
+Linijska svjetiljka LUCIE T5 1-35/49/80W QTI aluminij                               599.29   11   6592.19   1648.05
+Kompaktni prekidač snage tip VE, 3P, 50kA, 1000A                                  15457.69   28 432815.34 108203.84
+"Mini 4,3"" COLOR-monitor, bijeli, za SBC sistem"                                  2008.81   28  56246.68  14061.67
+Nazidna utičnica sa zaštitom za djecu, bijela, 16A ,IP44                             81.01   18   1458.18    364.55
+7306G/C/24, 5LED 7w GU10 CW 24 ° 100-240v                                            64.71   17   1100.07    275.02
+Produžetak za PLENUM FIX podne svjetiljke, bijele b., 46cm                           187.2   27   5054.40   1263.60
+Cilindrični osigurač, 22x58, 80A, gG, 500V AC                                        17.56   29    509.24    127.31
+Mini sklopnik promjene smjera, 4kW | 24V AC                                         446.21   20   8924.20   2231.05
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1062715.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

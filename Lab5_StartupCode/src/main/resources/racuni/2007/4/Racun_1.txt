@@ -1,0 +1,14 @@
+Račun br. 122524
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+7308G/D/45, LED 7w GU10 DL 45 °                                                      47.47   30   1424.10    356.03
+Set za konverziju iz fiksne u izvlačivu izvedbu, za MO1, 3P                           4970    3  14910.00   3727.50
+
+                                                                                                         ----------
+UKUPNO                                                                                                      16334.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

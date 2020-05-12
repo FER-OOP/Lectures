@@ -1,0 +1,19 @@
+Račun br. 145543
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+DOWNUNDER LED 15 zidna svj., bb, tople bb LED                                       312.23   22   6869.06   1717.26
+Kartica multif. - 8 izlaza 4A, 3xRS232,  temp. Sensor,na DIN                       3755.26   25  93881.50  23470.38
+LED Retro svijeća, prozirna, E14, 1,8W, 3000K, 225lm                                 26.52    4    106.08     26.52
+AQUADOWN MICRO podna ugradna svjetiljka, 4kom, MR11 20W G4                          437.43   13   5686.59   1421.65
+Transformator, 1-fazni | 400/230V | 250VA, IP00                                     508.44   11   5592.84   1398.21
+Design IL ERT-LED 1x3W 230V AC/DC CPS ML, usmjerena,stropna                         792.96   29  22995.84   5748.96
+Metalhalogena žarulja 150W CDM-TD, NDL                                              249.72   15   3745.80    936.45
+
+                                                                                                         ----------
+UKUPNO                                                                                                    138877.72
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

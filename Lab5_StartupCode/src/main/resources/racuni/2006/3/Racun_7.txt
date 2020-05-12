@@ -1,0 +1,28 @@
+Račun br. 312865
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Industrijska svjetiljka LAMBDA 265/395 400W HIT IP65 šir. s.                       1230.69    1   1230.69    307.67
+Panik svjetiljka KW Wireless aku.bat LED 3h 230VAC stropna                         1500.13   10  15001.30   3750.32
+Otvoreni prekidač, 3P, 66kA, 2000A, fiksni, prednje priklj.                       35202.51   21 739252.75 184813.19
+Peri-III-S LED 2x30W 4000K 4800lm, IP65, crne boje                                 1099.25    3   3297.75    824.44
+LED Driver 700mA, 0-6W, ne dimabilno                                                 77.89   11    856.79    214.20
+Design IL ERT-LED 1x3W 230VAC 3h, ugradna,radijalno Autotest                        951.54   23  21885.42   5471.35
+Rezervni filter za ventilator 109x109mm, IP54 (pak=5 kom.)                           71.95   23   1654.85    413.71
+Dillon-I-R LED 3W 3000K 100lm, IP20, aluminij                                       285.88   24   6861.12   1715.28
+Okvir za vrata, za MC1, crni, IP40                                                   86.43   28   2420.04    605.01
+Metalna vrata visine 27mm za MODUL 160, 5x33 modula                                   4172   23  95956.00  23989.00
+Prespojni kabel RJ45/RJ45 ISDN, neoklopljeni, crni, 1.0m                              5.34   21    112.14     28.03
+VAP SLIM 30 ras.stupić, E27 max. 20W                                                875.55    1    875.55    218.89
+DIO FLEX PLATE,topla bijela LED, 1W, krom                                              418   15   6270.00   1567.50
+Finožični PVC-om izolirani vodič H07V-K (P/F) 4mm2, crni                            313.72   24   7529.28   1882.32
+3-fazni produžetak sa napajanjem, siva                                               65.04   27   1756.08    439.02
+Motus MS-D 360° 9m senzor pokreta IP20, stropni, bijeli                              82.28    1     82.28     20.57
+
+                                                                                                         ----------
+UKUPNO                                                                                                    905042.06
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

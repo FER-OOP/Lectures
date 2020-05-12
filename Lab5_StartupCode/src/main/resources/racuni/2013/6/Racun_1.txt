@@ -1,0 +1,20 @@
+Račun br. 101481
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Produžna osovina duljine 490mm za SI339110                                          105.04   27   2836.08    709.02
+Rokovnik 2017                                                                         9841   26 255866.00  63966.50
+"Natpisna pločica za umetanje fi=28mm, prozirna, ""BETRIEB"""                         3.09   14     43.26     10.81
+Oscar-II-R 20W E27, 100-240V, IP20, krom                                            285.88   12   3430.56    857.64
+Modularna slijepa ploča za AS/KS ormare, 600x100mm, RAL 7035                         78.02   29   2262.58    565.64
+Minijaturni relej, 3C/O, 10A, 24VAC, serije PT                                       36.38    8    291.04     72.76
+Ina-R/A1 LED 20W 3000K 1500lm, IP20, bijele boje                                    397.73    3   1193.19    298.30
+Ugradna kutija, podžbukna, dupla, 2xØ67, 45mm, M25, crna                            254.19    5   1270.95    317.74
+
+                                                                                                         ----------
+UKUPNO                                                                                                    267193.66
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

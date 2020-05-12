@@ -1,0 +1,24 @@
+Račun br. 626867
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Utičnica MO 1M 16A, sa dječjom zaštitom, bijela                                      18.29   12    219.48     54.87
+DMX Repeater & Splitter                                                             836.68   15  12550.20   3137.55
+Megaman LED žarulja oblik. svijeće E14 5,5W 2800K 470lm opal                          98.2   23   2258.60    564.65
+EUTRAC T-spoj lijeva, bb                                                            437.43    8   3499.44    874.86
+Devin-Q 2x13W G24q-1, 230V, IP20, sive boje                                          19.59    7    137.13     34.28
+Kronos-S/A2 LED 2x20W 3000K 2x1500lm, IP20, bijele boje                            1062.75   12  12753.00   3188.25
+GLENOS PROFILE 2508, 1m, aluminij                                                    77.89   25   1947.25    486.81
+3P sabirnica za pet motornih zaštitnih sklopki vel.00/0                              46.58   13    605.54    151.39
+Sklopnik 4P | 18.5kW (37A) [AC3] | 110V AC                                          510.05   15   7650.75   1912.69
+KNX Teretna sklopka HM,3x16A                                                       1463.55   16  23416.80   5854.20
+AIXLIGHT PRO I okr.FRAME ugradno kućište, srebrne boje                              312.23   13   4058.99   1014.75
+DURANZ ovjesna svjetiljka 2x35W T5                                                 1014.09   12  12169.08   3042.27
+
+                                                                                                         ----------
+UKUPNO                                                                                                     81266.26
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

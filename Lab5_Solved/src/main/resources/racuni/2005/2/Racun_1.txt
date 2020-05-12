@@ -1,0 +1,14 @@
+Račun br. 189062
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Prirubnica 410x56, za uvodnice: 9xM16, 4xM20, 1xM25                                  98.49   26   2560.74    640.18
+MD/PD 180 SLAVE P/Ž zidni senzor prisutnosti 180° Slave                             909.89    9   8189.01   2047.25
+
+                                                                                                         ----------
+UKUPNO                                                                                                     10749.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,25 @@
+Račun br. 185295
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Profil za ojačanje vrata WSM ormara visine 500mm (2 kom.)                            73.37   14   1027.18    256.80
+SITRA CUBE zidna svj.,četvrtasta,hr.boje,GX53, max. 9W                               393.5   19   7476.50   1869.13
+Reflektor CAPRI asimetrični 1x150W RX7S HIT/HST, crna                               520.94   20  10418.80   2604.70
+Centralna ploća fi 22,5mm, bijela                                                    91.06    7    637.42    159.35
+Bezhal. kabel poboljšanih svoj.za sl. požara N2XH-J 4x1,5re                          10000    8  80000.00  20000.00
+IBDN prespojni kabel RJ45 UTP cat.6A, sivi, 3.0m                                     75.96    1     75.96     18.99
+Izolirani kabelski tuljak, dvostruki, plavi, 2x2.5mm²/10mm                            0.26   22      5.72      1.43
+Radne cipele vel.37                                                                   9841    2  19682.00   4920.50
+Redukcija za uličnu svjetiljku QSTREET 04 na 60mm                                     8515   26 221390.00  55347.50
+FID sklopka 63-4-01/A, S izvedba, za frekventne pretvarače                         1371.79    2   2743.58    685.90
+LIGHT EYE BALL GU10 ovjesna svjetiljka GU10 max.50W zelene b                          8570   27 231390.00  57847.50
+Kabel YSLYQY-JZ 7x 1 prozirni                                                        10000   22 220000.00  55000.00
+Vodotijesna svjetiljka LINDA Transparente 1-36W ECG IP65 PC                         417.16   19   7926.04   1981.51
+
+                                                                                                         ----------
+UKUPNO                                                                                                     802773.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

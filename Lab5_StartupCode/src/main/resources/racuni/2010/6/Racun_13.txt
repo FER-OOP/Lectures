@@ -1,0 +1,28 @@
+Račun br. 1064468
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Plastični poklopac za IG706111, sivi, 200x300x40,bezhalogeni                        205.37   21   4312.77   1078.19
+Univer.opt.kabel A/I-DQ(ZN)BH 16x50/125µm OM3, LS0H-3, nm.                         1878.72    7  13151.04   3287.76
+"Opt. razdjelnik,24 niti, FC, 9/125µm OS2, izvlačivi,19"",1U"                      2479.43   16  39670.88   9917.72
+Kuka SL 8x35mm Mat. 1.4016, visine 45mm                                             103.38    2    206.76     51.69
+Grebenasta sklopka, 1-2/2P/20A,na vrata,centralno učvršćenje                        285.44   25   7136.00   1784.00
+Assembly of an LED System according to the customers request                       1104.99   20  22099.80   5524.95
+Beta 2/58W EVG, široki snop, difuzor od nehrđajućeg čelika                         2194.48   30  65834.40  16458.60
+Set za ožičenje sklopničke kombinacije promjene smjera vel.3                        144.87   21   3042.27    760.57
+Držač za RM releje                                                                       3   29     87.00     21.75
+"Zasun sivi ""Celanex"""                                                              1.86    4      7.44      1.86
+SAT LNB nosač za 3xLNB, podesivi, za HSATxxxAx,aluminijski                          114.24   27   3084.48    771.12
+Vodič (N)YM-J (PGP) 3x4mm2, sa zašt. vodičem, svij.-sivi                             10000    7  70000.00  17500.00
+Umetak izmjeničnog tipkala, na vijak                                                 15.62    9    140.58     35.15
+7307G/D, 7w GU10 DL                                                                   5.74   10     57.40     14.35
+SAT antena 45/40cm,čel.,33dB,pričvršć. na stup,bijela                               113.38    2    226.76     56.69
+NEW TRIA LED DL SQUARE SET, brušeni alum., 6W, 2700K, 38°                           437.43   10   4374.30   1093.57
+
+                                                                                                         ----------
+UKUPNO                                                                                                    233431.89
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

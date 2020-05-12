@@ -1,0 +1,21 @@
+Račun br. 630829
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+KALU 3 zidna i stropna svjetiljka                                                  1126.79   24  27042.96   6760.74
+TRAIL podna svj.LED 1250mm 37W 3600lm sim. 4000K                                   5554.17    2  11108.34   2777.08
+Bezhal. sign. kabel HSLCH-JZ 3x2,5 FRNCsivi/žila crna                                10000   16 160000.00  40000.00
+8007M/C/10, 70W 10 ° CDM-R E27 CW CERAMIC                                            16.05   15    240.75     60.19
+Linda LED Transparent 2x30W, 4000K, 8111lm, IP65                                    1425.4    4   5701.60   1425.40
+Ted-I-R 2x26W G24d-3, 230V, IP20, brušeni krom                                        5.74   30    172.20     43.05
+SSVGA produžni kabel 4C+5, pozl. kontakti, crni, 3m                                  83.84    3    251.52     62.88
+LED ES111, 6,5W, COB LED, 2700K, 38°                                                280.98   13   3652.74    913.18
+Telekomunikacijski kabel J-Y(ST)Y 20x2x0,6mm2                                      1470.43   21  30879.03   7719.76
+
+                                                                                                         ----------
+UKUPNO                                                                                                    239049.12
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

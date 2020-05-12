@@ -1,0 +1,18 @@
+Račun br. 738827
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Mod.sklopnik serije ALEXA,1NO 16A,230VAC,120A potezne struje                        244.33   30   7329.90   1832.47
+Cleo-R 70W G12, 230V, IP20, bijele boje                                               5.74   23    132.02     33.00
+N/Ž okvir + vrata 3A-18 D=250mm str.ploča+zakr. ručica, IP54                       2800.83    1   2800.83    700.21
+Pako-Q/A2 LED 1W 6000K 60lm,dimabilna,350mA,IP20,aluminij                            37.67   16    602.72    150.68
+Prijenosni LED reflektor 10W, baterija 3h, 4200K, 900lm                             445.08    6   2670.48    667.62
+Stezna nazuvica M20, slijepa                                                          0.96    9      8.64      2.16
+
+                                                                                                         ----------
+UKUPNO                                                                                                    13544.589
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

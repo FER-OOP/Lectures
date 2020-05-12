@@ -1,0 +1,28 @@
+Račun br. 539264
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+T5-BAR 24W, Stropna ugradna svjetiljka aluminij                                     625.15    5   3125.75    781.44
+Ulična svjetiljka GENESIS VP HST 100W IP65 RAL7030                                 1403.98   19  26675.62   6668.90
+Montažni okvir za Downunder II i III, PL/R7S,veliki                                   8575    5  42875.00  10718.75
+Fluo cijev T5|T16 24W High Output, 3000K                                             62.34   17   1059.78    264.95
+Spojnica za cijev KSX80/80                                                           31.95    8    255.60     63.90
+Sklopnik vel. 00 | 4kW (9A) [AC-3] | 24VAC, 50Hz | 1 N/C                            102.44   19   1946.36    486.59
+Ugradni downl. SEGON M 170 ECO 13W 1100lm 840 EVG IP44 ,bb                          292.56   20   5851.20   1462.80
+Pomoćni kontakt, 1 N/O + 1 N/C, za prednju ugradnju                                  43.57    3    130.71     32.68
+Laki gumeni kabel H05RR-F 3x2,5, crni                                               984.67   29  28555.43   7138.86
+Instalacijski sklopnik 40A | 3 N/O | 230V AC                                        317.65   11   3494.15    873.54
+Telekomunikacijski kabel F-YAY 40x2x0,6mm2                                           10000   30 300000.00  75000.00
+Kabelska spojnica, izolirana, plava, 1,5-2,5mm²                                      89.39   13   1162.07    290.52
+Perforirana montažna + stražnja ploča za MODUL 160, širina 2                          4172   15  62580.00  15645.00
+Ormar za baterije prazan 800x1950x600 (ŠxVxD) 6 polica,cokl                       15590.67   21 327404.06  81851.02
+Uzidni okvir s vratima za Modul 2000 | 2U-21 | dubina 100mm                           4190   19  79610.00  19902.50
+LEVANTE B1-P 550mm,zidni nosač za 60-76mm, crna                                    1532.77    5   7663.85   1915.96
+
+                                                                                                         ----------
+UKUPNO                                                                                                     892389.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

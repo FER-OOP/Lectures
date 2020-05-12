@@ -1,0 +1,25 @@
+Račun br. 647195
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Bimetalni relej, područje podešenja 10.0-14.0A                                      228.14    8   1825.12    456.28
+FID sklopka 63-4-003/A (puls), G izvedba, VSF                                       784.06   15  11760.90   2940.23
+Finožični PVC-om izolirani vodič H07V-K (P/F) 240mm2, crni                        20944.35   21 439831.34 109957.84
+Instal. umetak 4-28K komplet 9 IR prednja pl. čelik                                2044.07   19  38837.33   9709.33
+Gumena uvodnica za kabel, bijele boje 8mm/6mm                                         1.61    4      6.44      1.61
+AIXLIGHT MOD 2 GU10, srebrne boje                                                   265.26   25   6631.50   1657.88
+Kućni komunikac. razdj., 3-redni, 44xTOOLL., 4x230V, RAL9003                        840.96   26  21864.96   5466.24
+Instal. umetak 1-21L komplet 7 IR prednja pl. plastika                             1179.98    4   4719.92   1179.98
+316 ANALOG-Panel Video s 3 tipke, nehrđajući čelik, VIP                           13138.11   24 315314.66  78828.66
+Pomoćni kontakt, 2 C/O kontakta, vijčana montaža                                     58.05    3    174.15     43.54
+Zaštitni prekidač B 10A, 1-polni+N, širine 1 modula                                  89.19   22   1962.18    490.55
+Vodotijesna svjetiljka DEVA ECO PC 2x28W ECG                                        244.49   19   4645.31   1161.33
+Ugradna svjetiljka SEP XTP T5 4x28W ECG IP54 M600, bijela                          1152.03    5   5760.15   1440.04
+
+                                                                                                         ----------
+UKUPNO                                                                                                     853333.9
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

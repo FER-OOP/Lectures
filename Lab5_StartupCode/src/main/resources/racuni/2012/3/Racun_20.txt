@@ -1,0 +1,25 @@
+Račun br. 152144
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+AFDD, series Lisa, C 20 A, 2-pole, 30 mA, A/delayed, 10 kA                         1264.15   21  26547.15   6636.79
+Ugradna svjetiljka SEO PC T5 2x35W, ECG, bijela                                     512.87   29  14873.23   3718.31
+HSS Bimetal cilindr.pila za rupe, d121mm,bez osovine                                422.24   27  11400.48   2850.12
+Mehaničko zabravljenje 23-40A 230V                                                  411.19   23   9457.37   2364.34
+Paralelna spojnica (kratkospojnik) za 4 stezaljke SCB6                                 6.1   13     79.30     19.82
+UPS Dialog Dual 4000VA 2400W / Online                                             12821.76   26 333365.75  83341.44
+Lamelirana bakrena sabirnica, 640A, duljina 2m, 10x20x1mm                           1295.7   25  32392.50   8098.12
+"19"" nap. letva za UPS, 8xUTE crv.,C14 kabel 2m,10A osig.,1U"                      505.04   27  13636.08   3409.02
+Regulator punjenja baterija  MPPT 150/85A -12/24/36/48V=85A                        6430.07    2  12860.14   3215.03
+Ulična svjetiljka GENESIS VP HSE/I 70W IP65 RAL7030                                1195.47   28  33473.16   8368.29
+Industrijska svjetiljka SCUP AL 1x400W HS/HI IP65 E40                               835.72   14  11700.08   2925.02
+PARA CONE 14 ovj.svj. okrugla bijele/zlatne b.GU10 uklj.1f a                        562.63   14   7876.82   1969.21
+NEW TRIA I MR16 downlight, četvrt., mat crne b., max. 50W                           174.53   12   2094.36    523.59
+
+                                                                                                         ----------
+UKUPNO                                                                                                    509756.44
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

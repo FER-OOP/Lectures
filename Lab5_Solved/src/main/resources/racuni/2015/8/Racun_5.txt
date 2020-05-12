@@ -1,0 +1,30 @@
+Račun br. 995319
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"Gljivasto tipkalo bez povrata, crveno, debl. pritiskom ""0"""                       91.59   12   1099.08    274.77
+Linijska svj. SERM-LF 112, početni profil,  2x28W, ECG, bb                          557.71    9   5019.39   1254.85
+Sutil Round  LED 18W, 3000K, 1080lm, 120°, IP40, bijele boje                        212.21    5   1061.05    265.26
+BRICK LED 24 zidna svj., četvrtasta, tople bb LED                                   500.12    7   3500.84    875.21
+Napajanje za 3-fazne šine, električni, siva                                          43.25    7    302.75     75.69
+GLENOS završni pokrov za profil 1808, crne boje                                      43.76   16    700.16    175.04
+Staklena vrata za AS ormare 2200x800mm, prozirna, RAL 7035                         3410.68    5  17053.40   4263.35
+Tipka za upr. roletama (za 112800 i 111800), biserno bijela                          34.29    9    308.61     77.15
+Pregibnica crna za oklopljene ili neoklopljene RJ45 utikače                           0.84    7      5.88      1.47
+Finožični PVC-om izolirani vodič H05V-K (P/F) 0,75mm2, ž/z                           72.86   19   1384.34    346.08
+E-AYY-J 3x240/120SM                                                                  10000   24 240000.00  60000.00
+Okvir s čeličnim vratima za BK085002-A/BK085052-A, 2-redni                          199.29   21   4185.09   1046.27
+Set vijaka M5, nehrđajući čelik                                                      15.54   12    186.48     46.62
+Rasvjetni stupić Taco-PL2, E27, 15W, IP44, siva                                     332.17   25   8304.25   2076.06
+Sklopnik vel. 00 | 5,5kW (12A) [AC-3] | 24VDC | 1 N/C                               152.12   25   3803.00    950.75
+Kompaktni prekidač snage tip A, 3P/125A/36kA, box stezaljke                         950.46   11  10455.06   2613.77
+IP FLEXLED ROLL 24V, 25W, 3000K, 5m, 60LED/m, IP55                                  500.12    6   3000.72    750.18
+SAT multiswitch 5 IN 10 OUT za quattro/quad LNB,kask.,10m                          1320.28    2   2640.56    660.14
+
+                                                                                                         ----------
+UKUPNO                                                                                                    303010.66
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

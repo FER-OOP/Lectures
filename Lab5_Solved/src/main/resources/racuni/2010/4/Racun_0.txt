@@ -1,0 +1,18 @@
+Račun br. 1023500
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Vezna spojnica V4A, vodič Ø10 - sonda Ø20mm                                          51.97   14    727.58    181.90
+7309G/W, 9w GU10 WW                                                                   5.74   19    109.06     27.26
+TRAIL podna svj. LED 650mm 9W 900lm sim. 4000K                                     2802.68    1   2802.68    700.67
+Svjetiljka s drškom                                                                 438.64   16   7018.24   1754.56
+Optički prespojni kabel duplex, ST/SC, 62,5/125µm OM1, 10m                           92.37   21   1939.77    484.94
+WAVE WALL zidna svjetiljka 2x4,6W LED, 3000K, 700lm, mesing                        1188.46   19  22580.74   5645.18
+
+                                                                                                         ----------
+UKUPNO                                                                                                     35178.07
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

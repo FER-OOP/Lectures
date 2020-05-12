@@ -1,0 +1,21 @@
+Račun br. 806864
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+INOX samostojeći ormar, 2000x800x400mm (VxŠxD)                                    19576.79    8 156614.31  39153.58
+Signalni fleksibilni kabel YSLCY-OZ 3x 2,5 sivi                                      10000    9  90000.00  22500.00
+Blok pomoćnih kontakata za sklopnike vel. 00, 2 N/O+2 N/C                            41.44   22    911.68    227.92
+VANDALCOM P/Ž kutija, 3 modula                                                      481.88    9   4336.92   1084.23
+GALEN LED Profil sa 15x1W LED, tople bb                                            1871.23    1   1871.23    467.81
+Nosač za SPEED WORK XC900001--                                                      126.29   23   2904.67    726.17
+Aktuator za rolete  4 x AC 230V‚ 6 A (2 paralelna izlaza)                          1415.57   29  41051.53  10262.88
+LED napajanje  150W/24V IP67                                                       1589.36    1   1589.36    397.34
+Ugradna kutija-šuplje stijenke, dupla, 2x60/47mm narančasta                         753.67   25  18841.75   4710.44
+
+                                                                                                         ----------
+UKUPNO                                                                                                    318121.47
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

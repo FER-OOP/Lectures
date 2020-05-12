@@ -1,0 +1,20 @@
+Račun br. 429027
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+SOLF T5 zidna svj., bb/krom                                                        1300.81    3   3902.43    975.61
+Optički prespojni kabel duplex SC/SC, 50/125µm OM4, 3.0m                            124.44   20   2488.80    622.20
+SAT stup za r. krov, 4xbeton 50x50cm, V=110cm, čelik                               2286.86   18  41163.48  10290.87
+KNX sučelje za tipku 4 kanala                                                       522.96   30  15688.80   3922.20
+4-ti pol za LTS63-LTS80 E                                                            91.96   29   2666.84    666.71
+Kabel H03VV-F (PP/L) 2x0,75mm2, smeđi, 50m kolut                                     10000    3  30000.00   7500.00
+Finožični PVC-om izolirani vodič H07V-K (P/F) 2,5mm2,t-plavi                        195.31    1    195.31     48.83
+Zaštita od dodira priključnih stezaljki, za 3-polne MC3                             115.59   10   1155.90    288.97
+
+                                                                                                         ----------
+UKUPNO                                                                                                     97261.56
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

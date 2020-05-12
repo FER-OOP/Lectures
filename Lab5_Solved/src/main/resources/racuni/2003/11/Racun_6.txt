@@ -1,0 +1,14 @@
+Račun br. 857176
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Tenora WL-1 zidna svjetiljka, E27, max. 60W, kratka, krom/bb                        875.55   28  24515.40   6128.85
+Grebenasta sklopka (glavna, sivo/crna), 0-1/3P/40A, na DIN                          214.89    3    644.67    161.17
+
+                                                                                                         ----------
+UKUPNO                                                                                                     25160.07
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

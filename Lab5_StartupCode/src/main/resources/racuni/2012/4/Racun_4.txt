@@ -1,0 +1,31 @@
+Račun br. 990377
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kompaktni prekidač snage tip AE, 4P, 50kA, 630A/400A, red. N                       6117.13   20 122342.59  30585.65
+Nosač MO 1M bez nožica, za knauf kutije                                               4.37   17     74.29     18.57
+Kućište s poklopcem (razvodna kutija) 88x88x45.5mm, IP44                             12.59   10    125.90     31.48
+Metalhalogena žarulja HIT-CE 35W/830 G12                                            167.54   16   2680.64    670.16
+Gumeni kabel, otporan na temperat. do 110° H07G-K 2,5, crni                          10000   18 180000.00  45000.00
+Nadgradna svjetiljka Torno 2 Plafo, E27, 2x18W IP65 antracit                        231.98   15   3479.70    869.93
+Napajanje 36W, 12V, IP67                                                            170.33    8   1362.64    340.66
+LINDA LED PC 2x30W, 4000K, 8749lm, IP65, Inox kopče, siva                          1529.64    9  13766.76   3441.69
+65100/, baza za montažu                                                              43.92    4    175.68     43.92
+Most (kratkospojnik), 4P na 2P, za MC2, s pokrovom                                  792.29   14  11092.06   2773.01
+XL-Fleece jacket  breathable, waterproof, windproof                                 654.13   17  11120.21   2780.05
+SFL PAR56 T 70 LONG HV G12 SPOT, alum., 70W, uklj. adapter                         1433.11   27  38693.97   9673.49
+Transformator, 1-fazni | 230/024V | 630VA, IP00                                     966.95   23  22239.85   5559.96
+Stropna svj. Rolo-CL small, GU10 QPAR 16, 35W, IP54, siva                           144.46   10   1444.60    361.15
+Fluokompaktna žarulja TC-DEL 26W/840 G24Q-3                                          26.83   21    563.43    140.86
+P/Ž inst. razdj. 2U-12, 4-redni, 84 ŠM,640x590x180mm (VxŠxD)                       1946.59    9  17519.31   4379.83
+Ind.svj.ARKTUR SQUARE LED 184W 20000lm/757 ECG IP65 120x40°                        3503.32   12  42039.84  10509.96
+Twister Downlights 2-struka, okrugla, srebrne boje                                  143.65    1    143.65     35.91
+Nadgradna svjetiljka PRIMO H OPAL T5 2x14W ECG, bijela                               274.9   26   7147.40   1786.85
+
+                                                                                                         ----------
+UKUPNO                                                                                                    476012.53
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

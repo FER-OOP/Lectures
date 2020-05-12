@@ -1,0 +1,19 @@
+Račun br. 207253
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Relej, 1C/O, 8A, 24VDC serije RT, raster 5mm                                         18.37   24    440.88    110.22
+Ugradna svjetiljka SEO PC T5 1x28W, ECG, bijela                                     461.83    2    923.66    230.91
+Flora-II-R/A2 80W E27 PAR38, 100-240V, IP65, nehrđajući č.                          534.92   25  13373.00   3343.25
+Kabel EYY-J (PP00-Y) 3x1,5RE                                                        453.37    9   4080.33   1020.08
+Dimer 40-600W, podžbukni                                                            708.25   10   7082.50   1770.62
+PT-RC utični modul, 110-230VAC, EM03                                                 10.78    8     86.24     21.56
+Nadgradna svjetiljka SAO ECO T5 1x54W ECG, bijela                                   316.32   10   3163.20    790.80
+
+                                                                                                         ----------
+UKUPNO                                                                                                    29149.812
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

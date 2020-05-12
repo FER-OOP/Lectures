@@ -1,0 +1,31 @@
+Račun br. 184836
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+SAT zid. nosač,R=460mm,V=270mm,ploča=130x160mm,stup=40mm,čel                         92.21    2    184.42     46.10
+Kompaktni prekidač snage tip A, 3P/25A/25kA, MC1                                    706.95    9   6362.55   1590.64
+Bakreno uže 35 mm2                                                                 3877.91   29 112459.39  28114.85
+Voltmetar, 48x48mm, 500V AC                                                         129.76    5    648.80    162.20
+Industrijska svjet. CERES 1x99W,LED, 8800lm/750, crne boje                         2516.77   22  55368.94  13842.23
+Optička splice kazeta s držačem za 24 niti                                           27.17   20    543.40    135.85
+Zaštitni prekidač, C karakteristika, 0.5A, 1-polni, 6kA                               4465   10  44650.00  11162.50
+Poluvodički sklopnik 1-polni | 30A/24-480VAC, 24-230VAC/DC                          688.66   23  15839.18   3959.79
+Tipkalo uskočno, plosnato, žuto                                                      61.57   12    738.84    184.71
+Grebenasta sklopka u kućištu, uvodnica M20, 1-0-2/1P/16A                            246.94   19   4691.86   1172.96
+Kronos-S/A2 LED 2x20W 4000K, IP20, sive boje                                        729.23   23  16772.29   4193.07
+"Ručno tipkalo ""Comfort"", 1 svjetleća tipka, bijelo, kabel 2m"                      2104   28  58912.00  14728.00
+EWsigurnosna lampa LED 230V za CPS MIX mod-ML, ugradna mont                        1553.35   19  29513.65   7378.41
+Utičnica šuko sa zašt. kont i dječ. zaštit. na vijak bijela                          19.38    8    155.04     38.76
+Neizolirana Cu stopica 240mm², M16                                                   38.96   18    701.28    175.32
+Linijska svj. SERM-LL 112, završni profil,  2x49W, ECG, bb                          599.29   17  10187.93   2546.98
+Poliester kućište 360x360x201mm, IP66, RAL 7035 (sivo)                              754.03   22  16588.66   4147.17
+PRIMOLUX LED 35W 4050lm/840 opal ECG IP44, dužine 1235mm,bb                         854.62   26  22220.12   5555.03
+Stezaljka sa oprugom za priklučak 25/3 3x2x6mm2                                      46.89   25   1172.25    293.06
+
+                                                                                                         ----------
+UKUPNO                                                                                                    397710.62
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

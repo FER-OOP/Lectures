@@ -1,0 +1,19 @@
+Račun br. 979317
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Prespojni kabel RJ45 STP cat.6a/10GB, LS0H, plavi, 10.0m                             98.51   21   2068.71    517.18
+Pokrov za signalnu lampicu, plosnati, žuti                                            8.36   15    125.40     31.35
+Kabel JE-LiYCY 12x2x0,5 Bd Si, sivi                                                  10000   24 240000.00  60000.00
+Sutil Round  LED 30W, 3000K, 1800lm, 120°, IP40, sive boje                          331.49   17   5635.33   1408.83
+Ugradna downlight svjetiljka ERK 207 2-26 TC-DEL ECG bijela                         288.08   29   8354.32   2088.58
+ARROW-LINE, vel.2, 3P, V-stezaljke, za strujni trafo                                  4821    7  33747.00   8436.75
+Odjelna pločica, crvena, utična, za stezaljke 6mm2                                    1.42    2      2.84      0.71
+
+                                                                                                         ----------
+UKUPNO                                                                                                     289933.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,33 @@
+Račun br. 540701
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+DEKLED Ugradna svjetiljka, tople bijele boje, 1W                                    128.91   26   3351.66    837.92
+Jednožični PVC-om izolirani vodič H07V-U (P) 4mm2, zeleni                           286.39   17   4868.63   1217.16
+Sklopnik 3P | 4kW (10A) [AC3] | 230V AC | + 1N/C (ugrađen)                          123.98    2    247.96     61.99
+AITES LED ROUND za ugradne kutije, bijele b., 3000K                                 249.72   22   5493.84   1373.46
+Signalni fleksibilni kabel YSLY-OZ 4x1,5 sivi                                        10000   27 270000.00  67500.00
+Alan-II-S 40W G9, 100-240V, IP20, aluminij                                          165.74   21   3480.54    870.14
+LED RETROFIT RL-PAR16 35 3W 230V 36° 840 700cd GU10 15000h                           52.07   22   1145.54    286.39
+VANDALCOM P/Ž kutija, 1 modul                                                       410.31   21   8616.51   2154.13
+Kabel YSLYQY-JZ 7x 1,5 prozirni                                                      10000   30 300000.00  75000.00
+Bezhal. kabel poboljšanih svoj.za sl. požara N2XH-J 4x2,5re                          10000    3  30000.00   7500.00
+Okomita vodilica kabela za DS/DSZ/DSI ormare 42U                                    259.87   20   5197.40   1299.35
+Sklopnik vel.3 | 4P | AC1 140A/690V | 24VAC                                        1338.54   10  13385.40   3346.35
+Poprečni kanalski kutnik                                                             13.82    1     13.82      3.45
+Okvir 3M line, zlatni                                                                34.07    5    170.35     42.59
+Prizma stezaljke 1,5-70mm2, za vel.1 - 3, (set)                                      19.85   29    575.65    143.91
+LED GU10 5W, 40°, 2700K                                                             155.78   16   2492.48    623.12
+Uzidni okvir s vratima+umetak, 2U-21, 100mm (plosnati)                             1563.78   27  42222.06  10555.52
+RUSTY 50 LED SLOT vanjska svjetiljka, 3000K, IP44, rusty                           1808.71   15  27130.65   6782.66
+POWER TRAIL LITE podna ugradna svjetiljka, 1W LED bb                                374.92   17   6373.64   1593.41
+Nadgradna svjetiljka SAO ECO T8 4x18W CCG, ind, bijela                              372.32   23   8563.36   2140.84
+Teretna sklopka, 4P, 630A, opcija:dalj. isklop+izvl. modul                         6868.85   29 199196.66  49799.16
+
+                                                                                                         ----------
+UKUPNO                                                                                                     932526.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

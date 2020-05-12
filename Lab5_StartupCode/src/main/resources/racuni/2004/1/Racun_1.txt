@@ -1,0 +1,31 @@
+Račun br. 787098
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+DCM modul 2 kruga,pripremni/trajni spoj, 20 lampi /krug, 6A                        1945.63    9  17510.67   4377.67
+Ugradna svjetiljka SERH 2 A8 L1 T5 1x24W, ECG, bijela                                 8534    3  25602.00   6400.50
+Teški gumeni kabel H07RN-F 2x4, crni                                                 10000    2  20000.00   5000.00
+Bočni profil za podešenje 0 mm na 90 mm, vel.00                                       4821   17  81957.00  20489.25
+Dimer, uzidni, AN60400W R                                                            64.68   19   1228.92    307.23
+RS232/EASY 9-polni kabel, 2m                                                        505.75   10   5057.50   1264.38
+Video vanjski panel, 32 tipke, sa PTT otvorom                                      3851.52   26 100139.52  25034.88
+NV rastavna sklopka vel.00|160A, 3P, M8, sustav 60mm                                303.91   21   6382.11   1595.53
+Bimetalni relej za LA1, područje podešenja 0.27-0.4A                                342.03   13   4446.39   1111.60
+Panik lampa KM beržična LED/3W/3h 230VAC montaža  zid/strop                        1576.73    2   3153.46    788.36
+Aluminijski profil MFR 2m                                                           219.82   15   3297.30    824.33
+Ugradna svjetiljka SERH 310 T8 2/58W ECG sj. raster                                 683.06   10   6830.60   1707.65
+Polucilidar (umetak) 5mm, dvostruka brada                                            49.61    8    396.88     99.22
+LED DOWNUNDER okr. zidna svj.,okrugla,antracit,LED tople bb                         813.03   20  16260.60   4065.15
+Prospekt-Priori 2009 N                                                                   0    3      0.00      0.00
+Motorni pogon za MC4, 24-30V DC                                                       4962   21 104202.00  26050.50
+PDE 360i/24 DIM-MASTER P/Ž stropni senzor prisutnosti Ø24m                         1598.09   20  31961.80   7990.45
+Svjetleće tipkalo s povratom, visoko, žuto                                           62.91   10    629.10    157.27
+Završna pločica 2/3-polna                                                             6.07    8     48.56     12.14
+
+                                                                                                         ----------
+UKUPNO                                                                                                    429104.44
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

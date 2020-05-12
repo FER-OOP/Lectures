@@ -1,0 +1,30 @@
+Račun br. 358579
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+PRIMOLUX LED 51W 5900lm/840 opal ECG IP44, dužine 1235mm,bb                         931.71    1    931.71    232.93
+Sklopnik vel. 2 | 15kW (32A) [AC-3] | 230VAC, 50/60Hz                               349.42   22   7687.24   1921.81
+Servisni daljinski upravljač za Sphinx RC 104                                        99.99    9    899.91    224.98
+Tipka za upr. roletama (za 112800 i 111800), inox efekt                             116.18   17   1975.06    493.77
+"Natpisna pločica za umetanje fi=28mm, prozirna,,""ON"""                              3.09   27     83.43     20.86
+Kabel H03VV-F (PP/L) 2x0,5mm2, svijetlo-sivi                                         10000   14 140000.00  35000.00
+Tipka MO 1M sa simbolom svjetla, crna                                                  7.5    9     67.50     16.88
+89020, LED DRIVER 350mA 11-20w , ulaz 230v                                           80.59    1     80.59     20.15
+Kabelska uvodnica s maticom, PG9, IP68                                                2.24    4      8.96      2.24
+SAM08  query mod.8 nez.ulaza za isk/uklj rasvj.,preinstal.                         3070.92    7  21496.44   5374.11
+FRAME BASIC Downlight MR16                                                          112.31   14   1572.34    393.08
+Bezhal. kabel HSLH-JZ5x6FRNC H-F 1žila ž/z ostale crn/siv                            10000   20 200000.00  50000.00
+Termoskupljajući bužir u kutiji (5m), crni, 6.4/3.2mm                                11.67   23    268.41     67.10
+LED RF kontroler RGBW remote control white                                          836.68   11   9203.48   2300.87
+7521R/C/24, LED MODULE AR111 21w 24d CW + DRIVER 100-240v                            258.5   21   5428.50   1357.13
+Zaštita od dodira priključnih stezaljki, za 4-polne MC2                              78.48    9    706.32    176.58
+Pokrov priključnih stezaljki za MC3, 4-polni, odlomljivi                            170.37   10   1703.70    425.92
+Isklopnik, 3-polni+N, 63A                                                           357.84   30  10735.20   2683.80
+
+                                                                                                         ----------
+UKUPNO                                                                                                    402848.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

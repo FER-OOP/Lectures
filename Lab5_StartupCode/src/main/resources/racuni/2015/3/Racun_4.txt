@@ -1,0 +1,28 @@
+Račun br. 985154
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kabel za motorne pogone oklopljeni SLCM-JB 4x95 0,6/1kV sivi                      72530.28   211523135.88 380783.97
+Spojnica sa smolom MU2 Ø3-28mm                                                      268.18   27   7240.86   1810.21
+NEW TRIA 68 GU10 downlight, okrugli, mat bijela b., max. 50W                        153.24    8   1225.92    306.48
+Relej za nadzor struje 0.5 - 5A, 230VAC, 1 fazni, 1 C/O                              392.7   22   8639.40   2159.85
+NEW TRIA II QRB111 SQUARE, uklj. opruge, crne boje                                  531.37   24  12752.88   3188.22
+Razdjelnik N/Ž, s prozirnim vratima 2R / 28 modula IP65                             983.47    2   1966.94    491.73
+Mikroprekidač za vrata                                                              142.08   27   3836.16    959.04
+"Kućište sa tri tipkala ""1""-""0""-""2"" (zeleno/crveno/zeleno)"                   266.84    6   1601.04    400.26
+Fleks. kabel SF/UTP 4x2xAWG26/7, cat.5e, 200MHz, PVC, žuti                          520.52    7   3643.64    910.91
+Podnožje 3-polno za UAS15                                                            216.6   15   3249.00    812.25
+Kompaktni prekidač snage tip VE, 4P, 85kA, 800A                                   15578.21   12 186938.52  46734.63
+Odjelnik N vodova                                                                    32.52   24    780.48    195.12
+KADUX LED Single DL Set, 3000K, 38°, brušeni aluminij                               468.69   11   5155.59   1288.90
+Small Connect, priključna stezaljka 10mm² za BS990171--                               4230    8  33840.00   8460.00
+Priključne stezaljke za 4-polne MC2 (4 kom.)                                         82.88    2    165.76     41.44
+51200TR/B,  2L UGRADNA KUTIJA BEZ VIDLJIVOG RUBA, crne boje                          218.8    3    656.40    164.10
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1794828.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

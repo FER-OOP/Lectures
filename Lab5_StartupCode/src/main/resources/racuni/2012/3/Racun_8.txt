@@ -1,0 +1,20 @@
+Račun br. 345922
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Sutil-Q LED 30W 6000K 2174lm, IP40, bijele boje                                     512.96   27  13849.92   3462.48
+Zaštitni prekidač MB 18kA BT 80/4                                                   617.24   17  10493.08   2623.27
+Sklopnik vel. 0 | 11kW (25A) [AC-3] | 24VDC                                         357.71   12   4292.52   1073.13
+Telephone License za MUG, 1 korisnik                                                111.41   18   2005.38    501.35
+ARROCK SAND 40 samost. svj.,pjesak, E27, max. 15W                                  2184.14   17  37130.38   9282.59
+DIN-nosač 35/7,5mm za WKS, širina 500mm, pocinčani (5 kom.)                           4065   11  44715.00  11178.75
+3f reflektor VITO DC LED 30W 2500lm/830 ECG 20°, bijele boje                       1278.14   21  26840.94   6710.23
+Redna stezaljka (vijčani priključak) 10mm², tip CBC, plava                             6.5   27    175.50     43.88
+
+                                                                                                         ----------
+UKUPNO                                                                                                    139502.72
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

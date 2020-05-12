@@ -1,0 +1,26 @@
+Račun br. 723173
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+NV rastavna sklopka vel.4a|1600A,3P,2xM12,stez.500mm²,na pl.                       8387.49   20 167749.81  41937.45
+PURI 2 stropna svj., mat crna b., GU10, max. 2x50W                                  468.69   15   7030.35   1757.59
+Držač za instalacijsku cijev KSR DN 50                                               48.73   30   1461.90    365.48
+Odvodnik prenapona COMBTEC kl.B/C TT 275/12,5                                      2093.79   26  54438.54  13609.63
+Set za učvršćenje Maxipol POVA i POVC ormara za zid (4 kom.)                          4160   30 124800.00  31200.00
+"Samostojeći komunikacijski ormar DS 600x1080x600, 19"", 22U"                      2783.98   28  77951.44  19487.86
+Kompaktni prekidač snage tip AE, 4P, 50kA, 1000A                                  17941.27   19 340884.13  85221.03
+LS-FI (KZS), C/40/30mA, 2P, Tip A, 6kA                                                4281    8  34248.00   8562.00
+Priključna stezaljka 2 x M 8 - 1 x V-stezaljka 2 x 35–70 mm2                         62.76   10    627.60    156.90
+Dekorativni pokrov za KALOS svjetiljku sa 4 kraka, antracit                         418.86    1    418.86    104.72
+Svjetlosna sklopka sa satom,digitalna, 2-2000 Lux, 1C/O, 16A                       1087.63   24  26103.12   6525.78
+Assembly of an 2 pole (Mono) LED Flexstrip IP43                                      138.2    4    552.80    138.20
+Serijski ormar AS, 2-vrata, 2000x1000x600 (VxŠxD), RAL 7035                        4912.89   19  93344.91  23336.23
+N stezaljka sa 15 odvoda                                                             34.63   21    727.23    181.81
+
+                                                                                                         ----------
+UKUPNO                                                                                                    930338.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

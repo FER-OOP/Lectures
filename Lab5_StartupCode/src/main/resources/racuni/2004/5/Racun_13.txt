@@ -1,0 +1,26 @@
+Račun br. 611694
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Pokrov za antensku utičnicu HSAT…, 4 otvora, bijeli                                    8.9   15    133.50     33.38
+Pomoćni sklopnik ET, 4A | 24V DC | 3N/O + 1N/C                                      211.01    2    422.02    105.51
+PURI 3 stropna svj., mat bijela b., GU10, max. 3x50W                                593.89   11   6532.79   1633.20
+Kabel H03VV-F (PP/L) 4x0,75mm2, smeđi, 500m kolut                                    10000    2  20000.00   5000.00
+Grebenasta sklopka u kućištu (crveno/žuta), 0-1/3P/80A, IP65                        753.89   13   9800.57   2450.14
+LS-FI (KZS), B/13A/30mA, 1P+N, Tip AC, G izvedba, 10kA                              609.79   25  15244.75   3811.19
+LEDPANEL 100, tople bb LED, okvir srebrne boje                                       376.1    6   2256.60    564.15
+NEW MYRA WALL SPOT zidna svjetiljka, 2xGU10, IP55, sive boje                       1000.75   10  10007.50   2501.88
+Kabelski kanal 60X40 (VxŠ), 2m, perforirani, sivi, RAL7030                           29.51   15    442.65    110.66
+Redna stez. (utični priklj.) 6mm², tip HTE.6, žuto/zelena                            18.45   12    221.40     55.35
+L-SE spojnica RCP R2 AL za T8 2str. (2kom)                                           15.97   21    335.37     83.84
+PlanoCentro LON, senzor prisutnosti, stropni, bijeli                                  2172   19  41268.00  10317.00
+Izolirana sabirnica za 2 rastavne sklopke vel.000, 3P, 35mm²                        185.76   14   2600.64    650.16
+Ispravljač, 1-fazni | 400/24VDC | 5A                                               1144.28   23  26318.44   6579.61
+
+                                                                                                         ----------
+UKUPNO                                                                                                    135584.23
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

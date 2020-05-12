@@ -1,0 +1,29 @@
+Račun br. 654173
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Sutil Quadro LED 16W, 4000K, 1120lm, 120°, IP40, sive boje                          205.45    9   1849.05    462.26
+Janine-II-R 50W GU5,3 MR16, 12V, IP20, aluminij                                      88.02   15   1320.30    330.07
+Signalni fleksibilni kabel YSLY-JZ 42x0,75 sivi                                      10000   21 210000.00  52500.00
+Prednja ploča, plastična, slijepa, 1B3K                                               4160   19  79040.00  19760.00
+Ind.svj.ARKTUR SQUARE LED 184W 16500lm/840 ECG IP65 120x40°                        3387.84   28  94859.52  23714.88
+SITRA WALL UP-DOWN zidna svj., kam.siva                                             514.14    7   3598.98    899.74
+LIGHT EYE ovjesna svjetiljka sa rozetom, ES111                                      531.37   30  15941.10   3985.27
+Grebenasta sklopka (glavna, žuto/crvena), 0-1/4P/80A, na DIN                        585.63   15   8784.45   2196.11
+Punto-F MR16 Spot, GU5,3, 50W, IP20, 12V, antik mesing                               24.49   28    685.72    171.43
+Kabel H05VV-F (PP/J) 2x1,5mm2, svijetlo-sivi, 100m                                   303.6   16   4857.60   1214.40
+Zakretna tipka / 40° / sa povratom / oznaka “I-0-II”                                  61.1    6    366.60     91.65
+LED prespojni kabel RJ45 oklopljen,500 MHz,Ea,10GB,aqua,3m                           62.88   16   1006.08    251.52
+Kanal tip BE-DIN, 50x62.5mm (VxŠ), duljina 2m, RAL 7030                              42.31   10    423.10    105.78
+Motorna zaštitna sklopka, 3-polna | 22.0 - 32.0A, vel.S2                            542.88    6   3257.28    814.32
+Elektronski transformator Halotronic 70W 230V/12V                                   111.54   26   2900.04    725.01
+BISHADE podna svjetiljka, SL-1, E27                                                1871.23   11  20583.53   5145.88
+Prednja ploča, čelična, slijepa, 5B3                                                  4160   17  70720.00  17680.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     520193.3
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

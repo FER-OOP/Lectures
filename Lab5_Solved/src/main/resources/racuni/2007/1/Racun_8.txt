@@ -1,0 +1,33 @@
+Račun br. 748655
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Somni Round LED zidna svj. 3W + E27 40W IP20 brušeni krom                           397.73   19   7556.87   1889.22
+Lamelirana bakrena sabirnica, 1244A, duljina 2m, 10x50x1mm                         1491.95   14  20887.30   5221.82
+Montažna ploča za Maxipol ormare 750X500 (VxŠ), metalna                             300.11   26   7802.86   1950.71
+Dodatna tipka za Style intercom slušalicu                                            33.39    3    100.17     25.04
+Linijska svj. SERM-LT 112, srednji profil,  1x28W, ECG, bb                          536.92   15   8053.80   2013.45
+Miš optički, bežični, mini, 1000/1600dpi, 3 tipke, crni                             154.36   27   4167.72   1041.93
+Završni poklopac CLF četvrtasti sa rupom i vijcima                                    51.6   14    722.40    180.60
+Postolje vel.1 H, S5/T, RAL7032                                                    2310.64   14  32348.96   8087.24
+KARDAMOD SURFACE SINGLE ES111, srebrne boje                                         687.83   10   6878.30   1719.58
+Priključna stezaljka 2 x M 8 - 1 x V-stezaljka 2 x 35–70 mm2                         62.76   15    941.40    235.35
+Teretna sklopka, 3P, 400A, opcija:dalj. isklop+izvl. modul                         4421.77    8  35374.16   8843.54
+Kopče za PEN LIGHT, 100 kom.                                                        155.78   22   3427.16    856.79
+Podžbukna kutija za Touch monitor KX5882AB13 i KX5882AB23                           396.84    9   3571.56    892.89
+Kabel H03VV-F (PP/L) 2x0,75mm2, crni, 500m kolut                                     10000   13 130000.00  32500.00
+Bezhalogeni kabel s el.funkc. do30 Min(N)HXCH12x1,5re/2,5E30                         10000   24 240000.00  60000.00
+Motorna zaštitna sklopka, 3-polna | 45.0 - 63.0A, vel.S3                            731.67   25  18291.75   4572.94
+EASYLITE SPOT GU10                                                                  562.63   19  10689.97   2672.49
+Svjetleće tipkalo s povratom, plosnato, bijelo “I”                                   40.89   26   1063.14    265.79
+Jakna -XL- Flis siva                                                                  9841   13 127933.00  31983.25
+Odvodnik prenapona klase C (komplet), 2P, 2x20kA/280V, UAS                          262.07   17   4455.19   1113.80
+Prednja ploča, čelična, sa otvorom za uređaje, 3G4-L                                  4160   18  74880.00  18720.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     739145.7
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,17 @@
+Račun br. 448612
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+CUBIC PATH LIGHT L-Type samost. svj., srebrne boje, 1xGU10                         1158.86   17  19700.62   4925.15
+Levante-S 16 LED 38W 3540lm 4000K asim.,IP66, SKII, RAL9006                        2546.71    8  20373.68   5093.42
+Mehanička blokada za motorni pogon, za MC2 i MC3                                    1465.6   19  27846.40   6961.60
+"Pokrov plosnatog tipkala, crni, oznaka ""0"""                                       13.44   22    295.68     73.92
+Lima Spot, G53, 75W, IP20, podesiva, siva                                            72.99    9    656.91    164.23
+
+                                                                                                         ----------
+UKUPNO                                                                                                     68873.28
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

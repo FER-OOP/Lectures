@@ -1,0 +1,18 @@
+Račun br. 402886
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"19"" izvlačiva polica, maks. 30 kg tereta, dubine 450mm, 1U"                       362.63    7   2538.41    634.60
+Teški gumeni kabel H07RN-F 4x120, crni                                               10000   30 300000.00  75000.00
+Proširenje sa accu, bez punjača za USDD650-1000 240V 9Ah                           9896.14   28 277091.91  69272.98
+FID sklopka 63-4-03/AC, 6kA                                                         425.06   21   8926.26   2231.56
+Tipkalo uskočno, plosnato, zeleno                                                     64.4   24   1545.60    386.40
+Daljinski isklopnik za MC2/3,230VAC/DC,sa ranijim pom. kont.                        495.12   19   9407.28   2351.82
+
+                                                                                                         ----------
+UKUPNO                                                                                                    599509.44
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

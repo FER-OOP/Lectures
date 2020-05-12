@@ -1,0 +1,21 @@
+Račun br. 907381
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Meiva-Q/A2 LED 20W 3000K 1500lm, IP20, bijele boje                                  542.36   23  12474.28   3118.57
+"Samostojeći komunikacijski ormar DS 800x1750x600, 19"", 37U"                       3678.9    9  33110.10   8277.52
+CRISTAL SMALL LED 4x1W 3000K ASIM. 40°x50° INOX+ugr.kut.                           2255.83   30  67674.91  16918.73
+Sigma-S/A2 LED 12W 6000K 824lm, IP54, sive boje                                     497.24   21  10442.04   2610.51
+SAT inline pojačalo 10dB,  47 - 2.200MHz, SVS 2-04                                   51.03   21   1071.63    267.91
+RUSTY CONE 70 ras.stupić, E27 max.11W, zahrđani čelik                              2809.97   25  70249.25  17562.31
+Montažna ploča za MYRALED WALL, ENOLA_C OUT, antracit                                93.26   25   2331.50    582.88
+SERH 2 A1 L1 T5 4x14W, ECG, M600, bijela b.                                         557.71   24  13385.04   3346.26
+Priključna stezaljka, 6mm2, 3P, za sklopnike vel. 00                                 38.25    6    229.50     57.38
+
+                                                                                                         ----------
+UKUPNO                                                                                                    210968.25
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

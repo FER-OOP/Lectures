@@ -1,0 +1,16 @@
+Račun br. 285599
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Montažna ploča pleksi,8x280x141mm za DW4HD108/DW4HD108F                              63.09   20   1261.80    315.45
+PT LED utični modul, crveni, RT6-24V DC A1+, EM18                                     9.91   19    188.29     47.07
+Vodotijesna svjetiljka LINDA PC 1x49W ECG IP65 SC II                                469.13    3   1407.39    351.85
+7306E/C, PAR30 LED 11w CW E27 230v                                                   89.54   10    895.40    223.85
+
+                                                                                                         ----------
+UKUPNO                                                                                                      3752.88
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

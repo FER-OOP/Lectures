@@ -1,0 +1,32 @@
+Račun br. 943278
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Sklopnik vel. 0 | 11kW (25A) [AC-3] | 110VAC, 50Hz                                  218.58   12   2622.96    655.74
+Sander-II-R/A2 LED 35W 3000K 2950lm, IP20, bijele boje                              762.34   18  13722.12   3430.53
+Montažna ploča za kućište F - 518x238mm                                               4130   17  70210.00  17552.50
+LED prespojni kabel RJ45 oklop.,500 MHz,Ea,10GB,zeleni,0.5m                           37.7   27   1017.90    254.47
+Sutil Quadro LED 30W, 4000K, 2100lm, 120°, IP40, bijele boje                        344.67   14   4825.38   1206.35
+Sklopnička komb. za promjenu smjera vel. 0 / 7,5kW / 400V 3P                        440.45    3   1321.35    330.34
+Dingo-R LED 5W 3000K 350lm, IP53, sive boje                                         145.81    6    874.86    218.71
+Okvir MO 1/3M, line, crni                                                            33.29   23    765.67    191.42
+7836A/C, Bistri pokrov 2m za 7836/7836R                                             109.99   28   3079.72    769.93
+Janine-II-R 50W GU5,3 MR16, 12V, IP20, aluminij                                      88.02   22   1936.44    484.11
+GLENOS profil 100, 1m, aluminij                                                     280.98   16   4495.68   1123.92
+PURI 2 stropna svj., srebrna b., GU10, max. 2x50W                                   468.69    6   2812.14    703.04
+Metalna vrata visine 27mm za MODUL 160, 4x33 modula                                   4172   21  87612.00  21903.00
+LS-FI (KZS), C/13A/30mA, 1P+N, Tip A, 6kA                                           286.44   20   5728.80   1432.20
+Industrijski natikač, 5 polni, 16A 400V Quick, IP44                                  44.74   26   1163.24    290.81
+Grace-R LED 12W 3000K 400lm, IP20, sive boje                                        234.51    8   1876.08    469.02
+Nazidni razdjelnik bez vrata, 1-redni, 12 modula                                    172.81    2    345.62     86.40
+Soft-starter 3P, 2f upravlj. 15A/400-480VAC/24-480VAC/DC                           1876.95   12  22523.40   5630.85
+"Samostojeći komunikacijski ormar DS 800x1970x600, 19"", 42U"                      3864.39   23  88880.97  22220.24
+Montažna šina7045 sa kab. kanalom, dužina 4,15m                                     594.31    8   4754.48   1188.62
+
+                                                                                                         ----------
+UKUPNO                                                                                                    320568.78
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

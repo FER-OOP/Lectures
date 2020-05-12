@@ -1,0 +1,16 @@
+Račun br. 834232
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kabel za motorne pogone oklopljeni SLCM-JZ4x1,5 0,6/1kV sivi                       2716.42   23  62477.66  15619.41
+Senga LED 10W 860lm, 3000K, 230V, IP65, bijele boje                                 185.68    8   1485.44    371.36
+AFDD, series Lisa, B 13 A, 2-pole, 30 mA, A/delayed, 10 kA                         1215.49    1   1215.49    303.87
+EUTRAC spojnica šina, prolazna, bij.                                                  95.8    8    766.40    191.60
+
+                                                                                                         ----------
+UKUPNO                                                                                                    65944.984
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,18 @@
+Račun br. 209534
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Daljinski isklopnik 230V AC, ugradnja desno, za MY1                                 218.97   19   4160.43   1040.11
+LIGHT EYE ovjesna, krom, GU10, max. 75W, uklj. adapter                              687.83   25  17195.75   4298.94
+Ugradna svjetiljka SE-ID ECO PAR L2 T5 2x14W ECG M600,bijela                        596.03   12   7152.36   1788.09
+EUTRAC Univerzalna stropna rozeta, crne boje                                        500.12   26  13003.12   3250.78
+Vodotijesna svjetiljka LINDA Transparente 1-36W ECG IP65 PC                         417.16    1    417.16    104.29
+Mehanička blokada za LA3 150/175 horizontalna                                       332.32    2    664.64    166.16
+
+                                                                                                         ----------
+UKUPNO                                                                                                     42593.46
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

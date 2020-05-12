@@ -1,0 +1,17 @@
+Račun br. 941460
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Okvir za vrata, za MC2, crni, IP40                                                   87.77   20   1755.40    438.85
+7918/W, Bijeli profil IP68 , 2m + PMMA opalni pokrov                                168.62   10   1686.20    421.55
+Grebenasta sklopka, 1-0-2/4P/32A, montaža na DIN nosač                              622.45   25  15561.25   3890.31
+Zaštitni prekidač, B karakteristika, 20A, 1-polni, 6kA                               22.99   29    666.71    166.68
+Napojni stupić uklj.šiljak                                                          750.35   10   7503.50   1875.88
+
+                                                                                                         ----------
+UKUPNO                                                                                                     27173.06
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

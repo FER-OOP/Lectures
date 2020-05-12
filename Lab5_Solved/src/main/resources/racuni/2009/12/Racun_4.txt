@@ -1,0 +1,16 @@
+Račun br. 617505
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+UPS Multi Plus 30kVA 27kW 0min,3f/3f/Online/veliko kuć.                           55351.29   231273079.63 318269.91
+GX8,5 grlo + kabel                                                                    5.23    2     10.46      2.62
+EURO SPOT INTEGRATED LED, 2700K                                                     875.55    5   4377.75   1094.44
+SAT pokrov za HSBKD2A/HSBKDDAxx,c. 55x55mm,okvir 75x75mm                              4.83    1      4.83      1.21
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1277472.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

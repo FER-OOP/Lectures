@@ -1,0 +1,14 @@
+Račun br. 586890
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Tipka s ključem,1-0-2/60°/bez povr./ključ izvl. u sva 3 pol.                        197.06   21   4138.26   1034.56
+Zaštitni prekidač AMPARO 6kA, B 10A, 3-polni                                         76.11    2    152.22     38.06
+
+                                                                                                         ----------
+UKUPNO                                                                                                      4290.48
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

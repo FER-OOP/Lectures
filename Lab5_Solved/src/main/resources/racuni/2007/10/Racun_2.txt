@@ -1,0 +1,33 @@
+Račun br. 618806
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Pločica + nosač 30x50mm, natpis: BETRIEB                                              8.77   10     87.70     21.93
+Optički prespojni kabel duplex, ST/SC, 62,5/125µm OM1, 5m                            71.13   21   1493.73    373.43
+Fluo cijev T16 39W/840 G5                                                             30.4   16    486.40    121.60
+Paralelna spojnica/zvjezdište za sklopnike vel.6                                     55.27    8    442.16    110.54
+Fleksibilni priključni vodič, plavi 10mm², duljine 100mm                                 5   20    100.00     25.00
+Utičnica šuko sa zaš. kon.+pokl+ dječ. zaš. na vijak crvena                          21.57   13    280.41     70.10
+Uzdužna stranica, 33 visinske jedinice (200mm)                                        4180   26 108680.00  27170.00
+Fleks. kabel SF/UTP 4x2xAWG26,cat.5e,200MHz,LS0H,sivi                               544.72    7   3813.04    953.26
+Tel. kopča za uzemljenje za pren. zašt., za okruglu šipku                             8.01   21    168.21     42.05
+Teretna sklopka, rastavljač (izolator), 125A, 3P                                    138.84   19   2637.96    659.49
+Mono kabelska spojnica, neizolirana, prema DIN, Cu, 25mm²                            12.47   11    137.17     34.29
+NV rastavna pruga vel.2|400A, 3P, M12, 185mm, nadzor osig.                         2120.87    4   8483.48   2120.87
+NV osigurač vel. 00, 10A/400V AC                                                     19.92   20    398.40     99.60
+APOLLO Podes. spoj 1 kom., crne b.                                                   80.05   23   1841.15    460.29
+RS232/EASY 9-polni kabel, 2m                                                        505.75   30  15172.50   3793.13
+Ugradna svjetiljka SEP ECO PC T5 4x14W ECG IP54 M600, bijela                        493.79    1    493.79    123.45
+Zaštitni prekidač, C karakteristika, 6A, 1-polni+N, 6kA                              54.22    3    162.66     40.67
+SAT vodilica za 4 koaks. kabela,stup 38-60mm,čelični                                  54.7    9    492.30    123.08
+Nick-III-Q 2x13/18W G24q, 230V, IP20, brušeni krom                                    7.77    8     62.16     15.54
+IP2x zaštita od dodira, za 4-polne MC2 (montaža na MC296770)                         65.84    8    526.72    131.68
+SITRA Šiljak, 9W G53 ili LED 3W G53, kam.siva                                       437.43   17   7436.31   1859.08
+
+                                                                                                         ----------
+UKUPNO                                                                                                    153396.25
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

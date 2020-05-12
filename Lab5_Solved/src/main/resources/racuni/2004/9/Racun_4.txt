@@ -1,0 +1,26 @@
+Račun br. 977895
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Montažna šina MR 1x58 5x2,5mm²                                                      131.08   28   3670.24    917.56
+Josh-Q LED 1,6W, IP54, nehrđajući čelik                                              96.98   11   1066.78    266.70
+Paralelna spojnica (kratkospojnik) za 2 stezaljke IK600004--                          5.69   11     62.59     15.65
+Nosač N/PE sabirnice 25mm2                                                           24.15   12    289.80     72.45
+Puna metalna vrata sa zakret. ručkom, za DW ormare 12U Š=600                         513.5   26  13351.00   3337.75
+Linijska svj. SERM 220 ASY 2x54W, ECG, bijele boje                                  377.13   25   9428.25   2357.06
+Ugradni okvir za LED DOWNUNDER MINI                                                  87.01   23   2001.23    500.31
+Bezhalogeni kabel s el. funkc. do30 Min. (N)HXH-J4x50rmE30                           10000   15 150000.00  37500.00
+Prespojni kabel RJ45 cat.6 oklopljen,s pregibnicama,sivi,3m                          20.53   10    205.30     51.33
+"Grebenasta sklopka, ""STOP-START""/1P/20A, na vrata"                               211.08    4    844.32    211.08
+Set za regulaciju ugradne dubine montažne ploče AS/KS ormara                         35.48   13    461.24    115.31
+LS-FI (KZS), C/32A/30mA, 1P+N, Tip AC, 10kA                                         309.93   15   4648.95   1162.24
+IPERI 50 podna svj., antracit, 48 LED, neutral bi.b.,4000K                          687.83   20  13756.60   3439.15
+CUBIX I svjetiljka, GU10, 35W                                                       562.63   17   9564.71   2391.18
+
+                                                                                                         ----------
+UKUPNO                                                                                                    209350.98
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

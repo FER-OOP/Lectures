@@ -1,0 +1,19 @@
+Račun br. 738876
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Okvir 4x2M line, plavi                                                               57.52   18   1035.36    258.84
+7304G/D/30, LED 3w GU10 DL 30 °                                                         25    1     25.00      6.25
+IKALL metal modul, bez tipki, za audio/video jedinicu                                549.1    8   4392.80   1098.20
+Motorni pogon za MC3, 48-60V DC                                                       4962   30 148860.00  37215.00
+Ugradna svjetiljka SERH 2 A8 L1 T5 2x80W, ECG, bijela                                 8534    9  76806.00  19201.50
+Zaštitni prekidač, B karakteristika, 32A, 2-polni, 10kA                              99.09   29   2873.61    718.40
+Slijepi pokrov, alu efekt                                                             2120   16  33920.00   8480.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    267912.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,26 @@
+Račun br. 845923
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Small Connect, priključna stezaljka 10mm² za BS990171--                               4230   21  88830.00  22207.50
+Kompaktni prekidač snage tip AE, 3P, 85kA, 800A                                    9195.18   28 257465.03  64366.26
+IBDN prespojni kabel RJ45 UTP cat.6A, žuti, 2.1m                                      6804   27 183708.00  45927.00
+Kompaktni prekidač snage tip VE, 3P, 50kA, 400A+izvl. modul                        7862.15    8  62897.20  15724.30
+LED PAR16 80 DIM 7,2W 230V 36° 840 575lm 1439cd GU10 25000h                         121.49    3    364.47     91.12
+FID sklopka AMPARO, 40-4-03/A (puls), 10kA                                          504.22    8   4033.76   1008.44
+LS-FI (KZS), C/16A/300mA, 1P+N, Tip A, 10kA                                         357.66   26   9299.16   2324.79
+Strujni trafo 150/5, 5VA, class 1, za rastavne pruge vel.00                         276.91   25   6922.75   1730.69
+Toolless connection 4-struki za montažu na bakrenu sabirnicu                         60.65   15    909.75    227.44
+NEW TRIA 3 DL četvrtasti Set, 3x6W, 2700K, 38°, brušeni al.                        1188.46   27  32088.42   8022.10
+IT METER LINE nap. letva, pasivna,ul:CEE 16A crv.,izl:12xC13                       1031.78   28  28889.84   7222.46
+7814, NEONFLEX napajanje                                                             73.32   21   1539.72    384.93
+DALI USB miš                                                                       2322.43    1   2322.43    580.61
+Fluokompaktna žarulja TC-S 9W 840 G23 OS                                              19.7   10    197.00     49.25
+
+                                                                                                         ----------
+UKUPNO                                                                                                    679467.56
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

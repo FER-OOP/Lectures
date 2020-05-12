@@ -1,0 +1,24 @@
+Račun br. 892819
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kućište N/Ž, IP55, 13 modula, prozirna vrata                                        220.83   25   5520.75   1380.19
+RC član za vel.00, 127-240VAC, 150-250VDC                                            28.06   17    477.02    119.25
+Sabirnica (češalj) za ožičenje podnožja PT7874P                                       4.54   12     54.48     13.62
+Aaron-Q 32/42W G24q-4, 230V, IP20, sive boje                                         37.67    8    301.36     75.34
+LED ES111, crvene b., 17W, 30°, 2700                                                562.63   24  13503.12   3375.78
+Piktogram PRVA POMOČ za tip  KS                                                     207.36   14   2903.04    725.76
+Tuljak za 25mm2, pocinčani, DIN norma                                                 2.56    9     23.04      5.76
+NEW TRIA MR16 Downlight, okrugla, brušeni aluminij                                  174.53   20   3490.60    872.65
+S/FTP kabel cat.7,2x(4x2xAWG23/1),1.000MHz, LS0H-3, 30%, pl                         947.66    5   4738.30   1184.57
+Nadgradna svjetiljka SAP IP54 T5 4x28W ECG, bijela                                 1318.34   15  19775.10   4943.77
+SQUARE Downlight, krom                                                              105.76    8    846.08    211.52
+Pokrov priključnih stezaljki na adapteru MC291400--                                  58.02   22   1276.44    319.11
+
+                                                                                                         ----------
+UKUPNO                                                                                                    52909.324
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

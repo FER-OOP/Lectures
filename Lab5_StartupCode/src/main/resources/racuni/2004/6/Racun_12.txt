@@ -1,0 +1,26 @@
+Račun br. 219121
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Bezhal. kabel poboljšanih svoj.za sl. požara N2XH-J 1x35rm                           10000   20 200000.00  50000.00
+"Opt. razdjelnik, 12 niti,SC,9/125µm OS2, izvlačivi,19"",1U"                        663.87   15   9958.05   2489.51
+Relej snage, 2C/O, 8A, 48VDC serije RT, raster 5mm                                   17.81    6    106.86     26.72
+Fluo cijev T8|T26 18W/840 G13                                                        12.87    1     12.87      3.22
+Dena-R/A2 150W G12, 230V, IP20, brušeni krom                                          17.9    8    143.20     35.80
+CRISTAL MEDIUM LED 9x1W 4000K SIM. 8° INOX + ugr.kut.                              2973.64    6  17841.84   4460.46
+Ina-R/A2 35W GU4 MR11, 12V, IP20, aluminij                                            39.7    6    238.20     59.55
+Postolje za nazidne razdjelnike M2000 IP30, prednji dio, 3PB                         70.71   11    777.81    194.45
+TUBE stropna svjetiljka                                                             813.03   24  19512.72   4878.18
+Poklopac 380x280x30mm sivi - D-G                                                     312.2    9   2809.80    702.45
+Ampermetar, montaža na DIN nosač, DC, 10A, direktno                                 581.86    6   3491.16    872.79
+SAT stup za r. krov, 4xbeton 50x50cm, V=300cm, čelik                               3266.94   10  32669.40   8167.35
+Modul za ugradnju EKEY čitača otiska prsta IKALL METAL                                   0   17      0.00      0.00
+Sutil Quadro LED, 16W, 3000K, 884lm, 110°, IP40, sive boje                          249.21    6   1495.26    373.82
+
+                                                                                                         ----------
+UKUPNO                                                                                                    289057.16
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

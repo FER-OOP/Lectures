@@ -1,0 +1,31 @@
+Račun br. 643675
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Hotel-card sklopka, inox efekt                                                        2122   19  40318.00  10079.50
+Grebenasta sklopka, 1-0-2/2P/20A, na vrata                                          165.36   23   3803.28    950.82
+LED 85-264V AC, zeleni, za montažu na dno kućišta                                     79.8   15   1197.00    299.25
+GU10 SP Downlight, krom                                                             205.96   28   5766.88   1441.72
+Matica PG16, mesing                                                                    1.6   13     20.80      5.20
+Kabel H03VV-F (PP/L) 3x0,5mm2, svijetlo-sivi                                         10000    2  20000.00   5000.00
+Vodotijesna svjetiljka DEVA ECO PC 2x36W CCG                                        266.83   17   4536.11   1134.03
+"Opt. razdjelnik,12 niti, ST,50/125µm OM2, izvlačivi,19"",1U"                       969.57    1    969.57    242.39
+ACRYLBOX 2kom QRB111, crne b./prozirno                                             1433.11   20  28662.20   7165.55
+Kompaktni prekidač snage tip M, 3P, 25kA, 125A                                     1589.55   27  42917.85  10729.46
+Završni poklopac LBE ravni sa rupom                                                  50.26   30   1507.80    376.95
+Planookrugla LED, 40W, 4000K, 2800lm, IP40, bijele boje                             788.87    2   1577.74    394.43
+Produžna osovina za MC1 i MC2, za ormar maks. dubine 400mm                            31.7   15    475.50    118.88
+AOT-O LED, 62W, 3000K, IP50, akril, opal, bijele boje                               952.78    1    952.78    238.20
+P/Ž inst. razdj. 4U-18,6-redni,270ŠM,915x1030x250mm(VxŠxD)                         3616.91   10  36169.10   9042.27
+"FIN POLE 100cm 20W HIT GU6,5 ""DOWN"" MAT STAKLO antracit"                        4135.77   18  74443.86  18610.96
+Catalogue Blue Line 2015                                                                 0   12      0.00      0.00
+Elektronska prigušnica ECG QTi-T/E 1x18-57 dim 1-10V                                284.82   27   7690.14   1922.53
+Yela-R 2x26/32/42W G24q, 230V, IP20, bijele boje                                      7.77   26    202.02     50.51
+
+                                                                                                         ----------
+UKUPNO                                                                                                     271210.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

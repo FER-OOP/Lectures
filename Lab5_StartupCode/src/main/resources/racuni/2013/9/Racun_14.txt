@@ -1,0 +1,28 @@
+Račun br. 213669
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Podnožje N voda, 250A, M8 (obostrano), odvojivo, na ploču                              105   27   2835.00    708.75
+LIGHT EYE PENDEL za EASYTEC II, ES111, krom/crne b.                                 625.15    9   5626.35   1406.59
+Daljinski isklopnik za seriju BR, 12-60V AC/DC                                      261.89   13   3404.57    851.14
+Kabel EYY-O (PP00) 3x1,5RE                                                           10000   29 290000.00  72500.00
+LED napajanje, 60W, 12V, dim. 1-10V                                                1433.11   12  17197.32   4299.33
+SAT antena 80/75cm,alu,38,8dB,sklopiva ruka,crvena                                  359.48   21   7549.08   1887.27
+Slijepi bočni pokrov za rastavne sklopke vel. 00                                     41.13   17    699.21    174.80
+LED Panel Round 300 20W 1300lm tople bb 2800K, bijele b.                            703.23   27  18987.21   4746.80
+Zaštitni prekidač, B karakteristika, 10A, 3-polni+N, 10kA                           230.74    7   1615.18    403.80
+7304AG/W/36, 4LED 5,4w GU10 WW 36 ° 100-240V                                         46.46   16    743.36    185.84
+Alat za spajanje LSA, bez senzora                                                    192.9   25   4822.50   1205.63
+"Natpisna pločica, ""CLOSE"", 17.5 x 28mm, natična"                                   8.13   30    243.90     60.98
+LED Strip završni poklopac 4,8W/m                                                     1.35   11     14.85      3.71
+Umetak izmjenične sklopke, na vijak                                                  12.97    7     90.79     22.70
+NEOZED vijčana kapa, D02 (E18), 63A / 400V, plastična                                 5.91    6     35.46      8.86
+Plasto LED 24W, 3000K, 1440lm, 230V, IP65,plastika,bijele b.                        431.01    7   3017.07    754.27
+
+                                                                                                         ----------
+UKUPNO                                                                                                    356881.88
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

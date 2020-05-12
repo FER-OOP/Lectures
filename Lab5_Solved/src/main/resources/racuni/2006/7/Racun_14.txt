@@ -1,0 +1,19 @@
+Račun br. 739007
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kabelska uvodnica s maticom, PG29, IP68                                               7.58   24    181.92     45.48
+Sklopnik vel. 00 | 4kW (9A) [AC-3] | 230VAC, 50/60Hz |1 N/O                         107.32   19   2039.08    509.77
+MIBO STRAIGHT svjetiljka za ogledala, 2xG9                                          437.43    6   2624.58    656.15
+PIKA MR16 Downlight, zakretna, bijele boje                                           80.76    2    161.52     40.38
+LED napajanje TC 15W/350mA, DALI dim., MM, IP20                                     431.27   26  11213.02   2803.25
+Završna pločica za stezaljke IK650002-- i IK650004--, siva                             5.2   17     88.40     22.10
+LED žarulja Classic Compact Ultra 3,5W E27 250lm 2800K                               63.74    8    509.92    127.48
+
+                                                                                                         ----------
+UKUPNO                                                                                                     16818.44
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

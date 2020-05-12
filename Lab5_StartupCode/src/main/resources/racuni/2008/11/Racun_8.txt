@@ -1,0 +1,26 @@
+Račun br. 509577
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LED PWM Repeater DW                                                                 543.92   20  10878.40   2719.60
+Cijev, M25, 320N, EN2221, svijetlo siva, 2m (pak. 38m)                              412.66   29  11967.14   2991.78
+Finožični PVC-om izolirani vodič H07V-K (P/F) 50mm2, ž/z                           4236.23   11  46598.53  11649.63
+Fluo cijev T8|T26 18W/827 G13                                                        12.87    7     90.09     22.52
+Nosači za LED trake OUTDOOR PRO, 10kom                                               40.02   23    920.46    230.12
+WAVE PENDANT ovjesna svjetiljka 9W 3000K, sa rozetom, alu/bb                       1683.51    1   1683.51    420.88
+KALU TRACK LEDDISK svjetiljka, bijele b., 3000K, 3-f adapter                       1307.91   20  26158.20   6539.55
+SAT uzemljenje+prenap. zašt.,5x F-kon.,5x odv.,za HSATS5xxKA                        266.98   28   7475.44   1868.86
+UPS AVARA Multi 10kVA 9kW 38min, 3F/3F/Online veliko kučište                      57810.65   11 635917.13 158979.28
+LED RETROFIT RL-A60 9,5W 230V 865 806lm mat E27 15000h                               51.14   27   1380.78    345.20
+Finožični PVC-om izol. vodič H05V-K (P/F) 1mm2, ljub. HPV                            10000   27 270000.00  67500.00
+FILI pano sa rozetom i prekidačem                                                   500.12   10   5001.20   1250.30
+Utičnica, 16A, umetak, na vijak, biserno bijela                                       2120    4   8480.00   2120.00
+DELF C PRO 1000, bijela, 60 LED, DC 24V                                              393.5   21   8263.50   2065.88
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1034814.3
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,32 @@
+Račun br. 118828
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LED HORN 15W, bijela, LED bij.                                                      453.92    9   4085.28   1021.32
+Bezhalogeni kabel s el. funkc. do30 Min.(N)HXCH4x120rm/70E30                         10000   14 140000.00  35000.00
+Instalacijski sklopnik 25A | 2 N/C | 230V AC                                         123.5    8    988.00    247.00
+Univerzalni elastični poklopac za razv.kut. 70mm bijeli                             100.97    6    605.82    151.46
+Bezhalogeni jednožilni vodič H07Z-U 1,5mm2, crni                                     10000   10 100000.00  25000.00
+Ugradno kućište za svjetiljku ERK 207 i ERK-Z 207                                   415.45    6   2492.70    623.18
+Sklopnik vel.6|75kW (150A) [AC-3]|220-240VAC, 50Hz|2N/O+2N/C                       1879.59   11  20675.49   5168.87
+Montažna ploča za kućište D - 338x248mm                                              82.12   25   2053.00    513.25
+Elektronski transformator  240/12V 10-60VA Dim                                       58.02   30   1740.60    435.15
+Set za uzemljenje 300mm P/F 6mm Ž-Z                                                   4160    5  20800.00   5200.00
+89024E, RGB kontroler za 24vDC LED traku                                            344.67   12   4136.04   1034.01
+HDMI 1.4 kabel, 2xHDMI19 tipA muški, pozlaćeni kontakti, 3m                          55.49    9    499.41    124.85
+Punto-A PAR16 Spot GU10 50W IP20 zakretna bijela                                     33.11   25    827.75    206.94
+"Zidni kom. ormar DW, bočne stranice, 600x500x495, 19"", 9U"                        1077.5   14  15085.00   3771.25
+Tipka (pokrov) za svjetleće tipkalo, zelena, plosnata                                 2.27    2      4.54      1.13
+Okvir 4M line, bež                                                                   13.75    3     41.25     10.31
+Teretna sklopka, 3P, 315A, VC3, s produžnom osovinom                               1029.93   30  30897.90   7724.48
+Minijaturni relej, 2C/O, 12A, 24VDC serije PT                                        34.71   14    485.94    121.48
+Utično postolje za MC2, 4-polno                                                     690.94   11   7600.34   1900.08
+Zaštitni prekidač, B karakteristika, 2A, 3-polni, 10kA                              170.43   24   4090.32   1022.58
+
+                                                                                                         ----------
+UKUPNO                                                                                                    357109.34
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

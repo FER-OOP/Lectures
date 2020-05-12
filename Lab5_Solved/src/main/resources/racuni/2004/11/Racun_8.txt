@@ -1,0 +1,23 @@
+Račun br. 463674
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Završni poklopac LBR okrugli sa otvorom                                              51.19   27   1382.13    345.53
+Kabel H05VV5-F 5x1,5 sivi                                                            10000   21 210000.00  52500.00
+EASYTEC II šina, 2 metra, uklj. 2 zavr.pok.                                         374.92   10   3749.20    937.30
+"Pozivno tipkalo + utičnica za ""Comfort"" tipkala, bijelo"                           2104   15  31560.00   7890.00
+Telekomunikacijski kabel F-YAY 30x2x0,6mm2                                           10000   13 130000.00  32500.00
+KNX sučelje za tipku 4 kanala                                                       522.96   14   7321.44   1830.36
+SAT uzemljenje+prenap. zašt.,9x F-kon.,9x odv.,za HSATS5xxKA                         464.2   30  13926.00   3481.50
+KNX aktor roleta,8x230 VAC                                                          2714.1    1   2714.10    678.53
+Relej za nadzor struje 0.5 - 5A, 230VAC, 1 fazni, 1 C/O                              392.7    1    392.70     98.18
+Daljinski isklopnik 110V AC/DC (tvornički ugrađen)                                  1161.4   14  16259.60   4064.90
+Izmjenično tipkalo sa signalnom lampicom, 1 C/O, umetak                               65.8   27   1776.60    444.15
+
+                                                                                                         ----------
+UKUPNO                                                                                                    419081.72
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

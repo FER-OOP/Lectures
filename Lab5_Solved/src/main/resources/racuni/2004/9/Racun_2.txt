@@ -1,0 +1,26 @@
+Račun br. 130926
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Daljinski isklopnik za MZS vel.00/0/2/3, 210..240VAC                                 95.94    8    767.52    191.88
+Fluokompaktna žarulja TC-L/E 55W, 2700K, 4-Pin, za ECG                               62.51   29   1812.79    453.20
+Montažna ploča za WKS3040, 275x370x2, pocinčani čelik                                 4065   12  48780.00  12195.00
+Finožični PVC-om izolirani vodič H07V-K (P/F) 2,5mm2, plavi                         195.31   29   5663.99   1416.00
+Prespojni kabel RJ45 cat.6 oklop.,s pregibnicama,zeleni,5m                           29.39    9    264.51     66.13
+"Zasun plavi ""Celanex"""                                                             1.86   28     52.08     13.02
+Finožični PVC-om izolirani vodič H05V-K (P/F) 1mm2, zeleni                            93.1   30   2793.00    698.25
+KALU 1 ugradna svjetiljka, mat bijele boje,1x QRB111,max.50W                        406.17   15   6092.55   1523.14
+Kompaktni prekidač snage tip AF, 3P/63A/18kA, box stezaljke                          529.4   19  10058.60   2514.65
+LED DALI PWM Dimer RGB DT8 (Device Type 8)                                         1132.18   22  24907.96   6226.99
+316 ANALOG-Panel Video s 10 tipki, nehrđajući čelik, VIP                           16712.8   22 367681.63  91920.41
+ARROW BLOC prednji pokrov, 1-struki                                                   4821   20  96420.00  24105.00
+N/Ž inst. razdj. 2A-18, 6-redni, 126 ŠM,915x590x250mm                               2378.5    8  19028.00   4757.00
+Grebenasta sklopka, 0-1/3P/20A,na vrata,centralno učvršćenje                        256.48   28   7181.44   1795.36
+
+                                                                                                         ----------
+UKUPNO                                                                                                    591504.06
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

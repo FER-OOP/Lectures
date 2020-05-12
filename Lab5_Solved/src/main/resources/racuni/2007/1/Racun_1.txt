@@ -1,0 +1,26 @@
+Račun br. 456120
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Video vanjski panel, 52 tipke, sa PTT otvorom                                         4690    9  42210.00  10552.50
+PEYOTE POLE 48cm 2x90° 8x1W LED, 40° 3000K RAL9006                                 3537.56   23  81363.88  20340.97
+Maskirni razdjelnik 1 širina brojila/ 21 MV                                           4180   11  45980.00  11495.00
+Krović za zaštitu WSM ormara od kiše, za ormar 500X300 (ŠxD)                          4066    8  32528.00   8132.00
+LED žarulja obl.svijeće 3,5W E14 250lm 2800K                                         76.01   19   1444.19    361.05
+Instalacijski umetak za WSM ormare, 4x16 modula                                     361.61   14   5062.54   1265.64
+Bill-R 2x26W G24q-3, 230V, IP20, bijele boje                                         39.36    5    196.80     49.20
+Prazna kutija TYTAN 2300                                                              4824   23 110952.00  27738.00
+Kabel YSLYQY-J 4x35 prozirni                                                         10000   27 270000.00  67500.00
+Preklopnik 3P/40A, mogućnost zaključavanja                                          420.46    9   3784.14    946.04
+Označne pločice 'L3'', Dekafix DY5 (sadrži 50 oznaka)                                 8.45   12    101.40     25.35
+Levante-S 20 LED 48W 3885lm 3000K asim.,IP66,SKII,RAL9003                          3205.01    5  16025.05   4006.26
+PRIORI FID sklopka 63-4-03/A, G izvedba                                            1392.29    5   6961.45   1740.36
+Metalni stabilizator za kutnu spojnicu za 1f.strujnu šinu                             37.5   14    525.00    131.25
+
+                                                                                                         ----------
+UKUPNO                                                                                                     617134.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

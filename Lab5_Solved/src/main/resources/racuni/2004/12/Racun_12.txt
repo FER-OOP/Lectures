@@ -1,0 +1,24 @@
+Račun br. 969813
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+PEYOTE 17cm 180° 8x1W LED, 40° 3000K RAL9006                                       2580.53    1   2580.53    645.13
+PMMA pokrov CL ,četvrtasti/opal                                                     104.83    1    104.83     26.21
+I-LINE TOUCH LED samostojeća svjetiljka, 3000K, sive boje                          6252.19   21 131295.98  32824.00
+Teretna sklopka, 3-polna, 400A                                                     1466.31    4   5865.24   1466.31
+P/Ž razdjelnik MODUL 160, sa prozirnim vratima, 4x33 modula                           4172   28 116816.00  29204.00
+Kompaktni prekidač snage tip A, 4P, 150kA, 320A                                    6400.91    7  44806.37  11201.59
+Poliester kućište 280x280x100mm sivo - C                                            368.07   20   7361.40   1840.35
+Rezervni filter za ventilator 252x252mm, IP54 (pak=5 kom.)                          104.47   17   1775.99    444.00
+Zaštitni prekidač, B karakteristika, 10A, 3-polni+N, 6kA                            112.77    9   1014.93    253.73
+Nadžbukni okvir za senzor prisutnosti, bijeli                                        84.99    8    679.92    169.98
+Utikač za TYTAN II, 3 x kratkospojnik                                               113.34    9   1020.06    255.01
+Nadgradna downl. svjetiljka ARM 291 2x26W TC-TEL IP20 bijela                        300.34    6   1802.04    450.51
+
+                                                                                                         ----------
+UKUPNO                                                                                                    315123.28
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

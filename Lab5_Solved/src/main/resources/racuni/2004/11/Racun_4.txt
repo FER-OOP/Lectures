@@ -1,0 +1,29 @@
+Račun br. 910852
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Todd-II-Q LED 9x0,2W 6000K 60lm, IP20, aluminij                                     116.92    4    467.68    116.92
+Uzidna 3-struka sklopka, 16A, 250V AC, bijela                                        148.3   13   1927.90    481.97
+Podnožje prema dubini ASR/KSR ormara, 400x200mm, AISI304                              4056   18  73008.00  18252.00
+Otto-I-Q/A2 35W G8,5, 230V, IP20, bijele boje                                       161.18    9   1450.62    362.65
+Vartec modul iskrište, VGM, TII, 20kA                                               261.35   17   4442.95   1110.74
+S/FTP inst. kabel cat.6a, 4x2xAWG23/1, 500MHz, LS0H-3, crni                         439.53   14   6153.42   1538.35
+Anker za ROX PATH LIGHT samostojeću svjetiljku                                      249.72   10   2497.20    624.30
+Bimetalni relej za sklopnike vel. 00 | 0,22 - 0,32A                                 161.33   18   2903.94    725.98
+Teretna sklopka, rastavljač (izolator), AMPARO, 125A, 2P                             85.97   20   1719.40    429.85
+Bazični transponder BEGEH                                                          1192.43   14  16694.02   4173.51
+Napojni kabel za za DELF C PRO RGB                                                   43.76   19    831.44    207.86
+Serijski ormar AS, 1-vrata, 2200x800x600 (VxŠxD), RAL 7035                          4217.7    1   4217.70   1054.43
+Utičnica šuko narančasta na oprugu                                                   21.88   20    437.60    109.40
+Držač za cilindrične osigurače 22 x 58 | 2P | 100A/690V                             315.37   25   7884.25   1971.06
+Telekomunikacijski kabel F-YAY 50x2x0,8mm2                                           10000   21 210000.00  52500.00
+L-SE umetakt DM 1.5 PAR-L 1x66W LED 5150lm/830                                     1950.99   29  56578.71  14144.68
+Zaštitni prekidač, C karakteristika, 6A, 3-polni+N, 6kA                             112.77   16   1804.32    451.08
+
+                                                                                                         ----------
+UKUPNO                                                                                                    393019.16
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

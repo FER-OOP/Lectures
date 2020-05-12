@@ -1,0 +1,22 @@
+Račun br. 374212
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Podnožje, bočne stranice, par, za ormare DSS, D=1000mm                               538.6   12   6463.20   1615.80
+Prednja ploča za EL121820 i EL121910, bijela                                          2120   14  29680.00   7420.00
+ALTRA DICE stropna svj.CL-1,bijela GU10,max.35W                                     374.92   23   8623.16   2155.79
+Meiva-Q/A1 LED 10W 4000K 840lm, IP20, aluminij                                      205.28   30   6158.40   1539.60
+LED HORN 9W, srebrne boje, LED bb                                                   731.77   25  18294.25   4573.56
+Nap.stezaljka za EASYTEC II                                                         312.23   26   8117.98   2029.49
+L-SE el. uložak DM 2x58W ECG                                                        258.92   21   5437.32   1359.33
+"3-struki okvir ""Fashion"", biserno bijeli, IP44"                                  104.07    4    416.28    104.07
+Utikač za TYTAN II, 3 x kratkospojnik                                               113.34   22   2493.48    623.37
+Montažna ploča za WKS4040, 380x370x2, pocinčani čelik                                 4065   24  97560.00  24390.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    183244.06
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

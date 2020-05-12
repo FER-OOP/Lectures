@@ -1,0 +1,25 @@
+Račun br. 264943
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+3P sabirnica za tri motorne zaštitne sklopke veličine 00/0                           39.02   25    975.50    243.88
+Sprej-lak za korekciju oštećenja, RAL 9016                                          109.27   17   1857.59    464.40
+Završni poklopac TBF ravni zatvoreni                                                 50.26    2    100.52     25.13
+FID sklopka 40-4-01/A (puls)                                                        547.11   16   8753.76   2188.44
+Spojna kutija IP67                                                                   86.33   20   1726.60    431.65
+HQI-TS Downlight, siva, 150W                                                        283.12   26   7361.12   1840.28
+Vijak M4 25mm                                                                         8.06    2     16.12      4.03
+Kutija podžbukna MO 4M, dubina 49mm 650°C 500V halogen free                           6.72   25    168.00     42.00
+SENSER LED PANEL ugradni, 14W, 3000K, okrugla, sive boje                            437.43   26  11373.18   2843.29
+LED napajanje 40W, 700mA                                                            249.72    6   1498.32    374.58
+Pinta-Q/A1 50W GU10 MR16, 100-240V, IP20, bijele boje                                63.02   13    819.26    204.82
+Extract LED 25W, 4000K, 1900lm, 60°, IP20, aluminij, bb                                590    8   4720.00   1180.00
+P/Ž razdjelnik MODUL 160, sa prozirnim vratima, 2x24 modula                           4172    9  37548.00   9387.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     76917.97
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

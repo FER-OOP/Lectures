@@ -1,0 +1,15 @@
+Račun br. 559708
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Signalni fleksibilni kabel  YSLY-JB 5x1,5                                             7030   17 119510.00  29877.50
+LED Downlight PRO S, četvrt.,bi.b.,uklj.LED modul 800,4000K                         694.85   15  10422.75   2605.69
+Industrijska svj. CERES 1x99W,LED 1-10V,8800lm/750, crna                              8536   15 128040.00  32010.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    257972.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

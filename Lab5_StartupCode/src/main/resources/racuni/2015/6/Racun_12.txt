@@ -1,0 +1,23 @@
+Račun br. 214325
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+RETROFIT R111 BIJELA LED  6x3W 35°, 6000K                                           105.76    9    951.84    237.96
+70026, LED NOĆNA SVJETILJKA, PUNJIVA BS SOCKET, sive boje                            95.29    2    190.58     47.65
+Pokrovna ploča za sustav 60mm, duljina 700mm, visina 195mm                          182.81   27   4935.87   1233.97
+Formo LED panik svj. 3h,21W,3000K,1650lm,IP65,230V,bb                               563.48   29  16340.92   4085.23
+"19"" profil. nosači, visine 32U za DS-, DSZ-, DSI i DW-ormare"                      95.04   25   2376.00    594.00
+Podnožje, pred./zadnji pokrov perfor., Š=800 za DS/DSZ/DSS                           82.41   10    824.10    206.03
+Ovjes za svjetiljku CERES LED                                                       245.58    5   1227.90    306.98
+Prednja ploča za razdjelnike sa kabelskim kanalom, 2G4                                4160    8  33280.00   8320.00
+Sklopka+LED, 16A, 230VAC/DC, 1 N/O + 1 N/C, montaža na DIN                            91.3   15   1369.50    342.38
+Ventilator s filterom 320x320x150mm IP54, 135W, 560m3/h                            1695.19   30  50855.70  12713.92
+Završna pločica za stezaljku IK692014--, zelena                                       4851   19  92169.00  23042.25
+
+                                                                                                         ----------
+UKUPNO                                                                                                     204521.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

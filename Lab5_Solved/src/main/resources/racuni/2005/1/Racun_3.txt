@@ -1,0 +1,19 @@
+Račun br. 779979
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Grebenasta sklopka, (glavna,crveno/žuta),0-1/3P/80A,na vrata                        441.73   25  11043.25   2760.81
+Kompaktni prekidač snage tip ME, 3P, 50kA, 350A+izvl. modul                        5888.02   26 153088.52  38272.13
+Optička spojnica ST singlemodna, metalna, keramička, ECO                             10.23   21    214.83     53.71
+Brojač pogonskih sati, 24VAC, pokrov stezaljki                                      149.03    6    894.18    223.54
+L-SE el. uložak DM 1x28W ECG                                                        250.85   27   6772.95   1693.24
+LED svjetleća oznaka, 230V AC, bijela                                                84.18    7    589.26    147.32
+Ignis-II-S LED 1,2W, IP41, aluminij                                                 600.99   10   6009.90   1502.47
+
+                                                                                                         ----------
+UKUPNO                                                                                                     178612.9
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,26 @@
+Račun br. 360689
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Prespojni kabel RJ45 cat.5e neoklopljen, PVC, žuti, 3.0m                             12.38   12    148.56     37.14
+Okvir za ugradnju KX/KE panik lampe u strop veliki otvor                            189.42   19   3598.98    899.74
+"Opt. razdjelnik, 8 niti,ST,50/125µm OM2, izvlačivi,19"",1U"                        599.28   19  11386.32   2846.58
+Zaštitni prekidač sa svojstvima rastavljača, C 125A, 3-polni                        674.11   27  18200.97   4550.24
+Rico-Q LED 6W 3000K 475lm, IP20, aluminij                                            439.8    6   2638.80    659.70
+Finožični PVC-om izol. vodič H07V-K (P/F) 6mm2, ž/z HPV                              10000   17 170000.00  42500.00
+EUTRAC produžetak s napajanjem, srebrne boje                                         383.7    6   2302.20    575.55
+Spoj/Nap.stezaljka za Rosen Lite i Glu-Trax šine                                      37.5   22    825.00    206.25
+Napajanje 8W, 24V, IP20                                                              83.77   20   1675.40    418.85
+Kanal tip BE-DIN, 37.5x37.5mm (VxŠ), duljina 2m, RAL 7030                            22.47    7    157.29     39.32
+Design LED Reflektor 30W 2380lm neutr. bb 4200K, bijele b.                          961.06   21  20182.26   5045.56
+Ugradna downlight svjetiljka ERK 207 1-26 TC-DEL ECG bijela                         275.05   10   2750.50    687.63
+"FIN XS Pole 50 4W LED 3000°K,""Down"", siva"                                      2187.41   11  24061.51   6015.38
+Zaštitni prekidač, B karakteristika, 6A, 3-polni+N, 10kA                            202.05   13   2626.65    656.66
+
+                                                                                                         ----------
+UKUPNO                                                                                                    260554.47
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

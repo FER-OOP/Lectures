@@ -1,0 +1,23 @@
+Račun br. 848104
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Linijska svjetiljka SOLO 2 T8 1x58W CCG, bijela                                     151.87    9   1366.83    341.71
+Upaljač PROMO mini bijeli                                                             4.48    2      8.96      2.24
+Kabel za gradilišta XYMM-J 5x2,5 K35 / 50m, žuti                                     10000    4  40000.00  10000.00
+Wago utična stezaljka za razvodne kutije, 3 x (1-2.5)mm²                              0.81    6      4.86      1.22
+Set šarki sa vijcima za IG706...                                                      4130   25 103250.00  25812.50
+Rastavna sklopka za cilindrične osigurače 22x58mm, 3P+N/100A                        273.01   28   7644.28   1911.07
+EURO SPOT INTEGRATED LED,3000K,24*,uklj. 1-f.adapter,sr.boje                        813.03   19  15447.57   3861.89
+Bezhal. kabel poboljšanih svoj.za sl. požara N2XH-J 1x70rm                           10000   13 130000.00  32500.00
+TERANG 2 XL, 3000K, oval, rusty                                                     625.15   30  18754.50   4688.63
+AIXLIGHT R2 OFFICE T5, zaobljena,bi.b.,2xT5 39W+2xES111 75W                        2809.97   22  61819.34  15454.84
+Finožični PVC-om izolirani vodič H05V-K (P/F) 1mm2, t-plavi                          10000   30 300000.00  75000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     678296.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

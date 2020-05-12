@@ -1,0 +1,26 @@
+Račun br. 466073
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Uvod kabela/zaštita od prašine za DW4H, montažu uvodnica                              6018    3  18054.00   4513.50
+T5-okrugla fluo cijev, 40W, 2700K                                                   125.36    2    250.72     62.68
+Pokrov priključnih stezaljki za MC3, 3-polni, odlomljivi                            123.28   24   2958.72    739.68
+MECANICA stolna svjetiljka, crne boje LED , 3000K                                  1746.03    9  15714.27   3928.57
+Kabel EYY-O (PP00) 3x25/16RM/RE                                                      10000   15 150000.00  37500.00
+Komplet brtvi II                                                                     43.91   21    922.11    230.53
+OTDR mjerenje uklj. protokol za MM (50/125 ili 62,5/125µm)                           42.56   12    510.72    127.68
+Označne pločice '301-350', Dekafix DY5 (sadrži 50 oznaka)                             8.45    9     76.05     19.01
+Bočne stranice za Modul 2000/3S, dubine 102mm, tip 28/102                             4160    5  20800.00   5200.00
+Kira-R LED 26W 4000K 1600lm, IP20, bijele boje                                       258.5   19   4911.50   1227.88
+65017T/12, 12 ° reflektor za 65017                                                  117.25   25   2931.25    732.81
+Teretna sklopka, 4P, 400A, opcija: daljinski isklop                                3064.27   12  36771.24   9192.81
+Preklopnik mreža-0-Not, pričvrš.na sabirnicu, 3-polna, 80A                         1392.51    2   2785.02    696.26
+Prednja ploča za sklopke s bravom EL121900/121930, bijela                            61.99    1     61.99     15.50
+
+                                                                                                         ----------
+UKUPNO                                                                                                     256747.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

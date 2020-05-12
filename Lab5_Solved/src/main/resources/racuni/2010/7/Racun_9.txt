@@ -1,0 +1,29 @@
+Račun br. 981504
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LUZO INTEGRATED LEDugrad.prsten,okrugli,metal bruš.2700K 36°                        635.43    9   5718.87   1429.72
+Zdina svjetiljka Cube-WL2, E27 PAR30, 2x75W, IP54, siva                             285.03   25   7125.75   1781.44
+Kompenzacija  LSFC 14% 100/12,5kvar 800x2110x500mm Sam.orm.                       45152.94   13 586988.25 146747.06
+Microkontrol cent. 200W3h,6 kruga,120 panik /sig.svjetiljki                       19539.39    2  39078.78   9769.70
+Teretna sklopka, 3P, 160A, VC2, bez ručice                                          671.78   11   7389.58   1847.39
+Tipkalo prisutnost/reset, umetak, 24V DC, max. 35mA                                 422.13   13   5487.69   1371.92
+Natpisna pločica za YRT/YRS78704 podnožje                                             0.65    7      4.55      1.14
+RP print relej, 1C/O, 8A, 24V DC, raster 3,5mm                                       17.89   11    196.79     49.20
+Zaštitni prekidač AMPARO 4.5kA, C 16A, 1P+N, širine 1 modula                         41.95    9    377.55     94.39
+Luka LED 3W, 4000K, 200lm, 700mA, IP65, 30°, alu                                    124.52    2    249.04     62.26
+LEVANTE-M L11 zidna spojnica LEVANTE MEDIUM crna                                    325.17   17   5527.89   1381.97
+LED ES111, 6,5W, COB LED, 2700K, 38°                                                280.98   30   8429.40   2107.35
+Poliester zidni ormar MINIPOL, prozirna vrata, 400x300x200mm                       1491.92   26  38789.92   9697.48
+Ugradna svjetiljka SEO T8 2x58W ECG M600, bijela                                    605.03   21  12705.63   3176.41
+EUTRAC L-spojnica vanjska, bij.                                                        307    7   2149.00    537.25
+Bezhalogeni instalacijski kabel JE-H(ST)H 8x2x0,8 E90 nar.                           10000   27 270000.00  67500.00
+Grebenasta sklopka, 1-0-2/2P/20A,na vrata,centralno učvršć.                         285.44   10   2854.40    713.60
+
+                                                                                                         ----------
+UKUPNO                                                                                                    993073.06
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

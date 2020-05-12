@@ -1,0 +1,27 @@
+Račun br. 770361
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kompaktni prekidač snage tip AE, 3P, 50kA, 800A+izvl. modul                       13114.94   17 222953.98  55738.50
+DC zaštitni prekidač, C 2A, 1-polni, 10kA                                           120.16    4    480.64    120.16
+Strujni trafo, 500/5A, 40X10                                                          4398   14  61572.00  15393.00
+Zaštitni prekidač, C karakteristika, 16A, 1-polni, 10kA                              24.63   25    615.75    153.94
+Majca kratki rukav vel.L                                                              9841   28 275548.00  68887.00
+VANO TC vanjska svjetiljka, TC-L 36W 2G11. srebrne boje                            1250.97    3   3752.91    938.23
+Nadgradna svjetiljka SARH-AS T5 1x49W, ECG, bijela                                  383.49   13   4985.37   1246.34
+Adapter za sustav 60mm, EEC 32A, 2 nosača, širine 54mm                              143.35   28   4013.80   1003.45
+FID sklopka 63-4-03/AC, 6kA                                                         425.06   16   6800.96   1700.24
+Držač žaruljice sa ugrađenom LED, bijeli, 24VAC/DC,ut. stez.                         26.99   14    377.86     94.46
+Bezhal. kabel s konc.zaštitnim Cu vodičem N2XCH 12x2,5re/4                           10000   27 270000.00  67500.00
+Panik svjetiljka PF FLUO 8W, CPS sustav, stropna                                   1386.26    1   1386.26    346.57
+"""Synchro"" uklopni sat, tjedni program"                                             2103   17  35751.00   8937.75
+DULUX TC-TEL 32W/827 Gx24Q-3 fluokom.žarulja                                         50.26   28   1407.28    351.82
+Spojnica za cijev KSX80/80                                                           31.95    4    127.80     31.95
+
+                                                                                                         ----------
+UKUPNO                                                                                                     889773.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

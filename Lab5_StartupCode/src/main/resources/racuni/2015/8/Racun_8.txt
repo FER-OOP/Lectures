@@ -1,0 +1,17 @@
+Račun br. 600073
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+8107/W/2, 7W 2PIN WW                                                                  1.68    5      8.40      2.10
+Tel. ormarić n/ž za 5 letvica 2/10, bez bravice                                     224.52   26   5837.52   1459.38
+TRUKKO, ogledalo sa LED osvjetljenjem                                              1746.03   30  52380.90  13095.23
+PlanoCentro 300, senzor prisutnosti, p/ž, stropni, bijeli                          3917.32   29 113602.28  28400.57
+Kutija za fiksni spoj sa 5X6mm2, uzidna/nazidna, bijela                              27.88    7    195.16     48.79
+
+                                                                                                         ----------
+UKUPNO                                                                                                    172024.25
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

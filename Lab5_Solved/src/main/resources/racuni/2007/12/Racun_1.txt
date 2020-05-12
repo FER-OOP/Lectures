@@ -1,0 +1,21 @@
+Račun br. 472581
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Aura 3 LED 15W, 4000K, 2030lm, IP43                                                 832.81    4   3331.24    832.81
+Zaštitni prekidač AMPARO 6kA, C 25A, 1-polni                                         20.02   19    380.38     95.10
+Termostat 5-35°C 6A 2M bijeli                                                       853.86   16  13661.76   3415.44
+Bezhalogeni jednožilni vodič H05Z-K 1mm2, crveni                                     10000   13 130000.00  32500.00
+Presence ECO-IR DUAL-C NT, senzor prisutnosti, strop, bijeli                       2433.71    7  17035.97   4258.99
+Redna stez. (utični priklj.) 2.5mm², tip HTE.2, žuto/zelena                          13.74    6     82.44     20.61
+Nadgradna svjetiljka SARH 2 ECO T8 1x58W ECG, bijela                                292.43   13   3801.59    950.40
+KALOS ASL ulič.optika 10LED,4000K 24W,antracit, 4 kraka                            3987.61   18  71776.98  17944.25
+LED 12-30V AC/DC, plavi, za prednju montažu                                          35.49   17    603.33    150.83
+
+                                                                                                         ----------
+UKUPNO                                                                                                    240673.69
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

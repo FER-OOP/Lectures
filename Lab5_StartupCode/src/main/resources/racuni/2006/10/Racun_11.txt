@@ -1,0 +1,27 @@
+Račun br. 1006457
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zaštitni prekidač sa svojstvima rastavljača, C 100A, 4-polni                       1109.42    7   7765.94   1941.48
+Kliješta za rezanje žica ravna, promjera žice do 1.3 mm                             208.92    2    417.84    104.46
+FID sklopka 125-4-003/A (puls)                                                     4940.41   21 103748.61  25937.15
+Telefonska rastavna letvica 2/10 s vijčanim stezaljkama                             215.86   29   6259.94   1564.98
+Kliješta za rezanje žica ravna, promjera žice do 1.3 mm                             208.92   19   3969.48    992.37
+Zaštitni prekidač AMPARO 6kA, C 16A, 3-polni                                         76.11    1     76.11     19.03
+Pomoćni sklopnik 4P | 12A | 230V AC | 4N/O                                          131.22   20   2624.40    656.10
+Završni element PK 110*70                                                             9.39   10     93.90     23.48
+NV rastavna sklopka  ARROW BLUE vel.2/400A, 3P,M10                                 1130.58    7   7914.06   1978.51
+Kabelske vezice, plastične, crne, 3.5x200mm                                           25.8   21    541.80    135.45
+FI-blok 40A, 3-polni, 30mA, Tip AC                                                    4290   15  64350.00  16087.50
+Instalacijski set PlanoSet RR, bijeli                                               274.33   12   3291.96    822.99
+SAT koaks. presp. kabel, 2xF-quick kon.,kl.A, bijeli, 2.5m                           22.45    1     22.45      5.61
+Poliester kućište 360x180x171mm, IP66, RAL 7035 (sivo)                              532.79   19  10123.01   2530.75
+FLEXLED ROLL MULTICOLOUR 24V, 3m                                                    938.06    2   1876.12    469.03
+
+                                                                                                         ----------
+UKUPNO                                                                                                    213075.61
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,25 @@
+Račun br. 249744
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ugradna kutija, podžbukna, dupla, 2xØ67, 45mm, M25, crna                            254.19    3    762.57    190.64
+GLENOS profil 1808-200, 2m, bijele boje                                             287.23   26   7467.98   1866.99
+Izolirani kabelski tuljak, plavi, 16.0mm²/12mm                                         0.5   13      6.50      1.63
+LUNA 1 Spot sa 3-faznim adapterom                                                   462.77    2    925.54    231.38
+Kabel YSLYQY-JZ 18x 1 prozirni                                                       10000   28 280000.00  70000.00
+R7S LED, 118mm, 2700K, 120°                                                         230.68   27   6228.36   1557.09
+Tipka MO 1M sa simbolom svjetla i indikacijom, bijela                                 3.43    2      6.86      1.71
+Revizijska vrata (mjerni spoj), 155×205mm                                            77.77   25   1944.25    486.06
+Rezervni nož za HSETOOL01F, sistem 110                                               54.79   23   1260.17    315.04
+Finn-I-R/A2 70W G8,5, 230V, IP20, sive boje                                           17.9   15    268.50     67.13
+Poluvodički sklopnik 3-polni | 20A/12-230VAC, 24-230VAC/DC                         1110.07   26  28861.82   7215.46
+"Zasun crveni ""Celanex"""                                                            1.86   22     40.92     10.23
+"Opt. razdjelnik, 24 niti,SC,50/125µm OM3, izvlačivi,19"",1U"                       976.77   20  19535.40   4883.85
+
+                                                                                                         ----------
+UKUPNO                                                                                                    347308.88
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

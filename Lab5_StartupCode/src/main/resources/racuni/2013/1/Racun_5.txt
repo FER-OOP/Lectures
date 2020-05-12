@@ -1,0 +1,14 @@
+Račun br. 531951
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+IP2x zaštita od dodira, za 4-polne MC3                                               143.6    8   1148.80    287.20
+Relej, 1 C/O, 12-240V AC/DC, montaža na DIN nosač                                   193.26   30   5797.80   1449.45
+
+                                                                                                         ----------
+UKUPNO                                                                                                    6946.5996
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

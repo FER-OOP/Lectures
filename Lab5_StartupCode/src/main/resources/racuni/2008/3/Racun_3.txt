@@ -1,0 +1,20 @@
+Račun br. 693660
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Prednja ploča, čelična, slijepa, 3B5                                                  4160    3  12480.00   3120.00
+Mini sklopnik 3P | 4kW [AC3] | 24V AC | + 1N/O (ugrađen)                            143.83   20   2876.60    719.15
+Nadgradna svjetiljka PRIMO M PRISMA 2x28W ECG, bijela                               282.81   19   5373.39   1343.35
+SSVGA produžni kabel 4C+5, pozl. kontakti, crni, 1.8m                                55.85    8    446.80    111.70
+CORDA ovjesna svjetiljka, bež                                                      1063.26   17  18075.42   4518.85
+"Natpisna pločica, ""RUNNING"", 17.5 x 28mm, natična"                                 8.13   25    203.25     50.81
+Panik svjetiljka RX LED 3W, CPS sustav, MIX mod, univerzal                         1993.61    3   5980.83   1495.21
+Kronos-S/A2 LED 2x40W 3000K 2x3200lm, IP20, bijele boje                            1905.53   30  57165.90  14291.47
+
+                                                                                                         ----------
+UKUPNO                                                                                                    102602.19
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

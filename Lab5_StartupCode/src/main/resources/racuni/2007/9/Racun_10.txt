@@ -1,0 +1,16 @@
+Račun br. 859996
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+SCUP 3 PC 1x70W,E27, ST, MB, IP20                                                    965.1   24  23162.40   5790.60
+Solus-R 50W GU5,3 MR16, 12V, IP44, brušeni krom                                      19.93   18    358.74     89.68
+LED-napajanje, 12VA, 700mA                                                          218.46    5   1092.30    273.08
+Finožični PVC-om izol. vodič H05V-K (P/F) 1mm2, zeleni HPV                           10000   21 210000.00  52500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    234613.44
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

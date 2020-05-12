@@ -1,0 +1,24 @@
+Račun br. 722754
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Daljinska sklopka sa ključem                                                        380.88   29  11045.52   2761.38
+Ina-R/A2 LED 9W 3000K 700lm, 700mA, IP20, bijele boje                               483.73   26  12576.98   3144.25
+Serijski ormar AS, 2-vrata, 2000x1000x400 (VxŠxD), RAL 7035                        4823.96   13  62711.48  15677.87
+KALU TRACK LEDDISK svjetiljka, crne boje, 3000K, 3-f adapter                       1307.91   15  19618.65   4904.66
+PWM kontroler 1 Kanal, 24V, 100W max.                                               437.43    3   1312.29    328.07
+Kompaktni prekidač snage tip A, 3P, 150kA, 250A                                    3195.82   11  35154.02   8788.50
+Industrijska svjetiljka LAMBDA 265/395 250W HIT IP65 šir. s.                       1309.96   18  23579.28   5894.82
+Sklopnik 3P | 4kW (10A) [AC3] | 24V DC | + 1N/C (ugrađen)                           201.64   29   5847.56   1461.89
+Sobni termostat                                                                    1887.89   14  26430.46   6607.61
+Odvodnik prenapona, punjen plinom, 8x20mm, 90V                                       30.43   21    639.03    159.76
+Utičnica šuko, dvostruka, na vijak, bijela                                           19.53   22    429.66    107.41
+Aluminijski profil sa pokrovom, četvr., sreb.boje, 1m                               187.37    1    187.37     46.84
+
+                                                                                                         ----------
+UKUPNO                                                                                                    199532.31
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

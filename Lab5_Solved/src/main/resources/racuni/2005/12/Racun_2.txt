@@ -1,0 +1,19 @@
+Račun br. 635618
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Nick-I-Q 70W Rx7s, 230V, IP20, bijele boje                                            7.77   17    132.09     33.02
+ENOLA_C 18 SPOT, okr., bijele b., 18W, 3000K,55°,3-f adapter                       1433.11    5   7165.55   1791.39
+UPS Premium Plus ER 3000VA 2400W 0min, 1f/1f /Online                               6722.72    5  33613.60   8403.40
+Metalhalogena žarulja 35W CMH-MR16 PRECISE, 40°,3000K,GX10                          312.23   29   9054.67   2263.67
+U/UTP inst. kabel cat.5e,4x2xAWG24/1,LS0H,plavi,kutija 305m                         210.78   22   4637.16   1159.29
+Montažna ploča za Maxipol ormare 1250x750 (VxŠ), poliester                          881.48   15  13222.20   3305.55
+Tipka MO 1M sa simbolom ključa, bijela                                                2.65   18     47.70     11.93
+
+                                                                                                         ----------
+UKUPNO                                                                                                     67872.98
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

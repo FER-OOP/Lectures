@@ -1,0 +1,17 @@
+Račun br. 686304
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Sutil Quadro LED 22W, 6000K, 1540lm, 120°, IP40, bijele boje                         258.5   22   5687.00   1421.75
+Optički prespojni kabel duplex, SC/SC, 50/125µm OM2, 2.0m                             68.3   11    751.30    187.83
+UPS Premium Plus 700VA 560W 6 min.1/1-fazni/Online                                 3505.58   20  70111.60  17527.90
+Romy-II-R 2x20W E27, 100-240V, IP20, brušeni krom                                    37.67   26    979.42    244.85
+Dina-R LED 12W 3000K 1100lm,dimm.,700mA,IP64,brušeni krom                           161.18   12   1934.16    483.54
+
+                                                                                                         ----------
+UKUPNO                                                                                                     79463.48
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

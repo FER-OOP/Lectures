@@ -1,0 +1,32 @@
+Račun br. 1086242
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Fluokompaktna žarulja TC-D 26W/840 G24D-3                                            27.45   26    713.70    178.43
+LINDA LED PC 2x24W, 4000K, 7002lm, IP65, Inox kopče, siva                          1065.62   15  15984.30   3996.07
+Plafonjera MALLE LED 12W 1050lm/830 ECG, bijela                                     523.51    1    523.51    130.88
+LED žarulja, mat, E27, dim., 11,5W, 2700K, 806lm                                     66.23   27   1788.21    447.05
+Kompaktni prekidač snage tip A, 4P, 50kA, 250A                                     3948.47   14  55278.58  13819.64
+Okvir 2x2M line, zagasito bijeli                                                     68.46   30   2053.80    513.45
+USB utičnica, dvostruka, 1400mA                                                     508.61   13   6611.93   1652.98
+Teretna sklopka, 4P, 400A, VC3, bez ručice                                         1238.13   30  37143.90   9285.97
+Otvoreni prekidač, 4P, 66kA, 2000A, fiksni,vod. str. priklj.                      43899.19   281229177.38 307294.34
+Fluo cijev T16 14W/840 G5                                                            21.87    3     65.61     16.40
+Ina-R/A1 LED 10W 4000K 840lm, IP20, bijele boje                                     238.74   14   3342.36    835.59
+Utičnica, 16A, umetak, otp. na grebanje, crvena                                      21.71   16    347.36     86.84
+SSVGA kabel 4C+5, pozlaćeni kontakti, crni, 20m                                      365.5   20   7310.00   1827.50
+Helios-Q/A2 LED 10W 3000K 483lm,dimabilna,500mA,IP20,alu                            285.88   16   4574.08   1143.52
+Prednja ploča, plastična, sa otvorom za uređaje, 1G3K                                45.77    2     91.54     22.89
+Bezhal. kabel s konc.zaštitnim Cu vodičem N2XCH 3x1,5re/1,5                          10000    7  70000.00  17500.00
+Izmjenična sklopka, umetak, utične stezaljke                                         18.67   16    298.72     74.68
+Pozivno tipkalo za medicinsku sestru, odvojeni binarni ulaz                           2104    5  10520.00   2630.00
+Glenos akrilni pokrov, četvrtasti pokrov za profile 2609, 2m                        249.72    5   1248.60    312.15
+Podnožje prema dubini ormara, 400mm, prolazno, RAL 7022                             179.71   16   2875.36    718.84
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1449949.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,14 @@
+Račun br. 293316
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ovjes za 1-faznu 3-f šinu, bb, 3m                                                    87.01   28   2436.28    609.07
+Prozirna vrata, akril, za WSM6040xx, otvor: 459X243mm                               466.91   14   6536.74   1634.19
+
+                                                                                                         ----------
+UKUPNO                                                                                                    8973.0205
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

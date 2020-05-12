@@ -1,0 +1,16 @@
+Račun br. 874989
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Stražnja ploča za nazidni Modul 2000 | 4R-42                                         409.8    6   2458.80    614.70
+Pokrov stezaljki za sklopnike veličine 2                                             14.34   17    243.78     60.94
+Okvir 1M line, zeleni                                                                24.38    4     97.52     24.38
+Sklopnik vel.00 (za PLC) | AC3 3kW/400V | 17-30VDC | 1 N/C                          137.95   27   3724.65    931.16
+
+                                                                                                         ----------
+UKUPNO                                                                                                      6524.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,20 @@
+Račun br. 376896
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Adapter za sustav 60mm, EEC 25A, 1 nosač, širine 45mm                               145.51   21   3055.71    763.93
+Završni poklopac LBF okrugli zatvoreni                                                8.37   12    100.44     25.11
+Audio vanjski panel, 48 tipki, sa PTT otvorom                                      5196.46   27 140304.42  35076.11
+NEW MYRA DISPLAY CURVE, antracit, GU10, max. 50W, IP55                              938.06   10   9380.60   2345.15
+Modularna slijepa ploča za AS/KS ormare 800x200mm RAL 7035                          119.19   25   2979.75    744.94
+Cijev, M32, 320N, EN2221, svijetlo siva, 3m (pak. 57m)                               622.2   16   9955.20   2488.80
+DC zaštitni prekidač, C 16A, 2-polni, 10kA                                          133.82    4    535.28    133.82
+LS-FI (KZS), B/25/30mA, 2P, Tip A, 6kA                                                4281    9  38529.00   9632.25
+
+                                                                                                         ----------
+UKUPNO                                                                                                     204840.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

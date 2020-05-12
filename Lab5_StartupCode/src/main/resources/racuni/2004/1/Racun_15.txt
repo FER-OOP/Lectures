@@ -1,0 +1,28 @@
+Račun br. 868616
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Sklopnik vel.6|90kW (185A) [AC-3]|220-240VAC, 50Hz|2N/O+2N/C                       2366.97   25  59174.25  14793.56
+Panik svjetiljka PF FLUO 8W, CPS sustav, MIX mod,stropna                              2018   22  44396.00  11099.00
+EUTRAC Ovjes za 3-fazne šine, 60cm, srebrne boje                                    249.72    5   1248.60    312.15
+Nazidna serijska sklopka, siva, 10A, IP44, na vijak                                   2102    1   2102.00    525.50
+Zaštitni prekidač, C karakteristika, 63A, 3-polni, 6kA                              190.58   21   4002.18   1000.55
+PEYOTE POLE 48cm 2x90° 8x1W LED, 40° 4000K RAL9006                                 3537.56   27  95514.13  23878.53
+Komplet vijaka za plombiranje (pak.=10 kom.)                                         56.42   14    789.88    197.47
+N stezaljka sa 15 odvoda                                                             34.63   18    623.34    155.84
+Uređaj za binarni ulaz, 4 x AC/DC 12…..230V                                         976.28    7   6833.96   1708.49
+Signalni fleksibilni kabel YSLCY-OZ 25x 0,75 sivi                                    10000   28 280000.00  70000.00
+Zaštitni prekidač MB 18kA CL 50/3                                                   458.97   27  12392.19   3098.05
+Montažna ploča 4M-46                                                                 60.73   23   1396.79    349.20
+D01 prilagodni uložak (prsten) Neozed 4A                                              2.27   19     43.13     10.78
+FID sklopka 80-4-03/A, S izvedba                                                   1001.12   19  19021.28   4755.32
+LED GU10 žarulja, 7W, SMD LED, 3000K, 36°, dim.                                     153.41    7   1073.87    268.47
+Signalni fleksibilni kabel YSLCY-JZ 4x25 sivi                                        10000   30 300000.00  75000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    828611.56
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

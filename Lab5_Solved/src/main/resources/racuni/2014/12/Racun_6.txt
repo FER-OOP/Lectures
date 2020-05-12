@@ -1,0 +1,24 @@
+Račun br. 806281
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Daljinski isklopnik za MC1, 208-250V AC/DC, sa 3m kabela                            267.14   13   3472.82    868.21
+SFP modul 1000BaseLX LC singlemodni 1310nm, 10km                                       466   17   7922.00   1980.50
+Komplet obujmica za vel.00                                                           12.51   11    137.61     34.40
+Jamba-III-WL-R 15W E27, 100-240V, IP54, rusty                                       124.52   20   2490.40    622.60
+SERH ECO A4 L1 T5 4x14W EVG M625, bijela b.                                          332.3    5   1661.50    415.38
+Alan-I-S 40W G9, 100-240V, IP20, aluminij                                           227.25   30   6817.50   1704.38
+Adapter 200A (montažna ploča na sutav 100mm), 108x315mm(ŠxV)                          4833   21 101493.00  25373.25
+DOWNUNDER III zidna svjetiljka za R7s-žarulju 100W                                  745.42   10   7454.20   1863.55
+KALU II ES111, Double                                                              1000.75   27  27020.25   6755.06
+Panik svjetiljka KSW  LED, 230VAC,3h, bežična, stropna mont                        1702.27    5   8511.35   2127.84
+Pokrov za PARA DOME II 320                                                          249.72   27   6742.44   1685.61
+Kompenzacija  LSFC 7% 500/50kvar 800x2000x500mm Samost.orm.                          10000   22 220000.00  55000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    393723.06
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

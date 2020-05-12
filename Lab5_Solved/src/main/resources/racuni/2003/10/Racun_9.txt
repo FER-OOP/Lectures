@@ -1,0 +1,22 @@
+Račun br. 449879
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Industrijska svjetiljka CUB R90 panik šir.sn. 4xTC-L55W IP43                       3820.03   21  80220.63  20055.16
+AF S LED 300 reflektor, 8xLED (24W), 3000°K, IP44, bijeli                          3307.61    5  16538.05   4134.51
+IBDN prespojni kabel RJ45 UTP cat.6A, plavi, 7.6m                                     6804   26 176904.00  44226.00
+Prednja ploča s otvorom za uređaje ø22,5 mm, biserno bijela                             52   26   1352.00    338.00
+7102LG/W, G9 LED 2w WW 230v                                                          43.92   28   1229.76    307.44
+Finožični PVC-om izol. vodič H07V-K (P/F) 2,5mm2, ž/z HPV                            10000    1  10000.00   2500.00
+Hotel-card sklopka, alu efekt                                                       214.21   27   5783.67   1445.92
+Okvir MO 2/3M line, bijeli                                                            9.37   16    149.92     37.48
+PROFUNO LED Spot, 3000K, 60°, uklj. 3F adapter, srebrne boje                       1250.97   22  27521.34   6880.34
+BULAN GRID zidna svj., okrugla, antracit, E27, max. 2x25W                           308.85    2    617.70    154.43
+
+                                                                                                         ----------
+UKUPNO                                                                                                    320317.03
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

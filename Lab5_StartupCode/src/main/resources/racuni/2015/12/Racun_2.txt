@@ -1,0 +1,31 @@
+Račun br. 728933
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Vremenska sklopka (timer), 2-polna, 230VAC/16A,120min,umetak                        451.16    3   1353.48    338.37
+Utičnica MO šuko 2M 16A, sa dječjom zaštitom, narančasta                             22.81   18    410.58    102.64
+Elektronska prigušnica ECG QTi 2x36/220-240 dim 1-10V                               350.76   17   5962.92   1490.73
+Metalhalogena žarulja HIT 1000W/D E40                                              1228.67   12  14744.04   3686.01
+Gumeni savitljivi kabel NSSHöu-J 4x50, žuti                                          10000    3  30000.00   7500.00
+E-AYY-J 3x240/120SM                                                                  10000    8  80000.00  20000.00
+9S07/D/SE, 7W E14 DL                                                                  5.23   12     62.76     15.69
+MODUL CONNECT završna pločica 4P (za ISS90004)                                        5.44   20    108.80     27.20
+Teretna sklopka, 3P, 400A, VC3, s produžnom osovinom                                  4380    2   8760.00   2190.00
+Strujni trafo, prolazni, okrugli, promjer otvora: 140mm                            1561.48    7  10930.36   2732.59
+"Prespojni panel 10"", prazan, za 12 modula (SFA)(SFB), 1U"                         130.09   14   1821.26    455.32
+Adapter za RUBINIO LED 60/76 mm, sive boje                                          359.33   26   9342.58   2335.65
+USB 2.0 kabel, USB A muški - A muški, sivi, 1.8m                                      9.77   17    166.09     41.52
+LED-napajanje, 15VA, 700/1000/1200mA                                                 288.7    5   1443.50    360.88
+LIGHT EYE ovjesna svjetiljka ES111 GU10, max. 75W, crvene b.                        562.63    5   2813.15    703.29
+NEW MYRA WALL svjetiljka, srebrna b., GU10, max. 50W, IP55                          562.63   30  16878.90   4219.73
+Pomoćni kontakt, 5-250VAC, 6A, 1 N/O + 1 N/C                                         58.13   17    988.21    247.05
+Ispitni utikač D=2.3mm                                                               20.12    5    100.60     25.15
+Daljinski isklopnik za MC4, 230VAC/DC, sa ranijim pom. kont.                        903.09   30  27092.70   6773.17
+
+                                                                                                         ----------
+UKUPNO                                                                                                    212979.95
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

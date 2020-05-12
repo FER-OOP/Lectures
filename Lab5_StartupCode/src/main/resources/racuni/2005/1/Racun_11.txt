@@ -1,0 +1,32 @@
+Račun br. 626080
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Tuljak za 70mm2, pocinčani, DIN norma                                                 5.01   15     75.15     18.79
+Ampermetar, 48x48mm, 10A AC, direktno                                               131.62    1    131.62     32.90
+Minijaturni relej, 4C/O, 6A, 230VAC, pozlaćeni kontakti                              60.81   27   1641.87    410.47
+LED svjetleća oznaka, 230V AC, zelena                                                71.82    7    502.74    125.68
+TRILEDO SQUARE CL downlight, mat bijele b., 6W, 38°, 3000K                          625.15   26  16253.90   4063.48
+Pomoćni sklopnik vel.00 | 4P | AC15 6A/230V |24VDC|2N/O+2N/C                        112.76    2    225.52     56.38
+Poprečna stranica, širina 3/200mm                                                   244.32    7   1710.24    427.56
+Ugradna downlight svjetiljka EQM 211 2x26W CCG TC-D, bijela                         335.55   16   5368.80   1342.20
+SQUARE Downlight, titan                                                             105.76   25   2644.00    661.00
+Neizolirana Cu stopica 185mm², M12                                                   29.36    4    117.44     29.36
+Mavric-R/A2 75W GU10 AR111, 100-240V, IP20, crne boje                                99.51   22   2189.22    547.30
+Stezaljka za strujni trafo, sa ispitnom utičnicom, 6mm², bež                         31.86   30    955.80    238.95
+Mikroprizmatični bočni pokrov MF Opal 2m                                             83.66   26   2175.16    543.79
+SERH ECO A4 L2 T5 4x14W EVG M600, bijela b.                                         389.85   28  10915.80   2728.95
+Reflektor FORCA LED 151W 17600lm/765 ECG IP65 25°,sb                               4134.73   23  95098.79  23774.70
+Solid traka LED 7W 6000K 530lm, IP20                                                190.58   18   3430.44    857.61
+BIG THEO BEAM, G9, srebrne boje                                                     731.93   27  19762.11   4940.53
+Sklopnik vel. 00 | 4kW (9A) [AC-3] | 230VAC, 50/60Hz |1 N/O                         107.32    9    965.88    241.47
+Flyer spojni kit za 3+4 prečke,promjer stupa 102-114mm crni                           8514    4  34056.00   8514.00
+FID sklopka 25-2-01/A (puls), 6kA                                                     4271    4  17084.00   4271.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    215304.47
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

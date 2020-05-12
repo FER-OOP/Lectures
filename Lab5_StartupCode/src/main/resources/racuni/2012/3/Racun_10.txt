@@ -1,0 +1,15 @@
+Račun br. 163300
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+9018L/C, T8 LED staklena cijev 18w CW 120cm, 230v, mat                               73.32    5    366.60     91.65
+UPS AVARA Multi 15kVA 13,5kW 21min, 3F/3F/Online veliko kuč.                      63147.02   241515528.50 378882.13
+LED-napajanje, 3VA, 350mA                                                           124.69   21   2618.49    654.62
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1518513.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

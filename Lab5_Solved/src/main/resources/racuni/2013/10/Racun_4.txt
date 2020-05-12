@@ -1,0 +1,24 @@
+Račun br. 492452
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Tipka za serijske sklopke i dvostruka tipkala, antracit                              67.54   25   1688.50    422.13
+Spojnica (ravna) M16, siva (pak. 100 kom.)                                          147.37   16   2357.92    589.48
+Sutil Round  LED 8W, 6000K, 560lm, 120°, IP40, sive boje                            126.04   25   3151.00    787.75
+N stezaljka sa 15 odvoda                                                             34.63   11    380.93     95.23
+Ugradna svjetiljka SEO XTP T5 4x14W ECG IP54 M600, bijela                          1092.93   18  19672.74   4918.19
+Ugradna svjetiljka SELENA LED M625 ED 3700lm/830 MAT,bb                             954.77   25  23869.25   5967.31
+Bimetalni relej, područje podešenja 28.00-42.00A                                    691.43    5   3457.15    864.29
+Motorna zaštitna sklopka, 3-polna | 57.0 - 75.0A, vel.S3                            811.68   13  10551.84   2637.96
+SAT priključnica MO 1M, F kon. završna, 1dB, 5-2400MHz, crna                         42.83   22    942.26    235.57
+Modul signalne svjetiljke, trajno žuto svjetlo, 24V AC/DC                            446.2    8   3569.60    892.40
+Serijski ormar AS, 1-vrata, 1800x600x400 (VxŠxD), RAL 7035                          3725.1    1   3725.10    931.27
+L-SE pokrov 2x58W opalni pokrov                                                     111.85   15   1677.75    419.44
+
+                                                                                                         ----------
+UKUPNO                                                                                                     75044.04
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

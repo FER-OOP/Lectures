@@ -1,0 +1,16 @@
+Račun br. 936388
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Okvir 1/3M line, srebrni                                                             35.64   19    677.16    169.29
+Punto-A MR16 Spot, GU5,3, 50W, IP20, 12V, antik mesing                               19.26   18    346.68     86.67
+Poliester kućište 190x190x100mm sivo - A                                            225.87   19   4291.53   1072.88
+Perforirana bočna str. za DS/DSZ ormare, 42U, D=1000                                754.81   27  20379.87   5094.97
+
+                                                                                                         ----------
+UKUPNO                                                                                                    25695.238
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

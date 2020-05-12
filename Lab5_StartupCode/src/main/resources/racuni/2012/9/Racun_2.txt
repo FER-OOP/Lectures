@@ -1,0 +1,22 @@
+Račun br. 224152
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Okvir za IKALL, 1-struki,srebrni                                                    284.29   12   3411.48    852.87
+Stražnja ploča za nazidni Modul 2000 | 2R-12                                         76.03    1     76.03     19.01
+Natpisna pločica, prazna, 17.5 x 28mm, natična                                        2.11   17     35.87      8.97
+Telefonska žica za ranžiranje YV 2x0,5/0,9 bijela-zelena                            136.59   24   3278.16    819.54
+Kompaktni prekidač snage tip VE, 3P, 50kA, 250A                                    3234.54    5  16172.70   4043.18
+Zaštita za sab. sistem 39 ili 34 mm za ARROW BLUE vel.01                              4821    1   4821.00   1205.25
+Soft-starter 3P, 2f upravlj. 15A/400-480VAC/24-480VAC/DC                           1876.95   15  28154.25   7038.56
+AIXLIGHT PENDANT SYSTEM 35W HQI modul, sr.b.                                        813.03    7   5691.21   1422.80
+Mario-WL-S LED 12x1W 3000K, IP54, sive boje                                         464.13    3   1392.39    348.10
+89030A, LED DRIVER 700mA 15-30w , ulaz 230v                                         178.92    1    178.92     44.73
+
+                                                                                                         ----------
+UKUPNO                                                                                                    63212.016
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

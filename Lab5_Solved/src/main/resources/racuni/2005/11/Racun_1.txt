@@ -1,0 +1,32 @@
+Račun br. 379694
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LIPSY 40 LED okrugla, 54 LED, 3000K, sa bijelim difuzorom                           813.03    7   5691.21   1422.80
+Konektiranje 2x24 SC SM utikača + zašt. za povlačen                                6756.64   11  74323.04  18580.76
+Kabelska uvodnica s maticom, PG16, IP68                                               2.79    2      5.58      1.39
+Maskirni razdjelnik 4 širine brojila/ 12 MV                                           4180    9  37620.00   9405.00
+EUTRAC X-spoj, srebrne boje                                                         813.03   16  13008.48   3252.12
+FID sklopka AMPARO, 63-4-01/AC, 10kA                                                  4210   15  63150.00  15787.50
+Nadgradna svjetiljka SAP IP54 T5 4x24W ECG, bijela                                 1043.44   12  12521.28   3130.32
+Pozivni modul, 6 tipki, 4+n, IKALL                                                  503.82    5   2519.10    629.78
+Pokrov lučne komore za MO1, 3-polni (kao rezervni dio)                                4970    2   9940.00   2485.00
+Teški gumeni kabel H07RN-F 7x1,5, crni                                             2257.77   18  40639.86  10159.96
+Sklopnik vel.0 | 4P | AC1 35A/690V | 230VAC                                         171.61   14   2402.54    600.64
+LED napajanje 240W/10A, 24VDC IP67                                                  896.22   24  21509.28   5377.32
+NEW TRIA II MR16, četvrt.obl., mat bijele boje, max. 2x 50W                         343.66   11   3780.26    945.07
+Punto-R 35W GU4 MR11, 12V, IP20, krom                                                 6.58    5     32.90      8.23
+"Natpisna pločica za umetanje fi=28mm, prozirna, ""HALT"""                            3.09   22     67.98     16.99
+VAP 70 podna svjetiljka,okr., nehrđ.čelik, E27, max.23W,IP44                       2809.97   22  61819.34  15454.84
+TESA dvostruko-ljepljiva traka 8mm širine                                            150.6   18   2710.80    677.70
+TRILEDO SQUARE CL downlight, brušeni alum., 6W, 38°, 3000K                          625.15    5   3125.75    781.44
+Rico-Q LED 6W 3000K 475lm, IP20, bijele boje                                        497.24   22  10939.28   2734.82
+Dena-R/A2 75W G53 AR111, 12V, IP20, aluminij                                        132.63   22   2917.86    729.47
+
+                                                                                                         ----------
+UKUPNO                                                                                                    368724.56
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

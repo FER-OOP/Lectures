@@ -1,0 +1,14 @@
+Račun br. 555924
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ugradna ind. svjetiljka SBOX EB 1x400W,E40,HS/HI,MB, IP65                          1097.74    8   8781.92   2195.48
+Reed-II-S-R 2x26/32/42W G24q, 230V, IP20, sive boje                                   7.77   28    217.56     54.39
+
+                                                                                                         ----------
+UKUPNO                                                                                                    8999.4795
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

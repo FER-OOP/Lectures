@@ -1,0 +1,18 @@
+Račun br. 1010593
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+TYTAN R rastavna pruga za D02 i 10x38mm, 3P+N, sustav 60mm                          455.02   20   9100.40   2275.10
+L-SE pokrov 1+2x28/54 opalni pokrov                                                  64.07   21   1345.47    336.37
+SPOODI Floodlight 10W reflektor, 100°, IP65, crna b.                                437.43   26  11373.18   2843.29
+IP kontroler                                                                       6300.97   27 170126.20  42531.55
+Optički prespojni kabel duplex, SC/SC, 50/125µm OM3, 1.0m                            65.04    1     65.04     16.26
+S4H koaks. prespojni kabel, 2xF-konektor, 5 m, bijeli                                24.39   13    317.07     79.27
+
+                                                                                                         ----------
+UKUPNO                                                                                                    192327.36
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

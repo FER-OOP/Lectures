@@ -1,0 +1,20 @@
+Račun br. 878903
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Strugač za led                                                                       44.52   19    845.88    211.47
+AF S LED 300 reflektor, 8xLED (24W), 3000°K, IP44, inox                            3585.44   18  64537.92  16134.48
+Panik svjetiljka VM Autotest LED/3W/3h 230VAC montaža strop                        3328.45    9  29956.05   7489.01
+"Natpisna pločica za umetanje fi=28mm, prozirna, ""›"""                               3.09   14     43.26     10.81
+Nadgradna downlight svjetiljka ARM 291 2x13W CCG TC-D,bijela                        323.14   14   4523.96   1130.99
+Standardni transformator 12V, 150VA                                                 437.43   16   6998.88   1749.72
+Stezaljka za priklj. dolje, za pruge vel. 1-3, sustav 185mm                          75.53   29   2190.37    547.59
+Maskirni razdj. 2M-24, 8-redni, 168 ŠM,1105x540x200mm(VxŠxD)                       2345.48   27  63327.96  15831.99
+
+                                                                                                         ----------
+UKUPNO                                                                                                    172424.28
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

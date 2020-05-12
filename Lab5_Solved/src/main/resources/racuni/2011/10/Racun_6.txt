@@ -1,0 +1,28 @@
+Račun br. 843605
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Prednja ploča, plastična, slijepa, 2B13K                                              4160   14  58240.00  14560.00
+Montažni nosač DIN šine, ravni, visine 30mm                                           8.37   26    217.62     54.40
+Linda Transpa. svj. 5W ERT-LED 230V, CPS MIX, HS kem. Zašti.                       1561.16    3   4683.48   1170.87
+RUSTY 40 LED četvrtasti vanjska svjetiljka 3000K IP55, rusty                       1871.23   20  37424.60   9356.15
+Ugradna svj. SELENA OP LED ECO 37W M625 3700lm/840 ECG,bb                           739.14   27  19956.78   4989.20
+Vodotijesna svjetiljka DEVA ECO PC 2x28W ECG                                        244.49   14   3422.86    855.71
+Pozivno tipkalo, umetak, 24V DC, max. 20mA                                            2104   11  23144.00   5786.00
+Izolirani kabelski tuljak, crveni, 10.0mm²/12mm                                       0.36    6      2.16      0.54
+Teretna sklopka, rastavljač (izolator), 40A, 4P                                     161.71   15   2425.65    606.41
+SQUARE TURN HIT-TC zidna s.,kvadratna,srebrne b.,HIT-TC,20W                        1300.81   29  37723.49   9430.87
+"2-struki okvir ""Riva"", biserno bijeli"                                            24.95    1     24.95      6.24
+Podnaponski isklopnik za MC1, 208-240VAC+2 ranija pom. kont.                        467.21    5   2336.05    584.01
+Tipka sa natpisnim poljem i simbolom zvona, bijela                                   32.27    5    161.35     40.34
+LS-FI (KZS), C/40A/30mA, 1P+N, Tip A, 10kA                                          434.82   29  12609.78   3152.45
+"19"" fiksna polica do maks. 40kg, d=450mm, niskoprofilna"                          182.64   18   3287.52    821.88
+Luxa 102-140, LED sa senz., 16W, 3000K, zidna, IP44, bijela                         935.74   21  19650.54   4912.63
+
+                                                                                                         ----------
+UKUPNO                                                                                                    225310.84
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

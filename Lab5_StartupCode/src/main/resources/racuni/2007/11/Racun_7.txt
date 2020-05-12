@@ -1,0 +1,31 @@
+Račun br. 288322
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LS-FI (KZS), C/10A/300mA, 1P+N, Tip A, 10kA                                         347.34   20   6946.80   1736.70
+SYROS kućište za LINUX LIGHT, krom                                                  312.23   16   4995.68   1248.92
+Transformator, 1-fazni | 230/24V | 60VA, IP00 + osig. sek.                          276.97   19   5262.43   1315.61
+Pokrov za dvostruki adapter                                                           4821   26 125346.00  31336.50
+N/Ž okvir + vrata 4A-28 D=250mm str.ploča+zakr. ručica, IP54                       4235.32   24 101647.67  25411.92
+Sajla za uvod kabela, čelična, 10m                                                  182.01   16   2912.16    728.04
+Kabel H05VV-F (PP/J) 3x2,5mm2, svijetlo-sivi, 500m                                   10000    1  10000.00   2500.00
+Označna pločica tip CSC 'L' (100 kom.)                                                9.51   15    142.65     35.66
+6-kutna matica, NUT-HEX-DIN934-I8I-WS17-(A2K)-M10                                       43   28   1204.00    301.00
+Bezhal. kabel HSLH-JZ 4x1FRNC H-F 1žila ž/z ostale crn/siv                           10000   10 100000.00  25000.00
+LED G4 1,2W 90lm 3000K                                                               60.32   29   1749.28    437.32
+Pokrov podnožja IS504823--, 3-polni, širina 54mm                                      15.6    1     15.60      3.90
+Nosač sabirnica, 3-polni, sustav 60mm                                                73.41    9    660.69    165.17
+Sklopka+LED, 16A, 24V AC/DC, 1 N/O + 1 N/C, montaža na DIN                           95.53   26   2483.78    620.95
+RP PRINT RELEJ,1C/O,16A,12VDC RASTER 5mm                                             12.53   26    325.78     81.44
+FLAC BEAM, podna svjetiljka, srebrne boje, G12, 70W                                2058.94    6  12353.64   3088.41
+Nadgradna svjetiljka SAP ECO T5 2x54W ECG, bijela                                   337.11    3   1011.33    252.83
+KNX aktuator grijanja, 6 ulaza, 6 izlaza                                           2144.75   29  62197.75  15549.44
+Okvir 4M line, zlatni                                                                51.11   21   1073.31    268.33
+
+                                                                                                         ----------
+UKUPNO                                                                                                    440328.53
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

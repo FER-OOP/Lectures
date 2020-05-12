@@ -1,0 +1,25 @@
+Račun br. 602129
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Radne cipele broj 40                                                                731.84   10   7318.40   1829.60
+Finožični PVC-om izolirani vodič H05V-K (P/F) 1mm2, sivi                              93.1   29   2699.90    674.97
+Zaštitni prekidač AMPARO 6kA, B 10A, 3P+N                                            98.25    1     98.25     24.56
+"19"" nap. letva za UPS, 8xUTE crv.,C14 kabel 2m,10A osig.,1U"                      505.04    8   4040.32   1010.08
+Završni poklopac CLW ravni zatvoreni sa vijcima                                       51.6   13    670.80    167.70
+Telekomunikacijski kabel J-Y(ST)Y 3x2x0,8mm2                                        456.41   21   9584.61   2396.15
+Fluokompaktna žarulja TC-L 18W, 2700K, 4-Pin                                         62.51   13    812.63    203.16
+Punto-R 50W GU10 MR16, 100-240V, IP20, brušeni krom                                  33.11   29    960.19    240.05
+Otvoreni prekidač, 3P, 80kA, 2500A, fiksni, prednje priklj.                       52595.28   13 683738.63 170934.66
+Industrijska utičnica, 5 polna, 63A, IP44, montaža na zid                           488.35   14   6836.90   1709.22
+USB 3.0 A-B mikro kabel, A muški - mikro B muški, 1m, crni                           63.02   25   1575.50    393.88
+Cijev, M16, 320N, EN2221, svijetlo siva, 3m (pak. 111m)                             217.71   15   3265.65    816.41
+Poluvodički mot.kontroler 200-440V/42A sa bypass i zaštitom                           4701   21  98721.00  24680.25
+
+                                                                                                         ----------
+UKUPNO                                                                                                    820322.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

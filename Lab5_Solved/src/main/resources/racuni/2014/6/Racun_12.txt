@@ -1,0 +1,26 @@
+Račun br. 238840
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Grebenasta sklopka u kućištu (crveno/žuta), 0-1/4P/63A, IP65                        646.97    4   2587.88    646.97
+NEW TRIA DLMI četvrt. downlight, mat bijele boje, 3000K, 60°                        1495.8   24  35899.20   8974.80
+Zaštitni prekidač, B karakteristika, 40A, 1-polni, 10kA                              29.91   17    508.47    127.12
+Philips Master LED Spot GU10, 5.3W, 36°, 2700K, dim.                                220.66   23   5075.18   1268.80
+Phos B41 poluga za stup 76mm crna antracit SABLE NOIR                              4730.26   26 122986.75  30746.69
+LIGHT EYE ovjesna svjetiljka ES111 GU10, max.75W, zelene b.                         562.63    2   1125.26    281.32
+7650A, 500w R7 220v-240v                                                              7.94   11     87.34     21.84
+D01 (Neozed) osigurač 16A, gL                                                         4.22   12     50.64     12.66
+Kruta pojačana cijev, M63, 750N, EN3342, HF, crna, 3m                             11165.89   11 122824.79  30706.20
+Fluokompaktna žarulja TC-Tel 26W 840 Gx24Q-3                                         28.07   11    308.77     77.19
+Proširenje sa accu i punjačem za USMLT 480V / 40 x 100 Ah                            10000   28 280000.00  70000.00
+"Dvostruko svjetleće tipkalo crv/zel oznake: ""START""-""STOP"""                      70.4   12    844.80    211.20
+Ugradna svjetiljka SERH 625 T5 4x14W ECG, M625, bijela                              567.95    7   3975.65    993.91
+Uvodnica za mušku MC4 spojnicu, prihvat kabela 4-6mm2                                11.09   24    266.16     66.54
+
+                                                                                                         ----------
+UKUPNO                                                                                                    576540.94
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

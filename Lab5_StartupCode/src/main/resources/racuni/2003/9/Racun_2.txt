@@ -1,0 +1,26 @@
+Račun br. 745315
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Signalna svjetiljka visoka, crvena                                                   30.16    1     30.16      7.54
+Industrijska svjetiljka SCUP AL 1x250W HS/HI IP23 E40                               647.23   15   9708.45   2427.11
+Design LED Reflektor 30W 2380lm neutr. bb 4200K, bijele b.                          961.06    5   4805.30   1201.32
+Kabel H05VV-F (PP/J) 5x1,5 mm2, bijeli, 50m                                          10000    3  30000.00   7500.00
+Nazidni okvir bez vrata za Modul 2000 | 3A-28 | dubina 250mm                       1222.84   27  33016.68   8254.17
+Vodotijesna svjetiljka LINDA PC 2x28W ECG IP65 SC II                                547.94   22  12054.68   3013.67
+Kučište MO 2M CUBO, nadžbukno, IP55, bijelo                                          26.88   13    349.44     87.36
+Kompaktni prekidač snage tip A, 3P, 50kA, 200A, utični                             2703.59   24  64886.16  16221.54
+FlexLED Roll, tople bb, 3m, 60LED/m, DC 24V                                         280.98   20   5619.60   1404.90
+Pokrovna ploča, 3 širine brojila                                                      4160    2   8320.00   2080.00
+Bazni modul stezaljke sa vijcima                                                    263.88   30   7916.40   1979.10
+Halogena žarulja QT12 50W IRC GY6,35 Energysaver                                     32.88   18    591.84    147.96
+Konektiranje 2x24 SC MM utikača + zašt. za povlačenje                              5582.17    2  11164.34   2791.08
+Kabel YSLYQY-OZ 2x 1 prozirni                                                        10000   28 280000.00  70000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    468463.06
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

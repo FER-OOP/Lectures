@@ -1,0 +1,16 @@
+Račun br. 862269
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Bela Alto, E27, 26W, IP20, bijela sa prozirnim kabelom                              549.79   17   9346.43   2336.61
+Sigurnosna svjetiljka ZAA 230VAC, bežična,3h, autot. , zidna                        1842.7    3   5528.10   1382.02
+NV rastavna sklopka vel.1|250A, 3P, M10, nadzor. osig., 60mm                          4832    9  43488.00  10872.00
+9R08/W/E, LED R63 8w E27 WW 230v 1:1 size                                            46.46    4    185.84     46.46
+
+                                                                                                         ----------
+UKUPNO                                                                                                     58548.37
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

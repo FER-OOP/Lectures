@@ -1,0 +1,26 @@
+Račun br. 277630
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Sig. Svj. ZAA 230VAC, 8h, autot., -25°C do35°C,vanjska bat.                        2253.97   24  54095.28  13523.82
+Instal. umetak 4-33L komplet 11 IR prednja pl. plastika                            2652.71   29  76928.59  19232.15
+Tris-I-R/A1 LED 3x1W 3000K 135lm,dim.,350mA,IP20,crne b.                             89.21   25   2230.25    557.56
+Preklopnik 5xRJ45 10/100/1000T, bez vent., vanj. napajanje                             220    9   1980.00    495.00
+Profil za ojačanje vrata WSM ormara visine 600mm (2 kom.)                            77.98    2    155.96     38.99
+Blok pomoćnih kontakata za sklopnik vel. 0-12, 1 N/O + 3 N/C                         41.97   16    671.52    167.88
+Kabel H03VV-F (PP/L) 2x0,75mm2, bijeli, 50m kolut                                    10000   30 300000.00  75000.00
+Zaštitni prekidač, B karakteristika, 16A, 1-polni+N, 6kA                             54.22   30   1626.60    406.65
+Predinstalirani inst. kab. cat.7, 2xkon. bloka, 2xzašt., 45m                        331.88   22   7301.36   1825.34
+Kabel LiYCY 24x0,25                                                                  10000    1  10000.00   2500.00
+Kondenzatorska baterija 14,5 kVAr(400V)                                             863.32    3   2589.96    647.49
+Atia 13W T5, 230V, IP20, bijele boje                                                 66.23   18   1192.14    298.04
+Bezhalogeni kabel s el. funkc. do90 Min. (N)HXH-J5x25rmE90                        17252.57   11 189778.28  47444.57
+PT LED utični modul, crveni, 110-230V AC, EM06                                       11.71   20    234.20     58.55
+
+                                                                                                         ----------
+UKUPNO                                                                                                     648784.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,27 @@
+Račun br. 875374
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Design IL ERT-LED 1x3W 230V AC/DC CPS ML,  SPOT,strop                               777.32    5   3886.60    971.65
+Zaštitni prekidač, C karakteristika, 6A, 4-polni, 6KA                               123.03   27   3321.81    830.45
+Ind.svj.ARKTUR SQUARE LED 147W 15900lm/757 ECG IP65 55°                            3272.37   23  75264.52  18816.13
+Nazidna izmjenična sklopka, siva, 10A, IP44, utične stez.                            44.06   20    881.20    220.30
+Pokrov za 1-f.visokonap.ugrad.str.šinu,1m,bijeli,2kom.                               99.51    1     99.51     24.88
+BIG LIGHT EYE ovjesna svjetiljka, krom                                              938.06   29  27203.74   6800.94
+7513A/C, LED 13w CW AR111 G53 24 ° 12v                                              165.74   13   2154.62    538.66
+Univer.opt.kabel A/I-DQ(ZN)BH 8x50/125µm OM4, LS0H-3, nm.                          1959.24   23  45062.52  11265.63
+Pomoćni sklopnik ET, 4A | 230V AC | 4N/C                                            127.16    4    508.64    127.16
+FID sklopka 100-4-05/AC, 10kA                                                       583.77   24  14010.48   3502.62
+Pom. kontakt za sklopnike vel.3-12 |1N/O+1N/C, bočna montaža                         37.19   12    446.28    111.57
+Industrijska  svjetiljka CERES 1x140W,LED DALI,17200lm/657                         4033.07    3  12099.21   3024.80
+PVC-om izol.kabel za srednja meh.opt. YMS -J 3x2,5 bijeli                            10000   10 100000.00  25000.00
+Signalni fleksibilni kabel YSLY-JZ 3x1 sivi                                         429.08   20   8581.60   2145.40
+Panik svjetiljka KX LED 3W, CPS sustav,MIX mod, univerzalna                         1316.6    8  10532.80   2633.20
+
+                                                                                                         ----------
+UKUPNO                                                                                                    304053.53
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

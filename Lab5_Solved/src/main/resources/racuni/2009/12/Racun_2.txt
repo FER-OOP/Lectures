@@ -1,0 +1,19 @@
+Račun br. 979489
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Gisele-R LED 2x2W 3000K 200lm, IP20, bijele boje                                    391.14   24   9387.36   2346.84
+LED RETROFIT RAL1 60 DIM 9W 230V 827 450lm opal S14D 20000h                         163.43   16   2614.88    653.72
+Traka označna 10 x 11-20 za HMM2 i CBC.2                                              4850   21 101850.00  25462.50
+Shunt 60mV, 25A                                                                       4398   22  96756.00  24189.00
+VAP SLIM 30 ras.stupić, E27 max. 20W                                                875.55    1    875.55    218.89
+Zaštitni prekidač AMPARO 6kA, B 25A, 3-polni                                         76.11    4    304.44     76.11
+Vanjski kut za kanal SIGNA 70/110 RAL 9010                                          188.19    1    188.19     47.05
+
+                                                                                                         ----------
+UKUPNO                                                                                                    211976.42
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

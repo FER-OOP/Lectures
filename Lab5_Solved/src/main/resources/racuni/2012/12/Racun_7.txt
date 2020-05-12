@@ -1,0 +1,33 @@
+Račun br. 687993
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+SOPRANA, PD-5, okrugla, bež b., 3x E27, max. 3x 60W                                1125.94    1   1125.94    281.48
+Kabel H05VV-F (PP/J) 3x1,5mm2, bijeli, 50m                                           10000   28 280000.00  70000.00
+KALU RECESSED 2, ugradni reflektor                                                  813.03    1    813.03    203.26
+Vremenska stanica WS1(GPS)                                                         6646.57    2  13293.14   3323.28
+1-polna sklopka, kompletna, 10A, na vijak, bijela                                       20   22    440.00    110.00
+Vremenski relej, kašnjenje uklopa, 24-240VAC/DC, 1 C/O, 8A                          201.15   10   2011.50    502.88
+T8 LED cijev, zakretna, 25W, 6000K, 2300lm, 230V, 150cm                             146.65   23   3372.95    843.24
+NV osigurač vel. 00, 50A/400V AC                                                     19.92    8    159.36     39.84
+Energetski kabel sa Al vodičima 0,6/1kV E-AYY-J 5x50sm crni                          10000   22 220000.00  55000.00
+Bezhal. kabel HSLH-JZ18x1FRNC H-F 1žila ž/z ostale crn/siv                           10000   14 140000.00  35000.00
+SAIL zidna svj., WL 1, bb, 1x3W LED, tbb                                            750.35   20  15007.00   3751.75
+Pomoćni kontakt, normal, 1 C/O, za MZ                                                31.91   16    510.56    127.64
+Glenos akrilni pokrov za Profile 1808, 2508, 2720, 2m                               125.03   17   2125.51    531.38
+Bluetooth LED žarulja E27 11W 2800K dim.A65 Classic                                 381.16   27  10291.32   2572.83
+Laki gumeni kabel H05RR-F 4x1, crni                                                  10000    6  60000.00  15000.00
+T5-okrugla fluo cijev, 40W, 4000K                                                   124.52    7    871.64    217.91
+Sklopnik vel.00 (za PLC) | AC3 3kW/400V | 17-30VDC | 1 N/O                          137.95   26   3586.70    896.67
+Kompaktni prekidač snage tip AF, 3P/80A/25kA, box stezaljke                         608.71   17  10348.07   2587.02
+Ugradna svjetiljka SE-ID ECO PAR L1 T5 2x24W ECG M600,bijela                        624.73   24  14993.52   3748.38
+Nap. Stezaljka za 1-f šina, nadgradna, crna b., desna                                50.01   11    550.11    137.53
+Varistor za svitak 48-127V AC/DC za LA3007-LA3022                                    54.47   11    599.17    149.79
+
+                                                                                                         ----------
+UKUPNO                                                                                                    780099.44
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,26 @@
+Račun br. 818505
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+ES111 Modul za AIXLIGHT PRO ugradno kućište, srebrne boje                           155.78   30   4673.40   1168.35
+FID sklopka AMPARO, 25-4-003/AC, 10kA                                               262.99   25   6574.75   1643.69
+Ugradna svjetiljka SERS 2 T8 2x18W ECG M600, bijela                                 284.36   30   8530.80   2132.70
+Utičnica, 16A, umetak, na vijak, crvena                                               2121    7  14847.00   3711.75
+Grupno signalno svjetlo, 24V DC, 3-struko                                           916.48    2   1832.96    458.24
+NEW TRIA MINI DL četvrtasti Set, 3W, 3000K, 30°, crne boje                          299.73   27   8092.71   2023.18
+MODUL CONNECT Cu sabirnica 1P, 16mm2/korak 8.9mm/duljine 1m                           50.2   22   1104.40    276.10
+Direktni starter sa sklopkom 4kW/400V AC [AC3]                                      452.33    1    452.33    113.08
+Zaštitni prekidač MB GR.2 25kA CL 250/3                                            1061.56    1   1061.56    265.39
+Vince-II-S/A1 2x40W E14, 100-240V, IP20, brušeni krom                               197.85   30   5935.50   1483.88
+Paralelna spojnica/zvjezdište za sklopnike vel.3                                      27.8    9    250.20     62.55
+Industrijska  svjetiljka CERES 1x99W, LED, 8800lm/750                              2476.74   20  49534.80  12383.70
+Ind.svj.ARKTUR SQUARE LED 113W 12000lm/757 ECG IP65 120x40°                         2810.3   15  42154.50  10538.63
+Montažna ploča za IP54, 4A-42                                                         4160   19  79040.00  19760.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     224084.9
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

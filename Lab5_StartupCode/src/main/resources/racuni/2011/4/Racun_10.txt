@@ -1,0 +1,28 @@
+Račun br. 880169
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Bezhal. kabel s konc.zaštitnim Cu vodičem N2XCH 4x16rm/16                            10000    6  60000.00  15000.00
+Zaštitni prekidač tip A, 3-polni, 50kA, 400A MB3                                    1822.8    6  10936.80   2734.20
+Motus MS-D 360° 9m senzor pokreta IP20, stropni, bijeli                              82.28   10    822.80    205.70
+Tenora WL-1 zidna svjetiljka, E27, max. 60W, kratka, krom/bb                        875.55   20  17511.00   4377.75
+Bat.3,2V 3Ah za LED svjet. sa vl. napajanjem ,KSC,KMB i ZAW                         273.69   27   7389.63   1847.41
+Prednja ploča za utičnicu sa poklopcem, biserno bijela                               57.72   30   1731.60    432.90
+Pako-CL-Q/A2 LED 4x1W 3000K, IP20, aluminij                                         237.72    2    475.44    118.86
+EUTRAC završetak za 3-fazne ugradne šine, bij.                                       37.67    3    113.01     28.25
+PEMA četvrt. zidna svjetiljka, sr.b., E27, max. 15W                                 449.94   14   6299.16   1574.79
+Slijepi pokrov fi=22,3mm, plastični, crni                                            10.07   12    120.84     30.21
+KVADRA R70M K4, X-spojnica sa opalnim pokrovom                                      251.32    6   1507.92    376.98
+Vodotijesna svjetiljka LINDA ST PC 1-58W CCG IP65                                   380.62    3   1141.86    285.46
+Poliester kućište 540x360x171mm, IP66, RAL 7035 (sivo)                              917.62   22  20187.64   5046.91
+PURI 2 stropna svj., srebrna b., GU10, max. 2x50W                                   468.69    8   3749.52    937.38
+"Optički prespojni panel 19"", 1U, uklj. 24 spojnice SC SM"                         860.42   25  21510.50   5377.63
+GLENOS ALU profil sa pokrovom, aluminij, 2m                                        1375.67    7   9629.69   2407.42
+
+                                                                                                         ----------
+UKUPNO                                                                                                     163127.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

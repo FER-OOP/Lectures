@@ -1,0 +1,15 @@
+Račun br. 855035
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Bezhal. sign. kabel HSLCH-JZ 7x1,5 FRNC sivi/žila crna                               10000   16 160000.00  40000.00
+Slijepi pokrov, antracit                                                             29.54   18    531.72    132.93
+Fronius Solar Battery 7.5 (6,0 kWh)                                                  10000   21 210000.00  52500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    370531.72
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

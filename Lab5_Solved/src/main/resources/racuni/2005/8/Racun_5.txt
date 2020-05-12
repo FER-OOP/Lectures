@@ -1,0 +1,19 @@
+Račun br. 134890
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+HQI-TS Downlight, siva, 70W                                                         283.12    5   1415.60    353.90
+Kabel EYY-O (PP00) 4x25RM                                                            10000   28 280000.00  70000.00
+FIN XS Wall LED 4W 3000°K, bijela                                                   685.23   13   8907.99   2227.00
+E27, 15W, štedna žarulja, spiralna, 2700K                                            79.41   22   1747.02    436.76
+BIG THEO BEAM G9 zidna svjetiljka, četvrt.,bi.b., max. 60W                          813.03   12   9756.36   2439.09
+SNR Print relej, 1N/O, 6A, 24VDC                                                     28.81    6    172.86     43.22
+SAT multiswitch 5 IN 12 OUT za quattro LNB,unut. napajanje                          961.51   10   9615.10   2403.77
+
+                                                                                                         ----------
+UKUPNO                                                                                                    311614.97
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

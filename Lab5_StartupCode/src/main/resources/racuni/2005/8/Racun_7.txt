@@ -1,0 +1,33 @@
+Račun br. 1057789
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+SAT multiswitch 5 IN 12 OUT za quattro LNB,unut. napajanje                          961.51   14  13461.14   3365.29
+Bezhalogeni jednožilni vodič H07Z-K 1,5mm2, ljubičasti                               10000    2  20000.00   5000.00
+Finožični PVC-om izol. vodič H07V-K (P/F) 1,5mm2, žuti HPV                           10000   29 290000.00  72500.00
+LED RF Mono prijemnik                                                               502.64   14   7036.96   1759.24
+Kučište n/ž 2M                                                                       19.54    3     58.62     14.65
+EASY LIM RF MINI RGB MASTER,12V/DC+24V/DC,sa daljinskim upr.                         187.2   24   4492.80   1123.20
+FID sklopka 80-4-03/B (za sve oblike dif. struje), S izvedba                       8787.31    4  35149.24   8787.31
+AIXLIGHT PRO 111 LEDDISK, mat bijele boje, 50°                                      750.35    9   6753.15   1688.29
+Unutarnja vrata za Minipol ormare, poliester, puna, 400X400                         639.79   28  17914.12   4478.53
+Kompaktni prekidač snage tip VE, 3P, 50kA, 1250A                                  17831.52    4  71326.08  17831.52
+Adapter 3 za visine 68mm za nove redne uređaje                                        73.9   17   1256.30    314.08
+LED DMX Uložak 20W RGBW 111 - IP20                                                 2026.53   18  36477.54   9119.38
+Adapter za sustav 60mm, EEC 25A, 1 nosač, širine 45mm                               145.51   30   4365.30   1091.32
+Magnet 15x3mm                                                                        16.73   20    334.60     83.65
+OUT BEAM LED zidna svjetiljka, uski snop, sive boje                                1250.97   23  28772.31   7193.08
+Kabel LiYCY 16x0,14                                                                  10000   13 130000.00  32500.00
+Dingo-R LED 5W 3000K 350lm, IP53, bijele boje                                       190.58   11   2096.38    524.10
+INDI REC 1S, zakretna, GU10                                                         167.94   26   4366.44   1091.61
+Držač za cilindrične osigurače 10 x 38 | 3P | 32A/690V                               93.29    6    559.74    139.93
+ADJUST ROUND GU10, 35W                                                              639.68   19  12153.92   3038.48
+Panik svjetiljka S1 230VAC sa bateri.Autonomija 3h ,zidna                           501.83   12   6021.96   1505.49
+
+                                                                                                         ----------
+UKUPNO                                                                                                     692596.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

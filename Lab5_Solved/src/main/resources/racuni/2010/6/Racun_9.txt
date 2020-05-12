@@ -1,0 +1,33 @@
+Račun br. 805106
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LED traka Flexstrip 115 RGB, 24VDC                                                 1866.24    6  11197.44   2799.36
+6 box stezaljki 4-95mm², za 3-polne MZ1                                              60.78   15    911.70    227.92
+Rastavna sklopka za cilind. osig. 10x38mm, 1P/20A, Fotonapon                         24.39   22    536.58    134.14
+Prespojni kabel RJ45 cat.5e neoklopljen, PVC, plavi, 10.0m                           35.03    7    245.21     61.30
+3-fazna T-spojnica, bijela                                                           108.3    1    108.30     27.08
+INA-Q/T GU10 PAR16 50W bez ruba, IP20, bijele boje                                  112.69   19   2141.11    535.28
+Aluminijski montažni nosač 5H                                                        31.94    8    255.52     63.88
+Linda LED Transparent 2x30W, 4000K, 8111lm, IP65                                    1425.4   29  41336.60  10334.15
+Prespojni kabel RJ45 cat.5e oklopljen, PVC, zeleni, 7.0m                             30.94   26    804.44    201.11
+Samoljepljivi držač vezica, 19 x 19mm/3.6mm (pak.=100 kom.)                          55.26    6    331.56     82.89
+"Zasun, crveni, za plastične prednje ploče, ""Celanex"""                               1.7   17     28.90      7.22
+Strujni trafo, 400A/5A, 50x20mm                                                       4398   28 123144.00  30786.00
+Izmjenična sklopka, 16A, kompletna, IP44, bijela                                    117.72    7    824.04    206.01
+Kabel marker, plastični, prozirni, za kabel promjera 10-25mm                          9.43    7     66.01     16.50
+SEO T5 4x14W, ECG, M600 bijela b.                                                     8534   22 187748.00  46937.00
+Postolje ormara IG008202, 590x950x310mm (ŠxVxD), RAL7035                           2206.81   15  33102.15   8275.54
+Centralna ploća fi 22,5mm, bijela                                                    91.06    1     91.06     22.76
+FID sklopka 25-4-04/A (puls), 6kA                                                   295.37    8   2362.96    590.74
+Plafonjera MALLE LED 24W 2150lm/830 ECG sa 3h EM, bijela                              8518    9  76662.00  19165.50
+DCF radio sat, uzidni/nazidni (sa nazidnim okvirom EL735980)                       7428.14   24 178275.36  44568.84
+Ugradna downl. svj. ERM 202 2x13W ECG TC-DEL IP20/44, bijela                        308.41   26   8018.66   2004.67
+
+                                                                                                         ----------
+UKUPNO                                                                                                     668191.7
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

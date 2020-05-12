@@ -1,0 +1,20 @@
+Račun br. 621060
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Pult metalni 985x1000x400 (VxŠxD)                                                  4758.64    5  23793.20   5948.30
+Vrata, staklena, za kom. ormare, 45U, širina 600 mm                                    918   19  17442.00   4360.50
+Puna metalna vrata sa zakret. ručkom, za DW ormare 21U Š=600                        590.57   16   9449.12   2362.28
+Međuokvir za kućište B - 280x190x50mm                                               234.32   17   3983.44    995.86
+Finožični PVC-om izol. vodič H07V-K (P/F) 70mm2, plavi HPV                           10000   23 230000.00  57500.00
+UPS Multi Plus 12kVA 10,8kW 30min,3f/3f/Online/veliko kuć.                        53768.61    7 376380.25  94095.06
+SSVGA produžni kabel 4C+5, pozl. kontakti, crni, 5m                                 120.67    3    362.01     90.50
+Kabel H05VV5-F 5x1 sivi                                                              10000   18 180000.00  45000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     841410.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

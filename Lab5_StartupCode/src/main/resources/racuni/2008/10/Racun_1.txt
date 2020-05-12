@@ -1,0 +1,24 @@
+Račun br. 781229
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Mini-pomoćni sklopnik 4P | 3 N/O + 1 N/C | 230V AC | 10A                            134.88   23   3102.24    775.56
+KARDAMOD SURFACE okrugla ES111 SINGLE stropna svj., GU10, cb                        813.03   12   9756.36   2439.09
+Ampermetar, montaža na DIN nosač, AC, 40A, direktno                                 262.11    1    262.11     65.53
+Design IL ERT-LED 1x3W 3h 230VAC sa bat.,AT usmjerena,strop                          900.6    3   2701.80    675.45
+Distribucijski blok, 1P, 80A, 1x16mm² | 2x16mm² + 4x6mm²                                50    4    200.00     50.00
+Kompaktni prekidač snage tip ME, 3P, 50kA, 450A                                    5579.78   15  83696.70  20924.17
+BEDSIDE LED zidna svj., 3W, lijeva tople bb Spot LED,sr                            1125.94    2   2251.88    562.97
+Ina-R/A1 LED 13W 3000K 783lm, IP20, aluminij                                        268.81    9   2419.29    604.82
+"Tipkalo s povratom, plosnato, zeleno, oznaka: ""I"""                                29.06    2     58.12     14.53
+Adapter za DIN nosač                                                                 24.79    3     74.37     18.59
+GLENOS akrilni pokrov za Treppenstufen Profile DOWN, 1m                              62.51   13    812.63    203.16
+SIGHT 54, nadgradna svjetiljka, brušeni aluminij, 54W                              1188.46   30  35653.80   8913.45
+
+                                                                                                         ----------
+UKUPNO                                                                                                    140989.28
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

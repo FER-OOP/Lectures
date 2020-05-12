@@ -1,0 +1,25 @@
+Račun br. 244145
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Adapter MO 1M za keystone RJ11/RJ45, bijeli                                           7.19   29    208.51     52.13
+BILAS SPOT DOUBLE, 2x15W LED, 2700K, 25°, bijele boje                              2997.68   10  29976.80   7494.20
+LS-FI (KZS), B/13A/30mA, 1P+N, Tip A, 10kA                                          418.89   12   5026.68   1256.67
+Konektiranje 2x12 ST MM utikača + zašt. za povlačenje                              3152.16    5  15760.80   3940.20
+Kanal tip BE-DIN, 75x37.5mm (VxŠ), duljina 2m, RAL 7030                              31.81   20    636.20    159.05
+Sidrena šina na nazidni okvir, 3 širine brojila                                     103.49   28   2897.72    724.43
+Ross-Q 36W 2G10, 230V, IP20, brušeni krom                                           196.16   15   2942.40    735.60
+Spojnica (koljeno) M32, bez halogena, crna                                         2191.66   26  56983.16  14245.79
+Ugradna svjetiljka SEO T8 2x58W ECG M625, bijela                                      8534    3  25602.00   6400.50
+NEW TRIA 3 DL četvrtasti Set, 3x6W, 2700K, 38°, bijele boje                        1125.94    3   3377.82    844.45
+Uzidni okvir s vratima - M3000, 2U-28                                               954.55   20  19091.00   4772.75
+7815/G,Profil 2M za 7810, sive boje                                                 198.86    1    198.86     49.72
+TANI zidna svjetiljka, R7s 118mm, max 120W, krom                                    437.43    1    437.43    109.36
+
+                                                                                                         ----------
+UKUPNO                                                                                                    163139.38
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

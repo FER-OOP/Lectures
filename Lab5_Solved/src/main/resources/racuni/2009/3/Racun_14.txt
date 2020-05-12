@@ -1,0 +1,20 @@
+Račun br. 567588
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+FIN XS Pole 30 2x4W LED 4000°K, 600lm, siva                                        3024.84    8  24198.72   6049.68
+CONTONE, 16W, 890lm, 3000-2000K dim., okrugla, bijele boje                          625.15    7   4376.05   1094.01
+Bezhalogeni telekomunikacijski kabel J-H(ST)H 60x2x0,8 sivi                          10000    1  10000.00   2500.00
+Signalni fleksibilni kabel YSLY-OZ 25x0,75                                           10000   22 220000.00  55000.00
+ERIS 1x44W DIF PV4,LED 3300lm/830, M600, bijela b.                                 1017.84    8   8142.72   2035.68
+Fluo cijev T5|T16 49W/865 G5                                                          22.8   15    342.00     85.50
+Završni poklopac CLF ravni zatvoreni sa vijcima                                       51.6    4    206.40     51.60
+Transformator, 1-fazni | 200-500V/230VAC | 500VA                                   1183.54   15  17753.10   4438.28
+
+                                                                                                         ----------
+UKUPNO                                                                                                     285019.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,33 @@
+Račun br. 493042
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Tipka sa osvjetljenim natpisom, bijela                                               12.65   15    189.75     47.44
+Montažni nosač 1H/C                                                                  21.87    8    174.96     43.74
+Cilindrični osigurač, 10x38, 32A, gG, 400V AC                                         3.82   30    114.60     28.65
+KALU RECESSED 3, ugradni reflektor                                                 1188.46    5   5942.30   1485.57
+Ugradna svjetiljka SERH XTP T5 4x28W ECG M625, bijela                              1642.58   15  24638.70   6159.67
+Industrijska svj. CERES 1x99W,LED DALI,8800lm/750, crna                             2868.3    7  20078.10   5019.52
+Podnožje za izvlačivi prekidač, 4-polno, za MC3                                    4375.98   13  56887.74  14221.93
+Vremenski relej 30-180min., test panik rasvjete,12-240VAC/DC                        402.74   28  11276.72   2819.18
+Kompaktni prekidač snage tip A, 3P/80A/25kA, MC1                                    778.76   23  17911.48   4477.87
+Ormar plast.1000x500x312,krov protiv kiše,dno zat.,2 vrata,                           4142   17  70414.00  17603.50
+EURO SPOT INTEGRIRANI LED, 4.000K, 15°,uklj.3F adapter,bi.b.                        875.55    8   7004.40   1751.10
+Energetski kabel 0,6/1kV PP00 (EYY-O) 1x25rm crni                                    10000   24 240000.00  60000.00
+BILAS LED ugradna stropna svj. 20W 2700K 60°, okrugla, bb                             8570   24 205680.00  51420.00
+Tipka MO 1M sa simbolom svjetla, bijela                                               2.65    2      5.30      1.33
+SAT teleskopski stup, d=4m, Ø35/30mm, s kapom, poc. č. 1.5mm                        222.93   13   2898.09    724.52
+Teški gumeni kabel H07RN-F 4x50, crni                                             22381.39    9 201432.52  50358.13
+Zaštitni prekidač, B karakteristika, 13A, 3-polni, 10kA                             124.14   20   2482.80    620.70
+Montažni komplet za Modul u omaru, dolje                                              8.13   22    178.86     44.72
+Završna pločica za stezaljku IK170006--, bež                                          2.76   21     57.96     14.49
+Kompaktni prekidač snage tip A, 3P, 150kA, 250A                                    3195.82   12  38349.84   9587.46
+Izolirana okasta stopica, M6, crvena, 0.25-1mm2 (100 kom.)                           75.41   27   2036.07    509.02
+
+                                                                                                         ----------
+UKUPNO                                                                                                     907754.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

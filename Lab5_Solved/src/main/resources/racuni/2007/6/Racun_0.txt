@@ -1,0 +1,23 @@
+Račun br. 1012306
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Set za stabilizaciju komunikacijskih ormara, RAL7035                                168.69   26   4385.94   1096.48
+Pinta-II-Q/A1 50W GU10 MR16, 100-240V, IP20, bijele boje                             59.64   19   1133.16    283.29
+Osigurač DC 500A - max48V, priključak M10                                            63.62   26   1654.12    413.53
+Bezhalogeni kabel s el. funkc. do30 Min. (N)HXH-J4x6reE30                            10000   21 210000.00  52500.00
+Zaštitni prekidač, B karakteristika, 10A, 1-polni, 6kA                               22.67   30    680.10    170.02
+NV sklopka-rastavljač,vel.2, 3p,M10, za 100mm sistem                                  4821    9  43389.00  10847.25
+Fluokompaktna žarulja TC-Del 26W/830 G24Q-3                                          18.77   24    450.48    112.62
+LS-FI (KZS), C/6A/300mA, 1P+N, Tip A, 10kA                                          392.62   20   7852.40   1963.10
+NV rastavna sklopka vel.000|125A, 3P, box stez.,60mm Compact                        327.46    1    327.46     81.86
+Levante-S 20 LED 48W 4425lm 4000K asim.,IP66,SKII,RAL9006                          3099.61   15  46494.15  11623.54
+Bezhalogeni vatrodojavni instal.kabel JB-H(ST)H 4x2x0,8 E90                          10000    5  50000.00  12500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     366366.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

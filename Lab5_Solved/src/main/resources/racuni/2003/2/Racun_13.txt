@@ -1,0 +1,16 @@
+Račun br. 537650
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LOGICOM N/Ž kućište s krovićem, 1 modul                                             857.65   29  24871.85   6217.96
+Ezio-Q LED 2,5W 3000K 15lm, IP44, bijele boje                                       351.77   30  10553.10   2638.27
+EUTRAC Produžetak sa mogućnošću napajanja, crne b.                                  312.23    2    624.46    156.12
+Tipka (pokrov) za svjetleće tipkalo, zelena, plosnata                                 2.27   27     61.29     15.32
+
+                                                                                                         ----------
+UKUPNO                                                                                                    36110.703
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

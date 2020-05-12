@@ -1,0 +1,14 @@
+Račun br. 855327
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ugradna svjetiljka SE-ID ECO PAR L2 T5 2x14W ECG M625,bijela                        697.18    6   4183.08   1045.77
+Signalni fleksibilni kabel YSLCY-OZ 5x 1,5 sivi                                      10000   22 220000.00  55000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    224183.08
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

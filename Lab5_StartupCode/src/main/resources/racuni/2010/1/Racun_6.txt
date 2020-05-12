@@ -1,0 +1,32 @@
+Račun br. 930536
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kompaktni prekidač snage tip A, 3P, 150kA, 100A, utični                            1680.52   11  18485.72   4621.43
+Bakrena sabirnica 274A (320A), 20x5mm, duljina 2m                                   228.42   12   2741.04    685.26
+Tipka MO 1M, bijela                                                                   1.56   30     46.80     11.70
+Bezhalogeni kabel s el. funkc. do30 Min.(N)HXCH4x120rm/70E30                         10000    4  40000.00  10000.00
+FlexLED Roll Pro, bijele b., 1m, 60LED/m, DC 24V                                    218.46    8   1747.68    436.92
+UPS Multi plus, 20kVA, 18kW                                                       52915.14   201058302.75 264575.69
+LS-FI (KZS), B/13A/100mA, 3P, Tip A, 10kA                                             4281    1   4281.00   1070.25
+Motorna zaštitna sklopka, 3-polna | 0.11 - 0.16A, vel.S00                           165.86   21   3483.06    870.77
+Bezhal. kabel poboljšanih svoj.za sl. požara N2XH-O 1x16rm                           10000   26 260000.00  65000.00
+Kabel LiYCY 8x0,14                                                                   10000   25 250000.00  62500.00
+Power over Ethernet injector 2xRJ45 10/100, 802.3af                                    259    6   1554.00    388.50
+Vijak sa upuštenom glavom, za drvo, 4x40mm                                           20.42   22    449.24    112.31
+Wago utična stezaljka za razvodne kutije, 5 x (0.5-2.5)mm²                            1.58   23     36.34      9.09
+Savitljiva cijev (lagana) M63, 320N, 25m, HF, svijelto-siva                        4089.41   18  73609.38  18402.34
+7315B/D, 15W PAR30 E27 DL                                                            19.59    3     58.77     14.69
+Montažni nosač za EEC i EMC adaptere širine 54mm                                      8.13   11     89.43     22.36
+Kronos-S/A2 LED 2x25W 4000K 2x1750lm, IP20, sive boje                               861.86    7   6033.02   1508.26
+Prespojni kabel RJ45 cat.6 neoklopljen, PVC, žuti, 3.0m                              16.32    4     65.28     16.32
+Prizma stezaljke za Cu/Al 10-95mm², za pruge vel. 00                                 33.63   25    840.75    210.19
+Transformator, 1-fazni | 230/024V | 200VA, IP00                                     456.74   20   9134.80   2283.70
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1730958.9
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

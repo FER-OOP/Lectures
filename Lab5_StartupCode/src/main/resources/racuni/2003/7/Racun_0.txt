@@ -1,0 +1,30 @@
+Račun br. 1010553
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ugradna svjetiljka SERH ECO A1 L2 T5 4x14W ECG M625, bijela                         532.11   26  13834.86   3458.71
+Finožični PVC-om izolirani vodič H07V-K (P/F) 25mm2, smeđi                         1827.67   14  25587.38   6396.85
+Sphinx 104-360/2, senzor pris., 2 kanala, p/ž, stropni                              628.66    4   2514.64    628.66
+LED 12-30V AC/DC, plavi, za prednju montažu                                          35.49    4    141.96     35.49
+Ugradna svj. SELENA LONG LED 1200x300 ED 3700lm/830 MAT,bb                          954.77   17  16231.09   4057.77
+Kabel H05VV-F (PP/J) 5x1,5mm2, svijetlo-sivi, 500m                                   10000   23 230000.00  57500.00
+Nazidni okvir s vratima za Modul 2000 | 5A-42 | dubina 250mm                       3859.99   14  54039.86  13509.97
+Instal. umetak 5-45K komplet 15 IR prednja pl. čelik                               3606.61    9  32459.49   8114.87
+DMX Wireless Transceiver                                                           1171.35   29  33969.15   8492.29
+Compact passimo, senzor prisutnosti 24V, p/ž, stropni, crni                        2859.97    4  11439.88   2859.97
+SAT antena 80/75cm,alu,38,8dB,sklopiva ruka,bijela                                  359.48   13   4673.24   1168.31
+Difuzor za svjetiljku LINDA 2/58                                                    106.44   10   1064.40    266.10
+NEW TRIA LED DISK,stropna ugr.arm., okrugla, sb,2700K, 60°                          938.06    9   8442.54   2110.64
+"Opt. razdjelnik, 8 niti, SC 50/125µm OM4, izvlačivi,19"",1U"                       907.37   15  13610.55   3402.64
+Pomoćni sklopnik vel.00 | 4P | AC15 6A/230V | 230VAC | 4 N/O                        101.65   20   2033.00    508.25
+ARKTUR SQUARE LED ECO PLUS 214W 27000lm/840 ECG IP66 100°,sb                       4357.94   21  91516.74  22879.19
+Prednja ploča antenske utičnice sa 3 otvora, inox efekt                              74.55   27   2012.85    503.21
+Proširenje prazno,bez punjača za USPW500-1000 240V 12Ah                           10503.32   19 199563.09  49890.77
+
+                                                                                                         ----------
+UKUPNO                                                                                                    743134.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

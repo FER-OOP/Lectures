@@ -1,0 +1,28 @@
+Račun br. 1045259
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Viličasta sabirnica 63A za 3xBE5+pom. kontakt, korak 45mm                            55.62   24   1334.88    333.72
+Ugradna svjetiljka SE-ID ECO PAR L1 TC-L 2x40W ECG M600                             659.94   18  11878.92   2969.73
+Kabelska obujmica za kabel promjera 12-16mm, za ASCAP/ASCAB                         266.49   26   6928.74   1732.18
+"5-struki okvir ""Fashion"", otp. na grebanje, biserno bijeli"                       75.29   26   1957.54    489.39
+Optički završetak FC, 50/125µm OM3, 2.0m (4 kom.)                                    87.61    1     87.61     21.90
+Vrata, staklena, za kom. ormare, 42U, širina 600 mm                                 886.97   28  24835.16   6208.79
+KM panik svj. LED/3h bat. 230V,TEST dugme, univerz. montaža                         550.38    8   4403.04   1100.76
+Ugradna svjetiljka SELENA OP LED 39W M600 4350lm/840 ECG,bb                         769.95   27  20788.65   5197.16
+P/Ž razdjelnik MODUL 160, sa prozirnim vratima, 4x24 modula                           4172    8  33376.00   8344.00
+Kabel H05VV-F (PP/J) 3x1mm2, svijetlo-sivi, 50m                                      10000   13 130000.00  32500.00
+Instal. umetak 5-39K komplet 13 IR prednja pl. čelik                                3094.3   11  34037.30   8509.33
+Kabelska stopica 16mm2, M8                                                            5.01   21    105.21     26.30
+Otvoreni prekidač, 3P, 66kA, 2000A, fiksni,vod. str. priklj.                       33379.9    2  66759.80  16689.95
+Kutna spojnica za Hang Up                                                           374.92   19   7123.48   1780.87
+Tel. razvodni ormarić Box VKA12 za 420 par, montaža na nosač                       1438.35    9  12945.15   3236.29
+Signalna svjetiljka visoka, žuta                                                     43.06   24   1033.44    258.36
+
+                                                                                                         ----------
+UKUPNO                                                                                                    357594.94
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

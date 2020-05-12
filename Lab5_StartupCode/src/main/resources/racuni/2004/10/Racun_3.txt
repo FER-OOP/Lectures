@@ -1,0 +1,27 @@
+Račun br. 510136
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Set za ožičenje sklopničke kombinacije promjene smjera vel.6                         426.1   21   8948.10   2237.03
+NEW TRIA LED DL ROUND SET, mat bijele boje, 6W, 3000K, 38°                          308.85   12   3706.20    926.55
+Natrijeva žarulja HSE 50W/I E27                                                      73.68   19   1399.92    349.98
+0800A, Distribucijski blok  IP67 IN / 2 OUT                                          73.32   28   2052.96    513.24
+Solid LED traka u kućištu, 4W, 290lm, 4000K, IP20, siva                              108.3   23   2490.90    622.73
+Krajnji držač, montaža na DIN šinu, za utične stezaljke                                2.6   25     65.00     16.25
+TRAIL-LIGHT, LED Ugradna svjetiljka,4 bb LED, uklj.pok.                             374.92   27  10122.84   2530.71
+LS-FI (KZS), C/16A/100mA, 1P+N, Tip A, 10kA                                         344.99   26   8969.74   2242.44
+Linijska svj. SERH 112 1x80W, ECG, bijele boje                                      557.71   16   8923.36   2230.84
+Kompaktni prekidač snage tip AE, 4P, 85kA, 1600A                                  27879.37   24 669104.88 167276.22
+MEDO 60 LED, stropna svjetiljka, crvene boje                                       3122.88   25  78072.00  19518.00
+IP2x zaštita od dodira, za 3-polne MC3                                               80.74    9    726.66    181.66
+Set programabilnih kartica                                                         2348.78   16  37580.48   9395.12
+Bezhalogeni kabel s el. funkc. do90 Min. (N)HXCH4x35rm/16E90                         10000   10 100000.00  25000.00
+P/Ž razdjelnik MODUL 160, sa prozirnim vratima, 4x24 modula                           4172   22  91784.00  22946.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                   1023947.06
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

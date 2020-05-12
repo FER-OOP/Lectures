@@ -1,0 +1,32 @@
+Račun br. 624442
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Osigurač DC 500A - max48V, priključak M10                                            63.62   21   1336.02    334.01
+Finožični PVC-om izolirani vodič H05V-K (P/F) 0,75mm2, crni                          72.86   25   1821.50    455.38
+9018L/D, T8 LED staklena cijev 18w DL 120cm, 230v, mat                               73.32    8    586.56    146.64
+Uzdužna stranica, 24 visinske jedinice (200mm)                                        4180   17  71060.00  17765.00
+Pokrov IP20 MD180i/R, MD180i/T, MD/PD180, bijeli                                     87.04   27   2350.08    587.52
+Montažna ploča za Maxipol ormare 750x1000 (VxŠ), poliester                            4146    3  12438.00   3109.50
+Lamelirana bakrena sabirnica, 279A, duljina 2m, 4x15.5x0.8mm                        335.51   20   6710.20   1677.55
+Cube-WL-Q 35W GU10 MR16, 100-240V, IP54, sive boje                                  190.58    7   1334.06    333.52
+Napajanje 36W, 12V, IP67                                                            170.33   25   4258.25   1064.56
+Ugradna svjetiljka SEO ECO T5 4x24W ECG IP54 M600, bijela                           420.26   12   5043.12   1260.78
+Vijak sa proširenom glavom, za drvo, 8x120mm                                          5530   20 110600.00  27650.00
+Industrijski utikač - Multigrip, 5 polni, 16A, IP44                                 100.77    7    705.39    176.35
+Tinjalica, bistra, BA9s, 200-250V AC, 0.3W                                           14.31   11    157.41     39.35
+LED-STRIP OUTDOOR, 24V, 100cm, 4000K (3000K LED)                                    437.43    6   2624.58    656.15
+BIMA pano svj., krom                                                                500.12   16   8001.92   2000.48
+Fluokompaktna žarulja TC-D 13W/830 G24D-1                                            27.45    5    137.25     34.31
+NV podnožje 1P, vel.00|160A, na sabirnicu, 1.5-70mm²                                  4832   29 140128.00  35032.00
+Plosnati kut  za kanal SIGNA 70/130 RAL9001                                         216.33    7   1514.31    378.58
+Kompl. za povezivanje baterija za LPS/CPS mini/midi/ZX 17-28                          5150   10  51500.00  12875.00
+SOPRANA OVAL zidna svj. WL-1, crni tekstil, E27, max. 60W                           813.03    2   1626.06    406.52
+
+                                                                                                         ----------
+UKUPNO                                                                                                     423932.7
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,26 @@
+Račun br. 285499
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+E27, 15W, štedna žarulja, spiralna, 2700K                                            79.41   27   2144.07    536.02
+Nosač sabirnica centralnog napajanja, 3P, srednji                                     4836    9  43524.00  10881.00
+Optički prespojni kabel duplex, LC/LC, 9/125µm OS2, 3.0m                             89.54   10    895.40    223.85
+Aura 2 Senzor LED 11W, 4000K, 1350lm, IP43                                          750.33   13   9754.29   2438.57
+Paralelna spojnica (kratkospojnik) za 5 stezaljki IK110002--                          4850    1   4850.00   1212.50
+Linijska svj. SERM-LF 112, početni profil,  2x49W, ECG, bb                          591.22   17  10050.74   2512.68
+Krovna kuka FP 6/55/140, nehrđajući čelik, TÜV                                        96.1   27   2594.70    648.67
+Podnožje, prednji dio, za razdjelnike 2A../.                                        216.52    5   1082.60    270.65
+Kućni energetski razdjelnik, 1-redni, za 22 modula, RAL9003                         613.52   30  18405.60   4601.40
+NEW MYRA WALL LED zidna svj., antracit b., 5W, 3000K, IP55                          938.06   29  27203.74   6800.94
+Voltmetar, 72x72mm, 300V DC                                                         359.75   23   8274.25   2068.56
+Audio vanjski panel, 24 tipke, sa PTT otvorom                                      2992.07    9  26928.63   6732.16
+Shunt 60mV, 600A                                                                      4398    9  39582.00   9895.50
+Kompaktni prekidač snage tip ME, 3P, 50kA, 220A+izvl. modul                        5888.02    8  47104.16  11776.04
+
+                                                                                                         ----------
+UKUPNO                                                                                                    242394.19
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

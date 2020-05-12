@@ -1,0 +1,17 @@
+Račun br. 116262
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Preklopnik 4P/63A, mogućnost zaključavanja                                          641.95   17  10913.15   2728.29
+Kompaktni prekidač snage tip VE, 4P, 150kA, 400A+izvl. modul                      11591.05   19 220229.95  55057.49
+Mini grijač 60W, 9-36V AC/DC                                                        480.84   10   4808.40   1202.10
+Poluvodički sklopnik 1-polni | 30A/24-480VAC, 24-230VAC/DC                          688.66    1    688.66    172.16
+FORCHINI M, PD-2, 40cm, okr., bijelo/zlatne b., E27, max.40W                       1188.46   12  14261.52   3565.38
+
+                                                                                                         ----------
+UKUPNO                                                                                                    250901.69
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

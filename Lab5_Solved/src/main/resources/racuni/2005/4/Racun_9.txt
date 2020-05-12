@@ -1,0 +1,16 @@
+Račun br. 293872
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Plastično kućište, 600x400x130mm, IP65, bezhalogeno                                 942.01    8   7536.08   1884.02
+Teretna sklopka, 3P, 1000A, opcija: daljinski isklop                              10885.14    5  54425.70  13606.43
+Marra LED traka 4,8W/m 60LEDs/m 300lm/m 3000K 24VDC IP20                            165.74   16   2651.84    662.96
+Utičnica šuko sa zašt. kont i dječ. zaštit. na vijak bijela                          19.38   29    562.02    140.50
+
+                                                                                                         ----------
+UKUPNO                                                                                                     65175.64
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

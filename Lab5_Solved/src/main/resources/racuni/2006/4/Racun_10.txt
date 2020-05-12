@@ -1,0 +1,26 @@
+Račun br. 889547
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+EURO SPOT INTEGRIRANI LED, 3000K, 36°,uklj.3F adapter,sr.b.                         875.55    9   7879.95   1969.99
+Senzor za vjetar                                                                   3241.88   14  45386.32  11346.58
+BIMA I svjetiljka za EASYTEC II šine, krom/crne b.                                  406.17   15   6092.55   1523.14
+DIN-nosač 35/7,5mm za WKS, širina 300mm, pocinčani (5 kom.)                           4065   15  60975.00  15243.75
+Držač RT releja, 15.7mm, sa funkcijom izbacivanja                                     2.11    3      6.33      1.58
+NEW MYRA WALL SPOT zidna svjetiljka, 2xGU10, IP55, antracit                        1000.75   13  13009.75   3252.44
+Difuzor za svjetiljku LINDA 2/36                                                     91.23    1     91.23     22.81
+Scala-II-S LED 1W, dimabilna, 350mA, IP20, sive boje                                 96.98    7    678.86    169.72
+Hygrostat - Termostat 0-60°C, 40-90% rF, 1 C/O - 8A (AC240)                        1140.56   21  23951.76   5987.94
+Montažna + prednja ploča za MODUL 160, širina 2, za MC1                               4172   15  62580.00  15645.00
+Kabel H05VV-F (PP/J) 10x1,5mm2, svijetlo-sivi, 50m                                   10000   10 100000.00  25000.00
+Linijska svj. SERM 220 ASY 1x28W, ECG, bijele boje                                  346.72   13   4507.36   1126.84
+Kompenzacija  LSFC 7% 125/12,5kvar 600x2000x400mm Sam.orm.                        46076.44   12 552917.31 138229.33
+Ovjes za svjetiljku OFFICE EXE II LED                                                81.44    3    244.32     61.08
+
+                                                                                                         ----------
+UKUPNO                                                                                                    878320.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

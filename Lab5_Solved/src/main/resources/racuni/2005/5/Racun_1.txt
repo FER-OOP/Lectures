@@ -1,0 +1,22 @@
+Račun br. 1054772
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+SERH 2 A1 L1 T5 4x14W, ECG, M600, bijela b.                                         557.71   20  11154.20   2788.55
+Prespojni kabel RJ45 STP cat.6a/10GB, LS0H, sivi, 3.0m                               43.43    5    217.15     54.29
+FGL OUTDOOR SQUARE Downlight, MR16, krom                                            237.21   12   2846.52    711.63
+Redna stezaljka (vijčani priključak) 35mm², plava                                    17.64   19    335.16     83.79
+"Ploča za zasun, crvena, ""Celanex"""                                                 1.81    2      3.62      0.90
+PD-C360i/8 mini DIM senzor prisutnosti IR,stropni, 360°, Ø8m                       1492.76    2   2985.52    746.38
+Sklopnik 4P | 4kW (10A) [AC3] | 230V AC | 4 glavna kontakta                         215.94    7   1511.58    377.90
+Standardni transformator 12V, 150VA                                                 437.43    1    437.43    109.36
+ENOLA_B ovjesna, bijela b., GU10, max. 50W                                          625.15   12   7501.80   1875.45
+Nadgradna svjetiljka KVADRA 70 1-35/49/80W QTI sat. pokrov                          985.73   17  16757.41   4189.35
+
+                                                                                                         ----------
+UKUPNO                                                                                                     43750.39
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

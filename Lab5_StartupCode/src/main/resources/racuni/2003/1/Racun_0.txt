@@ -1,0 +1,27 @@
+Račun br. 795629
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Panik svjetiljka PF LED 230W  CPS sustav, MIX mod ML, zidna                        1286.86   19  24450.34   6112.58
+GLENOS profil 1808, 2m, aluminij                                                    249.72    2    499.44    124.86
+GRAFIT, samost. svj., PS 30, antracit, E27, max.11W                                  393.5   11   4328.50   1082.13
+Gisele-R 2x35W GU10 MR16, 100-240V, IP20, bijele boje                               263.91    3    791.73    197.93
+Donji dio zakretne ručice za M2000, plosnati, RAL9016                                 2.11   11     23.21      5.80
+KABEL E-AYY-J (PP00-AL) 4X240 SM                                                  13088.19   19 248675.63  62168.91
+Montažni nosač DIN šine, ravni, visine 90mm                                           8.37    1      8.37      2.09
+Teretna sklopka, 4P, 630A                                                          2774.72   13  36071.36   9017.84
+Prespojni kabel RJ45 cat.6 neoklopljen, PVC, crveni, 10.0m                           43.46   11    478.06    119.51
+Tuljci, izolirani, 16mm2, L2=18mm (pak.50 kom)                                       60.05   27   1621.35    405.34
+Zaštitni prekidač sa svojstvima rastavljača,D100A,3-polni+N                        1053.32   13  13693.16   3423.29
+Nazidno izmjenično tipkalo, sivo, svjetleće, 1C/O, 10A, IP44                         79.52    4    318.08     79.52
+"19"" fiksna polica do maks. 50kg, d=350mm, 1U, RAL7035"                            139.88   20   2797.60    699.40
+Kratkospojnik za 12 stezaljki IK100070-A                                             16.26   29    471.54    117.89
+Al-Cu stezaljka 240mm2, siva                                                        209.56   18   3772.08    943.02
+
+                                                                                                         ----------
+UKUPNO                                                                                                    338000.44
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

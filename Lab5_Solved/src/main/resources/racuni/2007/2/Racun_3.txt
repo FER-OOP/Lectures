@@ -1,0 +1,23 @@
+Račun br. 209562
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Telekomunikacijski kabel F-YAY 10x2x0,8mm2                                           10000   30 300000.00  75000.00
+Reflektor FORCA LED 151W 14640lm/740 ECG IP65, as uski,sb                          4134.73   20  82694.60  20673.65
+Grace-R LED 9W 6000K 400lm, IP20, sive boje                                         234.51    3    703.53    175.88
+Strujni trafo, prolazni, okrugli, promjer otvora: 140mm                            1561.48   23  35914.04   8978.51
+Ulična svjetiljka GENESIS VP HIE 150W  IP65 RAL7030                                1560.51    6   9363.06   2340.77
+Prednja ploča, plastična, slijepa, 2B3K                                               4160   26 108160.00  27040.00
+Neizolirana Cu stopica 35mm², M8                                                      5.15   25    128.75     32.19
+Design LED Reflektor 30W 2380lm neutr. bb 4200K, bijele b.                          961.06   26  24987.56   6246.89
+Shelf Strip LED 3W, 3000K, 225lm, 24V, 90°, IP20, SKIII                              88.02    4    352.08     88.02
+Nadgradna svjetiljka SARH IP54 T5 4x28W ECG, bijela                                 1821.6   26  47361.60  11840.40
+LS-FI (KZS), C/32A/30mA, 1P+N, Tip AC, 6kA                                          237.01   10   2370.10    592.52
+
+                                                                                                         ----------
+UKUPNO                                                                                                     612035.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

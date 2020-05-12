@@ -1,0 +1,17 @@
+Račun br. 959753
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ugradna indirektna svj. VMRH REF 4-14/24W QTI M625 sjajni r.                       1035.06   15  15525.90   3881.48
+NEW TRIA DLMI ROUND Downlight, mat bijele boje, 3000K, 60°                         1433.11   18  25795.98   6449.00
+Grebenasta sklopka u kućištu,0-1/2P/20A,na vrata,za grijanje                        164.09   27   4430.43   1107.61
+NV rastavna sklopka vel.00|125A,3P,priključak dolje,na ploču                       1309.47   13  17023.11   4255.78
+KALU 2, mat crne b., 2x QRB111, max. 2x 50W                                         750.35   21  15757.35   3939.34
+
+                                                                                                         ----------
+UKUPNO                                                                                                     78532.77
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

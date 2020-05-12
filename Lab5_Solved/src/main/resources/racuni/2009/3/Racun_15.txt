@@ -1,0 +1,21 @@
+Račun br. 304594
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LED napajanje TC 15W/350mA,Push &1-10V dim.,MM,IP20                                 343.11   18   6175.98   1543.99
+Ulična svjetiljka SEVEN-CIRCLE 70W HIT E27 IP65                                       8515   29 246935.00  61733.75
+Hvataljka Ø16, vrh hvataljke Ø10mm, duljina: 2m, Alu                                 73.37   10    733.70    183.43
+EURO SPOT G12, 15°, sa 3-faznim adapterom, srebrne boje                             875.55   14  12257.70   3064.43
+Ovjesna svjetiljka OFFICE ECO DIR/IND PAR 2x49W ECG, siva                           509.77    9   4587.93   1146.98
+Relej snage, 2C/O, 25A, 24VDC, Faston 250, Tip RM                                    69.23   18   1246.14    311.54
+PEYOTE POLE 48cm 360° 8x1W LED, 40° 3000K antracit                                 3315.41    4  13261.64   3315.41
+LS-FI (KZS), C/25A/30mA, 1P+N, Tip AC, 6kA                                          210.18   18   3783.24    945.81
+BISHADE podna svjetiljka, SL-1, E27                                                1871.23    2   3742.46    935.61
+
+                                                                                                         ----------
+UKUPNO                                                                                                    292723.78
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

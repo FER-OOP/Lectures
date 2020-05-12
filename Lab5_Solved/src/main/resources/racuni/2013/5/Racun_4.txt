@@ -1,0 +1,23 @@
+Račun br. 728453
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+NEPRO pano svj.                                                                     625.15   24  15003.60   3750.90
+Kronos-Q/A2 LED 38W 4000K 2450lm, IP20, sive boje                                   729.23   15  10938.45   2734.61
+Kabelska uvodnica M32x1.5, poliamid, RAL7035                                         12.31    7     86.17     21.54
+NV podnožje 1P, vel.00|160A, na ploču, zaštita od dodira                              4831    5  24155.00   6038.75
+"Stezaljka ""A"" 4P, dovod 25mm²|odvodi: 3 x (2x16)+1 x (4x16)"                      84.92   24   2038.08    509.52
+Shunt 60mV, 150A                                                                      4398   24 105552.00  26388.00
+Bakreno uže 50 mm2                                                                 5290.89   28 148144.92  37036.23
+Sklopnik vel.00 (za PLC) | AC3 5,5kW/400V | 17-30VDC | 1 N/C                        173.73   14   2432.22    608.05
+Plano Round LED Plafo, 15W, 4000K, 1118lm, IP40, siva                               366.47    1    366.47     91.62
+"Opt. razdjelnik,24 niti, ST,50/125µm OM3, izvlačivi,19"",1U"                      1504.82   19  28591.58   7147.89
+Prednja ploča elektroničkog odvojnog releja, bijela                                  49.51   13    643.63    160.91
+
+                                                                                                         ----------
+UKUPNO                                                                                                    337952.12
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

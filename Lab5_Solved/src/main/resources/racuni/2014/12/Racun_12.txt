@@ -1,0 +1,27 @@
+Račun br. 735903
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Bimetalni relej za sklopnike vel. 00 | 2,20 - 3,20A                                 161.33   14   2258.62    564.66
+Redukcijski element za mont. 5mm sabirnice na nosač SI011380                          2.19   20     43.80     10.95
+Produžna osovina za MC1 i MC2, za ormar maks. dubine 600mm                           62.83    4    251.32     62.83
+Sklopni element za prednju montažu, 1 N/C, utične stezaljke                          18.86   23    433.78    108.45
+Bat. Ormar za SPM/SPH, 15x9Ah, bez punjača baterija                                8978.65   13 116722.45  29180.61
+Ugradna svjetiljka SERH 2 A8 L1 T5 1x54W, ECG, bijela                                 8534   19 162146.00  40536.50
+Savitljiva cijev (lagano), M63, 320N,kolut 25m,svijetlo-siva                       1590.67   18  28632.06   7158.02
+Prespojni kabel RJ45 cat.6 oklop.,s pregibnicama,zeleni,10m                          54.72   18    984.96    246.24
+Lano LED, 40W, 4000K, 3200lm, IP65, 120°, M625, bijele boje                         861.86    7   6033.02   1508.26
+Distantni bočni modul 9mm (obostrano), za sustav 60mm                                33.46    8    267.68     66.92
+Prozirna vrata, akril, za WSM7050xx, otvor: 550X343mm                               634.23    2   1268.46    317.11
+Sutil-Q LED 16W 6000K 982lm, IP40, sive boje                                        205.45   21   4314.45   1078.61
+Prespojni kabel RJ45 cat.6 oklopljen,s pregibnicama,sivi,7m                          43.46   23    999.58    249.90
+Prekidač opterećenja, 4 x 230V AC, 16A, C opterećenje                              2169.13   25  54228.25  13557.06
+Voltmetar, 48x48mm, 500V AC                                                         129.76    6    778.56    194.64
+
+                                                                                                         ----------
+UKUPNO                                                                                                    379363.03
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

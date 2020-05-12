@@ -1,0 +1,18 @@
+Račun br. 283331
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Fluokompaktna žarulja TC-DEL 26W/830 G24Q-3                                          26.83   18    482.94    120.74
+PT-RC utični modul, 110-230VAC, EM03                                                 10.78   24    258.72     64.68
+BEDSIDE LED zidna svj., RIGHT, 3W, 4000K, srebrna b.                               1125.94   11  12385.34   3096.33
+Max 54W T5, 230V, IP20, sive boje                                                   364.61    8   2916.88    729.22
+Fluokompaktna žarulja TC-Del 18W/840 G24Q-2                                          18.77   10    187.70     46.93
+Halogena žarulja HALOLUX 64542 B ES 28W E14                                          21.87    2     43.74     10.94
+
+                                                                                                         ----------
+UKUPNO                                                                                                     16275.32
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

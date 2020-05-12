@@ -1,0 +1,30 @@
+Račun br. 1001527
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+T5 fluo cijev 21W High Efficiency 3000K                                              62.51   25   1562.75    390.69
+Helios-Q/A1 50W GU5,3 MR16, 12V, IP20, bijele boje                                   59.64   10    596.40    149.10
+Priključna kutija, nehrđajući čelik, 150x150x80(VxŠxD),IP66                         933.16   30  27994.80   6998.70
+Otvoreni prekidač, 4P, 55kA, 1600A, fiksni, prednje priklj.                       39004.05   16 624064.81 156016.20
+Pierce-I-R/A2 50W GU10 MR16, 100-240V, IP20, crne boje                              165.74   29   4806.46   1201.61
+Punto-R 50W GU5,3 MR16, 12V, IP43, sive boje                                         28.72    5    143.60     35.90
+Fluokompaktna žarulja TC-DEL 13W/840 G24Q-1                                          26.06   15    390.90     97.72
+Fluokompaktna žarulja TC-Del 26W/840 G24Q-3                                          18.77   14    262.78     65.69
+Sklopnik vel.3 | 4P | AC1 110A/690V | 230VAC                                        879.84   11   9678.24   2419.56
+Završni poklopac CLU okrugli zatvoreni sa vijcima                                     51.6    8    412.80    103.20
+Khali-II-R/A2 LED 25W 3000K 1800lm, IP20, bijele boje                               629.88    7   4409.16   1102.29
+Ugradna svj. SELENA OP LED ECO 37W M625 3700lm/840 ECG,bb                           739.14    3   2217.42    554.35
+FID sklopka AMPARO, 25-2-01/AC, 10kA                                                  4210   29 122090.00  30522.50
+UPS Premium Dual 2200VA 1980W 6 min.1/1-fazni/Online                               8973.61    5  44868.05  11217.01
+LUNA DISPLAY, srebrne boje, GU10 , max. 75W, sa krom držačem                        578.81   22  12733.82   3183.46
+Kompaktni prekidač snage tip A, 4P, 150kA, 100A, utični                            3450.61    3  10351.83   2587.96
+D02 rastavna sklopka TYTAN II, 3-polna, 50A, komplet                               2035.49    4   8141.96   2035.49
+Optički prespojni kabel duplex, LC/SC, 50/125µm OM2, 2.0m                            69.05    7    483.35    120.84
+
+                                                                                                         ----------
+UKUPNO                                                                                                     875209.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

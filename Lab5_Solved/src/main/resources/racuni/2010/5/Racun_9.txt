@@ -1,0 +1,32 @@
+Račun br. 964913
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"19"" fiksna polica do maks. 40kg, d=450mm, niskoprofilna"                          182.64   18   3287.52    821.88
+Kabel za gradilišta XYMM-J 3x1,5 K35 / 500m, žuti                                    10000   12 120000.00  30000.00
+Meiva-S/A2 2x50W GU5,3 MR16, 12V, IP20, aluminij                                     106.1   22   2334.20    583.55
+Kompaktni prekidač snage tip VE, 4P, 50kA, 630A+izvl. modul                       11999.52   29 347986.06  86996.52
+Owen-II-R/A2 50W G8,5, 230V, IP20, bijele boje                                      277.26   22   6099.72   1524.93
+Adapter za montažu MOTUS na DIN nosač                                               150.95   15   2264.25    566.06
+BIBA ovjesna svjetiljka za EASYTEC II krom, satin. staklo                           813.03   11   8943.33   2235.83
+Parabol.širokosnopni odsijač za svjetiljku LINDA 2-28W 160mm                        147.06   10   1470.60    367.65
+Utičnica šuko sa zatikom , dvostruka, vertikalna, utične s.                          59.24    7    414.68    103.67
+Bočne stranice za AS ormare, 1800x600mm (VxŠ) RAL 7035 (par)                        739.43    1    739.43    184.86
+Odvodnik prenapona klase C, TNS, 255V/20kA (SET) + pom. kon.                        735.92   18  13246.56   3311.64
+Potenciometar elektronski 0-10V                                                     209.96   22   4619.12   1154.78
+LED driver 350mA, 3-6LED                                                             73.22    8    585.76    146.44
+Optički prespojni kabel duplex, SC/SC, 62,5/125µm OM1, 1m                            54.19   24   1300.56    325.14
+Bočne stranice za AS ormare, 2200x800mm (VxŠ) RAL 7035 (par)                       1258.75   21  26433.75   6608.44
+Kabel H05VVC4V5-K 4x1,5 sivi                                                         10000   19 190000.00  47500.00
+UPS multi plus 20kVA, 18kW                                                        61449.84   16 983197.44 245799.36
+Abby-R 70W G12, 230V, IP65, sive boje                                                46.46    5    232.30     58.07
+Instalacijski sklopnik 20A | 1 N/O + 1 N/C | 230V AC                                113.32   29   3286.28    821.57
+Mehanička blokada za MC3                                                            466.74   26  12135.24   3033.81
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1728576.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

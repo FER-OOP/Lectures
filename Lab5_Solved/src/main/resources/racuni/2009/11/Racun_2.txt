@@ -1,0 +1,15 @@
+Račun br. 582200
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+ENOLA_B SPOT I, bb, GU10, max. 50W                                                  500.12   27  13503.24   3375.81
+Ovjes za 1-faznu 3-f šinu, crna boja, 3m                                             87.01   10    870.10    217.53
+9R04/W/E, LED PAR38 14w E27 IP65 WW                                                  79.58   11    875.38    218.85
+
+                                                                                                         ----------
+UKUPNO                                                                                                     15248.72
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

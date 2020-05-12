@@ -1,0 +1,30 @@
+Račun br. 144003
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Fluokompaktna žarulja TC-SEL 11W/830 2G7                                             20.16   15    302.40     75.60
+Maria-WL-R LED 6W 3000K 440lm, IP54, antracit                                       377.96   21   7937.16   1984.29
+Transformator, 1-fazni | 230/230V | 250VA, IP00                                     508.44    2   1016.88    254.22
+Ugradna svjetiljka SERS 2 T8 2x18W CCG M600, bijela                                 260.47   20   5209.40   1302.35
+Kabel kit za UPS - AS400                                                            967.89    3   2903.67    725.92
+Bakrena sabirnica, TTT profil, 2500A, duljina 2.4m,pocinčana                       5223.26   26 135804.75  33951.19
+Lano-Q LED 48W 6000K 3800lm, IP20, bijele boje                                       656.4   20  13128.00   3282.00
+Strujni trafo 600/5, 2.5VA, class 1, za SI337010...020...030                        227.39   23   5229.97   1307.49
+Matica M16x1.5, metrička, poliamid                                                    0.65   14      9.10      2.27
+MEDO 60 stropna svjetiljka, četvrt.,srebrne boje,4xT5 24W                          2184.14   17  37130.38   9282.59
+Dingo-R LED 5W 3000K 350lm, IP53, sive boje                                         145.81   10   1458.10    364.52
+Podesivi nosači za zidnu montažu za TRAIL, RAL9006                                  734.87    7   5144.09   1286.02
+Univer.opt.kabel A/I-DQ(ZN)BH 12x9/125µm OS2, LS0H-3, nm.                           599.93   20  11998.60   2999.65
+"Samostojeći kom. ormar DSZ, rastavljiv,800x1970x800,19"", 42U"                    4627.63   16  74042.08  18510.52
+Metalhalogena žarulja HIT-DE Uvr 250W/852 Fc2                                       301.58    7   2111.06    527.76
+Linda LED Transparent 1x24W, 4000K, 3319lm, IP65                                    994.56   26  25858.56   6464.64
+Tuljci, izolirani, 1.5mm2, L2=8mm (pak.100 kom)                                       9.36   21    196.56     49.14
+Panik svjetiljka U8 LED 3W, CPS sustav, MIX-mod, ugradna                           3301.49   13  42919.37  10729.84
+
+                                                                                                         ----------
+UKUPNO                                                                                                    372400.12
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

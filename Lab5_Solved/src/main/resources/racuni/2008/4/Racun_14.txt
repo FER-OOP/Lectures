@@ -1,0 +1,32 @@
+Račun br. 140833
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+FLEX LINE modul 2xRJ45 oklopljen, 1x100MBit + 1xtelefon                               6021   26 156546.00  39136.50
+Rezač kabela max. 32mm2                                                               2303   22  50666.00  12666.50
+LED traka 60 UWW, Ra=90+, 13,8W/m, 911lm/m, 24VDC,IP44, l=5m                       1132.18   28  31701.04   7925.26
+UPS za ekey, 230V AC / 12V DC / 4Ah, montaža na DIN nosač                          3472.78   11  38200.58   9550.15
+Ugradna svjetiljka SEP XTP T5 4x54W ECG IP54 M600, bijela                          1315.08   28  36822.24   9205.56
+Zaštita za sab.sistem 39 ili 34 mm za ARROW BLUE vel.00                               4821   12  57852.00  14463.00
+SAT gumena uvodnica za stupa/crijep,za stup 38-60mm, crvena                          21.73    7    152.11     38.03
+NV rastavna sklopka  ARROW BLUE vel.1/250A, 3P,M10                                  780.17   23  17943.91   4485.98
+Lloyd LED 1,44W 6000K 64lm, dimabilna, IP65                                          46.46    6    278.76     69.69
+BOX-L E27 zidna svjetiljka, četvrt.,bi.b., E27, max. 18W                             393.5   20   7870.00   1967.50
+LED napajanje 240W/10A, 24VDC IP67                                                  896.22   22  19716.84   4929.21
+SAT multiswitch 5 IN 16 OUT za quattro/quad LNB,kask.,10m                          2052.18   16  32834.88   8208.72
+Kutija za mjerni spoj, N/Ž, pl.vodič 4x40mm/okr. vodič 10mm                          26.99    1     26.99      6.75
+FENDA sjenilo svjetiljke, plave boje                                                249.72    4    998.88    249.72
+HDMI video repeater, do 35m (4x kaskadno), bez kabela                               268.54    1    268.54     67.14
+Kliješta za rezanje žica ravna, promjera žice do 1.0 mm                              62.07    7    434.49    108.62
+N-TIC PRO GU10, okrugli pokrov                                                     1307.91   11  14387.01   3596.75
+L-SE sjajni odsijač R12 T5 AL 35-80W duboki, aluminij                               100.68   22   2214.96    553.74
+Alessia-R LED 10W 3000K 340lm, IP54, sive boje                                       806.1   18  14509.80   3627.45
+BIG NAUTILUS SQUARE LED zidna svj. 12W 3000K, četv.,antracit                       1125.94   16  18015.04   4503.76
+
+                                                                                                         ----------
+UKUPNO                                                                                                     501440.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

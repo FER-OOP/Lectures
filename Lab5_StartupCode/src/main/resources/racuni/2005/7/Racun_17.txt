@@ -1,0 +1,20 @@
+Račun br. 818214
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+HDMI 1.4 kabel, 2xHDMI19 tipA muški, pozlaćeni kontakti, 2m                          48.54   13    631.02    157.76
+Kada za brojilo, 3 ploče za brojilo u jednom redu, 2-reda                           866.97   19  16472.43   4118.11
+OUT-BEAM R7s, srebrne boje                                                          619.23   29  17957.67   4489.42
+FI-blok 80A, 4-polni, 300mA, S izvedba, Tip A (Puls)                                  4290   19  81510.00  20377.50
+KALOS ASL rotosim. optika 10LED,4000K 24W,antracit, 4 kraka                        4021.12    4  16084.48   4021.12
+BISHADE ovjesna svjetiljka, PD-1, 3xE27                                               1621   12  19452.00   4863.00
+SEVEN-CIRCLE 60W PGZ12 IP65 optika za bic.staze, crna                              4765.59   13  61952.67  15488.17
+Kompaktni prekidač snage tip VE, 3P, 150kA, 160A                                   3190.27    8  25522.16   6380.54
+
+                                                                                                         ----------
+UKUPNO                                                                                                    239582.42
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

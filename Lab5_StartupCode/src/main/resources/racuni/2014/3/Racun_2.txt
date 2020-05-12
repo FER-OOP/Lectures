@@ -1,0 +1,14 @@
+Račun br. 516864
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Voltmetar, digitalni, montaža na DIN nosač, 100/500VDC                             1006.99    7   7048.93   1762.23
+Pokrov priključaka za MB1 3-polni                                                    14.26   13    185.38     46.35
+
+                                                                                                         ----------
+UKUPNO                                                                                                    7234.3096
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

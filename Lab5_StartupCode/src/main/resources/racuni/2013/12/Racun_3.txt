@@ -1,0 +1,19 @@
+Račun br. 915976
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+PEMA četvrt. zidna svjetiljka, sr.b., E27, max. 15W                                 449.94   20   8998.80   2249.70
+Mehanička blokada za motorni pogon, za MC3 i MC4                                   2284.83    2   4569.66   1142.42
+"Opt. razdjelnik, 4 niti,SC,9/125µm OS2, izvlačivi,19"",1U"                         477.06   15   7155.90   1788.97
+Nadžbukna kutija za PlanoSpot senzore, crna                                        1159.52   21  24349.92   6087.48
+Ugradna downlight svjetiljka EQM 221 2x26W ECG TC-DEL,bijela                        370.77   29  10752.33   2688.08
+NEW TRIA MINI DL okrugli SET, Downlight, 3000K,bijele boje                          280.98   23   6462.54   1615.63
+Staklena vrata za AS ormare 2000x600mm, prozirna, RAL 7035                         2433.63   24  58407.12  14601.78
+
+                                                                                                         ----------
+UKUPNO                                                                                                   120696.266
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

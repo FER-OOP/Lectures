@@ -1,0 +1,32 @@
+Račun br. 325776
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+KVADRA 70M mikropriz.pokrov za Kvadra 70M R + S L-1484mm                              8528   29 247312.00  61828.00
+Sutil-R LED 12W 6000K 827lm, IP40, sive boje                                        172.33    8   1378.64    344.66
+Ugradna svjetiljka SEP T5 4x14W, ECG, M600 bijela                                   348.28   24   8358.72   2089.68
+Montažni nosač 3HH                                                                   21.88   13    284.44     71.11
+Tipkalo s plosnatom tipkom, bijelo, uskočno, s držačem                               42.98   11    472.78    118.19
+Metalhalogena žarulja 150W CDM-TD, WDL                                              249.72    3    749.16    187.29
+Tel. držač razmaka za okruglu šipku, 2.5mm                                            1.78    3      5.34      1.34
+Rastavna sklopka za cilindrične osigurače 10x38mm, 2P/32A                            34.15   30   1024.50    256.13
+Kompaktni prekidač snage tip A, 3P/25A/50kA, MC1                                    800.26   23  18405.98   4601.50
+KVADRA 70M prolazno ožičenje 3x1,5mm2                                                12.87   25    321.75     80.44
+NV podnožje 3P, vel.00|160A, na ploču, zaštita od dodira                              4831   25 120775.00  30193.75
+D02 rastavna sklopka ARROW S, 3-polna, 16A                                          275.53   20   5510.60   1377.65
+Nosač N/PE sabirnice 25mm2                                                           24.15   26    627.90    156.97
+SAT LNB nosač za 4xLNB, podesivi, za HSAT080xx, aluminijski                         151.46   22   3332.12    833.03
+ORION CONE ovjesna svjetiljka, bež , E27, max. 60W, staklo                         1250.97    1   1250.97    312.74
+41010/W, ravna spojnica, bijele boje                                                 26.52   15    397.80     99.45
+Kronos-II-Q/A2 50W G53 AR111, 12V, IP20, bijele boje                                126.04   28   3529.12    882.28
+Zamjenjiva skala ampermetra za montažu na DIN nosač, 50A/5A                           4399   11  48389.00  12097.25
+Audio vanjski panel, 24 tipke, sa PTT otvorom                                      2992.07   25  74801.75  18700.44
+Transformator 230V / 12V AC / 900 mA, širine 3 modula                               249.57   16   3993.12    998.28
+
+                                                                                                         ----------
+UKUPNO                                                                                                    540920.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

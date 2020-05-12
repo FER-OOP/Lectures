@@ -1,0 +1,17 @@
+Račun br. 493371
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Set za ožičenje sklopničke kombinacije promjene smjera vel.3                        144.87   26   3766.62    941.65
+Signalni fleksibilni kabel YSLCY-OZ 5x 0,75 sivi                                     10000    4  40000.00  10000.00
+"19"" izvlačiva polica, maks. 30 kg tereta, dubine 350mm, 1U"                       333.52   13   4335.76   1083.94
+Linijska svj. SERM-LL 112, završni profil,  1x80W, ECG, bb                          613.56   23  14111.88   3527.97
+41012B/W, KUTNI POKROV, bijele boje                                                  14.69   30    440.70    110.17
+
+                                                                                                         ----------
+UKUPNO                                                                                                     62654.96
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

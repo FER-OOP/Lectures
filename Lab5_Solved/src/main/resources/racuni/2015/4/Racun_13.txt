@@ -1,0 +1,28 @@
+Račun br. 1038303
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zaštitni prekidač, C karakteristika, 32A, 1-polni, 6kA                               24.06   16    384.96     96.24
+Uzidni dimer za LED rasvjetu                                                        468.94    9   4220.46   1055.11
+GLENOS profil 1808, 2m, aluminij                                                    249.72   15   3745.80    936.45
+Sabirnica (češalj) za ožičenje podnožja PT7874P                                       4.54   15     68.10     17.02
+Elektronička sklopka za upravljanje roletama, umetak                                792.82    3   2378.46    594.61
+Sklopnik 3P |37kW (74A) [AC3] / 130A [AC1] | 230V AC                               1082.02   11  11902.22   2975.56
+Svjetleće tipkalo s plosnatom tipkom, crveno, uskočno                                42.98   14    601.72    150.43
+Set za podešavanje montažne ploče po dubini za WSM D=210mm                          417.88   16   6686.08   1671.52
+Zamjenjiva skala, 96x96mm, 800/1600/5A AC                                             4399    3  13197.00   3299.25
+9R05/W/SE, 5W E14 WW R50                                                              3.37   15     50.55     12.64
+Kabel H03VV-F (PP/L) 2x0,75mm2, crni, 500m kolut                                     10000   15 150000.00  37500.00
+Držač elastične rebraste cijevi promjera 48mm (pak. 10 kom.)                        248.67    8   1989.36    497.34
+Onda-R/A2 LED 7W 3000K 594lm, IP20, bijele boje                                     411.07   30  12332.10   3083.03
+FID sklopka 80-4-03/A (puls)                                                        735.09   16  11761.44   2940.36
+D02 prilagodni uložak (prsten) Neozed 20A                                              2.6   29     75.40     18.85
+FID sklopka AMPARO, 40-4-03/A (puls), 10kA                                          504.22    4   2016.88    504.22
+
+                                                                                                         ----------
+UKUPNO                                                                                                    221410.52
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

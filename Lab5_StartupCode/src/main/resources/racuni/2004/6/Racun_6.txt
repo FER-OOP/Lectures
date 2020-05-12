@@ -1,0 +1,14 @@
+Račun br. 229055
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Linijska svj. SERM-LL 112, završni profil,  2x54W, ECG, bb                          517.68   17   8800.56   2200.14
+BULAN GRID zidna svj., okrugla, antracit, E27, max. 2x25W                           308.85   19   5868.15   1467.04
+
+                                                                                                         ----------
+UKUPNO                                                                                                    14668.709
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

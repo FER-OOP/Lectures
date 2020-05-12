@@ -1,0 +1,30 @@
+Račun br. 358591
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kabel LiYY 7x0,25                                                                    10000   20 200000.00  50000.00
+LED Driver 420mA 18W za Sutil 2, triac dim.                                         145.13    7   1015.91    253.98
+7513AD/W, LED 13w WW AR111 G53 24 ° dimabilna + DRIVER 230v                         212.21   26   5517.46   1379.36
+Reflektor za BERET & DIVIS Downlight, G12, 40°                                       50.01   29   1450.29    362.57
+Ugradna downlight svjetiljka ERK 207 2-18 TC-DEL ECG bijela                         288.08   11   3168.88    792.22
+Laki gumeni kabel H05RR-F 5x2,5, crni                                              1633.36    5   8166.80   2041.70
+Grijač za ormar 150W, 9-36V AC/DC                                                   732.97   15  10994.55   2748.64
+Univer. opt.  kabel U-DQ(ZN)BH 8x9µm OS2, nm.                                       731.75   24  17562.00   4390.50
+Ispravljač, 1-fazni | 230-400/24VDC | 15A                                          1685.41   21  35393.61   8848.40
+Odvodnik prenapona COMBTEC kl.B/C TNC 275/12,5+H                                   1126.65   29  32672.85   8168.21
+Energetski kabel 0,6/1kV PP00 (NYY-O) 2x6re crni                                     10000   15 150000.00  37500.00
+LED Reflektor R50, E14, 3,5W, 120cd, 250lm, 90°, 2800K dim.                         120.23   13   1562.99    390.75
+Svjetiljka Solo Line T5 1x49W,ECG, bijele boje                                      306.85    6   1841.10    460.28
+"Opt. razdjelnik,12 niti, SC,50/125µm OM2, izvlačivi,19"",1U"                       920.54   16  14728.64   3682.16
+Smith-II-R LED 9W 3000K 350lm, IP54, antracit                                       417.66    7   2923.62    730.91
+Potporni izolator visine 30mm, s vijkom i maticom M6, 0.75kV                         30.28   21    635.88    158.97
+Ugradno kućište za svjetiljku LUNA 35/70W MT                                        213.65   24   5127.60   1281.90
+Panik svjetiljka Linda Transparente 11W 230V EVG,MIX-mod,uni                        809.37   11   8903.07   2225.77
+
+                                                                                                         ----------
+UKUPNO                                                                                                    501665.22
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

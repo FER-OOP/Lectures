@@ -1,0 +1,20 @@
+Račun br. 923867
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Signalni fleksibilni kabel YSLY-JZ 5x16 sivi                                       9592.74   15 143891.11  35972.78
+Industrijska svj. Arktur LED 13500lm,132W,40°,6000K,RAL9006                           5252   17  89284.00  22321.00
+Montažna ploča za MINIPOL ormare, metalna, 600x400mm                                202.12   16   3233.92    808.48
+FID sklopka 63-2-03/AC, 10kA                                                        290.61   19   5521.59   1380.40
+Francis-S 2x18W T8, 230V, IP65, sive boje                                           159.16    6    954.96    238.74
+Signalna svjetiljka sa LED 24VAC/DC, glatka leća, zelena                             45.52   24   1092.48    273.12
+Sigma-S/A2 LED 12W 6000K 824lm, IP54, sive boje                                     497.24    2    994.48    248.62
+Metalhalogena žarulja 35W CDM-TC, 3000K, G8,5                                       312.23   18   5620.14   1405.04
+
+                                                                                                         ----------
+UKUPNO                                                                                                    250592.69
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,27 @@
+Račun br. 1073636
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Radne cipele broj 39                                                                731.84   10   7318.40   1829.60
+Pokrov IP20-SKK MD180i/R, MD180i/T, MD/PD180, bijeli                                127.47   29   3696.63    924.16
+Grebenasta sklopka u kućištu (crveno/žuta), 0-1/4P/32A, IP65                        448.99   25  11224.75   2806.19
+Bezhalogeni kabel s el. funkc. do30 Min. (N)HXH-J3x10reE30                           10000    7  70000.00  17500.00
+"Opt. razdjelnik, 8 niti,LC,50/125µm OM3, izvlačivi,19"",1U"                        605.09   21  12706.89   3176.72
+LED prespojni kabel RJ45 oklop.,500 MHz,Ea,10GB,crveni,0.5m                           37.7   13    490.10    122.53
+Podesivi stropni ovjes za EASYTEC II, krom                                          155.78   24   3738.72    934.68
+Razvodna kutija, nadžbukna, 85x85x40mm, membrane, IP54, siva                         891.3   21  18717.30   4679.32
+EUTRAC savitljiva spojnica, bij.                                                    437.43   30  13122.90   3280.72
+Plafonjera ALICA Round TR 1x22W, CCG IP54, crna                                     244.49    6   1466.94    366.74
+Aluminijski pokrov MF 2m                                                             66.93   15   1003.95    250.99
+Savitljiva cijev (lagana) M25, 320N, 50m, HF, svijelto-siva                         856.97   28  23995.16   5998.79
+Ovjesni pribor za Lano svjetiljke                                                    88.02   12   1056.24    264.06
+Regulator temperature 10-60°C, 1 C/O                                                201.56   10   2015.60    503.90
+Profil-stezaljka 51 x (5 - 28)mm za TT sabirnice, 1600A                             318.13   28   8907.64   2226.91
+
+                                                                                                         ----------
+UKUPNO                                                                                                     179461.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

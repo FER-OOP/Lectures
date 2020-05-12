@@ -1,0 +1,14 @@
+Račun br. 795890
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+EURO SPOT COB LED, 3000K, 36°, uklj. 3F adapter, sive boje                          938.06    3   2814.18    703.54
+Potezno pozivno tipkalo, umetak, 24V DC, max. 20mA                                  497.43   15   7461.45   1865.36
+
+                                                                                                         ----------
+UKUPNO                                                                                                     10275.63
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,18 @@
+Račun br. 347207
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Set za konverziju iz fiksne u izvlačivu izvedbu, za MO2, 3P                           4970    2   9940.00   2485.00
+Staklena vrata za AS ormare 2200x800mm, prozirna, RAL 7035                         3410.68    3  10232.04   2558.01
+"Inverter Kaco Blueplanet 20.0; TL3, 3f, 2MPPT, IP65"                             29347.31   16 469556.97 117389.24
+S4H koaks. prespojni kabel, 2xF-konektor, 1.5m, bijeli                               13.57   23    312.11     78.03
+PRIMOLUX LED 68W 8000lm/840 opal DALI IP44 ,dužine 1535mm,bb                       1509.09   29  43763.61  10940.90
+Kabel LiYCY 20x0,5                                                                   10000    9  90000.00  22500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    623804.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

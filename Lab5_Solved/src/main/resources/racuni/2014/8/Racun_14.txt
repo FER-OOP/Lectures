@@ -1,0 +1,18 @@
+Račun br. 1083983
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ovjesna svjetiljka OFFICE ECO DIR PAR 1x35W ECG, siva                               466.64   12   5599.68   1399.92
+NV rastavna sklopka ARROW BLUE vel.2|400A, 3P, M10, 60mm                           1977.61   14  27686.54   6921.63
+L-SE montažna šina MR 3x28-54 5x1,5mm²                                               274.9   13   3573.70    893.42
+Kompaktni prekidač snage tip A, 3P/125A/25kA, MC1                                  1262.98   27  34100.46   8525.12
+LS-FI (KZS), B/25/30mA, 2P, Tip A, 6kA                                                4281   16  68496.00  17124.00
+Sabirnica, 2P, viličasta, 16mm² (80A)|korak 17.8mm| 1m                              189.18    3    567.54    141.88
+
+                                                                                                         ----------
+UKUPNO                                                                                                    140023.92
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

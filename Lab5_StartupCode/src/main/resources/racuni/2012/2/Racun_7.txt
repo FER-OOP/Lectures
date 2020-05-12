@@ -1,0 +1,18 @@
+Račun br. 455947
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+EURO SPOT INTEGRIRANI LED, 3000K, 15°,uklj.3F adapter,sr.b.                         875.55   26  22764.30   5691.07
+Tunel stezaljka 1 x 2.5-16mm² + 2 x 2.5-25mm², za vel.00                             39.79   19    756.01    189.00
+2-polna sklopka, 16A, umetak, utične stezaljke                                        58.8    1     58.80     14.70
+SAT steznik za stup Ø48-50mm,uzemljenje i 2 vijka,poc. čelik                         16.91    8    135.28     33.82
+Predinstalirani inst. kab. cat.7, 2xkon. bloka, 2xzašt., 80m                        522.56    6   3135.36    783.84
+Cilindar brava za WSM ormare EK 333                                                   61.5   30   1845.00    461.25
+
+                                                                                                         ----------
+UKUPNO                                                                                                    28694.748
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,32 @@
+Račun br. 1098834
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Polucilidar (umetak) 5mm, dvostruka brada                                            49.61   25   1240.25    310.06
+Uzidni okvir s vratima - M3000, 2U-07                                               598.98   17  10182.66   2545.67
+OUT 65 LED DL okrugli Set, 9W, 3000K, 38°, uklj.nap., titan                         468.69   10   4686.90   1171.72
+Višežični PVC-om izolirani vodič H07V-R (P/M) 6mm2, smeđi                            10000    7  70000.00  17500.00
+Bezhalogeni jednožilni vodič H07Z-K 2,5mm2, žuto/zeleni                              10000   21 210000.00  52500.00
+Kabel LiYCY-TP 2x2x0,5                                                              900.68   15  13510.20   3377.55
+Zaštitni prekidač, B karakteristika, 32A, 1-polni, 6kA                                24.3    9    218.70     54.67
+Zaštitna mrežica za panike KW                                                       430.35   14   6024.90   1506.22
+Završna pločica za stezaljku IK692014--, zelena                                       4851   15  72765.00  18191.25
+Sonda (1 štap) za nadzor nivoa, 400mm                                               339.87   15   5098.05   1274.51
+Industrijska utičnica, 5 polna, 32A, IP44, montaža na zid                            45.02   15    675.30    168.82
+Ted-III-R 2x26W G24q-3, 230V, IP20, brušeni krom                                     19.59   27    528.93    132.23
+7305/BL/30, LED 3x1w 12v , 30 ° , plave boje                                         16.05   10    160.50     40.13
+"Samostojeći komunikacijski ormar DS 800x2195x1000, 19"", 47U"                     4774.09   16  76385.44  19096.36
+Mikro reverz.sklopn.komb. Sa meh.blokadom 2,2kW, 24VDC/NO                            230.3   23   5296.90   1324.22
+Transformator, 1-fazni | 230/230V | 100VA, IP00                                     308.12   12   3697.44    924.36
+Lumo-R LED 24W 3000K 1400lm, IP44, sive boje                                        304.97   21   6404.37   1601.09
+LED RF WiFi kontroler Touch RGBW - 4 zone - crne boje                               836.68   17  14223.56   3555.89
+LUNA 1 Spot sa 3-faznim adapterom                                                   462.77    2    925.54    231.38
+Sphinx 331 S KNX, senzor pokreta, 2 kanala, ugr., stropni                          1496.03   20  29920.60   7480.15
+
+                                                                                                         ----------
+UKUPNO                                                                                                    531945.25
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,33 @@
+Račun br. 116576
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Držač žaruljice BA 9s, bez žaruljice, dubina ugradnje 50mm                           17.23    3     51.69     12.92
+Zaštitni prekidač AMPARO 6kA, B 6A, 2-polni                                          66.94   13    870.22    217.55
+Olovna BATERIJA 12V/300W za panik sustav i UPS                                      234.65    4    938.60    234.65
+Adapter, modul. uložak AS/KS                                                        764.03    1    764.03    191.01
+LED-Driver, 40W, 700mA, dim.                                                        312.23   13   4058.99   1014.75
+Izmjenična sklopka, umetak, utične stezaljke                                         18.67   10    186.70     46.67
+Potporni izolator, 35x40mm, 2xM6, 5kN                                                14.14   13    183.82     45.96
+Teretna sklopka, 3-polna, 400A                                                     1466.31    3   4398.93   1099.73
+Linijska svj. SERM-LL 112, završni profil,  1x35W, ECG, bb                           581.6   24  13958.40   3489.60
+Natični (djeljivi) strujni trafo, 150/5A, 30x20mm                                   747.36   13   9715.68   2428.92
+Utičnica sa zatikom, 16A, umetak, ut. stez., biserno bijela                          12.84   19    243.96     60.99
+Ugradna zidna svjetiljka Promenade 40 IP65 LED plavo                                822.22   12   9866.64   2466.66
+Kabel YSLYQY-JZ 7x 1,5 prozirni                                                      10000    6  60000.00  15000.00
+Reflektor SET 150W HST E40 IP65 crni asimetrični                                   1077.41    8   8619.28   2154.82
+Grupno signalno svjetlo (crveno) sa alarmom, 24VAC/DC,bijelo                        567.68    9   5109.12   1277.28
+Priključne stezaljke za 3P MC1 (3 kom.) + pokrov (MC190021)                          65.75   14    920.50    230.13
+8318/C/4, 18W 4PIN CW 3U                                                              1.68   24     40.32     10.08
+Ugradna svjetiljka SERH XTP T8 4x36W ECG M600, bijela                              2413.76    1   2413.76    603.44
+FITU E27 ovjesna svj., E27, max. 60W, okrugla, crvene boje                          249.72   25   6243.00   1560.75
+AIXLIGHT PRO MOVE QRB111 max. 75W G53, uložak                                       218.46   28   6116.88   1529.22
+Grebenasta sklopka (glavna, sivo/crna), 0-1/3P/63A, na DIN                          260.91   15   3913.65    978.41
+
+                                                                                                         ----------
+UKUPNO                                                                                                    138614.17
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

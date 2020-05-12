@@ -1,0 +1,29 @@
+Račun br. 798262
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Pokrov za 2xRJ45 Toolless, antracit                                                  12.97    7     90.79     22.70
+Telefonska žica za ranžiranje YV 2x0,5/0,9 bijela-crna                              136.59   15   2048.85    512.21
+Nazidni okvir s vratima za Modul 2000 | 2A-45 | dubina 250mm                       2561.14    4  10244.56   2561.14
+Kanal tip BE-DIN, 37.5x37.5mm (VxŠ), duljina 2m, RAL 7030                            22.47    9    202.23     50.56
+"Natpisna pločica za umetanje fi=28mm, prozirna, ""I"""                               3.09    7     21.63      5.41
+7610A, 120w R7 220v-240v                                                              7.94   30    238.20     59.55
+Senzor prisutnosti 180B KNX, 8m, p/ž, zidni, IP54, bijeli                          1643.44   16  26295.04   6573.76
+Sutil Round  LED 12W, 3000K, 720lm, 120°, IP40, bijele boje                         172.33   28   4825.24   1206.31
+Poluvodički mot. kontroler 200-440V/75A sa bypass i zaštitom                          4701   23 108123.00  27030.75
+Aura 250 zidna i stropna svjetiljka, E27, max. 100W, IP44                           157.59    8   1260.72    315.18
+Izmj. Fronius Symo 20.0-3-M, 20kW, 3f, IP55, TL 2 MppTracker                       39509.1    7 276563.72  69140.93
+KALOS ASL D-ulič.optika 20+10LED,4000K 70W,antracit, 4 kraka                       5171.55   10  51715.50  12928.88
+Parcijalna montažna ploča za AS/KS ormare šir. 800mm, 9 red.                        130.56   15   1958.40    489.60
+Kabel LiYCY 5x2x0,14                                                                 10000   27 270000.00  67500.00
+Bezhal. sign. kabel HSLCH-JZ 4x2,5 FRNC sivi/žila crna                               10000   21 210000.00  52500.00
+Svjetlosna sklopka sa satom,digitalna, 2-2000 Lux, 1C/O, 16A                       1087.63   10  10876.30   2719.07
+Podnožje Vartec TII, 3+1 (3 x modul VVM + VGM), pom. kontakt                        368.14   12   4417.68   1104.42
+
+                                                                                                         ----------
+UKUPNO                                                                                                     978881.9
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,25 @@
+Račun br. 158864
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Bezhal. kabel HSLH-JZ5x6FRNC H-F 1žila ž/z ostale crn/siv                            10000    8  80000.00  20000.00
+LED GX53, 7W, 4000K, 500lm, 100-240V                                                 56.43   10    564.30    141.07
+Devin-Q 2x13W G24q-1, 230V, IP20, brušeni krom                                       19.59   28    548.52    137.13
+Kompaktni prekidač snage tip VE, 4P, 50kA, 800A+izvl. modul                       17787.64   11 195664.05  48916.01
+Flomaster, crveni                                                                    24.06   25    601.50    150.38
+Prespojni kabel RJ45 cat.5e oklopljen, PVC, plavi, 7.0m                              30.94   11    340.34     85.08
+Daljinski isklopnik za MC4, 24V AC/DC                                               626.92   29  18180.68   4545.17
+PT LED utični modul, zeleni, 6-24V AC/DC , EM11                                      11.05   17    187.85     46.96
+Ina-R/A1 LED 6W 4000K 485lm, IP20, aluminij                                         161.18    4    644.72    161.18
+Nazubljena podložna pločica, M6 / d=12mm                                             31.48   29    912.92    228.23
+AF 150/200i reflektor sa senz. pokreta 150W IP44, inox efekt                          1069   13  13897.00   3474.25
+Priključna kutija, nehrđajući čelik, 150x300x120(VxŠxD),IP66                       1162.43   12  13949.16   3487.29
+Kompaktni prekidač snage tip VE, 3P, 85kA, 630A+izvl. modul                       13121.87   12 157462.44  39365.61
+
+                                                                                                         ----------
+UKUPNO                                                                                                    482953.47
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

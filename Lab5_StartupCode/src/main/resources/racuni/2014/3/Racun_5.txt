@@ -1,0 +1,31 @@
+Račun br. 1027145
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+NEW TRIA III GU10 Downlight, četvrtasta, brušeni aluminij                           531.37    4   2125.48    531.37
+LED torba sa uzorcima MF profila                                                    261.27   28   7315.56   1828.89
+COB LED MODUL za AIXLIGHT PRO montažni okvir, 30°, bijele b.                       1125.94   29  32652.26   8163.06
+Signalna LED svjetiljka, 110-240V AC/DC, montaža na DIN                              72.77    9    654.93    163.73
+Pepeljara, staklena, plava                                                           20.77   12    249.24     62.31
+Zaštitni prekidač MB 18kA BT 80/3                                                   458.97    5   2294.85    573.71
+N stezaljka sa 15 odvoda, izolirana                                                  34.63   20    692.60    173.15
+Bezhalogeni inst.kabel pob.svoj. za sl.požara NHXMH-J 5x1,5                          10000   12 120000.00  30000.00
+Nosač telefonskih letvica za prihvat do 5 LSA letvica,D=30mm                         98.74   10    987.40    246.85
+SNR relej, komplet 24V DC 6A, 1 C/O, vijčane stezaljke                              107.52   24   2580.48    645.12
+L-SE slijepi pokrov DM PC T5 L-1489mm, bijeli                                         59.1   21   1241.10    310.27
+Prespojni kabel RJ45 cat.5e oklopljen, PVC, plavi, 3.0m                              14.62   20    292.40     73.10
+8224A/C/4, 24W 4PIN 2G10 CW                                                           0.84   19     15.96      3.99
+ES111 Modul za AIXLIGHT PRO ugradno kućište, mat-bb                                 155.78    1    155.78     38.94
+Staklena vrata za AS ormare 2200x800mm, prozirna, RAL 7035                         3410.68    3  10232.04   2558.01
+LED traka Flexstrip 48 amber b.IP43 230lm/m 9,5W/mL=5m 24VDC                       1130.94   27  30535.38   7633.84
+GLASSA stropna svjetiljka E27                                                        562.8    4   2251.20    562.80
+Ina-A PAR16 Spot, GU10, 50W, IP20, zakretna, siva                                    43.25   23    994.75    248.69
+Ugradna svjetiljka SE-ID ECO L1 T5 2x14W ECG M600, bijela                           396.21    2    792.42    198.10
+
+                                                                                                         ----------
+UKUPNO                                                                                                    216063.84
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

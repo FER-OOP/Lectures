@@ -1,0 +1,33 @@
+Račun br. 1048642
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Alat za postavljanje udarnog čavla GI2324xx                                         338.38   17   5752.46   1438.11
+GLENOS zavr.pokr. za kutni profil, bijele boje                                       43.76   18    787.68    196.92
+BIBA ovjesna svjetiljka za EASYTEC II krom, satin. staklo                           813.03    2   1626.06    406.52
+LEDDISK HORN DL, bi.b., 4000K                                                       813.03   30  24390.90   6097.73
+EASY 400 1-fazno stabilizirano napajanje 24V DC, 1.25A                              663.15   17  11273.55   2818.39
+GLENOS završni pokrov za profile 2609, obli, sive boje                              105.76   11   1163.36    290.84
+Košulja ženska, dugih rukava, bijela -38-                                           646.59   10   6465.90   1616.48
+INOX samostojeći ormar, 1800x1200x400mm (VxŠxD)                                   29089.15   27 785407.06 196351.77
+SAT LINE - antenska tehnika                                                              0   10      0.00      0.00
+Pokrov lučne komore za MO3, 4-polni (kao rezervni dio)                                4970   25 124250.00  31062.50
+Sig. Svj. ZAA 230VAC, 8h, autot., -25°C do35°C,vanjska bat.                        2253.97    9  20285.73   5071.43
+Pokrov lučne komore za MO2, 4-polni (tvornički ugrađen)                               4970   13  64610.00  16152.50
+MINI ALU TRACK Produžetak                                                            15.54   15    233.10     58.28
+QUAD 1 XL LED zidna svjetiljka 3,2W 3000K, četvrtasta, antr.                        687.83   22  15132.26   3783.06
+Prednja ploča antenske utičnice sa 3 otvora, biserno bijela                          26.33   21    552.93    138.23
+Pokrov/kabelska polica DW4H gornja/donja,Š= 500mm,D=110mm                             6018   22 132396.00  33099.00
+Standardna bakrena sabirnica, 20x5mm |320A| 2.4m,pokositrena                         520.6    5   2603.00    650.75
+Završna pločica, plava, za stezaljku CBD10                                            1.54    6      9.24      2.31
+Varistor 24-48VAC / 24-70VDC, za sklopnike veličine 00                               28.06   20    561.20    140.30
+Nosač RC senzora pokreta, bijeli                                                    152.48   24   3659.52    914.88
+Otvoreni prekidač, 3P, 66kA, 1600A, fiksni,vod. str. priklj.                      29318.29   11 322501.19  80625.30
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1523661.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

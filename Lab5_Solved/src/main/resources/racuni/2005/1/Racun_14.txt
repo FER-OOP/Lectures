@@ -1,0 +1,21 @@
+Račun br. 453633
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+DEVIN SINGLE zidna svjetiljka, E14, max. 15W, okrugla, krom                         625.15   24  15003.60   3750.90
+BARRO stropna svjetiljka, CL-1, krom, GU10, max. 50W                                437.43   12   5249.16   1312.29
+Zaštitni prekidač, B karakteristika, 6A, 1-polni, 6kA                                25.68   19    487.92    121.98
+Serijski ormar AS, 2-vrata, 2000x1000x400(VxŠxD),bez MP,7035                       4423.52    9  39811.68   9952.92
+"Optički prespojni panel 19"", 1U, uklj. 24 spojnice LC MM"                         1028.6    7   7200.20   1800.05
+"Natpisna pločica, ""Hand Auto"", 12.5 x 28mm, natična"                               3.09   10     30.90      7.72
+Nadgradna svjetiljka SAO ECO T5 1x35W ECG, bijela                                    332.3   17   5649.10   1412.27
+7517A/C, LED AR111 G53 17w CW 45 ° 12V AC/DC                                        117.76   16   1884.16    471.04
+Nevil-Q LED 4x1W 3000K 180lm,dimabilna,350mA,IP20,aluminij                           77.21   25   1930.25    482.56
+
+                                                                                                         ----------
+UKUPNO                                                                                                     77246.97
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

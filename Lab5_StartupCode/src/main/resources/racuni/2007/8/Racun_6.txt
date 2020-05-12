@@ -1,0 +1,30 @@
+Račun br. 387349
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Industrijska svjetiljka SCUP AL 1x250W HS/HI IP23 E40                               647.23   23  14886.29   3721.57
+Vrata, metalna, visoka za MODUL 160, 3x24 modula                                      4172    3  12516.00   3129.00
+Skidač izolacije i folije instalacijskih kabela                                     110.78   13   1440.14    360.04
+Nosač MO 7M s vijcima                                                                11.56   25    289.00     72.25
+PREDNJA PLOČA, S OTVOROM, 2G3K, DUGA                                                  4160   17  70720.00  17680.00
+Kabel E-Y2Y-J 5x6RE                                                                  10000   10 100000.00  25000.00
+Telekomunikacijski kabel BTX modem F-vYDvF 4x0,5/1 žuti                               6900   27 186300.00  46575.00
+GRAFIT, zidna svj., antracit, E27, max.11W                                          343.49    7   2404.43    601.11
+Berry LED 30W, 4000K, 1800lm, 230V, IP65, plastika,bijele b.                        510.42   13   6635.46   1658.86
+TRITON GIMBLE LED 3x1W, mat bb, LED tople bb                                        345.33   15   5179.95   1294.99
+"Opt. razdjelnik, 24 niti,LC,9/125µm OS2, izvlačivi,19"",1U"                       1004.04   21  21084.84   5271.21
+Bezhal. kabel poboljšanih svoj.za sl. požara N2XH-J 4x150sm                          10000   14 140000.00  35000.00
+Kabel 6mm2, crni, TÜV odobrenje, pakiranje 500m                                    1320.04   12  15840.48   3960.12
+Formo LED panik svj. 3h,21W,3000K,1650lm,IP65,230V,bb                               563.48    7   3944.36    986.09
+Tipka (pokrov) za svjetleće tipkalo, bijela, plosnata                                 2.27   26     59.02     14.76
+Stražnja ploča za nazidni Modul 2000 | 5R-33                                        465.25    7   3256.75    814.19
+Phos B41 kratka poluga za stup 76mm crna antracit SABLE NOIR                          3936   24  94464.00  23616.00
+Maria-WL-R LED 6W 3000K 440lm, IP54, bijele boje                                    377.96   27  10204.92   2551.23
+
+                                                                                                         ----------
+UKUPNO                                                                                                     689225.7
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

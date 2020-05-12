@@ -1,0 +1,14 @@
+Račun br. 756803
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Netbook  uključen  Wireless Control SW and Coordinator                             8951.59   19 170080.20  42520.05
+Kabel H05VV5-F 34x1 sivi                                                             10000    1  10000.00   2500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     180080.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

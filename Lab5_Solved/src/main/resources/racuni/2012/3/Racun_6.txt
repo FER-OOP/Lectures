@@ -1,0 +1,32 @@
+Račun br. 237904
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ugradna svjetiljka SEO ECO T8 4x18W ECG M625, bijela                                370.77    4   1483.08    370.77
+Tenora PD-1 ovjesna svjetiljka, E27, 3x60W, crne boje/krom                         1188.46   10  11884.60   2971.15
+Aluminijska spojnica na prešanje sa Cu završetkom, 95mm²                              7031    2  14062.00   3515.50
+OTDR mjerenje uklj. protokol za SM (9/125µm)                                        306.06   19   5815.14   1453.79
+"Samostojeći komunikacijski ormar DS 800x1525x800, 19"", 32U"                      3617.79   20  72355.80  18088.95
+AOL 100 LED 5K svjetiljka sa senzorom 140°, bijela                                 2426.76   15  36401.40   9100.35
+MD-C 360i/24 senzor pokreta Serije C 360° Ø 24 m bijeli                            1245.86    8   9966.88   2491.72
+Pozivno tipkalo, umetak, 24V DC, max. 20mA                                            2104   15  31560.00   7890.00
+Pomoćni kontakt za sklopnik vel. 0-12, 1 N/O, raniji kontakt                         23.72   24    569.28    142.32
+CRISTAL SMALL LED 4x1W 4000K SIM. 40° INOX + ugradna kutija                        2102.09   12  25225.08   6306.27
+Arno-R/A1 LED 10W 4000K 850lm, IP65, sive boje                                      403.13   16   6450.08   1612.52
+"3-struki okvir ""Scala"", biserno bijeli"                                           26.84   14    375.76     93.94
+Završna pločica za stezaljku IK660004--, siva                                         4.87    4     19.48      4.87
+Nadgradna svjetiljka SALENA LED 29W 3000lm/830 ECG,bb                               769.95   20  15399.00   3849.75
+Kompaktni prekidač snage tip A, 4P, 150kA, 25A                                      3035.6   16  48569.60  12142.40
+Grebenasta sklopka (glavna, sivo/crna), 0-1/3P/125A, na DIN                         802.32   26  20860.32   5215.08
+Panik svjet. KC Wireless sa aku.bat LED 8h 230VAC zidna                            1513.45   24  36322.80   9080.70
+FID sklopka 100-4-05/AC, 10kA                                                       583.77   20  11675.40   2918.85
+Voltmetarska preklopka, 1P, L-L/L-N, na DIN nosač                                   209.44    4    837.76    209.44
+Stropni ovjes za WAVE krom                                                           50.01    8    400.08    100.02
+
+                                                                                                         ----------
+UKUPNO                                                                                                    350233.56
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

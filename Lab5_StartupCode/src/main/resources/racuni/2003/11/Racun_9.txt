@@ -1,0 +1,14 @@
+Račun br. 648476
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Produžetak kabela za proizvode sa 350mA konektorom, 1m                                37.5   20    750.00    187.50
+FID sklopka AMPARO, 40-2-003/AC, G izvedba, 10kA                                    906.36   27  24471.72   6117.93
+
+                                                                                                         ----------
+UKUPNO                                                                                                    25221.719
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

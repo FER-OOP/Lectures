@@ -1,0 +1,31 @@
+Račun br. 1099163
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Optička spojnica SC sx, plast., met. košuljica, MM                                    9.94    4     39.76      9.94
+LED Downlight 100 - IP43 | CRI/RA 97  topla bijela                                  472.85   26  12294.10   3073.53
+Konektiranje 2x24 SC SM utikača + zašt. za povlačen                                6756.64    6  40539.84  10134.96
+Bimetalni relej, područje podešenja 0.27-0.4A                                       160.45   29   4653.05   1163.26
+Tipkalo (1 N/O), kompletno, 10A, na vijak, bijelo                                    21.41    3     64.23     16.06
+Bezhalogeni kabel s el. funkc. do90 Min. (N)HXH-J4x35rmE90                        20112.48    3  60337.44  15084.36
+SPHERE WIRE, PD-1, aluminij, GY6.35, max.20W                                        404.74    1    404.74    101.18
+Instalacijski sklopnik 25A | 2 N/C | 24V AC                                          123.5    3    370.50     92.63
+Kompenzacija  LSFC 7% 200/12,5kvar 600x2000x400mm Sam.orm.                        57571.08   17 978708.31 244677.08
+N/Ž okvir + vrata 3A-21 D=250mm str.ploča+zakr. ručica, IP54                       2925.07    6  17550.42   4387.60
+Ina-R/A2 LED 9W 3000K 700lm, 700mA, IP20, bijele boje                               483.73   26  12576.98   3144.25
+KARDAMOD SURFACE četvrtasti QRB DOUBLE stropna svj., crne b.                       1558.31   18  28049.58   7012.40
+89060V, DRIVER 24v 0-60w IP20 230v                                                  304.97   12   3659.64    914.91
+Prednja ploča, čelična, sa otvorom za uređaje, 3G4                                    4160    6  24960.00   6240.00
+DEBASTO LED COB SPOT, 7W, 3000K, okrugla, crne boje                                 813.03   19  15447.57   3861.89
+HALOSPOT111 EnergySaver, 12V, 3000K, 50W, 24°, OSRAM                                  95.8    6    574.80    143.70
+Utičnica s poklopcem, 16A, umetak, bijela                                            41.87   10    418.70    104.67
+UPS Premium Dual ER 2200VA 1760W 0 min.1/1-fazni/Online                            8889.75    9  80007.75  20001.94
+Philips CorePro LED spot GU10, 4.5W, 36°, 2700K                                     124.52   26   3237.52    809.38
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1283895.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,26 @@
+Račun br. 1000691
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ovjes sa stropnom rozetom, 1,2m                                                      79.11   23   1819.53    454.88
+Okomita vodilica kabela za DS/DSZ/DSI ormare 37U                                    232.99   21   4892.79   1223.20
+NV osigurač vel. 00, 80A/400V AC                                                     19.35   15    290.25     72.56
+Rast.sklopka 0-1,za razdj. siva, 3-polna, 20A                                         4360    3  13080.00   3270.00
+89242/ELE, 2x26w/2x32w/2x42w PL elektronska prigušnica                               35.65   20    713.00    178.25
+Kompenzacija ožičena  46,88/3,13kvar 500x500x300mm zidni orm                      11503.87   27 310604.50  77651.13
+Ugradna kutija-šuplje stijenke, dupla, 2x60/47mm narančasta                         753.67   29  21856.43   5464.11
+Izmjenjivač Phoenix C 24/1600 24VDC / 1600VA                                       6932.09   23 159438.06  39859.52
+Sutil Quadro LED 30W, 3000K, 1800lm, 120°, IP40, sive boje                          344.67   28   9650.76   2412.69
+FIN XS Pole 30 4W LED 4000°K, 300lm, siva                                          1999.54    5   9997.70   2499.43
+Samostojeći ormar, 1-vrata, 1800x800x500 (VxŠxD), RAL 7035                         3902.51   18  70245.18  17561.29
+Montažna ploča za IP54, 5A-33                                                         4160   12  49920.00  12480.00
+Svijetleći modul za kućni broj, POWERCOM                                             470.2   26  12225.20   3056.30
+Uzidni razdjelnik za ugradnju u puni zid, 1-redni/12+2, IP40                        156.62    1    156.62     39.15
+
+                                                                                                         ----------
+UKUPNO                                                                                                     664890.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

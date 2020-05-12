@@ -1,0 +1,26 @@
+Račun br. 480630
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+9S23/BL/E, 23W E27 , plave boje                                                       39.7    6    238.20     59.55
+Uzidni okvir s vratima+umetak, 2U-24, 100mm (plosnati)                             1709.32    6  10255.92   2563.98
+P/Ž inst. razdj. 5U-42,14-redni,798ŠM,2025x1230x250mm(VxŠxD)                       7790.23   16 124643.68  31160.92
+Nadgradna svjetiljka SALENA LED 29W 3000lm/830 ECG,bb                               769.95   11   8469.45   2117.36
+Bezhalogeni jednožilni vodič H07Z-K 6mm2, smeđi                                      10000    5  50000.00  12500.00
+Samostojeća svjetiljka SVO TC-L 4x55W senzor + dim                                 6314.81   13  82092.53  20523.13
+KARDAMOD SURFACE DOUBLE QRB111, srebrne boje                                       1558.31   17  26491.27   6622.82
+Finožični PVC-om izol. vodič H07V-K (P/F) 1,5mm2, ljub. HPV                          10000   25 250000.00  62500.00
+Kompaktni prekidač snage tip VE, 3P, 50kA, 400A                                    5408.12   28 151427.36  37856.84
+Prekidački/dimerski aktuator, 8 DALI, 8 x EVG po izlazu                            2775.39   12  33304.68   8326.17
+Paralelna spojnica za stezaljku DAS, 250mm, 4mm2                                      9.27    9     83.43     20.86
+P/Ž inst. razdj. 1U-28,9-redni,117ŠM,1380x380x250mm(VxŠxD)                          3284.8    2   6569.60   1642.40
+SMD LED žarulja, oblik svijeće, mat, E14, 5W, 3000K, 400lm                           43.25    5    216.25     54.06
+Halogena žarulja HALOLUX 64542 B ES 28W E14, bistra                                  21.87   19    415.53    103.88
+
+                                                                                                         ----------
+UKUPNO                                                                                                    744207.94
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

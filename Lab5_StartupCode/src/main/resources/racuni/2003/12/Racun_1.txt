@@ -1,0 +1,29 @@
+Račun br. 572458
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zaštitni prekidač, C karakteristika, 4A, 1-polni+N, 6kA                              90.53    5    452.65    113.16
+Signalni fleksibilni kabel YSLY-OZ 10x0,75 sivi                                      10000   30 300000.00  75000.00
+7103LG/W, G9 LED 2,5w WW 230v                                                        33.11   10    331.10     82.78
+Zaštitni pokrov vodiča brojila                                                        4160    6  24960.00   6240.00
+Shelf Strip Door on/off                                                             109.99   10   1099.90    274.98
+Ind.svj.ARKTUR SQUARE LED 147W 15900lm/757 ECG IP65 120x40°                        3272.37   21  68719.77  17179.94
+Kada za brojilo, 3 ploče za brojilo u jednom redu, 3-reda                          1153.11   16  18449.76   4612.44
+TRITON GIMBLE LED 6x1W, mat bb, LED tople bb                                        694.85   13   9033.05   2258.26
+Nadgradna svjetiljka AOTF-O 2x36W ECG, sa opalnim pokrovom                          487.68   22  10728.96   2682.24
+INA-R/T GU10 PAR16 50W bez ruba, IP20, bijele boje                                   106.1    7    742.70    185.68
+Svjetleće tipkalo s plosnatom tipkom, crveno                                         28.62   18    515.16    128.79
+Instalacijski set PlanoSet RQ, crni                                                 293.85   20   5877.00   1469.25
+Marra LED traka 19,2W/m 4000K 1300lm/m, dimabilna, IP20                             879.43   22  19347.46   4836.86
+Zakretna ručica s produžnom osovinom, zaključavanje, za MZ1                         180.55   13   2347.15    586.79
+Izolir traka, žuto/zelena, 15mm x 10m - COROPLAST                                     6.45   28    180.60     45.15
+Izolirani kabelski tuljak, dvostruki, sivi, 2x0.75mm²/8mm                             0.21    8      1.68      0.42
+Henry-II-S 20W E27, 100-240V, IP20, natural                                        1060.73    1   1060.73    265.18
+
+                                                                                                         ----------
+UKUPNO                                                                                                     463847.7
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

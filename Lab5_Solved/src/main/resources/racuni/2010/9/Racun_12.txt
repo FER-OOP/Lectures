@@ -1,0 +1,20 @@
+Račun br. 458050
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kronos-II-S/A2 2x70W G12, 230V, IP20, sive boje                                      79.07   29   2293.03    573.26
+SITRA WALL UP-DOWN zidna svj., kam.siva                                             514.14   12   6169.68   1542.42
+Baterija RPOWER OGiV 12/90Ah, longlife: 10-12 god.                                 1625.09   18  29251.62   7312.91
+Kutni profil, duljina 1m                                                              57.8    4    231.20     57.80
+Ted-I-R 2x26W G24d-3, 230V, IP20, brušeni krom                                        5.74   20    114.80     28.70
+Optička spojnica SC sx, plast., ker. košuljica, SM                                   17.82   25    445.50    111.38
+PURI 2 stropna svj., srebrna b., GU10, max. 2x50W                                   468.69   15   7030.35   1757.59
+Kompenzacija  LSFC 14% 350/25kvar 800x2110x500mm Samost.orm.                      91200.63   151368009.50 342002.38
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1413545.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

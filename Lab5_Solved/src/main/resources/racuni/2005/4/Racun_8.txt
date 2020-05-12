@@ -1,0 +1,26 @@
+Račun br. 240548
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Prespojna ploča, 6 izlaza, max.700mA,crne b.                                         58.62   14    820.68    205.17
+USB 2.0 A-B mini kabel, A muški - mini B muški, crni, 1.5m                           10.66   21    223.86     55.97
+SAT z. utičnica 3-struka,R/TV/SAT,kl.A,okvir+kućište,RAL9010                         39.46   30   1183.80    295.95
+Izolirana natična stopica, 6.3, žuta, 4-6mm2 (pak.=100 kom.)                         96.46    5    482.30    120.57
+LED prespojni kabel RJ45 oklopljen,500 MHz,Ea,10GB,sivi,0.5m                         34.61   11    380.71     95.18
+Industrijska svjetiljka LAMBDA 265/435 400 HIE IP65 uski s.                        1405.22   24  33725.28   8431.32
+Zakrilni vijak 30 mm                                                                  4.46    1      4.46      1.12
+Radne cipele broj 46                                                                731.84   18  13173.12   3293.28
+Svjetiljka bljeskajuća crvena 24V AC/DC                                             881.35   10   8813.50   2203.38
+Kabel H03VV-F (PP/L) 3x0,75mm2, žuti 100m kolut                                      10000    3  30000.00   7500.00
+Kompaktni prekidač snage tip A, 3P/40A/50kA, utični, MC1                           1708.03   11  18788.33   4697.08
+Bela Alto-R 20W E27, 100-240V, IP20, crne boje                                      351.77   14   4924.78   1231.19
+Sklopnik vel. 00 | 4kW (9A) [AC-3] | 230VAC, 50/60Hz |1 N/O                         107.32    6    643.92    160.98
+OUT 65 Downlight, srebrne boje                                                       187.2   17   3182.40    795.60
+
+                                                                                                         ----------
+UKUPNO                                                                                                    116347.15
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

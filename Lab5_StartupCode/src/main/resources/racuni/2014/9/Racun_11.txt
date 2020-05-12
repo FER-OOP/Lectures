@@ -1,0 +1,31 @@
+Račun br. 576142
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+GLENOS kutna spojnica OUTSIDE, 90°, za Alu Profile, crne b.                          93.26   11   1025.86    256.46
+PL Modul za AIXLIGHT PENDANT SYSTEM, srebrne boje,2xTC-L,36W                        813.03   30  24390.90   6097.73
+Serijski ormar AS, 1-vrata, 2000x600x600 (VxŠxD),bez MP,7035                       3643.39   27  98371.52  24592.88
+Označne pločice '301-350', Dekafix DY5 (sadrži 50 oznaka)                             8.45   13    109.85     27.46
+T5 GRILL UNI 4x24W,stropna svjetiljka sa satiniranim staklom                       2809.97   15  42149.55  10537.39
+LED DMX kontroler Stick GA2 - bijele boje                                          5495.69    1   5495.69   1373.92
+Aluminijski montažni nosač 5H                                                        31.94   17    542.98    135.74
+Uzdna kada za šuplji zid, za BK072.., KVH, 1R, 12+2 modula                          106.28   26   2763.28    690.82
+Kabel EYY-O (PP00) 4x6RE                                                             10000    6  60000.00  15000.00
+SLOTBOX 70 podna svj.,četvrtasta, antracit, 4.5W LED                               1250.97    9  11258.73   2814.68
+"Magis 3,5"" COLOR monitor, bijeli, za SBC/KIT sistem"                             2383.54   11  26218.94   6554.74
+Kapa kondenzatora LKT Ø60                                                             5110   29 148190.00  37047.50
+"Optički prespojni panel 19"", 1U, uklj. 8 spojnica SC SM"                          579.71   13   7536.23   1884.06
+LED LINK LINE sabirna točka 12xRJ45 cat.6a,12xk.bl.in.kab.                          835.14    6   5010.84   1252.71
+LS-FI (KZS), B/16A/100mA, 2P, Tip A, 10kA                                             4281   24 102744.00  25686.00
+KNX dimer, HM, 20-500VA                                                            1532.58   25  38314.50   9578.63
+Završni poklopac CLI ravni sa rupom i vijcima                                        87.09   24   2090.16    522.54
+Trostruka IT utičnica za kanale SIGNA, RAL9010                                        4866   28 136248.00  34062.00
+Ravni vezni element PK 110*70                                                        12.62    9    113.58     28.40
+
+                                                                                                         ----------
+UKUPNO                                                                                                     712574.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,18 @@
+Račun br. 578123
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+L-SE el. uložak DM 2x54W ECG                                                         274.9   22   6047.80   1511.95
+MUG - Multi User Gateway za VIP                                                    3695.38   27  99775.26  24943.81
+Vezica 203 x 4.6mm, crna (pak.=100 kom.)                                             22.35   11    245.85     61.46
+Umetak 1-polne sklopke, sa indikacijom, na oprugu                                    16.72   25    418.00    104.50
+Instalacijski sklopnik 63A | 4 N/C | 24V AC, 3ŠM                                    496.45   13   6453.85   1613.46
+Iris-R 55W 2GX13, 230V, IP20, sive boje,prsten narančaste b.                        298.38   25   7459.50   1864.88
+
+                                                                                                         ----------
+UKUPNO                                                                                                    120400.26
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

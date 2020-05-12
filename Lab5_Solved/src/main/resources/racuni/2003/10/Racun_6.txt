@@ -1,0 +1,27 @@
+Račun br. 353883
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Aria-TR-R/A2 75W G53 AR111, 12V, IP20, bijele boje                                   51.36    8    410.88    102.72
+Signalni fleksibilni kabel YSLCY-OZ 18x 0,75 sivi                                    10000    7  70000.00  17500.00
+Otvoreni prekidač, 3P, 80kA, 1600A, fiksni, prednje priklj.                       32546.55   16 520744.81 130186.20
+Lumo Round LED Downlight, 24W, 4000K, 1550lm, IP44, bijela                          318.15   28   8908.20   2227.05
+Prekidač otvoreni, vel.3, 3pole, 6300A, 100kA,izvlačivi                              10000    5  50000.00  12500.00
+Stražnja ploča za nazidni Modul 2000 | 1R-21                                        106.13   24   2547.12    636.78
+SYROS kućište za LINUX LIGHT, srebrne boje                                          249.72   27   6742.44   1685.61
+Mura-II-45-R LED 1W 3000K, IP54, aluminij                                           139.22   24   3341.28    835.32
+Cinda-IV-R 10W G4, 12V, IP20, krom                                                   39.36   18    708.48    177.12
+"Natpisna pločica, ""FAULT"", 17.5 x 28mm, natična"                                   8.13    6     48.78     12.19
+Finožični PVC-om izolirani vodič H07V-K (P/F) 6mm2, smeđi                            455.4   16   7286.40   1821.60
+Bakrena sabirnica 204A, 20x3mm, duljina 2m                                            4822   27 130194.00  32548.50
+Umetak brave, double-bit 3mm                                                         23.23   19    441.37    110.34
+OUT 65 LED DL okrugli Set, 9W, 3000K, 38°, uklj.napajanje,sb                        437.43   29  12685.47   3171.37
+Zaštitni prekidač AMPARO 6kA, B 13A, 1P+N                                            45.86   23   1054.78    263.70
+
+                                                                                                         ----------
+UKUPNO                                                                                                    815113.94
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

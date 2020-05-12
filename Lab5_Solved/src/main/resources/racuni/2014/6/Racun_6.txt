@@ -1,0 +1,23 @@
+Račun br. 663300
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Izolir traka, ljubičasta, 15mm x 10m - COROPLAST                                      5.69   28    159.32     39.83
+Serijski ormar AS, 1-vrata, 1800x800x400 (VxŠxD), RAL 7035                         3957.19   26 102886.94  25721.73
+Vodotijesna svjetiljka LINDA Industrie PC 1-36W ECG IP65                            316.63   22   6965.86   1741.46
+PRIORI FID sklopka 40-4-003/A, G izvedba                                           1131.45   22  24891.90   6222.97
+316 ANALOG-Panel Video s 10 tipki, nehrđajući čelik, VIP                           16712.8   15 250692.02  62673.00
+D02 rastavna sklopka ARROW S, 3-polna, 35A                                          278.24    4   1112.96    278.24
+NV podnožje 1P, vel.1|250A, na ploču, M10, zaštita od dodira                         187.1   21   3929.10    982.28
+"Grebenasta sklopka, ""MAN-0-AUT""/1P/20A, na DIN nosač"                            137.62   24   3302.88    825.72
+LED GU10 žarulja, 4W, SMD LED, 3000K, 40°,                                           93.26   13   1212.38    303.10
+TRITON 3 LED, okr., mat bijele b.,3x1W LED, neutr. bijele b.                        374.92   17   6373.64   1593.41
+9S13/R/E, 13W E27 , crvene boje                                                      16.05    3     48.15     12.04
+
+                                                                                                         ----------
+UKUPNO                                                                                                    401575.12
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

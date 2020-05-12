@@ -1,0 +1,32 @@
+Račun br. 254456
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"19"" napojna letva,7xIEC C13+prenap. zašt.,kabel 2m,crna,alu"                         246   21   5166.00   1291.50
+Levante-S 16 LED 38W 3105lm 3000K asim.,IP66,SKII,antracit                         2629.01    2   5258.02   1314.51
+UPS Premium Plus 2200VA 1760W 6 min.1/1-fazni/Online                               6373.78   17 108354.26  27088.56
+15° reflektor 0702                                                                   21.96   12    263.52     65.88
+Finožični PVC-om izol. vodič H07V-K (P/F) 6mm2, tamnopl. HPV                         10000   11 110000.00  27500.00
+KABEL E-AYY-J (PP00-AL)  4X50 SM                                                   2853.84   11  31392.24   7848.06
+GRAFIT, zidna svj., antracit, E27, max.11W                                          343.49   25   8587.25   2146.81
+LED-napajanje, 8VA, 350 mA                                                          124.69    5    623.45    155.86
+CARISO 2,  LED zidna svjetiljka, 7,5W LED, 3000K, bijele b.                         938.06    6   5628.36   1407.09
+9R05/W/SE, 5W E14 WW R50                                                              3.37   12     40.44     10.11
+Luxa 102 FL, LED spot 16W, 6000K, zidna, IP44, crna                                 798.81    4   3195.24    798.81
+MR16 SP Downlight, krom mat                                                          73.22   25   1830.50    457.63
+LED OUTDOOR BEAM, srebrne boje,50W, LED tbb,130°                                   1685.54   19  32025.26   8006.32
+Kompaktni prekidač snage tip A, 4P/25A/25kA, MC1                                   1135.75   25  28393.75   7098.44
+Redna stezaljka (vijčani priključak) 16mm², plava                                     6.75   25    168.75     42.19
+Poklopac 380x280x30mm sivi - D-G                                                     312.2    4   1248.80    312.20
+SLOTS WALL, 6,3W LED, tople bijele boje, antracit                                   813.03    9   7317.27   1829.32
+Pribor za montažu parcijane MP u AS/KS ormare 800x600 (ŠxD)                         490.59    6   2943.54    735.89
+Signalni fleksibilni kabel YSLY-JZ 4x35 sivi                                         10000    3  30000.00   7500.00
+LED DMX kontroler Touch DW crne boje                                                836.68   28  23427.04   5856.76
+
+                                                                                                         ----------
+UKUPNO                                                                                                    405863.72
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

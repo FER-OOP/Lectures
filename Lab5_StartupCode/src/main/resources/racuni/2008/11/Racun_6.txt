@@ -1,0 +1,19 @@
+Račun br. 341323
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kabel YSLYQY-JZ 4x 0,75 prozirni                                                     10000   25 250000.00  62500.00
+Ulična svj. RUBINO LED 55W 6000lm/757 ECG IP66, klasa II,sb                        2525.48    9  22729.32   5682.33
+Halogena žarulja QR-LP 111 ECO 60W SP 6° G53                                        124.41   27   3359.07    839.77
+"Preklopnik 24x10/100/1000+4xSFP dijeljeno,SNMP,stack,19"""                        4237.82   20  84756.40  21189.10
+Debasto LED zidna i stropna svjetiljka, 8W, 3000K, sive boje                        875.55   10   8755.50   2188.88
+Reed-II-R 150W Rx7s, 230V, IP20, brušeni krom                                         7.77   10     77.70     19.42
+DC sklopnik | 5.5kW | 24V DC | 3N/O + 1N/O pomoćni kontakt                          317.82   13   4131.66   1032.92
+
+                                                                                                         ----------
+UKUPNO                                                                                                    373809.62
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

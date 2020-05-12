@@ -1,0 +1,24 @@
+Račun br. 1021718
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Samoljepivi držač vezica do 3.6mm                                                   126.25    5    631.25    157.81
+Signalni fleksibilni kabel YSLCY-OZ 7x0,75                                           10000   18 180000.00  45000.00
+"Natpisna pločica, ""AUS EIN"", 17.5 x 28mm, natična"                                 8.13    5     40.65     10.16
+Montažni nosač 1C                                                                     8.29   14    116.06     29.01
+Telefonski set za zaštitu IP54 za razvodni ormar 01                                 712.34   13   9260.42   2315.10
+Finožični PVC-om izol. vodič H05V-K (P/F) 1mm2, žuti HPV                             10000   29 290000.00  72500.00
+Univer.opt.kabel A/I-DQ(ZN)BH 8x50/125µm OM2, LS0H-3, nm.                           749.91   22  16498.02   4124.50
+Sutil Round  LED 3W, 4000K, 210lm, 120°, IP40, bijele boje                           99.51   26   2587.26    646.82
+7305BG/C/50, LED 5w CW GU10 50 ° 220-240v                                            58.12   27   1569.24    392.31
+Okvir 4x2M line, smaragdni                                                          148.81    9   1339.29    334.82
+Finožični PVC-om izolirani vodič H07V-K (P/F) 10mm2, zeleni                          10000   15 150000.00  37500.00
+3P sabirnica za pet motornih zaštitnih sklopki vel.00/0                              46.58    5    232.90     58.22
+
+                                                                                                         ----------
+UKUPNO                                                                                                    652275.06
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

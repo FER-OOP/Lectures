@@ -1,0 +1,28 @@
+Račun br. 743143
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Bezhalogeni kabel s el. funkc. do30 Min. (N)HXH-O1x50rmE30                           10000   25 250000.00  62500.00
+Ugradna svjetiljka SEP T5 4x24W, ECG, M600 bijela                                   335.55    6   2013.30    503.32
+Pomoćni kontakt (LA3007-LA3074), 6A (230V, AC15), 1 N/O                              23.57    8    188.56     47.14
+Ugradna svjetiljka SERH 2 A8 L1 T5 1x54W, ECG, bijela                                 8534   27 230418.00  57604.50
+Kabelska stopica viličasta, izolirana, crv.0,5-1,0mm², M5                            57.29   23   1317.67    329.42
+Sklopnik vel.3 | 4P | AC1 110A/690V | 24VAC                                         879.84    4   3519.36    879.84
+Krajnji komad za kanal SIGNA 70/110 RAL 9001                                         61.58   10    615.80    153.95
+Okrugla fluo cijev T16-R 55W/830 2G13                                               115.11   10   1151.10    287.77
+IVED Gooseneck sa rozetom, tople bb                                                  675.5   11   7430.50   1857.63
+Geluce LED PR1 opal svj. 1x51W, DALI 3900lm/840, M625, 9003                        2128.46   21  44697.66  11174.42
+PT podnožje 14-polno za PT5x releje, 6A                                              21.29   27    574.83    143.71
+Lingo LED 1W 3000K 60lm, 24V, dimabilna, IP20                                        29.39   20    587.80    146.95
+Obujmica za oluk, nehrđajući čelik V2A, Ø80mm                                        17.99    5     89.95     22.49
+Podžbukna kutija za MAXI monitor, 212x115x50 mm                                      65.74   12    788.88    197.22
+SOPRANA,ovjesna svjetiljka,PD-1,četvrtasta,bb tekstil,4xE27                        1433.11   19  27229.09   6807.27
+Utičnica s prenaponskom zaštitom (2,5kA), umetak, bijela                           1108.94   15  16634.10   4158.52
+
+                                                                                                         ----------
+UKUPNO                                                                                                     587256.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

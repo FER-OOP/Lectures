@@ -1,0 +1,29 @@
+Račun br. 1040058
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Uzdužna stranica, 12 visinskih jedinica (100 mm)                                     276.6   22   6085.20   1521.30
+Lano Quadro 40W, M600, 4000K, 3200lm, IP20, 950mA, bijele b.                        364.61   14   5104.54   1276.14
+MIBO Wall Up/Down, zidna svjetiljka, 2xG9                                           362.58   27   9789.66   2447.41
+Zaštitni prekidač, C karakteristika, 32A, 3-polni+N, 10kA                           239.09   27   6455.43   1613.86
+Okomita vodilica kabela za DS/DSZ/DSI ormare 45U                                    284.96   18   5129.28   1282.32
+Dvokrilna vrata puna, za kom. ormare, 45U, Š=600 mm                                1037.69   16  16603.04   4150.76
+Odvodnik prenapona COMBTEC kl.B/C TT 275/12,5                                      2093.79   27  56532.33  14133.08
+Kompaktni prekidač snage tip AE, 3P, 85kA, 1000A                                  16326.14    8 130609.12  32652.28
+MOTUS hibrid motor starter 0.18-2.4A, montaža na DIN nosač                         1505.86   21  31623.06   7905.76
+Sutil Round  LED 12W, 3000K, 720lm, 120°, IP40, bijele boje                         172.33   16   2757.28    689.32
+Zaštita za sabirnički sistem izl.32 mm za ARROW BLUE vel.00                           4821   12  57852.00  14463.00
+NV kratkospojnik 630A, vel.3                                                         94.43   29   2738.47    684.62
+WALLYX GU10 zidna svjetiljka,bi.b.                                                  500.12   21  10502.52   2625.63
+Univerzalni elastični poklopac za razv.kut. 70mm bijeli                             100.97   25   2524.25    631.06
+Ukrasni prsten 51mm za GU10, bijela b.                                               31.25   29    906.25    226.56
+Gina LED 1/3W, 3000K, 200lm, 350/700mA, IP20, 40°, alu                               95.29    7    667.03    166.76
+Master License za MUG, 10 korisnika                                                12534.6   27 338434.19  84608.55
+
+                                                                                                         ----------
+UKUPNO                                                                                                     684313.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

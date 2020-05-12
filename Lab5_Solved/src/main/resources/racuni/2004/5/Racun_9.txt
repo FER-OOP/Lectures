@@ -1,0 +1,19 @@
+Račun br. 717594
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Set za montažu na zid (2 kom.), za kućišta IG707...                                  12.11    6     72.66     18.16
+Otvoreni prekidač, 3P, 66kA, 1000A, fiksni, prednje priklj.                       15570.55   30 467116.50 116779.13
+D02 rastavna sklopka CORON 2, 3-polna, 35A fiksno                                   305.14   18   5492.52   1373.13
+Daljinski isklopnik za MC2, 110-130V AC/DC za MC2                                   400.74   22   8816.28   2204.07
+Razdjelnik nazidni, IP40. 2-redni, 36 modula, bijela vrata                           158.7   13   2063.10    515.77
+"Natpisna pločica za umetanje fi=28mm, prozirna, ""RESET"""                           3.09   18     55.62     13.90
+Zamjenjiva skala, 96x96mm, 500/1000/5A AC                                             4399   18  79182.00  19795.50
+
+                                                                                                         ----------
+UKUPNO                                                                                                     562798.7
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,21 @@
+Račun br. 607731
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Punto-Q/A1 LED 7W 3000K 513lm,dimabilna,700mA,IP20,aluminij                          95.29    8    762.32    190.58
+Ugradna downlight svjetiljka EQM 211 2x18W CCG TC-D, bijela                         325.94    8   2607.52    651.88
+N/Ž inst. razdj. 2A-18, 6-redni, 126 ŠM,915x590x250mm                               2378.5    1   2378.50    594.63
+Ugradna svjetiljka SEO ECO T8 2x36W ECG M625, bijela                                389.85   30  11695.50   2923.88
+Kompaktni prekidač snage tip A, 3P/125A/25kA, MC1                                  1262.98   20  25259.60   6314.90
+LED MEGAMAN GU10, 4,5W, 2800K, 240lm, 1300cd, Ra 82, 24°                            162.89   14   2280.46    570.11
+Kabelska uvodnica, gumena, M25                                                        4.12   24     98.88     24.72
+Završna pločica za stezaljku IK641002--, siva                                         9.23   16    147.68     36.92
+Paralelna spojnica, 25mm2 za vel.00, 4P                                              27.45    4    109.80     27.45
+
+                                                                                                         ----------
+UKUPNO                                                                                                    45340.258
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

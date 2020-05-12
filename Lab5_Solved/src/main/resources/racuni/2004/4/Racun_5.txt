@@ -1,0 +1,15 @@
+Račun br. 1016499
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+EASY 721 DC TC, 24VDC, 12 dig. ulaza,8 tranzistorskih izlaza                       1587.98   21  33347.58   8336.89
+LED 4W GU5,3 12V 2800K 24° 650cd                                                    180.42   24   4330.08   1082.52
+Rob-I-S LED 3W 3000K 150lm, IP20, bijele boje                                       505.69   21  10619.49   2654.87
+
+                                                                                                         ----------
+UKUPNO                                                                                                     48297.15
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

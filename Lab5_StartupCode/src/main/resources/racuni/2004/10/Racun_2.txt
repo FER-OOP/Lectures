@@ -1,0 +1,28 @@
+Račun br. 429181
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+HQI-TS žarulja, 70W, WDL                                                            155.78   12   1869.36    467.34
+Linda LED Transparent 2x24W, 4000K, 6492lm, IP65                                   1187.48   24  28499.52   7124.88
+Pokrov 280x280x80mm sivi - C-GH                                                     337.54   20   6750.80   1687.70
+Newton asimetrični reflektor 9 LED 75W 4000K, IP66, RAL9006                        5612.82    2  11225.64   2806.41
+Tipka sa simbolom ključa, termički postojana, biserno bijela                         29.18   15    437.70    109.43
+Nosač sabirnica 3P za sustav 60mm, kratki                                            51.54   19    979.26    244.81
+GLENOS PROFILE 2609, 2m, crne boje                                                  312.23    6   1873.38    468.35
+Gljivasto tipkalo crveno, Svjetleće, deblokada zakretom                             101.46   18   1826.28    456.57
+NYCY 7x4RE/4                                                                         10000    5  50000.00  12500.00
+Ina-R/A1 LED 7W 3000K 500lm, dim., 700mA, IP54, bijele b.                           249.21   22   5482.62   1370.66
+Kabel H05VV-F (PP/J) 3x0,75mm2, bijeli, 100m                                         10000   21 210000.00  52500.00
+Signalni fleksibilni kabel YSLY-JZ 3x0,75 sivi                                      318.77   29   9244.33   2311.08
+Distribucijski blok, 4P, 160A, po polu: 1x50mm²|3x35+8x16mm²                        446.04    9   4014.36   1003.59
+Utični interface relej, XT, 1 C/O, 16A, 24VDC, 5mm                                   46.26    4    185.04     46.26
+Finožični PVC-om izolirani vodič H05V-K (P/F) 1mm2, plavi                             93.1    5    465.50    116.38
+Fluokompaktna žarulja TC-D 26W/840 G24D-3                                            27.45   25    686.25    171.56
+
+                                                                                                         ----------
+UKUPNO                                                                                                    333540.06
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,21 @@
+Račun br. 844230
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+AIXLIGHT KARDAFRAME Zidni nosač, dugi, 2 kom.                                       124.52   18   2241.36    560.34
+L-SE raster LA R12 T5 1+2x28/54W sa poprečnim lam.,aluminij                         102.23   26   2657.98    664.49
+Daljinski isklopnik za MC2, 110-130V AC/DC za MC2                                   400.74    9   3606.66    901.67
+KALU LED 4 long zidna i stropna svjetiljka 4x10W 3000K, cb                         3122.88   17  53088.96  13272.24
+Sklopnik 3P |7.5kW (18A) [AC3] / 32A [AC1] | 415V AC | 1N/O                         200.39   29   5811.31   1452.83
+Plosnati kut, SIGNO BK 70/110, RAL 9010                                             153.84    4    615.36    153.84
+T-spojnica za 1-f  3-f šina,desna, bb                                                87.01   23   2001.23    500.31
+Sklopnik 3P | 4kW (10A) [AC3] | 110V AC | + 1N/O (ugrađen)                          127.16   26   3306.16    826.54
+DASAR 260 UNI, E27 podna ugradna svjetiljka, četvrtasta                            2058.94   28  57650.32  14412.58
+
+                                                                                                         ----------
+UKUPNO                                                                                                   130979.336
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

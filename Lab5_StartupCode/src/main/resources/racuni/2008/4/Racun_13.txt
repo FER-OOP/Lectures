@@ -1,0 +1,16 @@
+Račun br. 622728
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"Samostojeći komunikacijski ormar DS 600x1970x1200, 19"", 42U"                     4210.19    8  33681.52   8420.38
+Bakrena sabirnica, TTT profil, 2500A, duljina 2.4m,pocinčana                       5223.26    3  15669.78   3917.45
+Završni poklopac CLF okrugli sa rupom i vijcima                                       51.6   20   1032.00    258.00
+Rozeta, 3 izlaza, zelene boje                                                       299.73   29   8692.17   2173.04
+
+                                                                                                         ----------
+UKUPNO                                                                                                     59075.47
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

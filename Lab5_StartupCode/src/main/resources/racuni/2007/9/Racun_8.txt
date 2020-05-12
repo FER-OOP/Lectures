@@ -1,0 +1,21 @@
+Račun br. 317940
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+QUADRASYL samost.svj.,PS 75,četvrtasta,antracit,GX53,max.11W                        813.03   12   9756.36   2439.09
+Nazidni okvir s vratima za Modul 2000 | 4A-21 | dubina 250mm                       2074.68   17  35269.56   8817.39
+Nazidni okvir s vratima za Modul 2000 | 4A-42 | dubina 250mm                       3270.54   12  39246.48   9811.62
+IBDN prespojni kabel RJ45 UTP cat.6A, žuti, 7.6m                                      6804    4  27216.00   6804.00
+KABEL E-AYY-J (PP00-AL)  4X 70 SM                                                  3959.95   16  63359.20  15839.80
+Optički prespojni kabel duplex, ST/ST, 62,5/125µm OM1, 2m                            61.77   20   1235.40    308.85
+Industrijska svjetiljka SCUP AL 1x400W HS/HI IP65 E40                               835.72   19  15878.68   3969.67
+Prekidač otvoreni, vel.3, 3pole, 6300A, 100kA, fiksni                                10000   15 150000.00  37500.00
+Završni poklopac LBI četvrtasti sa rupom i vijcima                                   87.09    2    174.18     43.54
+
+                                                                                                         ----------
+UKUPNO                                                                                                    342135.88
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

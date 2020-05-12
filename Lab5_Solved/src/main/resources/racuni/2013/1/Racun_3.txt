@@ -1,0 +1,28 @@
+Račun br. 1030417
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Senzor prisutnosti, 180°, 8m, p/ž, zidni, IP54, bijeli                                 953   29  27637.00   6909.25
+UPS MultiPlus 12kVA 10,8kW, 0min,3f/3f/Online/veliko kuć.                         43526.97   301305809.00 326452.25
+Vodotijesna svjetiljka DEVA ECO PC 2x36W ECG                                        239.68   24   5752.32   1438.08
+Proširenje sa accu i punjačem za USMLT 480V / 2 x 40 x 9 Ah                       24727.24   10 247272.41  61818.10
+Teretna sklopka, 3P, 100A, opcija: daljinski isklop                                 781.34   13  10157.42   2539.35
+Držač RT releja, 15.7mm, sa funkcijom izbacivanja                                     2.11   12     25.32      6.33
+Zakretna ručica direktno na MC1, zaključavanje (crvena/žuta)                        190.66    8   1525.28    381.32
+FID sklopka 63-4-03/B (za sve oblike dif. struje), S izvedba                       7869.87   18 141657.66  35414.41
+Dimabilna elektronika za 2x42w downlight svjetiljke                                   8553   20 171060.00  42765.00
+Poliester kućište 190x190x100mm sivo - A-EFI                                        166.48   16   2663.68    665.92
+Nadgradna svjetiljka SALENA LED 29W 2800lm/830 MAT ECG,bb                           769.95    8   6159.60   1539.90
+Označne pločice 101-150 (pločica sa 2x od 101-150)                                   16.83   27    454.41    113.60
+N-sabirnica 16mm², 3x2 modula, plava                                                 17.95    8    143.60     35.90
+Bezhalogeni kabel s el. funkc. do90 Min. (N)HXH-O1x95rmE90                        11690.62   10 116906.20  29226.55
+A03VV-F 5x0,75mm2, svijetlo-sivi, 50m kolut                                          10000    7  70000.00  17500.00
+Bezhalogeni kabel s el. funkc. do30 Min. (N)HXCH4x35rm/16E30                         10000   29 290000.00  72500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    2397224.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

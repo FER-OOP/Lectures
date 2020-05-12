@@ -1,0 +1,28 @@
+Račun br. 297490
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Dimer 40-1000W, umetak, R/L, memory funkcija                                       1730.03   25  43250.75  10812.69
+Owen-II-R/A2 50W G8,5, 230V, IP20, bijele boje                                      277.26   30   8317.80   2079.45
+Maria-CL-R LED 6W 3000K 440lm, IP54, antracit                                       331.49    6   1988.94    497.23
+Pokrov priključnih stezaljki za mjerne uređaje 72x72mm                                4399    7  30793.00   7698.25
+Bočna stranica za trodijelni sistem, 45 modularnih visina                             4160   14  58240.00  14560.00
+PAR38, E27, 18W, 2700K                                                               187.2    5    936.00    234.00
+Zaštitni prekidač, C karakteristika, 10A, 3-polni+N, 6kA                            112.77    8    902.16    225.54
+L-SE montažna šina MR 3x58 5x1,5mm²                                                 297.24    9   2675.16    668.79
+Preklopka CG 8 A210-600*FT2+V750 D/3 1PO                                            391.72    9   3525.48    881.37
+D01 podnožje E14|1P, zaštita od dodira, montaža na DIN nosač                         45.17   27   1219.59    304.90
+Philips Master LED Spot GU10, 5.3W, 36°, 2700K, dim.                                220.66   11   2427.26    606.82
+LED 4W GU10 230V 2800K 35° 600cd dim.                                               160.41    7   1122.87    280.72
+EURO SPOT COB LED, 3000K, 36°, uklj. 3F adapter, crne boje                          938.06    2   1876.12    469.03
+Završni poklopac LBF ravni sa rupom                                                   8.37    1      8.37      2.09
+Poliester ormar,vrh zatv. dno otv., 1 vrata 500x750x300(VŠD)                       2513.28   19  47752.32  11938.08
+HDMI 1.4 kabel, 2xHDMI19 tipA muški, pozlaćeni kontakti, 10m                        129.43    3    388.29     97.07
+
+                                                                                                         ----------
+UKUPNO                                                                                                    205424.14
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,20 @@
+Račun br. 177399
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ugradni okvir za MO3, 3P, -4000A, vodoravne str. priklj.                          18558.36   22 408283.91 102070.98
+Kompenzacija  LSFC 7% 200/25kvar 600x2000x400mm Samost.orm.                       55842.27   13 725949.50 181487.38
+Pokrov 280x190x80mm sivi - B-GH                                                     238.31   10   2383.10    595.78
+Pribor za brzi priključak Cu vodiča 1.5-70mm2/12x10, vel.00                           8.04   29    233.16     58.29
+Nadgradna svjetiljka SARM 2 2x49W ECG, bijela                                       482.62   18   8687.16   2171.79
+Berry LED 16W, 4000K, 960lm, 230V, IP65, plastika, bijele b.                        331.49    7   2320.43    580.11
+Elektronski transformator FN II, 12V, 105VA                                         124.69   16   1995.04    498.76
+Nadgradna svjetiljka SARH-AS T5 1x35W, ECG, bijela                                  381.94    5   1909.70    477.42
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1151761.9
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

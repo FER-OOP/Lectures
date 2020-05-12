@@ -1,0 +1,23 @@
+Račun br. 871438
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LEVANTE L9 stupna spojnica za 48-60mm stup, crna                                    418.09    7   2926.63    731.66
+51400AR/G, 4L KVADRATNA BAZA BOXTECH+ZAOBLJENI RUB, sive b.                         124.52   22   2739.44    684.86
+Sonda (2 štapa) za nadzor nivoa, 1000 mm                                            455.39   10   4553.90   1138.48
+Fleksibilni plosnati kabel za dizalice H07VVH6-F 4x50, crni                          10000   27 270000.00  67500.00
+Ngr./ovj. svjetiljka OFFICE 153 Dir/Ind 2-35/49W QTI ECG                           1166.62    9  10499.58   2624.90
+Teretna sklopka, 3P, 63A, opcija: daljinski isklop                                  669.76    4   2679.04    669.76
+IBDN prespojni kabel RJ45 UTP cat.6A, plavi, 0.6m                                     6804   12  81648.00  20412.00
+Kompenzacija  LSFC 7% 187,5/12,5kvar 800x2000x400mm Sam.orm.                      49474.69   211038968.50 259742.11
+Produžetak priključka za 4P MC4, do 1600A                                           404.84   20   8096.80   2024.20
+Bimetalni relej, područje podešenja 22-30A                                          310.58    9   2795.22    698.80
+Nož sa kukastom oštricom, za skidanje izolacije 8-28mm                              110.15   14   1542.10    385.52
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1426449.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

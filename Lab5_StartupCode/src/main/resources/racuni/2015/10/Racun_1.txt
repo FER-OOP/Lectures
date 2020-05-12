@@ -1,0 +1,15 @@
+Račun br. 842622
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ina-R/A2 LED 20W 4000K 1600lm, IP20, bijele boje                                    527.66    2   1055.32    263.83
+Utičnica šuko sa zaš. kon.+pokl+ dječ. zaš. na vijak bijela                          22.35   14    312.90     78.22
+Metalhalogena žarulja 35W CMH-MR16 PRECISE, 40°,4200K,GX10                          312.23    5   1561.15    390.29
+
+                                                                                                         ----------
+UKUPNO                                                                                                      2929.37
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

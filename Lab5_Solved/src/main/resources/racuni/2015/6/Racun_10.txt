@@ -1,0 +1,28 @@
+Račun br. 414610
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Prekidač za indikaciju spremnosti za uključ. (rezervni dio)                         574.37    9   5169.33   1292.33
+Plano Square LED Plafo, 22W, 3000K, 1490lm, IP40, bijela                             425.1    3   1275.30    318.83
+Otvoreni prekidač, 3P, 55kA, 2000A, izvl., vod. str. priklj.                          4970   21 104370.00  26092.50
+AIXLIGHT R2 LONG, QRB111, zaobljena,bi.b., G53, max. 4x50W                         2497.05   14  34958.70   8739.67
+Pokrov za plosnatu tipku, zeleni                                                      5.69   12     68.28     17.07
+Prozirna vrata visine 27mm za MODUL 160, 6x33 modula                                  4172   23  95956.00  23989.00
+Pierce-I-R/A2 50W GU10 MR16, 100-240V, IP20, crne boje                              165.74   19   3149.06    787.27
+Silikon-Acetat, bijeli, 310ml                                                        39.93   23    918.39    229.60
+Modul signalne svjetiljke, trajno zeleno svjetlo                                    173.16   23   3982.68    995.67
+Slušalica STYLE Basic, SB / (za miksane sustave)                                    383.42   28  10735.76   2683.94
+KVADRA R70M KS1 montažni držač                                                       25.13    6    150.78     37.69
+Adela-II-R 50W GU5,3 MR16, 12V, IP20, krom                                         1060.73    8   8485.84   2121.46
+Montažni nosač, širine 3PB, 35x15mm                                                   4063   17  69071.00  17267.75
+LIGHT EYE ovjesna svjetiljka ES111 GU10, max. 75W, mesing                           593.89   21  12471.69   3117.92
+2-polni direktni konektor                                                            23.27    2     46.54     11.64
+Tel. držač razmaka za okruglu šipku, 2.5mm                                            1.78   21     37.38      9.35
+
+                                                                                                         ----------
+UKUPNO                                                                                                    350846.72
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

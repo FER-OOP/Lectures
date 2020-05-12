@@ -1,0 +1,25 @@
+Račun br. 1015443
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+DIGI-SAT 3040 koaks.75Ohm 1.02/4.6,110dB,kl.A,PVC,bijel,100m                        585.79   19  11130.01   2782.50
+Sklopnik 3P |11kW (24A) [AC3] / 50A [AC1] | 230V AC                                 269.69   16   4315.04   1078.76
+Kućište s poklopcem (razvodna kutija) 300x220x120mm                                 316.78   24   7602.72   1900.68
+Zaštitni prekidač, C karakteristika, 16A, 2-polni, 6kA                               63.66   19   1209.54    302.39
+LED napajanje, 60W, 12V                                                             500.12   21  10502.52   2625.63
+Zakretna ručica direktno na MC1, zaključavanje (crna/siva)                          161.38   12   1936.56    484.14
+SAT multiswitch 9 IN 8 OUT za quattro LNB,unut. napajanje                           790.43   16  12646.88   3161.72
+51200R/G, 2L BAZA BOXTECH+ , sive boje                                              109.99   26   2859.74    714.93
+Polucilindar EK 333 s 1xključem                                                      97.56   25   2439.00    609.75
+Nadzemni kabel E-A2Y 4x50RM, 0,6/1KV                                                 10000   18 180000.00  45000.00
+Noel-S/A2 LED 2x20W 3000K 2x1500lm, IP20, bijele boje                              1062.75    8   8502.00   2125.50
+XXL-Bodywarmer, podstavljen, vodoodbojan                                            460.23   24  11045.52   2761.38
+Shelf Strip Touch on/off dimer                                                      102.55   20   2051.00    512.75
+
+                                                                                                         ----------
+UKUPNO                                                                                                    256240.52
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

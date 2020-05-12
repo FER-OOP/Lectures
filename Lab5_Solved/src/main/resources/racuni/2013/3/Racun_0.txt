@@ -1,0 +1,26 @@
+Račun br. 736825
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Vodotijesna svjetiljka LINDA Industrie PC 2-11W/840 IP65                            375.09   23   8627.07   2156.77
+Ugradni downl. SEGON LED 18W ED 1900lm/830 MAT IP20 70°,bb                          469.64   27  12680.28   3170.07
+"Opt. razdjelnik, 16 niti,LC,50/125µm OM3, izvlačivi,19"",1U"                       826.38    9   7437.42   1859.35
+NYCY 14x1,5RE/2,5                                                                    10000   19 190000.00  47500.00
+Bezhalogeni vatrodojavni instal. kabel JB-H(ST)H 6x2x0,8BMK                          10000   16 160000.00  40000.00
+Modul signalne svjetiljke, treptajuće zeleno svjetlo,230V AC                        606.25   10   6062.50   1515.63
+Ina-L-R/A2 LED 20W 3000K 1500lm, IP20, bijele boje                                  527.66    8   4221.28   1055.32
+NEW TRIA MINI DL okrugli SET, Downlight, 3000K,bijele boje                          280.98   30   8429.40   2107.35
+Kutija za fiksni spoj sa 5 dvostr.stezaljki 2,5mm2 bis.bij.                          45.04   29   1306.16    326.54
+Bočne stranice za Modul 2000/3S, dubine 150mm, tip 36/150                             4160    8  33280.00   8320.00
+Tel. razvodni ormarić Box VKA2 za 100 par., montaža na nosač                        367.53   25   9188.25   2297.06
+BIG THEO wall OUT ES111 zidna svj.,četvrt.,bi.b,GU10,max.75W                        562.63   24  13503.12   3375.78
+Bezhal. kabel HSLH-JZ18x1FRNC H-F 1žila ž/z ostale crn/siv                           10000   18 180000.00  45000.00
+ENOLA_B PD-1 ovjesna svjetiljka GU10, max. 50W, mesing                              813.03    1    813.03    203.26
+
+                                                                                                         ----------
+UKUPNO                                                                                                     635548.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

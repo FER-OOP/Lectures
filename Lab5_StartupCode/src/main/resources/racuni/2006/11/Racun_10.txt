@@ -1,0 +1,24 @@
+Račun br. 775173
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Vijci + tuljci za stezaljku DAS4                                                      1.31   12     15.72      3.93
+NV osigurač vel. 3, 500A/400V AC                                                    131.71   21   2765.91    691.48
+Električarski odvijač, ravni, 6,5x150mm, 1000V, izoliran                             48.23    9    434.07    108.52
+"Natpisna pločica, ""OFFEN"", 17.5 x 28mm, natična"                                   8.13   20    162.60     40.65
+Strujni trafo, pravokutni, dimenzije otvora: 70 x 175mm                            3984.65   29 115554.84  28888.71
+Stražnja ploča (UL508) za sustav 60mm, 1100x240mm (ŠxV)                             429.85   28  12035.80   3008.95
+Finožični PVC-om izolirani vodič H07V-K (P/F) 4mm2, crni                            313.72    3    941.16    235.29
+PlanoCentro 300, senzor prisutnosti, stropni, srebrni                              4114.73    4  16458.92   4114.73
+LINUX LIGHT šina, 2 metra, uklj. 2 zavr.pok., srebrne boje                          312.23    8   2497.84    624.46
+TESA dvostruko-ljepljiva traka 10mm širine                                          192.51   19   3657.69    914.42
+OUT BEAM LED zidna svjetiljka, uski snop, sive boje                                1250.97   26  32525.22   8131.30
+LIPSY OUT FLOOR vanjska svjetiljka, E27, max. 23W                                   875.55   28  24515.40   6128.85
+
+                                                                                                         ----------
+UKUPNO                                                                                                    211565.17
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

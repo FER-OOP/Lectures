@@ -1,0 +1,17 @@
+Račun br. 730679
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Razdjelnik za šuplji zid, KVH, 3R,36+6 modula,bijeli,komplet                        524.98   19   9974.62   2493.65
+LED traka Flexstrip 72 Dynamic White IP43 RA90+                                    1172.82   26  30493.32   7623.33
+P/Ž razdjelnik MODUL 160, sa metalnim vratima, 4x33 modula                            4172    4  16688.00   4172.00
+Nadgradna svjetiljka PRIMO M PRISMA 2x58W CCG                                       370.77   21   7786.17   1946.54
+Zaštitni prekidač sa svojstvima rastavljača, C 80A, 4-polni                        1126.98   15  16904.70   4226.17
+
+                                                                                                         ----------
+UKUPNO                                                                                                     81846.81
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

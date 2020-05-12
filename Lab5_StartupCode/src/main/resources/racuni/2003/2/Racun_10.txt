@@ -1,0 +1,32 @@
+Račun br. 1086411
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+ENOLA_C 9 SPOT, okr., srebrne boje,9W,3000K, 35°,3-f adapter                        938.06    6   5628.36   1407.09
+Ugradna svjetiljka SERH ECO A1 L2 T5 4x14W ECG M600, bijela                         450.67    2    901.34    225.34
+Elektronska prigušnica ECG QTi 1x28/54/220-240                                      141.79    5    708.95    177.24
+Pomoćni kontakt, sig. isklopa, montaža lijevo, 1 C/O za MY3                         184.43   27   4979.61   1244.90
+NEW TRIA LED DL četvrtasti Set, 12W, 3000K, 38°, crne boje                          938.06    7   6566.42   1641.60
+Spojnica za sabirnice TTT-profil, 2500A, duljina 95mm                               324.92    1    324.92     81.23
+TERRA Inground spot angular, GU10, 35W, IP67, aluminij                              231.98    4    927.92    231.98
+Sklopnik vel. 00 | 3kW (7A) [AC-3] | 110VAC, 50Hz | 1 N/O                               99   22   2178.00    544.50
+Digitalni šifrarnik, IKALL, 2 releja, 10A                                             4690    2   9380.00   2345.00
+MERIDIAN II, zidna svjetiljka, antracit, E27, max. 60W                              335.72    8   2685.76    671.44
+Adapter za 185 mm za prekidač MC3 630A                                             3201.89    7  22413.23   5603.31
+Motorna zaštitna sklopka, 3-polna | 2.50 - 4.00A                                    233.61   16   3737.76    934.44
+FID sklopka 40-4-05/AC, 10kA                                                        239.52   27   6467.04   1616.76
+Kanal za uvod kabela za CORON R (2-dijelni)                                           9.27   26    241.02     60.26
+"1-struki okvir ""Riva"", bijeli"                                                    13.71    8    109.68     27.42
+GIOTTO'S nosač za uže, kratki, 6cm, 2 kom./Set                                       99.51   17   1691.67    422.92
+Kabel YSLYQY-JZ 18x 1 prozirni                                                       10000   10 100000.00  25000.00
+Montažna ploča 3PB, 670x294x13mm, 7 visinskih jedinica                              246.76   17   4194.92   1048.73
+Kabel EYY-J (PP00-Y) 5x25 RM                                                      10544.02    2  21088.04   5272.01
+Umetak termostata, 1 N/C kontakt, 10(4)A, 250V AC                                   656.79   15   9851.85   2462.96
+
+                                                                                                         ----------
+UKUPNO                                                                                                     204076.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

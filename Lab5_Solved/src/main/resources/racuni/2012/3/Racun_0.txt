@@ -1,0 +1,20 @@
+Račun br. 659584
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ručno tipkalo, bijelo, kabel duljine 2m                                               2104   27  56808.00  14202.00
+Lamelirana bakrena sabirnica, 880A, duljina 2m, 5x50x1mm                              4835   23 111205.00  27801.25
+"Gljivasto tipkalo s povratom, zeleno, oznaka: ""I"""                                47.07    4    188.28     47.07
+Okvir 7M line, bež                                                                   20.94   28    586.32    146.58
+Adapter za sustav 60mm, ECC 32A, 1 nosač, širine 45mm                               156.04    5    780.20    195.05
+Kabel EYY-J (PP00-Y) 5x1,5 RE                                                       718.52   19  13651.88   3412.97
+Industrijska utičnica, 5 polna, 16A, IP44, ugradna, ravna                             4320   15  64800.00  16200.00
+Univerzalna stezaljka 1.5-16mm², za na sabirnice deblj. 10mm                          6.05   23    139.15     34.79
+
+                                                                                                         ----------
+UKUPNO                                                                                                    248158.83
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

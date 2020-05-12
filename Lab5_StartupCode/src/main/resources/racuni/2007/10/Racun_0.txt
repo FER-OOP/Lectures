@@ -1,0 +1,33 @@
+Račun br. 762704
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Teretna sklopka, 3P, 250A, VC2, bez ručice                                          809.04   13  10517.52   2629.38
+Plosnati kabel, 8-žični,crni,za tel. prespojne kabele,100m                          224.94   22   4948.68   1237.17
+Tipka sa bijelom indikacijom i simbolom zvona, bijela                                12.65   21    265.65     66.41
+Okvir 2-struki, bijeli                                                               12.03   20    240.60     60.15
+Sklopka za upravljanje roletama, umetak, utične stezaljke                           100.35   13   1304.55    326.14
+Set za regulaciju ugradne dubine montažne ploče AS/KS ormara                         35.48   14    496.72    124.18
+NV rastavna sklopka vel.3|630A, 3P, M12, nadzor. osig., 60mm                          4832   15  72480.00  18120.00
+Bezhalogeni vatrodojavni instal. kabel JB-H(ST)H 6x2x0,8BMK                          10000   14 140000.00  35000.00
+Razdjelnik uzidni, IP40, 3-redni, 54 modula, prozirna vrata                         234.17   15   3512.55    878.14
+Interface za 8 pozivnih tipki, Simplebus                                            610.28   19  11595.32   2898.83
+Sklopka zvijezda/trokut 3P/7,5 kW/32A                                               307.89    1    307.89     76.97
+Signalni fleksibilni kabel YSLY-JZ 34x0,5 sivi                                       10000    8  80000.00  20000.00
+Okvir viši s vratima i umetkom za KVH, 1-redni, 12+2 modula                         269.98    2    539.96    134.99
+Tel. razvodni ormar s LSA nosačima, 3x350 parica                                   8116.57    7  56815.99  14204.00
+Industrijska svjetiljka LAMBDA 265/435 400 HIE IP65 uski s.                        1405.22    2   2810.44    702.61
+NYCY 3x1,5RE/1,5                                                                   1151.65   22  25336.30   6334.08
+PD-C360i/8 KNX sa senzorom prisutnosti, IR 360° PŽ, Ø8m                            2076.31   12  24915.72   6228.93
+Podnožje za SNR releje, 24V DC                                                       30.55   15    458.25    114.56
+Fluo cijev T5|T16 80W/840 G5                                                         24.35   10    243.50     60.88
+Instal. umetak 1-21K komplet 7 IR prednja pl. čelik                                1144.93   11  12594.23   3148.56
+Luxa 102-140, LED sa senz., 16W, 3000K, zidna, IP44, bijela                         935.74   11  10293.14   2573.28
+
+                                                                                                         ----------
+UKUPNO                                                                                                    459677.03
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

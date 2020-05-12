@@ -1,0 +1,24 @@
+Račun br. 643075
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Soft-starter 3P, 2f upravlj. 25A/208-240VAC/24-230VAC/DC                           2981.65   18  53669.70  13417.43
+FN set 5kW za crijep, 20 modula                                                   75938.32   151139074.75 284768.69
+3-fazni adapter, srebrni uklj.nosač                                                   95.8    5    479.00    119.75
+Set za ožičenje sklopničke komb. promjene smjera vel. 00                              38.2   13    496.60    124.15
+PARA 380 reflektor, red, E27, max. 260W                                             813.03   23  18699.69   4674.92
+Senzor prisut. stropni, thePrema S360-101,100m2,2kan.,bijeli                       1259.82   28  35274.96   8818.74
+Nadžbukna kutija za compact, siva                                                   217.88   30   6536.40   1634.10
+Montažna ploča za IP54, 2A-42                                                         4160   10  41600.00  10400.00
+Nosač pločice za Joystick, 2 pol., okomiti (za 2 x 27x27mm)                          11.87   14    166.18     41.54
+"Sobno signalno svjetlo ""Comfort"", crveno-zeleno"                                   2104   15  31560.00   7890.00
+BACCO 90 podna svjetiljka, antracit, E27                                           1250.97    4   5003.88   1250.97
+D02 rastavna sklopka CORON 2, 3-polna, 35A fiksno                                   305.14    4   1220.56    305.14
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1333781.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

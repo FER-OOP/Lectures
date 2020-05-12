@@ -1,0 +1,23 @@
+Račun br. 920412
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+FLAT FRAME zidna ugradna svjetiljka Curve, QT 9 20W G4                              151.55   17   2576.35    644.09
+Henry-I-S 20W E27, 100-240V, IP20, natural                                          996.69   17  16943.73   4235.93
+LED Driver, DALI & Push to dimm, 350-900mA, 12-24VDC, 10-20W                         329.8   19   6266.20   1566.55
+Centralni upravljački modul, za sobu                                                  2104    2   4208.00   1052.00
+Varistor 127-240VAC / 150-250VDC, za sklopnike veličine 0                            35.49   10    354.90     88.73
+Zaštitni prekidač, B karakteristika, 25A, 4-polni, 6kA                              123.03   24   2952.72    738.18
+LED svjetleća oznaka, 230V AC, bijela                                                84.18   14   1178.52    294.63
+Nadgradna svjetiljka PRIMO M PRISMA 1x36W CCG                                       233.32   13   3033.16    758.29
+Optički prespojni kabel duplex, LC/SC, 50/125µm OM2, 2.0m                            69.05   29   2002.45    500.61
+Sklopnik 3P |30kW (62A) [AC3] / 120A [AC1] | 110V AC                                865.66   15  12984.90   3246.23
+Kabelska stopica 35mm2, M8                                                              10    5     50.00     12.50
+
+                                                                                                         ----------
+UKUPNO                                                                                                    52550.926
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

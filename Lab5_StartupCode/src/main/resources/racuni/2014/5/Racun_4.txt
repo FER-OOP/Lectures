@@ -1,0 +1,22 @@
+Račun br. 735235
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+COLORLITE HIT 400W, E40, proz., neutral bb, 4200K                                   437.43   16   6998.88   1749.72
+Kompaktna sabirnica za 1xFID 4P,odv.prenap. 4P,1xLS 3+N,12TE                         89.15    2    178.30     44.58
+Poklopac za priključni/rezervni prostor 84mm za sustav 60mm                          68.45   19   1300.55    325.14
+LS-FI (KZS), B/20A/30mA, 2P, Tip A, 10kA                                              4281   22  94182.00  23545.50
+Tel. ispitni kabel 2/4, duljine 0,5m                                                190.66   20   3813.20    953.30
+Kompaktni prekidač snage tip A, 4P, 150kA, 100A                                    1938.59   29  56219.11  14054.78
+PROTECTOR K nazidna kutija visine 20mm, bijela                                       30.64    4    122.56     30.64
+Solasto ugradna podna svj., GU10, četvrt. , nehrđajući čelik                        343.66   21   7216.86   1804.22
+L-SE sjenilo R2 2x58W perforirano, bijele boje                                       99.13   21   2081.73    520.43
+Halogena žarulja, grlo GY6,35, 35W, 12V                                               1.35    3      4.05      1.01
+
+                                                                                                         ----------
+UKUPNO                                                                                                    172117.23
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

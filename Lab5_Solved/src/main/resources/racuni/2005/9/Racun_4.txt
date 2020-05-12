@@ -1,0 +1,21 @@
+Račun br. 929921
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Učvršćivač bistabilnog releja na DIN nosač,potrebno 2 komada                           6.9   11     75.90     18.98
+Prekidački/dimerski aktuator, 8 DALI, 8 x EVG po izlazu                            2775.39    2   5550.78   1387.69
+Senzor prisut. stropni, thePrema S360-100, 100m2,1kanal,sivi                       1243.69   10  12436.90   3109.22
+T8-LED, 26W, 6500K, G13, 1500mm                                                     500.12   16   8001.92   2000.48
+LIGHT EYE Spot GU10, max. 50W, uklj. 1f adapter, zelene boje                        406.17   28  11372.76   2843.19
+THEO WALL OUT zidna svjetiljka, GU10, max. 35W,četvrt.,antr.                        437.43    2    874.86    218.71
+Vijak M4 12mm                                                                         4.83   15     72.45     18.11
+D02 rastavna sklopka TYTAN II, 2-polna, 63A, 50kA                                   234.65   21   4927.65   1231.91
+SITRA stropna svjetiljka, okrug., bijele b., GX53, max. 9W                          437.43    4   1749.72    437.43
+
+                                                                                                         ----------
+UKUPNO                                                                                                    45062.934
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

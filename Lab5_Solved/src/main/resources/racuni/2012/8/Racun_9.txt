@@ -1,0 +1,22 @@
+Račun br. 231051
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Philips Master LED Spot MR16, 6.5W, 36°, 2700K, dim.                                 187.2   12   2246.40    561.60
+Kabel H05VV-F (PP/J) 2x2,5mm2, svijetlo-sivi, 50m                                    10000   25 250000.00  62500.00
+Serijski ormar AS, 1-vrata, 2200x800x800 (VxŠxD), RAL 7035                          4373.6   22  96219.20  24054.80
+Blok pomoćnih kontakata za LA1 (0+2)                                                 49.18   29   1426.22    356.55
+Bezhalogeni kabel s el. funkc. do90 Min. (N)HXH-J4x1,5reE90                        1708.25   28  47831.00  11957.75
+Zaštitni prekidač MB 15kA BT 25/3                                                   458.97   22  10097.34   2524.33
+Meiva-Q/A1 LED 12W 3000K 787lm, dimabilna, IP20, aluminij                           238.74    8   1909.92    477.48
+Napajanje 132W, 12V, IP67                                                           561.12   20  11222.40   2805.60
+Finožični PVC-om izol. vodič H07V-K (P/F) 1,5mm2, bijeli HPV                         10000   26 260000.00  65000.00
+PROFUNO LED, 3000K, 30°, uklj. 1f adapter, crne boje                               1250.97   24  30023.28   7505.82
+
+                                                                                                         ----------
+UKUPNO                                                                                                    710975.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

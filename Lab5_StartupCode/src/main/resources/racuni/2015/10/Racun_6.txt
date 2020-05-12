@@ -1,0 +1,14 @@
+Račun br. 450570
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+N/PE sumarni odvodnik Combtec 50kA kl. B/C                                          1246.9   15  18703.50   4675.88
+Metalhalogena žarulja HIE-P 150W/WDL COATED E27 FS1                                 290.41   23   6679.43   1669.86
+
+                                                                                                         ----------
+UKUPNO                                                                                                     25382.93
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

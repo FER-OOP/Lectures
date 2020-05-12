@@ -1,0 +1,16 @@
+Račun br. 301861
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kompaktni prekidač snage tip A, 4P, 50kA, 300A/200A, red. N                        3327.51   30  99825.30  24956.32
+Maila-R 40W G9, 100-240V, IP44, brušeni krom                                         80.59    8    644.72    161.18
+AIXLIGHT PRO FLAT okr.FRAME 2 ugradno kućište, mat-bb                               437.43   19   8311.17   2077.79
+Kabelska uvodnica s maticom, PG36, IP68                                              13.46    2     26.92      6.73
+
+                                                                                                         ----------
+UKUPNO                                                                                                    108808.11
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

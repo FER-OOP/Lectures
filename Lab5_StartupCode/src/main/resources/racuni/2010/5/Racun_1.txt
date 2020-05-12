@@ -1,0 +1,30 @@
+Račun br. 738544
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ugradna svj. SELENA OP LED ECO 24W M600 2600lm/830 ECG,bb                           654.47   25  16361.75   4090.44
+UPS GENIO Flex Plus Tower 800VA 640W 5min 1f/1f, Line-Int.                            2684   28  75152.00  18788.00
+Univer. opt.  kabel U-DQ(ZN)BH 24x50µm OM3, nm.                                    3278.62   11  36064.82   9016.21
+N/Ž okvir + vrata 2A-33 D=250mm str.ploča+zakr. ručica, IP54                       3342.58   14  46796.12  11699.03
+Maskirni razdjelnik 1 širina brojila/ 21 MV                                           4180   24 100320.00  25080.00
+Ind. kućište sivo, sivi poklopac,187x122x90mm IP65, metrički                         65.28   14    913.92    228.48
+Kabel E-Y2Y-O 4x10RE                                                                 10000    3  30000.00   7500.00
+Nosači za montažu LB profila                                                         50.26   22   1105.72    276.43
+Priključni kabel za IU008523, 2x1,5mm2, duljine 2m, bijeli                            82.6   16   1321.60    330.40
+AIXLIGHT PENDANT SYSTEM 1kom QRB Modul, srebrne boje                                500.12    5   2500.60    625.15
+DC sklopnik | 7.5kW | 24V DC | 4N/O                                                 409.62    3   1228.86    307.21
+GLENOS četvrtasti Profile 3030, 3m, crne boje                                       750.01   24  18000.24   4500.06
+Teretna sklopka, 3P, 160A, opcija: daljinski isklop                                 996.28   26  25903.28   6475.82
+Zaštita od dodira (pokrov), za NV podnožja vel.00                                     4837   21 101577.00  25394.25
+Ugradna svj., GL 108 INDI, četvrtasta, bb Gips,MR16,max 35W                         218.46    6   1310.76    327.69
+Kopče za GLU-TRAX šine, 10 kom.                                                      50.01   24   1200.24    300.06
+Signalni fleksibilni kabel YSLCY-JZ 12x0,75                                          10000   30 300000.00  75000.00
+ENOLA_B single zidna i stropna svjetiljka GU10 max.50W, bb                          374.92   29  10872.68   2718.17
+
+                                                                                                         ----------
+UKUPNO                                                                                                    770629.56
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

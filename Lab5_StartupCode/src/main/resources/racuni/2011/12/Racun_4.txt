@@ -1,0 +1,23 @@
+Račun br. 820402
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+SOPRANA OVAL stolna svj. TL-1, bijeli tekstil, E27, max. 60W                        938.06   14  13132.84   3283.21
+Ključ za 7mm bravu, kvadratni                                                        17.66   29    512.14    128.04
+Kabel LiYCY 2x0,75                                                                   497.9   12   5974.80   1493.70
+DEBASTO TRIPLE stropna svjetiljka, 7W LED, 3000K, bijele b.                        2058.94   11  22648.34   5662.08
+Utični interface relej, XT, 2C/O, 8A, 24VAC, 5mm                                     37.19   15    557.85    139.46
+Bezhalogeni telekomunikacijski kabel J-H(ST)H 10x2x0,6 sivi                          10000   18 180000.00  45000.00
+Toolless connection utični modul, plavi (pak.=10 kom.)                                6.56    4     26.24      6.56
+FRAME CURVE zidna ugradna svjetiljka LED tople bijele boje                          196.83    9   1771.47    442.87
+Odvodnik prenapona DATEC za koaks. kabel sa F ut., kl.D                              250.5    3    751.50    187.88
+IKALL metal modul, 1 tipka, za audio jedinicu                                       612.71   22  13479.62   3369.91
+"Prespojni panel 24xRJ45 cat.6, neoklopljen, 19"", 1U, RAL7035"                     362.72   18   6528.96   1632.24
+
+                                                                                                         ----------
+UKUPNO                                                                                                    245383.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

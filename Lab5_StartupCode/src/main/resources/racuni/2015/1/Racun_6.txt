@@ -1,0 +1,18 @@
+Račun br. 889522
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+NEOPAN zidna svj., bijele boje                                                     1125.94   15  16889.10   4222.27
+3f reflektor VITO DC LED 38W 3400lm/840 40°,sive boje                              1470.55    7  10293.85   2573.46
+NEW TRIA III ES111 SQUARE, GU10, uklj. opruge, crne boje                            750.35    5   3751.75    937.94
+Set za regulaciju ugradne dubine montažne ploče AS/KS ormara                         35.48    1     35.48      8.87
+Pokrov za LED PLOT 2 zrake, srebrne boje                                             73.22   28   2050.16    512.54
+Zaštitni prekidač, C karakteristika, 1A, 2-polni, 6kA                                 4475   26 116350.00  29087.50
+
+                                                                                                         ----------
+UKUPNO                                                                                                    149370.34
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,27 @@
+Račun br. 929495
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Montažna ploča, bakelitna, za IG1813.. 142x97x3mm                                     4130   10  41300.00  10325.00
+Finožični PVC-om izolirani vodič H07V-K (P/F) 10mm2, plavi                          770.13   26  20023.38   5005.85
+Instal. umetak 4-28L komplet 9 IR prednja pl. plastika                             2250.07    6  13500.42   3375.10
+Nazidni okvir bez vrata za Modul 2000 | 5A-28 | dubina 250mm                       2111.04   20  42220.80  10555.20
+PRIMOLUX LED 35W 4050lm/840 opal DALI IP44, dužine 1235mm,bb                       1147.18   21  24090.78   6022.70
+Razdjelnik nazidni, IP40. 4-redni, 48 modula, bijela vrata                          226.44    5   1132.20    283.05
+Redna stezaljka 70mm2 tip CBD70, plava                                               49.35    2     98.70     24.67
+Adapter D01 na D02, za CORON 2                                                        2.85   13     37.05      9.26
+SAT zidni nosač Y,R=570mm,V=250mm,2xpl.=150x150mm,stup=50mm                         337.45    9   3037.05    759.26
+Kompenzacija  LSFC 14% 350/50kvar 800x2110x500mm Samost.orm.                      87314.36   211833601.50 458400.38
+Prozirna vrata, akril, za WSM8060xx, otvor: 659X443mm                               822.44   26  21383.44   5345.86
+XXL-T-Shirt  cotton-jersey                                                          104.86   24   2516.64    629.16
+SSVGA produžni kabel 4C+5, pozl. kontakti, crni, 10m                                148.41    6    890.46    222.62
+"Tipka sa natpisnim poljem 50x50mm, oznaka ""0-I"", bijela"                           2120   16  33920.00   8480.00
+Signalni fleksibilni kabel YSLCY-JZ 5x25 sivi                                        10000   13 130000.00  32500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    2167752.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,15 @@
+Račun br. 879490
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+DALI MC tipkalo, ulazni modul, bežični                                             1860.08    8  14880.64   3720.16
+NV rastavna pruga vel.00|160A,3P,M8/mostić 70mm²,sustav 60mm                         613.6    8   4908.80   1227.20
+COLOR CONTROL, EASY LIM WIFI RGBW BULB +Master Funktion, E27                        625.15    9   5626.35   1406.59
+
+                                                                                                         ----------
+UKUPNO                                                                                                     25415.79
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

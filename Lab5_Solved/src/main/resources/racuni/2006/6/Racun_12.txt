@@ -1,0 +1,30 @@
+Račun br. 632103
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+UPS Dialog Dual 8000VA 6400W / Online                                             19830.98   30 594929.44 148732.36
+GLENOS kutna spojnica INSIDE, 90°, za Alu Profile, bijele b.                         93.26   14   1305.64    326.41
+FN MR16 žarulje 20W, 40°, BAB, alu reflektor                                         31.25   29    906.25    226.56
+Tipka sa simbolom svjetla, biserno bijela                                             30.4   14    425.60    106.40
+Bat. RPOWER OGiV 12/150Ah, longlife: 10-12 god., pred. klema                       2919.25   28  81739.00  20434.75
+Neo-WL-III-R LED 1W, IP44, sive boje                                                 57.44    2    114.88     28.72
+Signalni fleksibilni kabel YSLY-JB 4x95 sivi                                         10000   12 120000.00  30000.00
+Montažna ploča za kućište B - 238x148mm                                              35.77    6    214.62     53.65
+Fluokompaktna žarulja TC-SEL 11W/840 2G7 PH                                           7.44   13     96.72     24.18
+Bočne stranice za Modul 2000/3S, dubine 150mm, tip 36/150                             4160   16  66560.00  16640.00
+Industrijska svjetiljka LAMBDA 265/435 250 HIE IP65 uski s.                         1351.7   26  35144.20   8786.05
+Okvir plitki s vratima i umetkom za KVH, 4-redni,48+8 modula                        425.45    5   2127.25    531.81
+Gisele-S LED 2x2W 3000K 200lm, IP20, bijele boje                                    411.07    6   2466.42    616.60
+NEW TRIA LED DL ROUND SET, brušeni alum., 6W, 2700K, 38°                            406.17    6   2437.02    609.26
+ACRYLBOX 1kom ES111, crne b./prozirno                                               562.63   19  10689.97   2672.49
+L-SE spojnica RCP DEEP za T5 i T8 1+2str. (2kom)                                     15.97   25    399.25     99.81
+SITRA CUBE zidna svj.,četvrtasta,hr.boje,GX53, max. 9W                               393.5   24   9444.00   2361.00
+Sabirnica, 12V                                                                       50.01    3    150.03     37.51
+
+                                                                                                         ----------
+UKUPNO                                                                                                     929150.3
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

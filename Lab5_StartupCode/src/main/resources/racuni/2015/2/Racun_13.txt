@@ -1,0 +1,25 @@
+Račun br. 336134
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Napajanje za Quadra KITs 230V AC / 31V DC                                           457.71   15   6865.65   1716.41
+Ovjesni pribor za 1-10V MEDO LED, 5-žični, crvene boje                                8570    1   8570.00   2142.50
+Krovna kuka FP 6/45/110, nehrđajući čelik, TÜV                                       89.75    3    269.25     67.31
+FLEXLED ROLL HIGHEND 24V, 1m, 2700K                                                 625.15   16  10002.40   2500.60
+Linijska svj. SERM 112 1x54W, ECG, bijele boje                                      479.37   12   5752.44   1438.11
+L-SE sjenilo R2 2x36W bijele boje                                                    91.06   25   2276.50    569.13
+Završna pločica za 4-polnu sabirnicu                                                  2.91   23     66.93     16.73
+T-spojnica za 1-f  3-f šina,desna, bb                                                87.01   30   2610.30    652.58
+AOL 100 LED 3K sa senzorom pokreta 140°, bijeli                                    1752.73    8  14021.84   3505.46
+Fluo cijev T8|T26 ECO 16W/830                                                        49.02   21   1029.42    257.36
+Kada za brojilo, 5 ploča za brojilo u jednom redu, 3-reda                          2108.19   17  35839.23   8959.81
+Napajanje za 1faznu visokonap.str.šinu,ugrad.lijevo,bijeli                           68.25   20   1365.00    341.25
+Držač žaruljice sa ugrađenom LED, crveni,24VAC/DC,ut. stez.                          26.99    2     53.98     13.49
+
+                                                                                                         ----------
+UKUPNO                                                                                                    88722.945
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

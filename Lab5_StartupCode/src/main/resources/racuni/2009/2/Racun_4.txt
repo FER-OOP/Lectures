@@ -1,0 +1,14 @@
+Račun br. 814416
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Set za montažu svjetiljke LINDA zidni +/- 90° za 18/36/58W                           45.77    4    183.08     45.77
+Okvir 1/3M line, smaragdni                                                           59.08   12    708.96    177.24
+
+                                                                                                         ----------
+UKUPNO                                                                                                    892.04004
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

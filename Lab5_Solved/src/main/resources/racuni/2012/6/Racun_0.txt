@@ -1,0 +1,16 @@
+Račun br. 691892
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"Preklopnik 24xRJ45 10/100/1000T, 19"", metalno kućište"                           1030.62   12  12367.44   3091.86
+Nadgradna svjetiljka SARH IP54 T8 2x36W ECG, bijela                                1211.14   10  12111.40   3027.85
+Kabel LiYY 7x0,14                                                                    10000   15 150000.00  37500.00
+Tuljak za 120mm2, pocinčani, DIN norma                                                4.52   14     63.28     15.82
+
+                                                                                                         ----------
+UKUPNO                                                                                                    174542.12
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

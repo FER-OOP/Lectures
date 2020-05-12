@@ -1,0 +1,23 @@
+Račun br. 341782
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Izmjenična sklopka, 10A, umetak, vijčane stezaljke                                   29.03   11    319.33     79.83
+Fronius Symo Hybrid 5.0-3-S Storagesystem Set 7.5                                    10000   26 260000.00  65000.00
+Ugradna svjetiljka SEO ECO T8 2x36W CCG M600, bijela                                500.31    4   2001.24    500.31
+Rapeater za Wireless Kontrol (230VAC)                                              1280.61   15  19209.15   4802.29
+Nadgradna svjetiljka SARH IP54 T5 4x24W ECG, bijela                                1287.93    2   2575.86    643.97
+Cube-WL-Q 2x75W E27 PAR30, 100-240V, IP54, bijele boje                              285.03   20   5700.60   1425.15
+SOPRANA OVAL zidna svj. WL-1, crni tekstil, E27, max. 60W                           813.03   19  15447.57   3861.89
+Zaštitni prekidač AMPARO 4.5kA, C 25A, 1P+N, širine 1 modula                         41.95   22    922.90    230.73
+SUPROS MOVE ugradna stropna svjetiljka, 3000lm 3000K,crne b.                       1250.97    9  11258.73   2814.68
+Panik svjet. KC Wireless sa aku.bat LED 8h 230VAC zidna                            1513.45   27  40863.15  10215.79
+Nazidno dvostruko tipkalo, 2 N/O, sivo, odvojeni dovod                                2102   21  44142.00  11035.50
+
+                                                                                                         ----------
+UKUPNO                                                                                                    402440.53
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

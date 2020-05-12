@@ -1,0 +1,18 @@
+Račun br. 283078
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+EUTRAC Univerzalna stropna rozeta, crne boje                                        500.12   10   5001.20   1250.30
+Završni pokrov za aluminijski profil sa pokrovom, bij.b.                             62.51    8    500.08    125.02
+OCCULDAS ugradna stropna svjetiljka, 22W, 3000K, okrugla, bb                       1558.31    6   9349.86   2337.47
+THEO up/down OUT zidna svjetiljka, četvrt.,bi.b., max. 2x35W                        687.83   12   8253.96   2063.49
+Kabelska stopica 70mm2, M8                                                           18.15   21    381.15     95.29
+Priključna stezaljka Al-Cu do 50mm²                                                  43.44   21    912.24    228.06
+
+                                                                                                         ----------
+UKUPNO                                                                                                    24398.492
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

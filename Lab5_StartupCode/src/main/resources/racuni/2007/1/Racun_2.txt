@@ -1,0 +1,33 @@
+Račun br. 618738
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+NEW MYRA 2 svjetiljka, srebrna b., GU10, max. 2x 4W, IP44                          1000.75   13  13009.75   3252.44
+Panik svjetiljka VM LED 3W, CPS sustav,MIX mod, zidna                              2255.48   30  67664.40  16916.10
+MEDO 40 LED, ugradna svjetiljka, bez vidljivog ruba                                1250.97   18  22517.46   5629.36
+Industrijska  svjetiljka CERES 1x140W,LED 1-10V,13600lm/840                        4616.38    4  18465.52   4616.38
+Fluo cijev T5|T16 39W High Output, 3000K                                             80.76   30   2422.80    605.70
+Savitljiva cijev (srednje), M20, 750N, predožičena sa  Koax                         754.93    8   6039.44   1509.86
+Elektronički odvojni relej, 2-struki, 230V, 750VA, umetak                           476.72   15   7150.80   1787.70
+FN Zaštita od munje, DC isklop, 1000VDC, za 2MPPT                                  5617.35   21 117964.35  29491.09
+Samostojeći ormar, 2-vrata, 2000x1200x500 (VxŠxD), RAL 7035                         5186.3   27 140030.09  35007.52
+Nadgradna svjetiljka SARH 2 ECO T8 1x58W ECG, bijela                                292.43    3    877.29    219.32
+KVADRA 70M prolazno ožičenje 5x1,5mm2                                                15.82   11    174.02     43.50
+9G06R/W/E, RETRO LED 6W WW G125 E27 230V                                            117.25   27   3165.75    791.44
+ENOLA_C 9 SPOT, okr., srebrne boje,9W,3000K, 35°,3-f adapter                        938.06   29  27203.74   6800.94
+Označne pločice 'N'', Dekafix DY5 (sadrži 50 oznaka)                                  8.45   15    126.75     31.69
+Sklopnik vel. 14 | 800kW (820A) [AC-3] | 220-240VAC, 50Hz                         18386.34    9 165477.06  41369.27
+PARA CONE 40 ovjesna svjetiljka, okrugla, bakar, E27,max.60W                       1433.11   16  22929.76   5732.44
+Kondenzatorski sklopnik | 20 kVAr | 220-240V AC                                     402.55   27  10868.85   2717.21
+Okvir 4x2M line, zagasito bijeli                                                    148.81    6    892.86    223.22
+Ugradna kutija za BEDSIDE LED zidna svj.                                             187.2   21   3931.20    982.80
+USB napajanje 5V 1A 2M crno                                                         294.33   15   4414.95   1103.74
+Nazidna serijska sklopka, siva, 10A, IP44, na vijak                                   2102   23  48346.00  12086.50
+
+                                                                                                         ----------
+UKUPNO                                                                                                     683672.9
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

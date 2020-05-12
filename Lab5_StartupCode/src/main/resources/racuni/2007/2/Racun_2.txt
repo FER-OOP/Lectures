@@ -1,0 +1,18 @@
+Račun br. 447754
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Sklopnik vel.2 | 4P | AC1 60A/690V | 24VDC                                          780.67   11   8587.37   2146.84
+GLOO PURE zidna svjetiljka, antracit, E27, max. 20W                                 813.03   22  17886.66   4471.67
+Plastična prirubnica za WSVBF, 25 otvora, bezhalogena, IP65                          54.38    9    489.42    122.36
+"Kontrol.bat. Bat-Logg ,CPS Maxi, 18 bat. od 65Ah-260Ah; 2,5m"                    14196.18    1  14196.18   3549.04
+Samostojeći ormar, 2-vrata, 2000x1200x400 (VxŠxD) bez MP R5                        4631.65    3  13894.95   3473.74
+PD-C360i/24 KNX ECO sa senz. prisutnosti, IR 360° PŽ, Ø24m                         1885.76   29  54687.04  13671.76
+
+                                                                                                         ----------
+UKUPNO                                                                                                   109741.625
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

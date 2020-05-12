@@ -1,0 +1,31 @@
+Račun br. 150423
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Montažni profil prema šir. i prema dub. AS/KS ormara, 500mm                         444.97    3   1334.91    333.73
+Tipka s ručicom,žuta,osvijetljena,3 polož.,50°,s povratom                            44.43   18    799.74    199.93
+ENOLA_B SPOT I, bb, GU10, max. 50W                                                  500.12    7   3500.84    875.21
+Okvir za vrata, za MC1, crni, IP40                                                   86.43   15   1296.45    324.11
+Finožični PVC-om izolirani vodič H07V-K (P/F) 1,5mm2, crni                          121.44   24   2914.56    728.64
+Set kotačića (2 sa i 2 bez kočn.) za DS/DSZ orm. do 800kg                           359.96   28  10078.88   2519.72
+Mara-II-Q/A1 LED 7W 3000K 480lm, dimabilna, IP20, aluminij                          307.84    9   2770.56    692.64
+Sutil-R LED 16W 6000K 1118lm, IP40, sive boje                                       265.26   11   2917.86    729.47
+"Natpisna pločica, ""RUNNING"", 17.5 x 28mm, natična"                                 8.13   19    154.47     38.62
+Modularna slijepa ploča za AS/KS ormare, 600x150mm, RAL 7035                         88.16   28   2468.48    617.12
+Tipka (pokrov) za svjetleće tipkalo, crvena, plosnata                                 2.27    3      6.81      1.70
+Komplet za povezivanje baterija za LPS microcontrol 4,5Ah                             5150   25 128750.00  32187.50
+Zaštitni prekidač, B karakteristika, 13A, 1-polni, 10kA                              34.09   30   1022.70    255.68
+Razdjelnik nazidni, IP55, 2-redni, 24 modula, prozirna vrata                        441.73   21   9276.33   2319.08
+Otvoreni prekidač, 3P, 55kA, 2000A, fiksni,vod. str. priklj.                      24370.94    3  73112.82  18278.21
+Nico-R/A1 LED 9W 3000K 700lm, IP65, antracit                                        497.24    4   1988.96    497.24
+Preklopka CG 8 A210-600*FT2+V750 D/3 1PO                                            391.72   27  10576.44   2644.11
+"3-struki okvir ""Riva"", biserno bijeli"                                            42.75   19    812.25    203.06
+Vodič (N)YM-J (PGP) 3x4mm2, sa zašt. vodičem, svij.-sivi                             10000   15 150000.00  37500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    403783.06
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

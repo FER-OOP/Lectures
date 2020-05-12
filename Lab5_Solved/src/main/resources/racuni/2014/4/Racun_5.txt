@@ -1,0 +1,18 @@
+Račun br. 580879
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kabel H05VV5-F 5x1 sivi                                                              10000   30 300000.00  75000.00
+LED Roll 230V 4,8W/m, plave boje LED, PVC, IP65, 100m                                58.62   27   1582.74    395.68
+Modul za audio/video jedinicu, 2 tipke, IKALL, crni                                 314.23   19   5970.37   1492.59
+SOPRANA, stolna svjetiljka, TL-1, okrugla, bež tekstil, E27                         938.06   11  10318.66   2579.67
+Svjetlosna signalizacija E 10 (2W), umetak, bijela                                   80.98    8    647.84    161.96
+Rastavna sklopka za cilindrične osigurače 14x51mm, 3P/50A                            95.45   28   2672.60    668.15
+
+                                                                                                         ----------
+UKUPNO                                                                                                    321192.22
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

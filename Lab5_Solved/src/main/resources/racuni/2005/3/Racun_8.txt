@@ -1,0 +1,22 @@
+Račun br. 102672
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Prednja ploča za timer (za EL177030), 15min, bijela                                  71.38    8    571.04    142.76
+T5 fluo cijev 28W, 4000K                                                             62.51   12    750.12    187.53
+E-AYY-O 1x150RM                                                                      10000   30 300000.00  75000.00
+Višežični PVC-om izolirani vodič H07V-R (P/M) 50mm2, crni                            10000    2  20000.00   5000.00
+Poklopac 380x190x30mm prozirni - E-D                                                212.37   12   2548.44    637.11
+Krović za zaštitu WSM ormara od kiše, za ormar 600X400 (ŠxD)                          4066    5  20330.00   5082.50
+Kabel H03VV-F (PP/L) 3x0,75mm2, smeđi, 100m kolut                                    10000   15 150000.00  37500.00
+Plosnati kabel 2-polni, 2x0,5mm                                                       8.94    8     71.52     17.88
+Finožični PVC-om izolirani vodič H05V-K (P/F) 0,75mm2, ljub.                         72.86    9    655.74    163.93
+L-T-Shirt  cotton-jersey                                                            104.86   13   1363.18    340.80
+
+                                                                                                         ----------
+UKUPNO                                                                                                    496290.06
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

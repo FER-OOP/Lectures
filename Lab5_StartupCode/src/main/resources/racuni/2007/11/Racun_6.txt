@@ -1,0 +1,29 @@
+Račun br. 221319
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Baterije 18 kom. longlife OGiV 12V/5,2Ah s kabelima za ožič.                       2957.35   28  82805.80  20701.45
+SITRA stropna svjetiljka, okrug., sive boje, GX53, max. 9W                          437.43   10   4374.30   1093.57
+Slušalica STYLE, SB sa privacy/doctor funkcijom i interkom.                         748.24   29  21698.96   5424.74
+AF S LED 300 reflektor+senzor pokr., 24W, 5000°K,IP44,crni                         4707.72   12  56492.64  14123.16
+UPS Multi Plus 40kVA 36KW 0min,3f/3f/Online/veliko kuć.                           64863.73   271751320.75 437830.19
+Vrata, metalna, perforirana za kom. ormare, 27U, Š=600 mm                           702.25   10   7022.50   1755.63
+Kupaonski set 4M 3x20A, na vijak, line, bijeli                                       94.72    1     94.72     23.68
+Polo majica, dugi rukav, siva -S-                                                   172.26   30   5167.80   1291.95
+Cilindrični osigurač, 14x51, 2A, gG, 690V AC                                         14.04   29    407.16    101.79
+Pokrovna ploča za sustav 60mm, duljina 700mm, visina 195mm                          182.81    8   1462.48    365.62
+Lamelirana bakrena sabirnica, 279A, duljina 2m, 4x15.5x0.8mm                        335.51   17   5703.67   1425.92
+Teleskop lampa                                                                        9841   23 226343.00  56585.75
+Dimer 20-315W/VA, tranzistorski, podžbukni                                          776.72   16  12427.52   3106.88
+Izmjenjivač Piko 5.5 DCS, 5 kW, 3f, IP 55, 3 Mpp Tracker                          17445.81   28 488482.69 122120.66
+L-SE raster LB T5 R12 1+2x28/54W sa poprečnim lam. bijeli                           119.92   28   3357.76    839.44
+Signalna svjetiljka, plosnata, zelena 230V                                           84.12    2    168.24     42.06
+BILAS SPOT LED, 15W, 2700K, 25°, okrugla, crne boje                                1558.31    1   1558.31    389.58
+
+                                                                                                         ----------
+UKUPNO                                                                                                    2668888.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

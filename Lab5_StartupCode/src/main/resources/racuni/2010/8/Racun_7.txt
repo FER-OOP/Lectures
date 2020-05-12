@@ -1,0 +1,14 @@
+Račun br. 667609
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zaštitni prekidač AMPARO 6kA, C 6A, 1-polni                                          22.38   19    425.22    106.30
+Teretna sklopka, 3-polna, 400A                                                     1466.31   21  30792.51   7698.13
+
+                                                                                                         ----------
+UKUPNO                                                                                                    31217.732
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

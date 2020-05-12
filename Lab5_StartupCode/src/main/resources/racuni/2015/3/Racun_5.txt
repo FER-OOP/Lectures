@@ -1,0 +1,19 @@
+Račun br. 120440
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Daljinski isklopnik za MC2, 110-130V AC/DC za MC2                                   400.74   22   8816.28   2204.07
+Zaštitni prekidač, D karakteristika, 32A, 3-polni, 10kA                             175.67    7   1229.69    307.42
+Označne pločice 1-50 (pločica sa 2 x od 1-50)                                        16.83   21    353.43     88.36
+SSVGA kabel 4C+5, pozlaćeni kontakti, crni, 1.8m                                      66.3   28   1856.40    464.10
+Ind.svj.ARKTUR SQUARE LED 147W 15900lm/765 ECG IP65 120x40°                        3118.34    2   6236.68   1559.17
+"Sweat-jakna ""romb"" -middle-"                                                      249.8   20   4996.00   1249.00
+Signalni fleksibilni kabel YSLY-JZ 34x1,5 sivi                                     6618.48   27 178698.95  44674.74
+
+                                                                                                         ----------
+UKUPNO                                                                                                    202187.44
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

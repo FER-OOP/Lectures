@@ -1,0 +1,31 @@
+Račun br. 102751
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Izmjenična sklopka, 10A, umetak, vijčane stezaljke                                   29.03    4    116.12     29.03
+Bezhalogeni jednožilni vodič H07Z-K 1mm2, smeđi                                      10000    4  40000.00  10000.00
+GLASSA stropna svjetiljka TCD 2x26W                                                 938.06    6   5628.36   1407.09
+LED PAR38 100 DIM 14W 230V 30° 827 1000lm 3300cd E27 25000h                         193.68   16   3098.88    774.72
+Zaštitni prekidač, B karakteristika, 13A, 3-polni, 10kA                             124.14   13   1613.82    403.45
+Stezaljka prizma ARROW BLUE veličina 2                                                4821   17  81957.00  20489.25
+Nazidno dvostruko tipkalo, 2 N/O, sivo, odvojeni dovod                                2102   28  58856.00  14714.00
+Savitljiva cijev (lagana) M20, 320N, 50m, HF, svijelto-siva                          686.4   20  13728.00   3432.00
+Teški gumeni kabel H07RN-F 12x2,5, crni                                            4746.28    4  18985.12   4746.28
+Kompaktni prekidač snage tip AF, 3P/250A/25kA                                      1024.27    3   3072.81    768.20
+Zamjenjiva skala ampermetra za montažu na DIN nosač, 60A/5A                          32.18   16    514.88    128.72
+Završni poklopac TBR ravni zatvoreni                                                 50.26    6    301.56     75.39
+Nosač baterija 18xNLBA120 - NLBA250 880x1650x590mm                                 8930.25   14 125023.50  31255.88
+Držač za lameliranu bakrenu sabirnicu 5-10mm                                         36.73    5    183.65     45.91
+Sustav nadzora osigurača u kućištu E30 dim. 312x312x168mm                           5817.5   11  63992.50  15998.13
+DASAR FLAT LED, tople bb LED, podna ugr.,inox pokrov                                562.63   28  15753.64   3938.41
+Reflektor SET 150W HIT-DE RX7s IP65 RAL9006 asimetrični                             988.68    9   8898.12   2224.53
+PRIMOLUX LED 51W 5900lm/840 opal ECG IP44, dužine 1535mm,bb                        1054.77   19  20040.63   5010.16
+9G03L/W/SE, 48 LED SMD WW 3,5W E14                                                   15.71   11    172.81     43.20
+
+                                                                                                         ----------
+UKUPNO                                                                                                    461937.44
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

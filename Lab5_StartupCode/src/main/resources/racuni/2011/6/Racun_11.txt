@@ -1,0 +1,20 @@
+Račun br. 1022953
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"19"" profil. nosači, visine 15U za DS-, DSZ-, DSI i DW-ormare"                      51.67    7    361.69     90.42
+Standardna bakrena sabirnica,20x10mm |520A| 2.4m,pokositrena                          4835   10  48350.00  12087.50
+FlexLED Roll 12V, 12W, 2700K, 3m, 60 LED/m                                          230.68    5   1153.40    288.35
+Modularna slijepa ploča za AS/KS ormare 800x600mm RAL 7035                          240.84   16   3853.44    963.36
+Rastavna sklopka za cilind. osig. 10x38mm, 1P/20A, Fotonapon                         24.39   26    634.14    158.54
+Palos-II-R/A2 70W G8,5, 230V, IP20, sive boje                                       277.26   20   5545.20   1386.30
+Konverter medija 1xRJ45 10/100/1000T - 1xFO SC 1000 MM 550m                            985   17  16745.00   4186.25
+Fluo cijev T8|T26 15W/840 G13                                                        26.37    6    158.22     39.56
+
+                                                                                                         ----------
+UKUPNO                                                                                                     76801.09
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

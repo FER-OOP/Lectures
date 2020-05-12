@@ -1,0 +1,33 @@
+Račun br. 452075
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Prednja ploča, čelična, slijepa, 1B4                                                  4160    7  29120.00   7280.00
+LED AR111, crne boje, 19,5W, 140°, 2700                                             562.63   11   6188.93   1547.23
+NV kratkospojnik 400A, vel.2                                                         69.38   15   1040.70    260.17
+D02 prilagodni uložak (prsten) Neozed 4A                                              2.51    2      5.02      1.25
+Strujni trafo, 600/5A, 40x10mm Tip TAI 400                                          298.32    9   2684.88    671.22
+Redna stezaljka (vijčani priključak) 2.5mm², plava                                    2.27   16     36.32      9.08
+Tipka s ručicom,crna,3 pol.,50°,lijevo s-desno bez povrata                           40.41   16    646.56    161.64
+Mikroprizmatični uložak za CL profile, transparent                                   61.28   22   1348.16    337.04
+Halogena žarulja QT-DE 11/12 1000W R7s L=191,2                                       73.99   10    739.90    184.97
+Maskirni razdjelnik 3 širine brojila/ 24 MV                                           4180   25 104500.00  26125.00
+INOX samostojeći ormar, 1600x600x400mm (VxŠxD)                                    18237.57   25 455939.25 113984.81
+A03VV-F 5x0,75mm2, svijetlo-sivi, 500m kolut                                         10000   29 290000.00  72500.00
+AIXLIGHT KARDAFRAME 4, GU10, u nizu                                                 938.06   17  15947.02   3986.75
+Bistabilni relej, 230VAC, 4 N/O, 16A, na DIN nosač                                  927.44   17  15766.48   3941.62
+HALOSPOT111 EnergySaver, 12V, 3000K, 50W, 45°, OSRAM                                  95.8   18   1724.40    431.10
+Instal. umetak 3-45L komplet 15 IR prednja pl. plastika                            3156.73    5  15783.65   3945.91
+Kira Small LED Plafo, 14W, 3000K, 1050lm, IP20, bijela                              159.16   12   1909.92    477.48
+SAT ormarić čel., perf. ploča, zaključ.,400x400x200,RAL7035                         388.04    1    388.04     97.01
+QUICK CONNECT LINE RJ45 utikač cat.6a oklopljen, PoE+                                  120    3    360.00     90.00
+KABEL E-AYY-J (PP00-AL)  4x25 RM                                                   1779.09   27  48035.43  12008.86
+KVADRA 70M mikropriz.pokrov za Kvadra 70M R + S L-1484mm                              8528    6  51168.00  12792.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1043332.7
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

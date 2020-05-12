@@ -1,0 +1,25 @@
+Račun br. 1019209
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Finožični PVC-om izolirani vodič H07V-K (P/F) 16mm2, ž/z                           1193.14   27  32214.78   8053.70
+Fluokompaktna žarulja TC-L 55W/840 2G11                                              49.17    6    295.02     73.75
+7816, NEONFLEX fixna baza                                                             7.26   17    123.42     30.85
+Grebenasta sklopka (glavna, žuto/crvena), 0-1/4P/25A, na DIN                           187    1    187.00     46.75
+N/Ž inst. razdj. 4A-42, 14-redni, 630 ŠM, 2025x1030x250mm                          6645.64   16 106330.24  26582.56
+9G01/BL/E, LED BALL žarulja 0,5w E27 230v, plave boje                                16.05   24    385.20     96.30
+Kabel za motorne pogone SLM-JZ 5x4 0,6/1kV sivi                                    3686.33   30 110589.91  27647.48
+Frida-I-R 20W G4, 12V, IP20, bijele boje                                              5.23    1      5.23      1.31
+Ugradni okvir za svjetiljku K2                                                       89.21   13   1159.73    289.93
+Montažni set za gornju/donju stranicu DW4H,D=30mm,V=500mm                            37.81   17    642.77    160.69
+Victor-III-R LED 18W 3000K 1019lm, IP40, bijele boje                                530.36   30  15910.80   3977.70
+Priključna kutija, nehrđajući čelik, 200x200x120(VxŠxD),IP66                        1116.9    2   2233.80    558.45
+AOL 100 LED 5K svjetiljka sa senzorom 140°, crna                                   1752.73   30  52581.90  13145.47
+
+                                                                                                         ----------
+UKUPNO                                                                                                    322659.84
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,32 @@
+Račun br. 697506
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Relej snage, 3C/O, 16A, 400V AC, Faston 187, Tip RM                                 109.27   30   3278.10    819.52
+P/Ž media razdjelnik, MVM, 3-redni, 12+2 modula, viši okvir                         781.97   12   9383.64   2345.91
+Kabel H05VV-F (PP/J) 3x0,75mm2, svijetlo-sivi, 500m                                  10000   28 280000.00  70000.00
+Sutil-Q LED 22W 6000K 1656lm, IP40, sive boje                                       278.44    8   2227.52    556.88
+S/FTP kabel cat.7, 4x2xAWG23/1, 1200MHz, LS0H, plavi, 30%                           480.22   24  11525.28   2881.32
+Khali-II-R/A2 LED 25W 4000K 1900lm, IP20, bijele boje                               629.88   24  15117.12   3779.28
+SAT kapa stupa 42-50mm,do 18 koaks. kabela,neprop.,crni                              39.06    9    351.54     87.89
+Bath četvrtasti Small LED 600mm, IP44, krom                                         377.96   20   7559.20   1889.80
+NEW TRIA LED DL okrugli Set, 12W, 3000K, 38°,brušeni alumin.                        938.06    1    938.06    234.51
+Bezhal. kabel s konc.zaštitnim Cu vodičem N2XCH 7x2,5re/2,5                          10000    9  90000.00  22500.00
+"Samostojeći kom. ormar IP54 800x1970x1000 ŠxVxD, 19"", 42U"                       6517.76    1   6517.76   1629.44
+9F07/C, 7W GX53 CW                                                                   19.59   23    450.57    112.64
+Aluminijska flaša                                                                     34.7   27    936.90    234.23
+Box stezaljka ARROW BLUE veličina 1                                                   4821    8  38568.00   9642.00
+Umetak dvostrukog tipkala, na vijak                                                  19.69   25    492.25    123.06
+Kabel 4mm2, crveni, TÜV odobrenje, pakiranje 500m                                  1089.03   22  23958.66   5989.67
+Savitljiva cijev (lagana) M32, 320N, 25m, HF, svijelto-siva                        1347.75   30  40432.50  10108.13
+Držač za KX1102AB11                                                                  18.23   23    419.29    104.82
+FGL OUTDOOR SQUARE Downlight, MR16, titan                                           218.46   21   4587.66   1146.92
+Talos-R LED 48W 6000K 3200lm, dimabilna, IP20, bijele boje                          928.09    9   8352.81   2088.20
+
+                                                                                                         ----------
+UKUPNO                                                                                                    545096.94
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

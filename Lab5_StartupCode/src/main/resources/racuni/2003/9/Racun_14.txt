@@ -1,0 +1,16 @@
+Račun br. 211419
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Tel. ormarić n/ž za 30 letvica 2/10, bez bravice                                    620.86    2   1241.72    310.43
+Kompaktni prekidač snage tip A, 3P, 150kA, 125A                                    2053.48   19  39016.12   9754.03
+Poliester podnožje za ukopavanje u zemlju, 1000x500x300(VŠD)                       2832.11   22  62306.42  15576.61
+Nadgradna svjetiljka SARM 2 1x49W ECG, bijela                                       389.85   11   4288.35   1072.09
+
+                                                                                                         ----------
+UKUPNO                                                                                                    106852.62
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

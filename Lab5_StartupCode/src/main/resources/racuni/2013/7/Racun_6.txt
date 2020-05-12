@@ -1,0 +1,27 @@
+Račun br. 791479
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Baterije 18 kom. longlife OGiV 12V/84Ah s kabelima za ožič.                       28605.11    4 114420.44  28605.11
+Spojnica za cijev KSX50/50                                                           16.63    7    116.41     29.10
+Linijska svj. SERM 112 1x54W, ECG, bijele boje                                      479.37   20   9587.40   2396.85
+Montažna ploča pleksi 8x280x308mm za DW4HD226/DW4HD226F                             104.14   21   2186.94    546.73
+Optički prespojni kabel duplex, LC/ST, 62,5/125µm OM1, 2m                            61.48   17   1045.16    261.29
+Flyer prečka L=500m, crna                                                          1120.81   25  28020.25   7005.06
+"Opt. razdjelnik, 16 niti,SC,50/125µm OM2, izvlačivi,19"",1U"                       742.87   30  22286.10   5571.52
+Beta 1/36W EVG, široki snop, difuzor od nehrđajućeg čelika                         1965.31   26  51098.06  12774.52
+PWM kontroler 1 Kanal, 24V, 100W max.                                               437.43   21   9186.03   2296.51
+Kompaktni prekidač snage tip A, 4P/25A/50kA, MC1                                   1429.08   23  32868.84   8217.21
+Prolazno ožičenje za svj. LINDA 5x1,5 za 2x49-58W                                    85.01   25   2125.25    531.31
+Kompaktni prekidač snage tip A, 3P/400A/50kA                                       2426.41    6  14558.46   3639.61
+ALTRA DICE SPOT, četvrt.,srebr./crne b.,GU10,50W,1-f adapter                        531.37   26  13815.62   3453.91
+Kabel H05VVC4V5-K 2x 0,75 sivi                                                       10000   18 180000.00  45000.00
+Reflektor FORCA LED 151W 14900lm/740 ECG IP65 50°,sb                               4134.73   22  90964.06  22741.02
+
+                                                                                                         ----------
+UKUPNO                                                                                                     572279.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

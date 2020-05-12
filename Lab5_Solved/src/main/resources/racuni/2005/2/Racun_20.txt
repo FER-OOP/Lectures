@@ -1,0 +1,29 @@
+Račun br. 773656
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Spojnica (koljeno) M25, svijetlo-siva (pak. 20 kom.)                                538.29   29  15610.41   3902.60
+WAVE PENDANT ovjesna svjetiljka, 9W, 3000K,sa rozetom,mesing                       1808.71   15  27130.65   6782.66
+Podnožje prema širini ASR/KSR ormara, 1200x200mm, AISI304                             4056   27 109512.00  27378.00
+Zaštitni prekidač, C karakteristika, 6A, 1-polni, 10kA                               26.82   10    268.20     67.05
+Kutnik za kabelske kanale širine 5                                                   87.81   19   1668.39    417.10
+LOGS zidna svjetiljka, četvrt., antracit, 6W LED tople bi.b.                       1086.75   22  23908.50   5977.13
+Kabel LiYY 5x0,75                                                                    10000    3  30000.00   7500.00
+"19"" metalni prsten za okomito vođenje kabela 40x40"                                21.23    3     63.69     15.92
+LIGHT EYE ovjesna svjetiljka GU10, max. 50W, mesing                                 437.43   27  11810.61   2952.65
+Pokrov stezaljki za LA301513 i LA301763                                              260.5   16   4168.00   1042.00
+Grebenasta sklopka (glavna, sivo/crna), 0-1/3P/20A, na DIN                          154.08    8   1232.64    308.16
+PROFUNO LED, 3000K, 30°, uklj. 1f adapter, bijele boje                             1250.97    5   6254.85   1563.71
+Montažni nosač DIN šine, ravni, visine 30mm                                           8.37   24    200.88     50.22
+Gumena uvodnica za kabel, crne boje 12mm/10m                                          1.61   13     20.93      5.23
+AFDD, series Lisa, C 13 A, 2-pole, 30 mA, type A, 10 kA                            1075.59   30  32267.70   8066.92
+Optički prespojni kabel duplex, LC/SC, 50/125µm OM2, 20.0m                          168.24   23   3869.52    967.38
+Gumena uvodnica za kabel, bijele boje 14mm/12mm                                       1.61   12     19.32      4.83
+
+                                                                                                         ----------
+UKUPNO                                                                                                    268006.28
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

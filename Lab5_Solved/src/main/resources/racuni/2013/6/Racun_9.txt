@@ -1,0 +1,18 @@
+Račun br. 204558
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Nadgradna downl. svjetiljka ARM 291 2x26W TC-TEL IP20 bijela                        300.34   20   6006.80   1501.70
+Poliester ormar, vrh i dno zatv., 1 vrata 1000x1000x312(VŠD)                       3554.37   24  85304.88  21326.22
+Spojnica (ravna) M25, bez halogena, crna (pak. 50 kom.)                             257.83   25   6445.75   1611.44
+Grebenasta sklopka, (glavna,crno/siva), 0-1/3P/32A, na vrata                        204.68   13   2660.84    665.21
+Fluokompaktna žarulja TC-DEL 26W/830 G24Q-3                                          26.83   26    697.58    174.40
+Rezervna oštrica 18mm za univerzalni skalpel GI7156627                              352.35   23   8104.05   2026.01
+
+                                                                                                         ----------
+UKUPNO                                                                                                    109219.89
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

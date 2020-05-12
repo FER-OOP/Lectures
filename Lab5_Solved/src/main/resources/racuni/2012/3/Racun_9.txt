@@ -1,0 +1,18 @@
+Račun br. 460904
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kabel za punjenje tip2, 32A 3F, 4m duljine                                            8130   14 113820.00  28455.00
+Sklopnik 3P |11kW (22A) [AC3] / 32A [AC1] | 400V AC | 1N/C                          256.93   16   4110.88   1027.72
+Vrata, metalna, perforirana za kom. ormare, 42U, Š=600 mm                           886.97   20  17739.40   4434.85
+Ispravljač, 1-fazni | 230-400/24VDC | 20A                                          2321.71    5  11608.55   2902.14
+Mura-CL-III-R 9W GX53, 100-240V, IP54, aluminij                                     351.77    4   1407.08    351.77
+Tris-I-STR-R/A1 LED 3x1W 3000K 135lm,dim.,350mA,IP20,sive b.                         86.16   17   1464.72    366.18
+
+                                                                                                         ----------
+UKUPNO                                                                                                    150150.62
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

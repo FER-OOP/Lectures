@@ -1,0 +1,31 @@
+Račun br. 1086424
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+L-SE sjajni odsijač R2 AL2x58 široki,aluminij.                                      100.68    2    201.36     50.34
+Reflektor SET 250W HST E40 IP65 crni simetrični                                    1485.11   16  23761.76   5940.44
+Instal. umetak 5-45L komplet 15 IR prednja pl. plastika                            3733.33    2   7466.66   1866.67
+Ormar komp. 87,5kVAr/14% -12,5kVAr /600x2000x400 samostojeći                      44186.45    9 397678.03  99419.51
+"Opt. razdjelnik, 8 niti, SC, 9/125µm OS2, izvlačivi,19"",1U"                       906.88    6   5441.28   1360.32
+Dvokrilna vrata staklo, za kom. ormare, 42U, Š=600 mm                              1360.97   25  34024.25   8506.06
+Unutarnja vrata za Minipol ormare, poliester, puna, 600X500                         721.96    6   4331.76   1082.94
+FID modul za MC2 (do 250A), 4P, 30mA, tip A, ugradnja odozdo                       4482.44    4  17929.76   4482.44
+Tuljak za 400mm2, pocinčani, DIN norma                                               42.42    4    169.68     42.42
+7305/RGB/30, LED 3x1w 12v RGB 30 °                                                   26.86    1     26.86      6.72
+Tel. ormarić n/ž za 3 letvice 2/10, bez bravice                                     172.85   27   4666.95   1166.74
+Aluminijska spojnica na prešanje sa Cu završetkom, 35mm²                              7031   12  84372.00  21093.00
+Umetak termostata 1 N/C, sa ON/OFF sklopkom, 10(4)A, 250V AC                         632.6   15   9489.00   2372.25
+Zaštitni prekidač, B karakteristika, 13A, 2-polni, 10kA                              80.41   21   1688.61    422.15
+Senzor prisutnosti 360B KNX, 8m, p/ž, stropni, IP54, srebrni                       2033.09   15  30496.35   7624.09
+Korisnički daljinski upravljač za Sphinx RC 104                                      77.73   16   1243.68    310.92
+NEW TRIA LED DL okrugli Set, 25W, 3000K, 30°, crne boje                            1307.91   23  30081.93   7520.48
+Montažna ploča 2PB, 450x70x13mm, RAL 7035                                            60.08   22   1321.76    330.44
+KALU ugradna svjetiljka, 1 Spot, 1xES111, max. 50W,bruš. al.                        406.17   18   7311.06   1827.77
+
+                                                                                                         ----------
+UKUPNO                                                                                                     661702.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

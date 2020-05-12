@@ -1,0 +1,30 @@
+Račun br. 807107
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+NV osigurač vel. 1, gG/gL, 160A/690V AC                                               4838    2   9676.00   2419.00
+Sklopni element za prednju montažu, 2 N/C, utične stezaljke                           38.7   16    619.20    154.80
+Nadgradna svjetiljka PRIMO H PRISMA T5 1x54W ECG, bijela                            341.91   12   4102.92   1025.73
+Montažni nosač 2C                                                                     9.59   23    220.57     55.14
+Fluo cijev T5|T16 21W/840 G5                                                         20.63    5    103.15     25.79
+Nazidno tipkalo, sivo, svjetleće, 1 N/O, 10A, IP44                                   79.52   28   2226.56    556.64
+Finožični PVC-om izolirani vodič H07V-K (P/F) 2,5mm2, naran.                        195.31   28   5468.68   1367.17
+Zaštitni prekidač, C karakteristika, 16A, 2-polni, 6kA                               63.66   28   1782.48    445.62
+Nosač sabirnca, 3P+N+PE sa završnim pokrovom, 60mm Compact                           57.97   17    985.49    246.37
+Gumom iz. i oplašten 1-žilni kabel 1,8/3 kV NSGAFöu 70 crni                          10000   13 130000.00  32500.00
+Bezhalogeni telekomunikacijski kabel J-H(ST)H 2x2x0,8 sivi                           10000    2  20000.00   5000.00
+Spojnica za savitljivu cijev M40, svijetlo siva, pak.25 kom.                        413.68   29  11996.72   2999.18
+Kompaktni prekidač snage tip A, 3P, 150kA, 125A                                    2053.48    6  12320.88   3080.22
+Redna stez. (utični priklj.) 2.5mm², 2 dovoda|2 odvoda, siva                          9.43    8     75.44     18.86
+Uzidni okvir s vratima - M3000, 3U-45                                              2161.15   10  21611.50   5402.88
+Baterije 18 kom. GiV 12V/12Ah s kabelima za ožičenje                               4740.51   11  52145.61  13036.40
+Set za uzidnu montažu čitača I, nehrđajuči čelik                                   2428.47    1   2428.47    607.12
+Adapter za DIN nosač                                                                 24.79   23    570.17    142.54
+
+                                                                                                         ----------
+UKUPNO                                                                                                     276333.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

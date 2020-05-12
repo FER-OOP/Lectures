@@ -1,0 +1,28 @@
+Račun br. 835390
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Maskirni razdj. 3-24, 8-redni, 264 ŠM, 1150x760x200mm(VxŠxD)                       2610.71   23  60046.33  15011.58
+Uzdna kada za šuplji zid, za BK072.., KVH, 3R, 36+6 modula                          132.93    1    132.93     33.23
+Kompenzacija  LSK 7% 25/6,25kvar 600x1250x300mm zidni ormar                       19128.36   10 191283.59  47820.90
+Završna pločica za stezaljke IK130004-A i IK131004-A, bež                              2.6   16     41.60     10.40
+Teretna sklopka, 3P, 1600A, opcija: daljinski isklop                              11708.51    6  70251.06  17562.77
+Klizna matica M4 (100 kom.)                                                           4160   21  87360.00  21840.00
+GU10 grlo sa 18cm žicama                                                              5.91    7     41.37     10.34
+Montažni nosač s otvorima (perforirani), 1000x15x5mm (DxŠxV)                          29.8   17    506.60    126.65
+Strujni trafo, 800/5A, 60x10mm, Tip TAI 400                                           4398   29 127542.00  31885.50
+NEW TRIA, QRB Downlight, okrugla, mat bb                                            268.47   14   3758.58    939.65
+Tipka s ručicom,crna,neosvijetljena,2 polož.,50°,bez povrata                         40.08   18    721.44    180.36
+Univer.opt.kabel A/I-DQ(ZN)BH 12x50/125µm OM4, LS0H-3, nm.                         2715.47   25  67886.75  16971.69
+Finožični PVC-om izolirani vodič H07V-K (P/F) 2,5mm2, smeđi                         195.31   25   4882.75   1220.69
+Toolless connection utični modul, crveni (pak.=10 kom.)                               6.56    5     32.80      8.20
+Ručka za montažu na vrata, za 3P MC1, crno/siva, komplet                            299.17   26   7778.42   1944.61
+LED prespojni kabel RJ45 oklop.,500 MHzEa,10GB, zeleni,10m                          141.52   23   3254.96    813.74
+
+                                                                                                         ----------
+UKUPNO                                                                                                     625521.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

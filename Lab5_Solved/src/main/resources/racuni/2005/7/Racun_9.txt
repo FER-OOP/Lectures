@@ -1,0 +1,19 @@
+Račun br. 1099696
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LED ES111, crvene b., 17W, 30°, 2700                                                562.63   10   5626.30   1406.57
+Direktni starter sa sklopkom 4kW/400V AC [AC3]                                      452.33   11   4975.63   1243.91
+Finožični PVC-om izolirani vodič H05V-K (P/F) 1mm2, plavi                             93.1    3    279.30     69.82
+DIABO SPOT 2 stropna svj. , bijele b., 2x GU10, max. 2x 35W                         750.35   18  13506.30   3376.58
+Kabel H05VV-F (PP/J) 5x0,75mm2, crni, 50m                                            10000   19 190000.00  47500.00
+Fronius Symo Hybrid 5.0-3-S Storagesystem Set 6.0                                    10000   14 140000.00  35000.00
+Kućište s prozirnim poklopcem, 213x185x119mm, IP65                                    4130    9  37170.00   9292.50
+
+                                                                                                         ----------
+UKUPNO                                                                                                    391557.53
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

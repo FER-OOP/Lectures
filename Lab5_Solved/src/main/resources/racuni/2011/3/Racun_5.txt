@@ -1,0 +1,27 @@
+Račun br. 895264
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Monoblock LED, plavi, 24V AC/DC, kompletna svjetiljka                                30.42    4    121.68     30.42
+Aluminijski montažni nosač 1H/C                                                      21.05   16    336.80     84.20
+Centralna ploća fi 22,5mm, bijela                                                    91.06   17   1548.02    387.01
+SAT antena 45/40cm,čel.,33dB,pričvršć. na stup,bijela                               113.38   17   1927.46    481.86
+FENDA pokrov                                                                          8570    6  51420.00  12855.00
+MYRA CURVED pano svjetiljka, antracit                                               875.55   10   8755.50   2188.88
+Mikro pomoćni sklopnik | 3A [AC15] | 230V AC | 2N/O + 2N/C                           78.96   14   1105.44    276.36
+Ceta-S/A2 LED 8x1W 4000K 600lm, IP54, antracit                                      376.27   30  11288.10   2822.02
+Design IL ERT-LED 1x3W 230VAC 3h sa bat.bežič,AT, SPOT,strop                       1658.41    5   8292.05   2073.01
+Teretna sklopka, 3P, 160A, VC2, bez ručice                                          671.78   12   8061.36   2015.34
+"Opt. razdjelnik, 8 niti, SC,50/125µm OM3, izvlačivi,19"",1U"                       804.52   29  23331.08   5832.77
+Telekomunikacijski kabel F-YAY 40x2x0,6mm2                                           10000    9  90000.00  22500.00
+Nazidni okvir bez vrata za Modul 2000 | 5A-24 | dubina 250mm                       1587.91   19  30170.29   7542.57
+Postolje za nazidne razdjelnike, bočni dio, 250mm (par)                             127.63    3    382.89     95.72
+L-SE sjenilo R1 T8 L2 1x58W perforirano, bijele boje                                128.45   29   3725.05    931.26
+
+                                                                                                         ----------
+UKUPNO                                                                                                    240465.72
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,18 @@
+Račun br. 143712
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Stezaljka glavnog voda (zaAl i Cu), 1P, 2x70mm²|2x50mm²,siva                        104.08    3    312.24     78.06
+PD-C360i/8 DC24Vplus strop.senz.prisutnosti, bijeli                                1231.95    9  11087.55   2771.89
+Kabel LiYCY 12x0,34                                                                  10000   16 160000.00  40000.00
+Serijski ormar AS, 2-vrata, 2000x1200x400 (VxŠxD), RAL 7035                        5099.82   30 152994.59  38248.65
+Centralna jedinica CPS Maxicontrol 48/5A     0 DCM                                51575.22   15 773628.25 193407.06
+Prespojni kabel RJ45 cat.6 oklop.,s pregibnicama,zeleni,10m                          54.72   24   1313.28    328.32
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1099335.9
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,25 @@
+Račun br. 716568
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Svjetleća oznaka, 250VAC, normal sa 1 fleks. priklj. vodičem                         20.24   11    222.64     55.66
+Ugradni okvir za AS/KS, 2000x800mm, za umetak Modul 2000                              4067   19  77273.00  19318.25
+Majica Store, ženska, dugih rukava -middle-                                         255.48   20   5109.60   1277.40
+ENOLA_B single zidna i stropna svjetiljka GU10 max.50W, cb                          374.92    8   2999.36    749.84
+KADA ZA P/Ž RAZDJELNIK, 1-REDNA, 12+2 MODULA                                         44.54   12    534.48    133.62
+Kronos-S/A2 LED 2x25W 4000K 2x1750lm, IP20, sive boje                               861.86    5   4309.30   1077.32
+FI-blok 125A, 4-polni, 30mA, Tip A (Puls)                                          2154.33    4   8617.32   2154.33
+Nazidna izmjenična sklopka, b.bijela, 10A, IP44, na vijak                            46.69   27   1260.63    315.16
+Pokrovna ploča, 3 širine brojila                                                      4160   15  62400.00  15600.00
+Završna pločica za rednu stezaljku IK250002-C, siva                                   2.43   30     72.90     18.23
+Vodič (N)YM-O (PGP) 4x16mm2, bez zašt. vodiča, svij.-sivi                            10000    4  40000.00  10000.00
+L-SE LSK 1.5 1x44W LMW 4500lm 830 Dali, bijele boje                                1466.03   22  32252.66   8063.17
+Vijak sa upuštenom glavom, za drvo, 4x50mm                                           19.81   24    475.44    118.86
+
+                                                                                                         ----------
+UKUPNO                                                                                                    235527.33
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

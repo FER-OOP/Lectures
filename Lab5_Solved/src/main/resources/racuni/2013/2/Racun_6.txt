@@ -1,0 +1,28 @@
+Račun br. 821542
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+IKALL metal modul, 2 tipke, za audio/video jedinicu                                 644.59    9   5801.31   1450.33
+AFDD, series Lisa, B 13 A, 2-pole, 30 mA, A/delayed, 10 kA                         1215.49   27  32818.23   8204.56
+Bezhal. kabel poboljšanih svoj.za sl. požara N2XH-O 1x25rm                           10000   27 270000.00  67500.00
+Krović za zaštitu WSM ormara od kiše, za ormar 800X210 (ŠxD)                          4066   15  60990.00  15247.50
+IBDN prespojni kabel RJ45 UTP cat.6A, zeleni, 0.6m                                    6804   26 176904.00  44226.00
+9S13/GR/E, 13W E27 , zelene boje                                                     16.05   11    176.55     44.14
+Ciri-S LED 10W 3000K 700lm, 80°, IP20, aluminij, sive boje                          245.49    8   1963.92    490.98
+ASTO III GU10 Spot, brušeni aluminij                                                381.84   14   5345.76   1336.44
+Serijski ormar AS, 2-vrata, 2000x1200x500 (VxŠxD), RAL 7035                         5173.4   24 124161.59  31040.40
+NEW TRIA 68 GU10 downlight, četvrt., mat crna b., max. 50W                           187.2   21   3931.20    982.80
+P/Ž razdjelnik MODUL 160, sa prozirnim vratima, 2x24 modula                           4172   18  75096.00  18774.00
+Finožični PVC-om izol. vodič H07V-K (P/F) 4mm2, plavi HPV                            10000   26 260000.00  65000.00
+FID sklopka AMPARO, 25-2-003/A (puls), 10kA                                         359.83    8   2878.64    719.66
+D02 rastavna sklopka CORON 2, 3-polna, 20A fiksno                                   305.14    5   1525.70    381.43
+Odvodnik prenapona+pom.kont., Photec 550VDC/12,5kA kl. B/C                         1161.05   30  34831.50   8707.88
+LED svjetleća oznaka, 230V AC, žuta                                                  71.82   12    861.84    215.46
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1057286.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

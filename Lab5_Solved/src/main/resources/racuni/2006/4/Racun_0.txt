@@ -1,0 +1,21 @@
+Račun br. 884228
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Samoljepljive oznake za tipke (svjetlo/zvono/ključ/strelice)                          5.71   16     91.36     22.84
+Finožični PVC-om izolirani vodič H07V-K (P/F) 4mm2, plavi                           313.72   16   5019.52   1254.88
+DOWNUNDER LED WHITE 27, zidna ugradna svjetiljka, kam.siva                          335.72   23   7721.56   1930.39
+N/Ž inst. razdj. 3A-12, 4-redni, 132 ŠM, 640x810x180mm                                4170   17  70890.00  17722.50
+EURO SPOT ES111, okr., crne boje, GU10, max. 75W,3-f adapter                        437.43   30  13122.90   3280.72
+Kanal s poklopcem LE, 40x40mm (VxŠ), duljina 2m, RAL 9010                            39.64    4    158.56     39.64
+Sutil-Q LED 8W 6000K 461lm, IP40, sive boje                                         132.63    8   1061.04    265.26
+Pleksi vrata za centralu CPS tip Midicontrol                                       1931.71   26  50224.46  12556.12
+Panik svje.tip OL  OLED 230VAC/DC CPS dvostrana, sa ovjesom                        2993.19    3   8979.57   2244.89
+
+                                                                                                         ----------
+UKUPNO                                                                                                    157268.97
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

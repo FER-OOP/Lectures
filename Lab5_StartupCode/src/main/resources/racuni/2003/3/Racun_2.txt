@@ -1,0 +1,28 @@
+Račun br. 691231
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+FLAC BEAM, podna svjetiljka, srebrne boje, G12, 70W                                2058.94    3   6176.82   1544.20
+Serijski ormar AS, 1-vrata, 2000x800x800 (VxŠxD), RAL 7035                         4357.63   28 122013.64  30503.41
+Zaštitni prekidač MB 25kA BT 63/3                                                   476.17    8   3809.36    952.34
+N-sabirnica 16mm², 3x2 modula, plava                                                 17.95   18    323.10     80.78
+Sutil-Q LED 30W 6000K 2174lm, IP40, sive boje                                       512.96   27  13849.92   3462.48
+Ventilator s filterom 320x320x150mm IP54, 66W, 370m3/h                             1028.68   13  13372.84   3343.21
+LASSON, ovjesna svjetiljka, PD-2, okrugla, crne b., E27                             687.83   22  15132.26   3783.06
+FRAME BASIC LED Set, 6W, 3000K, brušeni al., uklj. napajanje                        280.98    5   1404.90    351.23
+Sigurnosna svjetiljka ZAA 230VAC, auton 3h, autotest , zidna                       1796.54   10  17965.40   4491.35
+56 traperice, vodootporne,sa puno džepova                                           516.06   17   8773.02   2193.25
+Kompaktni prekidač snage tip AE, 3P, 85kA, 630A+izvl. modul                       12325.63    3  36976.89   9244.22
+FlexLED Roll, tople bb, 1m, 60LED/m, DC 24V                                         105.76   16   1692.16    423.04
+NEW TRIA DLMI četvrt. downlight, mat bijele boje, 3000K, 60°                        1495.8    9  13462.20   3365.55
+"1-struki okvir ""Riva"", biserno bijeli"                                            13.71    8    109.68     27.42
+Pokrov plosnatog tipkala, crveni                                                     13.44    4     53.76     13.44
+DOWNUNDER LED 15 zidna svj., br.alu.d, tople bb LED                                 343.66   21   7216.86   1804.22
+
+                                                                                                         ----------
+UKUPNO                                                                                                    262332.84
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

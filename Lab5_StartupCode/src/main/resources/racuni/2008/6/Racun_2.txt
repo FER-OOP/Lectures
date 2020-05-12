@@ -1,0 +1,23 @@
+Račun br. 341484
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Aluminijski profil CLU                                                              104.83    2    209.66     52.42
+Rob-II-S LED 3W 3000K 150lm, IP20, bijele boje                                      505.69   23  11630.87   2907.72
+Bakreno uže 35 mm2, pocinčano                                                      4407.93   15  66118.95  16529.74
+Okvir za ugradnju KX u strop, uski izrez                                            126.78    6    760.68    190.17
+Zaštitni prekidač AMPARO 6kA, C 16A, 3P+N                                            95.31   20   1906.20    476.55
+T5-BAR 24W, Stropna ugradna svjetiljka aluminij                                     625.15   25  15628.75   3907.19
+Modularna slijepa ploča za AS/KS ormare 800x200mm RAL 7035                          119.19    5    595.95    148.99
+Uzidni okvir s vratima+umetak, 3U-18, 100mm (plosnati)                             1607.01    9  14463.09   3615.77
+Adapter za ARROW LINE vel.00 - 100mm na 185mm                                         4821   21 101241.00  25310.25
+Fascikla, prozirna                                                                   17.48   24    419.52    104.88
+"Smart Monitor u boji, nazidni, bijeli, 3,5"""                                      1989.6   10  19896.00   4974.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    232870.67
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

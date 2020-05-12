@@ -1,0 +1,31 @@
+Račun br. 905050
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"Stezaljka ""A"" 5P, dovod 25mm²|odvodi: 5x(2x16)"                                  115.43    6    692.58    173.15
+"Optička ladica, prazna, za 24xST/FC spojnica, 19"", 1U"                            338.07    6   2028.42    507.11
+Postolje za nazidne razdjelnike M2000 IP30, prednji dio, 4PB                         81.17   15   1217.55    304.39
+Termoskupljajući bužir u kutiji (5m), crni, 25.4/12.7mm                              18.43    6    110.58     27.65
+Izolirani kabelski tuljak, crveni, 1.0mm²/8mm                                         0.07   22      1.54      0.38
+Kompaktni prekidač snage tip A, 3P/160A/100kA, MC1                                 1860.06   22  40921.32  10230.33
+Pasivni IC senzor pokreta, umetak, do 350W, R/L/C, 0-1000lx                          974.3   16  15588.80   3897.20
+Set za povezivanje AS ormara izvana (6 kom.)                                         320.1    5   1600.50    400.12
+Linijska svj. SERH-LT 112, srednji profil,  1x28W, ECG, bb                          533.66   17   9072.22   2268.05
+Tipkalo, 16A, 1 N/O, montaža na DIN                                                  47.24   26   1228.24    307.06
+41002/G, ADAPTER, sive boje                                                           29.9   29    867.10    216.77
+Montažna ploča 3PB, 670x70x13mm RAL 7035                                             77.69   28   2175.32    543.83
+PURI glava svj.srebrnosiva GU10,max.50W,uklj. 3f.adapter                             224.2   13   2914.60    728.65
+SNR Print relej, 1N/O, 6A, 24VDC                                                     28.81   22    633.82    158.46
+3-fazna kutna spojnica, desno, bijela                                                65.04   22   1430.88    357.72
+LED žuta svjetiljka, BA15D 18-30V AC/DC                                              279.6   22   6151.20   1537.80
+Bora-I LED traka 4,8W/m 3000K 180lm/m, IP54                                         145.81   30   4374.30   1093.57
+KADA ZA P/Ž RAZDJELNIK, 4-REDNA, 48+8 MODULA                                        104.44   10   1044.40    261.10
+ENOLA_B single, zidna i stropna svj., GU10, max.50W, sb/cb                          374.92   15   5623.80   1405.95
+
+                                                                                                         ----------
+UKUPNO                                                                                                     97677.18
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,33 @@
+Račun br. 209633
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+DC zaštitni prekidač, C 25A, 2-polni, 10kA                                          140.82   13   1830.66    457.67
+LED Svj. za slike traka,krom,uklj. traka sa 24 bb LED                               750.35   17  12755.95   3188.99
+Energetski kabel 0,6/1kV PP00 (EYY-O) 1x95rm crni                                    10000   24 240000.00  60000.00
+Nadgradna svjetiljka PRIMO M PRISMA 2x28W ECG, bijela                               282.81   20   5656.20   1414.05
+Standardna bakrena sabirnica, 20x5mm |320A| 2.4m,pokositrena                         520.6   15   7809.00   1952.25
+Relej 3 C/O |10A | 220VDC, pozlaćeni kontakti, sa LED                               201.15   24   4827.60   1206.90
+Sklopnik vel.00 | 4P | AC1 22A/690V | 230VAC                                        137.61   21   2889.81    722.45
+Signalni fleksibilni kabel  YSLY-JB 5x6                                               7030   16 112480.00  28120.00
+Podnaponski isklopnik za MC4, 380-440V AC                                           778.82   12   9345.84   2336.46
+Blok pom.kontakata RH11-1|1N/O+1N/C|10 A za ins.skl. R...VM                         115.45   25   2886.25    721.56
+PAC-Clip INOX kopče za pokrov                                                         6.67   18    120.06     30.02
+Prespojni kabel RJ45 cat.5e neoklopljen, PVC, crveni, 3.0m                           12.38    3     37.14      9.28
+Zaštitni prekidač MB 15kA BT 25/3                                                   458.97   18   8261.46   2065.36
+Vijčana kapa za podnožje DII, E27, bez ispitnog otvora                                7.64    8     61.12     15.28
+Zaštitni prekidač sa svojstvima rastavljača,C 32A,3-polni+N                         935.18   11  10286.98   2571.74
+LUNA 35W HIT G12 uklj. izvor 32° inox okvir                                        2486.36   11  27349.96   6837.49
+Ormar za baterije prazan 600x1900x450 (ŠxVxD) 6 polica,cokl                        7324.88   14 102548.32  25637.08
+Montažna ploča, poliester, zaIG7254... 670x490x4mm                                    4130    6  24780.00   6195.00
+Kanal tip BE-DIN, 75x25mm (VxŠ), duljina 2m, RAL 7030                                 30.2   29    875.80    218.95
+Zaštitni prekidač, C karakteristika, 0.5A, 3-polni, 6kA                               4485    4  17940.00   4485.00
+SAT utič. kraj. 4x, radio/CATV/2xSAT,kl.A, bez okvira                                68.91   11    758.01    189.50
+
+                                                                                                         ----------
+UKUPNO                                                                                                     593500.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,28 @@
+Račun br. 929729
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+SAT kaskadna jedinica za 5 IN 6 OUT pasivna za HSATS5xxKA                           710.43   15  10656.45   2664.11
+CRISTAL SMALL LED 4x1W 3000K SIM. 40° INOX + ugradna kutija                        2102.09   18  37837.62   9459.41
+LED RETROFIT RL-A60 6W 230V 827 470lm prozirna E27 AL 15000h                         53.29   23   1225.67    306.42
+Neizolirana Cu stopica 240mm², M16                                                   38.96   30   1168.80    292.20
+FN set 3kW za crijep, 12 modula                                                   51286.72   221128307.75 282076.94
+Završna pločica za stezaljku IK610210--, siva                                         1.78   23     40.94     10.23
+Termoskupljajući bužir u kutiji (5m), crni, 12.7/6.4mm                               14.13   15    211.95     52.99
+Poklopac za priključni/rezervni prostor 270mm za sustav 60mm                         132.8    4    531.20    132.80
+Strujni trafo, 2500/5A 125x50                                                         4398   14  61572.00  15393.00
+9F01/BL, 1W GX53 LED plave boje                                                      23.82   28    666.96    166.74
+Kabanica veličina S                                                                   9843   27 265761.00  66440.25
+"19"" fiksna polica do maks. 150kg, d=750mm, 1U, RAL7035"                           265.21   29   7691.09   1922.77
+Ind.svj.ARKTUR SQUARE LED 147W 15900lm/765 ECG IP65 55°                            3118.34   28  87313.52  21828.38
+7350G/GR, 50w GU10, 220v-240v, zelene boje                                            6.58   29    190.82     47.70
+Zakretna ručica s produžnom osovinom, zaključavanje, za MZ1                         180.55   13   2347.15    586.79
+Cilindrični osigurač, 22x58, 63A, gG, 500V AC                                        11.62   20    232.40     58.10
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1605755.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

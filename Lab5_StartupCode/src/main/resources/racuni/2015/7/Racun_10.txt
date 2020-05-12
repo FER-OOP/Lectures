@@ -1,0 +1,15 @@
+Račun br. 719362
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Podnaponski isklopnik 220V AC/DC (tvornički ugrađen)                               1380.24   18  24844.32   6211.08
+Montažni nosač za EEC i EMC adaptere širine 45mm                                      6.83   11     75.13     18.78
+Scott-III-R LED 1,5W 3000K, IP54, sive boje                                          96.98    8    775.84    193.96
+
+                                                                                                         ----------
+UKUPNO                                                                                                    25695.291
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,15 @@
+Račun br. 445023
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Icarus-S LED 2x3W 3000K 2x210lm, IP54, antracit                                      437.6    5   2188.00    547.00
+U/UTP inst. kabel cat.6, 4x2xAWG23/1, PE, vanj. inst., crni                         349.45   30  10483.50   2620.88
+Siltu-R/A1 LED 12x1W 6000K 720lm,dimabilna,350mA,IP20,alu                           156.45    2    312.90     78.22
+
+                                                                                                         ----------
+UKUPNO                                                                                                      12984.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

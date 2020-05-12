@@ -1,0 +1,31 @@
+Račun br. 248831
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Signalna LED svjetiljka na DIN nosač, plava, 230V AC                                 44.07   22    969.54    242.39
+Sigurnosna svjetiljka ZAW  230VAC, baterija,8h, autot, zidna                       1796.54    9  16168.86   4042.21
+89036AD, DRIVER 3-36w LED 700mA Dimabilni 1-10V                                     231.98   18   4175.64   1043.91
+Ben-I-R LED 3W 3000K 150lm, IP54, aluminij                                           439.8   13   5717.40   1429.35
+Prednja ploča, plastična, slijepa, 5B18K                                              4160    1   4160.00   1040.00
+FID sklopka AMPARO, 63-2-003/AC, 10kA                                               307.05   30   9211.50   2302.88
+Kutija za fiksni spoj za vodiče promjera do 8mm, alu efekt                            2120   20  42400.00  10600.00
+Mehanička blokada za LA3 150/175 horizontalna                                       332.32    5   1661.60    415.40
+Krajnji držač, montaža na DIN šinu, za utične stezaljke                                2.6   15     39.00      9.75
+Uzidni okvir s vratima za Modul 2000 | 3U-18 | dubina 100mm                           4190   13  54470.00  13617.50
+Senga LED 50W 4300lm, 3000K, 230V, IP65, antracit                                   543.71    1    543.71    135.93
+Natrijeva žarulja HST 250W E40 SUPER 4 Year                                         180.36   26   4689.36   1172.34
+Gumeni savitljivi kabel NSSHöu-J 5x25, žuti                                          10000    3  30000.00   7500.00
+Staklena vrata sa zakret. ručkom, za DW ormare 21U, Š=600                            740.7    7   5184.90   1296.22
+"4-struki okvir ""Scala"", alu efekt"                                               134.24    1    134.24     33.56
+Linijska svj. SERM-LT 112, srednji profil,  1x28W, ECG, bb                          536.92   23  12349.16   3087.29
+Audio vanjski panel, 52 tipke, sa PTT otvorom                                         4690   22 103180.00  25795.00
+Romy-II-R 2x20W E27, 100-240V, IP20, brušeni krom                                    37.67   22    828.74    207.19
+Atia 13W T5, 230V, IP20, bijele boje                                                 66.23   14    927.22    231.81
+
+                                                                                                         ----------
+UKUPNO                                                                                                    296810.84
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

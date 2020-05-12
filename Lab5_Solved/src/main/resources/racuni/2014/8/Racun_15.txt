@@ -1,0 +1,19 @@
+Račun br. 514480
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"Opt. razdjelnik, 24 niti, LC 50/125µm OM4, izvlačivi,19"",1U"                     2316.04   19  44004.76  11001.19
+Zaštitni prekidač AMPARO 6kA, C 40A, 1P+N                                            47.24   24   1133.76    283.44
+9R05/W/SE, 5W E14 WW R50                                                              3.37   22     74.14     18.53
+NEW TRIA LED DL okrugli Set, 25W, 3000K, 30°, crne boje                            1307.91    6   7847.46   1961.86
+Kutija za beton MO 7M, dubina 60mm 650°C, 400V                                       40.01   27   1080.27    270.07
+FLEX LINE kabelski utikač, cat.7, za kabele AWG23                                     6021   29 174609.00  43652.25
+Kabel LiYY 5x0,5                                                                     10000   23 230000.00  57500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    458749.38
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

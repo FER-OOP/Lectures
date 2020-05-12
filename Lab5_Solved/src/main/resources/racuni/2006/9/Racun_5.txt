@@ -1,0 +1,14 @@
+Račun br. 925626
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Levante-M 40 LED 94W 7930lm 3000K asim.,IP66,SKII,antracit                         5434.52    8  43476.16  10869.04
+Redna stezaljka (vijčani priključak) 10mm², tip CBC, siva                              6.5    4     26.00      6.50
+
+                                                                                                         ----------
+UKUPNO                                                                                                     43502.16
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

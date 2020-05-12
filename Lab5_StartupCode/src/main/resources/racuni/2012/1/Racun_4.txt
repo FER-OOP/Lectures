@@ -1,0 +1,23 @@
+Račun br. 896836
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Nadgradna downl. svjetiljka ARM 291 2x26W TC-TEL IP20 bijela                        300.34   22   6607.48   1651.87
+Signalni fleksibilni kabel YSLCY-JZ 5x 4 sivi                                      4011.56   21  84242.76  21060.69
+Zaštitni prekidač AMPARO 6kA, C 13A, 1-polni                                         27.55   14    385.70     96.42
+AFDD, series Lisa, C 16 A, 2-pole, 30 mA, type AC, 10 kA                           1054.14   22  23191.08   5797.77
+Cilindrični osigurač, 10x38, 25A, gG, 400V AC                                         3.82   29    110.78     27.69
+Panik svjet. KC Wireless sa aku.bat LED 8h 230VAC stropna                          1604.58    8  12836.64   3209.16
+Kabelski kanal 80X80 (VxŠ), 2m, perforirani, sivi, RAL7030                           56.42   26   1466.92    366.73
+Ljepilo 640 - 80ml                                                                  107.48   18   1934.64    483.66
+Signalni fleksibilni kabel YSLY-JZ 15x0,75 sivi                                      10000   28 280000.00  70000.00
+"Set odvijača "" FlexBag"""                                                         545.52   30  16365.60   4091.40
+Linijska svjetiljka SOLO 2 T5 2x35W ECG, bijela                                      249.3    3    747.90    186.98
+
+                                                                                                         ----------
+UKUPNO                                                                                                     427889.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

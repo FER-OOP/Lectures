@@ -1,0 +1,23 @@
+Račun br. 251207
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LED ES111, crvene b., 15W, 30°, 2700K                                               374.92    2    749.84    187.46
+A03VV-F 3x1mm2, svijetlo-sivi, 500m kolut                                            10000   29 290000.00  72500.00
+Nazidna alarmna jedinica, napuštanje sobe bez pratnje                             24096.91   17 409647.47 102411.87
+Kabelska stopica 25mm2, M8                                                            6.44    7     45.08     11.27
+SEVEN-CIRCLE 70W HST E27 IP65 cestovna optika, crna                                2700.59   30  81017.70  20254.43
+Grebenasta sklopka u kućištu, uvodnica M20, 0-1/2P/16A                              246.94    9   2222.46    555.61
+9S07S/D/SE, 7W E14 DL                                                                 5.74   11     63.14     15.78
+Paralelna spojnica (kratkospojnik) za 10 stezaljki IK600002-                         17.56    5     87.80     21.95
+Fazne pregrade na priključnim stezaljkama, za 4P MC4 (3 kom)                        246.97    6   1481.82    370.46
+Mero-R LED 3W 3000K 130lm, IP20, aluminij                                           322.54    2    645.08    161.27
+N/Ž okvir + vrata 3A-24 D=250mm str.ploča+zakr. ručica, IP54                        3215.1    9  28935.90   7233.98
+
+                                                                                                         ----------
+UKUPNO                                                                                                     814896.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

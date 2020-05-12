@@ -1,0 +1,30 @@
+Račun br. 775207
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+DC pomoćni sklopnik | 12A [AC15] | 24V DC | 2N/O + 2N/C                             290.77   17   4943.09   1235.77
+Sobni kontroler Conttouch, titan bijeli                                            3335.37   20  66707.41  16676.85
+Kronos-S/A2 LED 2x20W 4000K, IP20, bijele boje                                      729.23   11   8021.53   2005.38
+SXL II vanjski reflektor, 1xE27, crne b.                                            453.92    1    453.92    113.48
+Stezaljka glavnog voda (za Cu), 1P, 2x70mm²|2x50mm², siva                            78.78    8    630.24    157.56
+SITRA CUBE zidna svj., četvrtasta, bb, GX53, max. 9W                                 393.5   24   9444.00   2361.00
+Proširenje sa accu i punjačem za USMLT 480V / 40 x 80 Ah                             10000   26 260000.00  65000.00
+Prespojni kabel RJ45 cat.5e neoklopljen, PVC, zeleni, 10.0m                          35.03    5    175.15     43.79
+Signalni fleksibilni kabel YSLY-JZ 7x1,5                                             10000    5  50000.00  12500.00
+F-POL podna svj., okrugla, antracit, E27, max. 20W                                 1125.94   13  14637.22   3659.30
+Kabel H05VVC4V5-K 18x1,5 sivi                                                        10000   10 100000.00  25000.00
+Podnaponski isklopnik za MC2 i MC3, 24V DC                                          495.51   14   6937.14   1734.28
+"1-struki okvir ""Scala"", biserno bijeli"                                            8.75   30    262.50     65.63
+IBDN prespojni kabel RJ45 UTP cat.6A, zeleni, 2.1m                                   65.83   13    855.79    213.95
+LED napajanje 24V/100W IP67                                                         331.21    1    331.21     82.80
+Sutil-Q LED 30W 6000K 2174lm, IP40, sive boje                                       512.96    2   1025.92    256.48
+LED prespojni kabel DW 1m IP66 - 3 polni                                             75.37   26   1959.62    489.91
+Zaštitni prekidač, C karakteristika, 13A, 1-polni+N, 10kA                            74.83    2    149.66     37.42
+
+                                                                                                         ----------
+UKUPNO                                                                                                    526534.44
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,15 @@
+Račun br. 119927
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+D-RECTION 35W GU6,5 Spot svj.bijela,uklj. 1-f.adapter                               752.87   25  18821.75   4705.44
+NYCY 10x1,5RE/2,5                                                                    10000   22 220000.00  55000.00
+Metalhalogena žarulja HIE-P 150W/WDL COATED E27 FS1                                 290.41   26   7550.66   1887.67
+
+                                                                                                         ----------
+UKUPNO                                                                                                     246372.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,16 @@
+Račun br. 906126
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Plasto LED 30W, 3000K, 1800lm, 230V, IP65, plastika, sive b.                        649.65    2   1299.30    324.83
+Paralelna spojnica/zvjezdište za sklopnike vel. 0                                    11.15    7     78.05     19.51
+Sklopka MO 1M 16A za rolete 1-0-2 bez tipke, na vijak                                20.94    7    146.58     36.65
+Rasvjetni stupić LONDON 1/26/42W FSQ Gx24q3 IP54 Grafit                             1966.5   10  19665.00   4916.25
+
+                                                                                                         ----------
+UKUPNO                                                                                                     21188.93
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

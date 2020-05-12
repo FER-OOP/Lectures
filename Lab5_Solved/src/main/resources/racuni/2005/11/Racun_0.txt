@@ -1,0 +1,26 @@
+Račun br. 689844
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Finožični PVC-om izolirani vodič H07V-K (P/F) 6mm2, zeleni                           455.4   15   6831.00   1707.75
+Montažna ploča za IP54, 2A-18                                                         4160    7  29120.00   7280.00
+Ugradna downl. svjetiljka EQM 211 1x18W TC-DEL IP20 bijela                          343.62   19   6528.78   1632.19
+DASAR LED MINI podna ugr.svj., 2W, 3000K, okrugla, inox                             938.06   16  15008.96   3752.24
+Instalacijski sklopnik 25A | 2 N/O + 2 N/C | 24V AC, 2ŠM                            186.02   25   4650.50   1162.63
+Cilindrični osigurač, 10x38, 4A, gG, 500V AC                                          3.17   21     66.57     16.64
+Kompenzacija  LSFC 14% 375/25kvar 800x2110x500mm Samost.orm.                       93548.6   232151617.75 537904.44
+EURO CUBE Spot, 4000K, CRI90, 60°, uklj. 3F adapter, bb                            1433.11   25  35827.75   8956.94
+NEW TRIA DL okrugli Set Downlight, 6W, 2700K, 38°,crne boje                         374.92   12   4499.04   1124.76
+Signalni fleksibilni kabel YSLY-JZ 4x2,5 sivi                                      1121.29   23  25789.67   6447.42
+Shelf Strip konektor                                                                 14.69    1     14.69      3.67
+AIXLIGHT KARDAFRAME 4, GU10, u nizu                                                 938.06   24  22513.44   5628.36
+Walt-II 54W T5, 230V, IP20, sive boje                                               879.43   15  13191.45   3297.86
+"19"" okvir (rack) jednodjelni 42U, 616x2031x600"                                  1293.55   22  28458.10   7114.53
+
+                                                                                                         ----------
+UKUPNO                                                                                                    2344117.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

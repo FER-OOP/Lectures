@@ -1,0 +1,17 @@
+Račun br. 251604
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Vrata, metalna, perforirana za kom. ormare, 37U, Š=800 mm                            911.3    6   5467.80   1366.95
+AIXLIGHT R OFFICE T5, okr.,cr.b., max.2xT5 39W+2xES111 75W                         2809.97    2   5619.94   1404.98
+LED MEGAMAN CLASSIC E14 6W, 2800K, 470lm, P45, DIM                                  124.18   30   3725.40    931.35
+"Opt. razdjelnik, 4 niti,SC,50/125µm OM4, izvlačivi,19"",1U"                        504.27   12   6051.24   1512.81
+Stezaljka za uzemljenje 3x16 i 4x16mm2                                                4146   28 116088.00  29022.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    136952.38
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

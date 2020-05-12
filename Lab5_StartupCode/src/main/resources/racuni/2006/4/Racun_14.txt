@@ -1,0 +1,30 @@
+Račun br. 143005
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+AIXLIGHT KARDAFRAME 4, GU10, u nizu                                                 938.06   11  10318.66   2579.67
+Bimetalni relej za sklopnike vel. 0 | 11,00 - 16,00A                                191.26   12   2295.12    573.78
+DC zaštitni prekidač, C 32A, 1-polni, 10kA                                           69.35   14    970.90    242.72
+Meiva-Q/A2 LED 20W 4000K 1600lm, IP20, bijele boje                                  542.36   16   8677.76   2169.44
+Telo-S LED 3W, IP54, sive boje                                                      255.46   24   6131.04   1532.76
+D01 rastavna sklopka TYTAN I, 1-polna, 16A, 50kA                                    121.96   21   2561.16    640.29
+Signalni fleksibilni kabel YSLCY-JZ 18x 1,5 sivi                                   5361.57   13  69700.41  17425.10
+Priključna kutija, čelik, 150x300x120 (VxŠxD), IP66, RAL7035                        215.86   16   3453.76    863.44
+SFP modul 1000BaseSX LC multimodni VCSEL 850nm, 550m                                   346   11   3806.00    951.50
+Kompenzacija  LSFC 7% 250/50kvar 800x2000x400mm Samost.orm.                       57832.29   16 925316.63 231329.16
+"19"" set-vijci M6, kavezne matice i podložne pločice (4 kom.)"                       7.13   25    178.25     44.56
+PlanoCentro 000, senzor prisutnosti, pomoćni, p/ž , srebrni                        3475.42   28  97311.76  24327.94
+Vodič (N)YM-O (PGP) 3x1,5mm2, bez zašt. vodiča, svij.-sivi                           10000   15 150000.00  37500.00
+N/Ž inst. razdj. 5A-42, 14-redni, 798 ŠM, 2025x1230x250mm                          7851.35   20 157027.00  39256.75
+Jamba-III-WL-R 15W E27, 100-240V, IP54, rusty                                       124.52    9   1120.68    280.17
+Kompaktni prekidač snage tip A, 3P/20A/50kA, MC1                                    837.45   26  21773.70   5443.43
+Ugradna svjetiljka SERH XTP T8 2x36W ECG M600, bijela                              1503.88    2   3007.76    751.94
+Svjetleće tipkalo s povratom, plosnato, crveno                                       38.45   18    692.10    173.03
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1464342.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

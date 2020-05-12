@@ -1,0 +1,20 @@
+Račun br. 289914
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+MD-C360i/12 mini senzor pokreta IR, stropni, 360°, Ø12m                            1111.41    6   6668.46   1667.11
+Fluo cijev T8|T26 58W/827 G13                                                        15.35    4     61.40     15.35
+Levante-M 16 LED 38W 3750lm 4000K ulič.opt. LT-M,IP66,antr.                         3855.2    6  23131.20   5782.80
+FI-blok 40A, 2-polni, 300mA, Tip A (Puls)                                           617.76   11   6795.36   1698.84
+Kabel H03VV-F (PP/L) 3x0,75mm2, svijetlo-sivi, 100m kolut                            10000   22 220000.00  55000.00
+ACCANTO LEDSPOT ROUND, E27, max.24W,LED 3000K,bijelo sjenilo                        938.06    6   5628.36   1407.09
+VANDALCOM N/Ž kućište, 2 modula                                                     1518.7   30  45561.00  11390.25
+Poliester zidni ormar MINIPOL, zatv. u 3 točke,400x300x200mm                        789.73   15  11845.95   2961.49
+
+                                                                                                         ----------
+UKUPNO                                                                                                    319691.72
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

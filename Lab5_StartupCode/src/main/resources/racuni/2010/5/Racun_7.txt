@@ -1,0 +1,28 @@
+Račun br. 717366
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+P/Ž inst. razdj. 2U-42,14-redni,294ŠM,2025x590x250mm(VxŠxD)                        5018.26   11  55200.86  13800.21
+YUDI Downlight svjetiljka, proz.                                                    218.46   29   6335.34   1583.84
+Sutil Round  LED 8W, 3000K, 480lm, 120°, IP40, sive boje                            126.04    9   1134.36    283.59
+Nadgradna svjetiljka SARH 2 ECO T5 1x28W ECG, bijela                                265.28   11   2918.08    729.52
+PVC kabel, samonosivi, YMT-O 4 x 10 rm, crni                                         10000   13 130000.00  32500.00
+Fluo cijev T16 49W/827 G5                                                            33.97    5    169.85     42.46
+"Tipkalo s plosnatom tipkom, zeleno, natpis ""I"", s držačem"                        27.97   18    503.46    125.86
+Trafo za zvono 230/12-24V AC, 63VA, montaža na DIN nosač                            327.11    3    981.33    245.33
+OPEN GRILL SINGLE ovjesna svjetiljka, srebrne boje                                 1871.23   22  41167.06  10291.76
+Nick-I-Q 150W Rx7s, 230V, IP20, sive boje                                             7.77    9     69.93     17.48
+Kabel za zvučnike (N)YFAZ 2x1mm2, bijeli                                             10000   18 180000.00  45000.00
+Catalogue Light 2017                                                                  9843    9  88587.00  22146.75
+Umetak 2-polne sklopke, na vijak                                                     14.22    6     85.32     21.33
+Prednja ploča, čelična, slijepa, 1B4                                                  4160   22  91520.00  22880.00
+Rastavna sklopka za cilindrične osigurače 14x51mm, 3P+N/50A                         129.21    4    516.84    129.21
+Dewy IP65  za 1xT8 LED cijevi 1200mm PC/PC                                          112.69   24   2704.56    676.14
+
+                                                                                                         ----------
+UKUPNO                                                                                                    601893.94
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

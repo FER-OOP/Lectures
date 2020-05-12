@@ -1,0 +1,32 @@
+Račun br. 529069
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Adapter za sustav 60mm, 400A, 3P, za montažu Siemens 3VL4                          1052.05    6   6312.30   1578.08
+"Tipkalo s povratom, plosnato, bijelo, oznaka: ""I"""                                41.51    7    290.57     72.64
+YOKI Spot ES111 uklj. prsten za EASYTEC II, krom                                    500.12    5   2500.60    625.15
+NEW TRIA LED DL ROUND SET, mat bijele b., 6W, 2700K, 38°                            374.92   17   6373.64   1593.41
+Relej snage, 2C/O, 25A, 230VAC, Faston 250, Tip RM                                  122.28   22   2690.16    672.54
+Victor-III-R LED 18W 3000K 1019lm, IP40, bijele boje                                530.36   18   9546.48   2386.62
+Set vijaka INOX M8                                                                   41.73   15    625.95    156.49
+9S07S/C/E, 7W E27 CW                                                                  5.23   18     94.14     23.53
+Jack 14W T5, 230V, IP20, sive boje                                                   43.92    9    395.28     98.82
+Spojnica za 3/4 polne slopnike (vel. 0 - vel. 0)                                      5.91   18    106.38     26.59
+Sklopka voltmetar.prednja ugrad.sa centralnim pričvrš. 20A                          359.64   14   5034.96   1258.74
+Grebenasta sklopka (glavna, žuto/crvena),0-1/3P/125A, na DIN                       1026.65   30  30799.50   7699.88
+Optički prespojni kabel duplex, LC/SC, 62,5/125µm OM1, 5m                             74.1    5    370.50     92.63
+Downunder OUT LED L, 3,3W, 3000K, bijela boja                                       437.43    1    437.43    109.36
+Optički prespojni kabel duplex LC/FC, 50/125µm OM2, 2.0m                             70.97    4    283.88     70.97
+ROX PRO zidna svjetiljka,bi.b., G8,5, 2x35W                                        1871.23    1   1871.23    467.81
+INDA SPOT GU10 wall and ceiling luminaire, black, max. 50W                          312.23   16   4995.68   1248.92
+Nazidni okvir s vratima za Modul 2000 | 3A-39 | dubina 300mm                       3156.63    4  12626.52   3156.63
+Kompenzacija ožičena  60/10kvar 500x500x300mm zidni ormar                         11894.49   25 297362.25  74340.56
+GLENOS TREPPENSTUFEN Profile UP 100, 1m, aluminij                                    218.8   26   5688.80   1422.20
+
+                                                                                                         ----------
+UKUPNO                                                                                                    388406.25
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

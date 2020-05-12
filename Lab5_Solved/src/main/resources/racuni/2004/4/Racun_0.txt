@@ -1,0 +1,16 @@
+Račun br. 747490
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Modul za ugradnju EKEY čitača otiska prsta IKALL METAL                                   0   11      0.00      0.00
+Otvoreni prekidač, 4P, 66kA, 2500A, fiksni, prednje priklj.                       64676.73    9 582090.56 145522.64
+Prednja ploča, plastična, slijepa, 4B10K                                              4160    8  33280.00   8320.00
+LS-FI (KZS), C/6A/30mA, 1P+N, Tip A, 6kA                                            286.44   16   4583.04   1145.76
+
+                                                                                                         ----------
+UKUPNO                                                                                                     619953.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,25 @@
+Račun br. 510111
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Halogena žarulja QR-CBC 51 35W WFL 38° GU 5,3                                        11.79   21    247.59     61.90
+Zaštitni prekidač sa svojstvima rastavljača, C 100A, 3-polni                        674.11   27  18200.97   4550.24
+Podnožje samostoječeg ormara 600x400x200mm                                         1013.69   27  27369.63   6842.41
+"19"" napojna letva sa 7xshuko+prekidač, PVC, 1.25U, kabel 2m"                      266.84   26   6937.84   1734.46
+Punto-F MR16 Spot, GU5,3, 50W, IP20, 12V, aluminij                                   46.46   26   1207.96    301.99
+BK koaks. presp. kabel IEC-m/IEC-ž,kutni,kl.A,bijeli,5m                              30.83   29    894.07    223.52
+"Zidni kom. ormar DW, bočne stranice, 600x370x495, 19"", 6U"                       1022.17   12  12266.04   3066.51
+PEYOTE POLE 48cm 180° 8x1W LED, 40° 4000K antracit                                 3537.56   19  67213.64  16803.41
+Finn-I-R/A2 LED 18W 3000K 1120lm, IP20, bijele boje                                 600.99   22  13221.78   3305.44
+FID sklopka AMPARO, 63-4-03/A (puls), S izvedba, 10kA                               902.87   17  15348.79   3837.20
+Otvoreni prekidač, 4P, 55kA, 800A, fiksni, vod. str. priklj.                      17601.45   16 281623.19  70405.80
+AIXLIGHT KARDAFRAME 4, GU10, četvrtasti                                             938.06    7   6566.42   1641.60
+Audio jedinica za spajanje vanjske kamere IKALL/I. METAL,VIP                       5950.63    9  53555.67  13388.92
+
+                                                                                                         ----------
+UKUPNO                                                                                                    504653.56
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

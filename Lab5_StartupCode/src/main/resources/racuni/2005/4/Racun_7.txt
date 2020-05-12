@@ -1,0 +1,20 @@
+Račun br. 247826
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kabel LiYCY 20x0,5                                                                   10000    8  80000.00  20000.00
+Ugradna svjetiljka SE-ID PAR V2 1x14W,T5, ECG, bijela                                 8534   10  85340.00  21335.00
+Arno-R/A1 LED 30W 4000K 2660lm, IP65, sive boje                                     879.43    2   1758.86    439.71
+Postolje ormara IG008202, 590x950x310mm (ŠxVxD), RAL7035                           2206.81   15  33102.15   8275.54
+Montažna ploča za AS/KS ormare, 1600x1200mm (VxŠ)                                   888.26    1    888.26    222.07
+Univer.opt.kabel A/I-DQ(ZN)BH 16x50/125µm OM3, LS0H-3, nm.                         1878.72   20  37574.40   9393.60
+SAT utič. kraj. 3x,radio/CATV/SAT,7dB,kl.A,bez okvira                                54.56    1     54.56     13.64
+"1-struki okvir ""Riva"", biserno bijeli"                                            13.71    2     27.42      6.86
+
+                                                                                                         ----------
+UKUPNO                                                                                                    238745.67
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

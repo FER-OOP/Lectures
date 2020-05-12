@@ -1,0 +1,17 @@
+Račun br. 833160
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Priključnica 2xRJ45 cat.6 LSA, oklop. univ., 80x80, RAL9010                          70.38   29   2041.02    510.25
+EASY 512 AB RC, 24V AC, 4 an. ul., 8 dig. ul., 4 relej. izl.                          3331    8  26648.00   6662.00
+AIXLIGHT R2 OFFICE T5,zaobljena,sr.b.,2xT5 54W+2xES111 75W                         2997.68   26  77939.68  19484.92
+Prespojni kabel RJ45 cat.6 oklop.,s pregibnicama,crveni,10m                          54.72   11    601.92    150.48
+ALTRA DICE 2 stropna svjetiljka, 2xGU10, četvrtasta, sb/cb                          750.35    1    750.35    187.59
+
+                                                                                                         ----------
+UKUPNO                                                                                                    107980.98
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

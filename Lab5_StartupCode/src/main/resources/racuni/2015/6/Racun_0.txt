@@ -1,0 +1,30 @@
+Račun br. 558802
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+KABEL E-AYY-0 (PP00-AL) 4X120 SM                                                     10000   28 280000.00  70000.00
+Ind.svj.ARKTUR SQUARE LED 113W 9900lm/840 ECG IP65 120x40°                         2733.37   28  76534.36  19133.59
+LS-FI (KZS), C/16A/30mA, 3P+N, Tip A, 6kA                                           616.95   19  11722.05   2930.51
+Vijak sa proširenom glavom, za drvo, 8x120mm                                          5530   19 105070.00  26267.50
+Lina LED 9W,3000K,620lm,dim.,sa prstenom bijele/crne/sive b.                        145.81    1    145.81     36.45
+"Zidni komunikacijski ormar SOHO DV 310x470x260 ŠxVxD,10"",9U"                      530.72   14   7430.08   1857.52
+Zaštitni prekidač, B karakteristika, 25A, 4-polni, 6kA                              123.03    4    492.12    123.03
+Zaštitni prekidač AMPARO 6kA, C 16A, 1-polni                                         19.75   24    474.00    118.50
+Windows Software za Programiranje EASY 400-700                                      276.12   29   8007.48   2001.87
+Ugradna svjetiljka SERH ECO T8 2x36W CCG M600, bijela                               378.68   18   6816.24   1704.06
+ACCANTO LEDspot, zidna svjetiljka,cr.b.,E27, LED tople bi.b.                        938.06    8   7504.48   1876.12
+Motorni pogon za MC2, 48-60V DC                                                       4962   26 129012.00  32253.00
+DELF C 1200 PRO, 24V , 72 LED, toplo bijela b., 3000K                               531.37   19  10096.03   2524.01
+Fluokompaktna žarulja TC-SEL 11W/840 2G7                                             20.16   10    201.60     50.40
+Kompaktni prekidač snage tip VE, 4P, 85kA, 1250A                                  42336.88   261100758.88 275189.72
+Zaštitni prekidač, C karakteristika, 50A, 2-polni, 10kA                             168.06   15   2520.90    630.22
+Set za konverziju iz fiksne u izvlačivu izvedbu, za MO1, 3P                           4970    3  14910.00   3727.50
+Bezhalogeni kabel s el. funkc. do30 Min. (N)HXH-J4x120rmE30                          10000    8  80000.00  20000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1841696.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

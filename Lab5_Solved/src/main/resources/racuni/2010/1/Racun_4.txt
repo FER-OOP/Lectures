@@ -1,0 +1,15 @@
+Račun br. 498039
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ploča za zaključavanje, za MZS vel.00                                                25.28   13    328.64     82.16
+Signalni fleksibilni kabel YSLY-JZ 26x1,5 sivi                                       10000   17 170000.00  42500.00
+LIMA UP/DOWN zidna svj., srebrne boje                                               578.81   19  10997.39   2749.35
+
+                                                                                                         ----------
+UKUPNO                                                                                                    181326.03
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

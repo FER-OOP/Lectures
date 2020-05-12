@@ -1,0 +1,14 @@
+Račun br. 966957
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+P/Ž RAZDJELNIK , 12+2 MODULA, 1-REDNI                                               197.83   11   2176.13    544.03
+Kompaktni prekidač snage tip AE, 4P, 50kA,1600A+izvl. modul                        71046.3    7 497324.06 124331.02
+
+                                                                                                         ----------
+UKUPNO                                                                                                     499500.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

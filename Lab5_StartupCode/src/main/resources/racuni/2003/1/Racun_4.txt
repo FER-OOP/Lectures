@@ -1,0 +1,19 @@
+Račun br. 131176
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Dimabilna elektronika za 2x42w downlight svjetiljke                                   8553   11  94083.00  23520.75
+Poliester ormar,vrh zatv. dno otv., 1 vrata 500x750x300(VŠD)                       2513.28   10  25132.80   6283.20
+D02 rastavna sklopka TYTAN II, 3P+N, 63A, zaštita od KS                             1271.7    4   5086.80   1271.70
+Završna pločica za stezaljku IK641002--, siva                                         9.23    5     46.15     11.54
+Industrijska svjet. CERES 1x99W,LED, 8800lm/750, crne boje                         2516.77   29  72986.33  18246.58
+N/Ž razdjelnik bez vrata, MODUL 160, 6x24 modula                                   1160.97   29  33668.13   8417.03
+Kabel H05VV-F (PP/J) 4x1mm2, svijetlo-sivi, 100m                                     10000    5  50000.00  12500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     281003.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

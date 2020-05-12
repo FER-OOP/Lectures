@@ -1,0 +1,31 @@
+Račun br. 343523
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Maria-WL-R LED 6W 3000K 440lm, IP54, antracit                                       377.96   26   9826.96   2456.74
+Teretna sklopka, rastavljač (izolator), AMPARO, 125A, 1P                             46.89   12    562.68    140.67
+Kabel za gradilišta XYMM-J 5x10 K35 / 500m, žuti                                     10000    9  90000.00  22500.00
+UPS Dialog Dual 10000VA 5200W / Online                                            21540.55   22 473892.13 118473.03
+Zaštitni prekidač C 32A, 1-polni+N, širine 1 modula                                  114.8   27   3099.60    774.90
+NV podnožje 1P, vel.00|160A, na ploču, M8, zaštita od dodira                         75.65   21   1588.65    397.16
+WAVE PENDANT ovjesna svjetiljka, 9W LED, 3000K, bijele boje                        1746.03   13  22698.39   5674.60
+LEDPANEL 100, bb LED, okvir srebrne boje                                            374.92    6   2249.52    562.38
+LED Downlight 14/3, okr.,bi.b., 14 LED, 3000K                                       500.12    9   4501.08   1125.27
+Prespojni kabel RJ45 cat.6 oklopljen,s pregibnicama,plavi,1m                         10.41    6     62.46     15.61
+Arktur2 160W, 21000lm, 4000K, 120°, DALI                                           4402.94   22  96864.68  24216.17
+LED Driver 250mA 12W za Sutil 2, triac dim.                                          118.6   14   1660.40    415.10
+Bezhalogeni kabel s el. funkc. do90 Min. (N)HXH-JZ7x1,5reE90                         10000   18 180000.00  45000.00
+KARDAMOD SURFACE ROUND QRB DOUBLE, bijela G53, max.2x75W                           1683.51    7  11784.57   2946.14
+DC zaštitni prekidač, C 25A, 2-polni, 10kA                                          140.82    9   1267.38    316.85
+Marta-R 2x26W G24d-3, 230V, IP20, brušeni krom                                      107.28    6    643.68    160.92
+7305/RGB/30, LED 3x1w 12v RGB 30 °                                                   26.86    2     53.72     13.43
+Cijev, M50, 320N, EN2221, svijetlo siva, 3m (pak. 21m)                             1449.56   30  43486.80  10871.70
+Izolacijksa kapa za V-stezaljku VK160 (IS505040)                                      4825   15  72375.00  18093.75
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1016617.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

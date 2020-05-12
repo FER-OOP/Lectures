@@ -1,0 +1,25 @@
+Račun br. 147277
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Telo-S LED 3W, IP54, sive boje                                                      255.46   11   2810.06    702.52
+Zaštitni prekidač, C karakteristika, 63A, 2-polni, 6kA                              157.65   12   1891.80    472.95
+Držač za instal. cijev M32, HF, svijetlo sivi (pak.100 kom.)                        449.04   19   8531.76   2132.94
+HDMI rotacijski adapter 360°, HDMI A ženski-HDMI A muški                             53.88   12    646.56    161.64
+Gumeni savitljivi kabel NSSHöu-J 3x2,5, žuti                                         10000    2  20000.00   5000.00
+LED napajanje 15W/350mA, 100-240V za PERLA svjetiljke                                 8510   15 127650.00  31912.50
+Ciri-S LED 10W 4000K 700lm, 80°, IP20, aluminij, bijele boje                        245.49   25   6137.25   1534.31
+SAT koaksijalni alat za kompresiju F-utikača XC1600xxxx                              373.7   10   3737.00    934.25
+OSSA R7s zidna svj.ovalna,bijela R7s,78mm,max.100W                                  437.43   25  10935.75   2733.94
+FID sklopka AMPARO, 40-4-03/AC, 10kA                                                241.97    6   1451.82    362.96
+Prednja ploča za termostat EL176221 i EL176221, inox efekt                            2103   17  35751.00   8937.75
+Ugradna svjetiljka SELENA LED M625 ED 2800lm/830 MAT,bb                             885.42   23  20364.66   5091.17
+LED-Modul 24 V AC/DC za RT78624/5/6                                                   9.53   20    190.60     47.65
+
+                                                                                                         ----------
+UKUPNO                                                                                                    240098.25
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

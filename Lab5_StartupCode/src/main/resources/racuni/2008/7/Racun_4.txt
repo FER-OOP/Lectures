@@ -1,0 +1,27 @@
+Račun br. 336279
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Mont. ploča za Maxipol ormare 750x750x8 (VxŠxD), poliester                            4146    4  16584.00   4146.00
+LED DMX & PWM Dimer DW                                                              718.74   23  16531.02   4132.75
+Nadžbukna kutija za compact, siva                                                   217.88   15   3268.20    817.05
+Osnovana konfig. Centrale CPS sa: CCIF,SSD,TFST,BASO,LUAN1                          4845.2   20  96904.00  24226.00
+Pomoćni kontakt 3A (230VAC15), (1+1) za K3 175..316, prednji                         83.01   23   1909.23    477.31
+Aluminijska montažna ploča 1000x2000x3mm, bijele boje                               870.91   23  20030.93   5007.73
+Pribor za ovjes 2m, uklj. stropni nosači                                              33.5   15    502.50    125.63
+Uzidna 3-polna sklopka,biserno bijela,10A,400VAC, vij. stez.                          2120   23  48760.00  12190.00
+PROFUNO LED Spot, 3000K, 60°, uklj. 3F adapter, srebrne boje                       1250.97   23  28772.31   7193.08
+Natpisna pločica za isklop u nuždi, 33x50mm, prazna                                   21.7   12    260.40     65.10
+Stezaljke za širinski produžetak, za 4P MC3, 500A, za traku                         592.62    6   3555.72    888.93
+Vodotijesna svjetiljka LINDA PC 1x28W ECG IP65 SC II                                405.52   28  11354.56   2838.64
+COMET svjetiljka, MR16                                                              218.46   11   2403.06    600.77
+Kliješta za krimpanje, za MC4, 2,5 - 6 mm2                                         3362.21   12  40346.52  10086.63
+Kabel LiYCY 5x1                                                                    1344.94    9  12104.46   3026.11
+
+                                                                                                         ----------
+UKUPNO                                                                                                    303286.94
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

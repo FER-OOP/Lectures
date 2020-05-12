@@ -1,0 +1,19 @@
+Račun br. 709742
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Elektronska prigušnica ECG QTi 2x36/220-240 dim 1-10V                               350.76   17   5962.92   1490.73
+TRIA II Downlight, aluminij, krom, MR16                                             115.26    6    691.56    172.89
+LED 12-30V AC/DC, crveni, prednja montaža, utične stezaljke                          38.95   16    623.20    155.80
+Zakr. tipka s ručicom,3 pol.,svijetleća,bijela,40°,sa povr.                          71.79   23   1651.17    412.79
+UPS GENIO Flex Plus Tower 1500VA 1050W 5min 1f/1f, Line-Int.                        3795.3   26  98677.80  24669.45
+Finožični PVC-om izolirani vodič H05V-K (P/F) 0,5mm2, žuti                           55.66   27   1502.82    375.70
+Odvodnik prenapona - D/2,5kA uzidni, prolazno ožičenje                              447.67    1    447.67    111.92
+
+                                                                                                         ----------
+UKUPNO                                                                                                    109557.15
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

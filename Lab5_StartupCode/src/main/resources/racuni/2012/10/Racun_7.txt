@@ -1,0 +1,29 @@
+Račun br. 171404
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kronos-Q/A2 LED 38W 4000K 2450lm, IP20, bijele boje                                 879.43   22  19347.46   4836.86
+Tipka sa natp. poljem i simbolom svjetla, svjetleća, bijela                          56.66   21   1189.86    297.46
+Tipkalo plosnato, zeleno, komplet                                                    50.71   15    760.65    190.16
+Spojnica sa smolom MU2 Ø3-28mm                                                      268.18    5   1340.90    335.22
+LED prespojni kabel RJ45 oklopljen,500 MHz,Ea,10GB,aqua,10m                         141.52    2    283.04     70.76
+Zaštitni prekidač, C karakteristika, 25A, 1-polni, 10kA                              24.71   30    741.30    185.32
+Kabelska pokrovna (završna) pločica KAP 250                                           7031   19 133589.00  33397.25
+DASAR 115, MR16, 35W, podna ugradna svjetiljka, četvrtasta                          562.63    9   5063.67   1265.92
+SNR relej, komplet 1 C/O, 6A, 230VAC/DC, vijčane stezaljke                          126.99   25   3174.75    793.69
+3f-Reflektor Carril E27 PAR30, 75W, IP20, bijela                                    176.05    4    704.20    176.05
+Silikon-Acetat, prozirni, 310ml                                                      39.93   19    758.67    189.67
+Industrijska svj. Arktur LED 11900lm,115W,120°,6000K,RAL9006                        4029.9   12  48358.80  12089.70
+Tinjalica E10 230V AC                                                                 2140   20  42800.00  10700.00
+Kabelska stopica 185mm2, M10                                                         62.01   25   1550.25    387.56
+Nazidna utičnica sa zaštitom za djecu, siva, 16A, IP44                                2102   20  42040.00  10510.00
+Panik svjetiljka KX FLUO 8W, CPS sustav,univerzalna                                 671.46   19  12757.74   3189.44
+TENDA LED zidna svje., antracit, 2x 4.2W,toplo bijela LED                          1433.11   21  30095.31   7523.83
+
+                                                                                                         ----------
+UKUPNO                                                                                                    344555.62
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

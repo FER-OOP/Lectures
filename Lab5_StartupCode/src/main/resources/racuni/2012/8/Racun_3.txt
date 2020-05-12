@@ -1,0 +1,30 @@
+Račun br. 922714
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Solid Double LED 7W 6000K 530lm, IP20                                               124.52   17   2116.84    529.21
+AIXLIGHT PRO II okr.FRAME ugradno kućište, srebrne boje                             437.43    1    437.43    109.36
+Poklopac 380x190x80mm sivi - E-DH                                                   311.65   25   7791.25   1947.81
+Električna brava 12V ACDC                                                           346.26   15   5193.90   1298.48
+Zakretna ručica za MC4, zaključ., na vrata, 0/1 (crna/siva)                         955.85   30  28675.50   7168.88
+Dusa-II-R LED 3x0,6W 3000K, IP67, aluminij                                          586.29   26  15243.54   3810.88
+Senzor prisutnosti, 360°, p/ž, stropni, IP54, crni                                 1333.14   25  33328.50   8332.13
+Sklopnik 3P |7.5kW (18A) [AC3] / 32A [AC1] | 48V AC | 1N/O                          267.66    4   1070.64    267.66
+Ugradna svjetiljka SERH 2 A8 L2 T5 1x54W, ECG, bijela                                 8534   14 119476.00  29869.00
+Plosnati kabel, 6-žični,bijeli,za tel. prespojne kabele,100m                        181.66   11   1998.26    499.56
+Relej 3 C/O |10A | 230VAC sa LED                                                     62.76   12    753.12    188.28
+Box stezaljka ARROW BLUE veličina 2 i 3                                               4821    4  19284.00   4821.00
+QR-CBC 51 35W SP 10° GU5,3 TI halog.žarulja                                          23.42   21    491.82    122.96
+Optička spojnica LC/APC DX SM,ker.,bez prirubnice,zelena,ECO                         21.42    2     42.84     10.71
+Savitljiva cijev (lagana) M50, 320N, 25m, HF, svijelto-siva                        2994.14    2   5988.28   1497.07
+Nosač sabirnice TT profila, 1-polni, za sustav 60mm                                  77.37   26   2011.62    502.91
+Nadgradna svjetiljka MERA OPAL 1x21W ECG, bijela                                    167.23    4    668.92    167.23
+Lamelirana bakrena sabirnica, 326A, duljina 2m, 3x20x1mm                              4835    9  43515.00  10878.75
+
+                                                                                                         ----------
+UKUPNO                                                                                                    288087.47
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

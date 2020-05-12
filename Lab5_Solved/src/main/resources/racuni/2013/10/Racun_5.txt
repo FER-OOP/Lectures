@@ -1,0 +1,23 @@
+Račun br. 446471
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Set za povezivanje AS ormara izvana (6 kom.)                                         320.1   26   8322.60   2080.65
+SAT utič. zavr.2x,radio/CATV,5-1.006MHz,3.5dB,bez okvira                             38.79    9    349.11     87.28
+DIII podnožje E33|3P, 63A/500V, montaža na sustav 60mm                               90.88   16   1454.08    363.52
+CUBIX I svjetiljka, GU10, 35W                                                       562.63   17   9564.71   2391.18
+Linijska svj. SERH-LF 112, početni profil,  2x80W, ECG, bb                          626.43   20  12528.60   3132.15
+Prirubnica 410x96, za uvodnice: 18xM16, 5xM20, 4xM25, 2xM32                         104.83    8    838.64    209.66
+FID sklopka 80-4-003/A (puls), G izvedba                                            1376.1   13  17889.30   4472.32
+Mini-Lynx, 11W, 2700K, E14                                                           62.51   28   1750.28    437.57
+NEW TRIA MINI DL SQUARE, 3W, 3000K, 30°, crne boje                                  205.96   21   4325.16   1081.29
+Dingo-R LED 5W 4500K 410lm, IP53, sive boje                                         145.81   19   2770.39    692.60
+Kabel 6mm2, crni, TÜV odobrenje, pakiranje 500m                                    1320.04   15  19800.60   4950.15
+
+                                                                                                         ----------
+UKUPNO                                                                                                     79593.47
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,30 @@
+Račun br. 1068932
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ulična svjetiljka QSTREET 04 1x250W HST IP65                                         856.5   26  22269.00   5567.25
+Samostojeći ormar, 2-vrata, 2000x1600x500 (VxŠxD), RAL 7035                        6929.51   30 207885.30  51971.32
+Dimer 20-315W/VA, tranzistorski, podžbukni                                          776.72   12   9320.64   2330.16
+Linijska svj. SERH-LT 112, srednji profil,  1x35W, ECG, bb                          557.71   22  12269.62   3067.41
+KVADRA 70M prolazno ožičenje 5x1,5mm2                                                15.82   12    189.84     47.46
+P/Ž kutija, 3 modula, POWERCOM/IKALL                                                 49.19   25   1229.75    307.44
+Daljinski isklopnik 220V DC/230V AC (kao rezervni dio)                             1268.48   19  24101.12   6025.28
+Priključnica 2xRJ45 cat.5e, oklop. univ., 80x80, RAL9010                             69.93   22   1538.46    384.61
+SOPRANA SOLID ovjesna svjetiljka Y-oblik, E27 25W, beton                            938.06    9   8442.54   2110.64
+GU10 LED, 5W, tople bijele boje, 30°, nije dim.                                     155.78   13   2025.14    506.29
+Ugradni okvir za GLENOS LED                                                          68.25   23   1569.75    392.44
+Telefonski rastavni utikač za 1 paricu, crveni                                        4.45   24    106.80     26.70
+Držač za instalacijsku cijev M25, sivi (pak.100 kom.)                                142.7   20   2854.00    713.50
+Produžetak za 1-faznu 3-f šinu, crna b.                                              68.25   20   1365.00    341.25
+Mini grijač 100W, 9-36V AC/DC                                                        517.1   12   6205.20   1551.30
+Prekidač opterećenja, 4 x 230V AC, 16A, C opterećenje                              2169.13   20  43382.60  10845.65
+Bezhalogeni kabel s el. funkc. do30 Min(N)HXCH2x2,5re/2,5E30                         10000   15 150000.00  37500.00
+Teretna sklopka, glavni modul,  3 x AC 230/400 V‚ 10 AX                            1454.59   13  18909.67   4727.42
+
+                                                                                                         ----------
+UKUPNO                                                                                                     513664.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

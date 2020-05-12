@@ -1,0 +1,26 @@
+Račun br. 736240
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Reflektor SET 150W HIT-DE RX7s IP65 crni asimetrični                                 970.9   19  18447.10   4611.77
+Punto-F LED, 7W, 3000K, 462lm, IP44, aluminij                                       238.74   16   3819.84    954.96
+Ovjes za LINUX LIGHT, krom                                                           187.2   23   4305.60   1076.40
+SAT kaskadna jedinica za 9 IN 6 OUT pasivna za HSATS5xxKA                            846.7   12  10160.40   2540.10
+Piktogram Linda 18W, strelica dolje                                                   7.15    5     35.75      8.94
+Prespojni kabel RJ45 cat.6 oklopljen,s pregibnicama,sivi,5m                          29.39   11    323.29     80.82
+Panik svjetiljka U8 Autotest LED 3W/3h, ugradna                                    3248.19   23  74708.37  18677.09
+Ronis polucilidar (umetak) 21323                                                    171.11   10   1711.10    427.77
+Pokrov za plosnatu tipku, crni                                                        8.52    2     17.04      4.26
+Valo X-Small LED, 15W, 3000K, 1050lm, IP20, crne boje                               351.43   27   9488.61   2372.15
+Traka za označavanje, visine 15mm/duljine 1m, samoljepljiva                          59.92    7    419.44    104.86
+Radne cipele broj 40                                                                731.84   15  10977.60   2744.40
+Tipka s ručicom,zelena,osvijetljena,2 polož.,50°,bez povrata                         44.43   11    488.73    122.18
+NV osigurač vel. 1, 50A/400V AC                                                      57.46   26   1493.96    373.49
+
+                                                                                                         ----------
+UKUPNO                                                                                                    136396.81
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

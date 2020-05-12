@@ -1,0 +1,19 @@
+Račun br. 906616
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Relej snage, 3C/O, 10A, 230VAC, Faston 187, Tip RM                                   83.26   19   1581.94    395.49
+LIPSY 30 LED stropna svj., okrugla, 13W, 3000K, 1050lm, bb                          625.15   11   6876.65   1719.16
+Halogena žarulja QR-LP 111 ECO 50W SP 6° G53                                         98.51    6    591.06    147.76
+Tris-II-R/A1 LED 3x1W 3000K 135lm,dimabilna,350mA,IP20,alu                           88.02   24   2112.48    528.12
+"Optički prespojni panel 19"", 1U, uklj. 12 spojnica LC SM"                         767.27    9   6905.43   1726.36
+Univer.opt.kabel A/I-DQ(ZN)BH 24x50/125µm OM4, LS0H-3, nm.                         5092.29   18  91661.22  22915.30
+Nadžbukna utičnica, dvostruka, 16A/250V, bijela                                      82.73   16   1323.68    330.92
+
+                                                                                                         ----------
+UKUPNO                                                                                                    111052.46
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

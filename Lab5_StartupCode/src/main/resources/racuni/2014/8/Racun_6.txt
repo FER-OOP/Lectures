@@ -1,0 +1,21 @@
+Račun br. 1071043
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+7904/AL, Aluminijski profil  2m + PC opal diffuser                                  183.15    1    183.15     45.79
+Fluo cijev T5|T16 28W/840 G5                                                         21.87   21    459.27    114.82
+Svj. za slike, 8W, krom                                                             938.06   13  12194.78   3048.70
+Bezhalogeni inst.kabel pob.svoj. za sl.požara NHXMH-J 5x2,5                          10000    4  40000.00  10000.00
+"Opt. razdjelnik,12 niti, SC, 9/125µm OS2, izvlačivi,19"",1U"                      1136.17   28  31812.76   7953.19
+RAZDJELNIK ZA ŠUPLJE STIJENE, 12+2 MODULA, 1-REDNI                                  209.66   26   5451.16   1362.79
+Ugradna svjetiljka SERH 625 T8 4/18W ECG sj. raster                                 540.18    2   1080.36    270.09
+Otvoreni prekidač, 3P, 80kA, 3200A, izvl., vod. str. priklj.                      77122.58   151156838.63 289209.66
+Modul signalne svjetiljke, treptajuće plavo svjetlo, 230V AC                        589.36    9   5304.24   1326.06
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1253324.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

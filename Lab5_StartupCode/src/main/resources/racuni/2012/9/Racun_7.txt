@@ -1,0 +1,16 @@
+Račun br. 393375
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Tipka za serijsku sklopku i dvostruko tipkalo, inox efekt                             70.4   20   1408.00    352.00
+Kompaktni prekidač snage tip A, 3P/32A/50kA, MC1                                    824.65   16  13194.40   3298.60
+Bočne stranice za Modul 2000/3S, dubine 102mm, tip 21/102                             4160   21  87360.00  21840.00
+Vrata, metalna za MODUL 160, 2x24 modula                                            251.07    5   1255.35    313.84
+
+                                                                                                         ----------
+UKUPNO                                                                                                    103217.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

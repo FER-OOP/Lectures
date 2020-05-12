@@ -1,0 +1,33 @@
+Račun br. 524458
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+EUTRAC završetak za 3-fazne ugradne šine, bij.                                       37.67   24    904.08    226.02
+DIGI-SAT 3000 koaks.75Ohm 1.02/6.6,90dB,kl.A,PVC,bijeli,100m                        179.52   28   5026.56   1256.64
+Relej za nadzor napona, 1 fazni, 1 C/O                                              398.23   22   8761.06   2190.27
+Matica PG36, mesing                                                                   8.17   25    204.25     51.06
+Fluokompaktna žarulja TC-Del 18W/840 G24Q-2                                          18.77    6    112.62     28.16
+Montažna ploča 5M-46                                                                  69.6    7    487.20    121.80
+Nap.stezaljka za EASYTEC II                                                         312.23   10   3122.30    780.58
+Ina-R LED 7W 4000K 530lm, dimabilna, 700mA, IP65, bijele b.                         249.21   17   4236.57   1059.14
+Mikro sklopnik 4NO, 2,2kW, 5A, 24VDC                                                105.47   17   1792.99    448.25
+NV osigurač vel. 1, 250A/400V AC                                                     50.89   23   1170.47    292.62
+PRIORI FID sklopka 63-4-003/A, G izvedba, za fr. pretvarače                        1842.89   22  40543.58  10135.90
+SOPRANA CONE, PD-1, sivo sjenilo, E14, max. 40W                                     500.12   24  12002.88   3000.72
+7304AG/D/36, 3LED 4,5w GU10 DL 36 ° 100-240V                                         46.46    3    139.38     34.85
+PURIA SPOT, bijele b., GU10, max. 50W, uklj. 1-f adapter                            244.99   10   2449.90    612.48
+Uzidni okvir s vratima+umetak, 3U-24, 100mm (plosnati)                             1913.42   13  24874.46   6218.62
+Devin-Q 2x13W G24d-1, 230V, IP20, brušeni krom                                       19.59   23    450.57    112.64
+Izvlačivi zapor za izjednačavanje tlaka, IP55 (2 kom.)                               81.87    7    573.09    143.27
+Bezhalogeni jednožilni vodič H07Z-K 1,5mm2, plavi                                    10000    3  30000.00   7500.00
+LIGHT EYE X3 ovjesna svjetiljka, 3x ES111                                          1433.11   23  32961.53   8240.38
+FID modul za MC2 (do 250A), 4P, 0.1-3A,tip B,ugradnja odozdo                       8635.52   21 181345.91  45336.48
+Podžbukni razdjelnik, 2-redni, 24+4 modula, bijeli, komplet                         237.75   16   3804.00    951.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     354963.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

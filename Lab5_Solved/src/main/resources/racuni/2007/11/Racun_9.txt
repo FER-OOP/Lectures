@@ -1,0 +1,30 @@
+Račun br. 836075
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Bočne stranice za AS ormare, 1800x500mm (VxŠ) RAL 7035 (par)                        754.94    3   2264.82    566.21
+Signalna LED svjetiljka na DIN nosač, crvena, 230V AC                                44.07   20    881.40    220.35
+Kabel JB-Y(ST)Y 20x2x0,8mm2                                                          10000   11 110000.00  27500.00
+Design GX LED 3h, 230V AC, stropna montaža, autotest, 34m                          1359.31   24  32623.44   8155.86
+Završna pločica za stezaljku IK200006-C, tip HMM.6, siva                              2.11    7     14.77      3.69
+Okvir za IKALL, 4-struki, srebrni                                                   588.65    6   3531.90    882.97
+Fluokompaktna žarulja TC-SEL 7W/830 2G7                                              20.16   12    241.92     60.48
+Janine-I-Q 50W GU5,3 MR16, 12V, IP20, aluminij                                      165.74   15   2486.10    621.53
+Standardna bakrena sabirnica, 30x5mm |450A| 2.4m,pokositrena                        769.93   13  10009.09   2502.27
+RFB LED 18W, 3000K, 1350lm, 100-240V, IP54, pc, bijele boje                         397.73   13   5170.49   1292.62
+4-ti pol za LTS20-LTS40 V                                                            67.08   13    872.04    218.01
+LED GU10 žarulja, 7W, SMD LED, 3000K, 36°,                                          124.52    1    124.52     31.13
+Ina-R/A2 50W GU5,3 MR16, 12V, IP20, aluminij                                         53.05   23   1220.15    305.04
+Adapter za spajanje sklopnika vel.00 na tiskanu pločicu                              13.41   14    187.74     46.93
+DOWNUNDER LED 15, zidna ugradna svjetiljka, bb, brušeni al.                         343.66    7   2405.62    601.41
+Finožični PVC-om izolirani vodič H07V-K (P/F) 185mm2, crni                         16150.5   10 161505.00  40376.25
+ENOLA ovjesna svjetiljka, okrugla , zlatna b., E27, max. 60W                        562.63   30  16878.90   4219.73
+Utični modul, Profibus interface za NA96 i NA96+                                   2350.71    8  18805.68   4701.42
+
+                                                                                                         ----------
+UKUPNO                                                                                                     369223.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

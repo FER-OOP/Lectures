@@ -1,0 +1,31 @@
+Račun br. 446218
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Grebenasta sklopka, 0-1-2/1P/20A, na vrata                                          119.22   10   1192.20    298.05
+Digitalni aktuator modul za VIP                                                     890.13    2   1780.26    445.07
+Okvir 2x2M line, mat crni                                                            46.42    7    324.94     81.24
+PRIORI FID sklopka 63-4-003/A, G izvedba, za fr. pretvarače                        1842.89    1   1842.89    460.72
+Redna stezaljka (vijčani priključak) 35mm², žuto/zelena                              41.43    7    290.01     72.50
+Solid LED traka u kućištu, 15W, 1095lm, 4000K, IP20, siva                           298.38   14   4177.32   1044.33
+Sutil Quadro LED 8W, 4000K, 560lm, 120°, IP40, sive boje                            132.63   28   3713.64    928.41
+INOX samostojeći ormar, 1800x600x400mm (VxŠxD)                                    19178.19    7 134247.33  33561.83
+ASSO LED zidna svjetiljka, oval, bijele b., 5W LED, 3000K                           938.06   13  12194.78   3048.70
+Sabirnica, 3P, viličasta, 10mm² (63A)|korak 18mm| 1m, AMPARO                        128.37   24   3080.88    770.22
+Okvir za vrata, za MC4, crni, IP40                                                  236.33    6   1417.98    354.49
+Zamjenjiva skala, 72x72mm, 250/500/5A AC                                              4399   23 101177.00  25294.25
+SLOTBOX 40 podna svj.,četvrtasta, antracit, 4.5W LED                                938.06    1    938.06    234.51
+Signalni fleksibilni kabel YSLCY-JZ 2x1,5                                            10000   17 170000.00  42500.00
+Voltmetar, 72x72mm, 30V DC                                                            4394   17  74698.00  18674.50
+Ventilator 230VAC, 15W, 50/60Hz, 160m3/h, 120x120mm                                 114.19   27   3083.13    770.78
+Uređaj za binarni ulaz, 8 x bezpotencijalni kontakt                                1651.96   20  33039.20   8259.80
+LS-FI (KZS), B/13A/30mA, 3P, Tip A, 10kA                                              4281   15  64215.00  16053.75
+Proširenje sa accu i punjačem za USMLT 480V / 40 x 65 Ah                          80363.55   231848361.63 462090.44
+
+                                                                                                         ----------
+UKUPNO                                                                                                    2459774.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

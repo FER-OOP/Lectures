@@ -1,0 +1,21 @@
+Račun br. 1071658
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+NV rastavna sklopka vel.00|125A,3P,priključak dolje,na ploču                       1309.47   17  22260.99   5565.25
+Bijela fascikla Schrack sa crvenom gumicom, pak=80 kom.                              23.31   14    326.34     81.58
+Internet Controlstation                                                            1871.23    1   1871.23    467.81
+"Ručno tipkalo ""Comfort"", 2 svjetleće tipke, bijelo, kabel 2m"                      2104   22  46288.00  11572.00
+Podnožje, pred./zad. pokrov perf.+filter, Š=600 za DS,-Z,-SS                        124.89   19   2372.91    593.23
+KADUX LED Single DL Set, 3000K, 38°, bijele boje                                    437.43   27  11810.61   2952.65
+PIPOFLEX zidna svj., crvena b., 4W, 3000K                                           500.12    4   2000.48    500.12
+FID sklopka 25-4-03/AC, 6kA                                                         238.77   13   3104.01    776.00
+Philips CorePro LED spot GU10, 4.5W, 36°, 2700K                                     124.52   14   1743.28    435.82
+
+                                                                                                         ----------
+UKUPNO                                                                                                     91777.84
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

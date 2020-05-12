@@ -1,0 +1,28 @@
+Račun br. 652760
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Fluokompaktna žarulja TC-L 18W/830 2G11                                               22.8   24    547.20    136.80
+D01 (Neozed) osigurač 6A, gL                                                          7.39    9     66.51     16.63
+Prednja ploča elektroničke sklopke za rolete, bijela                                 68.54   27   1850.58    462.65
+Izolirani kabelski tuljak, crveni, 35.0mm²/25mm                                       1.33   15     19.95      4.99
+Signalni fleksibilni kabel YSLY-JZ 41x1 sivi                                         10000   17 170000.00  42500.00
+Plosnati kut, SIGNO BK 70/110, RAL 9010                                             153.84    9   1384.56    346.14
+Gumeni kabel, otporan na temperat. do 110° H07G-K 6, crni                            10000   20 200000.00  50000.00
+FID sklopka 63-4-03/A (puls), 6kA                                                      588    6   3528.00    882.00
+Kabel H03VV-F (PP/L) 2x0,75mm2, bijeli, 500m kolut                                   10000    2  20000.00   5000.00
+Zaporni vijak M50x1.5, metrički, poliamid                                            14.04   18    252.72     63.18
+FlexLED Roll, RGB, 5m, 48LED/m, DC 24V                                              813.03   18  14634.54   3658.64
+Ugradna svjetiljka SERH 2 A8 L2 T5 2x49W, ECG, bijela                                 8534    1   8534.00   2133.50
+SPEED WORK stalak za 3 špule                                                       1071.13    9   9640.17   2410.04
+Konverter medija 1xRJ45 10/100/1000T - 1xFO SC 1000 MM 550m                            985   19  18715.00   4678.75
+Kabel H05VV-F (PP/J) 2x1,5mm2, svijetlo-sivi, 500m                                   10000   29 290000.00  72500.00
+Cilindrični osigurač, 8x31, 4A, gG, 400V AC                                           2.69   28     75.32     18.83
+
+                                                                                                         ----------
+UKUPNO                                                                                                    739248.56
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

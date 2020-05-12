@@ -1,0 +1,30 @@
+Račun br. 204432
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Signalni fleksibilni kabel YSLY-JZ 4x1 sivi                                         543.44   19  10325.36   2581.34
+Valo-II-R/A2 LED 2x15W 4000K 2x1200lm, IP20, bijele boje                            729.23    1    729.23    182.31
+Maskirni razdj. 2M-39, 13-redni, 273ŠM,1855x540x200mm(VxŠxD)                       3184.33   26  82792.58  20698.14
+Prva pomoć za automobil                                                              305.5   21   6415.50   1603.88
+UPS Multi Plus 20kVA 18kW 0min,3f/3f/Online/veliko kuć.                           44380.45    5 221902.25  55475.56
+N/PE sabirnica 1,5-16mm²|63A|1m|142 priključne stezaljke                            129.94   14   1819.16    454.79
+Mikrosklopka za ARROW BLUE Veličinu 00                                                4821   14  67494.00  16873.50
+Svjetleće tipkalo s plosnatom tipkom, zeleno, uskočno                                42.98   22    945.56    236.39
+Zaštitni prekidač, C karakteristika, 40A, 4-polni, 6KA                              144.59   30   4337.70   1084.42
+Linda LED CONIC 2x30W, 4000K, 8575lm                                               1604.35    4   6417.40   1604.35
+Trofazni nadzor napona sa BUS vezom RS485                                           895.41   26  23280.66   5820.17
+ROX OUT LED UP/DOWN,topla b. LED 2x3W                                              1063.26   26  27644.76   6911.19
+Sonda za štapni uzemlj. V4A 1.5m, Ø20mm s 3-dj.prsten.završ.                         411.7   19   7822.30   1955.57
+Set konektora za kombiniranje modularnih adaptera,60mm Comp.                         48.83   27   1318.41    329.60
+Tel. ormarić n/ž za 10 letvica 2/10, bez bravice                                    290.01   25   7250.25   1812.56
+UPS GENIO Flex Plus Tower 1500VA 1050W 5min 1f/1f, Line-Int.                        3795.3   23  87291.90  21822.97
+Nazidna kutija s okvirom, 1-struka, biserno bijela                                   78.47    6    470.82    117.71
+Podnožje prema širini AS/KS ormara, 400x100mm, RAL 7022                             251.75   26   6545.50   1636.38
+
+                                                                                                         ----------
+UKUPNO                                                                                                     564803.3
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

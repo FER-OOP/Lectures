@@ -1,0 +1,30 @@
+Račun br. 423742
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Linijska svj. SERH-LT 112, srednji profil,  1x49W, ECG, bb                          559.26    5   2796.30    699.08
+Kompaktni prekidač snage tip VE, 3P, 85kA, 1250A+izvl. modul                      45342.79   261178912.50 294728.13
+Rufus-II-R LED 3x3W 3000K, IP54, aluminij                                           696.11    3   2088.33    522.08
+BIMA II svjetiljka za 3-fazne šine, srebrne boje                                    531.37   15   7970.55   1992.64
+Podnaponski isklopnik za MC4, 380-440VAC+2 ranija pom. kont.                        967.38   19  18380.22   4595.06
+Bimetalni relej za sklopnike vel. 00 | 0,90 - 1,25A                                 161.33    6    967.98    241.99
+Sigma Single 20W, 4000K, 1400lm, 120°, alu, antracit                                251.91   13   3274.83    818.71
+Prsluk Store, ženski -X-large-                                                       449.7   14   6295.80   1573.95
+"2-struki okvir ""Scala"", inox efekt"                                                88.7    8    709.60    177.40
+Prednja ploča, čelična, sa otvorom za uređaje, 2G4                                    4160   16  66560.00  16640.00
+TRAIL podna svj.LED 650mm 19W 1800lm asim. 3000K                                      3294   24  79056.00  19764.00
+Prednja ploča antenske utičnice sa 4 otvora, biserno bijela                          29.51    3     88.53     22.13
+Modularni okvir za ormar 2000x600mm, 36 redova                                       691.5   16  11064.00   2766.00
+Držač okrugle šipke, dubina 86 mm                                                   167.35   17   2844.95    711.24
+"19"" fiksna polica do maks. 150kg, d=550mm, 1U, RAL7035"                           220.51    4    882.04    220.51
+Halogena žarulja QPAR-CB 20 75W 30° GU10                                             49.33   28   1381.24    345.31
+"Opt. razdjelnik,16 niti, LC, 9/125µm OS2, izvlačivi,19"",1U"                      1810.52    2   3621.04    905.26
+Kabel za napajanje produžni IEC C13, crni, 1.8m                                      29.63    6    177.78     44.44
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1387071.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

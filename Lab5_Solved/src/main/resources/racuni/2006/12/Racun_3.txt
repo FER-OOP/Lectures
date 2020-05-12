@@ -1,0 +1,33 @@
+Račun br. 172056
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+GLENOS PROFILE 2609, 2m, crne boje                                                  312.23   23   7181.29   1795.32
+Halogena žarulja QPAR 16 40W 35° E14                                                 33.97   30   1019.10    254.77
+FID sklopka 63-4-03/A (puls)                                                        680.21   14   9522.94   2380.74
+Nadgradna svjetiljka PRIMO M PRISMA 2x35W ECG, bijela                               348.28   17   5920.76   1480.19
+Glenos akrilni pokrov za Profile 1808, 2508, 2720, 1m                                62.51   26   1625.26    406.32
+Završni poklopac CLR okrugli sa rupom i vijcima                                       51.6   29   1496.40    374.10
+Miri-R 9W GX53, 100-240V, IP20, bijele boje                                          19.93   29    577.97    144.49
+Maria-WL-R LED 6W 3000K 440lm, IP54, antracit                                       377.96   21   7937.16   1984.29
+Konektiranje 2x8 ST SM utikača + zašt. za povlačenje                               3017.17    2   6034.34   1508.58
+Univer.opt.kabel A/I-DQ(ZN)BH 12x9/125µm OS2, LS0H-3, nm.                           599.93    5   2999.65    749.91
+Utikač za TYTAN II 3x10A sa D01 osiguračima, komplet                                167.16   25   4179.00   1044.75
+LED ES111 crne boje, 15W, 30°, 2700K                                                374.92   17   6373.64   1593.41
+N stezaljka sa 15 odvoda, izolirana                                                  34.63   18    623.34    155.84
+Flomaster, crni                                                                      24.06   24    577.44    144.36
+Zaštitni prekidač, D karakteristika, 20A, 3-polni+N, 10kA                           197.23   28   5522.44   1380.61
+Podnožje prema dubini AS/KS ormara, 800x200mm, RAL 7022                             283.08    2    566.16    141.54
+LED traka Flex 60 UWW IP43 RA90+ 1000lm/m 13,5W/m L=5m 24VDC                       1089.05   29  31582.45   7895.61
+Strujni trafo, 2000/5A 125x50                                                         4398   27 118746.00  29686.50
+Grebenasta sklopka, 1-0-2/4P/32A, montaža na DIN nosač                              622.45    6   3734.70    933.67
+Ugradno kućište za svjetiljku LUNA 20W MT                                           213.65   27   5768.55   1442.14
+Teretna sklopka, 4P, 630A, opcija: daljinski isklop                                3932.89    9  35396.01   8849.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     257384.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,17 @@
+Račun br. 765006
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Pomoćni kontakt, 1 N/O + 1 N/C, utične stezaljke                                     44.63   24   1071.12    267.78
+Linijska svjetiljka SOLO 2 1x14W ECG T5 bijela                                      163.04   19   3097.76    774.44
+MERVALED zidna svj., antracit, 12W LED, toplo bijela b.                            1063.26    5   5316.30   1329.07
+Uzidni okvir s vratima - M3000, 2U-21                                               781.97   22  17203.34   4300.83
+7512D/D/30, LED CREE 12x1w 30d DL 350mA, dimabilna                                  123.67   15   1855.05    463.76
+
+                                                                                                         ----------
+UKUPNO                                                                                                     28543.57
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

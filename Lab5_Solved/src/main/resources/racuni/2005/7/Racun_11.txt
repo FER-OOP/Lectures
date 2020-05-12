@@ -1,0 +1,24 @@
+Račun br. 435441
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Maskirni razdj. 3M-12, 4-redni, 132 ŠM, 595x760x200mm(VxŠxD)                          4180   30 125400.00  31350.00
+Kronos-II-Q/A2 50W G53 AR111, 12V, IP20, sive boje                                  126.04    5    630.20    157.55
+Termostat 5-35°C 6A 2M bijeli                                                       853.86   21  17931.06   4482.77
+"Opt. razdjelnik, 8 niti, SC, 62,5/125µm OM1, izvl.,19"",1U"                         796.8   21  16732.80   4183.20
+Frida-I-R 20W G4, 12V, IP20, bijele boje                                              5.23    4     20.92      5.23
+Prespojna ploča, 6 izlaza sa 3 premosnice, max.700mA,crne b.                        124.52    5    622.60    155.65
+IP2x zaštita od dodira, za 4-polne MC2                                               69.46   12    833.52    208.38
+Ugradni downl. SEGON LED 20W DALI 1900lm/840 MAT IP44 70°,bb                        739.14   29  21435.06   5358.77
+Kompaktni prekidač snage tip ME, 3P, 50kA, 220A+izvl. modul                        5888.02   29 170752.58  42688.14
+Transformator, 1-fazni | 400/230V | 2500VA, IP00                                   3167.53   26  82355.78  20588.95
+BIMA pano svj., krom                                                                500.12   25  12503.00   3125.75
+Optička spojnica LC QUAD MM 50/125 s prirubnicom                                     56.87   20   1137.40    284.35
+
+                                                                                                         ----------
+UKUPNO                                                                                                    450354.94
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

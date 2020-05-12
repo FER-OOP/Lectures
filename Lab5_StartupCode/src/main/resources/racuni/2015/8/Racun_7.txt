@@ -1,0 +1,25 @@
+Račun br. 411884
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Tel. okrugla šipka za do 500 parica, puna šipka                                     220.37   12   2644.44    661.11
+GLENOS tipla kamen/beton, za LED profile                                             15.54    2     31.08      7.77
+Zaštitni prekidač MB 25kA BT 40/3                                                   476.17   28  13332.76   3333.19
+ARROW-LINE, vel.2, 3P, V-stezaljke, za strujni trafo                                  4821   14  67494.00  16873.50
+RUSTY SLOT 50 ras.stupić asimetr., E27 max.11Wzahrđani čelik                       1558.31    5   7791.55   1947.89
+Prošireni pokrov stezaljki 39 or 34 mm za ARROW BLUE vel. 00                          4821   14  67494.00  16873.50
+Fluokompaktna žarulja TC-T 26W 827 Gx24D-3                                           46.69   24   1120.56    280.14
+Bezhal. kabel HSLH-JZ25x1,5FRNC H-F 1žila ž/z ostale crn/siv                         10000   30 300000.00  75000.00
+Audio vanjski panel, 36 tipki, sa PTT otvorom                                         4690   17  79730.00  19932.50
+Vodič SiF 2,5 crveni                                                                 10000   17 170000.00  42500.00
+Stropni nosač za M48 Area RAL9006                                                   334.38    7   2340.66    585.17
+Aluminijski montažni nosač 4H                                                         26.1   21    548.10    137.03
+Zaštitne naočale CETUS prozirne, EN166 i EN170                                      119.19   10   1191.90    297.98
+
+                                                                                                         ----------
+UKUPNO                                                                                                    713719.06
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

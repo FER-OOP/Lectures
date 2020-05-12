@@ -1,0 +1,23 @@
+Račun br. 239811
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Uzidni okvir s vratima - M3000, 2U-24                                              1008.18    6   6049.08   1512.27
+Optička spojnica LC dx, plast., ker. košuljica, SM                                   56.43   20   1128.60    282.15
+D02 rastavna sklopka TYTAN T, 3-polna + N, 63A                                      470.76    5   2353.80    588.45
+LED trake tople bb, 30,5cm, sa 24 LED, DC 24V                                        62.51    3    187.53     46.88
+Fluokompaktna žarulja TC-D/E 18W, 3000K, 4-Pin, za ECG                               43.76    9    393.84     98.46
+Soft-starter 3P, 2f upravlj. 25A/400-480VAC/24-480VAC/DC                           2815.55   16  45048.80  11262.20
+"Opt. razdjelnik, 24 niti, LC 50/125µm OM4, izvlačivi,19"",1U"                     2316.04    8  18528.32   4632.08
+Grupno signalno svjetlo, 24V DC, 2-struko                                             2104   26  54704.00  13676.00
+"Optička ladica, prazna, za 12xLC duplex spojnica, 19"", 1U"                        338.07    3   1014.21    253.55
+Industrijska utičnica, 5 polna, 32A, IP44, ugradna, kosa                            106.38   10   1063.80    265.95
+Kabelske vezice 100x2,5mm, bijele, pak.=25 kom.                                       2.11   12     25.32      6.33
+
+                                                                                                         ----------
+UKUPNO                                                                                                     130497.3
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

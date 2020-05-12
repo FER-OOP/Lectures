@@ -1,0 +1,22 @@
+Račun br. 1001830
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ispravljač,industrijski sa UPS funk.,115-230VAC/24VDC, 10A                         2602.84   15  39042.60   9760.65
+AFDD, series Lisa, C 20 A, 2-pole, 30 mA, type A, 10 kA                            1118.51   21  23488.71   5872.18
+Vremenski relej,multifunkcijski,8 funkcija,24-240VAC/DC,2C/O                        632.25    4   2529.00    632.25
+VAYNISSA zidna i stropna svjetiljka, 4x LED, bijele boje                            875.55   15  13133.25   3283.31
+Prespojni kabel RJ45 STP cat.6a/10GB, LS0H, zeleni, 0.5m                             24.82   23    570.86    142.71
+IP2x zaštita od dodira, za 3-polne MC3                                               80.74   29   2341.46    585.36
+D02 rastavna sklopka ARROW S, 1-polna, 25A                                            4824   27 130248.00  32562.00
+Ben-I-R LED 3x3W 3000K 450lm, IP54, aluminij                                        498.43   30  14952.90   3738.22
+Pokrov za NV podnožje vel. 00                                                         4821   11  53031.00  13257.75
+FlexLED Roll, RGB, 3m, 48LED/m, DC 24V                                              500.12   25  12503.00   3125.75
+
+                                                                                                         ----------
+UKUPNO                                                                                                    291840.78
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

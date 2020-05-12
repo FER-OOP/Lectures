@@ -1,0 +1,30 @@
+Račun br. 1003383
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kompaktni prekidač snage tip AE, 4P, 50kA, 800A                                    14774.8    8 118198.40  29549.60
+FI-blok 125A, 4-polni, 30mA, Tip A (Puls)                                          2154.33   15  32314.95   8078.74
+Zero LED 2x18W, 4000K, 4910lm, Ra>80, IP40, prizma, bijela                         1812.43   29  52560.47  13140.12
+L-Bodywarmer, podstavljen, vodoodbojan                                              460.23   20   9204.60   2301.15
+Komplet za povezivanje baterija za LPS microcontrol 4,5Ah                             5150   14  72100.00  18025.00
+Design IL ERT-LED 1x3W 230V AC/DC CPS ML, za visoke stropove                       1134.04   13  14742.52   3685.63
+Teški gumeni kabel H07RN-F 1x35, crni                                                10000   11 110000.00  27500.00
+FID sklopka 100-4-003/AC, 10kA                                                      672.39   19  12775.41   3193.85
+"Dvostruko svjetleće tipkalo crveno/zeleno oznake: ""I"" - ""0"""                    69.79   29   2023.91    505.98
+"Kofer s uzorcima ""Wave"" francuski standard"                                      226.05   11   2486.55    621.64
+KALOS ASL D-ulič.optika 30+10LED,4000K 90W,antracit, 2 kr.                         5427.45   13  70556.85  17639.21
+Signalni fleksibilni kabel YSLCY-OZ 4x 0,75 sivi                                     10000    2  20000.00   5000.00
+LED Aluminijski profil TBF 2000x25x12,5mm                                            58.64   14    820.96    205.24
+Ormar plast.1000x1000x312,krov protiv kiše,dno zat.,1 vrata                           4142    6  24852.00   6213.00
+Battery Box (bez punjača) za USPRD220ER i USPRD300ER 72V14Ah                       5338.04   20 106760.80  26690.20
+Svjetleće tipkalo s plosnatom tipkom, crveno                                         28.62    1     28.62      7.16
+Umetak dvostrukog tipkala, na oprugu                                                 22.35   30    670.50    167.63
+Mini-Lynx, 20W, 4000K, E27                                                           80.76    4    323.04     80.76
+
+                                                                                                         ----------
+UKUPNO                                                                                                     650419.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

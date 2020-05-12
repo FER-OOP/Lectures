@@ -1,0 +1,17 @@
+Račun br. 1091488
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Katalog PRENAPONSKA ZAŠTITA                                                              0   22      0.00      0.00
+Daljinski isklopnik za MC4, 230VAC/DC, sa ranijim pom. kont.                        903.09    8   7224.72   1806.18
+SOPRANA SOLID zidna svjetiljka, WL-1 , siva, E14, max. 60W                          625.15   27  16879.05   4219.76
+Zaštitni prekidač MB 15kA BT 40/3                                                   458.97   13   5966.61   1491.65
+Sklopnik 3P | 4kW (10A) [AC3] | 24V DC | + 1N/C (ugrađen)                           201.64    5   1008.20    252.05
+
+                                                                                                         ----------
+UKUPNO                                                                                                     31078.58
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

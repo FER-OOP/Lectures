@@ -1,0 +1,15 @@
+Račun br. 695083
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Sklopnik vel.6|90kW (185A) [AC-3]|220-240VAC, 50Hz|2N/O+2N/C                       2366.97   24  56807.28  14201.82
+BIMA pano svj., krom                                                                500.12   19   9502.28   2375.57
+Modul signalne svjetiljke,treptajuće plavo svjetlo,24V AC/DC                        769.07   25  19226.75   4806.69
+
+                                                                                                         ----------
+UKUPNO                                                                                                     85536.31
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

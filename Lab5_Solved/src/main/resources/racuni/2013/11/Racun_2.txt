@@ -1,0 +1,24 @@
+Račun br. 935085
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Maskirni razdjelnik 5 širina brojila/ 28 MV                                           4180    8  33440.00   8360.00
+Ispravljač, 1-fazni | 230-400/24VDC | 8A                                           1102.73    4   4410.92   1102.73
+Rolo-CL-R 35W GU10 MR16, 100-240V, IP54, antracit                                   146.65    3    439.95    109.99
+Halogena žarulja QR-CBC51 SP 35W ECO GU5,3 10°                                       34.44   10    344.40     86.10
+Kućište N/Ž, IP55, 3 modula, prozirna vrata                                          99.03   21   2079.63    519.91
+Okrugla fluo cijev T8, 40W, 3000K, G10q                                               95.8    3    287.40     71.85
+Okvir za prekidač MO3 4-pol 6300A horiz., 4 pom konektora                         41552.33    3 124656.98  31164.25
+Panik svjetiljka ESCAPE 2821 1h/NM, bijela                                          383.18   14   5364.52   1341.13
+Elektronski transformator, master, 50-200W                                            2103   16  33648.00   8412.00
+Ina-R/A2 35W GU4 MR11, 12V, IP20, aluminij                                            39.7   20    794.00    198.50
+Bezhalogeni jednožilni vodič H07Z-K 4mm2, plavi                                      10000   14 140000.00  35000.00
+Elektronska prigušnica ECG QTi 2x18/220-240 dim 1-10V                               335.09    5   1675.45    418.86
+
+                                                                                                         ----------
+UKUPNO                                                                                                    347141.25
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

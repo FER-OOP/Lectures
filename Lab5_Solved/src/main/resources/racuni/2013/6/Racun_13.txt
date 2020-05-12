@@ -1,0 +1,30 @@
+Račun br. 1033676
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"Pokrov plosnatog tipkala, crveni, oznaka ""STOP"""                                  14.29   15    214.35     53.59
+Zaštitni prekidač, C karakteristika, 6A, 1-polni, 10kA                               26.82   21    563.22    140.80
+Utičnica, 3-struka za SIGNO BK, RAL 9010                                            313.01    8   2504.08    626.02
+Telefonski set za zaštitu IP54 za razvodni ormar 03                                2171.92   23  49954.16  12488.54
+Siltu-R/A1 LED 18x1W 6000K 1080lm,dimabilna,350mA,IP20,alu                          255.46   13   3320.98    830.24
+Bezhalogeni kabel s el. funkc. do30 Min. (N)HXH-J4x120rmE30                          10000   25 250000.00  62500.00
+Punto-F MR16 Spot, GU5,3, 50W, IP20, 12V, brušeni mesing                             18.07   11    198.77     49.69
+Svjetiljka sa žarnom niti 110-130 V, BA15D                                           22.17    5    110.85     27.71
+Levante-S 10 LED 24W 2215lm 4000K rotosim.IP66,SKII,antracit                       2006.63   19  38125.97   9531.49
+Zaštitni prekidač MB 18kA CL 32/3                                                   458.97   20   9179.40   2294.85
+N-/PE stezaljke, 2xN (1x25, 7x4mm2) / 2xPE (1x25, 7x4mm2)                            73.04    9    657.36    164.34
+LED RL-PAR16 50 4,3W 230V 36° 827 350lm 750cd GU10 15000h                            32.25   10    322.50     80.63
+NV podnožje 1P, vel.1|250A, na ploču, M10, zaštita od dodira                         187.1   19   3554.90    888.72
+Zakretna ručica za montažu direktno na MC4 (crvena/žuta)                            396.41   12   4756.92   1189.23
+Tipka MO 1M sa simbolom zvona, bijela                                                 2.65   29     76.85     19.21
+TV priključnica MO 1M, osnovna, 0dB, bijela                                          32.67    3     98.01     24.50
+Prisjedni vijak za EZII, 2A                                                           3.09   13     40.17     10.04
+Modularna prednja ploča sa otvorom za 1x35 modula, 800x150mm                        125.64   24   3015.36    753.84
+
+                                                                                                         ----------
+UKUPNO                                                                                                    366693.84
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

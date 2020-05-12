@@ -1,0 +1,29 @@
+Račun br. 266771
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Grebenasta sklopka, (glavna,crveno/žuta),0-1/4P/25A,na vrata                        210.98   26   5485.48   1371.37
+MOTUS hibrid motor starter 1.5-9A, montaža na sustav 60mm                          1490.39    2   2980.78    745.20
+Zaštitni prekidač, B karakteristika, 13A, 2-polni, 10kA                              80.41   30   2412.30    603.08
+Upaljač PROMO mini bijeli                                                             4.48    6     26.88      6.72
+CORDA ovjesna svjetiljka, crne boje                                                1063.26   26  27644.76   6911.19
+L-SE spojnica RCP DEEP za T5 i T8 1+2str. (2kom)                                     15.97    9    143.73     35.93
+Plosnata traka Fe/Zn, 30x3.0mm, 1 bunt~50kg~69m                                      12.56    5     62.80     15.70
+Maskirni razdjelnik 2 širina brojila/ 24 MV                                           4180   19  79420.00  19855.00
+LIGHT EYE 2 GU10 zidna i str. svj. GU10 max.2x50W zelene b.                         625.15   22  13753.30   3438.33
+Gumena uvodnica za kabel, bijele boje 12mm/10mm                                       1.61   11     17.71      4.43
+INDI REC 1S, kardanska, MR16                                                        155.78    4    623.12    155.78
+Battery Box (bez punjača) za USPRD100 36V 7Ah                                      3186.89    5  15934.45   3983.61
+Napojna stezaljka, 95mm2 za vel.3, 1-polna                                           55.96    7    391.72     97.93
+Kada za brojilo, 3 ploče za brojilo u jednom redu, 3-reda                          1153.11   22  25368.42   6342.10
+TC RASTER 336, nadgradna svjetiljka TC-L 3x36W CCG, bb                              938.06    9   8442.54   2110.64
+KNX digitalni uklopni sat, 8 kanala                                                   2471   28  69188.00  17297.00
+LED traka 86 AW 100% Mix 18,8W/m 1383lm/m 24VDC IP44 l=5m                          1393.45   22  30655.90   7663.97
+
+                                                                                                         ----------
+UKUPNO                                                                                                     282551.9
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

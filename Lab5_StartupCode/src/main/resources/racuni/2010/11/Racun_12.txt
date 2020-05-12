@@ -1,0 +1,18 @@
+Račun br. 548647
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+MOTUS hibrid motor starter 0.18-2.4A, montaža na DIN nosač                         1505.86   12  18070.32   4517.58
+PlanoCentro 201, senzor prisutnosti, stropni, bijeli                                3725.4   26  96860.40  24215.10
+NEW TRIA LED 3W DL ROUND SET, brušeni alum., 3W, 38°, 3000K                         280.98   26   7305.48   1826.37
+"Smart Monitor u boji, bijeli, 3,5"", VIP"                                         3144.35   29  91186.16  22796.54
+N/Ž razdjelnik bez vrata, MODUL 160, 3x24 modula                                    829.07    1    829.07    207.27
+Punto-R 35W GU4 MR11, 12V, IP20, krom                                                 6.58   11     72.38     18.09
+
+                                                                                                         ----------
+UKUPNO                                                                                                     214323.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

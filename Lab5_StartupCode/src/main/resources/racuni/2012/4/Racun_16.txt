@@ -1,0 +1,17 @@
+Račun br. 862982
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ulična svjetiljka QSTREET 1x70W,E27,MT,EB IP65, siva                                944.31   30  28329.30   7082.33
+Sutil Round  LED 3W, 6000K, 210lm, 120°, IP40, bijele boje                           99.51    9    895.59    223.90
+Vrata, metalna za MODUL 160, 3x24 modula                                            275.63   29   7993.27   1998.32
+Spremnik za dokumentaciju, samoljepljivi, A4                                         21.38   21    448.98    112.25
+Stolni nosač za ICONA monitor                                                      1502.03   15  22530.45   5632.61
+
+                                                                                                         ----------
+UKUPNO                                                                                                    60197.594
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

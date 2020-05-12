@@ -1,0 +1,17 @@
+Račun br. 375740
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Prirubnica 410x96, za uvodnice: 18xM16, 5xM20, 4xM25, 2xM32                         104.83   25   2620.75    655.19
+Kompaktni prekidač snage tip A, 3P/100A/50kA, utični, MC1                          2213.08    5  11065.40   2766.35
+Grebenasta sklopka, 0-1-2-3/1P/10A, na vrata                                        225.88   16   3614.08    903.52
+Prespojni kabel RJ45 cat.6 neoklopljen, PVC, plavi, 1.0m                                 9   13    117.00     29.25
+Nazidni okvir s vratima za Modul 2000 | 2A-39 | dubina 300mm                       3314.93   19  62983.67  15745.92
+
+                                                                                                         ----------
+UKUPNO                                                                                                      80400.9
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

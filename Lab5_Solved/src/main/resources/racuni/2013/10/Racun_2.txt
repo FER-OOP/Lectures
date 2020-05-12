@@ -1,0 +1,31 @@
+Račun br. 282704
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+DIGI-SAT 3011 koaks.75Ohm 1.13/6.8,90dB,kl.A,PE,vanjski,500m                         242.4    9   2181.60    545.40
+Kompenzacija  LSFC 14% 150/25kvar 800x2110x500mm Samost.orm.                      50961.22   18 917301.94 229325.48
+L-SE slijepi pokrov DM PC T5 L-1489mm, bijeli                                         59.1   14    827.40    206.85
+Plafonjera SLAVO 260 9W 800lm/840 ECG, bijela                                       338.84   25   8471.00   2117.75
+7613C/W, 13w R7s 78mm WW                                                              6.92   28    193.76     48.44
+Trokatna stezaljka (utični priključak), 2.5mm², siva                                 11.54   22    253.88     63.47
+Meiva-Q/A1 LED 10W 3000K 825lm, IP20, aluminij                                      198.86   28   5568.08   1392.02
+GLENOS završni pokrov za profil 1107, sive boje                                      31.25   19    593.75    148.44
+Instal. umetak 3-39K komplet 13 IR prednja pl. čelik                               2698.58   30  80957.41  20239.35
+Q-Line Wall, zidna svj., bb sa krom zavr.pok.                                      1871.23   25  46780.75  11695.19
+Bimetalni relej za sklopnike vel. 3 | 18,00 - 25,00A                                336.67   18   6060.06   1515.02
+Ugradna svjetiljka SERH 2 A1 L1 T5 4x14W, ECG, bijela                               587.96   26  15286.96   3821.74
+Okrugla fluo cijev T16-R 55W/830 2G13                                               115.11    4    460.44    115.11
+Stakleni pokrov DL 220 LED IP44 sa montažnim priborom, opal                          83.77   16   1340.32    335.08
+Metalhalogena žarulja HIT 1000W E40 8,25A, 1KV                                     1482.16   29  42982.64  10745.66
+Luigi-WL-R 15W E27, 100-240V, IP44, antracit                                        183.15   22   4029.30   1007.32
+Maya-II-S 8W T5, 230V, IP44, krom                                                   384.55    8   3076.40    769.10
+FID sklopka 63-4-01/A (puls)                                                        710.93    7   4976.51   1244.13
+Grebenasta sklopka, (glavna,crno/siva), 0-1/3P/40A, na vrata                        244.16   15   3662.40    915.60
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1145004.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

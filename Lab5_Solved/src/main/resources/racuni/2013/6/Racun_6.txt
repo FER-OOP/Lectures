@@ -1,0 +1,24 @@
+Račun br. 936928
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ida2 LED 3W, 3000K, 48lm, IP65, alu, bijele boje                                    331.49   11   3646.39    911.60
+Ugradna svjetiljka SERH 2 A8 L1 T5 1x35W, ECG, bijela                                 8534   24 204816.00  51204.00
+Uzidni okvir s vratima - M3000, 5U-39                                              2377.77   30  71333.10  17833.28
+Phos B42 dvostruka poluga za stup 76mm siva RAL9006                                8039.73    3  24119.19   6029.80
+DC zaštitni prekidač, C 25A, 1-polni, 10kA                                            70.4   19   1337.60    334.40
+Ugradna svjetiljka SERH 2 A8 L1 T5 2x28W, ECG, bijela                               640.71   26  16658.46   4164.62
+Ovjesna svjetiljka OFFICE ECO DIR PAR 2x28W ECG, siva                               488.98   23  11246.54   2811.64
+Vrata, staklena, za kom. ormare, 42U, širina 600 mm                                 886.97    5   4434.85   1108.71
+Zaštitni prekidač sa svojstvima rastavljača, C 125A, 2-polni                        567.52    5   2837.60    709.40
+Kompaktni prekidač snage tip AE, 4P, 150kA, 630A+izvl. modul                      12817.65    4  51270.60  12817.65
+Proširenje prazno,bez punjača za USMLT, za 40Ah                                   16773.12   28 469647.34 117411.84
+Prespojni kabel RJ45 cat.5e neoklopljen, PVC, žuti, 0.5m                              4.22   16     67.52     16.88
+
+                                                                                                         ----------
+UKUPNO                                                                                                     861415.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

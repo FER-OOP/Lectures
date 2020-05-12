@@ -1,0 +1,28 @@
+Račun br. 209296
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+AIXLIGHT PRO I FRAME ugradno kućište, srebrne boje                                  249.72    9   2247.48    561.87
+PATH POLE 17cm 360° 8x1W LED, 40° 3000K RAL9006                                     2067.8   18  37220.40   9305.10
+"Samostojeći kom. ormar IP54 600x1970x600 ŠxVxD, 19"", 42U"                        4976.19    4  19904.76   4976.19
+USB 3.0 kabel, USB A muški - USB B, 5 Gbps, crni, 1.8m                               28.42    8    227.36     56.84
+Nadgradna svjetiljka LUCIE 1x28/54W QTI, opal pokrov, eloks.                        720.45    4   2881.80    720.45
+SAT n/ž kutija za HSZUDxR77A, 75x75mm, v=32mm, RAL9010                                 4.4    6     26.40      6.60
+BARRO Up/Down zidna svj., srebrne boje                                              625.15   11   6876.65   1719.16
+Ugradna svjetiljka SERH ECO T5 4x24W ECG IP54 M600, bijela                          541.73   26  14084.98   3521.24
+Tinjalica, bistra, BA9s, 200-250V AC, 0.3W                                           14.31    2     28.62      7.16
+"Optička ladica, prazna, za 24xSC duplex spojnica, 19"""                            338.64    6   2031.84    507.96
+Sylvania GU10 žaruljA, 50W, 25°, 2700K                                               43.76    8    350.08     87.52
+Označne pločice '1', Dekafix DY5 (sadrži 50 oznaka)                                   8.45    4     33.80      8.45
+Kabanica veličina L                                                                   9843   22 216546.00  54136.50
+Pokrov za BIG LED PLOT okr., 4 zrake, srebrne boje                                  143.65   25   3591.25    897.81
+Tipkalo s plosnatom tipkom, crveno, uskočno, s držačem                               42.98   18    773.64    193.41
+Nazidna utičnica, 3-struka, horizontalna, siva, 16A, IP44                           487.44   13   6336.72   1584.18
+
+                                                                                                         ----------
+UKUPNO                                                                                                    313161.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

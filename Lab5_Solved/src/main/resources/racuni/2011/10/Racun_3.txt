@@ -1,0 +1,26 @@
+Račun br. 917889
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Centralni upravljački modul, za sobu                                                  2104    1   2104.00    526.00
+Kompaktni prekidač snage tip VE, 3P, 85kA, 1600A+izvl. modul                      59795.89   301793876.75 448469.19
+Linijska svjetiljka SOLO 2 1x58W ECG T8 bijela                                      159.79   15   2396.85    599.21
+Sklopnik vel. 00 | 4kW (9A) [AC-3] | 230VAC, 50/60Hz |1 N/O                         107.32    5    536.60    134.15
+Daljinski isklopnik 230V AC, ugradnja desno, za MY1                                 218.97   17   3722.49    930.62
+Dimabilna elektronika 10226BF/50226BF                                                36.66   15    549.90    137.48
+Poliester zidni ormar MINIPOL, zatv. u 3 točke,400x400x200mm                       1123.76   15  16856.40   4214.10
+Prednja ploča, čelična, slijepa, 4B10                                                 4160   26 108160.00  27040.00
+HDMI 1.4 kabel, 2xHDMI19 tip A muški, Ferrit/Gold, crni, 15m                        288.24   22   6341.28   1585.32
+Zaštitni prekidač, B karakteristika, 6A, 2-polni, 10kA                               99.09   25   2477.25    619.31
+Montažna šina7045 sa kab. kanalom, dužina 4,15m                                     594.31   24  14263.44   3565.86
+T5 fluo cijev 24W, 2700K                                                             62.51   24   1500.24    375.06
+Kabel H05VV5-F 18x2,5 sivi                                                           10000   17 170000.00  42500.00
+GLENOS kutni profil 2720-200, 2m, aluminij                                          287.23   27   7755.21   1938.80
+
+                                                                                                         ----------
+UKUPNO                                                                                                    2130540.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

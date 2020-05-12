@@ -1,0 +1,18 @@
+Račun br. 149584
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kompenzacija  LSFC 14% 300/50kvar 800x2110x500mm Samost.orm.                      74872.93   261946696.13 486674.03
+Podesiva spojnica za EASYTEC II                                                     374.92   21   7873.32   1968.33
+Kofer za alat 56-dijelni                                                           1097.89   29  31838.81   7959.70
+Jednostruka ugradna utičnica za kanale SIGNA RAL9010                                219.61    9   1976.49    494.12
+Serijski ormar AS, 2-vrata, 2000x1200x400 (VxŠxD), RAL 7035                        5099.82   11  56098.02  14024.51
+Bočni profil                                                                         87.09   17   1480.53    370.13
+
+                                                                                                         ----------
+UKUPNO                                                                                                    2045963.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

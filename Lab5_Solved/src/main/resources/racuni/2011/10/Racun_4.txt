@@ -1,0 +1,22 @@
+Račun br. 1049631
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zaštitni prekidač AMPARO 6kA, C 25A, 2-polni                                         56.88   21   1194.48    298.62
+Pokrov podnožja IS504823--, 3-polni, širina 36mm                                      7.47   25    186.75     46.69
+Utični modul Ethernet za NA96 i NA96+                                              1557.48    7  10902.36   2725.59
+Bazni modul stezaljke sa vijcima                                                    263.88   11   2902.68    725.67
+Okvir 2/3M line, zlatni                                                              35.64    7    249.48     62.37
+Otvoreni prekidač, 4P, 55kA, 1600A, fiksni, prednje priklj.                       39004.05   21 819085.06 204771.27
+Tipkalo sa indikacijom L-N, normalno otvoreno                                        20.52    2     41.04     10.26
+Linijska svj. SERM 112 2x54W, ECG, bijele boje                                      495.34   22  10897.48   2724.37
+3-fazna LED signalizacija prisutnosti napona                                          98.3    8    786.40    196.60
+Otvoreni prekidač, 3P, 80kA, 2000A, fiksni, prednje priklj.                       39316.48   281100861.50 275215.38
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1947107.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

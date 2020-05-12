@@ -1,0 +1,25 @@
+Račun br. 195229
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Centralni bistabilni relej, 3 N/O, 230VAC                                           533.96    8   4271.68   1067.92
+Zakretna ručica za MC4, zaključavanje, na vrata (crna/siva)                         786.33   16  12581.28   3145.32
+Wago utična stezaljka za razvodne kutije, 8 x (0.75-1.5)mm²                           2.19   10     21.90      5.48
+Mura-WL-R 2x9W GX53, 100-240V, IP54, aluminij                                       424.25   18   7636.50   1909.13
+Pinta-II-Q/A1 50W GU10 MR16, 100-240V, IP20, bijele boje                             59.64    4    238.56     59.64
+Okvir za n/ž ugradnju HSED0xUWxS, 80x40x80mm, RAL9010                                    7    5     35.00      8.75
+Ugradni nosač profila SL                                                              50.2   11    552.20    138.05
+NEW TRIA I MR16 Downlight, četvrtasta, brušeni aluminij                             191.93    9   1727.37    431.84
+Tipkalo+LED, 16A, 24V AC/DC, 1 N/O + 1 N/C, montaža na DIN                           86.83    4    347.32     86.83
+Panik svjetiljka ESCAPE 2831 1h/NM, bijela                                          461.37   15   6920.55   1730.14
+Samostojeći ormar INOX, 2000x1000x600mm, IP56, AISI304                             22875.2   14 320252.78  80063.20
+NEW TRIA LED DL okrugli Set, 12W, 3000K, 38°,brušeni alumin.                        938.06   24  22513.44   5628.36
+L-SE el. uložak DM 1x58W ECG                                                        220.44   24   5290.56   1322.64
+
+                                                                                                         ----------
+UKUPNO                                                                                                    382389.12
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

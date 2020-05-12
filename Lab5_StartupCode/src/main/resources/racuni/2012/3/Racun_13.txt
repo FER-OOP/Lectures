@@ -1,0 +1,23 @@
+Račun br. 603975
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+FN set 3kW za eternit, 20 modula                                                  49474.63    6 296847.78  74211.95
+Ugradna svjetiljka SELENA OP LED 39W M600 4150lm/830 DALI,bb                       1039.44    5   5197.20   1299.30
+SQUARE Downlight, bijela                                                             93.26   30   2797.80    699.45
+Završni poklopac profila TBE ravni zatvoreni, sa vijcima                              50.2   25   1255.00    313.75
+Tipka sa simbolom zvona, svjetleća, biserno bijela                                   25.61   12    307.32     76.83
+KALU LED 2 FLOOR podna svjetiljka, 2x10W, 3000K, bb/cb                             1558.31   21  32724.51   8181.13
+"Samostojeći kom. ormar DS 800x1970x800, 19"", 42U, bez vrata"                     3256.59   20  65131.80  16282.95
+LUZO LED DISKstrop.ugradb.prsten,okrugli,bijeli 2700K85°                            625.15   21  13128.15   3282.04
+"19"" fiksna polica do maks. 80kg, d=550mm, 1U, RAL7035"                             166.9   14   2336.60    584.15
+Prazno kućište za zujalo, crno, sa BA 9s postoljem, IP 40                             38.7    2     77.40     19.35
+Punto-F LED, 5W, 3000K, 382lm, IP44, aluminij                                       212.21   11   2334.31    583.58
+
+                                                                                                         ----------
+UKUPNO                                                                                                    422137.88
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

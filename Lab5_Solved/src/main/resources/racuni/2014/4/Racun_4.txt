@@ -1,0 +1,14 @@
+Račun br. 666486
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Pokrov 45F za DIII, E33 postolje, za IP74069--                                        4821   22 106062.00  26515.50
+Katalog PRENAPONSKA ZAŠTITA                                                              0   28      0.00      0.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     106062.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

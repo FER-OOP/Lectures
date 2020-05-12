@@ -1,0 +1,27 @@
+Račun br. 888658
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+MEGAMAN LED AR111, 11W, 45°, 4000K, dim.                                            500.12   20  10002.40   2500.60
+Finožični PVC-om izol. vodič H07V-K (P/F) 2,5mm2,naranč. HPV                         10000   20 200000.00  50000.00
+"Opt. razdjelnik, 24 niti,ST,50/125µm OM2, izvlačivi,19"",1U"                       1030.7    2   2061.40    515.35
+SAT stup za r. krov, 4xbeton 50x50cm, V=300cm, čelik                               3266.94    4  13067.76   3266.94
+9G09MD/D/E, LED dimabilna DL 8.5W E27 230v                                          117.25    8    938.00    234.50
+Finožični PVC-om izolirani vodič H07V-K (P/F) 2,5mm2, bijeli                        195.31   20   3906.20    976.55
+Kabelski konektor FLEX, Cat.7 STP, AWG 22, bijeli                                     6021   19 114399.00  28599.75
+Modul signalne svjetiljke, treptajuće zeleno svjetlo,230V AC                        606.25   30  18187.50   4546.88
+Alu H/C mont. nosač za kanal za stranice razdj., širina 2                            27.64    2     55.28     13.82
+Panik svjet. KMB   , aku.bat LED 8h 230VAC , univ.SC                                862.06    4   3448.24    862.06
+Signalni kontakt za FID sklopke                                                      51.79   16    828.64    207.16
+Signalni fleksibilni kabel YSLY-OZ 2x0,5 sivi                                        211.5   30   6345.00   1586.25
+Touch monitor, 230V AC, 50Hz                                                          2471    6  14826.00   3706.50
+Okvir za prekidač MO2 4-pol 2000A horiz., 4 pom konektora                         11688.65   30 350659.50  87664.88
+Napajanje, 24V DC, 1A, montaža na DIN nosač, SELV                                   387.58   15   5813.70   1453.42
+
+                                                                                                         ----------
+UKUPNO                                                                                                     744538.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

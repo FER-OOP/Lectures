@@ -1,0 +1,15 @@
+Račun br. 698070
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Nadgradna svjetiljka PRIMO M PRISMA 1x24W ECG, bijela                               234.87    5   1174.35    293.59
+Kabel LiYY 24x0,34                                                                   10000    5  50000.00  12500.00
+Kišobran plavo/srebrni                                                               61.86   27   1670.22    417.55
+
+                                                                                                         ----------
+UKUPNO                                                                                                     52844.57
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

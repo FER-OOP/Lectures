@@ -1,0 +1,32 @@
+Račun br. 559464
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ovjes sa stropnom rozetom i razvodnom kutijom 5P, 1,2m                               75.55   22   1662.10    415.52
+IKALL metal modul, 1 tipka, za audio/video jedinicu                                 612.71    7   4288.97   1072.24
+FID sklopka 40A, 4P, 30mA, Tip EV, za električna vozila                            4602.19    9  41419.71  10354.93
+Maxime-I-Q LED 16W 6000K, IP20, bijele boje                                         644.92   29  18702.68   4675.67
+POWER LIM 2 LED RGB Slave upr., 24V uklj. napajanje 60W                             938.06   23  21575.38   5393.85
+"Zidni komunikacijski ormar DW Monoblock 600x770x395, 19"",15U"                    1080.76   18  19453.68   4863.42
+Zaštitni prekidač MB 25kA CL 80/3                                                   476.17    4   1904.68    476.17
+Varistor 127-240VAC / 150-250VDC, za sklopnike veličine 00                           28.06   18    505.08    126.27
+NV rastavna sklopka vel.00|160A, 3P, M8, sustav 60mm                                303.91   27   8205.57   2051.39
+Relej 3 C/O |10A | 110VDC                                                            60.24   24   1445.76    361.44
+Izolir traka, bijela, 15mm x 10m - COROPLAST                                          5.99   24    143.76     35.94
+"FIN POLE 50cm LED 9x1W 3000K ""DOWN"" MAT STAKLO sive boje"                       3246.99   19  61692.81  15423.20
+Odvodnik prenapona klase C (komplet), 1+1, 20kA/280V, UAS                           427.92   14   5990.88   1497.72
+Kabel za mot. pogon sa Cu širmom 2YSLCY 4x2,5 EMV Stand.                           3895.43   27 105176.61  26294.15
+Ugradna svjetiljka SEO ECO T8 4x18W ECG M625, bijela                                370.77   14   5190.78   1297.69
+ARKTUR SQUARE PLUS LED 220W 26600lm/765 ECG IP66 110°                              5920.91    6  35525.46   8881.37
+Sig. Svj. ZAA 230VAC, 8h, autot., -25°C do35°C,vanjska bat.                        2253.97   18  40571.46  10142.87
+Paralelna spojnica (kratkospojnik) za 50 stezaljki IK110002-                          4850   19  92150.00  23037.50
+Signalni fleksibilni kabel YSLY-JZ 34x1,5 sivi                                     6618.48   25 165462.00  41365.50
+Nosač sabirnica centralnog napajanja, 3P, srednji                                     4836    6  29016.00   7254.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     660083.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

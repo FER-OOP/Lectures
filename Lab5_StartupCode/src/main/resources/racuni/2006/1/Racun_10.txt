@@ -1,0 +1,24 @@
+Račun br. 1020496
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zatvarač, 4-polni, veličina 1 (kao rezervni dio)                                      4970   10  49700.00  12425.00
+Aluminijski profil CLU                                                              104.83   26   2725.58    681.40
+Fluo cijev T8|T26 36W/827 G13                                                        14.11   18    253.98     63.49
+Optički završetak ST, 50/125µm OM3, 2.0m (4 kom.)                                    76.92   23   1769.16    442.29
+Signalni fleksibilni kabel YSLY-JZ 40x0,5 sivi                                       10000    8  80000.00  20000.00
+Kabel H05VVC4V5-K 4x0,75 sivi                                                        10000   12 120000.00  30000.00
+Poliester ormar, vrh i dno zatv., 1 vrata 500x1000x312 (VŠD)                       2450.72   16  39211.52   9802.88
+NV osigurač vel. 00, 25A/400V AC                                                     19.18   15    287.70     71.93
+Bezhalogeni kabel s el. funkc. do30 Min. (N)HXH-J4x6reE30                            10000   14 140000.00  35000.00
+7914R/AL, Alu. podni ugradni profil 2m+3mm PC opal pok. IP67                        278.44   27   7517.88   1879.47
+Hector-S/A1 70W Rx7s, 230V, IP20, sive boje                                          19.59    5     97.95     24.49
+Linijska svjetiljka SOLO 2 T5 2x49W ECG, bijela                                      249.3   11   2742.30    685.58
+
+                                                                                                         ----------
+UKUPNO                                                                                                    444306.06
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,19 @@
+Račun br. 241423
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Viano-II-R/A1 LED 6x1W 3000K 270lm,dim.,350mA,IP20,crne b.                          119.28   15   1789.20    447.30
+Montažna ploča, širine 3PB, visina 294mm                                              4063   29 117827.00  29456.75
+Sander-I-R/A2 LED 35W 4000K 3350lm, IP20, sive boje                                 848.68    1    848.68    212.17
+Fleks. kabel SF/UTP 4x2xAWG26/7, cat.5e, 200MHz,PVC,crveni                          520.52   28  14574.56   3643.64
+Set za učvršćenje Maxipol POVA i POVC ormara za zid (4 kom.)                          4160   15  62400.00  15600.00
+LED R80 70 DIM 5W 230V 36° 827 360lm 960cd E27 25000h                                88.78   17   1509.26    377.32
+Pokrov za svjetleće tipkalo, individualni                                            13.04   26    339.04     84.76
+
+                                                                                                         ----------
+UKUPNO                                                                                                    199287.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

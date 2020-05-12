@@ -1,0 +1,15 @@
+Račun br. 305833
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Halogena žarulja QR-CBC51 FL 35W ECO GU5,3 24°                                       34.44   15    516.60    129.15
+L-SE LSK 1.5 1x44WLMW 4750lm 840 ECG, bijele boje                                  1228.16   23  28247.68   7061.92
+Rastavna sklopka za cilind. osig. 10x38mm, 1P/20A, Fotonapon                         24.39   18    439.02    109.75
+
+                                                                                                         ----------
+UKUPNO                                                                                                      29203.3
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

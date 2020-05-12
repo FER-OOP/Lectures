@@ -1,0 +1,33 @@
+Račun br. 917622
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Montažna ploča za Maxipol ormare 750X1000 (VxŠ), metalna                            629.44   25  15736.00   3934.00
+KADUX 2 ES111 Downlight, četvrtasti, brušeni al., max. 2x50W                        875.55    9   7879.95   1969.99
+Teretna sklopka, 3P, 63A                                                            617.43   12   7409.16   1852.29
+Maskirni razdj. 2M-45, 15-redni, 315ŠM,2130x540x200mm(VxŠxD)                       3794.11   13  49323.43  12330.86
+Priključna kutija, nehrđajući čelik, 300x400x120(VxŠxD),IP66                       1672.09    5   8360.45   2090.11
+Panik svjetiljka KC FLUO 11W, CPS sustav,zidna                                      435.59   10   4355.90   1088.97
+SEMP LED M625 55W, 4000K, 4500lm, DALI, IP20, opal, RAL9003                        2179.98   25  54499.50  13624.88
+Nadgradna svjetiljka SAP ECO T8 2x18W ECG, bijela                                   266.83   20   5336.60   1334.15
+Trakasta obujmica V2A za cijevi Ø8-18mm priključak 2.5-16mm²                         11.16   24    267.84     66.96
+Sander-I-R/A2 LED 35W 4000K 3350lm, IP20, bijele boje                               848.68   18  15276.24   3819.06
+FI-blok 40A, 4-polni, 100mA, Tip A (Puls)                                             4290   28 120120.00  30030.00
+Pokrov (gore/dolje) za TT i TTT sabirnice u sustavu 60mm                            253.83   23   5838.09   1459.52
+Držač za RM releje                                                                       3   12     36.00      9.00
+Zaštitni prekidač, C karakteristika, 2A, 2-polni, 6kA                                 83.9    6    503.40    125.85
+LS-FI (KZS), B/6A/30mA, 1P+N, Tip A, 6kA                                            286.44   18   5155.92   1288.98
+Lingo LED 3W, 24V, dimabilna, IP20                                                   51.36    8    410.88    102.72
+Maskirni razdjelnik 1 širina brojila/ 21 MV                                           4180   16  66880.00  16720.00
+Stace-II-S LED 3x0,2W 6000K, IP20, aluminij                                         175.88   24   4221.12   1055.28
+FID sklopka 16-2-001/A (puls)                                                       582.23    7   4075.61   1018.90
+SAT multiswitch 5 IN 16 OUT za quattro LNB,unut. napajanje                         1155.32   15  17329.80   4332.45
+FID sklopka 80-2-003/AC, 10kA                                                       414.98   19   7884.62   1971.16
+
+                                                                                                         ----------
+UKUPNO                                                                                                    400900.53
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,20 @@
+Račun br. 744462
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+L-SE sjenilo R2 2x36W bijele boje                                                    91.06    8    728.48    182.12
+Bezhalogeni kabel s el. funkc. do30 Min. (N)HXH-J5x25reE30                           10000    4  40000.00  10000.00
+Metalhalogena žarulja HIT-DE-CE 150W/830 RX7S                                       245.73   22   5406.06   1351.52
+IBDN LINE alat za nabacivanje za 110                                                358.73   28  10044.44   2511.11
+Spojnica za cijev KSX50/50                                                           16.63   24    399.12     99.78
+Relej snage, 1C/O, 12A, 12VDC serije RT, raster 3.5mm                                17.56    6    105.36     26.34
+Neizolirana Cu stopica 50mm², M6                                                      7.69    7     53.83     13.46
+Optički prespojni kabel duplex, LC/LC, 50/125µm OM3, 10m                            146.86   13   1909.18    477.30
+
+                                                                                                         ----------
+UKUPNO                                                                                                     58646.47
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,18 @@
+Račun br. 651701
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+IKALL metal modul sa 6 tipki                                                        867.46   12  10409.52   2602.38
+Ugradna svjetiljka SE-ID ECO PAR L1 T5 2x14W ECG M625,bijela                        630.47   22  13870.34   3467.58
+LED OUTDOOR BEAM, srebrne boje,50W, LED bb,130°                                    1685.54   16  26968.64   6742.16
+Kompaktni prekidač snage tip VE, 4P, 50kA, 630A+izvl. modul                       11999.52   24 287988.47  71997.12
+Conrad-WL-S/A2 LED 3+40W 3000K 100lm, IP20, krom                                    450.78   27  12171.06   3042.76
+Kompaktni prekidač snage tip AE, 3P, 85kA, 800A+izvl. modul                       13772.16   12 165265.92  41316.48
+
+                                                                                                         ----------
+UKUPNO                                                                                                    516673.94
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

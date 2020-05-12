@@ -1,0 +1,18 @@
+Račun br. 1025265
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kliješta za krimpanje 210808                                                          2303    4   9212.00   2303.00
+Lano LED 48W, 3000K, 3600lm, IP20, UGR19, 120°, M625, bb                            629.88   20  12597.60   3149.40
+Punto-F IP44 Spot round, MR16 GU5,3, 50W, bijela                                     49.84    1     49.84     12.46
+Nadgradna 3fazna strujna šina 2m 16A bijela                                         330.28   24   7926.72   1981.68
+Dimer, uzidni, AB60600W RC                                                          419.67   18   7554.06   1888.52
+SIGHT 54, nadgradna svjetiljka, brušeni aluminij, 54W                              1188.46    2   2376.92    594.23
+
+                                                                                                         ----------
+UKUPNO                                                                                                     39717.14
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

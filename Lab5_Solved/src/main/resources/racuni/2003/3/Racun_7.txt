@@ -1,0 +1,23 @@
+Račun br. 588472
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Nubil-TR-Q 2x20W E27, 100-240V, IP20, bijele boje                                   238.74   27   6445.98   1611.49
+Kompaktni prekidač snage tip A, 3P, 36kA, 320A                                      3033.7   10  30337.00   7584.25
+Natrijeva žarulja HST 100W E40 Super 4 Year OS                                      107.19   30   3215.70    803.93
+Marra LED traka 19,2W/m 3000K 1250lm/m, dimabilna, IP20                             879.43   20  17588.60   4397.15
+Zamjenjiva skala ampermetra za montažu na DIN nosač, 150A/5A                         37.39   12    448.68    112.17
+RY relej, 1C/O, 8A, 24VDC, raster 3,2mm                                              22.19   29    643.51    160.88
+Kabel E-AY2Y-J 4x95SM                                                                10000    3  30000.00   7500.00
+Zaštitni prekidač AMPARO 6kA, B 25A, 2-polni                                         56.88   30   1706.40    426.60
+7308GD/D/45, LED 7w dimabilna GU10 DL 45 °                                           57.44    2    114.88     28.72
+Zaštitni prekidač, D karakteristika, 2A, 2-polni, 10kA                              126.67   18   2280.06    570.02
+Transformator, 1-fazni | 400/230V | 100VA, IP00                                     337.69   23   7766.87   1941.72
+
+                                                                                                         ----------
+UKUPNO                                                                                                    100547.68
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

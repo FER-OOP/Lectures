@@ -1,0 +1,29 @@
+Račun br. 803113
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LED RETROFIT RL-C40 4W 230V 827 470lm prozirna E14 AL 15000h                         43.92   18    790.56    197.64
+Voltmetar, digitalni, montaža na DIN nosač, 100/500VDC                             1006.99    5   5034.95   1258.74
+Kompaktni prekidač snage tip VE, 3P, 150kA, 100A                                   2296.62   28  64305.36  16076.34
+NEW TRIA LED DL okrugli Set, 25W, 3000K, 30°, crne boje                            1307.91    7   9155.37   2288.84
+Nadgradna svjetiljka SAO IP54 T8 4x36W CCG, ind, bijela                            2029.64   23  46681.72  11670.43
+LIGHT EYE ovjesna svjetiljka ES111 GU10, max. 75W, bakar                            750.35   27  20259.45   5064.86
+Ngr./ovj. svjetiljka OFFICE 218 Dir/Ind 2-35/49W QTI ECG                           1342.08   13  17447.04   4361.76
+SOPRANA BOW SL-1 svjetiljka,sjenilo crne boje, E27, max. 60W                       1808.71   21  37982.91   9495.73
+Smith-II-Q LED 9W 3000K 350lm, IP54, bijele boje                                    417.66   27  11276.82   2819.21
+Sphinx 104-360/2, senzor pris. DIM, 2 kanala, p/ž, stropni                          816.23    1    816.23    204.06
+Kabel za gradilišta XYMM-J 5x4 K35 / 100m, žuti                                      10000   17 170000.00  42500.00
+Zaštitni prekidač AMPARO 6kA, C 32A, 1-polni                                         20.96   18    377.28     94.32
+Završni poklopac CLF okrugli zatvoreni sa vijcima                                     51.6   30   1548.00    387.00
+Montažna ploča za WKS2040, 170x370x2, pocinčani čelik                                 4065   14  56910.00  14227.50
+Teretna sklopka, 2/4P, 160A, opcija: daljinski isklop, 1kVDC                       2542.71    9  22884.39   5721.10
+Tipka MO 1M sa simbolom dimera, bijela                                                2.65   11     29.15      7.29
+Prednja ploča antenske utičnice sa 4 otvora, biserno bijela                          29.51   18    531.18    132.79
+
+                                                                                                         ----------
+UKUPNO                                                                                                     466030.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

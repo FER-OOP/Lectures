@@ -1,0 +1,27 @@
+Račun br. 336077
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+MERIDIAN 3 zidna svj.antracit,E27,max.25W                                           531.37   23  12221.51   3055.38
+ADJUST QUADRO GU10 podni ugradni reflektor, 35W                                     772.14    3   2316.42    579.10
+NV rastavna pruga vel.2|400A, 3P, M12, sustav 185mm, plomb.                           4821   14  67494.00  16873.50
+Sphinx 104-360/2, senzor pris., 2 kanala, n/ž, stropni                               608.5    9   5476.50   1369.13
+FI-blok 80A, 4-polni, 30mA, Tip A (Puls)                                              4290   27 115830.00  28957.50
+SolarLog senzor temp. za SensorBox Commercial                                      1326.16   20  26523.20   6630.80
+Meiva-Q/A1 LED 6W 4000K 485lm, IP20, bijele boje                                    119.28   23   2743.44    685.86
+Nadzorna ploča sa LCD zaslonom, s ključem, BUS komunikacija                        2110.22   12  25322.64   6330.66
+PERFECT DIMMING SYSTEM, LED-Driver, 20VA, 500mA                                     374.92   29  10872.68   2718.17
+Ilma-R/A1 LED 15W 3000K 1260lm, IP65, aluminij                                      729.23   24  17501.52   4375.38
+Tipka, 2-struka, za ELG740140, bijela                                                98.21    5    491.05    122.76
+Bezhalogeni kabel s el. funkc. do30 Min. (N)HXH-J4x10reE30                           10000   29 290000.00  72500.00
+LED RETROFIT RAL1 35 DIM 6W 230V 827 250lm opal S14D 20000h                         133.78    2    267.56     66.89
+SAT stup d=3m,Ø50mm,bez završne kape, pocinčani čel. 2.0mm                          330.77   20   6615.40   1653.85
+TYTAN HR11 relej za pojedinačni nadzor, 2 C/O, 5A / 250V AC                         361.64   14   5062.96   1265.74
+
+                                                                                                         ----------
+UKUPNO                                                                                                     588738.9
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

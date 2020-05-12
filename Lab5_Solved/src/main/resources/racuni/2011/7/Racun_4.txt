@@ -1,0 +1,22 @@
+Račun br. 268378
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Finožični PVC-om izol. vodič H07V-K (P/F) 6mm2, crni HPV                             10000   19 190000.00  47500.00
+LED žarulja GU10 R111, dim., 13W, 3000K, 850lm, 24°, 230V                           198.86   16   3181.76    795.44
+Soft-starter 3P, 2f upravlj. 25A/208-240VAC/24-230VAC/DC                           2981.65    4  11926.60   2981.65
+Miš optički, bežični, mini, 1000/1600dpi,3 tipke,narančasti                         154.36    8   1234.88    308.72
+L-SE pokrov R12 T5 1+2x28/54W prizmatični pokrov                                     38.78   13    504.14    126.03
+Halogena žarulja QPAR 20 50W 10° E27                                                 49.33   27   1331.91    332.98
+Regulator punjenja baterija  MPPT 150/85A -12/24/36/48V=85A                        6430.07   20 128601.40  32150.35
+LS-FI (KZS), C/6A/300mA, 1P+N, Tip A, 10kA                                          392.62   23   9030.26   2257.56
+Telefonska žica za ranžiranje YV 2x0,5/0,9 crna-crvena                              136.59   24   3278.16    819.54
+FI-blok 80A, 4-polni, 300mA, S izvedba, Tip A (Puls)                                  4290   10  42900.00  10725.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     391989.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,15 @@
+Račun br. 346253
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Svijetleća tipka s ručicom,2 položaja,žuta,40°,sa povratom                           71.79   25   1794.75    448.69
+Zaštitni prekidač, B karakteristika, 16A, 3-polni+N, 10kA                           211.55    6   1269.30    317.33
+Marta-R 150W Rx7s, 230V, IP20, brušeni krom                                          77.21   17   1312.57    328.14
+
+                                                                                                         ----------
+UKUPNO                                                                                                      4376.62
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

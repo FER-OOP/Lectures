@@ -1,0 +1,18 @@
+Račun br. 145246
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+EURO CUBE Spot, 4000K, CRI90, 60°, uklj. 3F adapter, crne b.                       1433.11   12  17197.32   4299.33
+Ugradna svjetiljka SELENA LED M625 ED 2800lm/830 MAT,bb                             885.42   18  15937.56   3984.39
+Ovjesni pribor za 1-10V MEDO LED, 5-žični, crvene boje                                8570    9  77130.00  19282.50
+Finožični PVC-om izol. vodič H07V-K (P/F) 50mm2, ž/z HPV                             10000   19 190000.00  47500.00
+Grebenasta sklopka, (glavna,crno/siva), 0-1/3P/63A, na vrata                         266.2    4   1064.80    266.20
+Kućište n/ž za 12 modula (SFA)(SFB), Š172xV38xD122, RAL9010                          26.58   23    611.34    152.84
+
+                                                                                                         ----------
+UKUPNO                                                                                                    301941.03
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

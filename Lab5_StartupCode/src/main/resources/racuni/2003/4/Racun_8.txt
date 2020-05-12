@@ -1,0 +1,31 @@
+Račun br. 861672
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+CARISO 1, LED zidna svjetiljka, 7,5W LED, 3000K, mesing                             938.06   17  15947.02   3986.75
+Baterija RPOWER OGiV 12/75Ah, longlife: 10-12 god.                                 1413.49    4   5653.96   1413.49
+Signalni fleksibilni kabel YSLCY-JZ 34x 1 sivi                                     7588.98   27 204902.45  51225.61
+LED napajanje 240W/24V IP67                                                        2136.22    6  12817.32   3204.33
+GX8,5 grlo + kabel                                                                    5.23   17     88.91     22.23
+"19"" čelični slijepi pokrov, 4U, RAL 7035"                                          37.72   15    565.80    141.45
+Postolje za nazidne razdjelnike M2000 IP30, prednji dio, 2PB                         61.51   18   1107.18    276.79
+68008/BOX, Ugradna zidna kutija za 68008                                             51.36    1     51.36     12.84
+Mrežni ispravljač, 1f, taktni, 230V AC/24V DC, 4.5A pri 50°C                        525.87   12   6310.44   1577.61
+BULAN GRID zidna svj., okrugla, srebrne b., E27, max. 2x25W                         308.85   26   8030.10   2007.53
+Paralelna spojnica (kratkospojnik) za 4 stezaljke SCB6                                 6.1   30    183.00     45.75
+Prednja ploča, čelična, slijepa, 3B12                                                 4160    1   4160.00   1040.00
+Odvodnik prenapona PROTEC kl.B/C TNS 275/25+H                                      2617.33   18  47111.94  11777.99
+Teški gumeni kabel H07RN-F 5x6, crni                                               3564.26   17  60592.42  15148.10
+Sklopnik vel. 14 | 600kW (630A) [AC-3] | 220-240VAC, 50Hz                         15046.53   11 165511.83  41377.96
+NV osigurač vel. 00, 32A/400V AC                                                     19.18    1     19.18      4.80
+Finožični PVC-om izolirani vodič H07V-K (P/F) 70mm2, plavi                         6000.14   15  90002.10  22500.53
+Vodotijesna svjetiljka LINDA Ind. sa bater. 1h PC 2-36W IP65                        979.35   19  18607.65   4651.91
+Montažna ploča za IG009202, 500x900x6mm (ŠxVxD)                                    1052.34   18  18942.12   4735.53
+
+                                                                                                         ----------
+UKUPNO                                                                                                    660604.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

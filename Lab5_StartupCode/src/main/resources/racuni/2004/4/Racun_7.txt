@@ -1,0 +1,33 @@
+Račun br. 795916
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+7510R/W/45, 10W 12v 45 ° LED AR111 WW G53                                            92.75   22   2040.50    510.13
+Ulična svjetiljka GENESIS VP HSE/I 70W IP65 RAL7030                                1195.47   10  11954.70   2988.67
+Vijčana kapa za podnožje DII, E27, bez ispitnog otvora                                7.64   26    198.64     49.66
+Okvir 3x2M line, smaragdni                                                            81.9   22   1801.80    450.45
+Kabelska spojnica s vijkom, pocinčana, 16-50mm²                                      81.43    4    325.72     81.43
+Motorna zaštitna sklopka, 2-polna | 1.0 - 1.6A                                      128.78   17   2189.26    547.32
+Otvoreni prekidač, 4P, 66kA, 2500A, fiksni, prednje priklj.                       64676.73    8 517413.84 129353.47
+Set za uzemljenje 300mm P/F 6mm Ž-Z                                                   4160   30 124800.00  31200.00
+Panik svjetiljka QG 5x1W ERT-LED 230V CPS ML MIX-mod,zidna                         1764.58   19  33527.02   8381.75
+Završna pločica za stezaljku IK11418x--, bež                                         16.09   10    160.90     40.22
+P/Ž kutija, 3 modula, POWERCOM/IKALL                                                 49.19   30   1475.70    368.92
+Donji dio zakretne ručice za M2000, RAL7035                                           2.27   16     36.32      9.08
+Ugradna downlight svjetiljka EQM 221 1x42W ECG TC-TEL,bijela                        372.32   17   6329.44   1582.36
+EUTRAC 3-fazna nadgradna šina duljine 3 metra, bijele boje                          688.84    5   3444.20    861.05
+Završni poklopac profila MFR četvrtasti sa vijcima                                    50.2    3    150.60     37.65
+MEDO PRO 60 stropna svj., okr., srebrna,2xT5 24W, 2xTC-L 24W                       2135.48   12  25625.76   6406.44
+Finožični PVC-om izolirani vodič H05V-K (P/F) 0,75mm2, ž/z                           72.86    2    145.72     36.43
+Signalni fleksibilni kabel YSLY-OZ 2x0,5 sivi                                        211.5   22   4653.00   1163.25
+Panik svjetiljka ESCAPE 2832 3h/NM, bijela                                          551.19    7   3858.33    964.58
+Okvir za vrata, s brtvom, IP41 (kao rezervni dio)                                     1023   15  15345.00   3836.25
+Kabel LiYCY 5x0,5                                                                   892.58    9   8033.22   2008.30
+
+                                                                                                         ----------
+UKUPNO                                                                                                     763509.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

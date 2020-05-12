@@ -1,0 +1,33 @@
+Račun br. 957913
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ovjes sa stropnom rozetom, 1,2m                                                      79.11   27   2135.97    533.99
+Okomita vodilica kabela za DS/DSZ/DSI ormare 42U                                    259.87   24   6236.88   1559.22
+Prazna kutija TYTAN 2300                                                              4824   21 101304.00  25326.00
+Ovjes za svjetiljku CERES LED                                                       245.58   19   4666.02   1166.51
+Ind.svj.ARKTUR SQUARE LED 113W 11250lm/740 ECG IP65 120x40°                        2733.37   28  76534.36  19133.59
+Metalhalogena žarulja HIT 400W/N/SI E40 FS1                                         201.05    1    201.05     50.26
+Pokrov priključaka za MB1 4-polni                                                     20.7   13    269.10     67.28
+RUSTY PATHLIGHT ras.stupić, 9W G53,hrđavi čelik                                    1433.11   18  25795.98   6449.00
+Ugradna svjetiljka SERH ECO A1 L2 T5 4x24W ECG M600, bijela                          496.9   28  13913.20   3478.30
+Priključni kabel za IU008523, 2x1,5mm2, duljine 2m, bijeli                            82.6    1     82.60     20.65
+LS-FI (KZS), B/13A/30mA, 1P+N, Tip AC, G izvedba, 10kA                              609.79   23  14025.17   3506.29
+Elektronski transformator Halotronic 105W 230V/12V                                  122.86   12   1474.32    368.58
+Kabel H05VVC4V5-K 5x1,5 sivi                                                         10000    5  50000.00  12500.00
+PURI 3 stropna svj., mat crna b., GU10, max. 3x50W                                  593.89    2   1187.78    296.95
+USB Stick 2 GB                                                                       59.46   21   1248.66    312.17
+I-PENDANT PRO LED PANEL PENDULUM 3000K 1295x295mm bijele b.                        1558.31    9  14024.79   3506.20
+Ugradni okvir za svjetiljku K2                                                       89.21    7    624.47    156.12
+Media razdj. za šuplji zid, MVM 3R, 12+2 modula,plitki okvir                        886.44    7   6205.08   1551.27
+AIXLIGHT MOD FLAT I ES111, krom / mat crne b.                                       312.23    7   2185.61    546.40
+Kliješta za rezanje Cu/Al kabela, s oprugom, TL230mm, Ø15mm                          403.2    1    403.20    100.80
+Grebenasta sklopka (glavna, žuto/crvena), 0-1/3P/40A, na DIN                        213.08    1    213.08     53.27
+
+                                                                                                         ----------
+UKUPNO                                                                                                     322731.3
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,26 @@
+Račun br. 369653
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"19"" set-vijci M6, kavezne matice i podložne pločice (4 kom.)"                       7.13   17    121.21     30.30
+Samostojeći ormar, 1-vrata, 2000x800x400 (VxŠxD), RAL 7035                            3883   13  50479.00  12619.75
+NEW TRIA II QRB111 SQUARE, uklj. opruge, crne boje                                  531.37    2   1062.74    265.68
+PURI svjetiljka, crna, GU10, max. 50W, uklj. adapter                                249.72   11   2746.92    686.73
+Odjelna pločica, crvena, za stezaljku CBD2,5                                          2.19   21     45.99     11.50
+Napojni kabel za za DELF C PRO RGB                                                   43.76    3    131.28     32.82
+Levante-M 44 LED 104W 9940lm 4000K LT-L,IP66,SKII,antracit                         5248.66    6  31491.96   7872.99
+Kompaktni prekidač snage tip AE, 4P, 85kA, 800A+izvl. modul                       18719.85   12 224638.19  56159.55
+Odjelna stranica za AS ormare, 2000x400mm (VxŠ)                                     403.35   12   4840.20   1210.05
+Sklopnik vel. 00 | 3kW (7A) [AC-3] | 24VDC | 1 N/O                                  116.88   26   3038.88    759.72
+Adapter za DIN profil, prazan, za 1 modul (SFA)(SFB)                                 41.91   23    963.93    240.98
+"19"" izvlačiva polica, maks. 30 kg tereta, dubine 450mm, 1U"                       362.63   28  10153.64   2538.41
+Prednja ploča za 1 x RJ45, bijela                                                    22.85   15    342.75     85.69
+316 ANALOG-Panel Video s 5 tipki, nehrđajući čelik, VIP                           14205.88   10 142058.80  35514.70
+
+                                                                                                         ----------
+UKUPNO                                                                                                     472115.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

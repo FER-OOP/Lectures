@@ -1,0 +1,21 @@
+Račun br. 283198
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kronos-I-S/A1 3x50W GU5,3 MR16, 12V, IP20, sive boje                                 79.07   27   2134.89    533.72
+LYNAH LED Double Spot, 2x10W,uklj.1f adapter, crne boje                            1683.51   11  18518.61   4629.65
+Nadzorna ploča sa LCD zaslonom, BUS komunikacija                                   1653.48   11  18188.28   4547.07
+Tris-I-Q/A1 LED 3x1W 3000K 135lm,dim.,350mA,IP20,crne b.                             43.59   13    566.67    141.67
+Bus transceiver modules‚ Mounting depth 18 mm                                       756.48   15  11347.20   2836.80
+Kompaktni prekidač snage tip VE, 3P, 85kA, 1600A+izvl. modul                      59795.89   211255713.75 313928.44
+LOGS IN zidna svjetiljka, četvrtasta, 5W LED,3000K,cb/mesing                        750.35    7   5252.45   1313.11
+Poliester podnožje za ukopavanje u zemlju,1000x1000x300(VŠD)                       3826.95   19  72712.05  18178.01
+DIGI-SAT 3010 koaks.75Ohm 1.13/6.8,95dB,kl.A,PVC,bijeli,500m                        305.52   16   4888.32   1222.08
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1389322.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

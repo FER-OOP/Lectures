@@ -1,0 +1,33 @@
+Račun br. 289781
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Izolirana okasta stopica, M6, žuta, 4-6mm2 (pak.=100 kom.)                          112.43   27   3035.61    758.90
+Grebenasta sklopka, 1-0-2/3P/63A, montaža na DIN nosač                              936.78   17  15925.26   3981.32
+PD 180i/R MASTER P/Ž zidni senzor prisutnosti IR 180°                              1165.32   11  12818.52   3204.63
+Jednostruka ugradna utičnica za kanale SIGNA RAL9001                                219.61   26   5709.86   1427.46
+"Tipka za 2P kontr. sklopku, natpis ""I - O"", svjetleća,bijela"                     23.57   13    306.41     76.60
+NEW TRIA DLMI četvrt. downlight, mat bijele boje, 4000K, 60°                        1495.8   18  26924.40   6731.10
+M2000 SET, N/Ž do 24 modularne visine, RAL7035, 1 ručica                             31.38    1     31.38      7.84
+Završna pločica za stezaljku IK180000--, bež                                          1.54    1      1.54      0.38
+Podnožje N voda vel.00, 2P, obostrano M8, sa 2 odvoda                               125.77   21   2641.17    660.29
+Paralelna spojnica (kratkospojnik) za 10 stezaljki IK600006-                         52.19    7    365.33     91.33
+Kompaktni prekidač snage tip A, 3P/500A/50kA, MC3                                  6154.04   22 135388.88  33847.22
+Instalacijski sklopnik 25A | 4 N/C | 230V AC/DC, 2ŠM                                214.15   13   2783.95    695.99
+Kai-S 28 LED 66W 6330lm, 4000K ulič.opt. LT-L, IP66, RAL9006                       4088.14   19  77674.66  19418.66
+Teretna sklopka, 3P, 630A, VC4, s produžnom osovinom                               2068.24   13  26887.12   6721.78
+ARROW-LINE, vel.3, 3P, V-stezaljke, za strujni trafo                                  4821    5  24105.00   6026.25
+Tenora WL-1 zidna svjetiljka, E27, max. 60W, kratka, krom/bb                        875.55   29  25390.95   6347.74
+Dillon-II-R LED 3W 3000K 130lm, IP40, aluminij                                      159.16    3    477.48    119.37
+Kruta pojačana cijev, M20, 750N, EN3342, HF, crna, 3m                              1863.42   20  37268.40   9317.10
+Panik svjetiljka KM LED 3W,CPS sustav,MIX-dim funk, univerz.                        722.97   10   7229.70   1807.42
+Distantni vijak visine 74mm, M6, unutarnji i vanjski navoj                           15.86   19    301.34     75.33
+LIGHT EYE ovjesna svjetiljka GU10, max. 50W, bijele b./krom                         406.17   13   5280.21   1320.05
+
+                                                                                                         ----------
+UKUPNO                                                                                                    410547.12
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,23 @@
+Račun br. 972153
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Lano četvrtasti LED M600, 48W, 6000K, 3800lm, IP20,1200mA,bb                        530.36   12   6364.32   1591.08
+54 traperice, vodootporne,sa puno džepova                                           516.06   15   7740.90   1935.22
+SolarLog 300W do 15 kWp za više invertera - WiFi                                   4513.54   30 135406.20  33851.55
+AFDD, series Lisa, C 16 A, 2-pole, 30 mA, type AC, 10 kA                           1054.14   25  26353.50   6588.38
+BRICK LED Downunder, srebrne boje, bb LED                                           267.29    6   1603.74    400.93
+Gumeni savitljivi kabel NSSHöu-J 18x2,5, žuti                                        10000   14 140000.00  35000.00
+LED žarulja GU10 R111, dim., 13W, 4000K, 24°, 230V                                  185.68   24   4456.32   1114.08
+Bistabilni relej, 24VAC|12VDC, 2 N/O, 16A, na DIN nosač                             190.87   19   3626.53    906.63
+Samoljepljive oznake za strujne krugove                                              12.07   26    313.82     78.46
+Teretna sklopka, 2/4P, 1250A, opcija:dalj. isklop, 1kVDC                          22304.49   20 446089.81 111522.45
+L-SE montažna šina MR 1x58 5x1,5mm²                                                 118.21   21   2482.41    620.60
+
+                                                                                                         ----------
+UKUPNO                                                                                                    774437.56
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

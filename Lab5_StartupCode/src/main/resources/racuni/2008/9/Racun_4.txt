@@ -1,0 +1,29 @@
+Račun br. 768495
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zaporni vijak M16x1.5, metrički, poliamid                                             0.65    5      3.25      0.81
+Zaštitni prekidač sa svojstvima rastavljača,C 50A,3-polni+N                          963.4    2   1926.80    481.70
+Kabel za zvučnike LFZ-XY 2x1,5mm2, prozirni                                         471.59   24  11318.16   2829.54
+Prednja ploča, čelična, slijepa, 3B6                                                  4160   12  49920.00  12480.00
+Toolless connection utični modul, crveni (pak.=10 kom.)                               6.56   20    131.20     32.80
+Grebenasta sklopka u kućištu, uvodnica M20, 0-1/1P/16A                              218.15   19   4144.85   1036.21
+ILR-230VILR-230V modul za zaštitu relejnih kontakata                                283.96   16   4543.36   1135.84
+EURO SPOT ECG 35, 15° srebrnosiva G12,35W,uklj. 3f.adapter                          938.06   21  19699.26   4924.81
+Grebenasta sklopka, (glavna,crveno/žuta),0-1/3P/63A,na vrata                        279.51   27   7546.77   1886.69
+QUADRASYL samost.svj.,PS 75,četvrtasta,antracit,GX53,max.11W                        813.03   11   8943.33   2235.83
+Zaštitni prekidač AMPARO 6kA, C 40A, 1-polni                                         24.37   19    463.03    115.76
+S/FTP kabel cat.7, 8x2xAWG23/1, 1000MHz, LS0H, plavi, 30%                           888.78    2   1777.56    444.39
+Nadgradna svjetiljka SARH IP54 T8 4x18W ECG, bijela                                1279.87   16  20477.92   5119.48
+Jamba-WL-R 2x20W E27, 100-240V, IP54, sive boje                                     256.48   28   7181.44   1795.36
+Reflektor SET 250W HIT E40 IP65 crni asimetrični                                   1503.73   17  25563.41   6390.85
+Finožični PVC-om izol. vodič H07V-K (P/F) 25mm2, plavi HPV                           10000   15 150000.00  37500.00
+Glenos akrilni pokrov, četvrtasti pokrov za profile 2609, 1m                        124.86   21   2622.06    655.52
+
+                                                                                                         ----------
+UKUPNO                                                                                                     316262.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

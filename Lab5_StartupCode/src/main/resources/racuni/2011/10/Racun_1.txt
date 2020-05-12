@@ -1,0 +1,27 @@
+Račun br. 886125
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LED RETROFIT RL-T8 18 S 7,3W 160° 840 1100lm G13 50000h                              111.2    2    222.40     55.60
+Kabel LiYCY 3x0,25                                                                  403.78   25  10094.50   2523.63
+Tipka za upr. roletama (za 112800 i 111800), biserno bijela                          34.29    7    240.03     60.01
+"Opt. razdjelnik, 8 niti,LC,50/125µm OM3, izvlačivi,19"",1U"                        605.09   16   9681.44   2420.36
+Završni poklopac CLR ravni sa rupom i vijcima                                         51.6   16    825.60    206.40
+LED R7s, 7W, 4000K, 600lm, 100-240V                                                 119.28   13   1550.64    387.66
+Tris-II-R LED 3x1W 6000K 180lm,dimabilna,350mA,IP65,aluminij                        139.22    5    696.10    174.02
+P/Ž kutija, 3 modula, POWERCOM/IKALL                                                 49.19   23   1131.37    282.84
+FLEXLED ROLL HIGH LUMEN 24V, 2m, 2700K                                              406.17   30  12185.10   3046.28
+GLENOS završni pokrov za profil 1808, bijele boje                                    43.76   27   1181.52    295.38
+LED dimer 6-100VA, umetak                                                           197.26   14   2761.64    690.41
+Spojnica profila za svjetiljke LUCIE T5                                              13.34    3     40.02     10.01
+Signalni fleksibilni kabel YSLY-JZ 4x10 sivi                                       5019.52   22 110429.44  27607.36
+Okvir 4M line, zeleni                                                                51.11   30   1533.30    383.33
+PROTECTOR K 230V, fotoelektronički detektor dima, bijeli                            340.56    6   2043.36    510.84
+
+                                                                                                         ----------
+UKUPNO                                                                                                    154616.45
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

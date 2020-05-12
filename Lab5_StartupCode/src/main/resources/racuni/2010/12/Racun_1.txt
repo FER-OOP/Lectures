@@ -1,0 +1,17 @@
+Račun br. 1076405
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kućni energetski razdjelnik, 2-redni, za 44 modula, RAL9003                         742.49    1    742.49    185.62
+LIPSY 50 LED stropna svj., okrugla, 30W, 3000K, 2500lm, bb                         1063.26   10  10632.60   2658.15
+Prespojni kabel RJ45/RJ45 ISDN, neoklopljeni, crni, 1.0m                              5.34    1      5.34      1.34
+Sutil Quadro LED, 16W, 3000K, 884lm, 110°, IP40, sive boje                          249.21    3    747.63    186.91
+L-SE el. uložak DM 2x28W ECG                                                        271.64   30   8149.20   2037.30
+
+                                                                                                         ----------
+UKUPNO                                                                                                     20277.26
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

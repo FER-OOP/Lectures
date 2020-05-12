@@ -1,0 +1,16 @@
+Račun br. 883642
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+STRUCTURN LED 10W, okrugla, bijela,3000K, 38°, uklj. adapter                        752.87   20  15057.40   3764.35
+Prespojni kabel RJ45 STP cat.6a/10GB, LS0H, sivi, 0.5m                               24.82   22    546.04    136.51
+Sklopnik 3P |5.5kW (14A) [AC3] / 25A [AC1] | 220V DC | 1N/O                         251.07   14   3514.98    878.74
+Plafonjera SLAVO 260 13W 1050lm/840 ECG sa senzorom, bijela                         646.73   30  19401.90   4850.47
+
+                                                                                                         ----------
+UKUPNO                                                                                                     38520.32
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

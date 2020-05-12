@@ -1,0 +1,28 @@
+Račun br. 240866
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Poliester zidni ormar MINIPOL, 600x500x230mm (VxŠxD)                                1247.8    8   9982.40   2495.60
+Fluokompaktna žarulja TC-D, 18W, 4000K, 2-pin                                        43.76   16    700.16    175.04
+Slijepi pokrov MO 2M, bijeli                                                          7.19   25    179.75     44.94
+Luxa 102 FL, LED spot 8W, 3000K, zidna, IP44, bijela                                 532.7    5   2663.50    665.88
+Fluokompaktna žarulja TC-Del 13W/830 G24Q-1                                          18.77    8    150.16     37.54
+Planookrugla LED, 40W, 3000K, 2520lm, IP40, bijele boje                             788.87   21  16566.27   4141.57
+Finožični PVC-om izolirani vodič H07V-K (P/F) 120mm2, ž/z                         10020.82    7  70145.74  17536.44
+"Opt. razdjelnik, 8 niti, SC, 9/125µm OS2, izvlačivi,19"",1U"                       906.88   10   9068.80   2267.20
+LED OUTDOOR BEAM, srebrne boje, 10W, bij., 120°                                      393.5    8   3148.00    787.00
+Panik svjet. KMB   , aku.bat LED 8h 230VAC , univ.SC                                862.06   30  25861.80   6465.45
+Nick-II-Q 2x26/32/42W G24q, 230V, IP20, bijele boje                                   7.77   25    194.25     48.56
+Nadgradna ind. svjetiljka SBOX AB 1x400W,E40,HS/HI,MB, IP65                        1038.63   25  25965.75   6491.44
+P/Ž inst. razdj. 5U-42,14-redni,798ŠM,2025x1230x250mm(VxŠxD)                       7790.23   12  93482.76  23370.69
+Regulator cosfi 12° EMR1100S                                                       4630.46   13  60195.98  15048.99
+Vatrodojavni kabel  JB-Y(St)Y 1x2x0,8                                               188.23   20   3764.60    941.15
+Ind.svj.ARKTUR SQUARE LED 184W 16500lm/840 ECG IP65 110°                           3387.84    5  16939.20   4234.80
+
+                                                                                                         ----------
+UKUPNO                                                                                                     339009.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

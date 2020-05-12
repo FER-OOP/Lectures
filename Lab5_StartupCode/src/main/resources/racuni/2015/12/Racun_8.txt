@@ -1,0 +1,28 @@
+Račun br. 744762
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Gumeni savitljivi kabel NSSHöu-O 1x95, žuti                                          10000   25 250000.00  62500.00
+BIG NAILS PLUS zidna svj.,nehrđ.čelik 304, E27,max. 23W,IP44                        938.06   10   9380.60   2345.15
+Pocin?ana zaštitna mreža za Linda 1x28/54/36W 1330x180mm                            837.58    7   5863.06   1465.77
+Kabel LiYCY-TP 2x2x0,34                                                             667.92    3   2003.76    500.94
+FID modul za MC2 (do 250A), 4P, 30mA, tip B, ugradnja odozdo                       8301.36    8  66410.88  16602.72
+7305BG/C/50, LED 5w CW GU10 50 ° 220-240v                                            58.12   18   1046.16    261.54
+Jednožični PVC-om izolirani vodič H07V-U (P) 2,5mm2, ljub.                             169    1    169.00     42.25
+Umetak 3-struke sklopke, na vijak                                                    17.66    1     17.66      4.41
+Nadgradna svjetiljka SARH 2 ECO T5 2x80W ECG, bijela                                426.62    4   1706.48    426.62
+Maskirni razdjelnik 2 širina brojila/ 18 MV                                           4180   28 117040.00  29260.00
+"Optički prespojni panel 19"", 1U, uklj. 4 spojnice SC SM"                          481.51   30  14445.30   3611.33
+Ugradna svjetiljka SEP T5 4x14W, ECG, M600 bijela                                   348.28    9   3134.52    783.63
+Nadgradna svjetiljka PRIMO H PRISMA T5 1x14W ECG, bijela                            254.11   11   2795.21    698.80
+KNX dimer, EM, 20-300VA                                                             704.47   13   9158.11   2289.53
+Serijski ormar AS, 2-vrata, 2000x1200x600 (VxŠxD), bez MP                          5129.93   18  92338.74  23084.69
+KADUX LED  Single DL Set, 3000K, 30°, bijele boje                                  1307.91   21  27466.11   6866.53
+
+                                                                                                         ----------
+UKUPNO                                                                                                     602975.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

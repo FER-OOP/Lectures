@@ -1,0 +1,23 @@
+Račun br. 821458
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+UPS GENIO Net Power 1.5kVA/900W                                                    1895.42   27  51176.34  12794.08
+"Opt. razdjelnik,24 niti, ST,50/125µm OM2, izvlačivi,19"",1U"                      1449.28   15  21739.20   5434.80
+Krajnji kut za kanal SIGNA 70/130 RAL 9010                                           62.68    5    313.40     78.35
+P/Ž media razdjelnik, MV... 4-redni, 12+2 modula, viši okvir                        773.38   18  13920.84   3480.21
+Grace-R LED 9W 6000K 400lm, IP20, sive boje                                         234.51   21   4924.71   1231.18
+Utičnica, 16A, umetak, na vijak, biserno bijela                                       2120   12  25440.00   6360.00
+Poliester zidni ormar MINIPOL,proz. vrata,300x250x140(VxŠxD)                        496.05   19   9424.95   2356.24
+Prespojni kabel RJ45 cat.5e oklopljen, PVC, sivi, 0.5m                                5.34    2     10.68      2.67
+Plosnate stezaljke 32 x 40mm, visina: 5 - 20mm                                      110.25    1    110.25     27.56
+MYRA STRAIGHT pano-svjetiljka, antracit                                             813.03   29  23577.87   5894.47
+TRITON 3 LED, okr., mat bijele b.,3x1W LED, neutr. bijele b.                        374.92   19   7123.48   1780.87
+
+                                                                                                         ----------
+UKUPNO                                                                                                    157761.73
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

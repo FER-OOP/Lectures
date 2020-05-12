@@ -1,0 +1,18 @@
+Račun br. 157232
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Neale-SC LED 7W 3000K 262lm, IP65, sive boje                                        530.36   14   7425.04   1856.26
+Okvir 2M line, zeleni                                                                24.38   27    658.26    164.56
+VINTA,  LED 2W, 2200K                                                               124.52    8    996.16    249.04
+PVC-om izol.kabel za srednja meh.opt. YMS -J 5x6 sivi                                10000    1  10000.00   2500.00
+Nadgradna downlight svj. ARM 291 1x13W ECG TC-DEL, bijela                           298.79   23   6872.17   1718.04
+Finožični PVC-om izol. vodič H05V-K (P/F) 0,5mm2, crni HPV                           10000   19 190000.00  47500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    215951.62
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

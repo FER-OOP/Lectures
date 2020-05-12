@@ -1,0 +1,14 @@
+Račun br. 667696
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Solus-R 50W GU5,3 MR16, 12V, IP44, brušeni krom                                      19.93   21    418.53    104.63
+Enya-II-R 14W T5, 230V, IP44, krom                                                  497.24    4   1988.96    497.24
+
+                                                                                                         ----------
+UKUPNO                                                                                                      2407.49
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

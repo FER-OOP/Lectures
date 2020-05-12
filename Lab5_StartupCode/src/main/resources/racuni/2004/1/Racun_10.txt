@@ -1,0 +1,14 @@
+Račun br. 717628
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Instalacijski set PlanoSet RQ, crni                                                 293.85   21   6170.85   1542.71
+Talos Square LED 48W, 3000K, 2810lm, 1200mA, IP20, bijele b.                        762.34    9   6861.06   1715.27
+
+                                                                                                         ----------
+UKUPNO                                                                                                     13031.91
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

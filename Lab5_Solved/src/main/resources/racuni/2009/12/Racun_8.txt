@@ -1,0 +1,31 @@
+Račun br. 265502
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Umetak serijske sklopke, na vijak                                                    12.65   25    316.25     79.06
+Vremenska stanica (GPS)                                                           12439.14   23 286100.22  71525.05
+OSSA 300 LED, mat crna, R7s 118mm, max 120W, gore/dolje                             625.15   13   8126.95   2031.74
+Prednja ploča za PIR senzor pokreta, F/S/R, biserno bijela                           50.41   16    806.56    201.64
+XERXES stropna svjetiljka, četvrtasta, krom, G24q2, 2x18W                           938.06    8   7504.48   1876.12
+3f reflektor VITO DC LED 30W 2500lm/830 ECG 40°,sive boje                          1278.14   21  26840.94   6710.23
+SFP modul 1000SX LC multimodni VCSEL, 850nm 550m                                     286.7    8   2293.60    573.40
+IBDN prespojni kabel RJ45 UTP cat.6A, sivi, 2.1m                                     65.83   22   1448.26    362.07
+QUICK CONNECT LINE ut. modul RJ45 cat.6a,bez kont.bl.(SFA)                           42.61   20    852.20    213.05
+Razdjelnik nazidni, IP40. 1-redni, 8 modula, prozirna vrata                          76.58   23   1761.34    440.34
+Vremenski relej, multifunkcijski, 12-240VAC/DC, 2 C/O, 8A                           273.06   30   8191.80   2047.95
+Telekomunikacijski kabel YYSCH 4x0,6mm2, boja slonovače                              10000   27 270000.00  67500.00
+FN-Light-halogena žarulja, R7s, 118mm, 100W                                          19.26   22    423.72    105.93
+Kompenzacija  LSFC 14% 250/25kvar 800x2110x500mm Samost.orm.                      70339.85   211477136.88 369284.22
+Signalni fleksibilni kabel YSLCY-JZ 5x25 sivi                                        10000   19 190000.00  47500.00
+Set zaštitnih pokrova (dugi) za stezaljke, za 3-polne MZ2                           120.21   15   1803.15    450.79
+Prozirna vrata, akril, za WSM4030xx, otvor: 259X143mm                               254.84   30   7645.20   1911.30
+Nadgradna svjetiljka SARH 200 T8 1/36W ECG sjajni raster                            578.96   20  11579.20   2894.80
+Postolje ormara IG008203, 785x950x310mm (ŠxVxD), RAL7035                           2584.64   12  31015.68   7753.92
+
+                                                                                                         ----------
+UKUPNO                                                                                                    2333846.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

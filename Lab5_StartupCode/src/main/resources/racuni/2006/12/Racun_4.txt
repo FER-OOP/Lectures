@@ -1,0 +1,31 @@
+Račun br. 502212
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+7910R/AL, Aluminijski ugradni profil 2m + PC opalni pokrov                           395.7   25   9892.50   2473.13
+Kabel YSLYQY-JZ 7x 4 prozirni                                                        10000   25 250000.00  62500.00
+Bezhalogeni jednožilni vodič H05Z-K 0,75mm2, crni                                    10000   11 110000.00  27500.00
+Zaštitni prekidač, C karakteristika, 20A, 1-polni, 10kA                              26.15   26    679.90    169.97
+Reflektor TES 250W HIT E40 IP65 crni simetrični                                    1093.24   16  17491.84   4372.96
+Kabel H05VVC4V5-K 3x0,75 sivi                                                        10000   29 290000.00  72500.00
+Pinta-I-Q 50W GU5,3 MR16, 12V, IP44, bijele boje                                     53.05    3    159.15     39.79
+Kabel EYY-O (PP00) 4x120SM                                                           10000   13 130000.00  32500.00
+SOPRANA BOW svjetiljka, SL-1, bijelo sjenilo, E27, max. 60W                        1808.71   30  54261.30  13565.32
+COLOR CONTROL zidni panel, ugr./ngr. montaža, 12V/24V                               562.63   20  11252.60   2813.15
+Staklena vrata za AS ormare 1800x800mm, prozirna, RAL 7035                         2593.22   27  70016.94  17504.23
+Signalni fleksibilni kabel YSLY-JZ 41x0,75 sivi                                      10000   16 160000.00  40000.00
+Halogena žarulja QT-DE 11/12 1500W R7s L=256,2                                       85.63   30   2568.90    642.22
+SOPRANA SOLID WL-2, V-oblik                                                         625.15   18  11252.70   2813.18
+Filter protiv blještanja, crne boje                                                  36.66   12    439.92    109.98
+Finn-I-R/A2 LED 18W 4000K 1300lm, IP20, sive boje                                   517.18   20  10343.60   2585.90
+Košulja ženska, dugih rukava, bijela -42-                                           646.59    7   4526.13   1131.53
+Standardni transformator 12V, 150VA                                                 437.43    7   3062.01    765.50
+Niskonaponsko grlo, G4-6,35 sa 120cm kabela                                          18.75   27    506.25    126.56
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1136453.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

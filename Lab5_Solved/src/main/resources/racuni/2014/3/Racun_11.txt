@@ -1,0 +1,14 @@
+Račun br. 742041
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kira Small LED Plafo, 14W, 3000K, 1050lm, IP20, bijela                              159.16    8   1273.28    318.32
+LED 85-264V AC, bijeli, prednja montaža                                              52.68    8    421.44    105.36
+
+                                                                                                         ----------
+UKUPNO                                                                                                      1694.72
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

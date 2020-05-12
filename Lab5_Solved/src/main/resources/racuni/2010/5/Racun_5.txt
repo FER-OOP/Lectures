@@ -1,0 +1,27 @@
+Račun br. 328518
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+KUĆIŠTE IP65 SA MU05 MODULOM ZA OPĆU RASVJETU                                       596.79   15   8951.85   2237.96
+Energetski kabel 0,6/1kV PP00 (NYY-O)Z 10x1,5re crni                                 10000   21 210000.00  52500.00
+Finožični PVC-om izol. vodič H07V-K (P/F) 2,5mm2, ž/z HPV                            10000   30 300000.00  75000.00
+Sprej-lak za korekciju oštećenja, RAL 7035                                          105.85   23   2434.55    608.64
+Ina-III-R 50W GU5,3 MR16, 12V, IP20, aluminij                                        26.52    3     79.56     19.89
+Servisni bypass, do 32A, nazidna montaža (UPS do 6kVA)                             3413.87   11  37552.57   9388.14
+7303G/D/30, LED 3w GU10 DL 30 °                                                       27.7    7    193.90     48.48
+Minijaturni relej, 4C/O,6A,110VDC+LED,serije PT i zašt diod.                         63.15    7    442.05    110.51
+Montažni komplet za Modul u omaru, dolje                                              8.13   14    113.82     28.46
+KADUX 2 ES111 Downlight, četvrtasti, crne boje, max. 2x50W                          813.03    1    813.03    203.26
+Gljivasto tipkalo, crveno, fi=40mm                                                   42.76    6    256.56     64.14
+Ina-R LED 12W 3000K 1100lm, dim., 700mA, IP20, bijele b.                            183.15    9   1648.35    412.09
+Daljinski isklopnik 110V AC/DC (tvornički ugrađen)                                  1161.4   19  22066.60   5516.65
+Cube-CL-Q 75W E27 PAR30, 100-240V, IP54, bijele boje                                 258.5    2    517.00    129.25
+Instal. umetak 3-42K komplet 14 IR prednja pl. čelik                               2790.63    9  25115.67   6278.92
+
+                                                                                                         ----------
+UKUPNO                                                                                                    610185.56
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

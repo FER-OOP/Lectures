@@ -1,0 +1,21 @@
+Račun br. 1026527
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Wago utična stezaljka za razvodne kutije, 3 x (0.5-2.5)mm²                             1.1   10     11.00      2.75
+Mikro sklopnik | 2.2kW (5A) [AC3] | 230V AC | 3NO + 1NO                              81.13   30   2433.90    608.47
+Ugradna svjetiljka SEP ECO T5 4x24W ECG IP54 M600, bijela                           445.86   30  13375.80   3343.95
+Prirubnica, izolacijska, 2 x kabel do Ø70mm                                         154.08   27   4160.16   1040.04
+Prednja ploča za razdjelnike sa kabelskim kanalom, 5G3                                4160   29 120640.00  30160.00
+Modul za razgovor SUS                                                                 2104   30  63120.00  15780.00
+Bimetalni relej za sklopnike vel. 0 | 2,20 - 3,20A                                  191.26    8   1530.08    382.52
+"Samostojeći komunikacijski ormar DS 600x900x800,19"", 18U"                        2834.13   28  79355.64  19838.91
+Univerzalna stezaljka 4-35mm², za na sabirnice debljine 5mm                           6.63   20    132.60     33.15
+
+                                                                                                         ----------
+UKUPNO                                                                                                    284759.16
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

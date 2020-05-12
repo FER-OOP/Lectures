@@ -1,0 +1,19 @@
+Račun br. 248798
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kabel EYY-J (PP00-Y) 5x70SM                                                          10000   20 200000.00  50000.00
+SAT utičnica prol. 2x,radio/CATV,5-1.006MHz,10dB,bez okvira                          42.34    7    296.38     74.10
+Tipkalo s plosnatom tipkom, žuto, uskočno, s držačem                                 42.98   18    773.64    193.41
+ENOLA ovjesna svjetiljka, bb                                                        500.12   17   8502.04   2125.51
+UPS GENIO MaxiGreen 10kVA/9kW                                                     24564.23    1  24564.23   6141.06
+Plafonjera CAT 280 IP20 A60 E27 max.1x100W, opal                                    176.69    7   1236.83    309.21
+Dvostruka IT utičnica za kanale SIGNA, RAL9001                                        4866   28 136248.00  34062.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    371621.12
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

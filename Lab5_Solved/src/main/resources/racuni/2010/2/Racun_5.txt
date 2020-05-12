@@ -1,0 +1,16 @@
+Račun br. 628169
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kabel LiYY 18x0,14                                                                   10000   11 110000.00  27500.00
+Svitak 230V 50Hz LA3050-74                                                          162.76   22   3580.72    895.18
+UPS GENIO iPlug 600VA/360W sa šuko i IEC utičnicama                                 805.17   12   9662.04   2415.51
+Relej za nadzor nivoa, 1 C/O, 5A, 250V                                              386.89   26  10059.14   2514.79
+
+                                                                                                         ----------
+UKUPNO                                                                                                     133301.9
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

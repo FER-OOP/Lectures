@@ -1,0 +1,29 @@
+Račun br. 1055396
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Pokrov 45F za DIII, E33 postolje, za IP74069--                                        4821   10  48210.00  12052.50
+Kompaktni prekidač snage tip A, 3P/125A/50kA, utični, MC1                          3316.49   10  33164.90   8291.22
+Magnetna traka 10mm širine                                                            50.2   10    502.00    125.50
+Pokrov za antensku utičnicu HSAT…, 4 otvora, antracit                                12.97   12    155.64     38.91
+Okvir 4x2M line, smaragdni                                                          148.81   17   2529.77    632.44
+Produžni kabel, 25-pin, DB25 muško/ženski, 1:1, 2m                                   27.94   25    698.50    174.63
+Ugradna svjetiljka SELENA LED 29W M600 ED 2800lm/830 MAT,bb                         800.75   27  21620.25   5405.06
+E27 LED SMALL BALL žarulja, 260lm , 3000K                                            93.26   18   1678.68    419.67
+"Samostojeći kom. ormar IP54 600x1970x600 ŠxVxD, 19"", 42U"                        4976.19   17  84595.23  21148.81
+SAT kaskadna jedinica za 5 IN 18 OUT pasivna za HSATS5xxKA                          1463.8   20  29276.00   7319.00
+Spoj/Nap.stezaljka za Rosen Lite i Glu-Trax šine                                      37.5   29   1087.50    271.88
+Pako-R/A1 LED 3W 6000K 120lm, dim., 700mA, IP20, bijele b.                           46.46   27   1254.42    313.60
+Rita-R/A2 LED 25W 3000K 2010lm, IP20, bijele boje                                   517.18   30  15515.40   3878.85
+GU10 SP Downlight, titan                                                             187.2   25   4680.00   1170.00
+Industrijska utičnica, 5 polna, 63A, IP44, montaža na zid                           488.35   23  11232.05   2808.01
+Teretna sklopka, 4P, 630A, opcija: daljinski isklop                                3932.89   11  43261.79  10815.45
+IKALL metal modul, bez tipki, za audio jedinicu                                      549.1    9   4941.90   1235.47
+
+                                                                                                         ----------
+UKUPNO                                                                                                    304404.03
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

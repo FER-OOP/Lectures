@@ -1,0 +1,29 @@
+Račun br. 967490
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"19"" montažni profil visine 47U (za AS ormare visine 2200mm)"                        4067   28 113876.00  28469.00
+Minijaturni relej, 4C/O, 6A, 6VAC, serije PT                                         38.95   29   1129.55    282.39
+Nico-R/A1 35W GU10 MR16, 100-240V, IP65, bijele boje                                198.86    3    596.58    149.15
+Aaron-Q 32/42W G24q-4, 230V, IP20, brušeni krom                                      37.67   26    979.42    244.85
+Zaštitni prekidač MB 25kA CL 50/3                                                   476.17    2    952.34    238.09
+Vrata, metalna, perforirana za kom. ormare, 37U, Š=800 mm                            911.3   21  19137.30   4784.32
+3f reflektor VITO DC LED 38W 3400lm/840 40°,sive boje                              1470.55    3   4411.65   1102.91
+Utičnica šuko sa kontaktom i dječjom zaš. na oprugu antracit                         26.88   14    376.32     94.08
+Ugradna svjetiljka Flash Asy 45° srebrna                                            117.12    2    234.24     58.56
+FI-trafo 150A, tip W2-U, za BC990015 i BC990017                                    1763.45   23  40559.35  10139.84
+Modularna slijepa ploča za AS/KS ormare 800x200mm RAL 7035                          119.19   12   1430.28    357.57
+Motorna zaštitna sklopka, 3-polna | 0.14 - 0.20A, vel.S0                            202.36   28   5666.08   1416.52
+Kućište zujala (prazno) za MM229025 ili MM229028                                     49.99    1     49.99     12.50
+LED traka spoj. 10mm 2kom                                                               25   30    750.00    187.50
+Bezhalogeni jednožilni vodič H07Z-U 1,5mm2, žuto/zeleni                              10000   28 280000.00  70000.00
+Podnožje, bočne stranice, par, za ormare DSS, D=1000mm                               538.6    8   4308.80   1077.20
+Završni poklopac SLA                                                                 50.26    4    201.04     50.26
+
+                                                                                                         ----------
+UKUPNO                                                                                                     474658.9
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

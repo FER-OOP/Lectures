@@ -1,0 +1,28 @@
+Račun br. 183504
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Podnožje samostoječeg ormara 800x600x200mm                                          1274.1   15  19111.50   4777.88
+Modularna slijepa ploča za AS/KS ormare 600x300mm RAL 7035                          122.57   16   1961.12    490.28
+3f reflektor VITO DC LED 30W 2500lm/830 ECG 40°,sive boje                          1278.14    3   3834.42    958.60
+Jakna s kapuljačom -XXL-                                                            383.49   22   8436.78   2109.19
+Panik svjetiljka AS LED/3h 230V AC,bezična WL, zidna montaža                       1827.64   14  25586.96   6396.74
+Nazidna utičnica, 3-struka, horizontalna, siva, 16A, IP44                           487.44   30  14623.20   3655.80
+Halogena žarulja QT-DE 11/12 1000W R7s L=191,2                                       73.99   24   1775.76    443.94
+Paralelna spojnica (kratkospojnik) za 10 stezaljki IK610004-                         49.59   11    545.49    136.37
+Pločica + nosač 30x50mm, natpis: EIN                                                 12.31   12    147.72     36.93
+Zaštitni prekidač sa svojstvima rastavljača, C 32A, 3-polni                         597.76   27  16139.52   4034.88
+Senzor prisutnosti, stropni, 360°, 1 relejni kontakt, bijeli                       1321.48   23  30394.04   7598.51
+Ovjesni set za MEDO PRO 60 četvrt., bijele boje                                      187.2   20   3744.00    936.00
+Mary-R LED 7W 3000K 500lm, dimabilna, 350mA, IP20, bijele b.                        139.22   28   3898.16    974.54
+Završna pločica za rednu stezaljku IK201002-A, plava                                  1.16   24     27.84      6.96
+Jednožični PVC-om izolirani vodič H07V-U (P) 1,5mm2, zeleni                         102.21   25   2555.25    638.81
+Ina-A 3 LED 12W, 3000K, 1100lm, 700mA, 38°, SKIII,bijele b.                         144.46   19   2744.74    686.19
+
+                                                                                                         ----------
+UKUPNO                                                                                                     135526.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

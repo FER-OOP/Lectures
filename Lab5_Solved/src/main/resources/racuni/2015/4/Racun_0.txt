@@ -1,0 +1,18 @@
+Račun br. 241931
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Dingo-R LED 5W 4500K 410lm, IP53, bijele boje                                       190.58    5    952.90    238.23
+Pokrov 1 mjesta sabirnice za MZS vel.00/0                                             5.61   20    112.20     28.05
+KALU TRACK QRB111 SPOT, srebrne boje, max.50W, 1-f adapter                          750.35    9   6753.15   1688.29
+Motorna zaštitna sklopka, 3-polna | 24 - 32A                                        740.18   13   9622.34   2405.58
+LED traka 115 HW Ra=90+, 26,4W/m, 2431lm/m 24VDC,IP44, l=5m                        1828.91    5   9144.55   2286.14
+POWERLED ES111 10W, 40°, tople bb LED, kućište srebrne boje                         627.01   18  11286.18   2821.54
+
+                                                                                                         ----------
+UKUPNO                                                                                                     37871.32
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

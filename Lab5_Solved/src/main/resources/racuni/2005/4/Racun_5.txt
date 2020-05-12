@@ -1,0 +1,22 @@
+Račun br. 886215
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LED Driver 1300mA 35W-60W za Lano, ne dimabilno                                     280.47   14   3926.58    981.65
+Okvir 1/3M line, srebrni                                                             35.64    1     35.64      8.91
+SOPRANA SOLID TL, okr., sivo-bež sjenilo, E27, max. 40W                            1063.26   22  23391.72   5847.93
+Osigurač EZII/2A                                                                      6.67   17    113.39     28.35
+"Zasun, sivi, za plastične prednje ploče, ""Celanex"""                                 1.7   24     40.80     10.20
+Ugradna downl. svj. ERM 202 2x26W CCG TC-D IP20/44, bijela                          286.07   15   4291.05   1072.76
+Završni poklopac LBU četvrtasti zatvoreni                                            87.09   11    957.99    239.50
+AIXLIGHT PRO 111 LEDDISK mat bijele boje,4000K 50°                                  750.35   29  21760.15   5440.04
+Ovjesna svjetiljka OFFICE ECO DIR/IND PAR 2x80W ECG, siva                           544.83   25  13620.75   3405.19
+KALU LED 2 zidna i stropna svjetiljka 2x10W 3000K bijele/cb                         1495.8   16  23932.80   5983.20
+
+                                                                                                         ----------
+UKUPNO                                                                                                    92070.875
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

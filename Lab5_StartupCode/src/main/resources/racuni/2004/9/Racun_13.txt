@@ -1,0 +1,14 @@
+Račun br. 603915
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zamjenjiva skala ampermetra za montažu na DIN nosač, 200A/5A                          4399   12  52788.00  13197.00
+Završni poklopac CLU okrugli sa rupom i vijcima                                      87.09   25   2177.25    544.31
+
+                                                                                                         ----------
+UKUPNO                                                                                                     54965.25
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

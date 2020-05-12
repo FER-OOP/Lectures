@@ -1,0 +1,19 @@
+Račun br. 947588
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Bezhalogeni kabel s el. funkc. do30 Min(N)HXCH7x2,5re/2,5E30                         10000   13 130000.00  32500.00
+LS-FI (KZS), C/6A/30mA, 1P+N, Tip AC, 10kA                                          309.93   13   4029.09   1007.27
+Panik svjet. KMB  bežična , aku.bat LED 3h 230VAC , univ.SC                        1364.71    8  10917.68   2729.42
+Prsten za izjednačenje sa žbukom 70x12mm crveni                                     150.68    6    904.08    226.02
+KALU TRACK QRB111, bijele b., max. 50W, uklj. 3-f adapter                           750.35   26  19509.10   4877.27
+Soft-starter 3P, 2f upravlj. 25A/208-240VAC/24-230VAC/DC                           2981.65    4  11926.60   2981.65
+Kompaktni prekidač snage tip M, 3P/80A/100kA, MC1                                     4963    8  39704.00   9926.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    216990.55
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

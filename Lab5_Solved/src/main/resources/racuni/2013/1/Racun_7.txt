@@ -1,0 +1,15 @@
+Račun br. 420190
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Panik l. KMBE LED 230VAC, MIX mod, montaža univerzalna                              740.02    3   2220.06    555.02
+Pomoćni sklopnik vel.00 | 4P | AC15 6A/230V |24VDC|2N/O+2N/C                        112.76   10   1127.60    281.90
+Fronius Symo Hybrid 5.0-3-S Storagesystem Set 6.0                                    10000    7  70000.00  17500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     73347.66
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

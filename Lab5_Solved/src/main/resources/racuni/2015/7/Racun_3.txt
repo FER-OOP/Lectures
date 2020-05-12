@@ -1,0 +1,23 @@
+Račun br. 1002905
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+D01 (Neozed) osigurač 6A, gL                                                          7.39    5     36.95      9.24
+Relej snage, 2C/O, 8A, 6VDC serije RT, raster 5mm                                    13.49    7     94.43     23.61
+HQI-TS Downlight, siva, 150W                                                        283.12    7   1981.84    495.46
+Mura-II-Q LED 1W 6000K, IP54, aluminij                                              156.45    6    938.70    234.67
+"Zidni kom. ormar DW, bočne stranice, 600x635x595, 19"", 12U"                       1240.1   26  32242.60   8060.65
+Fluokompaktna žarulja TC-SEL 9W/827 2G7                                              20.16   18    362.88     90.72
+LED RETROFIT RAL2 60 DIM 9W 230V 827 450lm opal S14S 20000h                         163.43   24   3922.32    980.58
+Uzidni okvir s vratima - M3000, 2U-42                                              1488.26    1   1488.26    372.07
+Punto-F MR16 Spot, GU5,3, 50W, IP20, 12V, aluminij                                   46.46   16    743.36    185.84
+Utičnica šuko dvostruka sa kontaktom, na vijak, bijela                               24.38   16    390.08     97.52
+Nadgradna svjetiljka SARM 2 1x49W ECG, bijela                                       389.85   14   5457.90   1364.47
+
+                                                                                                         ----------
+UKUPNO                                                                                                    47659.316
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

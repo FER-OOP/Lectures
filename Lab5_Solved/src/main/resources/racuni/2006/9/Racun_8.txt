@@ -1,0 +1,25 @@
+Račun br. 784183
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Modul za kašnjenje uklopa, za podnožje MT78740, 24-240VAC/DC                        248.26    6   1489.56    372.39
+Sklopnik vel. 2 | 22kW (50A) [AC-3] | 24VAC, 50Hz                                   520.67    4   2082.68    520.67
+A03VV-F 4x1mm2, svijetlo-sivi, 100m kolut                                            10000    7  70000.00  17500.00
+Ovj. set za MEDO PRO 60, bij.                                                        187.2   20   3744.00    936.00
+ARROCK 70 ROUND, granit, E27,max.15W                                               2184.14   29  63340.06  15835.01
+Kabel E-Y2Y-J 4x16RM                                                                 10000    2  20000.00   5000.00
+Signalni fleksibilni kabel YSLCY-JZ 7x 2,5 sivi                                      10000   26 260000.00  65000.00
+LED žarulja Classic Opal 10,5W E27 Dimmable 810lm 2800K                             226.03   23   5198.69   1299.67
+Kompenzacija  LSFC 7% 350/25kvar 800x2000x400mm Samost.orm.                        78516.9   302355507.00 588876.75
+Roze-II-S LED 6x0,2W 6000K, IP20, aluminij                                          119.28   10   1192.80    298.20
+"Notepad ""Cube"""                                                                   58.09   12    697.08    174.27
+Utičnica, 16A, s natpisnim poljem, umetak, bijela                                    43.08   19    818.52    204.63
+Metalhalogena žarulja HIT-DE 400W/842 Fc2                                           357.43    6   2144.58    536.15
+
+                                                                                                         ----------
+UKUPNO                                                                                                    2786214.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,24 @@
+Račun br. 412113
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kai-M 44 LED 104W 9725lm, 4000K ulič.opt. LT-M,IP66, RAL9006                       5495.53   24 131892.72  32973.18
+Palos-II-R/A2 35W G8,5, 230V, IP20, sive boje                                       277.26   20   5545.20   1386.30
+Panik svjetiljka KW FLUO 11W, CPS sustav, MIX mod,zidna                             899.35    3   2698.05    674.51
+Optička spojnica LC/APC DX SM,ker.,bez prirubnice,zelena,ECO                         21.42   22    471.24    117.81
+Sklopnik vel. 2 | 22kW (50A) [AC-3] | 24VAC, 50Hz                                   520.67    8   4165.36   1041.34
+Prespojni kabel RJ45 STP cat.6a/10GB, LS0H, sivi, 10.0m                              98.51   15   1477.65    369.41
+LS-FI (KZS), C/6A/30mA, 1P+N, Tip A, 6kA, serija AMPARO                              206.5    9   1858.50    464.62
+Bezhalogeni kabel s el. funkc. do90 Min. (N)HXH-J5x6reE90                          5139.94   10  51399.40  12849.85
+ENOLA ovjesna svjetiljka, bb                                                        500.12   23  11502.76   2875.69
+Rozeta, 5 izlaza, crvene boje                                                       468.69    3   1406.07    351.52
+KADUX LED Single DL  Set, 3000K, 30°, crne boje                                    1307.91   15  19618.65   4904.66
+FlexLED Roll Pro, bijele b., 3m, 60LED/m, DC 24V                                    562.63   18  10127.34   2531.83
+
+                                                                                                         ----------
+UKUPNO                                                                                                    242162.95
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,31 @@
+Račun br. 751493
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ugradna svjetiljka SERH 2 A8 L1 T5 2x49W, ECG, bijela                                 8534   28 238952.00  59738.00
+NEW TRIA GU10 ROUND Downlight, mat crne b., max. 50W                                 187.2    2    374.40     93.60
+Vodotijesna svjetiljka LINDA Ind. sa bater. 1h PC 2-58W IP65                       1055.07    2   2110.14    527.53
+Ugradna svjetiljka SERH 2 A8 L2 T5 1x54W, ECG, bijela                                 8534   28 238952.00  59738.00
+DIO FLEX PLATE LED zidna svjetiljka, krom, 1x 1W, 4000K                             500.12   19   9502.28   2375.57
+Podnožje osigurača, D02/E 18, 1P sa pokrovom, 63A, Neozed                            14.47   17    245.99     61.50
+Bezhalogeni kabel s el. funkc. do30 Min(N)HXCH7x1,5re/2,5E30                         10000   22 220000.00  55000.00
+Bimetalni relej za sklopnike vel. 0 | 2,80 - 4,00A                                  191.26    9   1721.34    430.33
+Kabelska uvodnica M50x1.5, poliamid, RAL7035                                         64.95   15    974.25    243.56
+AF 300/200i reflektor sa senz. pokreta 300W IP44, inox efekt                       1152.91   21  24211.11   6052.78
+Sutil Quadro LED 22W, 6000K, 1540lm, 120°, IP40, sive boje                           258.5    6   1551.00    387.75
+Mehanička blokada , fiksni MO prekidač                                                4970   20  99400.00  24850.00
+Optički prespojni kabel duplex, ST/SC, 50/125µm OM2, 10.0m                           117.6   30   3528.00    882.00
+Nadgradna svjetiljka SALENA LED 39W 4000lm/830 ECG,bb                               831.55   18  14967.90   3741.98
+"Zidni komunikacijski ormar DW Dualbloc, 600x500x515, 19"", 9U"                    1137.04    5   5685.20   1421.30
+Zaštitni prekidač, C karakteristika, 16A, 2-polni, 6kA                               63.66   10    636.60    159.15
+Ugradna svjetiljka SERH 310 T8 2x36W VVG sjajni raster                              281.26    6   1687.56    421.89
+Napajanje 18W, 24V, IP67                                                              86.1   12   1033.20    258.30
+S/FTP inst. kabel cat.7, 4x2xAWG23/1, 1000Mhz, LS0H-3, plavi                        516.15    8   4129.20   1032.30
+
+                                                                                                         ----------
+UKUPNO                                                                                                     869662.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

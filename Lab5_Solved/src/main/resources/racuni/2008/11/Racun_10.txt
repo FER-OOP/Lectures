@@ -1,0 +1,16 @@
+Račun br. 1099181
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kabel J-Y(ST)Y 2x2x0,8 - EIB bus, zeleni                                            277.68   28   7775.04   1943.76
+Linda Transparente panik svj. 5x1W ERT-LED 230V za CPS MIX m                       1382.36   24  33176.64   8294.16
+Set za montažu odjelne stranice ASTWxxx (12 kom.)                                   266.49   19   5063.31   1265.83
+Pocinčana zaštitna mreža za LINDA 2x35/49/80/58W 1630x280mm                          569.7   17   9684.90   2421.23
+
+                                                                                                         ----------
+UKUPNO                                                                                                     55699.89
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

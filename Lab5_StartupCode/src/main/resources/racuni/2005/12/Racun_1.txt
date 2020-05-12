@@ -1,0 +1,24 @@
+Račun br. 176077
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Rezervni ključ MS1 standard                                                          32.76   17    556.92    139.23
+Produžni kabel za 700mA napajanja, 1m                                                 37.5   23    862.50    215.63
+Signalni fleksibilni kabel YSLCY-JZ 3x 1 sivi                                       806.56   23  18550.88   4637.72
+LS-FI (KZS), C/6A/30mA, 1P+N, Tip A, 6kA                                            286.44   15   4296.60   1074.15
+Svjetiljka desing K2  3-8h/230VAC bate.Autotest, univerzalna                           397    1    397.00     99.25
+Slušalica STYLE, SB / (samo za čiste audio sustave)                                 289.39    8   2315.12    578.78
+Siltu-R/A1 LED 9x1W 3000K 405lm,dimabilna,350mA,IP20,alu                            136.68   11   1503.48    375.87
+Sklopnik vel. 00 | 4kW (9A) [AC-3] | 24VAC, 50Hz | 1 N/C                            102.44   27   2765.88    691.47
+PT LED utični modul, zeleni, 110-230V AC, EM10                                       12.36    6     74.16     18.54
+Ormar plast.500x500x312,krov protiv kiše,dno zat.,1 vrata,                            4142   13  53846.00  13461.50
+Vrata, prozirna za MODUL 160, 5x24 modula                                             4172   14  58408.00  14602.00
+PERLA WALL 1x1W LED 4000K 70° mat staklo, aluminij                                  489.29   19   9296.51   2324.13
+
+                                                                                                         ----------
+UKUPNO                                                                                                    152873.05
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

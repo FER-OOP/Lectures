@@ -1,0 +1,22 @@
+Račun br. 613629
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+L-SE slijepi pokrov DM PC T5 L-1489mm, bijeli                                         59.1   14    827.40    206.85
+Pino-I-65-R 15W E27, 100-240V, IP44, tikovina+nehrđajući č.                         403.13   21   8465.73   2116.43
+Montažni nosač DIN šine, ravni, visine 50mm                                           8.37   18    150.66     37.67
+Plaf. sa senz.CAT-D MS LED 8,5W 375lm 3000K,360° IP20,bijela                        201.67    7   1411.69    352.92
+Design IL ERT-LED 1x3W 230VAC 3h bežična, usmjerena, ugradna                       1710.21    7  11971.47   2992.87
+Mario-WL-Q LED 6W 3000K 440lm, IP54, antracit                                       397.73   16   6363.68   1590.92
+Prednja ploča, plastična, slijepa, 1B3K                                               4160   23  95680.00  23920.00
+Signalni fleksibilni kabel YSLCY-OZ 3x 1 sivi                                        10000    5  50000.00  12500.00
+LS-FI (KZS), B/13A/100mA, 2P, Tip A, 10kA                                             4281    7  29967.00   7491.75
+Design GX LED 3h, 230V AC, stropna montaža, autotest, 34m                          1359.31   19  25826.89   6456.72
+
+                                                                                                         ----------
+UKUPNO                                                                                                    230664.52
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

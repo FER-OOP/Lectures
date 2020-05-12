@@ -1,0 +1,16 @@
+Račun br. 174628
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Nadgradna downl. svjetiljka ARM 292 2x26W TC-TEL IP40 bijela                        270.09   29   7832.61   1958.15
+OSSA 300 LED, mat crna, R7s 118mm, max 120W, gore/dolje                             625.15   22  13753.30   3438.33
+"Utičnica, 16A, s natpisom ""ZSV"", umetak, narančasta"                              53.69    8    429.52    107.38
+Sutil-R LED 30W 6000K 1997lm, IP40, bijele boje                                     397.73    7   2784.11    696.03
+
+                                                                                                         ----------
+UKUPNO                                                                                                     24799.54
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

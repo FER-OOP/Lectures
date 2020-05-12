@@ -1,0 +1,15 @@
+Račun br. 260557
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+ALTRA DICE stropna svj.CL-1,bijela GU10,max.35W                                     374.92    7   2624.44    656.11
+Košulja muška, dugih rukava, bijela -41-                                            586.99   26  15261.74   3815.44
+Prednja ploča, čelična, slijepa, 1B5                                                  4160   22  91520.00  22880.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    109406.18
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

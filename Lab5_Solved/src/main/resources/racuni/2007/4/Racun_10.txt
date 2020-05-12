@@ -1,0 +1,18 @@
+Račun br. 117806
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Serijski ormar AS, 2-vrata, 2000x1000x500 (VxŠxD), RAL 7035                        4907.98   22 107975.56  26993.89
+Fluokompaktna žarulja TC-L 40W/830 2G11                                              48.09   10    480.90    120.22
+Antenska utičnica, TV/R, 1000MHz, 2dB, završna                                       63.66    2    127.32     31.83
+EUTRAC Univerzalna stropna rozeta, sive boje                                        625.15    3   1875.45    468.86
+Završni profil, širina 4                                                              4160   27 112320.00  28080.00
+Zaštitni prekidač, B karakteristika, 50A, 1-polni+N, 10kA                           242.96   15   3644.40    911.10
+
+                                                                                                         ----------
+UKUPNO                                                                                                    226423.64
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,25 @@
+Račun br. 188005
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Nevil-Q LED 4x1W 6000K 240lm,dimabilna,350mA,IP20,aluminij                           77.21   18   1389.78    347.45
+Pila za zidne kutije, d=60mm DE, bez adaptera (GI63202106)                          170.12   22   3742.64    935.66
+LASSON, zidna svj., WL-2, četvrtasta, crne b., 2xE27                                938.06   30  28141.80   7035.45
+ARTE 300 Trafo, srebrne boje                                                       1746.03    5   8730.15   2182.54
+Rita-R/A2 70W G12, 230V, IP20, sive boje                                             17.74   26    461.24    115.31
+Ovjesna/nadgradna svj. Office LED D/I, DALI 86W 4000K 1,5m                         3508.71    6  21052.26   5263.06
+Matica PG21, mesing                                                                    2.6   28     72.80     18.20
+Zaštitni prekidač, C karakteristika, 40A, 2-polni, 10kA                             149.98   19   2849.62    712.40
+Montažna ploča za IP54, 5A-28                                                         4160   10  41600.00  10400.00
+LIGHT EYE 2 GU10 zidna i str. svj. GU10 max.2x50W zelene b.                         625.15   24  15003.60   3750.90
+CLF montažna kopča                                                                    8.06   16    128.96     32.24
+"Optički prespojni panel 19"", 1U, uklj. 4 spojnice LC, MM"                         611.42    4   2445.68    611.42
+Vrata, metalna za MODUL 160, 5x24 modula                                            442.95   30  13288.50   3322.12
+
+                                                                                                         ----------
+UKUPNO                                                                                                    138907.03
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

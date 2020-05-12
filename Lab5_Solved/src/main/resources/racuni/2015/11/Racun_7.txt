@@ -1,0 +1,14 @@
+Račun br. 412709
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Fluokompaktna žarulja TC-S 9W 840 G23 OS                                              19.7   14    275.80     68.95
+FIN XS Pole 30 4W LED 3000°K, 300lm, antracit                                      1999.54   21  41990.34  10497.58
+
+                                                                                                         ----------
+UKUPNO                                                                                                     42266.14
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

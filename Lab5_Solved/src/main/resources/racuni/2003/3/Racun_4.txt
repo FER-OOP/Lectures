@@ -1,0 +1,14 @@
+Račun br. 732407
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Prednja ploča s otvorom za uređaje ø22,5 mm, biserno bijela                             52   27   1404.00    351.00
+Sidrena šina na nazidni okvir, 3 širine brojila                                     103.49    1    103.49     25.87
+
+                                                                                                         ----------
+UKUPNO                                                                                                      1507.49
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

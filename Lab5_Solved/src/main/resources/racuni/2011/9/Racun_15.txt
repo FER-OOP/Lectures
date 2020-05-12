@@ -1,0 +1,27 @@
+Račun br. 696116
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Halogena žarulja QPAR-CB 20 75W 30° GU10                                             49.33   26   1282.58    320.65
+Rolo-WL 3 E27 75W, aluminij, bijele boje                                            212.21    4    848.84    212.21
+Završna pločica za 3P sabirnicu SI310560-- (35mm²)                                    4837    6  29022.00   7255.50
+Redukcijski element za mont. 5mm sabirnice na nosač SI011380                          2.19    2      4.38      1.10
+GLENOS završni pokrov za profil 1808, crne boje                                      43.76    4    175.04     43.76
+UPUTE ZA SLAGANJE MODUL 2000                                                          1.68   18     30.24      7.56
+Amparo LED signalne svjetiljke                                                           0   16      0.00      0.00
+Aaron-S 3x32/42W G24q-4, 230V, IP20, bijele boje                                     99.01   28   2772.28    693.07
+Ina-R/A1 LED 10W 4000K 840lm, IP20, aluminij                                        263.91    8   2111.28    527.82
+Vodotijesna svjetiljka LINDA Transparente 2-58W ECG IP65 PC                         464.16   22  10211.52   2552.88
+KNX DALI Gateway plus, 1 kanal                                                     3409.61    6  20457.66   5114.42
+Okvir za ugradnju RX panik lampe u strop                                            290.04   11   3190.44    797.61
+Tarifni prekidač s podešavanjem na 50A i 63A, 3-polni                               483.19   13   6281.47   1570.37
+Kućni energetski razdjelnik, 3-redni, za 66 modula, RAL9003                         944.13   20  18882.60   4720.65
+Telekomunikacijski kabel F-YAY 5x2x0,8mm2                                            10000    4  40000.00  10000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    135270.33
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

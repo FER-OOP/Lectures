@@ -1,0 +1,29 @@
+Račun br. 745962
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Podnožje DC patrona priključka M10                                                   78.62   22   1729.64    432.41
+Vezica 203 x 2.5mm, natural (pak.=100 kom.)                                           8.34    2     16.68      4.17
+Punto-Q/A1 LED 7W 3000K 513lm,dimabilna,700mA,IP20,aluminij                          95.29   27   2572.83    643.21
+Zaštitni prekidač, B karakteristika, 50A, 1-polni+N, 10kA                           242.96   26   6316.96   1579.24
+Plosnati kut  za kanal SIGNA 70/110 RAL9001                                         188.19    4    752.76    188.19
+Poliester podnožje za ukopavanje u zemlju,1000x1000x300(VŠD)                       3826.95    1   3826.95    956.74
+Podnožje prema širini AS/KS ormara, 600x200mm, RAL 7022                             487.52   27  13163.04   3290.76
+SAT koaksijalni F-utikač, natisni, za kabele  4.6 do 5.1mm                            5.91    2     11.82      2.95
+EURO SPOT GU10,srebrnosiva,uklj. 1-fazni adapter                                    343.66    2    687.32    171.83
+Sig.svjetiljka DLQ 1x1W ERT-LED 3h 230VAC Wireless krom                            1381.16    4   5524.64   1381.16
+TOOLLESS LINE utični modul RJ45 cat.6, neoklopljen (SFA)                             19.81   19    376.39     94.10
+Kruta pojačana cijev, M50, 750N, EN3341, crna, 3m (pak. 21m)                       1930.66    2   3861.32    965.33
+IBDN prespojni kabel RJ45 UTP cat.6A, žuti, 4.6m                                      6804   20 136080.00  34020.00
+POWER CUBE design nap. letva 16A, 5xschuko crvena,kabel 1.5m                        137.13   29   3976.77    994.19
+SERH ECO A4 L1 T5 4x14W EVG M625, bijela b.                                          332.3   17   5649.10   1412.27
+Spojnica za sabirnice TTT-profil, 2500A, duljina 95mm                               324.92    6   1949.52    487.38
+Nosač RC senzora pokreta, smeđi                                                     152.48    2    304.96     76.24
+
+                                                                                                         ----------
+UKUPNO                                                                                                    186800.67
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

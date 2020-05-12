@@ -1,0 +1,26 @@
+Račun br. 476361
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Pozivno tipkalo za liječnika                                                          2104   23  48392.00  12098.00
+Nož sa kukastom oštricom, za skidanje izolacije 8-28mm                              110.15   20   2203.00    550.75
+Parabol.uskosnopni odsijač za svjetiljku LINDA 2-28/54W                              85.86    5    429.30    107.32
+P/Ž inst. razdj. 2U-12,4-redni,84ŠM,640x590x250mm(VxŠxD)                              4190    2   8380.00   2095.00
+WORKLIGHT LED SL-2, bijela b., uklj. 2x PHILIPS LED, 3000K                         6252.19   14  87530.66  21882.66
+Ugradna svjetiljka SEP XTP T8 4x36W ECG IP54 M625, bijela                             8534   14 119476.00  29869.00
+Aura 3 LED 15W, 3000K, 1940lm, IP43                                                 832.81   24  19987.44   4996.86
+Grebenasta sklopka, siva, 0-1/3P/80A, na DIN nosač                                  611.19    3   1833.57    458.39
+P/Ž inst. razdj. 5U-28,9-redni,513ŠM,1380x1230x250mm(VxŠxD)                        5952.62   27 160720.75  40180.19
+Montažna ploča za MINIPOL ormare, poliester, 300x250mm                               63.58   26   1653.08    413.27
+Podložna pločica, ravna, DIN125A / M8 / d=8.4mm                                       13.2    1     13.20      3.30
+SPOJNE KLEME ZA PODCENTRALU S KOMPJUTEROM                                           866.13   22  19054.86   4763.71
+Bezhalogeni jednožilni vodič H05Z-K 0,75mm2, crveni                                  10000    4  40000.00  10000.00
+Ina-R/A1 LED 10W 4000K 840lm, IP20, bijele boje                                     238.74   13   3103.62    775.91
+
+                                                                                                         ----------
+UKUPNO                                                                                                    512777.44
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

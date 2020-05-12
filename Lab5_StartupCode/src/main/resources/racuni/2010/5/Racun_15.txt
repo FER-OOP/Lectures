@@ -1,0 +1,30 @@
+Račun br. 125287
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kabelski kanal 80x120 (VxŠ), 2m, perforirani, sivi, RAL7030                          74.05    7    518.35    129.59
+Prednja ploča antenske utičnice sa 2 otvora, alu efekt                               43.08   16    689.28    172.32
+CLF montažna kopča                                                                    8.06    4     32.24      8.06
+Sabirnica 3-polna, jezičasta, 35mm², 130 A, korak 27mm, 1m                          736.72   13   9577.36   2394.34
+3-fazna LED signalizacija prisutnosti napona                                          98.3   22   2162.60    540.65
+Kompaktni prekidač snage tip A, 3P, 150kA, 250A                                    3195.82    8  25566.56   6391.64
+Kabel RS-2YCY 8x2x0,5 PiMF                                                           10000    5  50000.00  12500.00
+Kućište n/ž Š148xV45xD80mm za HSEMDR4W0F, RAL9010                                     19.4   29    562.60    140.65
+Montažni nosač za EEC i EMC adaptere širine 63mm                                      4832    5  24160.00   6040.00
+Spojnica (koljeno) M20, siva (pak. 25 kom.)                                         391.64   23   9007.72   2251.93
+Bistabilni relej, 8VAC, 1 N/O, 16A, na DIN nosač                                    142.93    5    714.65    178.66
+Zaštitni prekidač AMPARO 6kA, B 13A, 1-polni                                         30.24    9    272.16     68.04
+Kutnik za theLuxa P, crni                                                            44.02   16    704.32    176.08
+7807, završni pokrov, za 4-žilnu traku                                                1.35   10     13.50      3.38
+Linijska svj. SERH 112 1x28W, ECG, bijele boje                                      476.11    8   3808.88    952.22
+NEW TRIA MINI DL SQUARE, 3W, 3000K, 30°, bijele boje                                205.96   15   3089.40    772.35
+FID sklopka 63-4-003/A (puls), 6kA                                                  594.02   17  10098.34   2524.58
+Kompaktni prekidač snage tip AF, 3P/32A/18kA, box stezaljke                          529.4    3   1588.20    397.05
+
+                                                                                                         ----------
+UKUPNO                                                                                                    142566.16
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

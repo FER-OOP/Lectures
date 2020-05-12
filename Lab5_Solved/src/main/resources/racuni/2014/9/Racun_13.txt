@@ -1,0 +1,18 @@
+Račun br. 1059817
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zamjenjiva skala, 72x72mm, 80/160/5A AC                                              10.89   23    250.47     62.62
+Bimetalni relej za sklopnike vel. 0 | 1,80 - 2,50A                                  191.26   10   1912.60    478.15
+AF S LED 300 reflektor, 8xLED (24W), 3000°K, IP44, crni                            3392.42    9  30531.78   7632.94
+Relej snage, 3C/O, 16A, 24V AC, Faston 187, Tip RM                                  110.98   12   1331.76    332.94
+Dimer 40-400W, podžbukni                                                            541.46    1    541.46    135.37
+Utičnica (bez pr. pl.)zašt. za djecu,16A,umetak, bis. bijela                          2114   27  57078.00  14269.50
+
+                                                                                                         ----------
+UKUPNO                                                                                                     91646.07
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

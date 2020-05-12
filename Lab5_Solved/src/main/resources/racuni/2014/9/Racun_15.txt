@@ -1,0 +1,19 @@
+Račun br. 312945
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+GLENOS četvrtasti Profile 3030, 2m, srebrne boje                                    437.43    6   2624.58    656.15
+Daljinski isklopnik, 12-110V AC i 12-60V DC, natična montaža                        109.43   21   2298.03    574.51
+Bezhal. sign. kabel HSLCH-JZ 4x2,5 FRNC sivi/žila crna                               10000    6  60000.00  15000.00
+BIMA I svjetiljka, crna, GU10, max. 50W, uklj. adapter                              374.92    3   1124.76    281.19
+Tipka sa natpisnim poljem i simbolom zvona, biserno bijela                           30.24   11    332.64     83.16
+Višežični PVC-om izolirani vodič H07V-R (P/M) 50mm2, crni                            10000   27 270000.00  67500.00
+Uzidni okvir s vratima - M3000, 3U-42                                              1666.27    4   6665.08   1666.27
+
+                                                                                                         ----------
+UKUPNO                                                                                                     343045.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

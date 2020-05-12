@@ -1,0 +1,33 @@
+Račun br. 887106
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+D01 prilagodni uložak (prsten) Neozed 2A                                              2.27   12     27.24      6.81
+Aluminijski profil TBW, D-2000mm Š-26,3mm V-80mm                                    234.56   30   7036.80   1759.20
+Gwen-R 150W RX7s, 230V, IP20, brušeni mesing                                         19.59    1     19.59      4.90
+Nosač sa N/PE stezaljkama, 2x15 otvora                                               21.13    2     42.26     10.56
+NV osigurač vel. 1, 100A/400V AC                                                     45.36   12    544.32    136.08
+Ugradna svjetiljka SEO PC T5 1x35W, ECG, bijela                                     492.09   30  14762.70   3690.68
+Adaptor za 1-faznu šinu, srebrna b., električni                                      80.76   12    969.12    242.28
+Blokada ručice u položaju OFF,za zaštitne prekidače ser. BR                           4230   18  76140.00  19035.00
+Podnaponski isklopnik 230V AC, trenutno okidanje                                    242.29    8   1938.32    484.58
+Bezhalogeni kabel s el. funkc. do90 Min. (N)HXH-J4x16rmE90                        10085.59    4  40342.36  10085.59
+Sljepi pokrov, bijeli                                                                22.66   15    339.90     84.97
+Modularna prednja ploča sa otvorom za 1x24 modula, 600x150mm                        107.82   17   1832.94    458.23
+Tipka sa simbolom ventilatora, bijela                                                12.65   11    139.15     34.79
+Okvir 2M line, bež                                                                    8.13   25    203.25     50.81
+Ugradna svj. SELENA OP LED ECO 37W M600 3700lm/830 ECG,bb                            731.4   17  12433.80   3108.45
+Prozirna vrata, akril, za WSM7050xx, otvor: 550X343mm                               634.23   16  10147.68   2536.92
+Kompaktni prekidač snage tip A, 3P, 50kA, 200A                                     2402.39    4   9609.56   2402.39
+Kanal za postavljanje PEN LIGHT, 1m                                                  18.75   15    281.25     70.31
+Tipka s ručicom,crvena,osvijetljena,2 polož.,50°,bez povrata                         44.43    9    399.87     99.97
+Jednožični PVC-om izolirani vodič H07V-U (P) 10mm2, smeđi                            733.7   10   7337.00   1834.25
+Poliester ormar, vrh i dno zatv., 1 vrata 750x750x312 (VŠD)                        2376.15    4   9504.60   2376.15
+
+                                                                                                         ----------
+UKUPNO                                                                                                    194051.72
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

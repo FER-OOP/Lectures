@@ -1,0 +1,17 @@
+Račun br. 977659
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ina-A 3 LED 12W, 3000K, 1100lm, 700mA, 38°, SKIII,bijele b.                         144.46   22   3178.12    794.53
+Okvir 3M line, bež                                                                    9.84   12    118.08     29.52
+Viličasta sabirnica 63A za 2xBE5, korak 45mm                                         41.61    3    124.83     31.21
+NV osigurač vel. 2, 315A/400V AC                                                     73.17    1     73.17     18.29
+Teretna sklopka, 4P, 200A, opcija: daljinski isklop                                1366.43   14  19130.02   4782.51
+
+                                                                                                         ----------
+UKUPNO                                                                                                    22624.223
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

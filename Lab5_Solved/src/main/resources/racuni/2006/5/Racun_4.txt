@@ -1,0 +1,33 @@
+Račun br. 1078916
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Izolacijski element 4 stupnja                                                        49.64   10    496.40    124.10
+Otto-I-Q/A2 70W G8,5, 230V, IP20, crne boje                                         161.18   20   3223.60    805.90
+Teretna sklopka, rastavljač (izolator), 100A, 2P                                      81.5   10    815.00    203.75
+Nadzorna ploča sa LCD zaslonom, BUS komunikacija                                   1653.48   22  36376.56   9094.14
+Fluokompaktna žarulja TC-L 55W/827 2G11                                              49.17   24   1180.08    295.02
+Bezhalogeni kabel s el. funkc. do30 Min(N)HXCH3x2,5re/2,5E30                         10000    8  80000.00  20000.00
+CRISTAL MEDIUM LED 9x1W 3000K SIM. 40° INOX+ugr.kut.                               2973.64   16  47578.24  11894.56
+Kronos-S/A2 LED 2x40W 4000K 2x3300lm, IP20, bijele boje                            1905.53   16  30488.48   7622.12
+LS-FI (KZS), D/16A/30mA, 3P+N, Tip A, 6kA                                             4281   17  72777.00  18194.25
+Bezhalogeni jednožilni vodič H07Z-K 6mm2, plavi                                      10000    2  20000.00   5000.00
+Icarus-Q LED 2x3W 3000K 500lm, IP54, bijele boje                                    662.99   10   6629.90   1657.47
+Ormar plast.750x500x312,krov protiv kiše,dno zat.,1 vrata,                            4142    4  16568.00   4142.00
+Sander-I-R/A2 LED 35W 3000K 3200lm, IP20, sive boje                                 848.68   21  17822.28   4455.57
+Zaštitni prekidač MB 25kA BT 80/3                                                   476.17    9   4285.53   1071.38
+Prespojni kabel RJ45 STP cat.6a/10GB, LS0H, plavi, 0.5m                              24.82   12    297.84     74.46
+OSRAM žarulja HALOPIN Eco G9, 20W                                                     37.5    4    150.00     37.50
+Montažna ploča za WKS2060, 170x570x2, pocinčani čelik                                 4065    6  24390.00   6097.50
+LED prespojni kabel RJ45 oklopljen,500 MHz,Ea,10GB,crveni,3m                         62.88    6    377.28     94.32
+Svjetleća oznaka, 250V AC, intenzivno svjetlo                                        21.88   22    481.36    120.34
+Okvir 4x2M line, zlatni                                                              57.52   23   1322.96    330.74
+Detektor pokreta, bežični, u unutarnu upotrebu                                      374.92   21   7873.32   1968.33
+
+                                                                                                         ----------
+UKUPNO                                                                                                    373133.88
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,23 @@
+Račun br. 337320
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+PLENUM FIX podna svjetiljka, okr., antracit, E27, max. 25W                          938.06    7   6566.42   1641.60
+Montažna šina7045 sa kab. kanalom, dužina 4,15m                                     594.31   12   7131.72   1782.93
+Adela-II-R 50W GU5,3 MR16, 12V, IP20, krom                                         1060.73   30  31821.90   7955.47
+Ugradna svjetiljka SERH ECO A5 L1 T5 4x14W ECG M600, bijela                         428.17   23   9847.91   2461.98
+7105BLG/W, G9 LED 5,5W WW 230V silikon                                                29.9   21    627.90    156.97
+"Zidni kom. ormar DW, bočne stranice, 600x770x495, 19"", 15U"                      1275.59   15  19133.85   4783.46
+Kompaktni prekidač snage tip A, 3P/50A/25kA, MC1                                    694.81   29  20149.49   5037.37
+Zaštitni prekidač, D karakteristika, 16A, 4-polni, 10kA                             477.18   24  11452.32   2863.08
+Reflektor Signlite 4x9W VVG IP65 sa nosačem L=500mm                                 766.83   20  15336.60   3834.15
+Kućište IP55, zakretna ručica, za MZS vel.0                                          25.28   18    455.04    113.76
+HORN 2 TURNO MR16,ovalna,bijela G5.3,max.2x50W                                      374.92    7   2624.44    656.11
+
+                                                                                                         ----------
+UKUPNO                                                                                                   125147.586
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

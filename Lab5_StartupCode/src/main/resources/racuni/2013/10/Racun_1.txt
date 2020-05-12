@@ -1,0 +1,25 @@
+Račun br. 845436
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Modularni okvir za ormar 1800x800mm, 33 reda                                        674.15    3   2022.45    505.61
+Senzor prisut. stropni, PlanoSpot 360, LON, 64m2, bijeli                           1745.51   12  20946.12   5236.53
+Transformator, 1-fazni | 230/024V | 630VA, IP00                                     966.95    6   5801.70   1450.43
+7906/AL, Aluminijski profil  2m + PMMA opalni četvrt. pokrov                        212.55   18   3825.90    956.48
+TEC 6 QRB zidna i stropna svjetiljka                                               1871.23   23  43038.29  10759.57
+Tipkalo uskočno, plosnato, crveno                                                     64.4   13    837.20    209.30
+Dina LED 12W, 3000K, 1100lm, 700mA, IP64, 40°, alu                                  183.15   15   2747.25    686.81
+Svjetiljka Solo Line T5 1x39W,ECG, bijele boje                                      295.68   22   6504.96   1626.24
+Set za učvršćenje Maxipol POA. i POC. ormara za zid (4 kom.)                            76   17   1292.00    323.00
+Parcijalna montažna ploča za AS/KS ormare šir. 600mm, 4 reda                         69.27   17   1177.59    294.40
+7613C/W, 13w R7s 78mm WW                                                              6.92   20    138.40     34.60
+LED Panel Round 300 20W 1300lm tople bb 2800K, bijele b.                            703.23   21  14767.83   3691.96
+Bezhal. kabel HSLH-JZ 4x1FRNC H-F 1žila ž/z ostale crn/siv                           10000    4  40000.00  10000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    143099.69
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

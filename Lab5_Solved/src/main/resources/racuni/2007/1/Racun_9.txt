@@ -1,0 +1,27 @@
+Račun br. 517816
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+POWER LIM 2 LED RGB Slave upr., 24V uklj. napajanje 60W                             938.06   18  16885.08   4221.27
+AIXLIGHT R OFFICE T5, okr.,bi.b., max.2xT5 39W+2xES111 75W                         2809.97   23  64629.31  16157.33
+Utičnica šuko, 2-struka, sa kontaktom, na vijak, antracit                            34.07    4    136.28     34.07
+Quartz halogena ž.,Philips Plusline ES R7s,118mm,120W,proz.                          43.76    6    262.56     65.64
+EUTRAC Produžetak, elek., crne b.                                                     95.8   12   1149.60    287.40
+Vodič (N)YM-J (PGP) 3x2,5mm2, sa zašt. vodičem, svij.-sivi                          615.29   24  14766.96   3691.74
+Natpisna pločica, prazna, 17.5 x 28mm, natična                                        2.11    5     10.55      2.64
+PIRUS ovjesna svjetiljka sa 1-f-ad.,srebrne b., E14, max.40W                        562.36   16   8997.76   2249.44
+Marra LED traka 14,4W/m 2700K 980lm/m, dimabilna, IP20                              384.55   20   7691.00   1922.75
+DC sklopnik | 15kW | 24V DC | 3N/O                                                  595.89    6   3575.34    893.84
+Unutarnji kut za kanal SIGNA 70/130 RAL 9001                                        216.33   30   6489.90   1622.48
+Fluokompaktna žarulja TC-D 26W/830 G24D-3                                            27.45   16    439.20    109.80
+Iris-R 22W 2GX13, 230V, IP20, sive boje,prsten narančaste b.                        145.81   11   1603.91    400.98
+7824/RGB, LED POWER CABLE za 7820/RGB                                                11.15    8     89.20     22.30
+Patchfinder izvor napajanja za LED prespojne kabele                                 141.67    2    283.34     70.83
+
+                                                                                                         ----------
+UKUPNO                                                                                                     127010.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

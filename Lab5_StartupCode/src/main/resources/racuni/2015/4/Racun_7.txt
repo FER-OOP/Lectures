@@ -1,0 +1,18 @@
+Račun br. 817343
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kompaktni prekidač snage tip A, 3P/63A/25kA, utični, MC1                           1555.16    1   1555.16    388.79
+Roze-WL-S LED 6x0,2W, IP20, aluminij                                                  59.3    8    474.40    118.60
+Minijaturni relej, 4C/O, 6A, 110VDC, pozlaćeni kontakti                              77.21    2    154.42     38.60
+Bezhalogeni jednožilni vodič H07Z-K 1,5mm2, žuto/zeleni                              10000    7  70000.00  17500.00
+NEW TRIA LED DL okrugli Set, 12W, 2700K, 38°, bijele boje                           875.55   28  24515.40   6128.85
+EASY LIM PRO RF MASTER,12V/24V                                                      578.81    8   4630.48   1157.62
+
+                                                                                                         ----------
+UKUPNO                                                                                                    101329.85
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

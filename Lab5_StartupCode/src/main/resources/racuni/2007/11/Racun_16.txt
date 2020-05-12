@@ -1,0 +1,17 @@
+Račun br. 821388
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Montažna ploča za Maxipol ormare 500X750 (VxŠ), metalna                             300.11   22   6602.42   1650.60
+Box priključne stezaljke do 160A, za 4-polnu MC2 (4 kom.)                            79.25   23   1822.75    455.69
+KADUX LED Double DL Set, 3000K, 30°, crne boje                                     2184.14   16  34946.24   8736.56
+Maskirni razdj. 3M-28, 9-redni, 297 ŠM,1335x760x200mm(VxŠxD)                       2927.67   27  79047.09  19761.77
+Preklopnik mreža-0-Not, pričvrš.na sabirnicu, 3-polna, 100A                        1714.31   14  24000.34   6000.08
+
+                                                                                                         ----------
+UKUPNO                                                                                                    146418.83
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

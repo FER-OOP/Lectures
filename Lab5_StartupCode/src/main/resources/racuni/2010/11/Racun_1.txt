@@ -1,0 +1,21 @@
+Račun br. 969728
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Signalni fleksibilni kabel YSLCY-OZ 7x1,5                                            10000   26 260000.00  65000.00
+Voltmetar, 72x72mm, 60V DC                                                          383.58    3   1150.74    287.68
+Zaštitni prekidač MB 15kA BT 80/3                                                   458.97    8   3671.76    917.94
+Ugradna svjetiljka SEP T5 4x14W, ECG, M600 bijela                                   348.28   28   9751.84   2437.96
+Instalacijski sklopnik 25A | 2 N/O + 2 N/C | 24V AC, 2ŠM                            186.02   15   2790.30    697.58
+Bezhal. kabel poboljšanih svoj.za sl. požara N2XH-J 3x16rm                           10000    7  70000.00  17500.00
+Prirubnica veličine II - 12xPG16                                                    148.38   21   3115.98    778.99
+Utičnica šuko sa poklopcem i dječjom zašt. na oprugu bijela                          19.85   17    337.45     84.36
+KC panik lampa 8W 230V EVG za CPS MIX mod,montaža zid                               747.03    3   2241.09    560.27
+
+                                                                                                         ----------
+UKUPNO                                                                                                    353059.16
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

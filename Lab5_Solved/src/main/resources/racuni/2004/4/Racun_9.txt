@@ -1,0 +1,30 @@
+Račun br. 268559
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Pokrov za plosnatu tipku, žuti                                                        8.52   14    119.28     29.82
+Adapter za sustav 60mm EPC 250A, 4P,za montažu NSX100-NSX250                        660.87   12   7930.44   1982.61
+T8 LED cijev, zakretna, 25W, 6000K, 2300lm, 230V, 150cm                             146.65    9   1319.85    329.96
+PEYOTE POLE 48cm 360° 8x1W LED, 40° 4000K RAL9006                                  3315.41   21  69623.61  17405.90
+"VI panik svjetiljka LED 230V za CPS MIXmod; zidna montaža"                        1917.77    5   9588.85   2397.21
+Pomoćni kontakt za MZS vel.00/0/2/3 (2+0), prednja montaža                            32.6   28    912.80    228.20
+ENOLA ovjesna svjetiljka, bb                                                        500.12    8   4000.96   1000.24
+D02 rastavna sklopka ARROW S, 3-polna, 50A                                          266.58    5   1332.90    333.22
+Ulična svjetiljka Oyster 2 HST 70W Kl.2 230V                                       1579.77   18  28435.86   7108.96
+1-f strujna šina, nadgradna, 1m, srebrne boje                                       167.94    4    671.76    167.94
+Kućište N/Ž, IP40, bez vrata, 1-redno, 2 modula                                      16.48   22    362.56     90.64
+Maskirni razdjelnik 1 širina brojila/ 28 MV                                           4180    7  29260.00   7315.00
+Cilindrični osigurač, 22x58, 50A, gG, 500V AC                                        11.62   19    220.78     55.19
+Pojačalo signala                                                                    437.43    1    437.43    109.36
+Teški gumeni kabel H07RN-F 4x6, crni                                               2913.54    2   5827.08   1456.77
+Solarlog set kabela 3m za Fronius                                                   213.36   26   5547.36   1386.84
+Pella-Q LED 2x3W 3000K 182lm, IP54, sive boje                                       464.13    2    928.26    232.07
+Rezervni nož za HSETOOL01F, sistem 110                                               54.79   27   1479.33    369.83
+
+                                                                                                         ----------
+UKUPNO                                                                                                    167999.12
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

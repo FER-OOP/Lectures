@@ -1,0 +1,27 @@
+Račun br. 1036601
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Telekomunikacijski kabel vodonepropusan F-2YA2Y 6x2x0,8                              10000   25 250000.00  62500.00
+FID sklopka 63-4-01/A, S izvedba                                                   1296.34    6   7778.04   1944.51
+PlanoCentro 300, senzor prisutnosti, p/ž, stropni, srebrni                         4306.33   27 116270.91  29067.73
+Sabirnica, 3-struka za B/C odvodnike (za TN-C sustave)                               21.66   13    281.58     70.39
+Prekidač, bežično upravljiv                                                         218.46   21   4587.66   1146.92
+Ovjesna svjetiljka, PD 115 E27, okrugla, bb, max. 60W                              1250.97   17  21266.49   5316.62
+Prednja ploča za potezno tipkalo EL735100, biserno bijela                             2104    6  12624.00   3156.00
+"Opt. razdjelnik, 16 niti,LC,50/125µm OM3, izvlačivi,19"",1U"                       826.38    2   1652.76    413.19
+Plafonjera ALICA Round OP 1x60W max, E27, IP54, crna                                 198.1    1    198.10     49.53
+Instalacijski sklopnik 40A | 3 N/O | 230V AC                                        317.65   17   5400.05   1350.01
+LIGHT EYE BALL GU10 ovjesna svjetiljka, GU10, bijele b./krom                        374.92   26   9747.92   2436.98
+Polo majica kratkih rukava, siva -S-                                                 101.1    8    808.80    202.20
+SAT ključ za pomoć pri navoju F-konektora m/ž do 11mm                                 7.97    3     23.91      5.98
+Kompaktni prekidač snage tip VE, 4P, 50kA,1600A+izvl. modul                       72246.39   171228188.63 307047.16
+Linijska svj. SERM-LL 112, završni profil,  2x54W, ECG, bb                          517.68    6   3106.08    776.52
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1661935.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

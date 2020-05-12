@@ -1,0 +1,17 @@
+Račun br. 1040738
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Prespojni kabel RJ45 cat.5e oklopljen, PVC, zeleni, 0.5m                              5.34    2     10.68      2.67
+Krovna kuka FP 6/45/110, nehrđajući čelik, TÜV                                       89.75   30   2692.50    673.13
+"1-struki okvir ""Fashion"", bijeli, IP44"                                           43.82    2     87.64     21.91
+Stezaljka glavnog voda (zaAl i Cu),1P,2x25mm²|2x16mm²,zelena                         21.33   20    426.60    106.65
+Priključna ploča, 3P, sustav 60mm, 6-50mm² Cu/Al                                    143.27   19   2722.13    680.53
+
+                                                                                                         ----------
+UKUPNO                                                                                                      5939.55
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,25 @@
+Račun br. 462869
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+MEDO 40 LED, ugradna svjetiljka, bez vidljivog ruba                                1250.97   18  22517.46   5629.36
+Izolirana žica s tuljcima, D=250mm, 6 mm2, plava                                      4.97    3     14.91      3.73
+Bezhalogeni kabel s el. funkc. do90 Min. (N)HXH-J3x4reE90                          2549.22    7  17844.54   4461.13
+Montažna ploča za Maxipol ormare 1000X1000 (VxŠ), metalna                           909.18   30  27275.40   6818.85
+Izolir traka 19mm x 20m, plava, VDE, UV otporna                                       6.45   30    193.50     48.38
+Prsluk Store, ženski -middle-                                                        449.7   17   7644.90   1911.23
+Zaštitni prekidač, C karakteristika, 16A, 3-polni, 10kA                             100.67   14   1409.38    352.35
+Daljinski upracljač za SendoPro 868-A                                              2955.13   19  56147.47  14036.87
+Vodič (N)YM-J (PGP) 7x2,5mm2, sa zašt. vodičem, svij.-sivi                           10000   15 150000.00  37500.00
+Zaštitni prekidač, C karakteristika, 63A, 1-polni, 6kA                               49.02   10    490.20    122.55
+Podnožje za izvlačivi prekidač, 4-polno, za MC3                                    4375.98   12  52511.76  13127.94
+LED Downlight 68 - IP43 | CRI/RA 97 (podesiv) topla bijela                          422.19   22   9288.18   2322.04
+Kompaktni prekidač snage tip M, 3P/100A/50kA, MC1                                  1001.18   30  30035.40   7508.85
+
+                                                                                                         ----------
+UKUPNO                                                                                                     375373.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

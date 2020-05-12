@@ -1,0 +1,24 @@
+Račun br. 804679
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Lingo LED 1W 3000K 60lm, 24V, dimabilna, IP20                                        29.39   30    881.70    220.42
+P/Ž media razdjelnik, MVM, 4-redni, 12+2 modula,plitki okvir                        988.11   11  10869.21   2717.30
+Krović za zaštitu WSM ormara od kiše, za ormar 600X260 (ŠxD)                          4066    2   8132.00   2033.00
+LED LINK LINE sabirna točka 12xRJ45 cat.6a,12xk.bl.in.kab.                          835.14   10   8351.40   2087.85
+Punto-A MR16 Spot, GU5,3, 50W, IP20, 12V, siva                                       22.64   12    271.68     67.92
+Samostojeći ormar, 1-vrata, 2000x800x400 (VxŠxD) bez MP R5                         3489.63   22  76771.86  19192.96
+SDS Plus osovina za cilindričnu pilu 32-210mm                                       289.68   15   4345.20   1086.30
+Blok pomoćnih kontakata HKM11V lijevi                                                45.04   16    720.64    180.16
+Teleskop lampa                                                                        9841   23 226343.00  56585.75
+Vrata, metalna, perforirana za kom. ormare, 32U, Š=600 mm                              751    9   6759.00   1689.75
+Zaštitni prekidač MB 18kA CL 63/3                                                   458.97    9   4130.73   1032.68
+Višežični PVC-om izolirani vodič H07V-R (P/M) 70mm2, crni                            10000   21 210000.00  52500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     557576.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

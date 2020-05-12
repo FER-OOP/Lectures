@@ -1,0 +1,31 @@
+Račun br. 734106
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LED ES111, crne boje, 17W, 30°, 2700K                                               562.63    3   1687.89    421.97
+RUSTY SQUARE šiljak                                                                 218.46   19   4150.74   1037.69
+Umetak za rolete sa proširenim ulazima                                             1012.57    1   1012.57    253.14
+LOGICOM krović za P/Ž kućišta, 6 modula                                            1175.34   19  22331.46   5582.86
+Bezhalogeni kabel s el. funkc. do90 Min. (N)HXH-O1x150rmE90                       18730.09   25 468252.25 117063.06
+Compact passimo, senzor prisutnosti KNX, stropni, crni                             2580.64    2   5161.28   1290.32
+Pokrov za 2xRJ45 Toolless, antracit                                                  12.97   11    142.67     35.67
+Nadgradna svjetiljka SAP IP54 T8 2x36W CCG, bijela                                  946.01   29  27434.29   6858.57
+Savitljiva cijev (srednje), M20, 750N, EN3341, 50m, siva                            290.81    4   1163.24    290.81
+Okvir 2M line, srebrni                                                               24.38   21    511.98    127.99
+N/Ž kutija IP54 za senzor Serije MD i PD, bijela                                     61.04    2    122.08     30.52
+Prespojni kabel RJ45 cat.6 oklop.,s pregibnicama,crveni,5m                           29.39   12    352.68     88.17
+Okvir za ugradnju KC panik lampe u strop or                                         322.97    2    645.94    161.49
+Nadzemni kabel E-A2Y 4x95RM, 0,6/1KV                                                 10000    6  60000.00  15000.00
+Pinta-Q/A1 50W GU10 MR16, 230V, IP20, brušeni krom                                   25.34    3     76.02     19.01
+3f reflektor VITO LED 25W 1550lm/840 40°, bijele boje                               939.29    7   6575.03   1643.76
+Ina-S-R/A2 LED 40W 3000K 3200lm, IP20, bijele boje                                  952.76    7   6669.32   1667.33
+Finožični PVC-om izolirani vodič H07V-K (P/F) 6mm2, bijeli                           455.4   27  12295.80   3073.95
+Reed-I-R 70W Rx7s, 230V, IP20, brušeni krom                                           9.63   23    221.49     55.37
+
+                                                                                                         ----------
+UKUPNO                                                                                                     618806.7
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

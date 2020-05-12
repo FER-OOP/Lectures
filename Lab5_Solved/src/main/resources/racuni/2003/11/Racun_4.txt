@@ -1,0 +1,18 @@
+Račun br. 148304
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+ECO LED PANEL ROUND downlight, okrug., bijele b., 14W, 3000K                        375.73   17   6387.41   1596.85
+RC 130i infracrveni senzor pokreta, nazidni, IP54, crni                             929.94   23  21388.62   5347.15
+Univer.opt.kabel A/I-DQ(ZN)BH 24x9/125µm OS2, LS0H-3, nm.                           820.95   20  16419.00   4104.75
+Kompaktni prekidač snage tip AE, 4P, 50kA, 1600A                                  31042.42   24 745018.06 186254.52
+IP2x zaštita od dodira, za 4-polne MC2 (montaža na MC296770)                         65.84    6    395.04     98.76
+Cube-WL-Q 2x35W GU10 MR16, 100-240V, IP54, rusty                                    219.81   16   3516.96    879.24
+
+                                                                                                         ----------
+UKUPNO                                                                                                     793125.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

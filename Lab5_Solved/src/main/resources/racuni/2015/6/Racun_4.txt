@@ -1,0 +1,15 @@
+Račun br. 1045717
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zaštitni prekidač, C karakteristika, 16A, 3-polni, 10kA                             100.67   30   3020.10    755.02
+Prednja ploča, plastična, sa otvorom za uređaje, 1G3K                                45.77   28   1281.56    320.39
+UPS Premium Plus 2200VA 1760W 6 min.1/1-fazni/Online                               6373.78   14  89232.91  22308.23
+
+                                                                                                         ----------
+UKUPNO                                                                                                     93534.58
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

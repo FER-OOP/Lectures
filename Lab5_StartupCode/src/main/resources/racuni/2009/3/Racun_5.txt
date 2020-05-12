@@ -1,0 +1,14 @@
+Račun br. 563690
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ugradna svjetiljka SE-ID ECO L1 T5 2x14W ECG M600, bijela                           396.21   10   3962.10    990.52
+SERH ECO A3 L2 T5 4x14W EVG M600, bijela b.                                         450.67    5   2253.35    563.34
+
+                                                                                                         ----------
+UKUPNO                                                                                                      6215.45
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

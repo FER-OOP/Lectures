@@ -1,0 +1,24 @@
+Račun br. 323501
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+9G09S/C/E, 9W E27 CW                                                                  3.71   27    100.17     25.04
+Energetski kabel 0,6/1kV PP00 (EYY-O) 1x120rm crni                                   10000   18 180000.00  45000.00
+Sabirnica za TYTAN, 3P, jezičasta, 30mm²|korak 27mm| 1m                             544.59   11   5990.49   1497.62
+INDI REC 2S Downlight, MR16, zakretni,četvrtasti,bijele boje                        218.46   25   5461.50   1365.38
+Rozeta za 1fazni adapter,bijela                                                      99.51   26   2587.26    646.82
+Zaštitni prekidač AMPARO 6kA, C 20A, 2-polni                                         55.46   26   1441.96    360.49
+AIXLIGHT R2 četvrt., QRB111, zaobljena,bi.b., G53,max.4x50W                        2497.05   27  67420.35  16855.09
+Panik svjetiljka QG FLUO 8W, CPS sustav, pikto.,zidna                               634.34   23  14589.82   3647.46
+Nosač sabirnica, 3-polni, montaža bušenjem, sustav 185mm                            130.78   22   2877.16    719.29
+Ulična svjetiljka GENESIS VP HST 100W IP65 RAL7030                                 1403.98    8  11231.84   2807.96
+Ciri-R LED 42W 3000K 3290lm, IP20                                                   696.28    7   4873.96   1218.49
+Fluo cijev T5|T16 24W High Output, 3000K                                             62.34    7    436.38    109.10
+
+                                                                                                         ----------
+UKUPNO                                                                                                    297010.88
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

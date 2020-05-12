@@ -1,0 +1,21 @@
+Račun br. 317007
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Jednožični PVC-om izolirani vodič H07V-U (P) 1,5mm2, ž/z                            114.35   21   2401.35    600.34
+Grebenasta sklopka, 1-0-2/4P/32A, montaža na DIN nosač                              622.45   10   6224.50   1556.13
+Prospekt-vremenski i mjerni releji 2010 E                                                0   30      0.00      0.00
+9G09M/W/E, LED WW 8.5W E27 100-240V                                                  65.89    7    461.23    115.31
+Signalni fleksibilni kabel YSLY-OZ 2x1,5                                             10000   21 210000.00  52500.00
+Sklopnik 3P |90kW (175A) [AC3] / 250A [AC1] | 230VAC/DC                            2528.92   24  60694.08  15173.52
+Kabel H05VV-F (PP/J) 5x1,5mm2, svijetlo-sivi, 100m                                   10000    3  30000.00   7500.00
+Panik svjetiljka KW 8W 3h zidna                                                     525.83   19   9990.77   2497.69
+Tina četvrtasti LED 20W, 3000K, 1600lm, IP54, antracit                              517.18   27  13963.86   3490.96
+
+                                                                                                         ----------
+UKUPNO                                                                                                     333735.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

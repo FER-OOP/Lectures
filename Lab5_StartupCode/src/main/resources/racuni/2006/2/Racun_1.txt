@@ -1,0 +1,30 @@
+Račun br. 568966
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Pločica + nosač 30x50mm, natpis: Aus                                                 12.54   22    275.88     68.97
+Cilindrični osigurač za fotonapon, 10x38, 6A, gPV, 1000V DC                          60.24   22   1325.28    331.32
+Profil za montažu DIN nosača na dno, širina 400mm (2 kom.)                            4065   25 101625.00  25406.25
+Pomoćni kontakt za sklopnike vel.0-12, 1N/C, prednja montaža                         14.31    7    100.17     25.04
+Dillon-I-R LED 3W 3000K 100lm, IP20, aluminij                                       285.88   26   7432.88   1858.22
+Magnetski plašt za prolazni trafo MC900210                                         1779.47   15  26692.05   6673.01
+Nadgradna svjetiljka SARH IP54 T8 2x36W ECG, bijela                                1211.14   14  16955.96   4238.99
+Signalni fleksibilni kabel YSLCY-OZ 7x0,75                                           10000    4  40000.00  10000.00
+Pokrovi za prazne portove na panelu ili utičnici, RAL9010                             1.18   10     11.80      2.95
+NEW TRIA III ES111 SQUARE, GU10, uklj. opruge, crne boje                            750.35    3   2251.05    562.76
+Instalacijski sklopnik 20A | 2 N/C | 230VAC                                         123.82   19   2352.58    588.15
+KUNO ovjesna svjetiljka, bijele b., 2x T5 35W                                      1433.11   13  18630.43   4657.61
+Odvodnik prenapona COMBTEC kl.B/C/D TNS 275/12,5+H                                 1547.66   22  34048.52   8512.13
+9C09F/D/SE, 9W FLAME DL E14                                                           7.77   17    132.09     33.02
+FID sklopka 63-4-003/B, za sve oblike diferencijalne struje                        6931.61   13  90110.93  22527.73
+Stopica 10/M10 neizolirana                                                            2303   20  46060.00  11515.00
+Montažna ploča 5M-46                                                                  69.6    2    139.20     34.80
+FID sklopka 63-4-003/AC, 6kA                                                        517.19   24  12412.56   3103.14
+
+                                                                                                         ----------
+UKUPNO                                                                                                    400556.34
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

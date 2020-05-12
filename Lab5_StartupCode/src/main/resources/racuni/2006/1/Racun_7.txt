@@ -1,0 +1,23 @@
+Račun br. 235345
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+SAT utičnica prol. 2x,radio/CATV,5-1.006MHz,14dB,bez okvira                          42.34   21    889.14    222.29
+6-kutna matica, NUT-HEX-DIN934-I8I-WS17-(A2K)-M10                                       43    6    258.00     64.50
+Ugradna svjetiljka SE-ID ECO L2 TC-L 2x40W ECG M600, bijela                         464.94    3   1394.82    348.71
+Teretna sklopka, 4P, 1600A, opcija:dalj. isklop+izvl. modul                       22157.74    4  88630.96  22157.74
+NEW TRIA LED DL okrugli Set, 25W, 3000K, 30°, brušeni al.                           1370.6   13  17817.80   4454.45
+Smith-II-Q LED 9W 3000K 350lm, IP54, antracit                                       417.66   24  10023.84   2505.96
+Utičnica, 16A, umetak, na vijak, narančasta                                           2121   29  61509.00  15377.25
+Teretna sklopka, rastavljač (izolator), 125A, 3P                                    138.84   30   4165.20   1041.30
+MODUL CONNECT završna pločica 4P (za ISS90004)                                        5.44    9     48.96     12.24
+Unutarnji kut za kanal SIGNA 70/130 RAL 9010                                        216.33   19   4110.27   1027.57
+Završni poklopac CLF okrugli sa rupom i vijcima                                       51.6    5    258.00     64.50
+
+                                                                                                         ----------
+UKUPNO                                                                                                    189105.98
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

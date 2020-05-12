@@ -1,0 +1,18 @@
+Račun br. 990653
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LED RETROFIT T8 18 9W 190° 865 750lm G13 30000h                                      57.29    2    114.58     28.65
+IP68 prespojna kutija, okrugla, 4x 7-25mm  promjer kabela                           437.43    1    437.43    109.36
+Olga-R/A2 150W Rx7s 76mm, 230V, IP54, sive boje                                      96.98   24   2327.52    581.88
+Plasto LED 30W, 3000K, 1800lm, 230V, IP65, plastika,antracit                        649.65   23  14941.95   3735.49
+BRICK LED Downunder zidna svj., srebrne boje, topla b. LED                          267.29   30   8018.70   2004.68
+Prespojni kabel RJ45 cat.6 neoklopljen, PVC, plavi, 5.0m                             23.91   30    717.30    179.32
+
+                                                                                                         ----------
+UKUPNO                                                                                                     26557.48
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,14 @@
+Račun br. 227188
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+RP print relej, 1C/O, 16A, 24VDC, raster 5mm                                         33.15   30    994.50    248.63
+L-SE sjajni odsijač R12 T5 AL 35-80W široki, aluminij                                92.61   24   2222.64    555.66
+
+                                                                                                         ----------
+UKUPNO                                                                                                    3217.1401
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,30 @@
+Račun br. 740034
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LED MEGAMAN CLASSIC E27 A60, 14W, 2800K, 1521lm                                     171.44    6   1028.64    257.16
+NEW MYRA 1 svjetiljka, srebrna b., GU10, max. 4W, IP44                              625.15   26  16253.90   4063.48
+Prespojni kabel RJ45 cat.5e neoklopljen, PVC, crveni, 5.0m                           17.72   13    230.36     57.59
+DVI-D kabel, DVI-D(24+1) muško/muški, 10m                                           220.29    1    220.29     55.07
+Kompaktni prekidač snage tip AF, 3P/50A/25kA, box stezaljke                         608.71    6   3652.26    913.07
+Utičnica, 16A, umetak, vijčane stezaljke, bijela                                     19.11   23    439.53    109.88
+Kabel EYY-J (PP00-Y) 3x4RE                                                         1301.43   15  19521.45   4880.36
+Poliester kućište 540x540x171mm, prozirni poklopac,IP66,sivo                       1282.44    9  11541.96   2885.49
+LED žarulja GU10, 4Leds, 7W, 3000K, 260lm, 38°                                       54.57   17    927.69    231.92
+Etra 16W T4, 230V, IP20, bijele boje                                                 29.73   10    297.30     74.32
+Adapter 3EK41 za AS/KS, 2000x800mm                                                  756.01    4   3024.04    756.01
+Fluo cijev T5|T16 39W High Output, 3000K                                             80.76   14   1130.64    282.66
+Nubil-Q/A2 75W G53 AR111, 12V, IP20, bijele boje                                    234.51   28   6566.28   1641.57
+Okvir 4M line, zagasito bijeli                                                       79.87   30   2396.10    599.03
+USB 2.0 produžni kabel, USB A muški/ženski, sivi, 1.8m                               16.44   11    180.84     45.21
+AIXLIGHT R OFFICE T5, okr.,bi.b., max.2xT5 54W+2xES111 75W                         2997.68   23  68946.64  17236.66
+Zakretna ručica za BE5, mogućnost zaključavanja                                      13.08    7     91.56     22.89
+Softshell jakna -L-                                                                 595.37   18  10716.66   2679.17
+
+                                                                                                         ----------
+UKUPNO                                                                                                    147166.16
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

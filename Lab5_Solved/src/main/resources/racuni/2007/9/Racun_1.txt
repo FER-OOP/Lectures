@@ -1,0 +1,15 @@
+Račun br. 196134
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+KALU TRACK LEDDISK SPOT, srebrne boje, 3000K, 1-f adapter                          1125.94   22  24770.68   6192.67
+Upravljačka kutija , 8 utora za senzore                                            1073.51    3   3220.53    805.13
+9S07/D/E, 7W E27 DL                                                                   5.23    3     15.69      3.92
+
+                                                                                                         ----------
+UKUPNO                                                                                                    28006.898
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

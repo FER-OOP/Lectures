@@ -1,0 +1,28 @@
+Račun br. 482130
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Daljinska sklopka za automatski ponovni uklop, FSA, 48VAC/DC                          4220    4  16880.00   4220.00
+EASY LIM RF MINI SINGLE COLOUR MASTER, 12V/DC i 24V/DC                               187.2    3    561.60    140.40
+IT METER LINE temperaturni senzor i senzor vlage za HSMPM                             6019    7  42133.00  10533.25
+Zaštitni prekidač, C karakteristika, 10A, 4-polni, 10kA                             426.33   20   8526.60   2131.65
+Prednja ploča, čelična, slijepa, 3B9                                                  4160    8  33280.00   8320.00
+Grebenasta sklopka, 0-1/3P/25A, na vrata                                            237.49   14   3324.86    831.22
+Silikon-Acetat, prozirni, 310ml                                                      39.93    6    239.58     59.90
+89024M, RGB MANUAL kontroler 24v DC                                                 293.14   28   8207.92   2051.98
+Vrata, metalna, visoka za MODUL 160, 4x24 modula                                      4172   22  91784.00  22946.00
+Okvir za panel, aluminij                                                            580.45    7   4063.15   1015.79
+Sklopnik 3P |5.5kW (14A) [AC3] | 24VDC | + 1N/O (ugrađen)                           254.72   15   3820.80    955.20
+MEDO RING 90 LED ovjesna svjetiljka, bijele boje                                   5000.37   24 120008.88  30002.22
+Kabelska uvodnica s maticom, PG13.5, IP68                                             2.54    9     22.86      5.72
+Centralni bistabilni relej, 3 N/O, 230VAC                                           533.96    9   4805.64   1201.41
+EUTRAC savitljiva spojnica, bij.                                                    437.43   18   7873.74   1968.43
+Visokonaponsko grlo, GU 10 sa 15cm kabela                                            19.26    5     96.30     24.08
+
+                                                                                                         ----------
+UKUPNO                                                                                                    345628.97
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

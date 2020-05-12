@@ -1,0 +1,30 @@
+Račun br. 710640
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Motorna zaštitna sklopka, 3-polna | 40.0 - 50.0A, vel.S2                            707.04   23  16261.92   4065.48
+NV rastavna sklopka vel.2|400A, 3P, M10, na sustav 60mm                            1598.85   20  31977.00   7994.25
+Optički završetak SC, 50/125µm OM3, 2.0m (4 kom.)                                    70.97   29   2058.13    514.53
+Cilindrični osigurač, 14x51, 12A, gG, 690V AC                                        14.04    4     56.16     14.04
+Utičnica šuko i sklopka, serijska IP54, na oprugu, nadžbukna                         95.34   10    953.40    238.35
+Podnožje prema dubini AS/KS ormara, 300x100mm, RAL 7022                             102.29   15   1534.35    383.59
+Tekstilni kabel, tropolni, 10m, crvena b.                                           249.72   30   7491.60   1872.90
+Ina-A 3 LED 12W, 3000K, 1100lm, 700mA, 38°, SKIII,bijele b.                         144.46    5    722.30    180.58
+LED prespojni kabel Mono 1m IP66 - 2 polni                                           66.93    1     66.93     16.73
+Difuzor za svjetiljku LINDA 1/58                                                      85.7   16   1371.20    342.80
+PD-C360i/8 mini KNX senzor prisutnosti IR, stropni, 360°,Ø8m                       1609.89   12  19318.68   4829.67
+FIN WALL LED 9x1W 4000K MAT STAKLO antracit                                        1914.06   18  34453.08   8613.27
+Prednja ploča, plastična, sa otvorom za uređaje, 4G4K                                 4063    2   8126.00   2031.50
+Optički prespojni kabel duplex, LC/LC, 9/125µm OS2, 1.0m                             81.52   17   1385.84    346.46
+Donji dio zakretne ručice za M2000, plosnati, RAL9016                                 2.11    5     10.55      2.64
+Jednožični PVC-om izolirani vodič H07V-U (P) 2,5mm2, ljub.                             169    5    845.00    211.25
+DOWNUNDER LED 15 zidna svj., bb, tople bb LED                                       312.23   24   7493.52   1873.38
+Kompaktni prekidač snage tip VE, 4P, 85kA, 800A                                   15578.21   26 405033.47 101258.37
+
+                                                                                                         ----------
+UKUPNO                                                                                                     539159.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

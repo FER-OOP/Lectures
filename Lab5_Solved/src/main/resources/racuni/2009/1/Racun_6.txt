@@ -1,0 +1,22 @@
+Račun br. 224254
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Theia-R LED 12W 4000K 960lm, IP54, bijele boje                                      563.48   25  14087.00   3521.75
+Vezica 425 x 8.8mm, natural (pak.=50 kom.)                                          138.38    9   1245.42    311.36
+Ines-R 55W 2GX13, 230V, IP20, bijele boje                                           192.27   20   3845.40    961.35
+PD-C360/8 Slave P/Ž stropni senzor prisutnosti 360° Ø8m                             905.46   27  24447.42   6111.85
+Nadgradna svjetiljka SARH 200 T8 1/36W ECG sjajni raster                            578.96    9   5210.64   1302.66
+Metalni držač releja (za podnožje YPT78704)                                            1.7    3      5.10      1.28
+Zaštitni prekidač, B karakteristika, 10A, 1-polni, 6kA                               22.67   16    362.72     90.68
+Kompaktni prekidač snage tip ME, 3P, 85kA, 875A                                   30949.61    5 154748.05  38687.01
+Miri-R 9W GX53, 100-240V, IP20, brušeni krom                                         19.93   24    478.32    119.58
+Označne pločice 'UZEMLJENJE' (pločica sa 100 oznaka)                                 16.83   15    252.45     63.11
+
+                                                                                                         ----------
+UKUPNO                                                                                                    204682.52
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

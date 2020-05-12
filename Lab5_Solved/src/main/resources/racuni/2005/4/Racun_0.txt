@@ -1,0 +1,29 @@
+Račun br. 733165
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"Sobno signalno svjetlo ""Standard"", crveno-zeleno"                                  2104   17  35768.00   8942.00
+"Zasun, plavi, za plastične prednje ploče, ""Celanex"""                                1.7   19     32.30      8.07
+Neizolirana Cu stopica 4-6mm², M10                                                    0.92    9      8.28      2.07
+KADUX LED Single DL Set, 3000K, 38°, bijele boje                                    437.43    3   1312.29    328.07
+FGL OUT Downlight, MR16, bijele boje                                                185.34    8   1482.72    370.68
+Bezhalogeni kabel s el. funkc. do30 Min(N)HXCH3x1,5re/1,5E30                         10000    2  20000.00   5000.00
+Bezhal. kabel s konc.zaštitnim Cu vodičem N2XCH 4x120sm/70                           10000    8  80000.00  20000.00
+Držač za instalacijsku cijev M50, HF, crni  (pak. 50 kom.)                          978.56    6   5871.36   1467.84
+Ind.svj.ARKTUR SQUARE LED 184W 20000lm/757 ECG IP65 110°                           3503.32   27  94589.64  23647.41
+Fluokompaktna žarulja TC-Del 18W/827 G24Q-2                                          18.77   28    525.56    131.39
+Tarifni prekidač s podešavanjem na 25, 32 i 40A, 3-polni                            270.14   13   3511.82    877.96
+PVC-om izol.kabel za srednja meh.opt. YMS -J 5x16 crni                               10000   10 100000.00  25000.00
+LED AR111, crne boje, 19,5W, 140°, 2700                                             562.63   25  14065.75   3516.44
+Krović za zaštitu WSM ormara od kiše, za ormar 600X260 (ŠxD)                          4066    8  32528.00   8132.00
+NV rastavna sklopka vel.1|250A, M10, nadzor osig., mont.pl                         1980.15   28  55444.20  13861.05
+AIXLIGHT R LONG, QRB111, okr.,bi.b., G53, max. 4x50W                               2497.05    1   2497.05    624.26
+Nadgradna svjetiljka SAO IP54 T5 4x54W ECG, bijela                                 1503.57    6   9021.42   2255.35
+
+                                                                                                         ----------
+UKUPNO                                                                                                    456658.38
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

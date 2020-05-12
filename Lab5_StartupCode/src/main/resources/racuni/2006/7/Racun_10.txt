@@ -1,0 +1,17 @@
+Račun br. 167135
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Signalni fleksibilni kabel YSLY-JZ 50x0,75 sivi                                      10000   19 190000.00  47500.00
+"4-struki okvir ""Scala"", alu efekt"                                               134.24   30   4027.20   1006.80
+Ida2 LED 3W, 3000K, 48lm, IP65, alu, bijele boje                                    331.49   23   7624.27   1906.07
+Optički prespojni kabel duplex LC/FC, 50/125µm OM2, 10.0m                           126.96   20   2539.20    634.80
+LED HORN 9W, bijela, LED topla b.                                                   453.92   20   9078.40   2269.60
+
+                                                                                                         ----------
+UKUPNO                                                                                                    213269.08
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

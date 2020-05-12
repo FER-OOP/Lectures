@@ -1,0 +1,30 @@
+Račun br. 746292
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Tipkalo s plosnatom tipkom, zeleno, s držačem                                        24.39   20    487.80    121.95
+Dodatni okvir theLuxa, crni                                                          30.32   17    515.44    128.86
+Kompaktni prekidač snage tip VE, 4P, 50kA, 1600/1000A,red. N                      28649.28   29 830829.13 207707.28
+Zaštitni prekidač, C karakteristika, 6A, 2-polni, 10kA                              101.46   15   1521.90    380.48
+FID sklopka 80-4-003/AC, 10kA                                                       672.08   28  18818.24   4704.56
+Označne pločice 301-350 (pločica sa 2x od 301-350)                                   16.83    8    134.64     33.66
+Utičnica s poklopcem, 16A, umetak, bež                                               44.79   26   1164.54    291.14
+HARI zidna svj., 1xG9                                                               374.92    3   1124.76    281.19
+Ted-III-R 2x26W G24q-3, 230V, IP20, brušeni krom                                     19.59   23    450.57    112.64
+Pomoćni sklopnik ET, 4A | 24V DC | 4N/O                                             211.01   19   4009.19   1002.30
+Otvoreni prekidač, 3P, 55kA, 1600A, fiksni, prednje priklj.                       28432.98   17 483360.66 120840.16
+GLENOS PROFILE 2609, 2m, srebrne boje                                               287.23   10   2872.30    718.08
+NV osigurač vel. 1, 35A/400V AC                                                      57.46   15    861.90    215.47
+Kabel za gradilišta XYMM-J 5x1,5 K35 / 100m, žuti                                    10000    7  70000.00  17500.00
+PROFUNO LED Spot, 3000K, 60°, uklj. 3F adapter, crne boje                          1250.97   22  27521.34   6880.34
+Bob-II-Q LED 17W 4000K 1100lm, IP20, sive boje                                      298.38   11   3282.18    820.54
+Zaštitni prekidač, C karakteristika, 20A, 3-polni+N, 6kA                            112.77    5    563.85    140.96
+LS-FI (KZS), C/13A/30mA, 2P, Tip A, 10kA                                              4281   29 124149.00  31037.25
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1571667.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

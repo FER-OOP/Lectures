@@ -1,0 +1,30 @@
+Račun br. 612661
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Tipka sa simbolom ventilatora, svjetleća, biserno bijela                              2120   11  23320.00   5830.00
+Vodotijesna svjetiljka DEVA ECO PC 2x49W ECG                                        290.88   23   6690.24   1672.56
+Lubrikant za uvod kabela, 1kg                                                        87.09   22   1915.98    478.99
+Mehanička blokada za LA3024 do LA3074                                                 76.5   27   2065.50    516.38
+MODUL CONNECT izolirano tijelo sabirnice, 3P (za ISS90916--)                         38.04   13    494.52    123.63
+Kabel za svjetiljku DV90033x-A za kontakt na vratima ormara                          87.61   24   2102.64    525.66
+Motorna zaštitna sklopka, 2-polna | 0.10 - 0.16A                                    128.78    1    128.78     32.19
+LED-napajanje, 8VA, 350 mA                                                          124.69   18   2244.42    561.10
+Završna pločica za trokatnu stezaljku IK690001--, siva                                 2.6   13     33.80      8.45
+AIXLIGHT R2 DUO,HQI111,zaobljena,sr.b,G12,2x70W,bez odsijača                       2809.97   20  56199.40  14049.85
+Kabel H05VV-F (PP/J) 5x1mm2, svijetlo-sivi, 500m                                     10000   12 120000.00  30000.00
+Signalni fleksibilni kabel YSLY-JZ 34x0,5 sivi                                       10000    4  40000.00  10000.00
+Kompenzacija  LSFC 7% 100/25kvar 800x2000x400mm Samost.orm.                       34280.88   15 514213.19 128553.30
+Kanal tip BE-DIN, 75x100 (VxŠ), duljina 2m, RAL 7030                                 57.63   28   1613.64    403.41
+Inrush current limitator - montaža na DIN šinu                                     1089.05   26  28315.30   7078.83
+KNX DALI Gateway Twin plus, 2 kanala                                               5039.15   30 151174.50  37793.63
+Kabel LiYCY 2x1                                                                     676.01   14   9464.14   2366.04
+Kabel LiYY 18x0,5                                                                    10000   14 140000.00  35000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1099976.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

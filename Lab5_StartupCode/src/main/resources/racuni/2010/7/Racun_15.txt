@@ -1,0 +1,17 @@
+Račun br. 215984
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Vodotijesna svjetiljka DEVA ECO PC 2x49W ECG                                        290.88   24   6981.12   1745.28
+Samonarezni vijak 4.2x16mm, križni, s ravnom glavom                                     43   14    602.00    150.50
+Senzor pokreta zid.Motus MS-W 180° Ø 9m, digi, IP44, bijeli                         137.08   28   3838.24    959.56
+Umetak telefonske utičnice TAE 3 x 10                                               211.72   10   2117.20    529.30
+Compact office, senzor pris. Lux 24V, p/ž, stropni, srebrni                        2120.83   29  61504.07  15376.02
+
+                                                                                                         ----------
+UKUPNO                                                                                                     75042.63
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

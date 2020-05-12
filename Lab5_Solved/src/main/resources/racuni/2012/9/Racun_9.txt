@@ -1,0 +1,27 @@
+Račun br. 853041
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+NV osigurač vel. 1, 80A/400V AC                                                      59.75   27   1613.25    403.31
+Slot-in kartica za DIALOG DUAL,230V relejni kontakt+ESD port                       1024.16   12  12289.92   3072.48
+VAP LED 60 samostojeća svj. 9W LED,3000K,okrug.,nehrđ. Čelik                       2184.14   14  30577.96   7644.49
+Panik svjet. KD Wireless aku.bat LED 3h 230VAC univ.montaža                        1509.23   15  22638.45   5659.61
+Voltmetarska preklopka, 1P, L-L/L-N, na vrata                                       175.53   30   5265.90   1316.47
+Pribor za ovjes sa Y-prihvatom                                                        33.5   26    871.00    217.75
+Sklopnik 3P |90kW (175A) [AC3] / 250A [AC1] | 230VAC/DC                            2528.92    5  12644.60   3161.15
+Kompaktni prekidač snage tip VE, 4P, 50kA, 160A, utični                            4890.31    9  44012.79  11003.20
+Panik svjetiljka KE Autotest,LED 3W/3h, univerzalna                                 932.41   15  13986.15   3496.54
+Compact Office, senzor prisut., DALI, p/ž, stropni, bijeli                         1548.77    7  10841.39   2710.35
+Nazidna kutija s okvirom, 1-struka, biserno bijela                                   78.47   29   2275.63    568.91
+SAT utičnica prol. 2x,radio/CATV,5-1.006MHz,18dB,bez okvira                          42.34    1     42.34     10.59
+Cilindrični osigurač, 10x38, 20A, gG, 400V AC                                         2.91   25     72.75     18.19
+Lamelirana bakrena sabirnica, 495A, duljina 2m, 5x24x1mm                            681.65   18  12269.70   3067.43
+GLENOS završni pokrov za profile 2609, ravni, bijele boje                            62.51   13    812.63    203.16
+
+                                                                                                         ----------
+UKUPNO                                                                                                    170214.45
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

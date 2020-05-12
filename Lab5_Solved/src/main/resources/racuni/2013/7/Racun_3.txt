@@ -1,0 +1,27 @@
+Račun br. 463277
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LED RL-MR16 50 7,2W 12V 36° 827 621lm 1430cd GU5.3 15000h                            88.78   28   2485.84    621.46
+Modularna prednja ploča sa otvorom za 4x35 modula, 600x600mm                        335.92    3   1007.76    251.94
+Spojnica za savitljivu cijev M63, siva (pak. 8 kom.)                               1185.01   23  27255.23   6813.81
+TERANG 2 XL, 3000K, oval, bijele boje                                                 8570    2  17140.00   4285.00
+Kabel za punjenje tip2 na tip 1, 32A 3F, 4m duljine                                   8130   21 170730.00  42682.50
+Uzdužna stranica, 42 visinske jedinice (200mm)                                        4180   26 108680.00  27170.00
+L-SE raster PAR T8 R1 1x58W sjajni, aluminij                                        132.64   23   3050.72    762.68
+Odvodnik prenapona COMBTEC kl.B/C TT 275/12,5                                      2093.79   12  25125.48   6281.37
+Metalhalogena žarulja 35W CDM-TC, 3000K, G8,5                                       312.23   16   4995.68   1248.92
+Shelf Strip PIR Sensor                                                              124.52   29   3611.08    902.77
+Togra-WL-R 20W E27, 100-240V, IP44, nehrđajući čelik                                268.81   24   6451.44   1612.86
+Okrugla fluo cijev T16-R 22W/830 2G13                                                97.11   15   1456.65    364.16
+Ulična svjetiljka QSTREET 04 1x150W HST IP65                                        762.18   14  10670.52   2667.63
+41008/B, KONEKTOR, crne boje                                                         16.72   22    367.84     91.96
+MERIDIAN 3 zidna svj.bijela,E27,max.25W                                             531.37   20  10627.40   2656.85
+
+                                                                                                         ----------
+UKUPNO                                                                                                    393655.66
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

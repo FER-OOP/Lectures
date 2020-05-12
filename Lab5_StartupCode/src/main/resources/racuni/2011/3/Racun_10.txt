@@ -1,0 +1,16 @@
+Račun br. 611111
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kompaktni prekidač snage tip A, 3P, 150kA, 40A                                     1605.53   27  43349.31  10837.33
+Zakretna ručica za MC3, zaključ., na vrata (crvena/žuta)                            583.51   30  17505.30   4376.33
+BIMA I svjetiljka, bijela GU10 1x50W max.,uklj. 1-f.adapter                         308.85    5   1544.25    386.06
+Kada za brojilo, 3 ploče za brojilo u jednom redu, 1-red                             444.4   12   5332.80   1333.20
+
+                                                                                                         ----------
+UKUPNO                                                                                                    67731.664
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

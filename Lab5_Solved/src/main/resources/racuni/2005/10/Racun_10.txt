@@ -1,0 +1,15 @@
+Račun br. 179037
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+PATH POLE 100cm 360° 8x1W LED, 40° 4000K antracit                                  3896.39   25  97409.75  24352.44
+Cinch audio utičnica, antracit                                                       42.04    3    126.12     31.53
+MONTAŽANA PLOČA 4CP, 890x294x13mm, VISINA 7 MODULA                                    4160   11  45760.00  11440.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    143295.88
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,30 @@
+Račun br. 736504
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"Opt. razdjelnik, 8 niti, ST,50/125µm OM2, izvlačivi,19"",1U"                       804.04   21  16884.84   4221.21
+Telekomunikacijski kabel YYSCH 2x0,6mm2, boja slonovače                              10000   25 250000.00  62500.00
+LED S14s-cijev 5W 300lm 2700K 300mm                                                 158.39    6    950.34    237.58
+Kabel EYY-J (PP00-Y) 4x16 RE                                                       5371.69   12  64460.28  16115.07
+Tipka za sklopke i tipkala, svjetleća, alu efekt                                     59.75    8    478.00    119.50
+Sticker Totem Skull, bijele boje                                                    205.96    4    823.84    205.96
+Optički prespojni kabel duplex, ST/FC, 50/125µm OM2, 2.0m                             68.6   12    823.20    205.80
+Otvoreni prekidač, 4P, 66kA, 800A, fiksni, vod. str. priklj.                      21819.56    2  43639.12  10909.78
+PD-C360i/8 mini senzor prisutnosti IR, stropni, 360°, Ø8m                          1183.08   30  35492.40   8873.10
+Zaštitni prekidač AMPARO 6kA, B 13A, 3P+N                                            95.31   22   2096.82    524.20
+SRM-230V relejni modul za povećanje snage uklapanja                                 283.96    3    851.88    212.97
+Otvoreni prekidač, 4P, 66kA, 2500A, izvl., vod. str. priklj.                      75820.69    6 454924.13 113731.03
+Svjetiljka Solo Line T5 1x28W,ECG, bijele boje                                      258.92    6   1553.52    388.38
+LED RETROFIT RAL2 60 DIM 9W 230V 827 450lm opal S14S 20000h                         163.43    1    163.43     40.86
+Nazidna alarmna jedinica, napuštanje sobe bez pratnje                             24096.91   18 433744.38 108436.09
+Plafonjera CAT 280 IP20 A60 E27 max.1x100W, opal                                    176.69    7   1236.83    309.21
+Ovjes za 1-faznu 3-f šinu, bb, 3m                                                    87.01    7    609.07    152.27
+KARDAMOD SURFACE četvrtasti QRB DOUBLE stropna svj., crne b.                       1558.31   26  40516.06  10129.02
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1349248.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

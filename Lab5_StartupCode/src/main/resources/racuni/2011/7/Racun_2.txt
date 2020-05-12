@@ -1,0 +1,17 @@
+Račun br. 893620
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Konektiranje 2x12 ST MM utikača + zašt. za povlačenje                              3152.16   19  59891.04  14972.76
+Kompaktni prekidač snage tip A, 3P/50A/36kA, box stezaljke                          580.51    6   3483.06    870.77
+Okvir za ugradnju u spušteni strop za Selena LED 595x595, bb                        246.43   25   6160.75   1540.19
+Toolless connection utični modul, crveni (pak.=10 kom.)                               6.56   16    104.96     26.24
+Mario-WL-Q LED 6W 3000K 440lm, IP54, bijele boje                                    397.73   28  11136.44   2784.11
+
+                                                                                                         ----------
+UKUPNO                                                                                                     80776.24
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

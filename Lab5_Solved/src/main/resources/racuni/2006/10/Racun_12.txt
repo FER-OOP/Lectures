@@ -1,0 +1,20 @@
+Račun br. 793824
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ormar plast.750x750x312,krov protiv kiše,dno otv.,1 vrata,                            4142   27 111834.00  27958.50
+Montažna ploča 3PB, 670x70x13mm RAL 7035                                             77.69    1     77.69     19.42
+Tuljak za 16mm2, pocinčani, DIN norma                                                 2.55    2      5.10      1.27
+Pločica + nosač 30x50mm, natpis: Aus                                                 12.54    1     12.54      3.14
+"Stezaljka ""A"" 4P, dovod 25mm²|odvodi: 3 x (2x16)+1 x (4x16)"                      84.92    4    339.68     84.92
+Rami-I-R/A2 LED 7W 3000K 400lm, IP20, aluminij                                      431.01   14   6034.14   1508.54
+Adapter 4 za visine 68mm za nove redne uređaje                                       78.53    8    628.24    157.06
+Aluminijski uložak MF 2m                                                             83.66    8    669.28    167.32
+
+                                                                                                         ----------
+UKUPNO                                                                                                    119600.67
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

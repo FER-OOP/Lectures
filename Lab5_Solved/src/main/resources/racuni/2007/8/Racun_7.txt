@@ -1,0 +1,33 @@
+Račun br. 1053734
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Tugru-WL-S LED 1W 3000K, IP20, aluminij                                             188.22   18   3387.96    846.99
+Poklopac za priključni/rezervni prostor 180mm za sustav 60mm                        174.08   30   5222.40   1305.60
+PVC-om izol.kabel za srednja meh.opt. YMS -J 5x6 crni                                10000   12 120000.00  30000.00
+Fleks. kabel SF/UTP 4x2xAWG26,cat.5e,200MHz,LS0H,zeleni                             520.52   10   5205.20   1301.30
+Ovjes za 1-faznu 3-f šinu, crna boja, 3m                                             87.01   26   2262.26    565.57
+OUT 65 LED DL četvrtasti Set, 9W, 3000K, 38°,  uklj. nap.,cb                        468.69   27  12654.63   3163.66
+I-PENDANT PRO LED PANEL PENDULUM 2700K 1295x295mm srebrne b.                       1558.31   16  24932.96   6233.24
+Halogena žarulja QR-C 51 ALU 35W WFL 36° GU 5,3                                      17.68   30    530.40    132.60
+Izolir traka, bijela, 15mm x 10m - COROPLAST                                          5.99   17    101.83     25.46
+0800A, Distribucijski blok  IP67 IN / 2 OUT                                          73.32   25   1833.00    458.25
+Priključnica za izlaz kabela, sa poklopcem, antracit                                 15.62   11    171.82     42.95
+Ben-II-S LED 6x1W 3000K 300lm, IP54, aluminij                                       688.84   26  17909.84   4477.46
+D02 rastavna sklopka ARROW S, 1-polna, 25A                                            4824    6  28944.00   7236.00
+Senzor pokreta, infracrveni IP44, bijela b.                                          187.2   13   2433.60    608.40
+KB sigur.svj HIGH POWER +ERT-LED 230VAC CPS MIX  univerzalna                       1347.44   18  24253.92   6063.48
+CORDA ovjesna svjetiljka, bež                                                      1063.26   22  23391.72   5847.93
+Tuljci,izolirani, dvostruki, 2x4mm2, L2=12mm (pak.100 kom)                           49.92    7    349.44     87.36
+Finožični PVC-om izol. vodič H05V-K (P/F) 0,5mm2, smeđi HPV                          10000    6  60000.00  15000.00
+Lingo LED 3W 6000K 144lm, 24V, dimabilna, IP20                                       51.36    5    256.80     64.20
+PROFUNO LED, 3000K, 60°, uklj. 1f adapter, srebrne boje                            1250.97   24  30023.28   7505.82
+Nosač sabirnica centralnog napajanja, krajnji (vanjski)                               4836   19  91884.00  22971.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    455749.06
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

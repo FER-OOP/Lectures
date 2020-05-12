@@ -1,0 +1,14 @@
+Račun br. 463612
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Podesivi nosači za stropnu montažu za TRAIL, RAL9006                                 444.3   13   5775.90   1443.97
+Ugradna downl. svjetiljka EQM 211 2x26W TC-TEL IP20 bijela                          354.79   15   5321.85   1330.46
+
+                                                                                                         ----------
+UKUPNO                                                                                                     11097.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

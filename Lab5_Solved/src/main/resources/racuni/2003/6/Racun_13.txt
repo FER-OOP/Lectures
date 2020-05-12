@@ -1,0 +1,15 @@
+Račun br. 846461
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Utično postolje za MC1, 3-polno                                                     538.65   30  16159.50   4039.88
+LED Driver TRIAC dim. za Lano, 1200mA 48W LED panele                                245.32   19   4661.08   1165.27
+Pokrov podnožja IS504823--, 3-polni, širina 54mm                                      15.6    6     93.60     23.40
+
+                                                                                                         ----------
+UKUPNO                                                                                                    20914.182
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

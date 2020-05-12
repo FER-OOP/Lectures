@@ -1,0 +1,14 @@
+Račun br. 289739
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Razvodna kutija, nadžbukna, 75x75x40mm, membrane, IP54, siva                        859.41    4   3437.64    859.41
+Zatvarač, 4-polni, veličina 1 (kao rezervni dio)                                      4970    7  34790.00   8697.50
+
+                                                                                                         ----------
+UKUPNO                                                                                                     38227.64
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

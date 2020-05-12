@@ -1,0 +1,26 @@
+Račun br. 265890
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Flyer ulična svjetiljka, asim. 40 LED 94W 8840lm 4000K                             5030.39    2  10060.78   2515.20
+Univer.opt.kabel A/I-DQ(ZN)BH 16x50/125µm OM2, LS0H-3, nm.                         1049.87    8   8398.96   2099.74
+Kabel EYY-J (PP00-Y) 5x10 RM                                                       4203.84   25 105096.00  26274.00
+Energetski kabel 0,6/1kV PP00-Y (EYY-J) 1x185 RM crni                             15224.52   10 152245.19  38061.30
+Označne pločice 'N', (pločica sa 100 oznaka)                                         15.17    8    121.36     30.34
+Set za ožičenje sklopničke kombinacije promjene smjera vel.3                        144.87   25   3621.75    905.44
+LED PWM Repeater DW                                                                 543.92   29  15773.68   3943.42
+Držač kabela, interni, za AS/KS ormare širine 600mm                                 142.08    1    142.08     35.52
+Kabel za gradilišta XYMM-J 4x2,5 K35 / 100m, žuti                                    10000   25 250000.00  62500.00
+Kabel za gradilišta XYMM-J 4x2,5 K35 / 100m, žuti                                    10000   28 280000.00  70000.00
+Dimabilna DALI elektronika 10226BF/50226BF                                           36.66   25    916.50    229.13
+Aluminijski profil LBKI                                                              87.09   22   1915.98    478.99
+GLENOS zavr.pokr. za kutni profil, sive boje                                         31.25    1     31.25      7.81
+Nosač sabirnica centralnog napajanja, 4P, srednji                                     4836   12  58032.00  14508.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     886355.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,22 @@
+Račun br. 759865
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+VANDALCOM audio modul, 2 tipke                                                      564.47    3   1693.41    423.35
+SAT LNB za četiri prijemnika, zaštita od vode, sivi, Ø40mm                          170.22   26   4425.72   1106.43
+NV-uložak 1.SE2/50A                                                                   4825   29 139925.00  34981.25
+Finožični PVC-om izol. vodič H05V-K(P/F) 0,75mm2,naranč. HPV                         10000   17 170000.00  42500.00
+Sutil Round  LED 8W, 6000K, 560lm, 120°, IP40, bijele boje                          126.04    9   1134.36    283.59
+EUTRAC Produžetak sa mogućnošću napajanja, crne b.                                  312.23   19   5932.37   1483.09
+Linijska svjetiljka SOLO 2 1x21W ECG T5 bijela                                      172.51   18   3105.18    776.29
+GX53 LED žarulja, 3x1,4W, tople bb LED, 35°                                         240.26   18   4324.68   1081.17
+N uvodnik sa ispitnom utičnicom, širine 1 modula                                     65.93    9    593.37    148.34
+P/Ž inst. razdj. 5U-24,8-redni,456ŠM,1195x1230x250mm(VxŠxD)                        5074.42   20 101488.40  25372.10
+
+                                                                                                         ----------
+UKUPNO                                                                                                    432622.53
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

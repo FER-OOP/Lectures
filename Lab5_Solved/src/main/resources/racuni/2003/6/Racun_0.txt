@@ -1,0 +1,23 @@
+Račun br. 501579
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Elektronski relej ETU27B sa zaštitnom funkcijom LSING                              9024.68   29 261715.72  65428.93
+SPOODI Floodlight 10W reflektor, 100°, IP65, crna b.                                437.43   29  12685.47   3171.37
+Okvir za prekidač MO1 4-pol 1600A horiz., 4 pom konektora                          9534.41    8  76275.28  19068.82
+Solid Double LED 15W 3000K 1050lm, IP20                                             234.51    5   1172.55    293.14
+Halogena žarulja, grlo G4, 35W, 12V                                                   1.35   12     16.20      4.05
+Savitljiva cijev (srednje), M16, 750N, kolut 50m, siva                              298.55    8   2388.40    597.10
+Iris-R 22W 2GX13, 230V, IP20, sive boje, prsten mat                                 145.81   25   3645.25    911.31
+COB LED MODUL za AIXLIGHT PRO montažni okvir, 30°, bijele b.                       1125.94   29  32652.26   8163.06
+Rastavna sklopka za cilindrične osigurače 10x38mm, 1P+N/32A                          30.16    8    241.28     60.32
+Potezno pozivno tipkalo s prednjom pločom, biserno bijelo                           291.83   17   4961.11   1240.28
+Nadgradna stropna svjetiljka Circus IP65 TC-DEL 18W siva                            471.45   12   5657.40   1414.35
+
+                                                                                                         ----------
+UKUPNO                                                                                                    401410.94
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,25 @@
+Račun br. 529994
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Montažna ploča za Maxipol ormare 500x500 (VxŠ), poliester                           202.69    9   1824.21    456.05
+LED RETROFIT T8 18 9W 190° 865 750lm G13 30000h                                      57.29    3    171.87     42.97
+Kabel EYY-O (PP00) 3x95SM                                                            10000    3  30000.00   7500.00
+Grebenasta sklopka, 1-2/1P/20A, na DIN nosač                                         245.3   28   6868.40   1717.10
+Priključna kutija, nehrđajući čelik, 200x500x120(VxŠxD),IP66                       1596.09   16  25537.44   6384.36
+Nosači za montažu na zid 4 kom.                                                      47.56   24   1141.44    285.36
+Lima-R/A2 70W G12, 230V, IP20, brušeni krom                                          17.74   19    337.06     84.26
+Prednja ploča za utičnicu sa poklopcem, biserno bijela                               57.72    9    519.48    129.87
+Razvodna kutija s poklopcem,šuplje stijenke, Ø120,narančasta                       2391.59   18  43048.62  10762.16
+Minijaturni relej, 4C/O, 6A, 220VDC, serije PT                                       78.38   24   1881.12    470.28
+FID sklopka 80-4-003/AC, 10kA                                                       672.08    5   3360.40    840.10
+Motorna zaštitna sklopka, 2-polna | 4.0 - 6.3A                                      128.78   16   2060.48    515.12
+Zaštitni prekidač, C karakteristika, 16A, 3-polni, 10kA                             100.67   25   2516.75    629.19
+
+                                                                                                         ----------
+UKUPNO                                                                                                    119267.26
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

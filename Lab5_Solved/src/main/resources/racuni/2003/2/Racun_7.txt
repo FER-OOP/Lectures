@@ -1,0 +1,24 @@
+Račun br. 196618
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Dimer sa zakretnom tipkom, 15-1200VA, montaža na DIN                               2227.14    5  11135.70   2783.92
+Poklopac kanala SIGNA, širina 80mm, duljina 2m, RAL 9010                             37.51   14    525.14    131.28
+Elektronska prigušnica ECG QTi 1x58/220-240 dim 1-10V                               217.81   18   3920.58    980.14
+Otto-I-Q/A2 35W G8,5, 230V, IP20, sive boje                                         161.18    6    967.08    241.77
+LED napajanje HW 6W/12V mini, IP20                                                   66.93   22   1472.46    368.11
+"19"" profil / šina 21U za zidne komunikacijske ormare tip DW"                        63.7   21   1337.70    334.43
+Kabel H05VV-F (PP/J) 3x2,5mm2, svijetlo-sivi, 500m                                   10000    3  30000.00   7500.00
+LED napajanje, 100W, 24V, dim. 1-10V                                               1433.11    5   7165.55   1791.39
+Blok za napajanje, 50mm2, za sabirnicu                                                4230   12  50760.00  12690.00
+Ugradni okvir za MO3, 3P, -4000A, vodoravne str. priklj.                          18558.36   27 501075.69 125268.92
+Izolirani kabelski tuljak, dvostruki, crveni, 2x1.00mm²/8mm                           0.21   17      3.57      0.89
+PIPOFLEX zidna svj., srebrno-siva b., 4W, 3000K                                     437.43   13   5686.59   1421.65
+
+                                                                                                         ----------
+UKUPNO                                                                                                     614050.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

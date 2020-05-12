@@ -1,0 +1,16 @@
+Račun br. 1049115
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+UPS Multi Plus 10kVA 9kW                                                          38406.15    7 268843.03  67210.76
+Zaštitne rukavice, presvučene, MAXI-vel.10                                            38.7   12    464.40    116.10
+GLENOS 90° spojnica za Profile 1808, bijele boje                                     43.76   20    875.20    218.80
+Teški gumeni kabel H07RN-F 1x95, crni                                                10000    5  50000.00  12500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    320182.62
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

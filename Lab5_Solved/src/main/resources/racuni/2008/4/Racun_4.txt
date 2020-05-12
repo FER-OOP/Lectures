@@ -1,0 +1,17 @@
+Račun br. 585069
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Strujni trafo, 2000/5A, Tip TAR8-2000, 80x30mm                                      264.04    6   1584.24    396.06
+Kompaktni prekidač snage tip VE, 4P, 50kA, 160A                                    3045.76    4  12183.04   3045.76
+UPS GENIO iDialog 1600VA/960W                                                      1794.66   10  17946.60   4486.65
+Nosač sabirnica 2P za sustav 60mm                                                    33.33   18    599.94    149.99
+Vezica crna 250*4,8                                                                  28.11   24    674.64    168.66
+
+                                                                                                         ----------
+UKUPNO                                                                                                    32988.457
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

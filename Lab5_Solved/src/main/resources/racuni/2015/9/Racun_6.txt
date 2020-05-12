@@ -1,0 +1,17 @@
+Račun br. 1052592
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+7912R/AL, Aluminijski ugradni profil 2m + PC opalni pokrov                           395.7   20   7914.00   1978.50
+7309AG/C/35, LED 10w GU10 R111 CW 35 °                                              225.39    5   1126.95    281.74
+Vijak sa 6-kutnom glavom, za drvo, DIN571, 8x80mm, pocinčani                        109.05   13   1417.65    354.41
+"19"" napojna letva,8xshuko,prekidač,1U,kabel 2m,crna,alu"                             177   10   1770.00    442.50
+Plafonjera CAT 280 IP20 A60 E27 max.1x100W, opal                                    176.69   28   4947.32   1236.83
+
+                                                                                                         ----------
+UKUPNO                                                                                                    17175.922
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

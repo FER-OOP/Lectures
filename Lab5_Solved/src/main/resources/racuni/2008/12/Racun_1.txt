@@ -1,0 +1,29 @@
+Račun br. 1029170
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+IKALL metal modul, bez tipki, za audio/video jedinicu                                549.1   20  10982.00   2745.50
+"19"" metalni prsten za okomito vođenje kabela 40x40"                                21.23   25    530.75    132.69
+SAT multiswitch 9 IN 10 OUT za quattro/quad LNB,kask.,10m                          1937.38    3   5812.14   1453.04
+7904/AL, Aluminijski profil  2m + PC opal diffuser                                  183.15   11   2014.65    503.66
+Linijska svjetiljka SOLO 2 T8 2x18W CCG, bijela                                     132.64   26   3448.64    862.16
+Triadem ovjesna svjetiljka, E27, 3x60W, crne boje/krom                             2184.14   28  61155.92  15288.98
+EURO SPOT G12, 60°, sa 3-faznim adapterom, crne b.                                  875.55   22  19262.10   4815.52
+Kućište IP55, zakretna ručica, za MZS vel.0                                          25.28    1     25.28      6.32
+Maskirni razdj. 2M-21, 7-redni, 147 ŠM,1010x540x200mm(VxŠxD)                       2023.91   15  30358.65   7589.66
+"Optička ladica, prazna, za 24xLC duplex spojnica, 19"""                            338.64   10   3386.40    846.60
+Sigurnosna svjetiljka ZAA 230VAC, auton 3h, autotest , zidna                       1796.54   25  44913.50  11228.38
+LED prespojni kabel RJ45 oklopljen,500 MHz,Ea,10GB,žuti,2m                           52.89   14    740.46    185.11
+SAT multiswitch pas. 5 IN 6 OUT za quattro/quad LNB,kask,10m                        1463.8   12  17565.60   4391.40
+Kabelska stopica 185mm2, za MC2                                                       31.7   19    602.30    150.57
+Dillon-II-R LED 3W 3000K 130lm, IP40, aluminij                                      159.16   28   4456.48   1114.12
+PLENUM FIX podna svjetiljka, okr., antracit, E27, max. 25W                          938.06   17  15947.02   3986.75
+Blenda za SDL HQI reflektor, srebrne boje                                            99.51   22   2189.22    547.30
+
+                                                                                                         ----------
+UKUPNO                                                                                                    223391.11
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

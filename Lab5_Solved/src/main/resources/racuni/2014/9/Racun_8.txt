@@ -1,0 +1,14 @@
+Račun br. 594389
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Signalna svjetiljka, plosnata, crvena 230V                                           85.29    3    255.87     63.97
+Kompenzacija ožičena  46,88/3,13kvar 500x500x300mm zidni orm                      11503.87    8  92030.96  23007.74
+
+                                                                                                         ----------
+UKUPNO                                                                                                     92286.83
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

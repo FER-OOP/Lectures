@@ -1,0 +1,16 @@
+Račun br. 525438
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ovjesna svjetiljka OFFICE ECO DIR PAR 1x80W ECG, siva                               495.34    2    990.68    247.67
+Telefonska LSA priključna letvica 2/10, montaža na nosač                             39.65    4    158.60     39.65
+Punto-F LED, 5W, 3000K, 382lm, IP44, aluminij                                       212.21   20   4244.20   1061.05
+Bezhalogeni inst.kabel pob.svoj. za sl.požara NHXMH-JZ 7x1,5                         10000   14 140000.00  35000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    145393.48
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

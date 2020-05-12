@@ -1,0 +1,23 @@
+Račun br. 1014572
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Relej snage, 2C/O, 16A, 24V DC, Faston 187, Tip RM                                   78.61   27   2122.47    530.62
+7305G/D/15, LED 3x1w GU10 DL 15 °                                                    51.36    3    154.08     38.52
+Nazidni okvir s vratima za Modul 2000 | 2A-39 | dubina 300mm                       3314.93   25  82873.25  20718.31
+Vrata sa zakretnim zasunom 3T-39                                                   1556.85   17  26466.45   6616.61
+CRYSTAL II Downlight svjetiljka, MR16                                               312.23   23   7181.29   1795.32
+Sabirnica, 3-struka za B/C odvodnike (za TN-C sustave)                               21.66    4     86.64     21.66
+Sonda (1 štap) za nadzor nivoa, 400mm                                               339.87   15   5098.05   1274.51
+Downlight 95 kučište za MR16 bzw. GU53 ili GU10 grla                                236.42   15   3546.30    886.58
+Finožični PVC-om izolirani vodič H05V-K (P/F) 0,5mm2, bijeli                         55.66   12    667.92    166.98
+Pelli-R LED 3W 3000K 180lm, dimabilna, IP20, sive boje                               88.02   23   2024.46    506.12
+Optička spojnica LC DX,SM,keramička,bez prirubnice,plava,ECO                         21.42    1     21.42      5.36
+
+                                                                                                         ----------
+UKUPNO                                                                                                    130242.33
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

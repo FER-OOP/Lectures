@@ -1,0 +1,20 @@
+Račun br. 592495
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Derek-Q LED 30W 3000K 1350lm, IP53, sive boje                                       583.41   17   9917.97   2479.49
+Nick-I-Q 70W Rx7s, 230V, IP20, bijele boje                                            7.77   21    163.17     40.79
+Smith-II-R LED 3W 3000K 200lm, IP54, antracit                                       278.44    5   1392.20    348.05
+Jednožični PVC-om izolirani vodič H07V-U (P) 4mm2, crni                             318.77    4   1275.08    318.77
+Finožični PVC-om izol. vodič H07V-K (P/F) 16mm2, ž/z HPV                             10000   10 100000.00  25000.00
+Prva pomoć za automobil                                                              305.5   22   6721.00   1680.25
+Vodotijesna svjetiljka LINDA PC 2x49W ECG IP65 SC II                                608.13    4   2432.52    608.13
+Mara-I-R LED 25W 3000K 1800lm, IP54, bijele boje                                    600.99   12   7211.88   1802.97
+
+                                                                                                         ----------
+UKUPNO                                                                                                    129113.83
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

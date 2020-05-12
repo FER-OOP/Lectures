@@ -1,0 +1,28 @@
+Račun br. 935039
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kada za brojilo, 1 ploča za brojilo u jednom redu, 3-reda                           620.28   24  14886.72   3721.68
+Theia-R LED 30W 3000K 2500lm, IP54, antracit                                        636.47   13   8274.11   2068.53
+Conrad-S/A2 LED 3+40W 3000K 100lm, IP20, krom                                       762.34   12   9148.08   2287.02
+Box stezaljke za Cu/Al 120-300mm², za pruge vel. 3                                  140.05    8   1120.40    280.10
+Potporni izolator visine 50mm, obostrano s maticom M8, 2kV                            4837   25 120925.00  30231.25
+AIXLIGHT R OFFICE T5, okr., sr.b.,max.2xT5 54W+2xES111 75W                         2997.68   26  77939.68  19484.92
+Pokrov za 2xToolless, bijeli                                                           8.9   14    124.60     31.15
+Marra LED traka 6,6W/m, IP54                                                          8.95   21    187.95     46.99
+SEVEN-CIRCLE 70W HIT E27 IP65 optika za bic.staze, crna                            3468.28   13  45087.64  11271.91
+Mini sklopnik 3P | 4kW [AC3] | 24V DC | + 1N/O (ugrađen)                            149.19   21   3132.99    783.25
+Označne pločice '101-150', Dekafix DY5 (sadrži 50 oznaka)                             8.45   17    143.65     35.91
+Zaštitna pokrov za RJ45 module, sivi                                                  1.63    6      9.78      2.44
+Adapter 3EK41 za AS/KS, 2000x800mm                                                  756.01   19  14364.19   3591.05
+Vijak sa 6-kutnom glavom, za drvo, DIN571, 8x80mm, pocinčani                        109.05   23   2508.15    627.04
+LED LIGHTPOINT, okrugli, mat bijele b., 1W LED, 3000K                               155.78    8   1246.24    311.56
+L-SE umetakt DM 1.5 ASYM.DOUBLE 1x62W LED 3350lm/830                                  8529   11  93819.00  23454.75
+
+                                                                                                         ----------
+UKUPNO                                                                                                    392918.22
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,33 @@
+Račun br. 177981
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zaštitni prekidač, D karakteristika, 25A, 1-polni, 10kA                              65.48   21   1375.08    343.77
+Oscar-II-R 20W E27, 100-240V, IP20, krom                                            285.88   28   8004.64   2001.16
+BRICK LED 24 zidna svj., četvrtasta, tople bb LED                                   500.12   17   8502.04   2125.51
+Push pull presp. kabel RJ45 STP cat.6a 10GB LS0H sivi 0.5m                           36.49   21    766.29    191.57
+Izolir traka, žuta, 15mm x 10m - COROPLAST                                            5.69   30    170.70     42.67
+KC panik lampa LED/3h 230VAC, TEST dugme, zidna monataža                           1188.99   19  22590.81   5647.70
+F/FTP inst. kabel cat.6a, 4x2xAWG23/1, 500MHz, LS0H, plavi                          386.73   16   6187.68   1546.92
+Reflektor 24°, za SLEEK G12 Spot                                                     99.51   12   1194.12    298.53
+89076D, LED DRIVER 350mA 4x10-19w 100-240v Dimabilni                                543.71    9   4893.39   1223.35
+Ugradna svjetiljka SERH XTP T5 4x14W ECG M625, bijela                              1334.32   10  13343.20   3335.80
+Motorni pogon 230V AC/DC za MZ2                                                    1650.12   10  16501.20   4125.30
+Ovjesni pribor za Lano svjetiljke                                                    88.02   20   1760.40    440.10
+Elekt. prig. EVG QTP-OPT. 2x54-58/220-240 za T5iT8 nije dim.                        110.61    8    884.88    221.22
+V-mostić VB 1x50/3                                                                   94.31   20   1886.20    471.55
+"19"" fiksna polica do maks. 150kg, d=450mm, 1U, RAL7035"                           198.99    8   1591.92    397.98
+Aktuator za rolete, 1 x 230V AC, 6A                                                 645.27   28  18067.56   4516.89
+PD-C360/24 DC24V Slave P/Ž stropni senzor pris. IR 360° Ø24m                       1430.59   19  27181.21   6795.30
+OUT 65 LED DL okrugli Set, 9W, 3000K, 38°, uklj.napajanje,sb                        437.43   12   5249.16   1312.29
+Tipka MO 1M sa simbolom zvona, bijela                                                 2.65   22     58.30     14.57
+Optički završetak LC, 50/125µm OM4, 2.0m (4 kom.)                                   118.64   27   3203.28    800.82
+Zaštitni prekidač MB 18kA CL 25/3                                                   458.97   11   5048.67   1262.17
+
+                                                                                                         ----------
+UKUPNO                                                                                                    148460.73
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

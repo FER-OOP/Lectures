@@ -1,0 +1,25 @@
+Račun br. 370296
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+FID sklopka 40A, 4P, 30mA, Tip EV, za električna vozila                            4602.19    2   9204.38   2301.09
+Tris-I-Q/A1 LED 3x1W 3000K 135lm,dimabilna,350mA,IP20,alu                            43.59    8    348.72     87.18
+FID sklopka 40-2-03/AC, 6kA                                                         191.37    2    382.74     95.68
+Redna stezaljka (vijčani priključak) 10mm², crvena                                    7.23    5     36.15      9.04
+Fluokompaktna žarulja TC-TEL 18W/840 Gx24Q-2                                         44.83    8    358.64     89.66
+Prednja ploča sa tipkalom za dimer, biserno bijela                                   35.04    4    140.16     35.04
+Ugr. downl. SEGON LED 24W ED 2500lm/840,3hEM,MAT IP20 70°,bb                       1293.46   24  31043.04   7760.76
+LED Downlight 50 - IP43 | CRI/RA 90+ (podesiv) topla bijela                         211.17    2    422.34    105.59
+Ugradna indirektna svj. VMRH REF 4-14/24W QTI M625 sjajni r.                       1035.06    9   9315.54   2328.89
+PT LED utični modul, crveni, 6-24V DC, EM08                                           9.91   28    277.48     69.37
+Sklopka MO 1M 20A 1p bez tipke, na vijak                                             23.44   13    304.72     76.18
+Kratkospojnik za 2 stezaljke IK100070-A                                               7.31    9     65.79     16.45
+Zaštitni prekidač, D karakteristika, 16A, 2-polni, 10kA                             105.59    8    844.72    211.18
+
+                                                                                                         ----------
+UKUPNO                                                                                                    52744.418
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

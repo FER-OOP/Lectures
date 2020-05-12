@@ -1,0 +1,28 @@
+Račun br. 981703
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Završni pokl. za GLENOS ALU ugradni profil,srebrne b.,2 kom.                        155.78   13   2025.14    506.29
+SQUARE Downlight, srebrne boje                                                       93.26    3    279.78     69.94
+Nadgradna svjetiljka SARS 2 ECO T8 1x36W CCG, ind, bijela                           271.64   14   3802.96    950.74
+SERH ECO A3 L2 T5 4x14W EVG M600, bijela b.                                         450.67   25  11266.75   2816.69
+NV rastavna sklopka vel.00|125A, 3P,priključak dolje,na 60mm                       1440.92   21  30259.32   7564.83
+NV rastavna sklopka ARROW BLUE vel.1|250A, 3P, M10, 60mm                           1330.58   22  29272.76   7318.19
+Kompaktni prekidač snage tip A, 3P/160A/25kA, MC1                                   1321.5    9  11893.50   2973.38
+Hands-free audio jedinica EASYCOM za VIP, bijela                                    925.53    2   1851.06    462.77
+KARDAMOD SURFACE ROUND QRB SINGLE, bijela G53, max.75W                             1125.94    3   3377.82    844.45
+T5 fluo cijev 54W High Output, 3000K                                                 80.76   20   1615.20    403.80
+EUTRAC L-spojnica vanjska, bij.                                                        307    5   1535.00    383.75
+"Mini Handsfree 4,3"" COLOR-monitor, bijeli, za SBC sustave"                       2413.09   22  53087.98  13272.00
+Aline-R LED 13W 4000K 950lm, IP54, bijele boje                                      219.81   19   4176.39   1044.10
+EUTRAC zavr.pokl. za 3-fazne šine, bij.                                              19.26   13    250.38     62.60
+Shelf Strip Touch on/off dimer                                                      102.55   14   1435.70    358.93
+Cilindar brava za WSM ormare EK 333                                                   61.5   15    922.50    230.63
+
+                                                                                                         ----------
+UKUPNO                                                                                                    157052.25
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

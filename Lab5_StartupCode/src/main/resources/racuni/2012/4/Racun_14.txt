@@ -1,0 +1,26 @@
+Račun br. 542708
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Sabirnica za 3 rastavne sklopke vel.00, 35mm², korak 27mm                           144.35   25   3608.75    902.19
+ENOLA_C OUT stropna svj., okr., antracit, 9W LED, 3000K, 35°                       1125.94   14  15763.16   3940.79
+7309AG/W/35, LED 10w GU10 R111 WW 35 °                                              225.39   18   4057.02   1014.26
+Univer. opt.  kabel U-DQ(ZN)BH 12x9µm OS2, nm.                                      716.59   10   7165.90   1791.48
+SAT multiswitch 9 IN 16 OUT za quattro/quad LNB,kask.,10m                           2425.3   23  55781.90  13945.48
+KALOS ASL D-ulič.optika 30+10LED,4000K 90W,antracit, 4 kraka                       5701.17   27 153931.59  38482.90
+Optički prespojni kabel duplex, LC/SC, 9/125µm OS2, 10.0m                           133.95   13   1741.35    435.34
+Instalacijski sklopnik s kašnj. 25A | 4 N/C | 24V AC/DC, 2ŠM                        214.15   15   3212.25    803.06
+Kompenzacija ožičena  37,5/7,5kvar 500x500x300mm zidni ormar                      10822.03   25 270550.75  67637.69
+Prespojni kabel RJ45 STP cat.6a/10GB, LS0H, crveni, 0.5m                             24.82   12    297.84     74.46
+Kabel LiYCY 14x0,25                                                                  10000   20 200000.00  50000.00
+Instal. umetak 3-33L komplet 11 IR prednja pl. plastika                            2289.28   27  61810.56  15452.64
+Ind.svj.ARKTUR SQUARE LED 184W 20000lm/757 ECG IP65 110°                           3503.32   28  98092.96  24523.24
+Linijska svj. SERH-LL 112, završni profil,  1x54W, ECG, bb                           496.9   16   7950.40   1987.60
+
+                                                                                                         ----------
+UKUPNO                                                                                                     883964.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

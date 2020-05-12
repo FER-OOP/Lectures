@@ -1,0 +1,23 @@
+Račun br. 984924
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+AIXLIGHT PRO FLAT FRAMELESS 1 okr. ugradno kućište, crne b.                         500.12   23  11502.76   2875.69
+Ind.svj.ARKTUR SQUARE LED 147W 15900lm/765 ECG IP65 110°                           3118.34   28  87313.52  21828.38
+PD-C 360i/8 senzor prisutnosti serije C 360° Ø 8m, bijeli                          1052.75   17  17896.75   4474.19
+Teretna sklopka, rastavljač (izolator), 100A, 4P                                    185.56   20   3711.20    927.80
+Pomoćni kontakt, sig. isklopa, montaža lijevo, 1 C/O za MY1                          92.59    3    277.77     69.44
+NEW TRIA LED DL ROUND SET, mat bijele b., 6W, 2700K, 38°                            374.92    3   1124.76    281.19
+Set zaštitnih pokrova za stezaljke, za 3-polne MY1                                   60.72   18   1092.96    273.24
+Kabel H05VV-F (PP/J) 4x4mm2, svijetlo-sivi, 500m                                   1797.31   27  48527.37  12131.84
+KALU ugradna svjetiljka, 1 Spot, 1xES111, max. 50W,crne boje                        374.92   25   9373.00   2343.25
+"Označna pločica tip CSC ""0"" (100 kom.)"                                            9.83   23    226.09     56.52
+Bistabilni relej sa LED, 2 N/O, 230VAC                                              146.35   19   2780.65    695.16
+
+                                                                                                         ----------
+UKUPNO                                                                                                    183826.84
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

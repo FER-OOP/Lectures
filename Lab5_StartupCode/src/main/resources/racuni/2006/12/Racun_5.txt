@@ -1,0 +1,14 @@
+Račun br. 815890
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Nadgradna svjetiljka SAO ECO T8 4x18W CCG, ind, bijela                              372.32   26   9680.32   2420.08
+DC zaštitni prekidač, C 50A, 2-polni, 10kA                                          206.02    7   1442.14    360.54
+
+                                                                                                         ----------
+UKUPNO                                                                                                     11122.46
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

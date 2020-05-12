@@ -1,0 +1,31 @@
+Račun br. 143602
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Nadgradna downlight svjetiljka ARM 292 1x26W CCG TC-T,bijela                        330.75   14   4630.50   1157.63
+Podnožje za print-releje sa 5.0 rasterom                                             27.23   11    299.53     74.88
+SITRA WALL UP-DOWN zidna svjetiljka, antracit                                       449.94   19   8548.86   2137.22
+SERH ECO A3 L2 T5 4x24W EVG M625, bijela b.                                           8534   18 153612.00  38403.00
+"19"" profil. nosači, visine 22U za DS-, DSZ-, DSI i DW-ormare"                      65.04   13    845.52    211.38
+N uvodnik, 80A, širine 1 modula                                                      45.12   25   1128.00    282.00
+Prespojni kabel RJ45 cat.5e oklopljen, PVC, crveni, 7.0m                             30.94   16    495.04    123.76
+Sutil Round  LED 30W, 3000K, 1800lm, 120°, IP40, sive boje                          331.49   26   8618.74   2154.69
+Doplata za regulator EMR1100S umjesto RM9606                                       1927.65   13  25059.45   6264.86
+KB sigurnosna lampa LED 230VAC/ 3h ,bežična WL, univer.mont.                          1492    7  10444.00   2611.00
+VISSARDO samostojeće ogledalo sa LED osvjetiljenjem                                1063.26    7   7442.82   1860.70
+Utičnica šuko, na vijak, crvena                                                      19.38   14    271.32     67.83
+Design IL ERT-LED 1x3W 230V AC/DC ML, ugradna, usmjerena                            845.73   18  15223.14   3805.78
+MINI ALU TRACK podloške, 2 kom.                                                      15.54   11    170.94     42.74
+Fluokompaktna žarulja TC-TEL 26W/830 Gx24Q-2                                         44.83    9    403.47    100.87
+FLEXLED ROLL SELECT 24V, 5m, 3000K                                                  500.12    6   3000.72    750.18
+89076D, LED DRIVER 350mA 4x10-19w 100-240v Dimabilni                                543.71   11   5980.81   1495.20
+DASAR T5-14 podni profil, T5 14W G5                                                2497.05    5  12485.25   3121.31
+BILAS SPOT, single, 25°, 15W, 2700K, okrugla, crne boje                            1558.31   23  35841.13   8960.28
+
+                                                                                                         ----------
+UKUPNO                                                                                                    294501.25
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

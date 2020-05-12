@@ -1,0 +1,24 @@
+Račun br. 578189
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+KALU 3, mat crne b., 3x QRB111, max. 3x 50W                                        1125.94    7   7881.58   1970.39
+Motorna zaštitna sklopka, 3-polna | 40 - 50A                                        801.71   24  19241.04   4810.26
+ES111 Modul za AIXLIGHT PRO ugradno kućište, srebrne boje                           155.78   17   2648.26    662.07
+Stezaljka glavnog voda (za Cu), 1P, 2x70mm²|2x50mm², plava                           78.78   16   1260.48    315.12
+Univerzalna stezaljka 4-35mm², za na sabirnice debljine 5mm                           6.63    4     26.52      6.63
+DASAR EXACT GU10, okrugla, podna ugradna svjetiljka                                 687.83   26  17883.58   4470.90
+Bezhalogeni telekomunikacijski kabel J-H(ST)H 30x2x0,8 sivi                          10000   17 170000.00  42500.00
+BIBA ovjesna svjetiljka za EASYTEC II krom, satin. staklo                           813.03   17  13821.51   3455.38
+Signalni fleksibilni kabel YSLCY-OZ 4x 0,5 sivi                                      10000   23 230000.00  57500.00
+Sklopnik vel.3 | 4P | AC1 110A/690V | 24VDC                                        1317.82   29  38216.78   9554.19
+Prozirna vrata, akril, za WSM4030xx, otvor: 259X143mm                               254.84   20   5096.80   1274.20
+Zaštitni prekidač MB 25kA CL 32/3                                                   476.17   13   6190.21   1547.55
+
+                                                                                                         ----------
+UKUPNO                                                                                                     512266.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

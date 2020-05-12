@@ -1,0 +1,30 @@
+Račun br. 184209
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Potporni izolator, 35x40mm, 2xM8, 4kN                                                14.14   26    367.64     91.91
+Optički prespojni kabel duplex, SC/SC, 9/125µm OS2, 3.0m                                91   20   1820.00    455.00
+Optički prespojni kabel duplex, SC/FC, 50/125µm OM2, 3.0m                            74.84   25   1871.00    467.75
+F/UTP inst. kabel cat.5e, 4x2xAWG24/1, PVC, kutija 305m                             282.63   19   5369.97   1342.49
+DASAR T5-14 podni profil, T5 14W G5                                                2497.05   18  44946.90  11236.73
+WETSY POWER LED, okr., 3W, bb                                                      1558.31   23  35841.13   8960.28
+Motorni pogon za MC2, 208-240V AC, bez sinkroniz. i  blokade                        1839.1   13  23908.30   5977.07
+Optički prespojni kabel duplex, SC/FC, 50/125µm OM2, 2.0m                             68.6   17   1166.20    291.55
+Zaštitni prekidač serije BR, C 125A, 4-polni, 10kA                                  869.78   27  23484.06   5871.02
+Sklopnik vel. 10 | 132kW (265A) [AC-3] | 220-240VAC, 50Hz                          3751.04    1   3751.04    937.76
+Ingro-II-S/A1 LED 3x1W 2700K, IP20, aluminij                                        245.32   23   5642.36   1410.59
+Ramone-S LED 120W 6000K 10800lm, IP65, bijele boje                                 2983.32    4  11933.28   2983.32
+Microwave senzor pokreta IP44, okrugli, bijela b.                                   312.23   25   7805.75   1951.44
+Okvir 3x2M line, srebrni                                                             34.38   28    962.64    240.66
+Priključne stezaljke za 4-polne MC3 (4 kom.)                                        115.08   17   1956.36    489.09
+Rolo-CL medium E27 75W, aluminij, antracit                                          198.86   17   3380.62    845.16
+PLASTRA zidna svj.,WL-1,četvrt.,bijeli gips,2x GU10,max.35W                            418   11   4598.00   1149.50
+TRAIL podna svj.LED 1250mm 37W 3600lm asim. 4000K                                  5743.44   14  80408.16  20102.04
+
+                                                                                                         ----------
+UKUPNO                                                                                                    259213.42
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

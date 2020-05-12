@@ -1,0 +1,33 @@
+Račun br. 488695
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"Prespojni panel 24xRJ45 cat.6 de-embedded LSA, STP, 19"", 1U"                        6013   15  90195.00  22548.75
+Rob-II-S LED 3W 3000K 150lm, IP20, bijele boje                                      505.69   24  12136.56   3034.14
+Relej, 1 C/O, 12-240V AC/DC, montaža na DIN nosač                                   193.26   19   3671.94    917.98
+SAT antena 45/40cm,čel.,33dB,pričvršć. na stup,bijela                               113.38    6    680.28    170.07
+Ina-R LED 3/1,8W 6000K, dimabilna, 350mA, IP42, aluminij                             88.02   18   1584.36    396.09
+Panik svjetiljka KW Autotest LED3W/3h, montaža strop                                1091.3   28  30556.40   7639.10
+51300AR/G,  3L BAZA BOXTECH+  ZAOBLJENI RUBOVI, sive boje                            88.02   22   1936.44    484.11
+Linijska svj. SERH-LT 112, srednji profil,  2x54W, ECG, bb                          546.54   23  12570.42   3142.60
+Small Connect, sabirnica 3+N, za zašt. prekidače 1+N, 10mm²                         308.91    2    617.82    154.46
+Bob-I-R LED 24W 4000K 1500lm, IP20, sive boje                                       344.67   23   7927.41   1981.85
+Ugradna svjetiljka SERH 2 A8 L1 T5 2x80W, ECG, bijela                                 8534   11  93874.00  23468.50
+Dvokrilna vrata puna, za kom. ormare, 42U, Š=600 mm                                1009.63    8   8077.04   2019.26
+Panik svjetiljka ESCAPE 2835 3h/M, bijela                                            664.6    6   3987.60    996.90
+"Opt. razdjelnik, 4 niti,ST,50/125µm OM2, izvlačivi,19"",1U"                        681.91   14   9546.74   2386.68
+Linijska svj. SERM-LT 112, srednji profil,  1x80W, ECG, bb                          596.03    3   1788.09    447.02
+Optički prespojni kabel duplex, ST/ST, 50/125µm OM2, 3.0m                            74.39   30   2231.70    557.92
+UPS GENIO Flex Plus Tower 1100VA 740W 4min 1f/1f, Line-Int.                        3231.12   30  96933.60  24233.40
+COLORLITE HIT 400W, E40, proz., neutral bb, 4200K                                   437.43   27  11810.61   2952.65
+Utičnica 2xRJ45 cat.6 p/ž LSA de-embed., STP, 80x80, RAL9010                            38   13    494.00    123.50
+Bezhalogeni kabel s el. funkc. do30 Min. (N)HXH-J4x95rmE30                           10000   25 250000.00  62500.00
+Maskirni razdjelnik 1 širina brojila/ 24 MV                                           4180   23  96140.00  24035.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     736760.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

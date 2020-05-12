@@ -1,0 +1,18 @@
+Račun br. 109109
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Utičnica s poklopcem s bravom, 16A, umetak, bijela                                  275.87   15   4138.05   1034.51
+Cube-WL-Q 75W E27 PAR30, 100-240V, IP54, sive boje                                  245.32    2    490.64    122.66
+Prenaponska zaštita za fotonaponske sustave 1500V DC                                  4130    1   4130.00   1032.50
+Punto-R/A1 LED 7W 3000K 513lm, dim., 700mA, IP20, bijele b.                         102.55    3    307.65     76.91
+Kabelska uvodnica M63x1.5, poliamid, RAL7035                                         86.91    5    434.55    108.64
+Ugradna svjetiljka NOMIA 1x36W,LED 2800lm/830, M600, bijela                        1116.97    1   1116.97    279.24
+
+                                                                                                         ----------
+UKUPNO                                                                                                    10617.859
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

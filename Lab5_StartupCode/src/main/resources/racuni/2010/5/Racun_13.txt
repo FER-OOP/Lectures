@@ -1,0 +1,20 @@
+Račun br. 396219
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LIGHT EYE X3 ovjesna svjetiljka, 3x ES111                                          1433.11   18  25795.98   6449.00
+Vremenski relej, kašnjenje uklopa, 24VAC/DC, 230VAC, 1C/O,5A                        160.92    3    482.76    120.69
+Prirubnica 210x96, za uvodnice: 4xM16, 5xM20, 2xM25, 2xM30                           69.69   27   1881.63    470.41
+LED Panel Round 300 20W 1330lm neutr. bb 4200K, bijele b.                           703.23    7   4922.61   1230.65
+Završni poklopac LBS ravni zatvoreni                                                 50.26   28   1407.28    351.82
+Newton asimetrični reflektor 9 LED 75W 4000K, IP66, antracit                       5612.82    9  50515.38  12628.84
+Adapter za sustav 60mm, EEC 32A, 2 nosača, širine 45mm                              149.96   11   1649.56    412.39
+Susan-R LED 3x1W 3000K 100lm, dimabilna, 350mA, IP20                                 69.94   10    699.40    174.85
+
+                                                                                                         ----------
+UKUPNO                                                                                                      87354.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,16 @@
+Račun br. 705839
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Osigurač DC 500A - max48V, priključak M10                                            63.62   12    763.44    190.86
+Kabel EYY-J (PP00-Y) 3x10RE                                                        2975.28   24  71406.72  17851.68
+Punto-R 50W GU5,3 MR16, 12V, IP20, aluminij                                          84.31   26   2192.06    548.02
+Stezaljka za priključak plosnatih vodiča na 3P MC4, do 1100A                        944.12   20  18882.40   4720.60
+
+                                                                                                         ----------
+UKUPNO                                                                                                     93244.62
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

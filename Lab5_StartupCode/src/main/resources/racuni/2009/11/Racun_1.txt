@@ -1,0 +1,32 @@
+Račun br. 943334
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zaštitni prekidač, B karakteristika, 13A, 2-polni, 10kA                              80.41    6    482.46    120.62
+D02 prilagodni uložak (prsten) Neozed 35A                                              2.6   30     78.00     19.50
+Zaštitni prekidač, C karakteristika, 50A, 1-polni, 10kA                               51.3   26   1333.80    333.45
+Postolje vel.00 H, S3/T, RAL7032                                                   2583.25   27  69747.75  17436.94
+Linijska svj. SERH 220 ASY 2x28W, ECG, bijele boje                                  351.53    9   3163.77    790.94
+Fluo cijev T16 35W/827 G5                                                            29.01   13    377.13     94.28
+Teretna sklopka, 2/4P, 1250A, opcija:dalj. isklop, 1kVDC                          22304.49    9 200740.41  50185.10
+Kronos-S/A2 LED 2x40W 4000K 2x3300lm, IP20, bijele boje                            1905.53   22  41921.66  10480.42
+Aluminijski montažni nosač 4H                                                         26.1   23    600.30    150.07
+Rastavna sklopka za cilindrične os. 22x58mm, 3P/100A sa LED                           4826    5  24130.00   6032.50
+Stražnja ploča za nazidni Modul 2000 | 4R-28                                        265.72    6   1594.32    398.58
+Stropni ovjes za WAVE krom                                                           50.01   13    650.13    162.53
+PROFUNO LED, 3000K, 30°, uklj. 1f adapter, srebrne boje                            1250.97   11  13760.67   3440.17
+Cilindrični osigurač za fotonapon, 10x38, 12A, gR, 900V DC                           50.89    8    407.12    101.78
+Prijenosni punjač                                                                   435.45   17   7402.65   1850.66
+AIXLIGHT MOD FLAT II QRB111, krom / mat crne b.                                     500.12   24  12002.88   3000.72
+NEW MYRA UP/DOWN zidna svj., srebrna b.,2xGU10,2x35W,IP55                           750.35   29  21760.15   5440.04
+NEW TRIA I ES111 SQUARE, GU10, uklj. opruge, crne boje                              299.73   22   6594.06   1648.51
+Linijska svj. SERM-LT 112, srednji profil,  2x35W, ECG, bb                           581.6   16   9305.60   2326.40
+"19"" izvlačiva polica, maks. 30 kg tereta, dubine 550mm, 1U"                       400.79    7   2805.53    701.38
+
+                                                                                                         ----------
+UKUPNO                                                                                                    418858.38
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

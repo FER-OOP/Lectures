@@ -1,0 +1,17 @@
+Račun br. 739873
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Wago kratkospojna stezaljka s polugama, 3 x (0.08-4)mm²                                2.6   28     72.80     18.20
+Montažna ploča, poliester, zaIG7254... 670x490x4mm                                    4130   25 103250.00  25812.50
+Kabel LiYCY 12x0,25                                                                  10000   28 280000.00  70000.00
+Dimabilna elektronika za 10226/10218B/10218F/50226                                   29.39    6    176.34     44.08
+Optički prespojni kabel duplex, LC/SC, 50/125µm OM2, 1.0m                            63.55   30   1906.50    476.63
+
+                                                                                                         ----------
+UKUPNO                                                                                                    385405.66
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

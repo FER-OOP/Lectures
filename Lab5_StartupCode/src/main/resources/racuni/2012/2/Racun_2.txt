@@ -1,0 +1,32 @@
+Račun br. 939510
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Prirubnica veličine I - 4xPG16                                                       88.49   11    973.39    243.35
+GLENOS ALU ugradni profil sa pokrovom, mat bijele boje, 1m                          687.83   27  18571.41   4642.85
+"Mini 4,3"" COLOR-monitor, bijeli, za SBC sistem"                                  2008.81   20  40176.20  10044.05
+20020/B, RGB+W DALJINSKI UPRAVLJAČ SA TOUCH REGULACIJOM                              656.4    7   4594.80   1148.70
+Ugradna svjetiljka SERH ECO T8 2x36W ECG M625, bijela                               391.56   11   4307.16   1076.79
+NAUTILUS LED 304 B, 3x1W, tbb                                                       875.55   21  18386.55   4596.64
+Univer.opt.kabel A/I-DQ(ZN)BH 24x62,5/125µm OM1, LS0H-3, nm.                       1847.15   11  20318.65   5079.66
+Bruno-WL-II-S 20W E27, 100-240V, IP54, sive boje                                    278.44   28   7796.32   1949.08
+Ispravljač, industrijski, 115-230VAC/12VDC, 10A                                     930.27   14  13023.78   3255.95
+Busbar connecting terminal 1000 A for busbars 30x10-120x10mm                          4832   26 125632.00  31408.00
+41012A/B/L, Kutnik, lijevo, crne boje                                                65.89   21   1383.69    345.92
+LIPSY OUT FLOOR vanjska svjetiljka, E27, max. 23W                                   875.55   28  24515.40   6128.85
+Relej snage, 1N/O, 16A, 12VDC serije RT, raster 5mm                                  27.39   12    328.68     82.17
+Prespojni kabel RJ45 cat.5e oklopljen, PVC, sivi, 1.0m                                7.03   10     70.30     17.58
+Savitljiva cijev (srednje), M20, 750N, kolut 50m, HF, crna                         1397.52   25  34938.00   8734.50
+CHROMBO TC-S, zidna svjetiljka,bi.b., 11W                                           341.91    6   2051.46    512.86
+"Preklopnik PoE 802.3af, 24xRJ45 10/100, vanj. nap., 19"", 1U"                     4299.22    4  17196.88   4299.22
+Pomoćni kontakt (1+1), za bočnu dogradnju                                            66.75    4    267.00     66.75
+Nadgradna svjetiljka SAP ECO T8 2x18W ECG, bijela                                   266.83   20   5336.60   1334.15
+Senzor prisutnosti, 360°, p/ž, stropni, IP54, bijeli                               1090.89    6   6545.34   1636.33
+
+                                                                                                         ----------
+UKUPNO                                                                                                    346413.62
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

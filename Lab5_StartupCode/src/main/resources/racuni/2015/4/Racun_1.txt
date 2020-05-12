@@ -1,0 +1,19 @@
+Račun br. 1090623
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kliješta za krimpanje, za MC4, 2,5 - 6 mm2                                         3362.21   21  70606.41  17651.60
+KUNO ovjesna svjetiljka                                                            1433.11   13  18630.43   4657.61
+Dihtung za IP65                                                                      90.57    7    633.99    158.50
+Kabel EYY-J (PP00-Y) 3x25/16RM/RE                                                    10000   22 220000.00  55000.00
+Odjelnik N vodova                                                                    32.52   19    617.88    154.47
+Prednja ploča, čelična, sa otvorom za uređaje, 2G3                                    4160   22  91520.00  22880.00
+Bimetalni relej, područje podešenja 0.6-0.9A                                        160.45    7   1123.15    280.79
+
+                                                                                                         ----------
+UKUPNO                                                                                                    403131.84
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

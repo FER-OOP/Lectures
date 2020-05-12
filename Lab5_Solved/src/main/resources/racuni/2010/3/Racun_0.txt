@@ -1,0 +1,21 @@
+Račun br. 101080
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"1-struki okvir ""Fashion"", biserno bijeli, IP44"                                   43.82   20    876.40    219.10
+Zaštitni prekidač, B karakteristika, 16A, 3-polni+N, 6kA                            112.77   22   2480.94    620.23
+Pregibnica plava za oklopljene ili neoklopljene RJ45 utikače                          0.98    4      3.92      0.98
+Kliješta za krimpanje, hexagon, 10-120mm², DIN                                     1738.76   20  34775.20   8693.80
+LS-FI (KZS), C/25A/30mA, 1P+N, Tip A, 6kA, serija AMPARO                            183.12    3    549.36    137.34
+Prespojni kabel RJ45 cat.6 neoklopljen, PVC, sivi, 0.5m                               6.46   25    161.50     40.38
+Poliester ormar, vrh i dno zatv., 1 vrata 500x 500x312 (VŠD)                       1619.12   15  24286.80   6071.70
+Strujni trafo, 1000/5A 80X30                                                          4398   18  79164.00  19791.00
+Prespojni kabel RJ45 cat.6 oklop.,s pregibnicama,crveni,1m                           10.41   29    301.89     75.47
+
+                                                                                                         ----------
+UKUPNO                                                                                                    142600.02
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

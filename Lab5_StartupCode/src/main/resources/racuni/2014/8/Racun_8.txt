@@ -1,0 +1,27 @@
+Račun br. 1073325
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Prednja ploča za pneumatsko tipkalo EL735150, biserno bijela                          2104   17  35768.00   8942.00
+Izmj. Fronius Symo 3.0-3-M, 3kW, 3f, IP55, TL 2 MppTracker                        14912.75   18 268429.50  67107.38
+LS-FI (KZS), C/16A/100mA, 3P, Tip A, 10kA                                             4281    4  17124.00   4281.00
+Nosač natpisa za dupla tipkala, prazan, 30x75mm                                       2.62   23     60.26     15.06
+Plafonjera ALICA Round TR 2x9W, CCG IP54, bijela                                    250.85    8   2006.80    501.70
+SAT multiswitch 5 IN 10 OUT za quattro/quad LNB,kask.,10m                          1320.28    3   3960.84    990.21
+SENSER LED PANEL nadgradni, 10W, 3000K, okrugla, sive boje                          531.37    6   3188.22    797.05
+FN-LIGHT halogena žarulja,12V,10W,G4, UV-Stop                                         6.25   10     62.50     15.63
+Potporni izolator, 45x40mm, 2xM10, 8kN                                               20.49    2     40.98     10.24
+Multi spojnica, pocinčani čelik, za vodič Ø8-10mm                                     8.06    6     48.36     12.09
+Pokrov 1 mjesta sabirnice za MZS vel.00/0                                             5.61   24    134.64     33.66
+7306LG/W/38, 5LED 5,5w GU10 WW 38 ° 100-240v                                         46.46   21    975.66    243.91
+FRAME CURVE LED, četvrt.,mat bijele boje,toplo bijele b. LED                        244.99    1    244.99     61.25
+LED traka Flexstrip 48 crvena IP43 275lm/m 10W/m L=5m 24VDC                        1130.94   18  20356.92   5089.23
+LED PAR38 100 DIM 14W 230V 30° 827 1000lm 3300cd E27 25000h                         193.68    3    581.04    145.26
+
+                                                                                                         ----------
+UKUPNO                                                                                                     352982.7
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

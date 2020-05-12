@@ -1,0 +1,16 @@
+Račun br. 987332
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"Sobno signalno svjetlo ""Design"", crveno-zeleno"                                    2104   27  56808.00  14202.00
+Pomoćni kontakt, signalizacija isklopa, 1 C/O za MZ                                  31.91    8    255.28     63.82
+9R04/W/E, LED PAR38 14w E27 IP65 WW                                                  79.58   23   1830.34    457.58
+Polucilindar za razdjelnike BK08...                                                  76.58   28   2144.24    536.06
+
+                                                                                                         ----------
+UKUPNO                                                                                                     61037.86
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

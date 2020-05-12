@@ -1,0 +1,33 @@
+Račun br. 1061387
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+E-AYY-O 1x120RM                                                                      10000   23 230000.00  57500.00
+7902R/AL, Aluminijski ugradni profil 2m + PC opalni pokrov                          146.65   11   1613.15    403.29
+"Inverter Kaco Blueplanet 6.5; TL3, 3f, 2MPPT, IP65"                              16409.43   18 295369.75  73842.44
+Zaštita od dodira (pokrov), za NV podnožja vel.1-3                                   12.99   25    324.75     81.19
+Sklopka izmjenična IP54 sa indikacijom na oprugu n/ž                                 38.29    8    306.32     76.58
+"Zidni kom. ormar DW, bočne stranice, 600x370x495, 19"", 6U"                       1022.17   14  14310.38   3577.60
+N/Ž inst. razdj. 4A-33, 11-redni, 495 ŠM, 1605x1030x250mm                          5265.74    4  21062.96   5265.74
+Spojnica za sabirnice TT-profil, 1600A, duljina 95mm                                300.01    7   2100.07    525.02
+Prednja ploča za termostat EL176221 i EL176221, inox efekt                            2103   30  63090.00  15772.50
+Kompenzacija  LSFC 14% 500/50kvar 800x2110x600mm Samost.orm.                         10000   10 100000.00  25000.00
+Joystick, 2 položaja, s povratom, okomiti hod                                         4811    2   9622.00   2405.50
+FID sklopka 63-4-03/A, S izvedba, za frekventne pretvarače                         1225.52    5   6127.60   1531.90
+Kabel H05VVC4V5-K 5x2,5 sivi                                                         10000   28 280000.00  70000.00
+Prespojni kabel RJ45 cat.5e neoklopljen, PVC, sivi, 20.0m                            69.77    8    558.16    139.54
+9G09MD/D/E, LED dimabilna DL 8.5W E27 230v                                          117.25   11   1289.75    322.44
+Završni poklopac LBF četvrtasti sa rupom                                              51.6   12    619.20    154.80
+Baterije 18 kom. longlife OGiV 12V/264Ah s kabelima za ožič.                      80742.31    4 322969.25  80742.31
+Podnožje N voda 1-pol.vel.00,  2 x M8                                                10.02    9     90.18     22.55
+Ind.svj.ARKTUR SQUARE LED 113W 11250lm/740 ECG IP65 55°                            2733.37    4  10933.48   2733.37
+Grebenasta sklopka (glavna, sivo/crna), 0-1/3P/40A, na DIN                          214.89    2    429.78    107.44
+Elektronska prigušnica ECG QTi DALI 2x28/54/220-240 DALI dim                        328.42   30   9852.60   2463.15
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1370669.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

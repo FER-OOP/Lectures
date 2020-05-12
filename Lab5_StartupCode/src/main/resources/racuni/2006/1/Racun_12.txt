@@ -1,0 +1,17 @@
+Račun br. 890302
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Gypsum Square GT1, MR16, GU10, 50W, IP20, bijele boje                                72.99    8    583.92    145.98
+Signalni fleksibilni kabel YSLCY-JZ 18x 1 sivi                                     4036.86   27 108995.23  27248.81
+DIGI-SAT alat za skidanje izolac. koaks. kab. 6.6-6.8 i 11mm                        140.68   18   2532.24    633.06
+Upaljač PROMO mini bijeli                                                             4.48   13     58.24     14.56
+Vodotijesna svjetiljka DEVA PC 2x24W ECG                                            260.47   16   4167.52   1041.88
+
+                                                                                                         ----------
+UKUPNO                                                                                                    116337.16
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

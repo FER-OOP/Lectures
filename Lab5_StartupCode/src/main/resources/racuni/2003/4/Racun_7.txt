@@ -1,0 +1,32 @@
+Račun br. 549816
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+TRAIL-LIGHT, LED Ugradna svjetiljka,4 bb LED, uklj.pok.                             374.92   18   6748.56   1687.14
+FLEXLED ROLL SELECT 24V, 1m, 2700K                                                  249.72   18   4494.96   1123.74
+Izolirana sabirnica za 2 rastavne sklopke vel.000, 3P, 35mm²                        185.76    9   1671.84    417.96
+Parapetni kanal PVC s poklopcem PK 110*70*2000mm                                     75.66   18   1361.88    340.47
+Dekorativni pokrov za KALOS svjetiljku sa 4 kraka, antracit                         418.86   20   8377.20   2094.30
+IVED Gooseneck sa rozetom, tople bb                                                  675.5   11   7430.50   1857.63
+Plafonjera ALICA Round TR 1x60W max, E27, IP54, crna                                   195    1    195.00     48.75
+Plafonjera RKL 3 2x60 E27 IP40 bijela                                               159.79   29   4633.91   1158.48
+Grebenasta sklopka, 1-0-2/4P/40A, montaža na DIN nosač                              790.03   14  11060.42   2765.10
+Zaštitni prekidač, C karakteristika, 3A, 1-polni, 6kA                                 4465   30 133950.00  33487.50
+Niskonaponsko grlo, G4-6,35 sa 15cm kabela                                            12.5   30    375.00     93.75
+Nosač RC senzora pokreta, bijeli                                                    152.48   28   4269.44   1067.36
+CONTONE, 16W, 890lm, 3000-2000K dim., okrugla, bijele boje                          625.15    8   5001.20   1250.30
+Zamjenjiva skala, 96x96mm, 60/120/5A AC                                               4399   23 101177.00  25294.25
+Kruta pojačana cijev, M20, 750N, EN3341, crna, 3m(pak. 111m)                        460.37    6   2762.22    690.55
+Tubus-S LED 15W, 3000K, 1280lm, 230V, SKI, 90°,IP40,aluminij                        331.49   20   6629.80   1657.45
+Spojnica (ravna) M20, siva (pak. 100 kom.)                                          155.55   30   4666.50   1166.63
+Bimetalni relej za sklopnike vel. 3 | 80,00 - 100,00A                               652.61   21  13704.81   3426.20
+Zakretna ručica direktno na MC1, zaključavanje (crna/siva)                          161.38   24   3873.12    968.28
+Pako-S/A2 LED 2x1W 6000K, dimabilna, 350mA, IP20, aluminij                           77.21   27   2084.67    521.17
+
+                                                                                                         ----------
+UKUPNO                                                                                                    324468.03
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

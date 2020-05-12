@@ -1,0 +1,21 @@
+Račun br. 655862
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Optički prespojni kabel duplex, ST/ST, 62,5/125µm OM1, 2m                            61.77   10    617.70    154.43
+Kompenzacija  LSFC 14% 325/25kvar 800x2110x500mm Samost.orm.                      85347.63    7 597433.44 149358.36
+Kabel LiYCY 3x0,14                                                                   10000   26 260000.00  65000.00
+Regulator temp. i vlage 0 - 60°C, 50-90% rF, 1 C/O kontakt                          982.67   15  14740.05   3685.01
+KB sigurnosna lampa LED 230VAC/ 3h Autotest, univerzalna mon                       1077.58   25  26939.50   6734.87
+Zaštitna pokrov za RJ45 module, sivi                                                  1.63   13     21.19      5.30
+Unutarnji kut za kanal SIGNA 70/110 RAL 9001                                        188.19   14   2634.66    658.67
+Poklopac MO 7M, dekorativni s vijcima, halogen free, bijeli                           4.69    8     37.52      9.38
+Produžetak za TUBELIGHT LED, 10kom                                                   40.02   24    960.48    240.12
+
+                                                                                                         ----------
+UKUPNO                                                                                                    903384.56
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

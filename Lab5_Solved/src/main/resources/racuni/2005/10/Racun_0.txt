@@ -1,0 +1,30 @@
+Račun br. 930578
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zaštitni prekidač, D karakteristika, 25A, 2-polni, 10kA                              126.1   22   2774.20    693.55
+89030WD, LED dimabilni 1-10v DRIVER 12v 30w , ulaz 120v-240v                        212.21   19   4031.99   1008.00
+Vijak sa upuštenom glavom, za drvo, 6x60 / 35mm                                      58.36   19   1108.84    277.21
+"19"" fiksna polica do maks. 150kg, d=750mm, 1U, RAL7035"                           265.21    8   2121.68    530.42
+Finožični PVC-om izol. vodič H05V-K (P/F) 0,75mm2, ž/z HPV                           10000   19 190000.00  47500.00
+Elektronska prigušnica ECG QTi DALI 1x21/39/220/240 DALI dim                        289.32   23   6654.36   1663.59
+LED PEN LIGHT PRO, bb, 40,5m, 230V                                                 4249.51   17  72241.66  18060.42
+Ugradna svjetiljka SERH ECO A1 L1 T5 4x24W ECG M625, bijela                         519.39    4   2077.56    519.39
+L-SE el. uložak DM 2x28W ECG                                                        271.64    6   1629.84    407.46
+Finožični PVC-om izolirani vodič H07V-K (P/F) 2,5mm2, ž/z                           195.31    2    390.62     97.65
+Rozeta, 3 izlaza, krom                                                              299.73    7   2098.11    524.53
+Bušilica Bosch PSB500 RE                                                            475.91    5   2379.55    594.89
+Spojnica za savitljivu cijev M32, svijetlo siva, pak.25 kom.                        271.99   16   4351.84   1087.96
+Joystick, 2 položaja, s povratom, okomiti hod                                         4811   21 101031.00  25257.75
+Industrijska utičnica, 5 polna, 32A, IP44, montaža na zid                            45.02   30   1350.60    337.65
+Svjetiljka Design GX LED, 230V AC/DC, u zid/na zid, 34m                            1240.43    3   3721.29    930.32
+Uklopni sat, analogni, dnevni program, SYNCRON, 1 N/O, 1ŠM                          191.04    4    764.16    191.04
+ES111 Modul za AIXLIGHT PRO ugradno kućište, srebrne boje                           155.78    9   1402.02    350.51
+
+                                                                                                         ----------
+UKUPNO                                                                                                    400129.34
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

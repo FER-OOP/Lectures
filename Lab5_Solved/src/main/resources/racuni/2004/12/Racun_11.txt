@@ -1,0 +1,18 @@
+Račun br. 686655
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Prespojni kabel RJ45 STP cat.6a/10GB, LS0H, sivi, 7.0m                               73.68    6    442.08    110.52
+Sklopnik vel. 2 |18,5kW (40A) [AC-3] | 230VAC | 2N/O+ 2N/C                            4791   21 100611.00  25152.75
+D02 rastavna sklopka ARROW S, 3-polna, 10A                                            4824   23 110952.00  27738.00
+Prednja ploča, plastična, slijepa, 3B10K                                              4160    3  12480.00   3120.00
+Kabel H05VV-F (PP/J) 10x1,5mm2, svijetlo-sivi, 50m                                   10000    4  40000.00  10000.00
+Stropni ovjes za EASYTEC II, 10cm, krom                                             124.52    2    249.04     62.26
+
+                                                                                                         ----------
+UKUPNO                                                                                                     264734.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

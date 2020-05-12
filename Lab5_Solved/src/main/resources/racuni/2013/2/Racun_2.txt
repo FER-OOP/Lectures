@@ -1,0 +1,24 @@
+Račun br. 175139
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Utičnica šuko sa zaš. kon.+pokl+ dječ. zaš. na oprugu naranč                         21.57   15    323.55     80.89
+Industrijska svjetiljka SCUP PC 1x250W,E40,MT/ST, CCG, siva                           8542   20 170840.00  42710.00
+LS-FI (KZS), C/13A/100mA, 3P, Tip A, 10kA                                             4281    9  38529.00   9632.25
+Metalhalogena žarulja HIT-DE Uvr 250W/830 Fc2                                       301.58   30   9047.40   2261.85
+Okvir 1/3M line, zeleni                                                               2434   20  48680.00  12170.00
+Redna stezaljka (vijčani priključak) 2.5 - 4mm², žuto/zelena                          9.43    8     75.44     18.86
+Sklopnik vel. 00 | 5,5kW (12A) [AC-3] | 24VAC, 50Hz | 1 N/O                         131.76   14   1844.64    461.16
+Bezhalogeni jednožilni vodič H05Z-K 0,5mm2, crni                                     10000   14 140000.00  35000.00
+"Zidni kom. ormar DW, bočne stranice, 600x900x495, 19"", 18U"                       1373.9    4   5495.60   1373.90
+ENOLA_C 9 SPOT, okr., crne boje, 9W, 3000K, 55°, 3-f adapter                        938.06    2   1876.12    469.03
+BACCO 90 podna svjetiljka, antracit, E27                                           1250.97   25  31274.25   7818.56
+Kabel LiYCY 2x2x0,14                                                                 10000   23 230000.00  57500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     677986.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

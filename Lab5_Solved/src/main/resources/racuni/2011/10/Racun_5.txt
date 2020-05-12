@@ -1,0 +1,19 @@
+Račun br. 391255
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+SOBERBIA LED ovjesna svjetiljka 60, 20W, 3000K,četvrtasta,bb                       6252.19   23 143800.38  35950.09
+Gljivasto tipkalo s povratom, žuto                                                   44.14    8    353.12     88.28
+Finožični PVC-om izolirani vodič H07V-K (P/F) 95mm2, ž/z                           7797.46    1   7797.46   1949.36
+PEYOTE POLE 48cm 2x90° 8x1W LED, 40° 4000K antracit                                3537.56   18  63676.08  15919.02
+Priključna kutija, čelik, 200x200x120 (VxŠxD), IP66, RAL7035                        182.25   18   3280.50    820.13
+"2-struki stakleni okvir ""Riva"", bijeli"                                          415.23   18   7474.14   1868.54
+Odvodnik prenapona klase C, TT,TN-S 255V/20kA (SET)                                 669.87   28  18756.36   4689.09
+
+                                                                                                         ----------
+UKUPNO                                                                                                    245138.03
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

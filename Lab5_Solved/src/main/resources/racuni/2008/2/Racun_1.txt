@@ -1,0 +1,33 @@
+Račun br. 332068
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+FID sklopka 63-4-003/A (puls), G izvedba                                           1145.04   27  30916.08   7729.02
+Kabel LiYY 18x0,25                                                                   10000   28 280000.00  70000.00
+Odvijač križni  izol. crveni                                                          2303   27  62181.00  15545.25
+7902/W, Bijeli profil 2m + PC opalni pokrov                                         212.55   30   6376.50   1594.13
+7838M, TRIMLESS KIT za 7838 & 7910 (10kom)                                          219.81   15   3297.15    824.29
+Pokrov za analogni sobni termostat, antracit                                         295.9    6   1775.40    443.85
+EUTRAC Ovjes za 3-fazne šine, 120cm, bb                                             218.46   10   2184.60    546.15
+Kabel E-Y2Y-J 4x16RE                                                                 10000   29 290000.00  72500.00
+Motorna zaštitna sklopka, 3-polna | 0.28 - 0.40A, vel.S0                            206.11   25   5152.75   1288.19
+Sklopka MO 1M 16A 2p bez tipke na vijak                                               28.6   30    858.00    214.50
+Majica Store kratkih rukava -XX-large-                                              301.79    8   2414.32    603.58
+Zaštitni prekidač AMPARO 6kA, C 20A, 1-polni                                         20.02   28    560.56    140.14
+GLENOS PROFILE 2609, 3m, bijele boje                                                468.35   11   5151.85   1287.96
+Zaštitni prekidač, B karakteristika, 10A, 3-polni+N, 6kA                            112.77   15   1691.55    422.89
+Fluo cijev T26 15W/827 G13                                                           21.71   26    564.46    141.11
+Sabirnica, U-4-L1+L3 16mm²/18mm/duljine 1m                                           98.54   24   2364.96    591.24
+Finožični PVC-om izolirani vodič H07V-K (P/F) 1,5mm2, naran                         121.44   16   1943.04    485.76
+Instalacijski sklopnik 25A | 4 N/O | 24V AC                                          136.1    6    816.60    204.15
+Cube-WL-Q 2x35W GU10 MR16, 100-240V, IP54, antracit                                 219.81    1    219.81     54.95
+SAT produž.za stup,d=1m, Ø50mm, alu,za HSATMWxxA i HSATMM20A                        121.62   29   3526.98    881.74
+Instalacijski set za strukturne mreže (4 kom.), u torbici                           240.15   20   4803.00   1200.75
+
+                                                                                                         ----------
+UKUPNO                                                                                                     706798.7
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

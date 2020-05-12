@@ -1,0 +1,25 @@
+Račun br. 832663
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"Montaža optičke spojnice na 19"" opt. razdjelnik HSELSxx0yG"                        34.54   29   1001.66    250.42
+Kućište za 3 tipkala serije MS, crno-sivo                                            61.63   25   1540.75    385.19
+GLENOS četvrtasti Profile 3030, 3m, srebrne boje                                    656.24   13   8531.12   2132.78
+SAT steznik za stupove promjera 58 do 60mm, pocinčani čelik                          18.41   17    312.97     78.24
+FID sklopka 40-4-01/AC, 6kA                                                         293.75   16   4700.00   1175.00
+Vodič (N)YM-J (PGP) 3x1,5mm2, sa zašt. vodičem, crveni                               10000   26 260000.00  65000.00
+Završni poklopac CLF četvrtasti zatvoreni sa vijcima                                  51.6   10    516.00    129.00
+Bočne stranice za Modul 2000/3S, dubine 150mm, tip 36/150                             4160    2   8320.00   2080.00
+FLEXLED ROLL HIGHEND 24V, 3m, 2700K                                                1871.23   29  54265.67  13566.42
+Modul signalne svjetiljke, treptajuće žuto svjetlo, 230V AC                         606.25    8   4850.00   1212.50
+LED RF WiFi kontroler MONO predajnik - 4 zone                                       836.68    2   1673.36    418.34
+Tipka sa strelicama gore/dolje, bijela                                               12.03   27    324.81     81.20
+GL 105 E27, okrugla, bb Gips, max. 15W                                              506.37   10   5063.70   1265.93
+
+                                                                                                         ----------
+UKUPNO                                                                                                    351100.03
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

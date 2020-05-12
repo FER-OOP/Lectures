@@ -1,0 +1,25 @@
+Račun br. 516636
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Sklopnička kombinacija zvijezda/trokut 7.5kW (16A) AC3|24VAC                       1328.44   21  27897.24   6974.31
+LOGICOM N/Ž kućište s krovićem, 6 modula                                           2043.85   17  34745.45   8686.36
+Prizma stezaljke za rastavnu sklopku, 150-300mm², Cu/Al                              84.05    1     84.05     21.01
+Bezhal. kabel HSLH-JZ3x2,5FRNC H-F 1žila ž/z ostale crn/siv                          10000   14 140000.00  35000.00
+Pokrovna ploča, 3 širine brojila                                                      4160   25 104000.00  26000.00
+Softshell jakna, ženska -large-                                                     595.37   30  17861.10   4465.27
+Grebenasta sklopka, T-0-N/1P/20A, na DIN nosač                                       245.3    9   2207.70    551.92
+Krajnji držač, montaža na DIN nosač, tip BTU, crni, natični                           4.07    9     36.63      9.16
+LED ES111,  crne boje, 17W, 140°, 2700                                              562.63   28  15753.64   3938.41
+SERH ECO A3 L2 T5 4x24W EVG M600, bijela b.                                         471.45   28  13200.60   3300.15
+Kabel EYY-O (PP00) 4x10RM                                                            10000    7  70000.00  17500.00
+Switch 852 - 111 - 5-Port 10/100BASE-TX za DIN šinu                                1496.07   20  29921.40   7480.35
+S/FTP inst. kabel cat.7, 4x2xAWG23/1, 1000MHz, LS0H-3, plavi                        513.42   24  12322.08   3080.52
+
+                                                                                                         ----------
+UKUPNO                                                                                                     468029.9
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

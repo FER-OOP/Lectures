@@ -1,0 +1,30 @@
+Račun br. 507079
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+IR Daljiski upravljač, srebrni                                                      646.47   15   9697.05   2424.26
+Paralelna spojnica (kratkospojnik) za 5 stezaljki IK110006--                          4850   28 135800.00  33950.00
+Zaštitni prekidač AMPARO 6kA, C 6A, 2-polni                                          68.21   15   1023.15    255.79
+Piktogram Linda 18W, strelica desno                                                   7.15   19    135.85     33.96
+Umetak brave, double-bit, 3mm,nehrđajući čelik,za WSR ormare                          4066    2   8132.00   2033.00
+Kompenzacija ožičena  37,5/7,5kvar 500x500x300mm zidni ormar                      10822.03    1  10822.03   2705.51
+Univer. opt.  kabel U-DQ(ZN)BH 4x50µm OM2, nm.                                      762.54    1    762.54    190.63
+FID sklopka 63-2-01/AC, 6kA                                                           4271   14  59794.00  14948.50
+"Optički prespojni panel 19"", 1U, uklj. 4 spojnice LC, MM"                         611.42    9   5502.78   1375.69
+Industrijska svj. Arktur LED 11900lm,115W,60°,6000K,RAL9006                        4534.89   28 126976.92  31744.23
+Kompaktni prekidač snage tip A, 4P/160A/25kA, MC1                                  2314.81   15  34722.15   8680.54
+FLEX LINE slijepi poklopac za neiskorištene portove panela                            6021    3  18063.00   4515.75
+Panik lampa KM beržična LED/3W/3h 230VAC montaža  zid/strop                        1576.73   25  39418.25   9854.56
+Vijci za poklopac kućišta IG706…, sivi                                                3.74   17     63.58     15.90
+RC 130i infracrveni senzor pokreta, nazidni, IP54, crni                             929.94    9   8369.46   2092.36
+Vijak sa upuštenom glavom, za drvo, 3x30mm                                           10.75   10    107.50     26.88
+7900C, Konektor  za 7910/AL, 7912/AL                                                 14.69   21    308.49     77.12
+LED traka 115 AW 100% Mix 26,9W/m 1989lm/m 24VDC IP44 l=5m                         1959.55    3   5878.65   1469.66
+
+                                                                                                         ----------
+UKUPNO                                                                                                    465577.44
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,21 @@
+Račun br. 138471
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kutna spojnica za 1-f  3-f šina, unut., bb                                           68.25   18   1228.50    307.13
+Mario-WL-Q LED 2x6W 3000K 2x440lm, IP54, bijele boje                                464.13   17   7890.21   1972.55
+LIKA kućište za LINUX LIGHT, srebrne boje                                           374.92   22   8248.24   2062.06
+Držač za cilindrične osigurače 10 x 38 | 3P + N | 32A/690V                             128    8   1024.00    256.00
+Bezhal. kabel poboljšanih svoj.za sl. požara N2XH-J 4x95sm                           10000   15 150000.00  37500.00
+EUTRAC Nap.stezaljka, desna, crne b.                                                 93.26   22   2051.72    512.93
+Ispitivač i certifikator kabela WireXpert 500 LAN                                 85091.32   181531643.75 382910.94
+Adapter za sustav 60mm, 250A, 3P, za Siemens 3VL2, 3VL3 UL                            4832   24 115968.00  28992.00
+SAT pojačalo 5 u 5, SVS 550-09                                                     1274.21    8  10193.68   2548.42
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1828248.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

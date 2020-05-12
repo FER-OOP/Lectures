@@ -1,0 +1,20 @@
+Račun br. 1073778
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Finožični PVC-om izolirani vodič H07V-K (P/F) 10mm2, plavi                          770.13    9   6931.17   1732.79
+GLENOS 90° spojnica za Profile 1808, bijele boje                                     43.76    6    262.56     65.64
+SENSER LED PANEL ugradni, 6W, 3000K, okrugla, bijele boje                           218.46   30   6553.80   1638.45
+LUNA 70W HIT G12 uklj. izvor 12° inox okvir                                        2486.36   28  69618.09  17404.52
+FGL OUTDOOR GU10, bb                                                                249.72   28   6992.16   1748.04
+D02 rastavna sklopka, 1P+N, montaža na DIN nosač                                    313.87   22   6905.14   1726.29
+DIABO svjetiljka za žičani sustav, bijele b., MR16, max. 35W                        462.77   25  11569.25   2892.31
+Fluokompaktna žarulja TC-T 26W 827 Gx24D-3                                           46.69   13    606.97    151.74
+
+                                                                                                         ----------
+UKUPNO                                                                                                    109439.14
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

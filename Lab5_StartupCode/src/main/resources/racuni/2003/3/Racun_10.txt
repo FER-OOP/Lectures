@@ -1,0 +1,15 @@
+Račun br. 335030
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Levante-S 16 LED 38W 3540lm 4000K asim.,IP66, SKII, RAL9003                        2629.01   26  68354.26  17088.56
+LED Driver 320mA 8W za Sutil 2, triac dim.                                           118.6   13   1541.80    385.45
+Ugradni okvir za svjetiljku S1                                                       54.68   15    820.20    205.05
+
+                                                                                                         ----------
+UKUPNO                                                                                                     70716.26
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

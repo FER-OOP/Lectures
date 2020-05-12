@@ -1,0 +1,19 @@
+Račun br. 513510
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Držač za instalacijsku cijev KSR DN 50                                               48.73    6    292.38     73.10
+Pokrov podnožja IS504823--, 3-polni, širina 54mm                                      15.6    6     93.60     23.40
+Ip kontrolni centar                                                               10432.81   15 156492.14  39123.04
+Svjetiljka SOLO 2x28W EVG                                                           152.49   20   3049.80    762.45
+Kabel JB-Y(ST)Y 12x2x0,8mm2                                                          10000   11 110000.00  27500.00
+SSVGA kabel 4C+5, pozlaćeni kontakti, crni, 7m                                      127.87   24   3068.88    767.22
+Audio vanjski panel, 52 tipke, sa PTT otvorom                                         4690    7  32830.00   8207.50
+
+                                                                                                         ----------
+UKUPNO                                                                                                     305826.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

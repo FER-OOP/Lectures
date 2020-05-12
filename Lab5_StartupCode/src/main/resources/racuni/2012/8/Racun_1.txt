@@ -1,0 +1,26 @@
+Račun br. 166704
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Sklopnik 4P |90kW (175A) [AC3] / 250A [AC1] | 230V AC/DC                           3718.86   24  89252.64  22313.16
+Strujni trafo, 600/5A, 40x10mm Tip TAI 400                                          298.32   22   6563.04   1640.76
+Kompaktni prekidač snage tip VE, 4P, 50kA, 400A                                    6311.06   11  69421.66  17355.42
+Bušač PG13,5                                                                          2303   22  50666.00  12666.50
+FO spojnica LC DX 9/125 za toolless, bez prirubnice                                   58.2   22   1280.40    320.10
+LED Strip montažne kopče 4,8W/m                                                       1.35   29     39.15      9.79
+LED ES111, crvene b., 15W, 30°, 2700K                                               374.92   20   7498.40   1874.60
+Telekomunikacijski kabel vodonepropusan F-2YA2Y 50x2x0,8                             10000    6  60000.00  15000.00
+Instal. umetak 2-39K komplet 13 IR prednja pl. čelik                               2153.81   22  47383.82  11845.96
+Relej 3 C/O |10A | 220VDC sa LED                                                     83.88   24   2013.12    503.28
+AIXLIGHT R2 OFFICE T5,zaobljena,sr.b.,2xT5 54W+2xES111 75W                         2997.68   20  59953.60  14988.40
+LINEA R80M K1 završni pokrov, eloksirani aluminij                                     8528   16 136448.00  34112.00
+Grebenasta sklopka, (glavna,crveno/žuta),0-1/4P/32A,na vrata                        252.69    7   1768.83    442.21
+TYTAN HC prespojni kabel RJ10, duljina 15cm                                           18.2   25    455.00    113.75
+
+                                                                                                         ----------
+UKUPNO                                                                                                     532743.7
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

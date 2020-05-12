@@ -1,0 +1,27 @@
+Račun br. 159804
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Transformator, 1-fazni | 230/024V | 315VA, IP00                                     452.23    1    452.23    113.06
+Tel. razvodni ormar s LSA nosačima, 2x100 parica                                   4937.53    6  29625.18   7406.29
+3f reflektor VITO LED 25W 1550lm/840 40°, bijele boje                               939.29    6   5635.74   1408.93
+Fazna pregrada za vel.00, duga                                                        4821   24 115704.00  28926.00
+Fluokompaktna žarulja TC-D 26W, 2700K, 2-Pin                                         43.76   25   1094.00    273.50
+Most (kratkospojnik), 4P na 2P, za MC3, s pokrovom                                 1357.89   21  28515.69   7128.92
+Finožični PVC-om izolirani vodič H07V-K (P/F) 1,5mm2, sivi                          121.44   13   1578.72    394.68
+FLAT FRAME CURVE , četvrt., bijele b., G4, max. 20W                                 218.46   12   2621.52    655.38
+LED DOWNUNDER SQUARE zidna,četvrtasta, antracit,toplo b.LED                         813.03   14  11382.42   2845.60
+Instalacijski sklopnik 20A | 1 N/O | 24V AC, uski (1ŠM)                             122.28   13   1589.64    397.41
+Optički prespojni kabel duplex, LC/FC, 9/125µm OS2, 2.0m                             85.98   23   1977.54    494.39
+DEVIN SINGLE zidna svjetiljka, E14, max. 15W, okrugla, krom                         625.15    2   1250.30    312.58
+7900C, Konektor  za 7910/AL, 7912/AL                                                 14.69   14    205.66     51.41
+Vrata sa zakretnim zasunom 3T-45 RAL7035                                              4170   16  66720.00  16680.00
+Telekomunikacijski kabel J-Y(ST)Y 2x2x0,6mm2                                        187.22    7   1310.54    327.64
+
+                                                                                                         ----------
+UKUPNO                                                                                                    269663.16
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

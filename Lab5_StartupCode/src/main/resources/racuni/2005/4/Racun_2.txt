@@ -1,0 +1,32 @@
+Račun br. 931921
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+L-SE umetak 1.5 Medium Wide 1x66W LED 6350lm/830                                      8529   27 230283.00  57570.75
+Kompaktni prekidač snage tip A, 3P/63A/50kA, MC1                                    768.86    7   5382.02   1345.51
+OUT BEAM LED zidna svjetiljka, uski snop, sive boje                                1250.97   28  35027.16   8756.79
+"Preklopnik 16xRJ45 10/100T, bez vent., unutarnje nap., 19"""                          411   24   9864.00   2466.00
+Uzidni okvir s vratima - M3000, 2U-18                                               658.02   16  10528.32   2632.08
+UPS Dialog Dual 10000VA 5200W / Online                                            21540.55    1  21540.55   5385.14
+Sig. Svj. ZAA 230VAC, 8h, autot., -25°C do35°C,vanjska bat.                        2253.97   21  47333.37  11833.34
+Owen-II-R/A2 50W PGJ5, 230V, IP20, bijele boje                                       79.24   23   1822.52    455.63
+Gumeni savitljivi kabel NSSHöu-J 18x2,5, žuti                                        10000   11 110000.00  27500.00
+Gljivasto tipkalo, crveno, fi=40mm                                                   42.76    4    171.04     42.76
+Meiva-S/A2 2x50W GU5,3 MR16, 12V, IP20, crne boje                                    106.1   23   2440.30    610.08
+Fazne pregrade na priključnim stezaljkama, za 3P MC3 (2 kom)                         80.91   20   1618.20    404.55
+Signalni fleksibilni kabel YSLCY-JZ 25x 1,5 sivi                                   6911.96   15 103679.40  25919.85
+Bat. 18 kom. longlife FT OGiV 12V/50Ah s kabelima za ožič.                         20604.8    2  41209.60  10302.40
+Push pull presp. kabel RJ45 STP cat.6a 10GB LS0H sivi 0.5m                           36.49   24    875.76    218.94
+Podesiva spojnica za LINUX LIGHT, krom                                              218.46   11   2403.06    600.77
+Finožični PVC-om izolirani vodič H07V-K (P/F) 2,5mm2, smeđi                         195.31   19   3710.89    927.72
+Zaštitni prekidač, B karakteristika, 10A, 4-polni, 6kA                              123.03   28   3444.84    861.21
+PLENUM FIX podna svjetiljka, okr., antracit, E27, max. 25W                          938.06    1    938.06    234.51
+Prekidački/dimerski aktuator, 8 DALI, 8 x EVG po izlazu                            2775.39   17  47181.63  11795.41
+
+                                                                                                         ----------
+UKUPNO                                                                                                     679453.7
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

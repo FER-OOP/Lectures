@@ -1,0 +1,30 @@
+Račun br. 806801
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Panik svjetiljka KD Autotest LED/3W/3h 230VAC montaža zid/st                       1454.18    8  11633.44   2908.36
+Bezhal. kabel HSLH-JZ18x1FRNC H-F 1žila ž/z ostale crn/siv                           10000   20 200000.00  50000.00
+XXXL-Collar jakna, vodoodbojna sa puno džepova                                      330.46   18   5948.28   1487.07
+Kabel LiYCY 1x0,25                                                                   10000   13 130000.00  32500.00
+Prespojni kabel RJ45 STP cat.6a/10GB, LS0H, crveni, 10.0m                            98.51    1     98.51     24.63
+Telekomunikacijski kabel vodonepropusan F-2YA2Y 50x2x0,6                             10000    7  70000.00  17500.00
+Nadgradna svjetiljka SAO ECO T5 2x49W ECG, bijela                                   405.83    2    811.66    202.92
+Montažna ploča 2PB, 11 otvora, 450x70x13mm                                          273.67   13   3557.71    889.43
+Vodotijesna svjetiljka DEVA ECO PC 2x28W ECG                                        244.49   26   6356.74   1589.19
+SAT antena 60/55cm,čel.,36dB,sklopiva ruka,bijela                                   171.92   30   5157.60   1289.40
+Prednja ploča, plastična, slijepa, 2B3K                                               4160   24  99840.00  24960.00
+Prednja ploča, plastična, slijepa, 1B4K                                               4160   12  49920.00  12480.00
+Prespojni kabel RJ45 cat.5e neoklopljen, PVC, sivi, 15.0m                            51.77   20   1035.40    258.85
+Finožični PVC-om izol. vodič H07V-K (P/F) 70mm2, crni HPV                            10000    5  50000.00  12500.00
+Bezhalogeni kabel s el. funkc. do30 Min. (N)HXH-J5x4reE30                            10000    6  60000.00  15000.00
+Gumeni kabel A07RN-R (Gwuö/DSTL) 16rm, plavi                                         10000    3  30000.00   7500.00
+7517A/W, LED AR111 G53 17w WW 45 ° 12V AC/DC                                        117.76   28   3297.28    824.32
+Zaštitni prekidač MB 18kA CL 16/3                                                   520.33    7   3642.31    910.58
+
+                                                                                                         ----------
+UKUPNO                                                                                                     731298.9
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

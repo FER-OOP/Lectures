@@ -1,0 +1,33 @@
+Račun br. 507292
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Montažna ploča za IP54, 2A-39                                                         4160   25 104000.00  26000.00
+LEVANTE L1 šiljak za montažu u zemlju 60mm, crni                                    232.24   13   3019.12    754.78
+Spojnica MC4 muška, za kabel 4-6mm2, maks. promjer 5,5-9mm                           14.14   10    141.40     35.35
+Kućište n/ž za 6 modula (SFA)(SFB), Š173xV30xD85, RAL9010                            27.47   25    686.75    171.69
+Razdjelnik N/Ž, s prozirnim vratima 1R / 5 modula IP65                               290.5    7   2033.50    508.37
+Nosači za montažu na zid 4 kom.                                                      47.56    2     95.12     23.78
+Levante-M 30 LED 71W 6065lm 3000K asim., IP66,SKII,RAL9003                         4644.86   24 111476.64  27869.16
+LED R7s, 7W, 4000K, 600lm, 100-240V                                                 119.28   26   3101.28    775.32
+Utičnica šuko sa zaš. kon.+pokl+ dječ. zaš. na vijak bijela                          22.35   17    379.95     94.99
+E-AYY-O 1x120RM                                                                      10000    5  50000.00  12500.00
+Tenora CL-1 stropna svjetiljka, E27, 3x23W, bijele/crne b.                         1000.75   18  18013.50   4503.38
+DACU SPACE zidna svj., bb, sa toplom bb LED                                         813.03   14  11382.42   2845.60
+Izolir traka, siva, 15mm x 10m - COROPLAST                                            5.99   25    149.75     37.44
+UPS Multi lus 10kVA 9kW 30min, 3f/3f /Online /veliko kućište                      52061.68   16 832986.88 208246.73
+Kabel H05VV-F (PP/J) 5x0,75mm2, crni, 100m                                           10000   22 220000.00  55000.00
+AIR INDI Display svjetiljka, 7.6W LED, 3000K, crne boje                             813.03   11   8943.33   2235.83
+Bimetalni relej, područje podešenja 10-14A                                          173.44    1    173.44     43.36
+Luxa 102-140, LED sa senz., 8W, 6000K, zidna, IP44, crna                            623.66    2   1247.32    311.83
+Sklopka prednja sa 4-otvora za pričvr. 3-polna 63A                                  342.86    9   3085.74    771.43
+Senzor prisut. stropni, PlanoSpot 360, LON, 64m2, bijeli                           1745.51   11  19200.61   4800.15
+Zaštitna kragna za gljivasta tipkala, žuta                                           52.52   15    787.80    196.95
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1390904.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

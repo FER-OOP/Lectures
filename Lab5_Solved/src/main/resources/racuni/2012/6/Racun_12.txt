@@ -1,0 +1,18 @@
+Račun br. 292700
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LED prespojni kabel RJ45 oklopljen,500 MHz,Ea,10GB,plavi,7m                         108.61   23   2498.03    624.51
+Elektronska prigušnica ECG QT-FQ 2x80                                               177.63   24   4263.12   1065.78
+Sklopnik 3P |37kW (74A) [AC3] / 130A [AC1] | 230V AC                               1082.02    3   3246.06    811.52
+Termoskupljajući bužir u kutiji (5m),žuto-zeleni,25.4/12.7mm                         40.85   20    817.00    204.25
+KB sigurn.svj.ERT-LED 230V za CPS MIX mod, univerzalna mont.                        828.14    6   4968.84   1242.21
+SAT alat za traženje satelita,set za programiranje,SZU 22-00                        258.31   11   2841.41    710.35
+
+                                                                                                         ----------
+UKUPNO                                                                                                     18634.46
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

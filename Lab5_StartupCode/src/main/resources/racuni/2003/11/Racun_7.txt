@@ -1,0 +1,27 @@
+Račun br. 197928
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+PHOS 50 LED 100W 10670lm, 4000°k, antracit                                         6892.49   10  68924.91  17231.23
+Finožični PVC-om izolirani vodič H07V-K (P/F) 6mm2, crni                             455.4    6   2732.40    683.10
+E-AYY-O 1x240RM                                                                      10000   27 270000.00  67500.00
+ROX CEILING OUT ES111, brušeni aluminij                                             813.03   14  11382.42   2845.60
+Držač kabela, interni, za AS/KS ormare širine 1200mm                                248.67   28   6962.76   1740.69
+Nosač za montažu Smart monitora na zid                                               98.86    2    197.72     49.43
+Blok pomoćnih kontakata za LA1 (1+1)                                                 45.02    9    405.18    101.29
+Spojnica sa smolom MU2 Ø3-28mm                                                      268.18   25   6704.50   1676.13
+Polucilindar s jednim unikatnim ključem                                             134.54    1    134.54     33.63
+P/Ž inst. razdj. 1U-28,9-redni,117ŠM,1380x380x250mm(VxŠxD)                          3284.8   10  32848.00   8212.00
+Onda-R/A2 LED 7W 3000K 594lm, IP20, bijele boje                                     411.07   26  10687.82   2671.96
+Cilindrični osigurač, 8x31, 12A, gG, 400V AC                                          2.85   22     62.70     15.67
+LED Strip montažne kopče 14,4W/m                                                      1.35   13     17.55      4.39
+Prednja ploča, plastična, slijepa, 5B13K                                              4160   13  54080.00  13520.00
+MD 180i/R, P/Ž, IP20, senzor + javljač pokreta, relej                               828.09   25  20702.25   5175.56
+
+                                                                                                         ----------
+UKUPNO                                                                                                    485842.72
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

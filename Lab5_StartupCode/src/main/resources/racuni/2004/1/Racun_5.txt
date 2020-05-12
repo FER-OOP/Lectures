@@ -1,0 +1,23 @@
+Račun br. 672391
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Utičnica šuko i sklopka, obična, IP54, na oprugu, nadžbukna                           68.3    2    136.60     34.15
+EUTRAC Ovjes za 3-fazne šine, 60cm, bb                                               187.2    7   1310.40    327.60
+Punto-A PAR16 Spot GU10 50W IP20 zakretna crna                                       33.11   24    794.64    198.66
+Nazidni okvir bez vrata za Modul 2000 | 2A-7 | dubina 180mm                         863.06   23  19850.38   4962.60
+Audio vanjski panel, 52 tipke, sa PTT otvorom                                         4690    1   4690.00   1172.50
+Dvostruko tipkalo, zeleno/crveno, 230V                                               168.8    1    168.80     42.20
+Marra LED traka 14,4W/m 3000K 860lm/m, dimabilna, IP68                              364.61    4   1458.44    364.61
+Jakna s kapuljačom -L-                                                              383.49    5   1917.45    479.36
+Optički prespojni kabel duplex, LC/LC, 9/125µm OS2, 1.0m                             81.52   26   2119.52    529.88
+Svjetleće tipkalo s plosnatom tipkom, žuto                                           28.62   19    543.78    135.95
+Kabel LiYCY-TP 4x2x0,5                                                             1397.57   30  41927.10  10481.77
+
+                                                                                                         ----------
+UKUPNO                                                                                                     74917.11
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

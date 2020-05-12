@@ -1,0 +1,14 @@
+Račun br. 417177
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Relej 2 C/O |10A | 230VAC                                                            51.01    9    459.09    114.77
+ENOLA_C OUT WL zidna svj.,okr.,bijele b.,9W LED, 3000K, 35°                        1250.97   22  27521.34   6880.34
+
+                                                                                                         ----------
+UKUPNO                                                                                                     27980.43
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

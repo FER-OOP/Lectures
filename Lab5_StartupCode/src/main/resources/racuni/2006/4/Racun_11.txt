@@ -1,0 +1,21 @@
+Račun br. 321559
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+EUTRAC spojnica šina, prolazna, srebrne boje                                        123.34   28   3453.52    863.38
+Marra LED traka 4,8W/m 60LEDs/m crvena 24VDC IP20                                   202.24   13   2629.12    657.28
+AIXLIGHT PRO II okr.FRAME ugradno kućište, srebrne boje                             437.43    3   1312.29    328.07
+Vodotijesna svjetiljka DEVA PC 2x24W ECG                                            260.47   14   3646.58    911.65
+Nadgradna svjetiljka SARH 200 T8 1/36W ECG sjajni raster                            578.96    2   1157.92    289.48
+Valo-R/A2 LED 45W 3000K 2950lm, IP20, crne boje                                     795.63   25  19890.75   4972.69
+Podnožje N voda, 160A, mostić 1.5-70mm2 (obostrano),na ploču                         96.87    2    193.74     48.44
+Tarifni prekidač s podešavanjem na 50A i 63A, 3-polni                               483.19    8   3865.52    966.38
+Aluminijski profil MFR 2m                                                           219.82    4    879.28    219.82
+
+                                                                                                         ----------
+UKUPNO                                                                                                    37028.723
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

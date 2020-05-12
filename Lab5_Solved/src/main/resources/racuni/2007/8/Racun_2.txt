@@ -1,0 +1,18 @@
+Račun br. 1073851
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Matematičke formule (DE)                                                              9841    8  78728.00  19682.00
+Minijaturni relej, 4C/O, 6A, 24VDC, serije PT                                        32.52   20    650.40    162.60
+LED traka 86 RGB UWW Ra=90+ 10,7W/m, 782lm/m, 24VDC,IP44                           1393.45   26  36229.70   9057.42
+Grebenasta sklopka u kućištu,0-1/2P/20A,na vrata,za grijanje                        164.09   29   4758.61   1189.65
+Tel. LSA letvica za uzemljenje 2/38, mont. na okruglu šipku                          55.39   17    941.63    235.41
+Relej 3 C/O |10A | 220VDC                                                            77.32   27   2087.64    521.91
+
+                                                                                                         ----------
+UKUPNO                                                                                                    123395.98
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

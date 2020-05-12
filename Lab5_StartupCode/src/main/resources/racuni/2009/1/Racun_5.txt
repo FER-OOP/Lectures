@@ -1,0 +1,17 @@
+Račun br. 766686
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+KALU TRACK QPAR111 svjetiljka, crna, uklj. 3-f adapter                              500.12    2   1000.24    250.06
+LED traka 115 CWRa=90+, 26,5W/m, 2430lm/m, 24VDC,IP44, l=5m                        1828.91   30  54867.30  13716.83
+Shunt 60mV, 600A                                                                      4398   25 109950.00  27487.50
+PURI 3 stropna svj., mat crna b., GU10, max. 3x50W                                  593.89   16   9502.24   2375.56
+Kabel JE-LiYCY 24x2x0,5 Bd Si, sivi                                                  10000    8  80000.00  20000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    255319.77
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

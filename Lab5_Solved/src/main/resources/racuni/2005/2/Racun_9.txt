@@ -1,0 +1,26 @@
+Račun br. 482985
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LED traka Flexstrip 48 hladne bijele b. IP43 L-5M                                  1130.94   29  32797.26   8199.31
+9G01/BL/E, LED BALL žarulja 0,5w E27 230v, plave boje                                16.05   13    208.65     52.16
+Označne pločice '41-50', Dekafix DY5 (sadrži 50 oznaka)                               8.45   21    177.45     44.36
+BIG THEO CEILING ES111str.svj.kvadr.bij.GU10,max.75W                                750.35   20  15007.00   3751.75
+Sklopnik 3P | 4kW (10A) [AC3] | 24V AC | + 1N/C (ugrađen)                           131.55   10   1315.50    328.88
+Zaštitni prekidač AMPARO 6kA, B 16A, 1-polni                                         19.75   22    434.50    108.62
+Spojnica (ravna) M40, siva (pak. 25 kom.)                                           457.89   23  10531.47   2632.87
+Ugradna svjetiljka SE-ID PAR V2 2x14W, T5,ECG, bijela                               535.37   22  11778.14   2944.53
+Panik svjetiljka KW FLUO 8W, CPS sustav, MIX mod,zidna                             1133.73   23  26075.79   6518.95
+Kompaktni prekidač snage tip A, 4P, 50kA, 125A                                     2540.28   28  71127.84  17781.96
+FID sklopka 25-4-003/AC, 6kA                                                        248.91   14   3484.74    871.18
+GIOTTO'S nosač za uže, kratki, 6cm, 2 kom./Set                                       99.51    8    796.08    199.02
+Plafonjera MALLE LED 19W 1750lm/830 ECG sa senzorom, bijela                         877.68   30  26330.40   6582.60
+Završna pločica za sabrinice BS990103-- i BS990104--                                 10.94   21    229.74     57.44
+
+                                                                                                         ----------
+UKUPNO                                                                                                    200294.55
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

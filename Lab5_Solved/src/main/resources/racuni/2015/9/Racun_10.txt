@@ -1,0 +1,21 @@
+Račun br. 702936
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Okvir za prekidač MO1 4-pol 1600A horiz., 4 pom konektora                          9534.41   20 190688.20  47672.05
+Bimetalni relej za sklopnike vel. 0 | 2,80 - 4,00A                                  191.26   20   3825.20    956.30
+Prednja ploča, čelična, slijepa, 3B12                                                 4160    7  29120.00   7280.00
+Halogena žarulja, grlo GU5,3, 50W, 12°                                                2.87   12     34.44      8.61
+N/Ž inst. razdj. 3A-28, 9-redni, 297 ŠM, 1380x810x250mm                            3749.27   20  74985.40  18746.35
+Prednja ploča elektroničke sklopke za rolete, antracit                                2103   25  52575.00  13143.75
+Maskirni razdjelnik 1 širina brojila/ 24 MV                                           4180    2   8360.00   2090.00
+Pokrov za ARROW BLUE VELIČINA 00                                                      4821    2   9642.00   2410.50
+Bezhal. kabel poboljšanih svoj.za sl. požara N2XH-J 4x1,5re                          10000    5  50000.00  12500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    419230.25
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

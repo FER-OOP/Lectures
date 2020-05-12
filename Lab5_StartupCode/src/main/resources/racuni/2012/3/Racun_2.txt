@@ -1,0 +1,27 @@
+Račun br. 653630
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LED MR16 50 DIM 8W 12V 36° 840 621lm 1430cd GU5.3 25000h                            149.91   11   1649.01    412.25
+Svjetlosna signalizacija E 10 (2W), umetak, biserno bijela                            2120   12  25440.00   6360.00
+Kompaktni prekidač snage tip A, 4P, 50kA, 500A                                     5518.07   21 115879.47  28969.87
+"Natpisna pločica za umetanje fi=28mm, prozirna, ""AUF"""                             3.09   27     83.43     20.86
+Rastavna pruga vel.2, 1-polni isklop, sistem 185mm, V-stez.                           4823    4  19292.00   4823.00
+Maskirni razdj. 1M-24, 8-redni, 104 ŠM,1105x330x200mm(VxŠxD)                       2096.63    4   8386.52   2096.63
+Vodič (N)YM-J (PGP) 3x4mm2, sa zašt. vodičem, svij.-sivi                             10000   10 100000.00  25000.00
+N stezaljka 63A, montaža na ploču ili DIN nosač                                      59.93   10    599.30    149.82
+Industrijska svj. HB380 LED 15600lm,123W,120°,6000K,RAL9006                         6807.4    8  54459.20  13614.80
+"Zakretni okvir 19"", 37U za DS-/DSZ-ormare 42U, širine 800mm"                     1520.31   20  30406.20   7601.55
+Podnožje, bočne stranice, par, za kom. ormare dubine 1200mm                          340.2    4   1360.80    340.20
+Okvir 4M line, srebrni                                                               51.11   10    511.10    127.78
+Otto-I-Q/A2 35W G8,5, 230V, IP20, bijele boje                                       161.18    5    805.90    201.48
+Lily-R LED 30W 3000K 2300lm, IP20, aluminij                                         431.01    8   3448.08    862.02
+LED Roll 230V 4,8W/m, 4000K, 310lm/m, PVC, IP65, 100m                                44.43   30   1332.90    333.23
+
+                                                                                                         ----------
+UKUPNO                                                                                                    363653.94
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

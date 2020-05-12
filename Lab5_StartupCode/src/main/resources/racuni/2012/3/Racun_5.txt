@@ -1,0 +1,25 @@
+Račun br. 226245
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Produžetak za 1-faznu 3-f šinu, crna b., električni                                   37.5   16    600.00    150.00
+Ugradna svjetiljka SELENA LED 29W M600 ED 2800lm/830 MAT,bb                         800.75   30  24022.50   6005.63
+Halogena žarulja QT14,20W/C, G9 ECO                                                  25.13   11    276.43     69.11
+NV rastavna pruga vel.00|160A, 3P, M8, sustav 60mm                                  591.25   18  10642.50   2660.63
+Wago kratkospojna stezaljka s polugama, 5 x (0.2-4)mm²                                3.83   12     45.96     11.49
+Pako-Q/A2 LED 4x1W 6000K, dimabilna, 350mA, IP20, aluminij                           96.98   23   2230.54    557.64
+Proširenje sa accu i punjačem za USMLT 480V / 2 x 40 x 9 Ah                       24727.24   19 469817.56 117454.39
+Savitljiva cijev (lagano), M40, 320N,kolut 25m,svijetlo-siva                        572.29   18  10301.22   2575.30
+5 dodatnih tipki za SMART Monitor, SimpleBus                                        255.44   16   4087.04   1021.76
+Telekomunikacijski kabel J-Y(ST)Y 2x2x0,8mm2                                         295.5   18   5319.00   1329.75
+"Oznaka vodiča ""4"" 2,5-6,0mm "                                                      2303    3   6909.00   1727.25
+NV podnožje, vel.00, 1P, M8/mostić                                                    48.7   12    584.40    146.10
+P/Ž inst. razdj. 2U-39,13-redni,273ŠM,1885x590x250mm(VxŠxD)                        4692.17    2   9384.34   2346.08
+
+                                                                                                         ----------
+UKUPNO                                                                                                    544220.44
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,14 @@
+Račun br. 268998
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+FLAC BEAM LED spot, sive boje, DLMi modul 2000lm, 3000K                            2184.14   11  24025.54   6006.38
+LED RETROFIT RL-PAR16 50 5W 230V 36° 827-818 350lm 990cdGU10                         89.08   19   1692.52    423.13
+
+                                                                                                         ----------
+UKUPNO                                                                                                    25718.059
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

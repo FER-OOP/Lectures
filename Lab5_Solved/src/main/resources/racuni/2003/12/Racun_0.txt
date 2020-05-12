@@ -1,0 +1,32 @@
+Račun br. 354141
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+KARDAMOD SURFACE ROUND ES111 SINGLE, bijela GU10 max.75W                            813.03   15  12195.45   3048.86
+Kontakt za vrata/prozor, bijeli                                                     129.26    3    387.78     96.94
+WAVE PENDANT ovjesna svjetiljka, 9W, 3000K,sa rozetom,mesing                       1808.71   10  18087.10   4521.77
+Savitljiva cijev (srednje), M25, 750N, predožičena sa 5x2.5                        2481.24    9  22331.16   5582.79
+Bezhalogeni kabel s el. funkc. do30 Min. (N)HXCH3x6re/6E30                           10000   11 110000.00  27500.00
+RC 230i infracrveni senzor pokreta, nazidni, IP54, crni                            1138.52   12  13662.24   3415.56
+Zaštitni prekidač, B karakteristika, 13A, 1-polni, 6kA                               34.71    1     34.71      8.68
+Kompenzacija  LSK 7% 60/10kvar 600x1250x300mm zidni ormar                         24469.42   14 342571.88  85642.97
+Stropni nosač za M48 Area RAL9006                                                   334.38    2    668.76    167.19
+P/Ž inst. razdj. 2U-24,8-redni,168 ŠM,1195x590x180 mm(VxŠxD)                       2700.12   29  78303.48  19575.87
+SENSER LED PANEL nadgradni, 6W, 3000K, četvrtasti, bijele b.                        406.17   12   4874.04   1218.51
+Označne pločice 301-350 (pločica sa 2x od 301-350)                                   16.83   22    370.26     92.57
+TRITON GIMBLE LED 3x1W, mat bb, LED tople bb                                        345.33    6   2071.98    517.99
+Minijaturni relej, 4C/O, 6A, 48VDC, serije PT                                        36.06   27    973.62    243.41
+Prespojni kabel RJ45 STP cat.6a/10GB, LS0H, sivi, 15.0m                             136.51   30   4095.30   1023.82
+Prednji/stražnji pokrov za zaštitu za DW4Hx1…,Š=500mm                                 6018    8  48144.00  12036.00
+Vodič SiF 2,5 crveni                                                                 10000   23 230000.00  57500.00
+Meiva-Q/A2 3x75W G53 AR111, 12V, IP20, aluminij                                     337.07    4   1348.28    337.07
+LED prespojni kabel RJ45 oklop.,500 MHz,Ea,10GB,crveni,0.5m                           37.7    8    301.60     75.40
+"Opt. razdjelnik, 24 niti,LC,9/125µm OS2, izvlačivi,19"",1U"                       1004.04    3   3012.12    753.03
+
+                                                                                                         ----------
+UKUPNO                                                                                                     893433.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

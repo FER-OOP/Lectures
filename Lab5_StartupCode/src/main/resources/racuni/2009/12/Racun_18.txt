@@ -1,0 +1,14 @@
+Račun br. 1092806
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Baterija RPOWER OGiV 12/150Ah, longlife: 10-12 god.                                2622.95    6  15737.70   3934.43
+Ugradna svjetiljka SEO XTP T5 2x54W ECG IP54 M600, bijela                          1126.59   25  28164.75   7041.19
+
+                                                                                                         ----------
+UKUPNO                                                                                                     43902.45
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

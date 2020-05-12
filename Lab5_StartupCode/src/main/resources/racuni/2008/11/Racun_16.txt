@@ -1,0 +1,26 @@
+Račun br. 148420
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Izmjenična (kontrolna) sklopka, umetak, utične stezaljke                             71.35    8    570.80    142.70
+Sklopnička kombinacija promjene smjera 7.5kW (18A)AC3|230VAC                        767.28   20  15345.60   3836.40
+Phos Plus 16 LED 38W 3615lm 4000K ulič.opt.LT-M IP66 RAL9006                       4015.41    5  20077.05   5019.26
+AIXLIGHT PRO ring, mat- bb, aluminij                                                 93.26   22   2051.72    512.93
+Ugradna svjetiljka SERH 2 A8 L2 T5 1x28W, ECG, bijela                               530.56   24  12733.44   3183.36
+LED MR16, 5W, 2700K, 38°                                                             93.26   24   2238.24    559.56
+LED žarulja GU9, 3W, 180lm, 2800K DIMM                                              146.29   11   1609.19    402.30
+Halogena žarulja QR-CBC 51 20W WFL 38° GU 5,3                                        11.79   23    271.17     67.79
+Vodotijesna svjetiljka LINDA PC 2x49W ECG IP65 SC II                                608.13    1    608.13    152.03
+Ugradna svjetiljka SEO XTP T8 4x36W ECG IP54 M625, bijela                          1570.75    5   7853.75   1963.44
+LED G9 žarulja, 2.5W, 2700K, 180°                                                   124.52   18   2241.36    560.34
+Fluokompaktna žarulja TC-SEL11W/827 2G7                                              20.16   29    584.64    146.16
+Panik svjetiljka U8 Autotest LED 3W/3h, ugradna                                    3248.19   22  71460.18  17865.04
+Maria-WL-R LED 6W 3000K 440lm, IP54, antracit                                       377.96   10   3779.60    944.90
+
+                                                                                                         ----------
+UKUPNO                                                                                                    141424.88
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

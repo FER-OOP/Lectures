@@ -1,0 +1,18 @@
+Račun br. 178029
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+N uvodnik, 80A, širine 1 modula                                                      45.12   27   1218.24    304.56
+Sklopnik vel. 00 | 5,5kW (12A) [AC-3] | 24VAC, 50Hz | 1 N/C                         131.76   19   2503.44    625.86
+Prespojni kabel RJ45 cat.5e neoklopljen, PVC, sivi, 15.0m                            51.77   24   1242.48    310.62
+Kabel E-AY2Y-O 4x240SM                                                               10000   23 230000.00  57500.00
+Relej 2 C/O |10A | 24VAC                                                             64.48   24   1547.52    386.88
+"19"" napojna letva sa 8xshuko+prekidač, 1U, kabel 2m, RAL7035"                     308.13   26   8011.38   2002.84
+
+                                                                                                         ----------
+UKUPNO                                                                                                    244523.05
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

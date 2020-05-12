@@ -1,0 +1,28 @@
+Račun br. 822944
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LED SN napajanje 60W/24V IP66                                                       522.54   16   8360.64   2090.16
+Nosač natpisa                                                                         8.37   22    184.14     46.03
+Gumom iz. i oplašten 1-žilni kabel 1,8/3 kV NSGAFöu 35 crni                          10000    9  90000.00  22500.00
+Poliester zidni ormar MINIPOL, 600x500x230mm (VxŠxD)                                1247.8    2   2495.60    623.90
+Sabirnica, 2P, viličasta, 10mm² (63A)|korak 17.8mm| 1m                              151.31   28   4236.68   1059.17
+Nadgradna svjetiljka SAP ECO T8 2x36W CCG, ind, bijela                              466.49   22  10262.78   2565.69
+Podnožje prema dubini ASR/KSR ormara, 600x100mm, AISI304                              4056   26 105456.00  26364.00
+Sklopnik 3P |5.5kW (14A) [AC3] | 230V AC | + 1N/C (ugrađen)                         149.92   11   1649.12    412.28
+Matica M25x1.5, metrička, poliamid                                                    1.06    8      8.48      2.12
+Uzidni okvir s vratima - M3000, 5U-42                                              2594.06   24  62257.44  15564.36
+Nadgradna svjetiljka PRIMO H OPAL T5 2x28W ECG, bijela                              362.34   11   3985.74    996.43
+9821/C/2, 21W 2D 2PIN CW                                                              3.71   23     85.33     21.33
+Kompaktna sabirnica za 1xFID 4P, odv. prenapona 4P, 8 modula                         63.06    9    567.54    141.89
+Okvir za prekidač MO1 4-pol 1600A horiz., 4 pom konektora                          9534.41   10  95344.10  23836.03
+RP print relej, 2C/O, 8A, 12VDC, raster 5mm                                          22.44    3     67.32     16.83
+Elvis-WL-S LED 3W 6000K, IP54, sive boje                                            123.67   27   3339.09    834.77
+
+                                                                                                         ----------
+UKUPNO                                                                                                    388300.03
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

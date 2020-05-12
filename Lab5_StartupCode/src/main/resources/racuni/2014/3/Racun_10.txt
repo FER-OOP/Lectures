@@ -1,0 +1,18 @@
+Račun br. 1053294
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+PMMA pokrov MF ravni  / Opal 2m                                                      100.4   27   2710.80    677.70
+Cilindrični osigurač, 22x58, 40A, gG, 690V AC                                        27.78   14    388.92     97.23
+NV osigurač vel. 2, 160A/400V AC                                                     55.04    3    165.12     41.28
+DIN profil za media razdjelnik                                                        41.3    6    247.80     61.95
+Višežični PVC-om izolirani vodič H07V-R (P/M) 10mm2, plavi                           10000   22 220000.00  55000.00
+Aaron-Q 26W G24q-3, 230V, IP20, brušeni krom                                         37.67    6    226.02     56.50
+
+                                                                                                         ----------
+UKUPNO                                                                                                    223738.66
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

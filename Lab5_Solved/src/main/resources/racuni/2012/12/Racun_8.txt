@@ -1,0 +1,26 @@
+Račun br. 990323
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Dena-R/A2 70W G8,5, 230V, IP20, brušeni krom                                          17.9   20    358.00     89.50
+"Pokrov plosnatog tipkala, crni, oznaka ""Ab"""                                      13.44    3     40.32     10.08
+SAT napajanje za mjerni uređaj sa sklopkom, SZU 24-00                                107.7   26   2800.20    700.05
+LED prespojni kabel RJ45 oklopljen,500 MHz,Ea,10GB,crveni,7m                        108.61    1    108.61     27.15
+Kabel H05VV5-F 7x2,5 sivi                                                            10000   13 130000.00  32500.00
+Daljinski isklopnik za seriju BR, 110-415V AC / 110-230V DC                         261.89   24   6285.36   1571.34
+Kompaktni prekidač snage tip A, 3P/125A/25kA, utični, MC1                          2859.61   16  45753.76  11438.44
+Instalacijski set PlanoSet RQ, crni                                                 293.85   19   5583.15   1395.79
+SERH ECO A2 L2 T5 3x14W EVG M600, bijela b.                                         423.52    5   2117.60    529.40
+Prednja ploča sa zakretnom tipkom za dimer, bijela                                   15.53   18    279.54     69.89
+Kompaktni prekidač snage tip A, 3P, 150kA, 100A                                    1498.96   18  26981.28   6745.32
+L-SE montažna šina MR 2x58 5x1,5mm²                                                 207.72   23   4777.56   1194.39
+Zaštitni prekidač MB 18kA CL 100/4                                                  617.24   23  14196.52   3549.13
+60 hlače, vodo-otporne, sa puno džepova                                             320.04   15   4800.60   1200.15
+
+                                                                                                         ----------
+UKUPNO                                                                                                     244082.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

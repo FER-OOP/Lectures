@@ -1,0 +1,22 @@
+Račun br. 279244
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Levante-S 16 LED 38W 3105lm 3000K asim.,IP66,SKII,RAL9003                          2629.01   29  76241.29  19060.32
+Clara-II-SC LED 2x3W 3000K 2x210lm, IP54, antracit                                  344.67   16   5514.72   1378.68
+3f reflektor VITO DC LED 38W 3200lm/830 ECG 20°, bijele boje                       1470.55   18  26469.90   6617.48
+Kronos-S/A2 LED 2x20W 4000K 2x1600lm, IP20, bijele boje                            1062.75   15  15941.25   3985.31
+FLAT FRAME zidna ugradna svjetiljka Basic, QT 9 20W G4                              151.55   14   2121.70    530.42
+SEDO LED 21 zidna svjetiljka, četvrtasta, satin. st., br.al.                       1433.11    6   8598.66   2149.67
+T-spojnica za 1-f  3-f šina,lijeva, bb                                               87.01    2    174.02     43.51
+Ovjes za svjetiljku CERES LED                                                       245.58   29   7121.82   1780.46
+Stropni ovjes za LINUX LIGHT, 10cm, krom                                             187.2    9   1684.80    421.20
+Parabol.širokosnopni odsijač za svjetiljku LINDA 2-36W 160mm                         132.4   11   1456.40    364.10
+
+                                                                                                         ----------
+UKUPNO                                                                                                    145324.55
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,18 @@
+Račun br. 131109
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+GLENOS zavr.pokr. za kutni profil, sive boje                                         31.25   20    625.00    156.25
+Transformator, 1-fazni | 230/012V | 63VA, IP00                                      307.56   26   7996.56   1999.14
+Kabel LiYCY 6x0,5                                                                    10000   13 130000.00  32500.00
+Vrata, metalna, puna za kom. ormare, 42U, širina 800 mm                            1017.21   25  25430.25   6357.56
+LED DMX & PWM Dimer RGB                                                             753.01    2   1506.02    376.51
+Fluokompaktna žarulja TC-S 9W 827 G23 OS                                              19.7    5     98.50     24.63
+
+                                                                                                         ----------
+UKUPNO                                                                                                    165656.33
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

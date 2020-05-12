@@ -1,0 +1,27 @@
+Račun br. 919048
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Redna stezaljka (vijčani priključak) 10mm², crvena                                    7.23   14    101.22     25.31
+Relej za nadzor faza, 230V AC, 1 C/O, 5A                                            302.11   25   7552.75   1888.19
+LED FLOOD LIGHT, crna b., 80W, 5700K, 120°                                         2497.05   19  47443.95  11860.99
+Pinta-Q/A1 50W GU10 MR16, 230V, IP20, bijele boje                                    25.68    8    205.44     51.36
+Mary-R LED 3W 3000K 210lm, dimabilna, 350mA, IP20, bijele b.                         82.95   23   1907.85    476.96
+Relej snage, 1N/O, 16A, 12VDC serije RT, raster 5mm                                  27.39   21    575.19    143.80
+Nadgradna svjetiljka SARH 2 ECO T5 1x54W ECG, bijela                                289.17   19   5494.23   1373.56
+Kabel LiYCY 24x0,34                                                                  10000    2  20000.00   5000.00
+Prespojni kabel RJ45 cat.6 oklop.,s pregibnicama,crveni,0,5m                          9.42   13    122.46     30.61
+Alexa-I-25-R 15W E27, 100-240V, IP54, aluminij                                      782.28    9   7040.52   1760.13
+Poliester ormar 1115x869x320mm (ŠxVxD), 2V,antiplakatni,IP43                       6755.38   27 182395.25  45598.81
+Tipkalo s povratom, visoko, crno                                                     45.25   12    543.00    135.75
+IT METER LINE nap. letva s mj. snage,36xC13+6xC19,eth.,2xsen                       7579.21   29 219797.09  54949.27
+Rastavna stezaljka (vijčani priključak) 0.2 - 4mm², bež                              16.26   12    195.12     48.78
+DIGI-SAT 3000 koaks.75Ohm 1.02/6.6,90dB,kl.A,PVC,bijeli,500m                        179.52   23   4128.96   1032.24
+
+                                                                                                         ----------
+UKUPNO                                                                                                    497503.06
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

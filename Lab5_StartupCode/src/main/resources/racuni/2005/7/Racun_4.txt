@@ -1,0 +1,23 @@
+Račun br. 595606
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Luksomat, bežični                                                                   312.23   19   5932.37   1483.09
+Kada za brojilo, 2 ploče za brojilo u jednom redu, 3-reda                            887.7   11   9764.70   2441.18
+Pinta-Q/A1 50W GU10 MR16, 230V, IP20, bijele boje                                    25.68   17    436.56    109.14
+Priključna stezaljka 6-50mm², okomita, jezičasta                                     17.81    9    160.29     40.07
+Pablo-S LED 3,5W 3000K 230lm, IP20, aluminij                                        278.44   16   4455.04   1113.76
+Svjetiljka za ogledala, DP 118 R7s, krom, max. 60W                                  374.92   19   7123.48   1780.87
+"5-struki okvir ""Fashion"", otp. na grebanje, biserno bijeli"                       75.29   10    752.90    188.23
+NV osigurač vel. 00, 25A/400V AC                                                     19.18    7    134.26     33.57
+ANGOLUX WALL, bijela b., 36 SMD LED, 3000K                                          813.03   17  13821.51   3455.38
+Nadgradna svjetiljka PRIMO M PRISMA 2x28W ECG, bijela                               282.81    5   1414.05    353.51
+Sklopka+LED, 16A, 230VAC/DC, 1 N/O + 1 N/C, montaža na DIN                            91.3    2    182.60     45.65
+
+                                                                                                         ----------
+UKUPNO                                                                                                    44177.766
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,28 @@
+Račun br. 1012006
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Proširenje prazno,bez punjača za USMLT, za 40Ah                                   16773.12   26 436101.09 109025.27
+Sklopnik vel. 2 | 15kW (32A) [AC-3] | 24VAC, 50Hz                                   333.54    7   2334.78    583.70
+Instal. umetak 3-33K komplet 11 IR prednja pl. čelik                                2212.1   23  50878.30  12719.58
+SAT priključnica MO 1M, F konektor, osnovna, 0dB, bijela                             32.67   28    914.76    228.69
+Teretna sklopka, rastavljač (izolator), 63A, 4P                                     161.71   17   2749.07    687.27
+Finožični PVC-om izolirani vodič H07V-K (P/F) 25mm2, smeđi                         1827.67   19  34725.73   8681.43
+Finožični PVC-om izolirani vodič H05V-K (P/F) 1mm2, ž/z                               93.1   23   2141.30    535.33
+Pokrov za svjetleće tipkalo, individualni                                            13.04    4     52.16     13.04
+Kabel H03VV-F (PP/L) 2x0,75mm2, smeđi, 100m kolut                                    10000   18 180000.00  45000.00
+Utični interface relej, XT, 2C/O, 8A, 24VDC, 5mm                                     34.55   15    518.25    129.56
+HORN -T GU10, bijele boje                                                           218.46   24   5243.04   1310.76
+AFDD, series Lisa, C 13 A, 2-pole, 30 mA, A/delayed, 10 kA                         1215.49   16  19447.84   4861.96
+Konektiranje 2x12 ST MM utikača + zašt. za povlačenje                              3152.16   25  78804.00  19701.00
+N/Ž okvir + vrata 4A-39 D=400mm str.ploča+zakr. ručica, IP54                       5660.87   25 141521.75  35380.44
+Set za montažu Minipol ormara širine 250mm na stup                                  214.73   21   4509.33   1127.33
+Elektronska prigušnica ECG QTi 2x14/24/21//39/220-240                               161.96   16   2591.36    647.84
+
+                                                                                                         ----------
+UKUPNO                                                                                                     962532.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

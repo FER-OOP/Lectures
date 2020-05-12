@@ -1,0 +1,24 @@
+Račun br. 1077933
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+EASY 512 AB RC, 24V AC, 4 an. ul., 8 dig. ul., 4 relej. izl.                          3331    2   6662.00   1665.50
+BIMA II svjetiljka za EASYTEC II, srebrne boje                                      687.83   12   8253.96   2063.49
+Poliester kućište 270x270x171mm, IP66, RAL 7035 (sivo)                              421.25   27  11373.75   2843.44
+60027, ONE LIGHT T-SHIRT MEDIUM                                                       49.5   22   1089.00    272.25
+PT podnožje 11-polno za PT3x releje, 10A                                             21.56   17    366.52     91.63
+"Samostojeći kom. ormar DSZ, rastavljiv,800x1970x800,19"", 42U"                    4627.63   14  64786.82  16196.71
+Prirubnica, gumena, univerzalna, slijepa, 130x240x3mm                               355.47   14   4976.58   1244.15
+TS3 spojnica za križanje                                                             21.49   30    644.70    161.18
+Relej 3 C/O |10A | 12VAC                                                             71.95    5    359.75     89.94
+Levante-M 30 LED 71W 6910lm 4000K asim., IP66,SKII,RAL9003                         4644.86    7  32514.02   8128.50
+Zaštitni prekidač, B karakteristika, 13A, 2-polni, 10kA                              80.41   16   1286.56    321.64
+Siltu-R/A1 LED 9x1W 3000K 405lm,dimabilna,350mA,IP20,alu                            136.68   19   2596.92    649.23
+
+                                                                                                         ----------
+UKUPNO                                                                                                    134910.58
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

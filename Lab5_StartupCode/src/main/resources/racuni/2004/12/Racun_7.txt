@@ -1,0 +1,31 @@
+Račun br. 1055792
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+FI-blok 80A, 4-polni, 300mA, S izvedba, Tip A (Puls)                                  4290   11  47190.00  11797.50
+Kompaktni prekidač snage tip A, 4P, 150kA, 80A                                     1812.13   18  32618.34   8154.59
+Postolje za NEW MYRA 1+2 svjetiljke, antracit b.                                    218.46    7   1529.22    382.31
+"Natpisna pločica za umetanje fi=28mm, prozirna, ""BETRIEB"""                         3.09    2      6.18      1.54
+SAT ut. kr. 3-struka,R/CATV/SAT,kl.A,14dB, prog.,bez okvira                         147.77    9   1329.93    332.48
+Vijak M4 30mm                                                                         8.06    5     40.30     10.08
+Otvoreni prekidač, 4P, 55kA, 800A, fiksni, vod. str. priklj.                      17601.45   25 440036.22 110009.05
+Pokrov parapetnog kanala Signa 70/110, RAL 9010                                      70.02   17   1190.34    297.58
+LED pano svj., tople bb                                                             813.03   22  17886.66   4471.67
+Gljivasto tipkalo crveno, deblokada zakretom                                        104.56    9    941.04    235.26
+KVADRA R70M K2 profilna spojnica                                                     29.47   24    707.28    176.82
+Linda Basic LED 1x23W, 4000K, 3403lm, IP65, sive b.,L=1570mm                        668.01   16  10688.16   2672.04
+Napojna letva, 10xshuko, s prenap. zašt., 16A, kabel 1.4m                           168.34   26   4376.84   1094.21
+Aluminijski montažni nosač 5H                                                        31.94   29    926.26    231.57
+Finožični PVC-om izol. vodič H07V-K (P/F) 1,5mm2, zeleni HPV                         10000   11 110000.00  27500.00
+Fluo cijev T8|T26 36W/830 G13                                                         30.4   29    881.60    220.40
+Fluokompaktna žarulja TC-Tel 18W 840 Gx24Q-2                                          24.2   23    556.60    139.15
+LED 85-264V AC, zeleni, za montažu na dno kućišta                                     79.8   15   1197.00    299.25
+Marra LED traka 4,8W/m 60LEDs/m 24VDC plava IP20                                     216.6    4    866.40    216.60
+
+                                                                                                         ----------
+UKUPNO                                                                                                     672968.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

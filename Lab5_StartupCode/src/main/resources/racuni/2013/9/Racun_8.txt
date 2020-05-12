@@ -1,0 +1,20 @@
+Račun br. 462505
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+NEAT pano svj.,50cm produžetak i nosač crne b., krom                                562.63    9   5063.67   1265.92
+Zaštitni prekidač MB 18kA CL 125/3                                                  577.18    4   2308.72    577.18
+Kabel H05VV-F (PP/J) 3x1mm2, svijetlo-sivi, 500m                                     10000    7  70000.00  17500.00
+Priključna kutija, nehrđajući čelik, 200x400x80(VxŠxD),IP66                         1343.8   23  30907.40   7726.85
+Prednja ploča za timer (za EL177030), 15min, bijela                                  71.38   27   1927.26    481.81
+Montažna ploča za Maxipol ormare 1250x500 (VxŠ), poliester                          710.77   19  13504.63   3376.16
+Cilindrični osigurač, 8x31, 25A, gG, 400V AC                                          2.85   24     68.40     17.10
+Nazidno izmjenično tipkalo, sivo, 1 C/O, 10A, IP44                                   61.87   24   1484.88    371.22
+
+                                                                                                         ----------
+UKUPNO                                                                                                    125264.96
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

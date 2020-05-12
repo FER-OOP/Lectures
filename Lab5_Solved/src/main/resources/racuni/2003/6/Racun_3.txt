@@ -1,0 +1,31 @@
+Račun br. 382009
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Majca kratki rukav vel.XXL                                                            9841   18 177138.00  44284.50
+Stropni ovjes za EASYTEC II, 10cm, krom                                             124.52   17   2116.84    529.21
+Pregrada PK kanala                                                                    4866   28 136248.00  34062.00
+SURA svjetiljka, krom                                                               312.23   25   7805.75   1951.44
+Tipka sa simbolom zvona, svjetleća, biserno bijela                                   25.61   18    460.98    115.25
+Kompaktni prekidač snage tip A, 3P/40A/25kA, MC1                                    694.81    3   2084.43    521.11
+Podnožje, pred./zadnji pokrov, Š=800 za DS/DSZ/DSS/DSP                               78.85   26   2050.10    512.52
+LED-napajanje, 8VA, 350 mA                                                          124.69   26   3241.94    810.48
+Univer.opt.kabel A/I-DQ(ZN)BH 24x50/125µm OM2, LS0H-3, nm.                         1349.84   14  18897.76   4724.44
+Medes-III-S/A2 LED 42W 3000K 3150lm, IP20, crne boje                                762.34   11   8385.74   2096.44
+Pokrov priključaka rastavne pruge za sustav 185mm, vel.1-3                           72.06   22   1585.32    396.33
+Minitrafo, 12V, 60VA                                                                 94.11   23   2164.53    541.13
+"Držač 19"" profila za 600mm asimetrična montaža"                                   231.01   12   2772.12    693.03
+Smith-II-R LED 9W 3000K 350lm, IP54, bijele boje                                    417.66    1    417.66    104.42
+Nadgradna downl. svjetiljka ARM 291 2x18W TC-DEL IP20 bijela                        300.34   24   7208.16   1802.04
+7102LG/W, G9 LED 2w WW 230v                                                          43.92   28   1229.76    307.44
+Aluminijski profil LBS, L=2000mm,  Ø-29,9mm                                         159.16   12   1909.92    477.48
+LED RETROFIT RL-A60 Dim TW 8W 230V 827-818 806lm mat E27                             96.76   30   2902.80    725.70
+MERIDIAN BOX 2 vanjska svjetiljka, E27, max. 25W, rusty                             625.15   13   8126.95   2031.74
+
+                                                                                                         ----------
+UKUPNO                                                                                                    386746.72
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,18 @@
+Račun br. 825063
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Baterija 4,8V 0,5Ah za svjet. sa vl. napajanjem LED KM i KS                         116.47   27   3144.69    786.17
+D02 prilagodni uložak (prsten) Neozed 25A                                              2.6   17     44.20     11.05
+Jolie-R LED 18W 4000K 1125lm, IP40, bijele boje                                     411.07    3   1233.21    308.30
+L-SE montažna šina MR 3x58 5x1,5mm²                                                 297.24   27   8025.48   2006.37
+Panik svjetiljka ESCAPE 2834 1h/M, bijela                                           582.53   18  10485.54   2621.39
+Matematičke formule (DE)                                                              9841   23 226343.00  56585.75
+
+                                                                                                         ----------
+UKUPNO                                                                                                    249276.12
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

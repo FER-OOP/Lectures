@@ -1,0 +1,20 @@
+Račun br. 814238
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Downlight 95 kučište za MR16 bzw. GU53 ili GU10 grla                                236.42   27   6383.34   1595.83
+E30 ormar za panik centrale LPS MI w. fan V=918 Š=711 D=345                       15145.03    4  60580.12  15145.03
+Dvostruki termostat 0-60°C, 1N/C + 1N/O                                             183.83   25   4595.75   1148.94
+Napajanje 100W za SP1440, VIP                                                      1071.86   18  19293.48   4823.37
+NEW TRIA MR16 Downlight, okrugla, brušeni aluminij                                  174.53    6   1047.18    261.79
+Neizolirana Cu stopica 185mm², M12                                                   29.36   17    499.12    124.78
+LED DMX kontroler DE3, crne boje                                                   10886.4    9  97977.60  24494.40
+Ovjes za 1-faznu 3-f šinu, crna boja, 3m                                             87.01   17   1479.17    369.79
+
+                                                                                                         ----------
+UKUPNO                                                                                                    191855.77
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

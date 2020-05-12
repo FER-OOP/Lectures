@@ -1,0 +1,21 @@
+Račun br. 585061
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"Optički prespojni panel 19"", 1U, uklj. 16 spojnica SC MM"                         841.01   17  14297.17   3574.29
+Kompaktni prekidač snage tip AE, 4P, 50kA, 630A+izvl. modul                       10938.51   25 273462.75  68365.69
+N/Ž inst. razdj. 2A-28, 9-redni, 189 ŠM, 1380x590x250mm                               3249   11  35739.00   8934.75
+Držač kabela,mont. na dno ormara,za AS/KS ormare šir. 600mm                         142.08   13   1847.04    461.76
+Utičnica s prenaponskom zaštitom (2,5kA), umetak, bijela                           1108.94    4   4435.76   1108.94
+BIG THEO UP-DOWN OUT, ES111, srebrne boje                                           788.36   21  16555.56   4138.89
+LED AR111, crvene b., 19,5W, 140°, 2700                                             562.63   22  12377.86   3094.47
+Prozirni kabel 3x0,75mm2, duljine 2m                                                 41.42   11    455.62    113.90
+NV rastavna sklopka vel.3|630A, 3P, M12, na montažnu ploču                         1392.35    6   8354.10   2088.52
+
+                                                                                                         ----------
+UKUPNO                                                                                                    367524.84
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

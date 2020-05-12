@@ -1,0 +1,23 @@
+Račun br. 785016
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+DASAR T5-21 podni profil, T5 21W G5                                                2809.97    5  14049.85   3512.46
+Ind.svj.ARKTUR SQUARE LED 113W 12000lm/765 ECG IP65 110°                           2733.37   20  54667.40  13666.85
+Linda LED Transparent 2x30W, 4000K, 8111lm, IP65                                    1425.4   26  37060.40   9265.10
+AIXLIGHT PENDANT SYSTEM 1kom QRB Modul, srebrne boje                                500.12   10   5001.20   1250.30
+Potporni izolator, 35x40mm, 2xM6, 5kN                                                14.14   18    254.52     63.63
+Signalni fleksibilni kabel YSLY-JZ 3x1 sivi                                         429.08    2    858.16    214.54
+3-fazna kutna spojnica, desno, siva                                                  65.04   30   1951.20    487.80
+EUTRAC Flexi-spojnica,siva_                                                         437.43   30  13122.90   3280.72
+Tris-II-R LED 3x1W 3000K 135lm,dimabilna,350mA,IP20,aluminij                        109.99   23   2529.77    632.44
+Sitra 360 WL zidna svjetiljka, antracit, GX53, max. 9W                              500.12   19   9502.28   2375.57
+Optički završetak ST, 62,5/125µm OM1, 2.0m (4 kom.)                                  67.26   28   1883.28    470.82
+
+                                                                                                         ----------
+UKUPNO                                                                                                    140880.97
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

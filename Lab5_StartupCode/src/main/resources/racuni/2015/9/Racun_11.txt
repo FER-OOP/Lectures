@@ -1,0 +1,24 @@
+Račun br. 580820
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zaštitni prekidač, C karakteristika, 4A, 1-polni, 6kA                                39.79   16    636.64    159.16
+Podnaponski isklopnik za MC4, 24V DC                                                686.95   29  19921.55   4980.39
+"19"" napojna letva sa 7xshuko+prekidač, PVC, 1.25U, kabel 2m"                      266.84   20   5336.80   1334.20
+AIXLIGHT KARDAFRAME 4, GU10, u nizu                                                 938.06   27  25327.62   6331.90
+Industrijska  svjetiljka CERES 1x140W,LED,17200lm/657                              3935.64   20  78712.80  19678.20
+KALU ugradna svjetiljka, 2 Spot, 2xES111, max. 2x50W,br. al.                        813.03   23  18699.69   4674.92
+KALOS ASL ulič.optika 30LED,4000K 70W,antracit, 4 kraka                            5145.13   12  61741.56  15435.39
+EURO SPOT LED SMALL, 9W COB LED, 3000K, 36°, crne boje                              750.35   11   8253.85   2063.46
+Ormar plast.1000x1250x312,krov protiv kiše,dno otv.,2 vrata                        6634.96   29 192413.84  48103.46
+Sklopka MO 1M 16A križna bez tipke, na vijak                                         31.73   23    729.79    182.45
+"2-struki okvir ""Fashion"", biserno bijeli, IP44"                                   76.75   26   1995.50    498.88
+Aura 2 LED 11W, 4000K, 1350lm, IP43                                                 542.82    8   4342.56   1085.64
+
+                                                                                                         ----------
+UKUPNO                                                                                                     418112.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

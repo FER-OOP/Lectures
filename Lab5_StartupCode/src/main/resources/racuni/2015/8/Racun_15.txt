@@ -1,0 +1,28 @@
+Račun br. 713024
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Serisjki ormar AS, 2-vrata, 2000x1600x400 (VxŠxD), RAL 7035                        9165.31    6  54991.86  13747.96
+Držač za cilindrične osigurače 22 x 58 | 3P + N | 100A/690V                         595.37   30  17861.10   4465.27
+Prespojni kabel RJ45 cat.5e neoklopljen, PVC, sivi, 20.0m                            69.77   22   1534.94    383.73
+PlanoCentro 300, senzor prisutnosti, stropni, crni                                  3959.1   21  83141.10  20785.28
+Energetski kabel 0,6/1kV PP00 (NYY-O)Z 7x1,5re crni                                  10000   25 250000.00  62500.00
+SAT teleskopski stup, d=4m, Ø35/30mm, s kapom, poc. č. 1.5mm                        222.93   10   2229.30    557.32
+41012/B/R, kutna spojnica, desno, crne boje                                          26.52   21    556.92    139.23
+Motorna zaštitna sklopka, 3-polna | 1.80 - 2.50A, vel.S00                           205.37    4    821.48    205.37
+HDMI 1.4 kabel, 2xHDMI19 tipA muški, pozlaćeni kontakti, 2m                          48.54   19    922.26    230.57
+Kabel H05VV-F (PP/J) 3x1,5mm2, smeđi, 100m                                           10000    1  10000.00   2500.00
+AIXLIGHT R2 DUO,HQI111,zaobljena,bi.b,G12,2x70W,bez odsijača                       2809.97   22  61819.34  15454.84
+RC 230i infracrveni senzor pokreta, nazidni, IP54,inox efekt                       1290.73    9  11616.57   2904.14
+Signalni fleksibilni kabel YSLY-OZ 5x0,75 sivi                                       10000   23 230000.00  57500.00
+GLENOS profil 200, 2m, bijele boje                                                  624.64   26  16240.64   4060.16
+N/Ž okvir + vrata 2A-42 D=400mm str.ploča+zakr. ručica, IP54                       4789.43   18  86209.74  21552.44
+NEW TRIA DLMI ROUND Downlight, srebrne boje, 4000K, 60°                            1433.11   19  27229.09   6807.27
+
+                                                                                                         ----------
+UKUPNO                                                                                                     855174.3
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

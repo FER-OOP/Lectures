@@ -1,0 +1,19 @@
+Račun br. 900886
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Prijemnik za kontrolu roleta                                                        437.43   28  12248.04   3062.01
+Kabel za gradilišta XYMM-J 5x2,5 K35 / 50m, žuti                                     10000    6  60000.00  15000.00
+Strujni trafo, 400/5A, 30X10                                                        101.91   25   2547.75    636.94
+Stezaljka glavnog voda (za Al i Cu), 1P,2x25mm²|2x16mm²,siva                         21.33    1     21.33      5.33
+LED utični modul, crveni, 110-230V AC, za S-Releje Serije 4                           8.48   12    101.76     25.44
+Plano Square LED Plafo, 22W, 4000K, 1656lm, IP40, sive boje                          425.1   23   9777.30   2444.32
+"Označne pločice ""PRAZNE"" Dekafix DB10/5 (sadrži 10 oznaka)"                        1.94   17     32.98      8.24
+
+                                                                                                         ----------
+UKUPNO                                                                                                     84729.15
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

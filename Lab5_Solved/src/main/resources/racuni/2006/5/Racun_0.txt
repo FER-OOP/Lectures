@@ -1,0 +1,19 @@
+Račun br. 659477
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"19"" čelični slijepi pokrov, 3U, RAL 7035"                                          31.03    4    124.12     31.03
+LED MEGAMAN FILAMENT VINTAGE E27, ST58, 3W, 2200K, 210lm,DIM                        193.05    4    772.20    193.05
+Nadgradna downlight svjetiljka ARM 292 1x13W CCG TC-D,bijela                        212.53   15   3187.95    796.99
+Samonarezni vijak 3.9x16mm, križni, s ravnom glavom                                  24.72    2     49.44     12.36
+Tipka MO 1M sa simbolom zvona i indikacijom, crna                                     8.28   24    198.72     49.68
+Priključne stezaljke za pruge vel. 00, priklj. bez bušenja                           20.47   16    327.52     81.88
+Ilma-R/A1 LED 8W 3000K 525lm, IP65, aluminij                                        563.48    1    563.48    140.87
+
+                                                                                                         ----------
+UKUPNO                                                                                                      5223.43
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

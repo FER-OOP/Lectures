@@ -1,0 +1,18 @@
+Račun br. 102801
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Majica Store, ženska, kratkih rukava -small-                                        301.79    6   1810.74    452.68
+CRYSTAL VIII Downlight svjetiljka                                                   280.98    8   2247.84    561.96
+Plaza-I-S LED 3W 3000K, IP54, sive boje                                             231.98   16   3711.68    927.92
+Stezaljka Al-Cu, plava, 50mm2                                                        42.98   15    644.70    161.18
+FID sklopka 25-2-03/AC, 6kA                                                         191.37   30   5741.10   1435.27
+"Označne pločice ""PRAZNE"" Dekafix DY10/6.5 (sadrži 10 oznaka)"                      2.19    9     19.71      4.93
+
+                                                                                                         ----------
+UKUPNO                                                                                                     14175.77
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

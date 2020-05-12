@@ -1,0 +1,15 @@
+Račun br. 956052
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Finožični PVC-om izolirani vodič H07V-K (P/F) 2,5mm2,t-plavi                        195.31   24   4687.44   1171.86
+Završni poklopac TBR okrugli sa otvorom                                              51.19   10    511.90    127.97
+ARROW R rastavna pruga za D02 osigurače, 3P/25A, sustav 60mm                        301.94   16   4831.04   1207.76
+
+                                                                                                         ----------
+UKUPNO                                                                                                     10030.38
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

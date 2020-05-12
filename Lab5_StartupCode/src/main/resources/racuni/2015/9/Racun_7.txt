@@ -1,0 +1,26 @@
+Račun br. 138379
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Set za uzidnu montažu čitača I, nehrđajuči čelik                                   2428.47    7  16999.29   4249.82
+THEO WALL OUT zidna svjetiljka, GU10, max. 35W,četvrtasta,sb                        437.43   27  11810.61   2952.65
+FLAT FRAME zidna ugradna svjetiljka Slat, QT 9 20W G4                               143.65    7   1005.55    251.39
+Perforirana vrata s bravicom, za DW ormare 12U, Š=600                                275.9   15   4138.50   1034.63
+Podnožje samostoječeg ormara 800x500x200mm                                         1247.53   23  28693.19   7173.30
+Derek-Q LED 5W 4500K 310lm, IP53, sive boje                                         198.86    4    795.44    198.86
+PlanoCentro KNX, senzor prisutnosti, stropni, crni                                 2832.23    1   2832.23    708.06
+Kućni energ. razdj.,1-redni,za 22 modula,RAL9003,rav. vrata                         613.52   30  18405.60   4601.40
+Krovna kuka FP 6/45/140, nehrđajući čelik, TÜV                                       93.13   25   2328.25    582.06
+Transformator, 1-fazni | 400/024V | 1000VA, IP00                                   1266.78   21  26602.38   6650.60
+Stubišni automat TIMON | 0.5-30min, 16A                                             213.02   28   5964.56   1491.14
+Ugradni okvir za MO2, 3P, -2000A, vodoravne str. priklj.                           8160.33   25 204008.25  51002.06
+Ugradna svj. SELENA OP LED ECO 24W M600 2600lm/830 ECG,bb                           654.47    9   5890.23   1472.56
+PATH KIT - 2 pokrova + montažni vijci antracit                                      307.63   27   8306.01   2076.50
+
+                                                                                                         ----------
+UKUPNO                                                                                                     337780.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

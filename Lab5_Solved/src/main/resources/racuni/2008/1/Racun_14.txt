@@ -1,0 +1,31 @@
+Račun br. 806708
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Priključna kutija, čelik, 150x300x80 (VxŠxD), IP66, RAL7035                         194.72   25   4868.00   1217.00
+Izmjenjivač 24V DC/ 230VAC 180W sa šuko utičnicom                                   960.91   26  24983.66   6245.92
+Kabel YSLYQY-JZ 5x 2,5 prozirni                                                      10000   27 270000.00  67500.00
+Ampermetar, 72x72mm, AC, za strujni mjerni trafo …/5A                                99.33    7    695.31    173.83
+Kabel YSLYQY-JZ 34x 1,5 prozirni                                                     10000   15 150000.00  37500.00
+LED Panel Round 115 6W, 420lm, 4200K, dim., bijele b.                                380.7   22   8375.40   2093.85
+"19"" izvlačiva polica, maks. 30 kg tereta, dubine 650mm, 1U"                       437.03   28  12236.84   3059.21
+Finožični PVC-om izolirani vodič H07V-K (P/F) 6mm2, naran.                           455.4   10   4554.00   1138.50
+Pomoćni kontakt za sklopnike vel.0-12, 1N/C, prednja montaža                         14.31   13    186.03     46.51
+Tipka MO 2M sa indikacijom, bijela                                                    7.81    7     54.67     13.67
+Nazidna križna sklopka, bijela, 10A, IP44, utične stezaljke                           2102    1   2102.00    525.50
+Fleks. kabel SF/UTP 4x2xAWG26,cat.5e,200MHz,LS0H,sivi                               544.72   13   7081.36   1770.34
+LED RETROFIT RAL2 60 DIM 9W 230V 827 450lm opal S14S 20000h                         163.43   28   4576.04   1144.01
+Halogena žarulja HALOLUX 64544 A ES 57W E27, bistra                                  17.84    9    160.56     40.14
+Maskirni razdjelnik 2 širina brojila/ 39 MV                                           4180    4  16720.00   4180.00
+Izolir traka, plava, 15mm x 10m - COROPLAST                                           5.99   27    161.73     40.43
+MINI ALU TRACK LED SPOT 1W, tople bb LED, krom kućište                              374.92    3   1124.76    281.19
+FLEXLED ROLL 3D 24V, 1m, 5000K                                                      312.23    6   1873.38    468.35
+Nadgradna svjetiljka SARH 2 ECO T5 2x35W ECG, bijela                                391.56    1    391.56     97.89
+
+                                                                                                         ----------
+UKUPNO                                                                                                    510145.25
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

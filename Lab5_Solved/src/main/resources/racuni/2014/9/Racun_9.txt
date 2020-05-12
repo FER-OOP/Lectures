@@ -1,0 +1,14 @@
+Račun br. 559289
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Transformator, 1-fazni | 400/024V | 35VA, IP00                                      136.15   17   2314.55    578.64
+FORCHINI, ovj.svj., PD-2, okrugla, cb/sb, E27, max. 40W                             875.55   20  17511.00   4377.75
+
+                                                                                                         ----------
+UKUPNO                                                                                                     19825.55
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,31 @@
+Račun br. 949304
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+1-f. HV Set, 2x1m, crne boje                                                       1125.94   30  33778.20   8444.55
+COLOR CONTROL zidni panel, ugr./ngr. montaža, 12V/24V                               562.63    8   4501.04   1125.26
+Grebenasta sklopka, siva, 0-1/3P/32A, na DIN nosač                                   296.3    1    296.30     74.07
+Sklopka 2polna IP54 16A na vijak n/ž                                                 62.52    2    125.04     31.26
+Bezhalogeni kabel s el. funkc. do90 Min. (N)HXH-J4x35rmE90                        20112.48   14 281574.72  70393.68
+IP44 n/ž kućište, sa zaključavanjem, 90x90x90mm, RAL7035                            432.86    9   3895.74    973.93
+3f reflektor VITO DC LED 38W 3200lm/830 ECG 40°, crne boje                         1470.55   13  19117.15   4779.29
+Teretna sklopka, 4P, 63A                                                            656.36   15   9845.40   2461.35
+Optički prespojni kabel duplex, LC/SC, 62,5/125µm OM1, 2m                            61.48   15    922.20    230.55
+Zaštita kabela FW (2 kom.)                                                           41.91   22    922.02    230.51
+Fluokompaktna žarulja TC-T 26W 827 Gx24D-3                                           46.69   18    840.42    210.10
+Grebenasta sklopka, 0-1/1P/20A, na DIN nosač                                         126.2   15   1893.00    473.25
+Varistor 127-240VAC / 150-250VDC, za sklopnike veličine 00                           28.06    3     84.18     21.05
+Montažna pjena, jednokomponentna, beton-siva, 750ml                                  71.88   19   1365.72    341.43
+Utičnica šuko sa zaš. kon.+pokl+ dječ. zaš. na oprugu naranč                         21.57   21    452.97    113.24
+Prespojni kabel RJ45 cat.5e oklopljen, PVC, žuti, 10.0m                              42.63   22    937.86    234.46
+Završni poklopac profila SPL četvrtasti zatvoreni,sa vijcima                          50.2   29   1455.80    363.95
+Bezhalogeni telekomunikacijski kabel J-H(ST)H 40x2x0,8 sivi                          10000    7  70000.00  17500.00
+Teretna sklopka, 4P, 630A                                                          2774.72   28  77692.16  19423.04
+
+                                                                                                         ----------
+UKUPNO                                                                                                    509699.97
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

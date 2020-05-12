@@ -1,0 +1,33 @@
+Račun br. 303933
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Smith-II-S LED 6W 3000K 400lm, IP54, bijele boje                                    337.07    6   2022.42    505.61
+Rasvjetni stupić Jamba-PL2, E27, 20W, IP54, siva                                    450.78   30  13523.40   3380.85
+Ella-Q 2x26W G24q-3, 230V, IP20, aluminij                                            17.74    2     35.48      8.87
+Prespojni kabel RJ45 cat.6 oklopljen,s pregibnicama,plavi,5m                         29.39   21    617.19    154.30
+AIXLIGHT R LONG, QRB111, okr.,sr.b., G53, max. 4x50W                               2497.05   29  72414.45  18103.61
+Spojnica za sabirnice 12x5mm do 20x10mm, 520A, duljina 150mm                        138.48   27   3738.96    934.74
+Nazidni okvir s vratima za Modul 2000 | 2A-28 | dubina 250mm                       1491.45   24  35794.80   8948.70
+"1-struki okvir ""Fashion"", biserno bijeli"                                          7.73   16    123.68     30.92
+MINI ALU TRACK šina, 1metar., krom                                                  124.52   26   3237.52    809.38
+Križna spojnica šina                                                                 28.38    7    198.66     49.66
+Optički prespojni kabel duplex, LC/SC, 50/125µm OM2, 5.0m                           103.79   22   2283.38    570.85
+Montažna šina MR 1x58 5x2,5mm²                                                      131.08   15   1966.20    491.55
+Aaron-S 3x32/42W G24q-4, 230V, IP20, bijele boje                                     99.01    5    495.05    123.76
+Pako-CL-Q/A2 LED 4x1W 6000K, IP20, aluminij                                         237.72   13   3090.36    772.59
+Baterije 18 kom. longlife OGiV 12V/17Ah s kabelima za ož.                          7758.32   19 147408.08  36852.02
+Daljinski isklopnik za MC4, 208-250V AC/DC                                          534.27   27  14425.29   3606.32
+KALU 1 QPAR stropna svj., brušeni alum., ES111, max. 75W                            562.63    7   3938.41    984.60
+Kabel LiYY 7x0,34                                                                    10000    6  60000.00  15000.00
+TC RASTER 336, nadgradna svjetiljka TC-L 3x36W CCG, bb                              938.06    4   3752.24    938.06
+Kompaktni prekidač snage tip AE, 3P, 50kA, 800A                                    8105.35   25 202633.75  50658.44
+Osram elektronski transformator HTM 150 12V, 150VA                                  312.23   21   6556.83   1639.21
+
+                                                                                                         ----------
+UKUPNO                                                                                                     578256.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,31 @@
+Račun br. 978965
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+9R15/W/E, 15W E27 WW R80 1:1 size                                                    10.64    9     95.76     23.94
+LINEA 80M polikarbonatni opalni pokrov L-2969mm                                     384.73   10   3847.30    961.83
+Prespojni kabel RJ45 STP cat.6a/10GB, LS0H, žuti, 3.0m                               43.43    6    260.58     65.15
+Završna pločica za stezaljke IK600002|..04|..06|..10, siva                            2.19   18     39.42      9.86
+Ugradna svjetiljka SERH XTP T8 2x36W ECG M600, bijela                              1503.88    9  13534.92   3383.73
+Sklopka za rolete (zakretna) 2P, 10A, umetak                                        198.87   23   4574.01   1143.50
+Grebenasta sklopka 0-1/2P/32A/1kV DC, na DIN + prod. osovina                        463.68   14   6491.52   1622.88
+Set brtvi za sklopke i utičnice, 2-struki, za IP44                                   12.97   18    233.46     58.36
+LED GU10 žarulja, 7W, SMD LED, 3000K, 36°, dim.                                     153.41    9   1380.69    345.17
+Mikro sklopnik 4NO, 2,2kW, 5A, 24VDC                                                105.47   19   2003.93    500.98
+Tris-I-Q LED 3x1W 3000K 135lm,dimabilna,350mA,IP20,aluminij                          69.27   27   1870.29    467.57
+Pomoćni sklopnik vel.00 | 4P |AC15 6A/230V|230VAC|2N/O+2N/C                         101.65   28   2846.20    711.55
+USB utičnica, dvostruka, 1400mA                                                     508.61    8   4068.88   1017.22
+Arktur2 120W, 17000lm, 4000K, 120°, DALI                                           3640.89   27  98304.02  24576.01
+Bezhalogeni telekomunikacijski kabel J-H(ST)H 6x2x0,6 sivi                           10000    1  10000.00   2500.00
+Perforirana vrata s bravicom, za DW ormare 6U, Š=600                                   222    4    888.00    222.00
+Indikator smetnji SSM11-24V-DC                                                     1144.68   15  17170.20   4292.55
+Tinjalica, bistra, BA9s, 200-250V AC, 0.3W                                           14.31   20    286.20     71.55
+PlanoCentro 201, senzor prisutnosti, stropni, srebrni                              3920.07   23  90161.61  22540.40
+
+                                                                                                         ----------
+UKUPNO                                                                                                     258057.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

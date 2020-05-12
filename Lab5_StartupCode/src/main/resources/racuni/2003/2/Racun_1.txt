@@ -1,0 +1,30 @@
+Račun br. 704040
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+MEDO 40 LED, stropna svjetiljka, bijele boje                                          8570   30 257100.00  64275.00
+Nazidni okvir bez vrata za Modul 2000 | 3A-45 | dubina 250mm                       2146.15   15  32192.25   8048.06
+Nazidni okvir s vratima za Modul 2000 | 2A-33 | dubina 250mm                       1830.11   14  25621.54   6405.38
+Završni poklopac CLU okrugli zatvoreni sa vijcima                                     51.6   14    722.40    180.60
+L-SE sjenilo R12 T5 L2 28/54W perforirano, bijele boje                               67.17    1     67.17     16.79
+Gumena uvodnica za kabel, crne boje 10mm/8mm                                          1.61    3      4.83      1.21
+USB 3.0 A-B mikro kabel, A muški - mikro B muški, crni, 2m                           39.95   14    559.30    139.82
+Podnožje prema dubini AS/KS ormara, 300x100mm, RAL 7022                             102.29   15   1534.35    383.59
+ARROCK GRANITE 40 samost.svj., Granit, E27, max. 15W                               1871.23   30  56136.90  14034.22
+Okvir plitki s vratima i umetkom za KVH, 1-redni,12+2 modula                        259.77   15   3896.55    974.14
+Sklopnik 4P |5.5kW (14A) [AC3] / 25A [AC1] | 230V AC|2NO+2NC                        230.74   25   5768.50   1442.13
+Flat cable 3-pole                                                                     9.21    9     82.89     20.72
+Bočna stranica za trodijelni sistem, 41 modularna visina                              4160    5  20800.00   5200.00
+LIGHT EYE ovj. svjetiljka sa rozetom, ES111, bij./krom                              500.12   12   6001.44   1500.36
+Presence ECO-IR DUAL-C NT, senzor prisutnosti, strop srebrni                       2880.62   19  54731.78  13682.95
+GLENOS kutni profil 2720-200, 2m, aluminij                                          287.23   13   3733.99    933.50
+Montažna ploča 4PB, 890x202x13mm, 5 visinskih jedinica                              253.59   12   3043.08    760.77
+Pokrov priključnih stezaljki, donji, za VC2                                          77.65   27   2096.55    524.14
+
+                                                                                                         ----------
+UKUPNO                                                                                                    474093.56
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

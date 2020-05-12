@@ -1,0 +1,16 @@
+Račun br. 797640
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ampermetar, 72x72mm, 60A DC, direktno                                                 4394   24 105456.00  26364.00
+Pokrov lučne komore za MO1, 3-polni (tvornički ugrađen)                               4970   10  49700.00  12425.00
+GU/GZ 10 TURNO, Downlight, krom                                                     142.23   18   2560.14    640.03
+Prednja ploča, plastična, slijepa, 2B9K                                               4160   13  54080.00  13520.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    211796.14
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,32 @@
+Račun br. 513966
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+AQUADOWN MICRO podna ugradna svjetiljka, 4kom, MR11 20W G4                          437.43   16   6998.88   1749.72
+Priključna kutija, nehrđajući čelik, 150x300x80(VxŠxD),IP66                        1089.74    8   8717.92   2179.48
+Mrežni ispravljač, 1f, taktni, 230V AC/24V DC, 22A pri 50°C                         1725.3    2   3450.60    862.65
+Ugradna svjetiljka SERH 2 A8 L1 T5 1x54W, ECG, bijela                                 8534   19 162146.00  40536.50
+SAT multiswitch 5 IN 16 OUT za quattro LNB,unut. napajanje                         1155.32   23  26572.36   6643.09
+LIPSY 50 M COLOR CONTROL zidna/stropna svj., 55cm, RGB 3000K                       2058.94    9  18530.46   4632.61
+OUT 65 LED DL okrugli Set, 9W, 3000K, 38°, crne boje                                437.43    4   1749.72    437.43
+Prednja ploča za razdjelnike sa kabelskim kanalom, 4G3                                4160    3  12480.00   3120.00
+LED POWER SUPPLY 150W, 24V, IP44, sa zaštitom od dodira                             938.06   23  21575.38   5393.85
+FI-blok 40A, 4-polni, 30mA, Tip A (Puls)                                            835.01   27  22545.27   5636.32
+DALI REP LI/100-240 Repeater                                                       1228.67   12  14744.04   3686.01
+Montažne kopče za LED Strips Outdoor, 10kom.                                         62.51    7    437.57    109.39
+Nosači za montažu TB profila                                                         50.26    5    251.30     62.82
+Bistabilni relej, 24VAC|14VDC, 1 N/O, 10A                                           142.06   10   1420.60    355.15
+Mini Mono senzor pokreta                                                            391.91   13   5094.83   1273.71
+Romy-II-R 2x20W E27, 100-240V, IP20, bijele boje                                     37.67   27   1017.09    254.27
+MD-W200i senzor pokreta, nadgradni, 200°, Ø 12m, bijeli                             833.64   26  21674.64   5418.66
+Relej snage, 1N/O, 16A/165A (potezne struje), 24VDC, 5mm                             49.41    4    197.64     49.41
+LED svjetleća oznaka s 2 priključna vodiča, 12-24V, crvena                            2101   29  60929.00  15232.25
+Lina LED 6W,3000K,345lm,dim.,sa prstenom bijele/crne/sive b.                         99.51   23   2288.73    572.18
+
+                                                                                                         ----------
+UKUPNO                                                                                                    392822.03
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

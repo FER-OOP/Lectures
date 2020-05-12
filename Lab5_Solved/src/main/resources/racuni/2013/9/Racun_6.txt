@@ -1,0 +1,29 @@
+Račun br. 289624
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Prednja ploča za sklopke s bravom EL121900/121930, alu efekt                        233.69   27   6309.63   1577.41
+Industrijska svjetiljka LAMBDA 265/435 250 HIE IP65 uski s.                         1351.7    6   8110.20   2027.55
+Glenos završni pokrov za PROFILE 2020, crne boje, 2 kom                              62.51    2    125.02     31.25
+KC sigurnosna svjetiljka 8W/3h/230VAC taster, strop                                 679.59   10   6795.90   1698.98
+APOLLO šina, 2 kom., 100cm, bb                                                       288.7   27   7794.90   1948.73
+Zaštitni prekidač, D karakteristika, 6A, 1-polni, 10kA                               61.35   24   1472.40    368.10
+EASYLITE SPOT GU10                                                                  562.63    1    562.63    140.66
+Signalni fleksibilni kabel YSLCY-OZ 4x 1 sivi                                        10000   17 170000.00  42500.00
+Fluokompaktna žarulja TC-D 18W, 2700K, 2-Pin                                         43.76   21    918.96    229.74
+Levante-M 16 LED 38W 3750lm 4000K ulič.opt.LT-M,IP66,RAL9006                        3855.2   13  50117.60  12529.40
+SAT kaskadna jedinica za 9 IN 8 OUT pasivna za HSATS5xxKA                          1076.31   20  21526.20   5381.55
+Hector-S/A1 150W Rx7s, 230V, IP20, brušeni krom                                      19.59    9    176.31     44.08
+Kabel YSLYQY-JZ 25x 0,75 prozirni                                                    10000   25 250000.00  62500.00
+Transformator, 1-fazni | 200-500V/230VAC | 150VA                                    986.36   12  11836.32   2959.08
+Svitak K3-07N do K3-22N 400V A_                                                      99.03    5    495.15    123.79
+Aluminijski pokrov LBK i LBKI                                                         51.6   23   1186.80    296.70
+LED prespojni kabel RJ45 oklopljen,500 MHz,Ea,10GB,sivi,7m                          101.42    8    811.36    202.84
+
+                                                                                                         ----------
+UKUPNO                                                                                                     538239.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

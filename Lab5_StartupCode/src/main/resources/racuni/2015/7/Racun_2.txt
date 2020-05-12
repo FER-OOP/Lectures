@@ -1,0 +1,24 @@
+Račun br. 323832
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"VI panik svjetiljka LED 230V za CPS MIXmod; zidna montaža"                        1917.77   26  49862.02  12465.50
+Motorna zaštitna sklopka, 3-polna | 0.45 - 0.63A, vel.S00                           172.77   28   4837.56   1209.39
+LED uzorak 4-kanalni kontroler                                                     1741.82   14  24385.48   6096.37
+Nosači za LED trake OUTDOOR PRO, 10kom                                               40.02    8    320.16     80.04
+Pokrov brave za AS/KS ormare, crni                                                    4067    2   8134.00   2033.50
+Radne cipele broj 40                                                                731.84   28  20491.52   5122.88
+Držač kabela,mont. na dno ormara,za AS/KS ormare šir. 1200mm                        284.31    8   2274.48    568.62
+Podnaponski isklopnik za MC2 i MC3, 24V AC                                          439.05    5   2195.25    548.81
+Nap.stezaljka za 1-f  3-f šina,desna, bb                                             44.94   15    674.10    168.52
+Bistabilni relej, 230VAC, 1 N/O + 1 N/C, 16A, na DIN nosač                            4311    4  17244.00   4311.00
+Zakretna ručica za montažu direktno na MC4 (crvena/žuta)                            396.41   20   7928.20   1982.05
+Kabel LiYCY 3x0,34                                                                  492.84   21  10349.64   2587.41
+
+                                                                                                         ----------
+UKUPNO                                                                                                     148696.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,33 @@
+Račun br. 424424
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+ORION 40 ovjesna svjetiljka,okrugla,staklo bb,E27, max. 60W                         1131.4   23  26022.20   6505.55
+LS-FI (KZS), C/6A/30mA, 3P+N, Tip A, 6kA                                              4281   12  51372.00  12843.00
+Ampermetar, 72x72mm, 25A DC, direktno                                               219.36   15   3290.40    822.60
+L-SE LSK 1.5 1x68W DEEP 8200lm 840 Dali, bijele boje                               1512.17    3   4536.51   1134.13
+Proširenje sa accu, bez punjača za USDD650-1000 240V 9Ah                           9896.14    4  39584.56   9896.14
+DASAR LED četvrtasti podna ugradna svjetiljka,28W,4000K,inox                       2058.94   21  43237.74  10809.43
+Finožični PVC-om izolirani vodič H05V-K (P/F) 1mm2, t-plavi                          10000   14 140000.00  35000.00
+SUPROS CL stropna svjetiljka, 3000lm, 3000K, crne boje                             1250.97   10  12509.70   3127.42
+Motorna zaštitna sklopka, 3-polna | 0.45 - 0.63A, vel.S00                           172.77   13   2246.01    561.50
+Cilindrični osigurač, 10x38, 32A, gG, 400V AC                                         3.82   22     84.04     21.01
+Halogena žarulja QR-LP 111 ECO 60W SP 6° G53                                        124.41   13   1617.33    404.33
+FGL OUTDOOR GU10, bb                                                                249.72    8   1997.76    499.44
+DEKLED Ugradna svjetiljka, tople bijele boje, 1W                                    128.91   15   1933.65    483.41
+PEYOTE POLE 48cm 360° 8x1W LED, 40° 3000K antracit                                 3315.41    5  16577.05   4144.26
+Ugradna svjetiljka SEP ECO T5 4x14W ECG IP54 M600, bijela                           405.83    2    811.66    202.92
+Motorna zaštitna sklopka, 3-polna | 0.45 - 0.63A, vel.S00                           172.77   18   3109.86    777.47
+Halogena žarulja QT-DE ECO 120W R7s 114,2mm                                          36.92   23    849.16    212.29
+Finožični PVC-om izolirani vodič H07V-K (P/F) 70mm2, plavi                         6000.14   26 156003.64  39000.91
+Fabio-R 15W E27, 100-240V, IP20, bijele boje                                         23.82   23    547.86    136.96
+Izolirani kabelski tuljak, crveni, 1.0mm²/8mm                                         0.07   13      0.91      0.23
+LED napajanje 9W, 700mA, okrugli oblik                                              124.52   26   3237.52    809.38
+
+                                                                                                         ----------
+UKUPNO                                                                                                    509569.56
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

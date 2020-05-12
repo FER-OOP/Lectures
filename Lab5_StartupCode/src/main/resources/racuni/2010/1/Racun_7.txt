@@ -1,0 +1,18 @@
+Račun br. 980081
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+UPS Multi Plus 10kVA 9kW                                                          38406.15   281075372.13 268843.03
+Grebenasta sklopka (glavna, žuto/crvena),0-1/3P/125A, na DIN                       1026.65    6   6159.90   1539.98
+Zaštitni prekidač, C karakteristika, 16A, 4-polni, 6KA                              123.03    9   1107.27    276.82
+Okvir 2-struki, antacit                                                              15.62   29    452.98    113.24
+N/Ž okvir + vrata 2A-21 D=250mm str.ploča+zakr. ručica, IP54                       2610.49    9  23494.41   5873.60
+Parcijalna montažna ploča za AS/KS ormare šir. 800mm, 4 reda                         99.37   16   1589.92    397.48
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1108176.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

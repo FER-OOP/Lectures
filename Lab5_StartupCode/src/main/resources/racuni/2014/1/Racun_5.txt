@@ -1,0 +1,22 @@
+Račun br. 946637
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Nadgradna svjetiljka LUCIE 1x28/54W QTI, opal pokrov, eloks.                        720.45   19  13688.55   3422.14
+"Zidni komunikacijski ormar DW Dualbloc, 600x770x515, 19"",15U"                    1367.36   14  19143.04   4785.76
+Elektronska prigušnica ECG QTi 1x18/220-240 dim 1-10V                               297.08    9   2673.72    668.43
+Signalni fleksibilni kabel YSLCY-JZ 5x 0,75 sivi                                   1093.97    4   4375.88   1093.97
+Nosač za 1-faznu visokonap.šinu,ugradni,1kom                                         18.75    3     56.25     14.06
+Pomoćni kontakt (1+1), za bočnu dogradnju                                            66.75   11    734.25    183.56
+Pokrov IP20 MD180i/R, MD180i/T, MD/PD180, bijeli                                     87.04   30   2611.20    652.80
+FID sklopka 40-4-003/A (puls), G izvedba                                            911.43    6   5468.58   1367.15
+Kompaktni prekidač snage tip A, 3P/63A/25kA, utični, MC1                           1555.16   10  15551.60   3887.90
+NEW MYRA WALL LED zidna svj., antracit b., 5W, 3000K, IP55                          938.06    4   3752.24    938.06
+
+                                                                                                         ----------
+UKUPNO                                                                                                     68055.31
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

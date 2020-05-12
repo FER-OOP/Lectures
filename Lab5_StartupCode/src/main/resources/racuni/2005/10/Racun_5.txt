@@ -1,0 +1,25 @@
+Račun br. 699637
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+7838P, OVJES KIT za 7838                                                            146.65    2    293.30     73.32
+AIXLIGHT PRO II FRAMELESS ugr.kuć.,uklj. ugradni kit, sb                            625.15    2   1250.30    312.58
+SHORTBOX TRAFO, krom, za LINUX LIGHT                                                813.03   22  17886.66   4471.67
+Gumeni kabel A07RN-R (Gwuö/DSTL) 35rm, crni                                          10000    5  50000.00  12500.00
+Vodič (N)YM-J (PGP) 10x1,5mm2, sa zašt. vodičem, svij.-sivi                          10000   20 200000.00  50000.00
+IBDN prespojni kabel RJ45 UTP cat.6A, žuti, 7.6m                                      6804   10  68040.00  17010.00
+Transformator, 1-fazni | 230/230V | 2500VA, IP00                                   3243.22   20  64864.40  16216.10
+Transformator, 1-fazni | 230/24V | 200VA, IP00 + osig. sek.                         570.17   14   7982.38   1995.59
+M6 vijci za prazne uvode                                                              1.25   25     31.25      7.81
+Produžetak za LINUX LIGHT, krom                                                     124.52   29   3611.08    902.77
+Podmetač za čašu Schrack                                                              4.48    7     31.36      7.84
+Set za podešavanje montažne ploče po dubini za WSM D=155mm                          565.29   21  11871.09   2967.77
+LED žarulja obl.svijeće 3,5W E14 250lm 2800K                                         76.01   12    912.12    228.03
+
+                                                                                                         ----------
+UKUPNO                                                                                                    426773.97
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,22 @@
+Račun br. 411147
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Spojnica za aluminijski profil sa pokrovom, bij.b.                                   62.51   14    875.14    218.79
+Zaštitni prekidač AMPARO 6kA, C 20A, 3-polni                                         76.11   24   1826.64    456.66
+Ugradna svjetiljka SE-ID ECO L1 T5 2x14W ECG M625, bijela                           511.63   13   6651.19   1662.80
+SAT multiswitch 5 IN 8 OUT za quattro/quad LNB,kask.,10m                           1169.67   21  24563.07   6140.77
+DASAR LED MINI podna ugr.svj., 2W, 3000K, četvrtasta, inox                          875.55   25  21888.75   5472.19
+NA96-SOFTWARE MIDAS-EVO2                                                           9360.69   15 140410.36  35102.59
+Reflektor SET 150W HST E40 IP65 crni asimetrični                                   1077.41   10  10774.10   2693.53
+Daljinski isklopnik 220V DC/230V AC (kao rezervni dio)                             1268.48   28  35517.44   8879.36
+Prespojni kabel RJ45 STP cat.6a/10GB, LS0H, plavi, 5.0m                              58.95    4    235.80     58.95
+Otvoreni prekidač, 3P, 66kA, 1000A, izvl., vod. str. priklj.                      20725.96   13 269437.50  67359.38
+
+                                                                                                         ----------
+UKUPNO                                                                                                     512180.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

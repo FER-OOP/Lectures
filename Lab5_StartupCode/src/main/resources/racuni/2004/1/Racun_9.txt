@@ -1,0 +1,33 @@
+Račun br. 504954
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Gumeni nastavak za plastičnu kapu LKT Ø 70                                           42.51   27   1147.77    286.94
+I-PENDANT PRO LED PANEL PENDULUM 4000K 1295x295mm bijele b.                        1558.31    3   4674.93   1168.73
+EURO SPOT ECG 70, 15°,bijela                                                        938.06   18  16885.08   4221.27
+LED 85-264V AC, crveni, prednja montaža, utične stezaljke                            58.27   18   1048.86    262.21
+Završni poklopac LBKI sa vijcima                                                     87.09   26   2264.34    566.08
+AF S LED 300 reflektor, 8xLED (24W), 5000°K, IP44, inox                            4138.33    2   8276.66   2069.17
+Bezhalogeni kabel s el. funkc. do30 Min. (N)HXH-J3x1,5reE30                          10000    8  80000.00  20000.00
+Nadgradna svjetiljka PRIMO M PRISMA 1x36W CCG                                       233.32   12   2799.84    699.96
+Sabirnica, 3P, viličasta, 10mm² (63A)|korak 17.8mm| 1m                              1191.1   17  20248.70   5062.17
+SAT alat za traženje satelita,set za programiranje,SZU 22-00                        258.31   19   4907.89   1226.97
+Poliester kućište 720x540x201mm, prozirni poklopac,IP66,sivo                       1037.06   25  25926.50   6481.63
+BIMA I svjetiljka, crna, GU10, max. 50W, uklj. Adapter                              343.66   25   8591.50   2147.88
+Okvir 4x2M line, bež                                                                 25.16    3     75.48     18.87
+Utični interface relej, XT, 2C/O, 8A, 230VAC, 5mm                                    48.94   17    831.98    207.99
+Teški gumeni kabel H07RN-F 12x2,5, crni                                            4746.28   16  75940.48  18985.12
+Fleksibilni plosnati kabel za dizalice H07VVH6-F 4x10, crni                          10000   13 130000.00  32500.00
+Sutil-R LED 12W 6000K 827lm, IP40, sive boje                                        172.33   21   3618.93    904.73
+Panik svjetiljka QG FLUO 18W, CPS sustav, MIX, pikto., zidna                       1123.64   21  23596.44   5899.11
+Dingo Small LED  20W, 4500K, 1600lm, dim., bijela                                   490.99   11   5400.89   1350.22
+7902R/W, Bijeli ugradni profil 2m + PC opalni pokrov                                190.58    7   1334.06    333.52
+Kabel EYY-J (PP00-Y) 3x35/16SM/RE                                                    10000   28 280000.00  70000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     697570.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

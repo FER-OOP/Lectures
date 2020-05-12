@@ -1,0 +1,30 @@
+Račun br. 354170
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+SAT utičnica prol. 2x,radio/CATV,5-1.006MHz,7dB,bez okvira                           42.34   21    889.14    222.29
+Ind.svj.ARKTUR SQUARE LED 184W 20000lm/765 ECG IP65 55°                            3387.84    6  20327.04   5081.76
+Priključna stezaljka 95mm² za ARROW jezičastu sabirnicu                              50.81   29   1473.49    368.37
+"19"" vodilica kabela s 5 velikih prstena 70x40, 1U, RAL7035"                        71.13   26   1849.38    462.34
+LED napajanje 240W/24V IP67                                                        2136.22   21  44860.62  11215.16
+PEYOTE POLE 48cm 180° 8x1W LED, 40° 3000K antracit                                 3537.56    5  17687.80   4421.95
+Kompenzacija  LSFC 14% 375/25kvar 800x2110x500mm Samost.orm.                       93548.6   181683874.88 420968.69
+Kada za brojilo, 1 ploča za brojilo u jednom redu, 1-red                            261.89   17   4452.13   1113.03
+Ina-R/A1 LED 12W 3000K 1100lm,dimabilna,700mA,IP20,aluminij                         145.81   24   3499.44    874.86
+Kada za brojilo, 5 ploča za brojilo u jednom redu, 1-red                           1081.29   14  15138.06   3784.51
+SYROS kućište za LINUX LIGHT, srebrne boje                                          249.72   13   3246.36    811.59
+Plafonjera MALLE LED 24W 2200lm/840 ECG, bijela                                     669.79    1    669.79    167.45
+Zaštitni prekidač AMPARO 6kA, C 32A, 1-polni                                         20.96    3     62.88     15.72
+7306LGD/D/38, 5LED 5,8w GU10 DL 38 ° dimabilna 230v                                  66.23   14    927.22    231.81
+LOGICOM krović za P/Ž kućišta, 3 modula                                             777.85    9   7000.65   1750.16
+UPS GENIO MaxiGreen 6kVA/ 5,4kW                                                   21176.06   20 423521.22 105880.31
+Finožični PVC-om izol. vodič H07V-K (P/F) 4mm2, žuti HPV                             10000    3  30000.00   7500.00
+Kabel YSLYQY-JZ 7x 0,75 prozirni                                                     10000   15 150000.00  37500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    2409480.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

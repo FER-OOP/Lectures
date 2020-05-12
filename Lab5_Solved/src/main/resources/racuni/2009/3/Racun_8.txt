@@ -1,0 +1,29 @@
+Račun br. 423150
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Rozeta za 1fazni adapter,srebrna                                                     99.51    6    597.06    149.26
+Zaštitni prekidač AMPARO 6kA, C 50A, 1-polni                                         42.07   19    799.33    199.83
+Fleks. kabel SF/UTP 4x2xAWG26/7, cat.5e, 200MHz, PVC, sivi                          536.56    1    536.56    134.14
+Linijska svj. SERM-LL 112, završni profil,  2x49W, ECG, bb                          599.29   24  14382.96   3595.74
+Bezhalogeni kabel s el. funkc. do30 Min. (N)HXH-J1x70rmE30                           10000   21 210000.00  52500.00
+Minijaturni relej, 4C/O, 6A, 48VDC, serije PT                                        36.06   28   1009.68    252.42
+Priključni set, 10-120mm², s pokrovom, 60mm Compact, 3P/5P                            4832    4  19328.00   4832.00
+INA-F/DL GU10 PAR16 50W, IP20, bijele boje                                           66.23   18   1192.14    298.04
+NEW TRIA II QRB111 SQUARE, uklj. opruge, bijele boje                                531.37   23  12221.51   3055.38
+GLENOS kutni profil 2720-100, 1m, bijele boje                                       187.37    7   1311.59    327.90
+SAT set vijaka 8x80mm+tiple, 12mm, torx TX40, po 4 kom.                              23.01    1     23.01      5.75
+Mehanička blokada za motorni pogon, za MC2 i MC3                                    1465.6    7  10259.20   2564.80
+DisplayPort kabel, DP20 muški/muški, 3m                                             109.44   14   1532.16    383.04
+FLEX LINE spojnica, cat.7                                                             6021   17 102357.00  25589.25
+Križna spojnica, 2-djelna, traka 30mm - traka 30mm                                   21.87    9    196.83     49.21
+Utičnica šuko sa kont.+poklop+dječja zaš. na opr. antracit                           31.41   13    408.33    102.08
+GLENOS četvrtasti Profile 3030, 2m, crne boje                                       500.12   12   6001.44   1500.36
+
+                                                                                                         ----------
+UKUPNO                                                                                                    382156.84
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

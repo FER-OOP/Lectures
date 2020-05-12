@@ -1,0 +1,19 @@
+Račun br. 724123
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Vodotijesna svjetiljka LINDA Transparente 1-58W ECG IP65 PC                         448.96    5   2244.80    561.20
+Predinstalirani inst. kab. cat.7, 2xkon. bloka, 2xzašt., 70m                        468.21   15   7023.15   1755.79
+Kompaktni prekidač snage tip VE, 4P, 85kA, 1000A+izvl. modul                      24337.55    8 194700.41  48675.10
+FLEXLED ROLL 3D 24V, 1m, 2700K                                                      312.23    6   1873.38    468.35
+Napajanje 18W, 24V, IP20                                                            134.03    5    670.15    167.54
+FID sklopka 40-2-003/A (puls), 6kA                                                  348.96   23   8026.08   2006.52
+Push pull presp. kabel RJ45 STP cat.6a 10GB LS0H sivi 10.0m                         134.04   23   3082.92    770.73
+
+                                                                                                         ----------
+UKUPNO                                                                                                    217620.89
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

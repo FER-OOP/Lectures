@@ -1,0 +1,33 @@
+Račun br. 774959
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Držač releja, plastični, za podnožje PT7874P                                          2.84    2      5.68      1.42
+Izmj. Fronius Symo 17.5-3-M, 17.5kW,3f,IP55, TL 2 MppTracker                      36119.91   26 939117.69 234779.42
+Elektronska prigušnica ECG QTi DALI 2x14/24/220-240 DALI dim                        350.76   19   6664.44   1666.11
+Kabel H05VVC4V5-K 12x1,5 sivi                                                        10000   15 150000.00  37500.00
+S4H koaksijalni adapter F-ženski/F-ženski, pak. 10kom.                               39.76   22    874.72    218.68
+Lumo Round LED Downlight, 24W, 4000K, 1550lm, IP44, bijela                          318.15   27   8590.05   2147.51
+Maskirni razdj. 4M-45, 15-redni, 675ŠM,2130x980x200mm(VxŠxD)                       5213.16    9  46918.44  11729.61
+Sig. Svj. ZAA 230VAC, 3h, bežična, -25°C do35°C,vanjska bat.                       2253.97    3   6761.91   1690.48
+"Zidni komunikacijski ormar DW Dualbloc, 600x770x515, 19"",15U"                    1367.36   19  25979.84   6494.96
+Finožični PVC-om izol. vodič H07V-K (P/F) 1,5mm2, zeleni HPV                         10000   12 120000.00  30000.00
+Telekomunikacijski kabel F-vYAY 15x2x0,5, sivi                                       10000    8  80000.00  20000.00
+Motorni pogon 220-250V DC / 208-240V AC (tvornički ugrađen)                        6457.49   24 154979.77  38744.94
+Podnožje prema širini ASR/KSR ormara, 1200x200mm, AISI304                             4056   15  60840.00  15210.00
+DALI CS Kombi-senzor                                                               1014.58   27  27393.66   6848.42
+NV rastavna sklopka vel.00|125A, 3P,priključak dolje,na 60mm                       1440.92   21  30259.32   7564.83
+LS-FI (KZS), C/20A/30mA, 1P+N, Tip A, 10kA                                          426.69   10   4266.90   1066.72
+Upravljačka kutija , 8 utora za senzore                                            1073.51    1   1073.51    268.38
+Sutil Quadro LED 8W, 3000K, 480lm, 120°, IP40, bijele boje                          161.18   18   2901.24    725.31
+Vezna sp. za sonde i uzemlj. profile, 3-dj, Ø25, pl.30+Ø8-10                         33.04   22    726.88    181.72
+Teški gumeni kabel H07RN-F 4x150, crni                                               10000   20 200000.00  50000.00
+SAT koaks. presp. kabel, 2xF-quick kon.,kl.A, bijeli, 1.5m                            17.9   12    214.80     53.70
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1867568.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

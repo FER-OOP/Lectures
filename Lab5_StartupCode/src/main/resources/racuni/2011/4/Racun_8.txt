@@ -1,0 +1,23 @@
+Račun br. 313141
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Tipka s ručicom,žuta,osvijetljena,2 polož.,50°,s povratom                            44.43   19    844.17    211.04
+Gljiva sa 1 N/C kontaktom, deblokada povlačenjem, komplet                           183.82    9   1654.38    413.60
+Stezaljke 6-35mm2 za N/PE sabirnicu IK020018-- (16mm2)                                26.5   20    530.00    132.50
+NV rastavna sklopka vel.00|160A, 3P, stez.70mm², na ploču                           298.13   13   3875.69    968.92
+WETSY vanjska svjetiljka, okr.                                                      938.06   10   9380.60   2345.15
+Senzor prisutnosti, 360°, p/ž, stropni, IP54, bijeli                               1090.89   18  19636.02   4909.00
+Kronos-S/A2 LED 2x7W 3000K 2x400lm, IP20, sive boje                                  410.4    1    410.40    102.60
+Panik l. KMBE LED 230VAC, MIX mod, montaža univerzalna                              740.02   20  14800.40   3700.10
+L-SE odsijač R12 T8 AL 58W uski, aluminij                                            92.61   13   1203.93    300.98
+Redna stezaljka (utični priključak), 2.5mm², tip HMM.2, siva                          3.98   15     59.70     14.93
+Zaštitna mrežica 165/70 za zidne i stropne senzore                                  223.69   21   4697.49   1174.37
+
+                                                                                                         ----------
+UKUPNO                                                                                                    57092.773
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

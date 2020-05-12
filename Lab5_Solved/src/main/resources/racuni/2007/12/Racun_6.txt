@@ -1,0 +1,22 @@
+Račun br. 270072
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+WALLYX GU10 zidna svj., antik-bronca                                                531.37   12   6376.44   1594.11
+TESA dvostruko-ljepljiva traka 25mm širine                                          468.54   10   4685.40   1171.35
+NEW TRIA MINI DL okrugli, 30°, 3000K, alu-brushed,                                  205.96   21   4325.16   1081.29
+Clara 1 LED 2x3W, 3000K, 2x210lm, 230V, IP54, bijele boje                           344.67    5   1723.35    430.84
+Sklopka Not-Aus, 3-polna + 2 pom.kontakta, PE-stez. 20A                             379.88    2    759.76    189.94
+Zaštitni prekidač, B karakteristika, 10A, 3-polni+N, 6kA                            112.77    9   1014.93    253.73
+Utičnica za tipkalo EL730200--, biserno bijela                                        2104    3   6312.00   1578.00
+Tel. razvodni ormar s LSA nosačima, 3x450 parica                                   9566.95    4  38267.80   9566.95
+Alu H/C mont. nosač za kanal za stranice razdj., širina 5                            56.58    2    113.16     28.29
+Pokrov stezaljki (gore/dolje), za LTS 400/630, LTS-F 250/400                        113.51   18   2043.18    510.80
+
+                                                                                                         ----------
+UKUPNO                                                                                                     65621.18
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

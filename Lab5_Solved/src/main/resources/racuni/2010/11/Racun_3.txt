@@ -1,0 +1,22 @@
+Račun br. 178237
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+NV podnožje 1P, vel.00|160A, na sabirnicu, M8                                        65.11    9    585.99    146.50
+Kabel YSLYQY-JZ 12x 2,5 prozirni                                                     10000    5  50000.00  12500.00
+Magnet sa M4 Thread 16x13mm                                                          25.17   16    402.72    100.68
+Kompenzacija  LSK 7% 31,25/6,25kvar 600x1250x300mm zidni orm                       19690.3   14 275664.22  68916.05
+Linda LED 2x24W AMPIO, 4000K, 6980lm                                               1377.33    6   8263.98   2065.99
+LED GX53 žarulja, 7.5W, 450lm, 6 SMD LED, 25°, 3000K                                302.94   15   4544.10   1136.03
+Instal. umetak 2-45K komplet 15 IR prednja pl. čelik                               2475.44    6  14852.64   3713.16
+SOPRANA, PD-5, okrugla, bijela b., 3x E27, max. 3x 60W                             1125.94   23  25896.62   6474.15
+Podnožje prema dubini ASR/KSR ormara, 500x200mm, AISI304                              4056   23  93288.00  23322.00
+"Samostojeći komunikacijski ormar DS 600x900x800,19"", 18U"                        2834.13   22  62350.86  15587.71
+
+                                                                                                         ----------
+UKUPNO                                                                                                     535849.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

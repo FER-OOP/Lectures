@@ -1,0 +1,32 @@
+Račun br. 793909
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Odjelna stranica za AS ormare, 2000x500mm (VxŠ)                                     503.96   25  12599.00   3149.75
+Držač za instalacijsku cijev M40, svijetlo-sivi (50 kom.)                           249.81   18   4496.58   1124.15
+Nadgradna svjetiljka SAP IP54 T8 2x36W CCG, ind, bijela                            1305.93   11  14365.23   3591.31
+"Natpisna pločica, ""ON"", 17.5 x 28mm, natična"                                      8.13   30    243.90     60.98
+Bezhalogeni kabel s el. funkc. do90 Min.(N)HXCH4x150rm/70E90                         10000   29 290000.00  72500.00
+PIPOFLEX zidna svj., srebrno-siva b., 4W, 3000K                                     437.43   30  13122.90   3280.72
+Senzor prisutnosti 180B KNX, 8m, p/ž, zidni, IP54, srebrni                         2033.09    4   8132.36   2033.09
+Set za uzidnu montažu čitača otiska prsta IN, nehrđ. čelik                         1742.72   24  41825.28  10456.32
+Okvir viši s vratima i umetkom za KVM, 3-redni, 36+6 modula                         374.28    9   3368.52    842.13
+L-SE montažna šina MR 3x35-80 7x2,5mm²                                              373.87    3   1121.61    280.40
+LINEA 80M profil bez ruba, eloksirani aluminij L-2970mm                             618.52   22  13607.44   3401.86
+NEW MYRA WALL LED zidna svj., antracit b., 5W, 3000K, IP55                          938.06   16  15008.96   3752.24
+Prednja ploča, čelična, slijepa, 4B5                                                107.96   29   3130.84    782.71
+Panik svjetiljka KM LED 3W,CPS sustav,MIX-dim funk, univerz.                        722.97    4   2891.88    722.97
+FLEXLED ROLL HIGHEND 24V, 1m, 3000K                                                 625.15    6   3750.90    937.73
+Analogni kontroler 1P | 30A | 230-400VAC | 0-10VDC|0/4..20mA                        2977.7   12  35732.40   8933.10
+Instal. umetak 3-42L komplet 14 IR prednja pl. plastika                            2888.87   24  69332.88  17333.22
+Stace-II-S LED 3x0,2W 6000K, IP20, aluminij                                         175.88   30   5276.40   1319.10
+ALTRA DICE WALL, srebrne boje/crne b.                                               374.92   28  10497.76   2624.44
+Piktogram Linda 18W, strelica lijevo                                                  7.15   21    150.15     37.54
+
+                                                                                                         ----------
+UKUPNO                                                                                                     548655.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

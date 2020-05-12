@@ -1,0 +1,19 @@
+Račun br. 405236
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Bezhal. kabel poboljšanih svoj.za sl. požara N2XH-J 5x6re                            10000    3  30000.00   7500.00
+Jakna s kapuljačom -XXL-                                                            383.49   14   5368.86   1342.21
+Modularna slijepa ploča za AS/KS ormare, 800x50mm, RAL 7035                          67.73    8    541.84    135.46
+Compact passage, senzor prisut. 360°, HVAC, stropni, bijeli                        1689.89   10  16898.90   4224.73
+"VI panik svjetiljka LED 230V za CPS MIXmod; stropna montaža"                      1917.77   10  19177.70   4794.42
+Uklopni sat, digitalni, tjedni program, 1 C/O, 250V AC                              475.16   24  11403.84   2850.96
+Twister Downlight CMH GU6,5, krom                                                   230.68   13   2998.84    749.71
+
+                                                                                                         ----------
+UKUPNO                                                                                                    86389.984
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,18 @@
+Račun br. 390040
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Distribucijski blok, 4P,125A,1x35|2x16+5x6mm² i 6x16+4x10mm²                        145.12   15   2176.80    544.20
+KNX napajačka jedinica, DC 29V, 160mA                                              1034.49    9   9310.41   2327.60
+P/Ž razdjelnik MODUL 160, sa metalnim vratima, 4x33 modula                            4172    8  33376.00   8344.00
+Jolie-R LED 12W 3000K 633lm, IP40, bijele boje                                      311.56   11   3427.16    856.79
+P/Ž inst. razdj. 4U-28,9-redni,405ŠM,1380x1030x250mm(VxŠxD)                        5115.31   14  71614.34  17903.59
+Zamjenjiva skala, 72x72mm, 60/120/5A AC                                              10.89   19    206.91     51.73
+
+                                                                                                         ----------
+UKUPNO                                                                                                   120111.625
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,15 @@
+Račun br. 216041
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Pako-R/A1 LED 3W 6000K 120lm, dim., 700mA, IP20, bijele b.                           46.46   27   1254.42    313.60
+Kliješta za krimpanje, za MC4, 2,5 - 6 mm2                                         3362.21    8  26897.68   6724.42
+Rita-R/A2 LED 20W 4000K 1600lm, IP20, bijele boje                                   512.96   24  12311.04   3077.76
+
+                                                                                                         ----------
+UKUPNO                                                                                                     40463.14
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

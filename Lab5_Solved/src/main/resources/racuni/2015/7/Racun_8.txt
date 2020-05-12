@@ -1,0 +1,24 @@
+Račun br. 585442
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+SAT alat za traženje satelita,set za programiranje,SZU 22-00                        258.31   28   7232.68   1808.17
+ENNA GU10 zidna svj.                                                                 393.5   16   6296.00   1574.00
+Utični modul, RS485 interface za NA96 i NA96+                                       551.75   11   6069.25   1517.31
+Nadgradna svjetiljka Torno 1 Plafo, E27, 18W, IP65, bijela                          185.68   19   3527.92    881.98
+Poluvodički mot. kontroler 200-440V/85A sa bypass i zaštitom                          4701    2   9402.00   2350.50
+Tarifni prekidač s podešavanjem na 25, 35 i 40A, 3-polni                            382.07   21   8023.47   2005.87
+GLENOS profil 100, 1m, aluminij                                                     280.98   11   3090.78    772.70
+LED prespojni kabel 1m, 2x0,75mm                                                     26.82   28    750.96    187.74
+Reflektor za Gimble G12, 40°                                                         50.01    5    250.05     62.51
+PVC-om izol.kabel za srednja meh.opt. YMS -J 3x2,5 bijeli                            10000    1  10000.00   2500.00
+Kabel LiYCY 10x0,5                                                                 1595.92   15  23938.80   5984.70
+FI-trafo 400A, tip W3-U, za BC990016 i BC990018                                    2891.08   27  78059.16  19514.79
+
+                                                                                                         ----------
+UKUPNO                                                                                                    156641.08
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,18 @@
+Račun br. 693345
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zaštitni prekidač AMPARO 6kA, C 10A, 1P+N                                            47.24   10    472.40    118.10
+38007A, 10cm kutnik za WW/DL TUBE                                                    26.35   17    447.95    111.99
+Geluce LED PR1 opal svj. 1x51W, DALI 3900lm/840, M625, 9003                        2128.46   14  29798.44   7449.61
+Odvodnik prenapona, Vartec 10kA, kl.C, 335V                                         364.25   19   6920.75   1730.19
+Ring za SLEEK G12 Spot, srebrne boje                                                 50.01   26   1300.26    325.07
+GLENOS četvrtasti Profile 3030, 2m, bijele boje                                     500.12   27  13503.24   3375.81
+
+                                                                                                         ----------
+UKUPNO                                                                                                     52443.04
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

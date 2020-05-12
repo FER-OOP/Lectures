@@ -1,0 +1,17 @@
+Račun br. 1039243
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Priključna kutija, nehrđajući čelik, 200x200x120(VxŠxD),IP66                        1116.9    6   6701.40   1675.35
+Pločica + nosač 30x50mm, natpis: EIN                                                 12.31   24    295.44     73.86
+Phil-L-R 20W E27, 100-240V, IP20, krom                                              454.33    3   1362.99    340.75
+Metalhalogena žarulja, 35W G12 COOL WHITE CERAMIC                                    16.05    3     48.15     12.04
+"Sobno signalno svjetlo ""Design"", crveno-zeleno"                                    2104   13  27352.00   6838.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     35759.98
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

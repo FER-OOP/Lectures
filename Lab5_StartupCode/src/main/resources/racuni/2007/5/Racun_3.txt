@@ -1,0 +1,24 @@
+Račun br. 237562
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Tipkalo s plosnatom tipkom, zeleno, s držačem                                        24.39   17    414.63    103.66
+Izolir traka, narančasta, 15mm x 10m - COROPLAST                                      5.69    4     22.76      5.69
+Ormar plast.750x750x312,krov protiv kiše,dno zat.,1 vrata,                            4142   15  62130.00  15532.50
+LED traka 86 RGB WW Ra=90+, 10,8W/m, 871lm/m, 24VDC,IP44                           1393.45   17  23688.65   5922.16
+Utičnica šuko sa zašt. kont i dječ. zaštit. na vijak bijela                          19.38   21    406.98    101.74
+Ugradna svjetiljka SERH 2 A2 L1 T5 3x14W, ECG, bijela                               500.15   16   8002.40   2000.60
+Instal. umetak 2-18K komplet 6 IR prednja pl. čelik                                 1212.2   26  31517.20   7879.30
+Kompaktni prekidač snage tip A, 4P, 150kA, 32A, utični                                4966    3  14898.00   3724.50
+1-f šina HV set 3, srebrna b., 2x1m, w. 3x PURI spot, LED                          1125.94   24  27022.56   6755.64
+Signalni fleksibilni kabel YSLCY-JZ 4x10 sivi                                      7445.28   11  81898.08  20474.52
+DEBASTO LED COB SPOT, 7W, 3000K, okrugla, bijele boje                               813.03   11   8943.33   2235.83
+Potporni izolator, 35x40mm, 2xM8, 4kN                                                14.14   17    240.38     60.10
+
+                                                                                                         ----------
+UKUPNO                                                                                                    259184.95
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

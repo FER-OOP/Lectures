@@ -1,0 +1,32 @@
+Račun br. 686007
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Linijska svj. SERM-LL 112, završni profil,  1x35W, ECG, bb                           581.6    5   2908.00    727.00
+Ispravljač, 1-fazni | 230-400/24VDC | 1.5A                                           546.5   23  12569.50   3142.38
+LS-FI (KZS), B/32/30mA, 2P, Tip A, 6kA                                                4281    2   8562.00   2140.50
+Teretna sklopka, 4P, 200A, VC2, bez ručice                                          985.66   18  17741.88   4435.47
+LYNAH LED Double Spot, 2x10W,uklj.1f adapter, crne boje                            1683.51   30  50505.30  12626.33
+Prespojni kabel RJ45 cat.6 oklopljen,s pregibnicama,sivi,7m                          43.46   17    738.82    184.71
+Lano četvrtasti LED M600, 48W, 6000K, 3800lm, IP20,1200mA,bb                        530.36   28  14850.08   3712.52
+Sticker Bones, crne boje                                                             80.76   10    807.60    201.90
+Mehanička blokada za 3-polne MZ3                                                    171.46   21   3600.66    900.17
+Bezhalogeni jednožilni vodič H05Z-K 1mm2, crveni                                     10000   28 280000.00  70000.00
+Ručni alat za oblikovanje vodiča Ø8-10mm                                            175.92   12   2111.04    527.76
+Utični interface relej, XT, 2C/O, 8A, 230VAC, 5mm                                    48.94   11    538.34    134.58
+Ind.svj.ARKTUR SQUARE LED 147W 15000lm/740 ECG IP65 110°                           3118.34    5  15591.70   3897.93
+BILAS LED ugradna stropna svj. 20W 2700K 25°, okrugla, bb                          1871.23    4   7484.92   1871.23
+Majica Store dugih rukava -XX-large-                                                255.48   21   5365.08   1341.27
+LED PAR16 80 DIM 7,2W 230V 36° 830 575lm 1439cd GU10 25000h                          104.9   12   1258.80    314.70
+Baterija RPOWER OGiV 12/50Ah, longlife: 10-12 god.                                 1144.74   21  24039.54   6009.88
+ENOLA_C 18 SPOT, okr., crne boje 18W, 3000K, 35°,3-f adapter                       1433.11    8  11464.88   2866.22
+Kabel YSLYQY-JZ 5x 0,75 prozirni                                                     10000   29 290000.00  72500.00
+Termoskupljajući bužir u kutiji (10m), crni, 2.4/1.2mm                                6.85   27    184.95     46.24
+
+                                                                                                         ----------
+UKUPNO                                                                                                    750323.06
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

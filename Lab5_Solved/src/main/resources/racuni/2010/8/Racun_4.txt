@@ -1,0 +1,23 @@
+Račun br. 870624
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+NV osigurač vel. 1, 160A/400V AC                                                      45.6    1     45.60     11.40
+TV priključnica, završna, IP20, na vijak, bijela, nadžbukna                          30.48   28    853.44    213.36
+Bezhalogeni inst.kabel pob.svoj. za sl.požara NHXMH-J 5x1,5                          10000   19 190000.00  47500.00
+89018, DRIVER za 10-18kom 1wLED 350mA 10-18w                                        197.85   11   2176.35    544.09
+Fleksibilni plosnati kabel za dizalice H07VVH6-F 5x2,5, crni                         10000   21 210000.00  52500.00
+Instal. umetak 4-42K komplet 14 IR prednja pl. čelik                               2965.29    8  23722.32   5930.58
+Kanal tip BE-DIN, 62.5x62.5mm (VxŠ), duljina 2m, RAL 7030                             37.2   23    855.60    213.90
+Montažna ploča 2PB, 11 otvora, 450x70x13mm                                          273.67   26   7115.42   1778.86
+Luxa 102 FL, LED spot 16W, 6000K, zidna, IP44, bijela                               798.81   13  10384.53   2596.13
+Nazidno izmjenično tipkalo, sivo, svjetleće, 1C/O, 10A, IP44                         79.52    5    397.60     99.40
+Zaštitni prekidač MB 18kA BT 100/3                                                  458.97    3   1376.91    344.23
+
+                                                                                                         ----------
+UKUPNO                                                                                                    446927.72
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

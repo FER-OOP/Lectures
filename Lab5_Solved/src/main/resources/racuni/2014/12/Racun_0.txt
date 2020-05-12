@@ -1,0 +1,16 @@
+Račun br. 501264
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ugradna svjetiljka SERS 2 ECO T8 4x18W ECG M625, bijela                             300.34   19   5706.46   1426.61
+Grebenasta sklopka, 1-0-2/2P/10A, na vrata                                          168.21   12   2018.52    504.63
+Gloria-R/A2 LED 3x1W 6000K, IP54, krom                                               316.8   12   3801.60    950.40
+3P priključna stezaljka, 50mm2 (108A) za MZS vel.2                                   48.12   20    962.40    240.60
+
+                                                                                                         ----------
+UKUPNO                                                                                                     12488.98
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

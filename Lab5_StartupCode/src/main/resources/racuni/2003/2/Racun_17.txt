@@ -1,0 +1,23 @@
+Račun br. 216042
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+PRIRUBNICA SA PERFORACIJAMA, VEL.3, 636x130x18mm                                    212.16   15   3182.40    795.60
+LS-FI (KZS), C/32/30mA, 2P, Tip A, 6kA                                                4281    4  17124.00   4281.00
+Mikro sklopnik | 2.2kW (5A) [AC3] | 24V AC | 3NO + 1NC                               81.13   11    892.43    223.11
+Pribor za ovjes sa Y-prihvatom                                                        33.5   21    703.50    175.88
+"Pokrov plosnatog tipkala, crni, oznaka ""0"""                                       13.44   15    201.60     50.40
+FID modul za MC2 (do 250A), 4P, 0.1-3A,tip A,ugradnja odozdo                       5056.45   21 106185.45  26546.36
+"19"" napojna letva sa 9xshuko, alu 1U, kabel 2m, RAL7035"                          308.13    5   1540.65    385.16
+Combi okvir podžbukni za kućni razdjelnik 2, RAL9003                                 83.62    5    418.10    104.53
+Kabel JB-YY 3x0,8mm2                                                                 10000    6  60000.00  15000.00
+Nosač natpisne pločice (12,5x27mm) za dvostruko tipkalo                               2.11   13     27.43      6.86
+Energetski kabel 0,6/1kV PP00 (NYY-O) 2x6re crni                                     10000   14 140000.00  35000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    330275.56
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

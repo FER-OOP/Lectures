@@ -1,0 +1,32 @@
+Račun br. 581796
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Nosač 2x7M, bez hvataljki                                                             28.6   26    743.60    185.90
+Relej snage, 2C/O, 8A, 110VDC serije RT, raster 5mm                                  36.06   27    973.62    243.41
+FIN XS Pole 30 4W LED 3000°K, 300lm, siva                                          1999.54   15  29993.10   7498.28
+Sklopnik vel. 00 | 4kW (9A) [AC-3] | 230VAC, 50/60Hz |1 N/C                         107.32   19   2039.08    509.77
+Gypsum Round GT1, MR16, GU10, 50W, IP20, bijele boje                                 72.99   30   2189.70    547.42
+Bezhalogeni telekomunikacijski kabel J-H(ST)H 6x2x0,6 sivi                           10000   22 220000.00  55000.00
+Agnes-R LED 7W 3000K 511lm, IP20, bijele boje                                       178.92    9   1610.28    402.57
+Ugradna svjetiljka SERS 2 ECO T8 2x36W ECG M625, bijela                             373.87   12   4486.44   1121.61
+Set konektora za kombiniranje modularnih adaptera,60mm Comp.                         48.83   10    488.30    122.08
+Vodič (N)YM-J (PGP) 12x1,5mm2, sa zašt. vodičem, svij.-sivi                          10000   16 160000.00  40000.00
+Teretna sklopka, 3P, 630A, VC4, bez ručice                                         1957.79   20  39155.80   9788.95
+Kopče za TUBELIGHT LED 100 kom.                                                     172.66    7   1208.62    302.15
+Sklopka 1-0-2, 16A, 1 C/O, montaža na DIN nosač                                         70    8    560.00    140.00
+Romy-I-L-R 2x20W E27, 100-240V, IP20, brušeni krom                                   37.67   26    979.42    244.85
+Natpisna pločica fi=60mm, 4-jezična, “Not-Aus”                                       30.34   23    697.82    174.46
+Mehanička blokada za K 65 do K 110                                                   81.46   12    977.52    244.38
+Utičnica šuko sa poklop. i dječjom zašt. na vijak antracit                           25.63    9    230.67     57.67
+Jednožični PVC-om izolirani vodič H07V-U (P) 2,5mm2, crni                           189.24   27   5109.48   1277.37
+Okvir 4x2M line, zlatni                                                              57.52    6    345.12     86.28
+Ispravljač, 3-fazni | 400/24VDC | 10A                                                 4547    8  36376.00   9094.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    508164.56
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

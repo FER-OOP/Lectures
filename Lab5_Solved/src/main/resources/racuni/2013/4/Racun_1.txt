@@ -1,0 +1,14 @@
+Račun br. 1062187
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Design IL ERT-LED 1x3W 230VAC 8h sa bat.BEŽIČ,AT ,SPOT,strop                       1658.41    4   6633.64   1658.41
+"Žuta podložna pločica, ""NOT AUS"", fi=80mm, samoljepljiva"                          12.2   21    256.20     64.05
+
+                                                                                                         ----------
+UKUPNO                                                                                                    6889.8403
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

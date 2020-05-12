@@ -1,0 +1,30 @@
+Račun br. 127134
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"Opt. razdjelnik, 8 niti, ST,50/125µm OM2, izvlačivi,19"",1U"                       804.04   14  11256.56   2814.14
+LS-FI (KZS), C/25A/30mA, 1P+N, Tip A, 6kA, serija AMPARO                            183.12    2    366.24     91.56
+Kutija za fiksni spoj za vodiče promjera do 8mm, bijela                              46.84   19    889.96    222.49
+MEDO 40 LED, ugradna svjetiljka, crvene boje                                       1250.97   15  18764.55   4691.14
+ENOLA_B single, zidna i stropna svj., GU10, max.50W, sb/cb                          374.92   16   5998.72   1499.68
+AF S LED 300 reflektor, 8xLED (24W), 3000°K, IP44, inox                            3585.44    6  21512.64   5378.16
+Ograničavač zakretnog momenta, 25A 230-480VAC                                      1193.06   23  27440.38   6860.10
+Polucilindar brava za razdjelnike BK085..., metalna                                  74.91    5    374.55     93.64
+Cilindrični osigurač, 22x58, 63A, gG, 500V AC                                        11.62   16    185.92     46.48
+Podnaponski isklopnik za MC1, 380-440V AC, sa 3m kabela                             429.03   17   7293.51   1823.38
+Tipka sa simbolom zvona, antracit                                                    15.62   16    249.92     62.48
+Kabel LiYCY 18x0,14                                                                  10000   13 130000.00  32500.00
+Linda Basic LED 2x23W, 4000K, 6627lm, IP65, sive b.,L=1570mm                        904.09    4   3616.36    904.09
+Kabel H05VV5-F 18x1,5 sivi                                                           10000   25 250000.00  62500.00
+JESSY zidna svj., WL-2 ES111, bb, GU10, max. 75W                                    491.78   20   9835.60   2458.90
+Kabel LiYCY 5x1,5                                                                  1633.36   12  19600.32   4900.08
+Bakrena sabirnica, 985A, 60x10mm, duljina 2m                                       1169.29    7   8185.03   2046.26
+Unutarnja vrata za Minipol ormare, poliester, puna, 800X600                         873.22    8   6985.76   1746.44
+
+                                                                                                         ----------
+UKUPNO                                                                                                     522556.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

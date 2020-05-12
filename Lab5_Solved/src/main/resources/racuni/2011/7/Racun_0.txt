@@ -1,0 +1,31 @@
+Račun br. 643863
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ovjes sa stropnom rozetom, 1,2m                                                      79.11   15   1186.65    296.66
+Dodatna tipka za Style intercom slušalicu                                            33.39   25    834.75    208.69
+ Ngr.down.SOLINA 242 LED 24W DALI 2500lm/830 MAT IP20 70°,bb                       1016.38    3   3049.14    762.29
+Ručica za vađenje NV osigurača vel.000 - 4                                            4821   26 125346.00  31336.50
+Plosnati kabel, 6-žični,bijeli,za tel. prespojne kabele,100m                        181.66   28   5086.48   1271.62
+BULAN GRID zidna svj., okrugla, antracit, E27, max. 2x25W                           308.85   10   3088.50    772.13
+FID sklopka 100-4-003/A (puls)                                                     1098.36   18  19770.48   4942.62
+Poklopac MO 7M, dekorativni s vijcima, halogen free, bijeli                           4.69   10     46.90     11.73
+Svjetiljka desing K2  3-8h/230VAC bate.Autotest, univerzalna                           397   21   8337.00   2084.25
+Zakretna tipka s ručicom / 2 položaja / bijela/60°/bez povr.                         59.18   22   1301.96    325.49
+Kabel YSLYQY-JZ 7x 2,5 prozirni                                                      10000    5  50000.00  12500.00
+FlexLED Roll, plave b., 1m, 60LED/m, DC 24V                                         105.76   10   1057.60    264.40
+UPS Premium Plus 2200VA 1760W 6 min.1/1-fazni/Online                               6373.78   28 178465.83  44616.46
+Nadgradna svjetiljka SAP ECO T8 1x58W ECG, bijela                                   463.23   19   8801.37   2200.34
+NEW TRIA II QRB Downlight, četvrtasta, brušeni aluminij                             562.63    8   4501.04   1125.26
+Fluokompaktna žarulja TC-DEL 13W/840 G24Q-1                                          26.06   19    495.14    123.78
+Odjelna stranica za AS ormare, 2200x800mm (VxŠ)                                     765.69    8   6125.52   1531.38
+Daljinski isklopnik za seriju BR, 12-60V AC/DC                                      261.89   27   7071.03   1767.76
+Zaštitni prekidač, D karakteristika, 32A, 3-polni+N, 10kA                           244.73   18   4405.14   1101.29
+
+                                                                                                         ----------
+UKUPNO                                                                                                     428970.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

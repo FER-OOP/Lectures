@@ -1,0 +1,26 @@
+Račun br. 306946
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Adapter za sustav 60mm, EEC 32A, 1 nosač, širine 54mm                               136.26    3    408.78    102.19
+Kućni energetski razdjelnik, 2-redni, za 44 modula, RAL9003                         742.49    9   6682.41   1670.60
+Ina-L-R/A2 LED 20W 3000K 1500lm, IP20, bijele boje                                  527.66    3   1582.98    395.74
+Blok pomoćnih kontakata za sklopnike vel. 00, 3 N/O+1 N/C                            41.44   29   1201.76    300.44
+LED napajanje OS 50W/24V, MM, IP20                                                  507.29   10   5072.90   1268.22
+Okvir 7M line, zagasito bijeli                                                      123.48    4    493.92    123.48
+Sklopnik 4P |75kW (150A) [AC3] / 230A [AC1] | 230V AC/DC                            5661.6   28 158524.80  39631.20
+Držač za instalacijsku cijev M25, HF, crni  (pak. 100 kom.)                         389.97   16   6239.52   1559.88
+Optički prespojni kabel duplex, SC/SC, 50/125µm OM2, 5.0m                           105.87   22   2329.14    582.29
+ARLINA T5 zidna svj.,28W G5, brušeni aluminij                                      1289.33   13  16761.29   4190.32
+Tipka s ručicom,crvena,3 pol.,50°,lijevo bez-desno s povrat.                         45.85    4    183.40     45.85
+Krović za zaštitu WSM ormara od kiše, za ormar 600X300 (ŠxD)                          4066   29 117914.00  29478.50
+Fluo cijev T16 35W/827 G5                                                            29.01   21    609.21    152.30
+Zaštitni prekidač AMPARO 6kA, B 6A, 3P+N                                             98.25   14   1375.50    343.88
+
+                                                                                                         ----------
+UKUPNO                                                                                                    319379.62
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

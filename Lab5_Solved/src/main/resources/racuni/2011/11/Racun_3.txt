@@ -1,0 +1,25 @@
+Račun br. 596283
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Relej za nadzor struje 0.5 - 5A, 230VAC, 1 fazni, 1 C/O                              392.7   14   5497.80   1374.45
+Okvir za IKALL, 3-struki, srebrni                                                   404.72   25  10118.00   2529.50
+Lisa LED 1/3W, 3000K, 200lm, 350/700mA, IP20, 40°, alu, cb                           95.29   30   2858.70    714.67
+Kanal tip BE-DIN, 50x37.5mm (VxŠ), duljina 2m, RAL 7030                              24.36   10    243.60     60.90
+Zaštita od dodira sa strane (montaža na nosače sustava 60mm)                         26.33    6    157.98     39.49
+Panik svjetiljka WG FLUO 9W, CPS sustav, stropna                                   1123.64   30  33709.20   8427.30
+Prespojni kabel RJ45 cat.5e oklopljen, PVC, žuti, 2.0m                               10.54   10    105.40     26.35
+Metalni stabilizator za uzduž.spojnicu za 1f.strujnu šinu                             37.5   10    375.00     93.75
+Rita-R/A2 150W G12, 230V, IP20, bijele boje                                          57.44   27   1550.88    387.72
+Prespojni kabel RJ45 cat.6 oklopljen,s pregibnicama,plavi,2m                         15.89    7    111.23     27.81
+1-fazni šinski adapter, bb                                                           50.35   17    855.95    213.99
+Kabel H05VVC4V5-K 3x1,5 sivi                                                         10000   11 110000.00  27500.00
+Bezhalogeni kabel s el. funkc. do30 Min. (N)HXH-J4x35rmE30                           10000   21 210000.00  52500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    375583.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

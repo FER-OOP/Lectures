@@ -1,0 +1,14 @@
+Račun br. 1071759
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Panik svjetiljka VM LED 230VAC, MIX mod, montaža zid                               2151.31    4   8605.24   2151.31
+"Držač 19"" profila za 600mm asimetrična montaža"                                   231.01    8   1848.08    462.02
+
+                                                                                                         ----------
+UKUPNO                                                                                                     10453.32
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

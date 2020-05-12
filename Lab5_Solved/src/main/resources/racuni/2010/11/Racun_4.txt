@@ -1,0 +1,25 @@
+Račun br. 200240
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Plastični pokrov TB, okrugli/opal 2m                                                 75.39   25   1884.75    471.19
+Kompenzacija  LSFC 14% 200/50kvar 600x2000x600mm Samost.orm.                      62670.49   201253409.75 313352.44
+LIGHT EYE ovjesna svjetiljka GU10, max. 50W, mesing                                 437.43   27  11810.61   2952.65
+Siltu-R/A1 LED 12x1W 3000K 540lm,dimabilna,350mA,IP20,alu                           156.45   13   2033.85    508.46
+Stražnja ploča za nazidni Modul 2000 | 3R-24                                        196.93   21   4135.53   1033.88
+Sigma Single 50W, 4000K, 3500lm, 120°, alu, antracit                                490.65   28  13738.20   3434.55
+Dual svjetiljka za ormar sa ON/OFF sklopkom                                         553.37   15   8300.55   2075.14
+Potporni izolator visine 50mm, obostrano s maticom M10, 2kV                           4837   24 116088.00  29022.00
+DASAR BULLSEYE QRB111, okr., nehrđ.čelik, G53, max. 50W                            1683.51   24  40404.24  10101.06
+A03VV-F 5x0,75mm2, bijeli, 50m kolut                                                 10000   22 220000.00  55000.00
+Prespojni kabel RJ45 cat.5e oklopljen, PVC, sivi, 5.0m                               20.11    9    180.99     45.25
+Bočne stranice za Modul 2000/3S, dubine 102mm, tip 28/102                             4160   14  58240.00  14560.00
+BRICK LED 24, zidna svj., četvrtasta, bb LED                                        500.12   16   8001.92   2000.48
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1738228.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

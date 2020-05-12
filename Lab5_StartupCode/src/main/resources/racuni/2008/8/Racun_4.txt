@@ -1,0 +1,25 @@
+Račun br. 329345
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Maria-WL-R LED 3x1W 6000K, IP54, sive boje                                          131.95   12   1583.40    395.85
+Teretna sklopka, 4P, 1250A, opcija:dalj. isklop+izvl. modul                       18062.48   16 288999.69  72249.92
+Okvir za IKALL, 2-struki, antracit                                                  347.63   11   3823.93    955.98
+Tipka sa simbolom ventilatora, bijela                                                12.65    5     63.25     15.81
+D0-Dummy umetak za Tytan R i Coron R                                                  4824   16  77184.00  19296.00
+Kabel H05VVC4V5-K 25x1,5 sivi                                                        10000   24 240000.00  60000.00
+NEW TRIA XL četvrtasti GU10 Downlight, brušeni aluminij                             218.46    3    655.38    163.85
+Tris-I-Q/A1 LED 3x1W 3000K 135lm,dimabilna,350mA,IP20,alu                            43.59   28   1220.52    305.13
+Maskirni razdj. 4-42, 14-redni, 630 ŠM,1995x980x200mm(VxŠxD)                       4381.66   16  70106.56  17526.64
+KALU TRACK LEDDISK SPOT, srebrne boje, 3000K, 1-f adapter                          1125.94    4   4503.76   1125.94
+TRAPECCO zidna svjetiljka, 10W, 3000K, antracit boja                                938.06   13  12194.78   3048.70
+Sphinx 104-360, senzor prisutnosti, 1 kanal, p/ž, stropni                           471.26   14   6597.64   1649.41
+Zaštitni prekidač MB 18kA CL 63/3                                                   458.97    2    917.94    229.49
+
+                                                                                                         ----------
+UKUPNO                                                                                                    707850.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

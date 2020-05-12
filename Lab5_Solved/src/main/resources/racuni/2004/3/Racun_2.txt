@@ -1,0 +1,32 @@
+Račun br. 199289
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Baterija 4,8V 0,5Ah za svjet. sa vl. napajanjem LED KM i KS                         116.47    9   1048.23    262.06
+89200W, LED DRIVER 12v 200w 100-240v                                                331.49    8   2651.92    662.98
+Držač za instal. cijev M20, HF, svijetlo sivi (pak.100 kom.)                        269.01    4   1076.04    269.01
+Ugradni downl. SEGON M 170 ECO 13W 1100lm 840 EVG IP44 ,bb                          292.56    1    292.56     73.14
+7305G/R/30, LED 3x1w GU10 , 30 ° , crvene boje                                       66.23   18   1192.14    298.04
+Kompenzacija  LSFC 14% 250/25kvar 800x2110x500mm Samost.orm.                      70339.85   14 984757.94 246189.48
+Instalacijski umetak za Minipol ormar 400x300mm, 2x12 modula                        448.56   28  12559.68   3139.92
+Zakretna ručica za MC3, zaključavanje, na vrata (crna/siva)                         543.86   13   7070.18   1767.54
+Signalni fleksibilni kabel YSLY-JZ 32x1,5 sivi                                       10000    4  40000.00  10000.00
+Maskirni razdj. 3M-21, 7-redni, 231 ŠM,1010x760x200mm(VxŠxD)                       2279.77    7  15958.39   3989.60
+Smith-II-Q LED 3W 3000K 200lm, IP54, bijele boje                                    278.44   27   7517.88   1879.47
+NEW TRIA LED DL četvrtasti Set, 25W, 2700K, 30°, crne boje                          1370.6   18  24670.80   6167.70
+Fluokompaktna žarulja TC-DEL 13W/827 G24Q-1                                          26.06   12    312.72     78.18
+LED 85-264V AC, zeleni, za montažu na dno kućišta                                     79.8    3    239.40     59.85
+Kabel LiYCY 5x0,34                                                                  723.58   25  18089.50   4522.38
+Okrugli vodič Al meki Ø8mm, 1bunt~10kg~74m                                           55.41   25   1385.25    346.31
+Neozed osigurač 100A                                                                  4825   29 139925.00  34981.25
+Cube-WL-Q 35W GU10 MR16, 100-240V, IP54, bijele boje                                190.58    1    190.58     47.65
+Sklopnik vel.00 (za PLC) | AC3 3kW/400V | 17-30VDC | 1 N/O                          137.95    2    275.90     68.97
+FID sklopka 40-4-03/A, S izvedba                                                    861.77   29  24991.33   6247.83
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1284205.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

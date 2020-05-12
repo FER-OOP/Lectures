@@ -1,0 +1,23 @@
+Račun br. 420635
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+TRISTAN nadgradna svjetiljka T8, 36W CCG, bb                                        625.15   11   6876.65   1719.16
+Sabirnica, 1P, viličasta, 10mm² (63A)|korak 17.8mm| 1m                               521.3    2   1042.60    260.65
+Nadgradna downlight svjetiljka ARM 292 2x18W CCG TC-D,bijela                        250.85    6   1505.10    376.28
+Nadgradna kutija IP44 MD180i/R,MD180i/T,MD/PD180 bijela                             259.44    5   1297.20    324.30
+Označne pločice 201-250 (pločica sa 2x od 201-250)                                   16.83   19    319.77     79.94
+Polucilindar brava za razdjelnike BK085..., plastična                                59.56   16    952.96    238.24
+USB Dongle za PC komunikaciju, VIP                                                 2122.42   29  61550.18  15387.54
+Aluminijski profil TBR - 2m                                                         102.54   19   1948.26    487.06
+Fluokompaktna žarulja TC-D 26W/827 G24D-3                                            27.45    5    137.25     34.31
+ Nadgr. downl. SOLINA 242 LED 44W 4100lm/840 MAT IP20 70°,bb                       1085.57    8   8684.56   2171.14
+Relej 2 C/O |10A | 230VAC                                                            51.01   30   1530.30    382.57
+
+                                                                                                         ----------
+UKUPNO                                                                                                     85844.83
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

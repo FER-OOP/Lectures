@@ -1,0 +1,21 @@
+Račun br. 184773
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Bočne stranice za Modul 2000/3S, dubine 150mm, tip 16/150                             4160   22  91520.00  22880.00
+GRAFIT, zidna svj., antracit, E27, max.11W                                          343.49    7   2404.43    601.11
+AMPARO 1 tipski kućni ormar, 1-redni, nazidni                                          508    7   3556.00    889.00
+Perforirana vrata s bravicom, za DW ormare 15U, Š=600                               303.96   16   4863.36   1215.84
+Završna pločica za stezaljke IK180001-- i IK180002--, bež                             2.43    5     12.15      3.04
+7304AG/D/36, 3LED 4,5w GU10 DL 36 ° 100-240V                                         46.46   12    557.52    139.38
+INDI REC 1S, kardanska, MR16                                                        155.78    2    311.56     77.89
+Dimer 40-1000W, umetak, R/L, memory funkcija                                       1730.03    3   5190.09   1297.52
+SENSER LED PANEL nadgradni, 14W, 3000K, okrugla, bijele boje                       1063.26   12  12759.12   3189.78
+
+                                                                                                         ----------
+UKUPNO                                                                                                    121174.23
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

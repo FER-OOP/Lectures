@@ -1,0 +1,18 @@
+Račun br. 151827
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Panik svjetiljka KW Wireless aku.bat LED 3h 230VAC stropna                         1500.13   29  43503.77  10875.94
+Umetak 3-struke sklopke, na vijak                                                    17.66   23    406.18    101.54
+316 ANALOG-Panel Video s 6 tipki, nehrđajući čelik, VIP                           14577.27   26 379009.00  94752.25
+Višežični PVC-om izolirani vodič H07V-R (P/M) 95mm2, crni                            10000    8  80000.00  20000.00
+"Stezaljka ""A"" 2P, dovod 35mm²|odvodi: 2x(4x25)"                                  127.17    3    381.51     95.38
+AITES LED ROUND za ugradne kutije, bijele b., 3000K                                 249.72    4    998.88    249.72
+
+                                                                                                         ----------
+UKUPNO                                                                                                     504299.3
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

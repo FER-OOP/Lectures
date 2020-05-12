@@ -1,0 +1,22 @@
+Račun br. 1000846
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ellie-R 35W GU10 MR16, 100-240V, IP20, bijele boje                                  293.14   10   2931.40    732.85
+Pokrov stezaljki za sklopnike veličine 10, kratki                                     59.5   22   1309.00    327.25
+Kompaktni prekidač snage tip A, 3P/80A/25kA, MC1                                    778.76   12   9345.12   2336.28
+Pella-S LED 2x6W 3000K 2x420lm, IP54, antracit                                      397.73   19   7556.87   1889.22
+Cilindrični osigurač za fotonapon, 10x38, 10A, gR, 900V DC                           50.89   11    559.79    139.95
+Halogena žarulja QR-LP 111 ECO 50W SP 6° G53                                         98.51    6    591.06    147.76
+SOPRANA SOLID zidna svjetiljka, WL-1 , siva, E14, max. 60W                          625.15   16  10002.40   2500.60
+Design IL ERT-LED 1x3W 230VAC 3h  bežična, usmjerena,stropna                       1658.41    3   4975.23   1243.81
+KNX jednostruko tipkalo, N/Ž, IP44, sivo, LED idikacija                             474.53   17   8067.01   2016.75
+Arpus-R/A1 35W GU10 MR16, 100-240V, IP54, aluminij                                  388.43   20   7768.60   1942.15
+
+                                                                                                         ----------
+UKUPNO                                                                                                    53106.484
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

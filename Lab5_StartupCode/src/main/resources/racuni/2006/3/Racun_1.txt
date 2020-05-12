@@ -1,0 +1,14 @@
+Račun br. 183570
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+GU10 SP Downlight, titan                                                             187.2   12   2246.40    561.60
+Marra LED traka 6,6W/m 6000K 432lm/m, IP54                                            8.95   25    223.75     55.94
+
+                                                                                                         ----------
+UKUPNO                                                                                                      2470.15
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

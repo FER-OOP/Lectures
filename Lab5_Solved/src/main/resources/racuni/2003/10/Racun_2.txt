@@ -1,0 +1,16 @@
+Račun br. 466939
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Bezhalogeni vatrodojavni instal. kabel JB-H(ST)H 4x2x0,8BMK                          10000   21 210000.00  52500.00
+Kompenzacija  LSFC 14% 200/50kvar 600x2000x600mm Samost.orm.                      62670.49   291817444.13 454361.03
+Ugradna svjetiljka SE-ID ECO PAR L1 TC-L 2x40W ECG M600                             659.94   25  16498.50   4124.63
+Uklopni sat, digitalni, tjedni program, 1 C/O, 250V AC                              475.16   17   8077.72   2019.43
+
+                                                                                                         ----------
+UKUPNO                                                                                                    2052020.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

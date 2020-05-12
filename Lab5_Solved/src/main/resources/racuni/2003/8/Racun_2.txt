@@ -1,0 +1,33 @@
+Račun br. 1012182
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Bezhalogeni jednožilni vodič H07Z-U 1,5mm2, smeđi                                    10000   30 300000.00  75000.00
+FIN XS Pole 30 2x4W LED 3000°K, 600lm, siva                                        3024.84   28  84695.52  21173.88
+Zamjenjiva skala, 72x72mm, 150/300/5A AC                                              4399    3  13197.00   3299.25
+Kompenzacija  LSK 7% 31,25/6,25kvar 600x1250x300mm zidni orm                       19690.3    6 118141.80  29535.45
+Pila za zidne kutije, d=60mm DE, bez adaptera (GI63202106)                          170.12   22   3742.64    935.66
+Postolje Poly nisko 950mm vel.0 H, S4/T, RAL7032                                   2014.68   28  56411.04  14102.76
+Odstojnik montažnih ploča u AS ormarima visine 2200mm                               530.53    7   3713.71    928.43
+MODUL CONNECT završna pločica 4P (za ISS90004)                                        5.44   15     81.60     20.40
+Označne pločice '11-20', Dekafix DY5 (sadrži 50 oznaka)                               8.45   28    236.60     59.15
+Vrata, metalna za MODUL 160, 4x24 modula                                            393.52   18   7083.36   1770.84
+Nosač MO 3M s vijcima                                                                 4.22    6     25.32      6.33
+Vezna sp. za sonde i uzemlj. profile, 3-dj, Ø20, pl.30+Ø8-10                         31.33   17    532.61    133.15
+Uvodnica PG9 (maticu M273103--- naručiti odvojeno)                                    3.17   19     60.23     15.06
+N/Ž okvir + vrata 4A-21 D=250mm str.ploča+zakr. ručica, IP54                       3610.89   15  54163.35  13540.84
+UPS Premium Plus ER 2200VA 1760W 0min, 1f/1f /Online                               5872.72   30 176181.61  44045.40
+Prsluk Store, ženski -X-large-                                                       449.7    1    449.70    112.43
+Bimetalni relej, područje podešenja 40.00-52.00A                                    691.43   28  19360.04   4840.01
+S4H univerzalna montažna ploča za DIN profil, 210x120mm                             278.88    7   1952.16    488.04
+Umetak serijske sklopke, na oprugu                                                   12.65   26    328.90     82.22
+PROFUNO LED Spot, 3000K, 60°, uklj. 3F adapter, bijele boje                        1250.97   11  13760.67   3440.17
+Teretna sklopka, 4P, 400A, VC3, bez ručice                                         1238.13    1   1238.13    309.53
+
+                                                                                                         ----------
+UKUPNO                                                                                                     855356.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

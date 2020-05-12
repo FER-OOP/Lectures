@@ -1,0 +1,28 @@
+Račun br. 172377
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Isklopnik, 2-polni, 40A                                                             114.31    5    571.55    142.89
+"Zidni komunik. ormar DW, rastav. Flat Pack, 550x400, 19"", 9U"                     760.15   30  22804.50   5701.13
+Energetski kabel 0,6/1kV PP00-Y (EYY-J) 1x95 RM crni                               7629.46    6  45776.76  11444.19
+Podnožje samostoječeg ormara 800x600x200mm                                          1274.1   16  20385.60   5096.40
+Distantni vijak visine 30mm, M6, unutarnji i vanjski navoj                           20.84   30    625.20    156.30
+Tipka za elektronski dimer, antracit                                                234.78   19   4460.82   1115.20
+Odvodnik prenapona COMBTEC kl.B/C TNC 275/12,5+H                                   1126.65    5   5633.25   1408.31
+Bezhalogeni kabel s el. funkc. do30 Min. (N)HXCH4x70rm/35E30                         10000    8  80000.00  20000.00
+"19"" čelični slijepi pokrov, 4U, RAL 7035"                                          37.72    8    301.76     75.44
+Zaštitni prekidač AMPARO 6kA, C 25A, 3-polni                                         76.11   22   1674.42    418.60
+Mura-CL-I-Q 9W GX53, 100-240V, IP54, aluminij                                       298.38   18   5370.84   1342.71
+Finožični PVC-om izol. vodič H05V-K(P/F) 0,75mm2,naranč. HPV                         10000   22 220000.00  55000.00
+Zaštitni prekidač za ugradnju ispred brojila, C 20A, 1-polni                        256.03   16   4096.48   1024.12
+Instalacijski sklopnik 20A | 2 N/O | 230V AC                                        113.32    3    339.96     84.99
+SAT razdjelnik,1xIEC ž-2xIEC m,za TV,0.1-2200 MHz,TVE 1-03                           14.06    6     84.36     21.09
+Levante-S 16 LED 38W 3540lm 4000K asim.,IP66, SKII, RAL9003                        2629.01   30  78870.30  19717.57
+
+                                                                                                         ----------
+UKUPNO                                                                                                     490995.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,17 @@
+Račun br. 298227
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Instalacijski sklopnik 63A | 4 N/O | 230V AC                                        370.77   10   3707.70    926.92
+PROTECTOR K nazidna kutija visine 20mm, bijela                                       30.64   28    857.92    214.48
+"Kućište sa dva tipkala ""0""-""1"" (crveno/zeleno), komplet"                       197.89   12   2374.68    593.67
+KADUX LED Single DL  Set, 3000K, 30°, crne boje                                    1307.91   25  32697.75   8174.44
+Završni poklopac LBR ravni sa otvorom                                                51.19   24   1228.56    307.14
+
+                                                                                                         ----------
+UKUPNO                                                                                                     40866.61
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

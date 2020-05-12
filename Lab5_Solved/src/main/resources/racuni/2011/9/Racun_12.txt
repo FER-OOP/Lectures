@@ -1,0 +1,27 @@
+Račun br. 954480
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Bezhal. kabel poboljšanih svoj.za sl. požara N2XH-J 1x50rm                           10000    2  20000.00   5000.00
+Nadgradna svjetiljka SAP IP54 T8 2x36W CCG, bijela                                  946.01   21  19866.21   4966.55
+Nap.stezaljka za EASYTEC II                                                         312.23   20   6244.60   1561.15
+Vijčana kapa za podnožje DIII, E33, bez ispitnog otvora                               8.94   26    232.44     58.11
+Instal. umetak 5-39K komplet 13 IR prednja pl. čelik                                3094.3   22  68074.60  17018.65
+Montažna šina7045 sa kab. kanalom, dužina 4,15m                                     594.31   20  11886.20   2971.55
+Osigurač DC 250A - max48V, priključak M10                                            58.61   25   1465.25    366.31
+Tuwa-I-R LED 1W 3000K 30lm, 350mA, IP67, aluminij                                   197.85   16   3165.60    791.40
+Završni pokrov (centralni) za nosač sabirnica SI014300--                             54.23   21   1138.83    284.71
+Nap.stezaljka za EASYTEC II                                                         312.23    2    624.46    156.12
+Zaštitni prekidač, B karakteristika, 13A, 1-polni, 6kA                               34.71   18    624.78    156.19
+WireXpert RJ45 set permanent adaptera - klase Ea / cat.6a                             5300   18  95400.00  23850.00
+Relejna kartica za 8 RT releja, 24V DC, 8A, 2 C/O, LED                              887.13   19  16855.47   4213.87
+KALU 3 zidna i strop.svj.mat bijela 3x50Wmax.QRB111                                1126.79    3   3380.37    845.09
+SAT multiswitch 5 IN 10 OUT za quattro/quad LNB,kask.,10m                          1320.28   29  38288.12   9572.03
+
+                                                                                                         ----------
+UKUPNO                                                                                                    287246.94
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

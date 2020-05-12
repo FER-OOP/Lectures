@@ -1,0 +1,14 @@
+Račun br. 641980
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Relej snage, 2C/O, 8A, 6VDC serije RT, raster 5mm                                    13.49    1     13.49      3.37
+Nathan-Q 13W G24q-1, 230V, IP20, brušeni krom                                        19.59    1     19.59      4.90
+
+                                                                                                         ----------
+UKUPNO                                                                                                        33.08
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

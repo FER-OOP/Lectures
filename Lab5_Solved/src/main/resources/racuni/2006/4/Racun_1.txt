@@ -1,0 +1,20 @@
+Račun br. 541270
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Metalhalogena žarulja, 35W 10 ° PAR30 E27 WW CERAMIC                                 16.05    9    144.45     36.11
+FIN XS Pole 30 4W LED 3000°K, 300lm, antracit                                      1999.54    3   5998.62   1499.66
+60020, STICKER ONE LIGHT LOGO 14x12cm                                                 3.04    4     12.16      3.04
+Kompaktni prekidač snage tip A, 3P, 150kA, 80A, utični                             2218.61   11  24404.71   6101.18
+Jakna -XL- Flis siva                                                                  9841   20 196820.00  49205.00
+Bezhalogeni vatrodojavni instal. kabel JB-H(ST)H 8x2x0,8 E30                         10000    6  60000.00  15000.00
+Paralelna spojnica (kratkospojnik) za 2 stezaljke IK600035--                          8.94    8     71.52     17.88
+INDA SPOT GU10 zidna i stropna svjetiljka,max. 50W,crvene b.                        343.66    6   2061.96    515.49
+
+                                                                                                         ----------
+UKUPNO                                                                                                    289513.44
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

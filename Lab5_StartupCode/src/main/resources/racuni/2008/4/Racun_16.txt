@@ -1,0 +1,33 @@
+Račun br. 410813
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Decoring 51mm, krom                                                                   37.5   25    937.50    234.38
+Ugradna svjetiljka SERH XTP T5 4x28W ECG M625, bijela                              1642.58   18  29566.44   7391.61
+Cilindrični osigurač, 14x51, 6A, gG, 690V AC                                          5.93   17    100.81     25.20
+Optički prespojni kabel duplex, LC/SC, 9/125µm OS2, 5.0m                              97.4   23   2240.20    560.05
+E30 kućište za panik centrale BK sa venti. V=950 Š=600 D=325                          5132   23 118036.00  29509.00
+316 ANALOG-Panel Video s 12 tipki, nehrđajući čelik, VIP                          17455.59    7 122189.13  30547.28
+FN-Light, Multi-Mirror, EXZ, Flood, 50W, 27° !COOL BEAM!                             10.85   30    325.50     81.38
+Kućni komunikac. razdj., 2-redni, 26xTOOLL., 3x230V, RAL9003                        734.67   17  12489.39   3122.35
+Grupno signalno svjetlo, 24V DC, 2-struko                                             2104   16  33664.00   8416.00
+Khali-I-R/A2 35W G8,5, 230V, IP20, sive boje                                        161.18   18   2901.24    725.31
+"Prespojni panel 19"", prazan, za 48 modula (SFB), 1U, nehrđ."                      259.73   13   3376.49    844.12
+Panik svjetiljka PF FLUO 11W, CPSsustav,MIX mod, zidna                             1792.05   14  25088.70   6272.18
+APOLLO šina, 2m, alu satin                                                           288.7   16   4619.20   1154.80
+Maskirni razdjelnik 3 širine brojila/ 21 MV                                           4180   14  58520.00  14630.00
+Vijak M4 12mm                                                                         4.83   18     86.94     21.74
+Instal. umetak 3-42L komplet 14 IR prednja pl. plastika                            2888.87    6  17333.22   4333.31
+Natpisna pločica, prazna, 27 x 27mm, samoljepljiva                                    2.92    8     23.36      5.84
+LED napajanje 24V/100W IP67                                                         331.21   18   5961.78   1490.44
+TRAIL razvodna kutija IP65 za TRAIL 650mm                                          1127.99   16  18047.84   4511.96
+Kompaktni prekidač snage tip A, 3P, 36kA, 160A                                     1649.83    9  14848.47   3712.12
+Samostojeća svjetiljka SVO TC-L 4x55W senzor + dim                                 6314.81    5  31574.05   7893.51
+
+                                                                                                         ----------
+UKUPNO                                                                                                    501930.25
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,14 @@
+Račun br. 787183
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+D01 prilagodni uložak (prsten) Neozed 10A                                             2.27    2      4.54      1.13
+Bezhalogeni kabel s el. funkc. do30 Min. (N)HXH-J5x2,5reE30                          10000   15 150000.00  37500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    150004.55
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,24 @@
+Račun br. 1092109
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Završna pločica za stezaljku IK800002-C, siva                                         2.43   11     26.73      6.68
+Zaštitni prekidač, B karakteristika, 50A, 3-polni+N, 10kA                           393.27   12   4719.24   1179.81
+GLENOS četvrtasti Profile 3030, 2m, bijele boje                                     500.12   10   5001.20   1250.30
+Kabel H05VV5-F 5x2,5 sivi                                                            10000    8  80000.00  20000.00
+Podnaponski isklopnik 400/440VAC za MZS vel.00/0/2/3                                 95.94    7    671.58    167.90
+Push pull presp. kabel RJ45 STP cat.6a 10GB LS0H sivi 10.0m                         134.04    3    402.12    100.53
+Sobni kontroler temperature, titan bijeli/metalik srebrni                          1392.07   11  15312.77   3828.19
+Matica M63x1.5, metrička, poliamid                                                   10.56   14    147.84     36.96
+Dena-R/A2 70W G12, 230V, IP20, brušeni krom                                           7.77   17    132.09     33.02
+Električarski odvijač, ravni, 3x100mm, 1000V, izoliran                               30.72   13    399.36     99.84
+Parov-CL-IV-CO 50W GU10 MR16, 100-240V, IP20, aluminij                              219.81    2    439.62    109.91
+TENORA CL-2 stropna svjetiljka sa 2 zgloba, bijele boje                            1558.31   17  26491.27   6622.82
+
+                                                                                                         ----------
+UKUPNO                                                                                                    133743.83
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,18 @@
+Račun br. 1054206
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Dodatno pričvršćenje za IL0614../IL0615..                                             4160   26 108160.00  27040.00
+Kabel H05VV-F (PP/J) 2x1,5mm2, crni, 100m                                            10000   19 190000.00  47500.00
+Ovjesne kuke od nehrđajućeg čelika za svjetiljku LINDA 11W                           16.58    4     66.32     16.58
+LED Panel Round 240 15W 1050lm neutr. bb 4200K, bijele b.                           441.51   13   5739.63   1434.91
+"L-SE montažna šina MR 2x58 neožičena; duljina 3072, bijela"                        102.23    5    511.15    127.79
+Razvodna kutija-šuplje stijenke 107x107mm+pokl., narančasta                        1537.96   12  18455.52   4613.88
+
+                                                                                                         ----------
+UKUPNO                                                                                                    322932.62
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

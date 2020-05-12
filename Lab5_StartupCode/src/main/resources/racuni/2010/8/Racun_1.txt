@@ -1,0 +1,24 @@
+Račun br. 631771
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+FORCHINI M, PD-1, 50cm, okr., bijelo/zlatne b., E27, max.40W                        1495.8   29  43378.20  10844.55
+Finožični PVC-om izol. vodič H07V-K (P/F) 120mm2, crni HPV                           10000   23 230000.00  57500.00
+SERH 2 A2 L1 T5 3x24W, ECG, M600, bijel ab.                                         480.92   20   9618.40   2404.60
+Energetski kabel 0,6/1kV PP00-Y (EYY-J) 1x16 RE crni                               1508.89    5   7544.45   1886.11
+Okvir za IKALL, 2-struki, srebrni                                                   347.63   13   4519.19   1129.80
+Finožični PVC-om izol. vodič H07V-K (P/F) 50mm2, ž/z HPV                             10000    6  60000.00  15000.00
+Okvir za vrata, za MC3, crni, IP40                                                   88.63    6    531.78    132.94
+NEW TRIA 68 LED DL okrugli Set, 9W, 3000K, 38°, crne boje                           437.43   28  12248.04   3062.01
+Metalhalogena žarulja 150W CDM-T, G12, WDL                                          249.72    1    249.72     62.43
+Cilindrični osigurač, 14x51, 2A, gG, 690V AC                                         14.04    3     42.12     10.53
+Prisjedni vijak za EZIII, 60A                                                         6.26   21    131.46     32.87
+Predinstalirani inst. kab. cat.7, 2xkon. bloka, 2xzašt., 50m                        359.21   10   3592.10    898.02
+
+                                                                                                         ----------
+UKUPNO                                                                                                    371855.44
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

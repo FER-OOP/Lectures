@@ -1,0 +1,20 @@
+Račun br. 259407
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Prednja ploča, čelična, sa otvorom za uređaje, 1G3                                   41.05   27   1108.35    277.09
+Instalacijski sklopnik 20A | 2 N/C | 230V AC                                        113.32    4    453.28    113.32
+Motorna zaštitna sklopka, 3-polna | 6.30 - 10.00A                                   257.75    1    257.75     64.44
+Tel. razvodni ormarić Box VKA12 za 420 par, za okruglu šipku                       1438.35   21  30205.35   7551.34
+Kopče za montažu za DELF C PRO, 10 komada, 45°                                       50.01   10    500.10    125.03
+Transformator, 1-fazni | 230/230V | 250VA, IP00                                     508.44   20  10168.80   2542.20
+Signalni fleksibilni kabel YSLY-OZ 12x2,5 sivi                                       10000    7  70000.00  17500.00
+EASY 719 AC RC, 100-240VAC, 12 dig. ulaza, 6 relejnih izlaza                       1568.96   11  17258.56   4314.64
+
+                                                                                                         ----------
+UKUPNO                                                                                                    129952.19
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

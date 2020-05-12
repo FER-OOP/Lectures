@@ -1,0 +1,25 @@
+Račun br. 353867
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"Natpisna pločica, ""DOWN"", 17.5 x 28mm, natična"                                    8.13   18    146.34     36.58
+Linijska svj. SERM 220 ASY 2x28W, ECG, bijele boje                                  377.13    3   1131.39    282.85
+COMMO PL PD-1okrugla svj.GX53,max.13W,uklj.bijeli 1-f.adapt.                        312.23   17   5307.91   1326.98
+IKALL metal modul, bez tipki, za audio/video jedinicu                                549.1   10   5491.00   1372.75
+ALTRA DICE zidna svj., WL-2, bb, GU10, max. 50W                                     625.15   22  13753.30   3438.33
+LED RETROFIT RL-C40 5,3W 230V 827 470lm mat E14 15000h                               34.86   12    418.32    104.58
+Sobno signalno svjetlo (crveno) sa alarmom, 24VAC/DC, bijelo                        977.14    2   1954.28    488.57
+Kabel  PP00-Y (NYY-J) 4x150 SM                                                    46655.22   251166380.50 291595.13
+3-fazna LED signalizacija prisutnosti napona                                          98.3    7    688.10    172.03
+Sutil Quadro LED 8W, 4000K, 560lm, 120°, IP40, bijele boje                          132.63   10   1326.30    331.58
+Redna stezaljka (utični priključak), 2.5mm²,zelena                                    5.93    7     41.51     10.38
+Napojna stezaljka, 95mm2 za vel.3, 1-polna                                           55.96   23   1287.08    321.77
+Profil za montažu DIN nosača na dno, širina 800mm (2 kom.)                            4065   23  93495.00  23373.75
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1291421.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

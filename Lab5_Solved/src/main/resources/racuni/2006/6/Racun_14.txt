@@ -1,0 +1,18 @@
+Račun br. 318841
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LED 85-264V AC, bijeli, za montažu na dno kućišta, utične                            57.72   17    981.24    245.31
+Priključna ploča, 4P, sustav 60mm, 120-300mm² Cu/Al                                 578.07   25  14451.75   3612.94
+Optički prespojni kabel duplex LC/LC, 50/125µm OM4, 5.0m                            157.25   21   3302.25    825.56
+Vodič (N)YM-J (PGP) 7x2,5mm2, sa zašt. vodičem, svij.-sivi                           10000   18 180000.00  45000.00
+DELWA PATH LIGHT LED samost. svj., bijela,4x1W LED, topla b.                       1746.03    3   5238.09   1309.52
+Zaštitni prekidač MB GR.2 36kA CL 125/3                                            1175.86    3   3527.58    881.90
+
+                                                                                                         ----------
+UKUPNO                                                                                                     207500.9
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,18 @@
+Račun br. 218067
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Sabirnica 3-polna, jezičasta, 16mm², 80 A, korak 18mm, 1m                             4835   26 125710.00  31427.50
+Majica Store dugih rukava -middle-                                                  255.48    2    510.96    127.74
+Pokrov stezaljki za sklopnike veličine 3                                             16.81   12    201.72     50.43
+Mehanička blokada za sklopnike vel.6-12                                              79.59    5    397.95     99.49
+FID sklopka 63-4-03/A (puls), 6kA                                                      588   19  11172.00   2793.00
+BIMA II svjetiljka za 1-faznu šinu, srebrne boje                                    365.29    5   1826.45    456.61
+
+                                                                                                         ----------
+UKUPNO                                                                                                    139819.08
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

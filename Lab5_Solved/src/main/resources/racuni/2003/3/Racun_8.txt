@@ -1,0 +1,33 @@
+Račun br. 125983
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Fluokompaktna žarulja TC-D 10W/830 G24D-1                                            27.45   23    631.35    157.84
+Pako-S/A2 LED 2x1W 6000K, dimabilna, 350mA, IP20, aluminij                           77.21   22   1698.62    424.65
+Uklopni sat, digitalni, godišnji program, ASTRO, 4 C/O, 4ŠM                        2627.92   29  76209.68  19052.42
+LASSON, ovjesna svjetiljka, PD-3, okrugla, bež, 3xE27                              1307.91    4   5231.64   1307.91
+Reflektor FORCA LED 151W 16220lm/757 ECG IP65, as široki,sb                        4134.73   29 119907.17  29976.79
+Komplet piktograma za KW ljevo,desno, dolje                                          15.77   30    473.10    118.28
+Fleksibilni plosnati kabel za dizalice H07VVH6-F 12x1,5,crni                         10000   12 120000.00  30000.00
+IKALL metal modul sa 6 tipki                                                        867.46    9   7807.14   1951.79
+60016, STICKER SWITCH TO ONE LIGHT 30x9cm                                             3.88   19     73.72     18.43
+Yela-Q 2x26/32/42W G24q, 230V, IP20, bijele boje                                      7.77   25    194.25     48.56
+Energetski kabel sa Al vodičima 0,6/1kV E-AYY-J 5x25rm crni                           7055   27 190485.00  47621.25
+Stezaljka glavnog voda (zaAl i Cu),1P,2x35mm²|2x25mm²,zelena                         34.04   27    919.08    229.77
+SCART HQ kabel, Scart muški - Scart muški, 5m                                        43.19   28   1209.32    302.33
+Zaštitni prekidač AMPARO 6kA, C 40A, 3-polni                                         87.48   21   1837.08    459.27
+Uvodnica PG9 (maticu M273103--- naručiti odvojeno)                                    3.17    4     12.68      3.17
+FLEXLED ROLL SELECT 24V, 1m, 5000K                                                  124.52   21   2614.92    653.73
+LED RETROFIT T8 18 9W 190° 840 750lm G13 30000h                                      57.29    8    458.32    114.58
+Grebenasta sklopka u kućištu (crveno/žuta), 0-1/4P/40A, IP65                        508.28    9   4574.52   1143.63
+SOPRANA,ovjesna svjetiljka,PD-1,četvrtasta,bb tekstil,4xE27                        1433.11   30  42993.30  10748.33
+Pierce-II-R/A2 50W GU10 AR111, 100-240V, IP20, bijele boje                          205.28   14   2873.92    718.48
+Spojnica motorke BES0 i i sklopnika vel.0 / za AC                                    19.26   20    385.20     96.30
+
+                                                                                                         ----------
+UKUPNO                                                                                                     580590.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

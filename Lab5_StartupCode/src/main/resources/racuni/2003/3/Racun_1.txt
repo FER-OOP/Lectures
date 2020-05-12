@@ -1,0 +1,30 @@
+Račun br. 450168
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Sabirnica, 3P, jezičasta, 35mm²|korak 30.5mm| 1015mm                                677.23   26  17607.98   4402.00
+Teretna sklopka, 4P, 630A                                                          2774.72    6  16648.32   4162.08
+LS-FI (KZS), C/10A/100mA, 2P, Tip A, 10kA                                             4281    8  34248.00   8562.00
+Kabel H05VV5-F 34x1,5 sivi                                                           10000   14 140000.00  35000.00
+Tipka MO 1M sa indikacijom, bijela                                                    2.65   19     50.35     12.59
+Stezaljka ECB plavo/zelena, dovod: 1x25mm² | odvod: 7x4mm²                           89.67    6    538.02    134.51
+AIXLIGHT KARDAFRAME 4, QRB111, u nizu                                              1558.31   16  24932.96   6233.24
+3f reflektor VITO LED 26W 1550lm/830 40°, bijele boje                               939.29   16  15028.64   3757.16
+Odvodnik prenapona, punjen plinom, 8x20mm, 230V                                      30.43   29    882.47    220.62
+Finožični PVC-om izol. vodič H07V-K (P/F) 1,5mm2, crveni HPV                         10000   13 130000.00  32500.00
+Poklopac 380x190x80mm sivi - E-DH                                                   311.65    5   1558.25    389.56
+Utičnica s poklopcem, 16A, umetak, inox efekt                                        128.1   25   3202.50    800.63
+Predtpor za povezivanje LED  12-30V AC/DC na 220V AC/DC                             107.97   21   2267.37    566.84
+Kompaktni prekidač snage tip M, 3P/80A/50kA, MC1                                   1037.32   16  16597.12   4149.28
+Razvodna kutija-šuplje stijenke, dubina 45mm pokl.,nar.                             976.64    4   3906.56    976.64
+LED SURFACE SPOT 1800lm, okrugla, srebrna b., 48 LED, 3000K                        1125.94    4   4503.76   1125.94
+Umetak dimera, 300 W/VA, RLC, 2-žični                                                279.8   21   5875.80   1468.95
+3-kanalni radio prijemnik modul, max. 3000W                                         437.43   18   7873.74   1968.43
+
+                                                                                                         ----------
+UKUPNO                                                                                                    425721.88
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

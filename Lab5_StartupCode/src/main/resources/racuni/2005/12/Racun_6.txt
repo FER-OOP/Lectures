@@ -1,0 +1,18 @@
+Račun br. 897594
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Komunik. Kartica Profibus (DP-V1, Profidrive V2 PP05), box                         5929.29   22 130444.38  32611.10
+Jamba-III-WL-R 15W E27, 100-240V, IP54, rusty                                       124.52    5    622.60    155.65
+Pomoćni kontakt, 1 C/O kontakt,serija AMPARO,uskočna montaža                         57.57   28   1611.96    402.99
+DIGI-SAT alat za skidanje izolac. koaks. kab. 6.6-6.8 i 11mm                        140.68   23   3235.64    808.91
+KNX napajanje 640mA                                                                1942.61   16  31081.76   7770.44
+Tarifni prekidač s podešavanjem na 40A i 50A, 3-polni                               483.19    3   1449.57    362.39
+
+                                                                                                         ----------
+UKUPNO                                                                                                     168445.9
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

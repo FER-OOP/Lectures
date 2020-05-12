@@ -1,0 +1,16 @@
+Račun br. 171232
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Akumulator 3,6V 3,3Ah f.8W/6W 3h                                                    138.45   11   1522.95    380.74
+Otvoreni prekidač, 4P, 55kA, 1600A, fiksni,vod. str. priklj.                      36972.96   11 406702.56 101675.64
+KARDAMOD SURFACE SQUARE QRB DOUBLEpravokutna,bijela max.2x75                       1558.31   11  17141.41   4285.35
+PD-C360/8 Slave P/Ž stropni senzor prisutnosti 360° Ø8m                             905.46   17  15392.82   3848.21
+
+                                                                                                         ----------
+UKUPNO                                                                                                    440759.72
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

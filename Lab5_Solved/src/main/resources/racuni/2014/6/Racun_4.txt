@@ -1,0 +1,27 @@
+Račun br. 195923
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Slušalica STYLE (4+n ožičenje)                                                      128.98    7    902.86    225.71
+Kutija za fiksni spoj sa 5X2,5mm2, uzidna/nazidna, bijela                            16.91   27    456.57    114.14
+Stezaljka 3 polna (sa uzemljenjem)                                                   16.73   20    334.60     83.65
+Bath četvrtasti Small LED 600mm, IP44, krom                                         377.96   16   6047.36   1511.84
+"19"" profil / šina 12U za zidne komunikacijske ormare tip DW"                       44.25    7    309.75     77.44
+Kupaonski set 4M 3x20A, na vijak, line, bijeli                                       94.72    3    284.16     71.04
+Držač žaruljice sa ugrađenom LED, plavi, 230VAC, vijčane st.                         42.98   26   1117.48    279.37
+Otvoreni prekidač, 4P, 66kA, 1600A, fiksni, prednje priklj.                       40409.89    7 282869.25  70717.31
+Daljinski isklopnik 230V AC, ugradnja desno, za MY2                                 218.97   13   2846.61    711.65
+Držač za instalacijsku cijev M40, sivi (pak.50 kom.)                                265.13    3    795.39    198.85
+"Opt. razdjelnik,12 niti, FC, 9/125µm OS2, izvlačivi,19"",1U"                      1430.01   16  22880.16   5720.04
+Dewy IP65  za 2xT8 LED cijevi 1500mm PC/PC                                          185.68   16   2970.88    742.72
+Zaštitni prekidač, C karakteristika, 2A, 1-polni+N, 6kA                              90.53   21   1901.13    475.28
+Nadgradna svjetiljka SARH IP54 T5 2x54W ECG, bijela                                1227.12    9  11044.08   2761.02
+Zaštitni prekidač, D karakteristika, 16A, 4-polni, 10kA                             477.18   17   8112.06   2028.01
+
+                                                                                                         ----------
+UKUPNO                                                                                                    342872.34
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

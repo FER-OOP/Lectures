@@ -1,0 +1,27 @@
+Račun br. 468560
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"Bit 1/4"", PH 1, dulj. 25mm, žuti, za uvrtanje u meku podlogu"                      11.82   21    248.22     62.05
+Halogena žarulja HALOLUX 64541 B ES 18W E14, bistra                                  19.85   28    555.80    138.95
+Kabel YSLYQY-JZ 18x 1 prozirni                                                       10000   28 280000.00  70000.00
+Bimetalni relej za sklopnike vel. 0 | 5,50 - 8,00A                                  191.26    9   1721.34    430.33
+LED G4, 1,5W, 3000K, 110lm, 12V AC/DC                                                36.66   13    476.58    119.14
+Stražnja ploča za nazidni Modul 2000 | 4R-42                                         409.8   24   9835.20   2458.80
+9018L/W, T8 LED staklena cijev 18w WW 120cm , 230v, mat                              73.32   22   1613.04    403.26
+Dimer rotacijski MO 1M 40-300W RL, sa izm. sklopkom, bijeli                         173.03    8   1384.24    346.06
+LED G9 2,5W 200lm 3000K                                                             100.21    1    100.21     25.05
+Ugradna svjetiljka SEP XTP T8 4x36W CCG IP54 M600, bijela                          1644.44   12  19733.28   4933.32
+PlanoCentro 201, senzor prisutnosti, stropni, srebrni                              3920.07   20  78401.40  19600.35
+Montažna ploča za ILM-modularni okvir                                                 4067    4  16268.00   4067.00
+SAT stup d=2m, Ø50mm, sa završnom kapom, alu                                        133.27   23   3065.21    766.30
+Tess-R 2x26W G24q-3, 230V, IP20, sive boje                                           19.59   30    587.70    146.93
+Električarski odvijač, križni, PH-3x150mm, 1000V, izoliran                           56.21   12    674.52    168.63
+
+                                                                                                         ----------
+UKUPNO                                                                                                    414664.78
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

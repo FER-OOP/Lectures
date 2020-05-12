@@ -1,0 +1,16 @@
+Račun br. 361563
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kompaktni prekidač snage tip A, 3P, 150kA, 25A                                     2409.72    5  12048.60   3012.15
+Debasto LED Spot, 8W, 3000K, Ra=80, 360lm, okrugla, sive b.                         813.03    7   5691.21   1422.80
+KADUX LED Triple DL Set, 3000K, 38°, bijele boje                                   1188.46   18  21392.28   5348.07
+Tipka MO 1M sa simbolom zvona i indikacijom, bijela                                   3.43   25     85.75     21.44
+
+                                                                                                         ----------
+UKUPNO                                                                                                    39217.836
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

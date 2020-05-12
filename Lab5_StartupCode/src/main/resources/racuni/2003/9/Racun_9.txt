@@ -1,0 +1,31 @@
+Račun br. 122861
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zaštitni prekidač, C karakteristika, 20A, 2-polni, 6kA                               63.66   15    954.90    238.72
+Plafonjera AURA 2 Sensor LED 12,6W 4000K 1200 Lumen                                  806.7    8   6453.60   1613.40
+Okvir viši s vratima i umetkom za KVH, 4-redni, 48+8 modula                         439.76   20   8795.20   2198.80
+Reflektor FORCA LED 151W 14900lm/740 ECG IP65 50°,sb                               4134.73   15  62020.95  15505.24
+Svjetiljka bljeskajuća žuto 24V AC/DC                                               881.35   10   8813.50   2203.38
+Grebenasta sklopka u kućištu, 0-1/2P/20A, IP40                                      146.34   23   3365.82    841.45
+Bimetalni relej za sklopnike vel. 3 | 45,00 - 63,00A                                421.33   12   5055.96   1263.99
+N/Ž inst. razdj. 4A-18, 6-redni, 270 ŠM, 915x1030x250mm                            3244.44   11  35688.84   8922.21
+Priključna kutija, nehrđajući čelik, 150x150x120(VxŠxD),IP66                        993.94   24  23854.56   5963.64
+Direktni starter sa sklopkom 4kW/400V AC [AC3]                                      452.33   23  10403.59   2600.90
+Maila-R 40W G9, 100-240V, IP44, brušeni krom                                         80.59   21   1692.39    423.10
+"Opt. razdjelnik,16 niti, LC,50/125µm OM2, izvlačivi,19"",1U"                      1445.37    9  13008.33   3252.08
+PATH POLE 50cm 360° 8x1W LED, 40° 3000K RAL9006                                    3178.73   11  34966.03   8741.51
+Kutnik za kabelske kanale širine 5                                                   87.81   22   1931.82    482.95
+MERVALED S zidna svj.,antracit,12WLED,sa senzorom pokreta                          1250.97    1   1250.97    312.74
+FID modul za MC1, 3P, 300mA, tip A, ugradnja desno                                 2796.24   18  50332.32  12583.08
+Industrijski utikač, 5 polni, 32A 400V Quick, IP44                                   50.09    3    150.27     37.57
+Relej snage, 2C/O, 8A, 115VAC serije RT, raster 5mm                                  28.25   24    678.00    169.50
+9012/C, 12W T4 CW                                                                     1.85   30     55.50     13.88
+
+                                                                                                         ----------
+UKUPNO                                                                                                    269472.56
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

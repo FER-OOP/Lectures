@@ -1,0 +1,30 @@
+Račun br. 990167
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Tris-II-R LED 3x1W 6000K 180lm,dimabilna,350mA,IP20,aluminij                        109.99    5    549.95    137.49
+L-SE umetak DM 1.5 ASYM.DOUBLE 1x62W LED 3500lm/840                                   8529    8  68232.00  17058.00
+Serijski ormar AS, 2-vrata, 1800x1000x500 (VxŠxD), RAL 7035                        4737.33   10  47373.30  11843.33
+Preklopnik 8xRJ45 10/100T bez vent., vanj. napajanje, stolni                           176    1    176.00     44.00
+Kabanica veličina XL                                                                  9843   21 206703.00  51675.75
+Uzidni okvir s vratima za Modul 2000 | 3U-18 | dubina 100mm                           4190   22  92180.00  23045.00
+"Opt. razdjelnik,24 niti, SC, 9/125µm OS2, izvlačivi,19"",1U"                      1863.37   24  44720.88  11180.22
+Levante-M 30 LED 71W 6065lm 3000K asim., IP66,SKII,RAL9003                         4644.86   18  83607.48  20901.87
+Označna pločica tip CSC 'U'                                                          10.32   11    113.52     28.38
+Ina-R/A1 LED 18W 3000K 1120lm, IP20, bijele boje                                     437.6   14   6126.40   1531.60
+ES111 Modul za AIXLIGHT PRO ugradno kućište, srebrne boje                           155.78    5    778.90    194.73
+Prekidač, bežično upravljiv                                                         218.46   23   5024.58   1256.15
+Prednji pokrov glavnih kontakata, za VC1                                              67.8   26   1762.80    440.70
+Levante-S 20 LED 48W 3650lm 3000K ulič.opt.,IP66,SKII,antr.                         3401.2   20  68024.00  17006.00
+Nazidni okvir s vratima za Modul 2000 | 1A-18 | dubina 250mm                       1037.21    7   7260.47   1815.12
+Grebenasta sklopka, 1-0-2/3P/20A, na DIN nosač                                      394.02   23   9062.46   2265.61
+Jednožični PVC-om izolirani vodič H07V-U (P) 2,5mm2, bijeli                            169   10   1690.00    422.50
+Signalni fleksibilni kabel YSLCY-JZ 12x0,75                                          10000   12 120000.00  30000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     763385.7
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

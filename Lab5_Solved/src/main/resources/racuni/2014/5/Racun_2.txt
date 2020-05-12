@@ -1,0 +1,17 @@
+Račun br. 959944
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Pribor za brzi priključak Cu vodiča 1.5-70mm2/12x10, vel.00                           8.04    1      8.04      2.01
+Jednožični PVC-om izolirani vodič H05V-U (P) 1mm2, plavi                             10000   15 150000.00  37500.00
+Ugradna svjetiljka SEP ECO T8 4x18W ECG M600, bijela                                281.26   26   7312.76   1828.19
+Dena-R/A2 70W G8,5, 230V, IP20, bijele boje                                           17.9    3     53.70     13.42
+Signalna svjetiljka, plosnata, crvena 24V                                            67.21    8    537.68    134.42
+
+                                                                                                         ----------
+UKUPNO                                                                                                     157912.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

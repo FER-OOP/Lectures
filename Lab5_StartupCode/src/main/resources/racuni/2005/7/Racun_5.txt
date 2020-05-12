@@ -1,0 +1,15 @@
+Račun br. 960655
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Daljinski isklopnik za MC4, 208-250V AC/DC                                          534.27   23  12288.21   3072.05
+Pomoćni kontakt za MZS vel.00/0/2/3 (1+1), prednja montaža                            32.6   12    391.20     97.80
+Limitator potezne struje                                                           1099.13   24  26379.12   6594.78
+
+                                                                                                         ----------
+UKUPNO                                                                                                     39058.53
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

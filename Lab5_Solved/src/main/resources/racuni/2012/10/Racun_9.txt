@@ -1,0 +1,15 @@
+Račun br. 830312
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Teški gumeni kabel H07RN-F 4x120, crni                                               10000    6  60000.00  15000.00
+"Inverter Kaco Powador 14.0; 12.5kVA; TL3, 3f, 2MPPT, IP65"                       25977.36   24 623456.63 155864.16
+Kabelska uvodnica M63x1.5, poliamid, RAL7035                                         86.91   27   2346.57    586.64
+
+                                                                                                         ----------
+UKUPNO                                                                                                     685803.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

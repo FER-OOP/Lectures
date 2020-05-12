@@ -1,0 +1,14 @@
+Račun br. 1094731
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Otvoreni prekidač, 3P, 55kA, 1000A, fiksni,vod. str. priklj.                      11300.46    5  56502.30  14125.58
+Signalni fleksibilni kabel YSLY-OZ 3x0,75 sivi                                       10000   23 230000.00  57500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     286502.3
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

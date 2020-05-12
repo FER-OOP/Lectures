@@ -1,0 +1,27 @@
+Račun br. 199950
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Bezhal. kabel s konc.zaštitnim Cu vodičem N2XCH 4x95sm/50                            10000   12 120000.00  30000.00
+P/Ž inst. razdj. 4U-39,13-redni,585ŠM,1885x1030x250mm(VxŠxD)                       6859.76   28 192073.28  48018.32
+"Optički prespojni panel 19"", 1U, uklj. 4 spojnice SC SM"                          481.51   22  10593.22   2648.31
+Sjekača kliješta VDE L200mm, Solingen                                               277.55   20   5551.00   1387.75
+RUSTY 70 SQUARE vanjska svjet.zahrđani čelik, E27 max.11W                          1871.23   22  41167.06  10291.76
+Paralelna spojnica (kratkospojnik) za 2 stezaljke IK110004--                          4850   24 116400.00  29100.00
+Tel. samostojeći razvodni ormar, 5x600 parica, IP30                               17624.58    1  17624.58   4406.15
+Marra LED traka 14,4W/m 60LEDs/m plava 24VDC IP20                                   476.63    4   1906.52    476.63
+GLENOS završni pokrov za profil 1808, crne boje                                      43.76   20    875.20    218.80
+Ampermetar, 96x96mm, 25A AC, direktno                                               123.64    6    741.84    185.46
+Serijski ormar AS, 2-vrata, 1800x1200x400 (VxŠxD), RAL 7035                        4907.52   11  53982.72  13495.68
+Mara-I-R LED 10W 3000K 700lm, IP54, bijele boje                                     337.07   27   9100.89   2275.22
+Svijetleća tipka s ručicom,2 položaja,crvena,60°,bez povrata                          75.6    7    529.20    132.30
+Ormar komp. 87,5kVAr/14% -12,5kVAr /600x2000x400 samostojeći                      44186.45    3 132559.34  33139.84
+Standardni transformator 12V, 105VA                                                 312.23   11   3434.53    858.63
+
+                                                                                                         ----------
+UKUPNO                                                                                                     706539.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,32 @@
+Račun br. 1029205
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kabel H05VV-F (PP/J) 3x1,5mm2, svijetlo-sivi, 500m                                   10000    7  70000.00  17500.00
+Kutnik za theLuxa, bijeli                                                            36.77   18    661.86    165.46
+Redukcijski element za mont. 5mm sabirnice na nosač SI011380                          2.19   24     52.56     13.14
+ALPA CONE 75 samostojeća svjetiljka, kameno siva                                    813.03    8   6504.24   1626.06
+Utično postolje za MC2, 3-polno                                                     515.83   17   8769.11   2192.28
+Prespojni kabel RJ45 STP cat.6a/10GB, LS0H, žuti, 10.0m                              98.51   26   2561.26    640.32
+Kabel EYY-J (PP00-Y) 3x4RE                                                         1301.43    6   7808.58   1952.15
+Kabel EYY-O (PP00) 4x2,5RE                                                           10000   14 140000.00  35000.00
+Paralelna spojnica (kratkospojnik) za 10 stezaljki IK600006-                         52.19    1     52.19     13.05
+Kabel H05VV5-F 25x0,75 sivi                                                          10000   25 250000.00  62500.00
+Vijak sa upuštenom glavom, za drvo, 3x20mm                                            7.31   14    102.34     25.58
+Umetak 3-struke sklopke, na vijak                                                    17.66   25    441.50    110.38
+Konektor 5 polni sa uzemljenjem                                                      24.19   20    483.80    120.95
+Mura-22-R 16W E27, 100-240V, IP54, aluminij                                         696.28   23  16014.44   4003.61
+Glenos akrilni pokrov, ravni pokrov za profile 2609, 3m                             318.32   24   7639.68   1909.92
+7301/R, LED 12V , crvene boje MR16                                                   10.81   13    140.53     35.13
+GLENOS profil 1808-200, 2m, bijele boje                                             287.23   27   7755.21   1938.80
+Nadgradna svjetiljka LUCIE 1x21/39W QTI, opal pokrov, eloks.                        636.67    5   3183.35    795.84
+UPS Multi Plus 12kVA 10,8kW 9min,3f/3f/Online/veliko kućište                      46940.86    2  93881.72  23470.43
+"Natpisna pločica za umetanje fi=28mm, prozirna, ""BETRIEB"""                         3.09   25     77.25     19.31
+
+                                                                                                         ----------
+UKUPNO                                                                                                     616129.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

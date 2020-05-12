@@ -1,0 +1,25 @@
+Račun br. 600835
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+SMD LED žarulja, oblik svijeće, mat, E14, dim., 5W 3000K                             63.02   21   1323.42    330.86
+PVC kabel, samonosivi, YMT-O 5 x 25 re, crni                                         10000    8  80000.00  20000.00
+Fluokompaktna žarulja TC-S 9W/830 G23                                                 19.7    7    137.90     34.48
+"19"" nosač za prihvat instalacijskih kabela, 1U, RAL7035"                           24.34   27    657.18    164.29
+Luxa 103-200, senzor pokreta, zidni, podžbukni, 200°                                469.48   19   8920.12   2230.03
+Kutnik za montažu kabelskog kanala širine 60mm (kosi rubovi)                         51.54   19    979.26    244.81
+LIGHT EYE ovjesna svjetiljka GU10, max. 50W, bakrene boje                           437.43   22   9623.46   2405.86
+P/Ž inst. razdj. 4U-45,15-redni,675ŠM,2160x1030x250mm(VxŠxD)                       8379.71    9  75417.39  18854.35
+Bela Alto-R 20W E27, 100-240V, IP20, crne boje                                      351.77   11   3869.47    967.37
+Kabel H03VV-F (PP/L) 3x0,75mm2, svijetlo-sivi, 100m kolut                            10000   13 130000.00  32500.00
+Kabel JB-Y(ST)Y 40x2x0,8mm2                                                          10000    6  60000.00  15000.00
+LIGHT EYE ovjesna svjetiljka GU10, max. 50W, zelene boje                            406.17    1    406.17    101.54
+Finožični PVC-om izolirani vodič H05V-K (P/F) 0,75mm2,bijeli                         72.86    9    655.74    163.93
+
+                                                                                                         ----------
+UKUPNO                                                                                                     371990.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

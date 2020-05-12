@@ -1,0 +1,22 @@
+Račun br. 650503
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Nazidni okvir s vratima za Modul 2000 | 1A-07 | dubina 180mm                        874.38   12  10492.56   2623.14
+Montažna ploča za Maxipol ormare 1250X500 (VxŠ), metalna                            721.12    6   4326.72   1081.68
+NV osigurač vel. 00, 160A/400V AC                                                    22.76   22    500.72    125.18
+LED 85-264V AC, crveni, za montažu na dno kućišta, utične                            57.89    3    173.67     43.42
+Luxa 102-140, LED sa senz., 8W, 3000K, zidna, IP44, crna                            623.66   22  13720.52   3430.13
+Grebenasta sklopka, 0-1/3P/25A, na vrata                                            237.49   14   3324.86    831.22
+SIGHT 24, nadgradna svjetiljka, srebrne boje, 24W                                   813.03   30  24390.90   6097.73
+Prozirno kućište za pretvorbu KX u KE lampu                                         117.14   22   2577.08    644.27
+Kabel LiYY 30x0,25                                                                   10000    8  80000.00  20000.00
+Ampermetar, montaža na DIN nosač, AC, 40A, direktno                                 262.11   28   7339.08   1834.77
+
+                                                                                                         ----------
+UKUPNO                                                                                                    146846.11
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,14 @@
+Račun br. 903079
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Stezna nazuvica M25, slijepa                                                          1.28   23     29.44      7.36
+89020/ELE, 20w HQI ELE prigušnica                                                    79.07   26   2055.82    513.96
+
+                                                                                                         ----------
+UKUPNO                                                                                                      2085.26
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

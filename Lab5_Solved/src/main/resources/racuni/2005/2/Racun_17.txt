@@ -1,0 +1,31 @@
+Račun br. 1014642
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Voltmetar, 48x48mm, 500V AC                                                         129.76   28   3633.28    908.32
+Lano Quadro 40W, M600, 6000K, 3200lm, IP20, 950mA, bijele b.                        364.61   28  10209.08   2552.27
+Nosač sabirnica TT profila, 3-polni, 1600A, za sustav 60mm                          219.51    5   1097.55    274.39
+Relej 3 C/O |10A | 220VDC sa LED                                                     83.88   20   1677.60    419.40
+S/FTP inst. kabel cat.7, 4x2xAWG23/1, 1000Mhz, LS0H-3, plavi                        516.15   29  14968.35   3742.09
+Kompenzacija  LSFC 14% 100/12,5kvar 800x2110x500mm Sam.orm.                       45152.94    7 316070.59  79017.65
+Detektor pokreta, bežični, u unutarnu upotrebu                                      374.92    3   1124.76    281.19
+Porter-Q LED 2x1W 3000K 140lm, IP65, antracit                                       403.13   24   9675.12   2418.78
+Plaza-I-S LED 3W 3000K, IP54, sive boje                                             231.98   27   6263.46   1565.86
+Prednja ploča, plastična, slijepa, 3B4K                                               4160    3  12480.00   3120.00
+Ugradna svjetiljka SE-ID ECO L1 T5 2x24W ECG M600, bijela                           421.81   18   7592.58   1898.15
+Zaštitni prekidač AMPARO 6kA, C 25A, 1-polni                                         20.02    7    140.14     35.03
+SPOODI Floodlight 10W reflektor, 100°, IP65, crna b.                                437.43    6   2624.58    656.15
+PD-C360/8 Slave P/Ž stropni senzor prisutnosti 360° Ø8m                             905.46    8   7243.68   1810.92
+NEOZED vijčana kapa, D02 (E18), 63A / 400V, porculanska                               6.81   12     81.72     20.43
+Otvoreni prekidač, 3P, 80kA, 1250A, fiksni,vod. str. priklj.                      19371.89   19 368065.94  92016.48
+"Smart Monitor u boji, nazidni, bijeli, 3,5"""                                      1989.6    3   5968.80   1492.20
+CL 135 T5-R, okrugla, plastika bb, T5,40W                                           630.52    6   3783.12    945.78
+Zaštitni prekidač, D karakteristika, 13A, 1-polni, 10kA                               56.1   25   1402.50    350.63
+
+                                                                                                         ----------
+UKUPNO                                                                                                     774102.9
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,16 @@
+Račun br. 817269
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Teški gumeni kabel H07RN-F 1x240, crni                                               10000   11 110000.00  27500.00
+Finožični PVC-om izol. vodič H07V-K (P/F) 1,5mm2, plavi HPV                          10000   16 160000.00  40000.00
+Sklopnička kombinacija zvijezda/trokut 110kW(205A)AC3|230VAC                        8096.4   15 121446.00  30361.50
+Nap.stezaljka za 1-f  3-f šina,desna, srebrne boje                                   44.94   19    853.86    213.46
+
+                                                                                                         ----------
+UKUPNO                                                                                                    392299.88
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,20 @@
+Račun br. 436443
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Beta 1/58W EVG, široki snop, difuzor od nehrđajućeg čelika                         2149.63   15  32244.45   8061.11
+AIR INDI Display svjetiljka, 7.6W LED, 3000K, bijele boje                           813.03   20  16260.60   4065.15
+Pokrov za čitač otiska prsta 2.0, nehrđajući čelik                                 1659.73   23  38173.79   9543.45
+Derek-Q LED 5W 4500K 310lm, IP53, sive boje                                         198.86   28   5568.08   1392.02
+SEO T5 4x24W, ECG, M625 bijela b.                                                     8534   23 196282.00  49070.50
+Sitra 360 SL vanjska svjetiljka, antracit, GX53, max. 2x9W                          687.83   22  15132.26   3783.06
+Eliot-I-Q LED 1,6W, IP54, sive boje                                                  74.34   20   1486.80    371.70
+Svjetiljka Solo Line T5 1x14W,DALI, bijele boje                                     437.79    6   2626.74    656.68
+
+                                                                                                         ----------
+UKUPNO                                                                                                    307774.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

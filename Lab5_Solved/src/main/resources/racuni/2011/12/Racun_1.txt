@@ -1,0 +1,15 @@
+Račun br. 248123
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Pomoćni kontakt za MZS vel.00/0/2/3 (1+1), prednja montaža                            32.6   11    358.60     89.65
+SAT kapa stupa 42-50mm,do 18 koaks. kabela,neprop.,crni                              39.06    9    351.54     87.89
+Prednja ploča, čelična, slijepa, 4B18                                                 4160   20  83200.00  20800.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     83910.14
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

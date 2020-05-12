@@ -1,0 +1,22 @@
+Račun br. 181700
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+9445/W/E, 45W E27 WW                                                                 26.86   10    268.60     67.15
+Zaštitni prekidač, D karakteristika, 10A, 2-polni, 10kA                             107.65   17   1830.05    457.51
+CRISTAL MEDIUM LED 9x1W 3000K SIM. 40° INOX+ugr.kut.                               2973.64   12  35683.68   8920.92
+Smith-II-R LED 9W 3000K 350lm, IP54, bijele boje                                    417.66   13   5429.58   1357.40
+Minikontrol cent. 500W 3h,32/20 krugova, bez DCM modula                           33057.88   18 595041.81 148760.45
+9G04M/W/E, LED WW 4W E27 100-240V                                                     29.9    7    209.30     52.32
+Zamjenski senzor za Bat-Logg u sustavu  NLBT.MC181                                  649.95    1    649.95    162.49
+T5 GRILL ovjesna svjetiljka, četvrt., bijele b., 2x G5,4x24W                       2809.97   20  56199.40  14049.85
+Adapter za sustav 60mm, EEC 25A, 1 nosač, širine 45mm                               145.51    2    291.02     72.75
+Zavšetak šiljka za zemlju za NEW MYRA 1+2 svj., antracit b.                         218.46    7   1529.22    382.31
+
+                                                                                                         ----------
+UKUPNO                                                                                                     697132.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

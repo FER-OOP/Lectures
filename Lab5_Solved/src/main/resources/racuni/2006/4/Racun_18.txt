@@ -1,0 +1,27 @@
+Račun br. 1066458
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Signalni fleksibilni kabel YSLY-JZ 21x1 sivi                                       3024.86   18  54447.48  13611.87
+Košulja muška, dugih rukava, bijela -42-                                            586.99   21  12326.79   3081.70
+Kabel H05VV-F (PP/J) 3x0,75mm2, svijetlo-sivi, 100m                                  10000   27 270000.00  67500.00
+Konzola za svjetiljku SEVEN-CIRCLE                                                  705.94   12   8471.28   2117.82
+LS-FI (KZS), B/10A/30mA, 1P+N, Tip A, 10kA                                          418.89   22   9215.58   2303.90
+SAT LINE - antenska tehnika                                                              0    2      0.00      0.00
+Kabel H05VVC4V5-K 18x1,5 sivi                                                        10000   29 290000.00  72500.00
+Neizolirana Cu stopica 50mm², M12                                                     8.32   20    166.40     41.60
+Višežični PVC-om izolirani vodič H07V-R (P/M) 25mm2, smeđi                           10000   30 300000.00  75000.00
+Modul signalne svjetiljke, blicajuće crveno svjetlo, 230VAC                         587.33    8   4698.64   1174.66
+Kabel EYY-O (PP00) 3x70SM                                                            10000   15 150000.00  37500.00
+LED Plot uložak, tople bb                                                           143.65   18   2585.70    646.42
+Teretna sklopka, rastavljač (izolator), AMPARO, 100A, 1P                             41.48   19    788.12    197.03
+Instalacijski umetak za Minipol ormar 500x400mm, 3x18 modula                        618.66   30  18559.80   4639.95
+Priključna kutija, nehrđajući čelik, 200x600x120(VxŠxD),IP66                       1717.57   10  17175.70   4293.92
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1138435.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

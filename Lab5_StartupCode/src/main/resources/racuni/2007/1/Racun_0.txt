@@ -1,0 +1,17 @@
+Račun br. 254241
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kabel komunikacijski VE. Direct - 5m                                                167.39   30   5021.70   1255.43
+AIXLIGHT PRO FLAT okr.FRAME 2 ugradno kućište, mat-bb                               437.43   13   5686.59   1421.65
+Kompaktni prekidač snage tip A, 4P, 50kA, 160A/100A, red. N                         2762.2    9  24859.80   6214.95
+Vremenski relej, kašnjenje ukl./iskl.,24-240VAC/DC, 1 C/O,8A                        199.08    5    995.40    248.85
+NV osigurač vel. 00, gG/gL, 100A/690V AC                                              4838   14  67732.00  16933.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                   104295.484
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

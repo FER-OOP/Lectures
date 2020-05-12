@@ -1,0 +1,21 @@
+Račun br. 1063635
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+9G03L/D/SE, 48 LED SMD DL 3,5W E14                                                   15.71    2     31.42      7.86
+Ručka za montažu na vrata, za 3P MC3, crno/siva, komplet                            626.61   23  14412.03   3603.01
+9821/D/2, 21W 2D 2PIN DL                                                              3.71    2      7.42      1.86
+Nož za rezanje kabela, za Cu/Al kabele, TL160, Ø8mm/16mm²                           120.44   30   3613.20    903.30
+Preklopka CG 8 A210-600*FT2+V750 D/3 1PO                                            391.72    1    391.72     97.93
+Strujni trafo 250/5, 2.5VA, class 1, za SI337010...020...030                        226.49   26   5888.74   1472.19
+Parabol.širokosnopni odsijač za svjetiljku LINDA 2-36W 160mm                         132.4    7    926.80    231.70
+Prespojni kabel plosnati RJ45 cat.6, PVC, neokl. sivi, 0.15m                         34.23   26    889.98    222.49
+Bezhal. sign. kabel HSLCH-JZ 12x0,75FRNC H-F sivi/žila crna                          10000    8  80000.00  20000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    106161.31
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

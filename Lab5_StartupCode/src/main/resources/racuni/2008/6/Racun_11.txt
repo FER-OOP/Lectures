@@ -1,0 +1,27 @@
+Račun br. 636735
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kompaktni prekidač snage tip ME, 3P, 150kA, 450A                                   5490.66   23 126285.19  31571.30
+"Zidni komunikacijski ormar DW Dualbloc, 600x770x515, 19"",15U"                    1367.36   22  30081.92   7520.48
+Dimer za tipkalo RLC 5-500VA                                                        510.67   12   6128.04   1532.01
+Tugru-WL-S LED 2x1W 6000K, IP20, aluminij                                           188.22   29   5458.38   1364.59
+LED prespojni kabel RJ45 oklopljen,500 MHz,Ea,10GB,zeleni,3m                         62.88    5    314.40     78.60
+Utičnica šuko 2struka 45° sa kontaktom, na oprugu antracit                           35.32    2     70.64     17.66
+Nazidni okvir s vratima za Modul 2000 | 2A-39 | dubina 250mm                       2120.09   18  38161.62   9540.41
+Aluminijski profil LBS, L=2000mm,  Ø-29,9mm                                         159.16   28   4456.48   1114.12
+INDA SPOT GU10 zidna i stropna svjetiljka,max. 50W,crvene b.                        343.66    1    343.66     85.92
+Završni poklopac LBI okrugli zatvoreni                                               83.77    8    670.16    167.54
+TRAIL podna svj.LED 1250mm 19W 1800lm asim. 3000K                                  5141.98   29 149117.42  37279.36
+Wieland konektor, ženski, bijele boje, 5-polni                                        8529    1   8529.00   2132.25
+Q-Line Single  1x35W, alu-natur sa sivim zavr.pok.                                 2184.14    8  17473.12   4368.28
+Univer.opt.kabel A/I-DQ(ZN)BH 8x50/125µm OM2, LS0H-3, nm.                           749.91   25  18747.75   4686.94
+Dimer 20-315W/VA, tranzistorski, podžbukni                                          776.72    1    776.72    194.18
+
+                                                                                                         ----------
+UKUPNO                                                                                                    406614.53
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

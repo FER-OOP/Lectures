@@ -1,0 +1,14 @@
+Račun br. 753878
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Finožični PVC-om izolirani vodič H07V-K (P/F) 1,5mm2, t-plav                        121.44    9   1092.96    273.24
+"Označne pločice ""PRAZNE"" Dekafix DY10/6.5 (sadrži 10 oznaka)"                      2.19   11     24.09      6.02
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1117.0499
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

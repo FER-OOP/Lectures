@@ -1,0 +1,20 @@
+Račun br. 943294
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+GLENOS akrilni pokrov za Treppenstufen Profile DOWN, 1m                              62.51   12    750.12    187.53
+NV podnožje 3P, vel.00|160A, na ploču, M8, zaštita od dodira                        190.63   21   4003.23   1000.81
+Baterije 18 kom. longlife OGiV 12V/204Ah s kabelima za ožič.                      63437.45   10 634374.50 158593.63
+Modul signalne svjetiljke,treptajuće crveno svjetlo,24VAC/DC                        589.36   26  15323.36   3830.84
+NEW TRIA LED DL četvrtasti Set, 12W, 2700K, 38°, bijele boje                        938.06    9   8442.54   2110.64
+Kabel EYY-J (PP00-Y) 5x2,5 RE                                                      1112.18   25  27804.50   6951.13
+Poliester zidni ormar MINIPOL, prozirna vrata, 400x400x200mm                       1517.01   11  16687.11   4171.78
+Trokatna stezaljka (vijčani priključak) 2.5mm², bež                                  19.43    1     19.43      4.86
+
+                                                                                                         ----------
+UKUPNO                                                                                                     707404.9
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

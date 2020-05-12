@@ -1,0 +1,33 @@
+Račun br. 161875
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Plosnate stezaljke 30 x 30mm, visina: 5 - 20mm                                       72.36   24   1736.64    434.16
+3-fazna T-spojnica, bijela                                                           108.3    9    974.70    243.67
+LS-FI (KZS), C/13A/300mA, 3P+N, Tip A, 6kA                                            4281    2   8562.00   2140.50
+"Natpisna pločica za umetanje fi=28mm, prozirna, ""OPEN"""                            3.09    5     15.45      3.86
+Nadgradna svjetiljka SARH IP54 T5 4x54W ECG, bijela                                1781.73    5   8908.65   2227.16
+Reflektor CAPRI asimetrični 1x70W RX7S HIT/HST, crna                                 498.6   24  11966.40   2991.60
+FID sklopka AMPARO, 63-4-03/A (puls), 10kA                                          673.47   12   8081.64   2020.41
+Poliester kućište 180x135x129mm, prozirni poklopac,IP66,sivo                        201.48   10   2014.80    503.70
+Al-Cu stezaljka 6-95mm2, 2 dovoda/2 odvoda, žuto/zelena                             134.89   30   4046.70   1011.67
+LED napajanje 1W/350mA IP20 za max. 1 PERLA svjetiljku                                8510    3  25530.00   6382.50
+Mia-R 35W G8,5, 230V, IP20, brušeni krom                                              5.74   28    160.72     40.18
+FID sklopka 80-4-003/AC, 10kA                                                       672.08    7   4704.56   1176.14
+Teretna sklopka, rastavljač (izolator), AMPARO, 63A, 1P                              38.22    4    152.88     38.22
+Instal. umetak 2-45K komplet 15 IR prednja pl. čelik                               2475.44    5  12377.20   3094.30
+Držač kabela,mont. na dno ormara,za AS/KS ormare šir. 400mm                         142.08   29   4120.32   1030.08
+Signalni fleksibilni kabel YSLY-JZ 7x0,75 sivi                                      686.13   18  12350.34   3087.58
+Zaštitni prekidač, B karakteristika, 20A, 2-polni, 10kA                              99.09   24   2378.16    594.54
+Pokrov za ind. dio svjetiljke OFFICE 153 2-28/54W                                    58.02   19   1102.38    275.60
+Svijetleća tipka s ručicom,2 položaja,bijela,40°,sa povratom                         71.79   11    789.69    197.42
+Halogena žarulja QR-CBC51 WFL 50W ECO GU5,3 24°                                      34.44   21    723.24    180.81
+Okvir za Lima svjetiljku, okrugli, siva                                              46.46   22   1022.12    255.53
+
+                                                                                                         ----------
+UKUPNO                                                                                                   111718.586
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

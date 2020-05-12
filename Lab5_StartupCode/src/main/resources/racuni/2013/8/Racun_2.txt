@@ -1,0 +1,15 @@
+Račun br. 542501
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Unutarnji kut, SIGNO BK 70/110, RAL 9010                                            153.84   23   3538.32    884.58
+Završni poklopac MFI četvrtasti zatvoreni sa vijcima                                104.83   28   2935.24    733.81
+PT LED utični modul, zeleni, 110-230V AC, EM10                                       12.36   17    210.12     52.53
+
+                                                                                                         ----------
+UKUPNO                                                                                                    6683.6797
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

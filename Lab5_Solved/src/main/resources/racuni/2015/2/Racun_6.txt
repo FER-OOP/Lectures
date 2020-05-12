@@ -1,0 +1,28 @@
+Račun br. 280911
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Rita-R/A2 LED 30W 4000K 2200lm, IP20, bijele boje                                   732.94   14  10261.16   2565.29
+Kabelske vezice, plastične, crne, 4.8x360mm                                          40.08   12    480.96    120.24
+N/Ž okvir+vrata,serijski,1A-42,D400mm,str.pl.+zakr.ruč.,IP54                        4769.3   21 100155.30  25038.82
+Adapter za montažu ARROW BLOC vel.00 na DIN nosač                                     4821   25 120525.00  30131.25
+L-SE LSK 1.5 1x44WDEEP 6450lm 840 ECG, bijele boje                                 1289.56    1   1289.56    322.39
+AFDD, series Lisa, C 16 A, 2-pole, 30 mA, A/delayed, 10 kA                         1215.49   10  12154.90   3038.73
+IPERI WL zidna svj.,bi.b., 48 LED, neutral bi.b., 4000K                             625.15   13   8126.95   2031.74
+Optički prespojni kabel duplex LC/FC, 50/125µm OM2, 3.0m                             77.96    9    701.64    175.41
+LED FLOOD LIGHT,crna b., 80W, 3000K, 120°                                          2497.05    4   9988.20   2497.05
+Nastavak za polucilindar za WSM ormare, montaža bez bušenja                         243.58    3    730.74    182.68
+Maskirni razdjelnik 3 širine brojila/ 33 MV                                           4180   21  87780.00  21945.00
+Svijetleća tipka s ručicom,2 položaja,zelena,40°,sa povratom                         69.11   15   1036.65    259.16
+Kompaktni prekidač snage tip A, 3P/32A/25kA, MC1                                    694.81   21  14591.01   3647.75
+Univerzalna spojnica šina                                                            22.25   26    578.50    144.63
+Teški gumeni kabel H07RN-F 4x120, crni                                               10000   10 100000.00  25000.00
+Priključna stezaljka, 6mm2, 3P, za sklopnike vel. 00                                 38.25   23    879.75    219.94
+
+                                                                                                         ----------
+UKUPNO                                                                                                     469280.3
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,21 @@
+Račun br. 381040
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Slušalica STYLE, SB sa privacy/doctor funkcijom i interkom.                         748.24   23  17209.52   4302.38
+LED 85-264V AC plavi za montažu na dno                                               75.78   14   1060.92    265.23
+Višežični PVC-om izolirani vodič H07V-R (P/M) 10mm2, crni                            10000   14 140000.00  35000.00
+Sabirnica, 2P, viličasta, 16mm² (80A)|korak 17.8mm| 1m                              189.18   29   5486.22   1371.55
+Pomoćni sklopnik vel.00 | 4P | AC15 6A/230V |24VDC|3N/O+1N/C                        118.12    1    118.12     29.53
+LELEX 1 downlight, četvrt. brušeni al., neutr. bijele b. LED                        230.68   24   5536.32   1384.08
+Završni poklopac profila SPL četvrtasti zatvoreni,sa vijcima                          50.2   13    652.60    163.15
+Dimer sa zakretnom tipkom, 15-1200VA, montaža na DIN                               2227.14   20  44542.80  11135.70
+C-POL zidna svjetiljka, antracit, E27, max. 24W                                     625.15   13   8126.95   2031.74
+
+                                                                                                         ----------
+UKUPNO                                                                                                    222733.44
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,29 @@
+Račun br. 593815
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Servisni 1F bypass max. 100A (do 20kVA 1F UPS)                                     4446.97   14  62257.58  15564.40
+Daljinski isklopnik za MC2/3,230VAC/DC,sa ranijim pom. kont.                        495.12   20   9902.40   2475.60
+EURO SPOT EVG, HQI-T, 15°, bijela b., uklj. 3-f adapter                            1000.75   22  22016.50   5504.13
+P/Ž inst. razdj. 5U-33,11-redni,627ŠM,1605x1230x250mm(VxŠxD)                       6464.86    3  19394.58   4848.65
+D02 rastavna pruga CORON R, 3P, 63A fiksno                                          309.95   17   5269.15   1317.29
+Optički prespojni kabel duplex ST/SC, 50/125µm OM3, 2.0m                              74.1    8    592.80    148.20
+Slijepi pokrov - OKA                                                                 70.32   26   1828.32    457.08
+Bočne stranice za Modul 2000/3S, dubine 150mm, tip 28/150                             4160    5  20800.00   5200.00
+Strujni trafo, 200/5A, za kabel promjera do 21mm                                     83.36   12   1000.32    250.08
+PIKA MR16 Downlight, mesing                                                          68.25    7    477.75    119.44
+Savitljiva cijev (srednje), M25, 750N, predožičena sa 5x2.5                        2481.24   21  52106.04  13026.51
+GIMBLE OUT 90 podna svjetiljka, MR16                                                835.84   20  16716.80   4179.20
+LED Retrofit E27, 7W, Bluetooth dim, RGB                                            245.32   17   4170.44   1042.61
+Kabel LiYCY 3x1                                                                     845.02   25  21125.50   5281.38
+Nadgradna svjetiljka PETRA 300 1x22W T16-R IP64                                      561.1    9   5049.90   1262.47
+Završna pločica za redne stez. 2.5|4|6|10mm², tip CBC, plava                          1.37   12     16.44      4.11
+Modul za audio jedinicu, 1 tipka, POWERCOM                                          274.58    8   2196.64    549.16
+
+                                                                                                         ----------
+UKUPNO                                                                                                    244921.16
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

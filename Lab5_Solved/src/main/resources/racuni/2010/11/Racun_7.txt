@@ -1,0 +1,17 @@
+Račun br. 807655
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Linda LED 2x24W EM 1h, 4000K, 7002lm                                               2241.79   11  24659.69   6164.92
+VANDALCOM N/Ž kućište, 1 modul                                                     1177.81   20  23556.20   5889.05
+Teretna sklopka, 4P, 1600A, opcija:dalj. isklop+izvl. modul                       22157.74    7 155104.19  38776.05
+Označne pločice 'PE'', Dekafix DY5 (sadrži 50 oznaka)                                 8.45   27    228.15     57.04
+Stezaljka glavnog voda (za Cu), 1P, 4x35mm²|4x25mm², zelena                          50.01    1     50.01     12.50
+
+                                                                                                         ----------
+UKUPNO                                                                                                    203598.25
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

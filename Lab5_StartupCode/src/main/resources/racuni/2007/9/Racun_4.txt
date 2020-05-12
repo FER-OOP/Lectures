@@ -1,0 +1,25 @@
+Račun br. 213194
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Komplet 5x1W ERT LED strip +LPU 1h-8h+ Bat 9,6V/2,0Ah                               965.56   12  11586.72   2896.68
+Okvir 7M line, zeleni                                                                61.27   18   1102.86    275.71
+"Samostojeći kom. ormar DSZ, rastavljiv,800x1970x1000,19"",42U"                    5026.48   24 120635.52  30158.88
+Aluminijski profil SLI, D-2000mm Š-70mm V-36mm                                      201.05   19   3819.95    954.99
+GLENOS Regal profil 60, aluminij                                                    280.98   30   8429.40   2107.35
+Uređaj za binarni izlaz, 2x 230V AC, 10A, bez okvira                                787.04   15  11805.60   2951.40
+51200TR/B,  2L UGRADNA KUTIJA BEZ VIDLJIVOG RUBA, crne boje                          218.8    6   1312.80    328.20
+Tugru-WL-S LED 1W 3000K, IP20, aluminij                                             188.22   30   5646.60   1411.65
+9F01/W, 1W GX53 LED WW                                                                17.9   17    304.30     76.07
+EURO SPOT GU10,bijela,uklj. 1-fazni adapter                                         343.66    3   1030.98    257.74
+WORKLIGHT LED SL-1, antracit, sa senzorom                                          9381.33    7  65669.31  16417.33
+Vijci + tuljci za stezaljku CBD50                                                      2.6   13     33.80      8.45
+Pako-Q/A2 LED 3W 6000K 120lm,dimabilna,700mA,IP20,aluminij                           37.67   22    828.74    207.19
+
+                                                                                                         ----------
+UKUPNO                                                                                                    232206.56
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

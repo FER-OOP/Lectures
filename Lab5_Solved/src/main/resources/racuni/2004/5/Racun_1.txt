@@ -1,0 +1,21 @@
+Račun br. 292151
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Unutarnja vrata za Minipol ormare, poliester, puna, 800X600                         873.22    1    873.22    218.30
+NV rastavna sklopka vel.00|160A, 3P, M8, nadzor osig.,na pl.                       1278.46   29  37075.34   9268.83
+Bočne stranice za Modul 2000/3S, dubine 150mm, tip 21/150                             4160    9  37440.00   9360.00
+U/UTP inst. kabel cat.6, 4x2xAWG23/1, 300MHz,LS0H,plavi,500m                         310.8   21   6526.80   1631.70
+NYCY 16x1,5RE/4                                                                    4181.58   18  75268.44  18817.11
+P/Ž inst. razdj. 1U-24, 8-redni,104 ŠM,1195x380x180mm(VxŠxD)                       2379.57   26  61868.82  15467.21
+Uvodnica PG9 (maticu M273103--- naručiti odvojeno)                                    3.17   22     69.74     17.44
+D02 rastavna sklopka TYTAN II, 3-polna, 20A, komplet                               2035.49   21  42745.29  10686.32
+Aluminijski profil MFI                                                              243.53   10   2435.30    608.83
+
+                                                                                                         ----------
+UKUPNO                                                                                                    264302.97
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

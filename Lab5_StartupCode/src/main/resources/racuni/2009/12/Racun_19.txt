@@ -1,0 +1,16 @@
+Račun br. 188458
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+NEW MYRA 1 svjetiljka, srebrna b., GU10, max. 4W, IP44                              625.15   24  15003.60   3750.90
+Ugradni okvir za MO2, 3P, -2000A, vodoravne str. priklj.                           8160.33    5  40801.65  10200.41
+Bočne stranice za Modul 2000/3S, dubine 102mm, tip 41/102                             4160    5  20800.00   5200.00
+Poklopac 560x280x30mm sivi - F-G                                                    456.73   18   8221.14   2055.29
+
+                                                                                                         ----------
+UKUPNO                                                                                                     84826.39
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,24 @@
+Račun br. 989117
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Dvokrilna vrata staklo, za kom. ormare, 45U, Š=800 mm                              1572.44    3   4717.32   1179.33
+Bimetalni relej za sklopnike vel. 2 | 36,00 - 45,00A                                331.17   30   9935.10   2483.78
+X- spojnica za 1-faznu šinu, nadgradna, srebrna b.                                  124.52    1    124.52     31.13
+Pokrov lučne komore za MO2, 4-polni (tvornički ugrađen)                               4970    5  24850.00   6212.50
+Teretna sklopka, rastavljač (izolator), AMPARO, 32A, 3P                             113.32    6    679.92    169.98
+SERH ECO A4 L2 T5 4x24W EVG M625, bijela b.                                           8534    5  42670.00  10667.50
+"FIN POLE 100cm LED 9x1W 4000K ""DOWN"" MAT STAKLO sive boje"                      3657.17    8  29257.36   7314.34
+ARROCK STONE LED, 75cm, četvrtasti                                                 2497.05   16  39952.80   9988.20
+Kabel YSLYQY-J 4x 6 prozirni                                                         10000   28 280000.00  70000.00
+SQUARE GU10 Downlight, srebrne boje                                                 155.78   21   3271.38    817.84
+Kućište s poklopcem (razvodna kutija) 108x108x56.5mm, IP65                           24.63   19    467.97    116.99
+Signalni fleksibilni kabel YSLY-JZ 10x1 sivi                                       1430.96   29  41497.84  10374.46
+
+                                                                                                         ----------
+UKUPNO                                                                                                     477424.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

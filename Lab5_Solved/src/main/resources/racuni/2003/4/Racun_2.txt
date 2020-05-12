@@ -1,0 +1,17 @@
+Račun br. 342742
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Fleksibilni plosnati kabel za dizalice H07VVH6-F 4x10, crni                          10000   19 190000.00  47500.00
+Vodotijesna svjetiljka LINDA Transparente 1-18W ECG IP65 PC                         381.94   23   8784.62   2196.16
+Jednožični PVC-om izolirani vodič H07V-U (P) 1,5mm2, ljub.                          102.21    7    715.47    178.87
+Fluokompaktna žarulja TC-S 11W 827 G23 OS                                             19.7   15    295.50     73.88
+Kabel YSLYQY-JZ 34x 1,5 prozirni                                                     10000    4  40000.00  10000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     239795.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

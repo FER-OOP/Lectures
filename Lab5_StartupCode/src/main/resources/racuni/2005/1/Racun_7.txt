@@ -1,0 +1,16 @@
+Račun br. 535323
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Matica M40x1.5, metrička, poliamid                                                    2.84    3      8.52      2.13
+Kompaktni prekidač snage tip A, 3P/40A/25kA, utični, MC1                           1555.16    5   7775.80   1943.95
+Sklopnik 3P |160kW (315A) [AC3] / 450A [AC1] | 230V AC/DC                          6278.78   19 119296.81  29824.20
+"Prespojni panel 19"", prazan, za 48 modula (SFA)(SFB), 2U"                         244.32   16   3909.12    977.28
+
+                                                                                                         ----------
+UKUPNO                                                                                                    130990.25
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

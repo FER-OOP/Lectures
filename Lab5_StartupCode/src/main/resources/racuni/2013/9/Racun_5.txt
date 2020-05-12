@@ -1,0 +1,22 @@
+Račun br. 962257
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Prespojni kabel RJ45 STP cat.6a/10GB, LS0H, zeleni, 0.5m                             24.82   14    347.48     86.87
+Wieland konektor, ženski, bijele boje, 5-polni                                        8529   16 136464.00  34116.00
+Nadgradna svjetiljka SAO ECO T5 4x24W ECG, bijela                                   380.23   29  11026.67   2756.67
+Spojnica (ravna) M16, svijetlo-siva (pak. 100 kom.)                                  134.1   13   1743.30    435.83
+NEW TRIA I MR16 downlight, četvrt., brušeni aluminij,max.50W                         187.2   23   4305.60   1076.40
+"ICONA monitor bijeli 4,3"""                                                       2598.38   11  28582.18   7145.55
+Gumeni kabel A07RN-R (Gwuö/DSTL) 25rm, crni                                          10000   17 170000.00  42500.00
+FID sklopka 40-4-01/A, S izvedba                                                    1180.4    9  10623.60   2655.90
+LED Driver 1300mA 35W-60W za Lano, ne dimabilno                                     280.47   16   4487.52   1121.88
+Sutil Round  LED 30W, 3000K, 1800lm, 120°, IP40, bijele boje                        331.49   23   7624.27   1906.07
+
+                                                                                                         ----------
+UKUPNO                                                                                                    375204.62
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,30 @@
+Račun br. 287940
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zaštitni prekidač, D karakteristika, 40A, 3-polni, 10kA                             207.37   30   6221.10   1555.27
+Siltu-R/A1 LED 18x1W 3000K 810lm,dimabilna,350mA,IP20,alu                           255.46    5   1277.30    319.33
+DELF C PRO 500, topla b., 30 LED, DC 24V                                             224.2    2    448.40    112.10
+Compact Office, senzor prisut., DALI, p/ž, stropni, srebrni                        1997.29   21  41943.09  10485.77
+Nadgradna svjetiljka SARH 2 ECO T8 4x18W CCG, ind, bijela                           354.79    9   3193.11    798.28
+Kruta lagana cijev, M32, 320N, EN2242, HF, s-siva, 3m (57m)                        2229.61   23  51281.03  12820.26
+Otvoreni prekidač, 3P, 80kA, 800A, fiksni, vod. str. priklj.                      15153.77   27 409151.78 102287.95
+LIGHT EYE ovjesna svjetiljka, GU10, max. 75W, mesing                                562.63   23  12940.49   3235.12
+Kompaktni prekidač snage tip A, 3P/63A/25kA, utični, MC1                           1555.16    2   3110.32    777.58
+VINTA LED 4W, E14, 2700K                                                            124.52   22   2739.44    684.86
+Instalacijski sklopnik 63A | 2 N/O + 2 N/C | 24V AC, 3ŠM                            496.45   27  13404.15   3351.04
+Transformator, 1-fazni | 400/024V | 35VA, IP00                                      136.15   26   3539.90    884.97
+Vanjski bežični senzor pokreta                                                      437.43   14   6124.02   1531.01
+Aluminijski profil CLW                                                              261.27   30   7838.10   1959.52
+SAT utičnica prol. 2x,radio/CATV,5-1.006MHz,14dB,bez okvira                          42.34   27   1143.18    285.80
+Kompaktni prekidač snage tip A, 3P, 50kA, 400A                                     3952.69   25  98817.25  24704.31
+GU5,3 grlo sa 40cm VDE kabela                                                          5.4   26    140.40     35.10
+Signalni fleksibilni kabel YSLY-JZ 50x0,5 sivi                                       10000   19 190000.00  47500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     853313.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

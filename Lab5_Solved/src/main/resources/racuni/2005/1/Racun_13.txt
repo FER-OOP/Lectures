@@ -1,0 +1,23 @@
+Račun br. 1029959
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Maskirni razdj. 1M-18, 6-redni, 78 ŠM, 875x330x200mm (VxŠxD)                       1807.58    4   7230.32   1807.58
+"Samostojeći kom. ormar IP54 600x1970x600 ŠxVxD, 19"", 42U"                        4976.19   16  79619.04  19904.76
+Uklopni sat, digitalni, godišnji program, ASTRO, 4 C/O, 4ŠM                        2627.92   29  76209.68  19052.42
+Design IL ERT-LED 1x3W 230VAC 3h bežična ,radijalno ,stropna                       1658.41    1   1658.41    414.60
+Podnožje za HSTMSVL240, visina 100mm                                               1036.66   27  27989.82   6997.46
+Kada za brojilo, 1 ploča za brojilo u jednom redu, 1-red                            261.89   15   3928.35    982.09
+Nadgradna svjetiljka SARM 2 1x80W ECG, bijela                                       412.19   10   4121.90   1030.47
+Kabelski kanal, bez halogena, 50x50mm (VxŠ), 2m, RAL7035                              4863   25 121575.00  30393.75
+Tipkalo, dvostruko, IP54, na oprugu, nadžbukno                                       62.21   29   1804.09    451.02
+UPS Premium Dual 1000VA 900W 7 min.1/1-fazni/Online                                5635.73   30 169071.91  42267.98
+Bezhalogeni jednožilni vodič H07Z-K 1,5mm2, narančasti                               10000   29 290000.00  72500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     783208.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

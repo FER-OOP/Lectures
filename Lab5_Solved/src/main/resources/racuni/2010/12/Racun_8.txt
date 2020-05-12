@@ -1,0 +1,24 @@
+Račun br. 757854
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"Grebenasta sklopka, ""HAND-0-AUTO""/2P/20A, na vrata"                              276.89    6   1661.34    415.34
+Dodatni okvir theLuxa P, crni                                                        35.96   17    611.32    152.83
+Instal. umetak 5-33K komplet 11 IR prednja pl. čelik                               2657.25   16  42516.00  10629.00
+SAT stup d=2m, Ø50mm, bez završne kape, pocinčani čel. 1.5mm                        168.23   15   2523.45    630.86
+Anker za vrtnu svjetiljku                                                           312.23   20   6244.60   1561.15
+Razdjelnik za šuplji zid, KVH, 1R,12+2 modula,bijeli,komplet                        368.52    3   1105.56    276.39
+Krajnji držač, montaža na DIN nosač, tip BT/3, crni, vijčani                          2.19   14     30.66      7.66
+Uvodnica za mušku MC4 spojnicu, prihvat kabela 4-6mm2                                11.09    6     66.54     16.64
+Telekomunikacijski kabel YYSCH 16x0,6mm2, boja slonovače                             10000    5  50000.00  12500.00
+Aluminijski profil sa pokrovom, četvr., bijele boje, 1m                              218.8    2    437.60    109.40
+Ugradni okvir za DOWNUNDER PUR 120x155 LED, četvr.                                   68.25   24   1638.00    409.50
+Prednja ploča, čelična, slijepa, 5B7                                                  4160    3  12480.00   3120.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    119315.07
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

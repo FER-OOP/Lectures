@@ -1,0 +1,24 @@
+Račun br. 899463
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Voltmetar, 72x72mm, 300V AC                                                         109.72   22   2413.84    603.46
+Razvodna kutija-šuplje stijenke, dubina 45mm pokl.,nar.                             976.64    1    976.64    244.16
+ERIS 1x44W DIF PV4,LED 3300lm/830, M600, bijela b.                                 1017.84    2   2035.68    508.92
+Sklopnik vel. 0 | 11kW (25A) [AC-3] | 24VAC, 50Hz                                   228.99   18   4121.82   1030.46
+Zaštitni prekidač AMPARO 6kA, C 32A, 2-polni                                         55.46   16    887.36    221.84
+Finožični PVC-om izol. vodič H05V-K (P/F) 1mm2, ljub. HPV                            10000    7  70000.00  17500.00
+DASAR GX53 podna ugradna svjetiljka, okrugla                                        562.63    7   3938.41    984.60
+IP44 uvodnica kabela M25 za 2 kabela 3 do 8 mm                                       31.92   10    319.20     79.80
+Zaštitni prekidač, B karakteristika, 10A, 1-polni, 10kA                              24.63   12    295.56     73.89
+SIVI PRSTEN za 10120 i 10142                                                         66.23    8    529.84    132.46
+Mini-Lynx, 11W, 4000K, E14                                                           62.51   13    812.63    203.16
+Kabel LiYCY 18x0,25                                                                  10000   23 230000.00  57500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     316331.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

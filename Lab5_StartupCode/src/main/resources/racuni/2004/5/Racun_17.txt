@@ -1,0 +1,20 @@
+Račun br. 1099740
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Stropna rozeta, bijele boje                                                         184.07   16   2945.12    736.28
+MYRA CURVED pano svjetiljka, antracit                                               875.55   17  14884.35   3721.09
+LS-FI (KZS), C/40A/100mA, 2P, Tip A, 6kA                                              4281    9  38529.00   9632.25
+"Tipkalo s povratom, plosnato, zeleno, oznaka: ""I"""                                29.06   12    348.72     87.18
+Višežični PVC-om izolirani vodič H07V-R (P/M) 16mm2, ž/z                             10000   15 150000.00  37500.00
+LED traka Flexstrip 108 KW IP43 RA80+ 2080lm/m 23,5W/m 24VDC                       1759.24    4   7036.96   1759.24
+Set zaštitnih pokrova (dugi) za stezaljke, za 3-polne MZ2                           120.21   29   3486.09    871.52
+DIO Podes. PLUG, GX53, krom                                                         312.23   18   5620.14   1405.04
+
+                                                                                                         ----------
+UKUPNO                                                                                                    222850.38
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

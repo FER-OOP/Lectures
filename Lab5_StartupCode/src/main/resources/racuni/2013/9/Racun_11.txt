@@ -1,0 +1,30 @@
+Račun br. 864655
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Odvijač križni  izol. crveni                                                          2303    6  13818.00   3454.50
+Tuljci, izolirani, 6mm2, L2=12mm (pak.100 kom)                                        25.8    4    103.20     25.80
+Linijska svj. SERM-LF 112, početni profil,  1x54W, ECG, bb                          546.54    3   1639.62    409.90
+Prednja ploča, plastična, slijepa, 4B1K                                               4063   23  93449.00  23362.25
+EURO SPOT LED DISK 800, 2700K,60*,uklj. 1-f.adapter,bijela                          813.03    8   6504.24   1626.06
+Teški gumeni kabel H07RN-F 5x16, crni                                              9720.26   10  97202.59  24300.65
+Quartz halogena ž.,Philips Plusline ES R7s,118mm,160W,proz.                          43.76   24   1050.24    262.56
+Tinjalica MO 220V 0,4W, za sklopke i tipkala, crvena                                 13.44    1     13.44      3.36
+Tel. razvodni ormar s LSA nosačima, 2x250 parica                                   5709.28   23 131313.44  32828.36
+"Zamjenski set ERT LED 4x1W za fluo 6/8W s Aku.bat.;1/3/8h "                        838.01   19  15922.19   3980.55
+UPS GENIO Flex Plus Rack 1100VA 880W 5min 1f/1f, Line-Int.                         5283.53   11  58118.83  14529.71
+Kompaktni prekidač snage tip A, 4P/100A/50kA, MC1                                   1373.6   25  34340.00   8585.00
+Vartec modul varistor, VVM, TII, 320V/15kA                                           143.1   12   1717.20    429.30
+"Natpisna pločica, ""OFFEN"", 17.5 x 28mm, natična"                                   8.13    9     73.17     18.29
+Križna sklopka, umetak, na vijak                                                     58.51    6    351.06     87.76
+ARKTUR SQUARE LED ECO 194W 23800lm/840 ECG IP65 100°,sb                            4042.32   17  68719.44  17179.86
+Kartična sklopka MO 3M 3A osnovna, 15-20s, crna                                     224.77   10   2247.70    561.92
+Spojnica (koljeno) M50, bez halogena, svijetlo-siva                               22018.82   18 396338.75  99084.69
+
+                                                                                                         ----------
+UKUPNO                                                                                                    922922.06
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

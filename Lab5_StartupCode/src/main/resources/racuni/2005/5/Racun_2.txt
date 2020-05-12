@@ -1,0 +1,32 @@
+Račun br. 699195
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Audio vanjski panel, 12 tipki, sa PTT otvorom                                      1886.03    9  16974.27   4243.57
+Levante-M 40 LED 94W 9040lm 4000K asim.,IP66,SKII,antracit                         5434.52    7  38041.64   9510.41
+PADI LED 600, aluminij, neutr. bijele boje SMD LED                                  374.92    5   1874.60    468.65
+SIMPLE LINE StarterKIT (5-polni)                                                    115.47   25   2886.75    721.69
+Doplata za regulator EMR1100S umjesto RM9606                                       1927.65   23  44335.95  11083.99
+Vezica 100 x 2.5mm, natural (pak.=100 kom.)                                           4.25   25    106.25     26.56
+Uzidni okvir s vratima+umetak, 3U-12, 100mm (plosnati)                             1199.13   29  34774.77   8693.69
+Linda LED HS 1x30W, 4000K, 4493lm                                                  1123.73   11  12361.03   3090.26
+Kruta lagana cijev, M25, 320N, EN2242, HF, s-siva, 3m (57m)                        1557.55   21  32708.55   8177.14
+Uvodnica PG16, mesing                                                                12.52   18    225.36     56.34
+Kompaktni prekidač snage tip AE, 3P, 50kA, 400A                                    4047.84   11  44526.24  11131.56
+8007/W, 70W HQI Rx7s WW                                                               8.78    6     52.68     13.17
+Plafonjera MALLE LED 24W 2200lm/840 ECG, bijela                                     669.79   12   8037.48   2009.37
+WORKLIGHT LED SL-1, antracit, sa senzorom                                          9381.33    7  65669.31  16417.33
+Fluokompaktna žarulja TC-Del 18W/827 G24Q-2                                          18.77   17    319.09     79.77
+Dingo Small LED 20W, 3000K, 1500lm, dim., bijela                                    490.99   28  13747.72   3436.93
+"Opt. razdjelnik,24 niti, FC, 62,5/125µm OM1, izvl.,19"",1U"                       2056.33   20  41126.60  10281.65
+Panik svjetiljka VM LED 3W, CPS sustav  MIX , ugradna strop                        1325.79   18  23864.22   5966.06
+Termostat za ventilator, 1 radni kontakt, plavi                                      90.73    1     90.73     22.68
+Samozatezajuća traka 19x10                                                           76.03   17   1292.51    323.13
+
+                                                                                                         ----------
+UKUPNO                                                                                                    383015.72
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

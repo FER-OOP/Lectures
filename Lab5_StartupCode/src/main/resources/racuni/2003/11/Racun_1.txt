@@ -1,0 +1,23 @@
+Račun br. 509177
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+KABEL E-AYY-J (PP00-AL)  4X150 SM                                                  7493.86   19 142383.34  35595.84
+Plafonjera CAT 280 IP44 A60 E27 max.1x100W, opal                                    195.47   17   3322.99    830.75
+Optički prespojni kabel duplex, LC/SC, 9/125µm OS2, 2.0m                             84.79    6    508.74    127.18
+"Grebenasta sklopka, ""HAND-0-AUTO""/2P/20A, na vrata"                              276.89    9   2492.01    623.00
+SHORTBOX TRAFO, krom, za LINUX LIGHT                                                813.03   21  17073.63   4268.41
+METALNA VRATA SA OKVIROM ZA 2-REDNI ORMAR                                           195.84    4    783.36    195.84
+Linda Basic LED 1x19W, 4000K, 2724lm, IP65, sive b.,L=1270mm                        603.49   19  11466.31   2866.58
+FID modul za MC1, 3P, 30mA, tip A, ugradnja odozdo                                 2564.92    8  20519.36   5129.84
+IKALL metal modul, bez tipki, za audio jedinicu                                      549.1    6   3294.60    823.65
+Utičnica šuko, sa dječjom zaštitom, na vijak, antracit                               24.54    1     24.54      6.14
+LEFA 4 ovjesna svjetiljka, bijele b., 4x 5W LED, 3000K, dim.                       2371.86   15  35577.90   8894.48
+
+                                                                                                         ----------
+UKUPNO                                                                                                    237446.78
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,15 @@
+Račun br. 762593
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+ASTO I GU10 Spot, brušeni aluminij                                                  196.83   21   4133.43   1033.36
+Zaštitni prekidač, C karakteristika, 40A, 4-polni, 10kA                             498.73   26  12966.98   3241.75
+AIXLIGHT PRO I FRAMELESS ugr.kuć., uklj. ugradni kit, sb                            500.12   12   6001.44   1500.36
+
+                                                                                                         ----------
+UKUPNO                                                                                                     23101.85
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

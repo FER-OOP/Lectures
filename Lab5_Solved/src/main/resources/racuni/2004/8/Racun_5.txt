@@ -1,0 +1,18 @@
+Račun br. 686501
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+EURO SPOT ES111, sa 3-faznim adapterom, srebrne boje                                437.43   23  10060.89   2515.22
+Murona-R 50W GU5,3 MR16, 12V, IP20, plave boje                                        6.92   18    124.56     31.14
+Pierce-II-R/A2 50W GU10 AR111, 100-240V, IP20, crne boje                            205.28   27   5542.56   1385.64
+BIG LIGHT EYE ovjesna svjetiljka, krom                                              938.06   15  14070.90   3517.73
+LS-FI (KZS), C/20A/300mA, 1P+N, Tip A, 10kA                                          390.1   12   4681.20   1170.30
+Ampermetar, 48x48mm, AC, za strujni mjerni trafo …/5A                               129.76   26   3373.76    843.44
+
+                                                                                                         ----------
+UKUPNO                                                                                                    37853.867
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

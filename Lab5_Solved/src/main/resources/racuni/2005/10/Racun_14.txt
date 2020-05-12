@@ -1,0 +1,17 @@
+Račun br. 133261
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+SDL HQI-reflektor, 150W, sa 3-faznim adapterom, bb                                 1125.94    6   6755.64   1688.91
+Prirubnica 510x96, za uvodnice: 27xM16, 5xM20, 4xM25, 2xM32                           4066    4  16264.00   4066.00
+Vijak M4 20mm                                                                         6.45   16    103.20     25.80
+Driving ravni rate big 51 - 100km Distance                                         1841.66    6  11049.96   2762.49
+Kabel H05VV-F (PP/J) 2x2,5mm2, svijetlo-sivi, 500m                                   10000    8  80000.00  20000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     114172.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

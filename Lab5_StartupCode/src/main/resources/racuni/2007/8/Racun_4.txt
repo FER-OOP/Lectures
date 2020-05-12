@@ -1,0 +1,19 @@
+Račun br. 882731
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Linijska svj. SIMPLE LINE LED 1012 32W 3300lm/840 DALI,bb                          1039.44    2   2078.88    519.72
+Krilo zakretne ručice za M2000, RAL7035                                                2.6   21     54.60     13.65
+Podnožje za print-releje sa 5.0 rasterom                                             27.23    5    136.15     34.04
+Košulja muška, dugih rukava, bijela -38-                                            586.99   11   6456.89   1614.22
+Reflektor CAPRI simetrični 1x70W RX7S HIT/HST, crna                                 480.92   10   4809.20   1202.30
+41012/W/R, kutna spojnica, desno, bijele boje                                        26.52    9    238.68     59.67
+Fluo cijev T8|T26 58W/865 G13                                                        15.35   29    445.15    111.29
+
+                                                                                                         ----------
+UKUPNO                                                                                                     14219.55
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

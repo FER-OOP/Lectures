@@ -1,0 +1,29 @@
+Račun br. 515101
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Modul signalne svjetiljke, trajno zeleno svjetlo, 230V AC                            446.2   26  11601.20   2900.30
+Sklopnik 3P |11kW (22A) [AC3] / 32A [AC1] | 230V AC | 1N/C                           250.5   19   4759.50   1189.88
+Luxa 102 FL, LED spot 16W, 6000K, zidna, IP44, crna                                 798.81   16  12780.96   3195.24
+Proširenje sa accu i punjačem za USMLT 480V / 40 x 40 Ah                          51772.67   11 569499.38 142374.84
+Zaštitni prekidač, C karakteristika, 10A, 3-polni, 6kA                               87.36   20   1747.20    436.80
+Set za ožičenje Zvijezda-Trokut komb. vel.2-2-2                                      96.87   10    968.70    242.18
+INOX samostojeći ormar, 2000x1200x400mm (VxŠxD)                                   29374.38   13 381866.94  95466.73
+Podnožje Vartec TII, 2+0 (2 x modul VVM)                                            136.79    1    136.79     34.20
+Okvir 7M line, mat crni                                                              86.44   28   2420.32    605.08
+Nadgradna ind. svjetiljka SBOX AB 1x250W,E40,HS/HI,MB, IP65                         946.01   26  24596.26   6149.06
+Svijetleća tipka s ručicom,2 položaja,bijela,60°,bez povrata                          75.6   23   1738.80    434.70
+NEW TRIA DLMI ROUND Downlight, mat bijele boje, 3000K, 60°                         1433.11   20  28662.20   7165.55
+Priključna spojnica M8 - 1 x V-stezaljka, VK160                                      24.55   12    294.60     73.65
+Beta 1/36W EVG, široki snop, difuzor od nehrđajućeg čelika                         1965.31   14  27514.34   6878.58
+Viličasta sabirnica 63A za 2xBE5, korak 45mm                                         41.61   17    707.37    176.84
+Fluokompaktna žarulja TC-D 13W/827 G24D-1                                            27.45   11    301.95     75.49
+Dimer sa zakretnom tipkom, 15-1200VA, montaža na DIN                               2227.14   25  55678.50  13919.62
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1125275.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

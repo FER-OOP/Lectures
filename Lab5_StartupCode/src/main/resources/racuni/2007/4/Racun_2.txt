@@ -1,0 +1,25 @@
+Račun br. 337704
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Maskirni razdjelnik 3 širine brojila/ 18 MV                                           4180    4  16720.00   4180.00
+Mini sklopnik promjene smjera, 4kW | 24V DC                                         460.51   16   7368.16   1842.04
+T5 fluo cijev 39W High Output, 4000K                                                 80.76    6    484.56    121.14
+Lokot za kućište BE6                                                                 74.03   24   1776.72    444.18
+Bezhalogeni kabel s el. funkc. do30 Min. (N)HXH-J5x10reE30                           10000    6  60000.00  15000.00
+L-SE raster PAR T5 R12 1+2x35-80W sjajni, aluminij                                  129.38    6    776.28    194.07
+Nadgradna svjetiljka SAO IP54 T8 4x36W CCG, ind, bijela                            2029.64   18  36533.52   9133.38
+Sklopnik 3P |5.5kW (14A) [AC3] | 48V AC | + 1N/O (ugrađen)                          196.75    4    787.00    196.75
+"Natpisna pločica, ""^"", 12.5 x 27mm, samoljepljiva"                                 8.13   15    121.95     30.49
+Fluo cijev T16 28W/840 G5                                                            30.87   17    524.79    131.20
+ARKTUR SQUARE LED ECO 159W 19800lm/840 ECG IP65 100°,sb                            3210.76    3   9632.28   2408.07
+TOOLLESS LINE USB 3.0 A-A spojnica, bijela                                           31.17   29    903.93    225.98
+BIMA I svjetiljka, bijela GU10 1x50W max.,uklj. 1-f.adapter                         308.85   22   6794.70   1698.67
+
+                                                                                                         ----------
+UKUPNO                                                                                                    142423.89
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

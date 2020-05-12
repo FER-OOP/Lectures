@@ -1,0 +1,22 @@
+Račun br. 203588
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Teleskop lampa                                                                        9841    9  88569.00  22142.25
+RUSTY 80 LED SLOT vanjska svjetiljka, 3000K, IP44, rusty                           2371.86    5  11859.30   2964.83
+ENOLA_B single, zidna i stropna svj., GU10, max.50W, sb/cb                          374.92   25   9373.00   2343.25
+Mika-Q/A2 LED 1W 6000K 60lm,dimabilna,350mA,IP20,aluminij                            37.67   30   1130.10    282.52
+I-BED WALL SHORT, 3,8W, 3000K, CRI=80, crne boje                                    938.06   28  26265.68   6566.42
+Poklopac 560x380x30mm sivi - GY-G                                                   445.88   16   7134.08   1783.52
+Sklopnik vel. 3|45kW (95A) [AC-3]|2 N/O + 2 N/C|230VAC, 50Hz                       1198.09    7   8386.63   2096.66
+Podžbukna kutija za telefon                                                           2101    7  14707.00   3676.75
+TERANG 2, 3000K, oval, rusty                                                        406.17   10   4061.70   1015.42
+Poliester kućište 380x190x100mm sivo - E1                                           351.75   27   9497.25   2374.31
+
+                                                                                                         ----------
+UKUPNO                                                                                                    180983.73
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

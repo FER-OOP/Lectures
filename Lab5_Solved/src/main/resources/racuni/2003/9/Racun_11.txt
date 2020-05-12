@@ -1,0 +1,28 @@
+Račun br. 529064
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Finn-R/A2 LED 35W 3000K 2950lm, IP20, bijele boje                                   696.11   25  17402.75   4350.69
+Finožični PVC-om izol. vodič H07V-K (P/F) 2,5mm2, žuti HPV                           10000    2  20000.00   5000.00
+Instal. umetak 4-21K komplet 7 IR prednja pl. čelik                                1596.42   20  31928.40   7982.10
+"Samostojeći komunikacijski ormar DS 600x1970x800, 19"", 42U"                      3820.34   13  49664.42  12416.11
+A03VV-F 5x0,75mm2, bijeli, 50m kolut                                                 10000    2  20000.00   5000.00
+Nadžbukna kutija za PlanoSpot senzore, crna                                        1159.52   14  16233.28   4058.32
+EUTRAC T-spoj lijeva, bb                                                            437.43   16   6998.88   1749.72
+NEW TRIA 68 LED DL četvrtasti Set, 9W, 3000K, 38°, crne boje                        468.69   16   7499.04   1874.76
+Tipka MO 1M sa simbolom zvona i indikacijom, bijela                                   3.43    7     24.01      6.00
+Nazidni okvir s vratima za Modul 2000 | 3A-24 | dubina 250mm                       1383.59   26  35973.34   8993.33
+Finožični PVC-om izol. vodič H05V-K (P/F) 0,75mm2, žuti HPV                          10000   27 270000.00  67500.00
+Grebenasta sklopka, 0-1/4P/32A, na DIN, sa ručicom na vrata                         325.02   10   3250.20    812.55
+Priključna kutija, čelik, 300x500x120 (VxŠxD), IP66, RAL7035                        326.91   25   8172.75   2043.19
+"Opt. razdjelnik,24 niti, LC,50/125µm OM2, izvlačivi,19"",1U"                      1948.01   17  33116.17   8279.04
+41012/W/R, kutna spojnica, desno, bijele boje                                        26.52    7    185.64     46.41
+Zaštitni prekidač MB GR.2 36kA CL 125/3                                            1175.86   24  28220.64   7055.16
+
+                                                                                                         ----------
+UKUPNO                                                                                                     548669.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

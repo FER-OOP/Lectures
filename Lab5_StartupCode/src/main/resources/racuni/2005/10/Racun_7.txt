@@ -1,0 +1,15 @@
+Račun br. 963100
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Bezhalogeni jednožilni vodič H05Z-K 1mm2, plavi                                      10000    1  10000.00   2500.00
+Priključni kabel za IU008523, 2x1,5mm2, duljine 1m, bijeli                           87.19   21   1830.99    457.75
+"VF panik svjetiljka LED 230V za CPS MIXmod; zidna montaža"                        2512.36   26  65321.36  16330.34
+
+                                                                                                         ----------
+UKUPNO                                                                                                     77152.35
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

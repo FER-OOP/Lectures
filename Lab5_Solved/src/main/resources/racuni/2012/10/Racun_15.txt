@@ -1,0 +1,17 @@
+Račun br. 705498
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Nosač CL and LBKI                                                                     51.6    2    103.20     25.80
+SAT vodilica za 4 koaks. kabela,stup 38-60mm,čelični                                  54.7   11    601.70    150.43
+Phos B42 dvostruka poluga za stup 76mm siva RAL9006                                8039.73   28 225112.44  56278.11
+Signalni fleksibilni kabel YSLCY-OZ 2x 1 sivi                                       639.58   10   6395.80   1598.95
+SOPRANA CONE, PD-1, sivo sjenilo, E14, max. 40W                                     500.12   24  12002.88   3000.72
+
+                                                                                                         ----------
+UKUPNO                                                                                                    244216.02
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

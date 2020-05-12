@@ -1,0 +1,19 @@
+Račun br. 641260
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"Natpisna pločica za sobno signalno svj. ""Standard"",140x95mm"                       2104   27  56808.00  14202.00
+Optički prespojni kabel duplex ST/ST, 50/125µm OM3, 2.0m                             74.25   14   1039.50    259.88
+Spiralni kanal VF40, fi=40mm, duljina 500mm                                           73.7    9    663.30    165.82
+Teretna sklopka, 3P, 250A, opcija: daljinski isklop                                1677.72    8  13421.76   3355.44
+Montažna ploča, širine 4PB, visina 294mm                                              4063   23  93449.00  23362.25
+Završni poklopac CLF četvrtasti sa rupom i vijcima                                    51.6   12    619.20    154.80
+Teretna sklopka, 4P, 400A, opcija:dalj. isklop+izvl. modul                         5771.13   28 161591.64  40397.91
+
+                                                                                                         ----------
+UKUPNO                                                                                                     327592.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

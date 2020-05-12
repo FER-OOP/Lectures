@@ -1,0 +1,26 @@
+Račun br. 100237
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kabel za gradilišta XYMM-J 3x1,5 K35 / 100m, žuti                                    10000    5  50000.00  12500.00
+VINTA LED 4W, E14, 2700K                                                            124.52   29   3611.08    902.77
+Kompl. za povezivanje baterija za LPS/CPS mini/midi/ZX 17-28                          5150   20 103000.00  25750.00
+LED napajanje, 12W, 24V, za ugr.kut.                                                125.36    7    877.52    219.38
+LED FLOOD LIGHT,cr.b., 30W, LED tople bi.b., 120°                                  1871.23   26  48651.98  12163.00
+Ina-II-STR-R/A2 50W GU10 MR16, 100-240V, IP20, aluminij                             117.25   28   3283.00    820.75
+Halogena žarulja QPAR 20 50W 30° E27                                                 49.33   30   1479.90    369.98
+Luxa 102 FL, LED spot 32W, 6000K, zidna, IP44, crna                                1393.13   20  27862.60   6965.65
+QUAD 2 zidna svj., četvrt.,bi.b., LED, 2x3W, tople bi.b.                            617.88   29  17918.52   4479.63
+Kompaktni prekidač snage tip VE, 4P, 50kA, 250A                                    3941.12   14  55175.68  13793.92
+Nadgradna svjetiljka SARW ECO T8 4x18W CCG, bijela                                  353.08   23   8120.84   2030.21
+Montažna šina MR 1x35-80 5x2,5mm²                                                   127.83   14   1789.62    447.40
+L-SE sjajni odsijač R1 T8 AL 1x58W široki, aluminij                                  78.34   10    783.40    195.85
+Prespojna ploča, 3 izlaza sa 2 premosnice, max.700mA,crne b.                         62.51   28   1750.28    437.57
+
+                                                                                                         ----------
+UKUPNO                                                                                                    324304.44
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

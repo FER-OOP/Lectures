@@ -1,0 +1,16 @@
+Račun br. 918153
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kompenzacija  LSFC 14% 200/50kvar 600x2000x600mm Samost.orm.                      62670.49   221378750.75 344687.69
+LED žarulja E27 PAR30, 10W, 4000K, 500lm, 35°                                       259.86   29   7535.94   1883.98
+Prednja ploča za timer (za EL177030), 15min, biserno bijela                           2114   10  21140.00   5285.00
+Vodotijesna svjetiljka LINDA Industrie PC 1-49W/840 ECG IP65                        418.86    7   2932.02    733.01
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1410358.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

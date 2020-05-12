@@ -1,0 +1,27 @@
+Račun br. 635094
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+TEC reflektor, 1xQRB111, sa 3-faznim adapterom, srebrne boje                        625.15    7   4376.05   1094.01
+Motorna zaštitna sklopka, 3-polna | 0.28 - 0.40A, vel.S0                            206.11   21   4328.31   1082.08
+Fluokompaktna žarulja TC-L 18W, 2700K, 4-Pin                                         62.51    5    312.55     78.14
+Arpus2 Wall 2x35W, MR16, GU10, aluminij                                             252.76   18   4549.68   1137.42
+Marra LED traka 4,8W/m 60LEDs/m 360lm/m 6000K 24VDC IP68                            265.26    4   1061.04    265.26
+Minikontrol centrala 10 krugova,200 panik/sigurnosnih svjet.                      35456.59   26 921871.31 230467.83
+MEDO PRO ovjesni pribor, crvene boje                                                 187.2   11   2059.20    514.80
+"Natpisna pločica za umetanje fi=28mm, prozirna, ""O"""                               3.09   19     58.71     14.68
+Montažna ploča, komplet za Zvijezda-Trokut komb. vel.2-2-2                           77.22   16   1235.52    308.88
+Strujni trafo, 50/5A, Tip TAR3D-50, 30x10mm                                         101.91   17   1732.47    433.12
+Izmjenjivač Piko 5.5 DCS, 5 kW, 3f, IP 55, 3 Mpp Tracker                          17445.81   16 279132.97  69783.24
+Okvir plitki s vratima i umetkom za KVM, 1-redni,12+2 modula                        245.46   23   5645.58   1411.40
+Kabel za gradilišta XYMM-J 5x1,5 K35 / 500m, žuti                                    10000   25 250000.00  62500.00
+Kompenzacija  LSFC 14% 200/50kvar 600x2000x600mm Samost.orm.                      62670.49   201253409.75 313352.44
+Bezhalogeni jednožilni vodič H07Z-K 10mm2, crni                                       7003   11  77033.00  19258.25
+
+                                                                                                         ----------
+UKUPNO                                                                                                    2806806.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

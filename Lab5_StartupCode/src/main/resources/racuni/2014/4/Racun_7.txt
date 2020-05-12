@@ -1,0 +1,15 @@
+Račun br. 722327
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ugradna svjetiljka SERM 2 A8 L1 T5 1x28W, ECG, bijela                                 8534    8  68272.00  17068.00
+"FIN XS Pole 50 4W LED 3000°K,""Down"", siva"                                      2187.41   30  65622.30  16405.57
+Sklopnik vel. 00 | 4kW (9A) [AC-3] | 24VAC, 50Hz | 1 N/O                            107.32    1    107.32     26.83
+
+                                                                                                         ----------
+UKUPNO                                                                                                    134001.61
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

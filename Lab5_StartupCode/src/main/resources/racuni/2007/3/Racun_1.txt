@@ -1,0 +1,16 @@
+Račun br. 962778
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Panik svjetiljka KE Autotest,LED 3W/3h, univerzalna                                 932.41   10   9324.10   2331.02
+Pribor za montažu parcijane MP u AS/KS ormare 600x400 (ŠxD)                         419.63    2    839.26    209.82
+Sklopka, 1-polna, IP20, na vijak, bijela, nadžbukna                                  20.32   20    406.40    101.60
+Prespojni kabel RJ45 STP cat.6a/10GB, LS0H, sivi, 7.0m                               73.68   13    957.84    239.46
+
+                                                                                                         ----------
+UKUPNO                                                                                                      11527.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

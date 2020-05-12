@@ -1,0 +1,32 @@
+Račun br. 459137
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+50242AG/4/C, STAKLENI PRSTEN za 50242AG , proziran                                    7.26   27    196.02     49.01
+Transformator, 1-fazni | 400/230V | 2500VA, IP00                                   3167.53   11  34842.83   8710.71
+"Samostojeći komunikacijski ormar DS 600x1525x800, 19"", 32U"                       3402.6   13  44233.80  11058.45
+Panik svjetiljka Linda 36W, MIX-mod, industr.                                       843.01   21  17703.21   4425.80
+Kućište za 4 tipkala, crno-sivo, IP67                                                94.34   28   2641.52    660.38
+Držač žaruljice sa ugrađenom LED, plavi, 230VAC,utične stez.                         48.78   20    975.60    243.90
+Vrata s okvirom, čelična, za 4-redni razdjelnik                                       2422   26  62972.00  15743.00
+LED-Driver 11W, 700mA                                                               218.46    7   1529.22    382.31
+LED Panel Round 300 20W 1300lm tople bb 2800K, bijele b.                            703.23    8   5625.84   1406.46
+"Stezaljka ""A"" 4P, dovod 25mm²|odvodi: 3x(4x16)+1x(12x16)"                        227.82   16   3645.12    911.28
+Vatrodojavni kabel  JB-Y(St)Y 2x2x0,8                                                295.5    8   2364.00    591.00
+Instalacijski umetak za WSM ormare, 3x16 modula                                     290.21   13   3772.73    943.18
+OUT 65 LED DL četvrtasti Set, 9W, 3000K, 38°,uklj.nap.,titan                        500.12   30  15003.60   3750.90
+Sklopnik 3P | 4kW (10A) [AC3] | 110V AC | + 1N/O (ugrađen)                          127.16    3    381.48     95.37
+Pričvrsnica između modula 38-43mm                                                    17.25   25    431.25    107.81
+Lamelirana bakrena sabirnica, 1053A, duljina 2m, 10x40x1mm                          2185.3   13  28408.90   7102.22
+Ina-Q/A1 LED 12W 3000K 1100lm, dim., 700mA, IP20, bijele b.                         172.33   24   4135.92   1033.98
+Gumeni kabel, otporan na temperat. do 110° H07G-K 6, crni                            10000   26 260000.00  65000.00
+Design LED Reflektor 30W 2350lm tople bb 3000K, bijele b.                             8552   20 171040.00  42760.00
+Bezhalogeni kabel s el. funkc. do30 Min.(N)HXCH4x120rm/70E30                         10000   15 150000.00  37500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    809903.06
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

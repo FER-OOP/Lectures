@@ -1,0 +1,26 @@
+Račun br. 900969
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zaštita od dodira priključnih stezaljki, za 3-polne MC1                              44.35   18    798.30    199.57
+Ingro-II-S/A1 LED 3x1W 2700K, IP20, aluminij                                        245.32    7   1717.24    429.31
+THEOS, zidna svj., 101 E27, brušeni aluminij, max. 24W                              875.55    1    875.55    218.89
+Ina-A PAR16 Spot, GU10, 50W, IP20, zakretna, krom                                    50.51   11    555.61    138.90
+Zaštitni prekidač, D karakteristika, 6A, 2-polni, 10kA                              117.16   22   2577.52    644.38
+Kabel H05VV-F (PP/J) 5x1mm2, svijetlo-sivi, 50m                                      10000   20 200000.00  50000.00
+Linijska svj. SERH 220 ASY 1x54W, ECG, bijele boje                                  343.62   24   8246.88   2061.72
+Podnožje N voda vel.00, 2P, veza jednim mostićem                                    100.73    6    604.38    151.10
+Mehanička blokada za izvlačiv MO prekidač sa 2m Bowden sajle                       3504.93   25  87623.25  21905.81
+Vodotijesna svjetiljka LINDA PC 1x58W ECG IP65 SC II                                412.97   29  11976.13   2994.03
+Kućište za 3 tipkala, crno-sivo, IP67                                                74.55   26   1938.30    484.58
+KARDAMOD SURFACE četvrtasti QRB DOUBLE stropna svj., crne b.                       1558.31    4   6233.24   1558.31
+Puna metalna vrata sa zakret. ručkom, za DW ormare 12U Š=600                         513.5    4   2054.00    513.50
+Ina-R/A1 LED 12W 3000K 500lm, dimabilna, IP20, bijele boje                          178.92   26   4651.92   1162.98
+
+                                                                                                         ----------
+UKUPNO                                                                                                     329852.3
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,27 @@
+Račun br. 960778
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Onda-R/A2 LED 7W 3000K 594lm, IP20, bijele boje                                     411.07   10   4110.70   1027.68
+Podes. LINUX LIGHT stropni držač, srebrne boje                                       187.2   28   5241.60   1310.40
+Nosač MFI                                                                             51.6    7    361.20     90.30
+OUT 65 LED DL četvrtasti Set, 9W, 3000K, 38°, uklj. nap.,bb                         468.69   28  13123.32   3280.83
+Utičnica s poklopcem s bravom, 16A, umetak, bijela                                  275.87   28   7724.36   1931.09
+PEMA četvrt. zidna svjetiljka,cr.b., E27, max. 15W                                  500.12    4   2000.48    500.12
+Matica M63x1.5, metrička, poliamid                                                   10.56   16    168.96     42.24
+Tarifni prekidač s podešavanjem na 25, 32 i 40A, 1-polni                            129.02   28   3612.56    903.14
+Grebenasta sklopka (glavna, žuto/crvena),0-1/3P/100A, na DIN                        610.69   11   6717.59   1679.40
+A03VV-F 5x0,75mm2, crni, 100m kolut                                                  10000   16 160000.00  40000.00
+Kartica multif. - 8 izlaza 4A, 3xRS232,  temp. Sensor,na DIN                       3755.26    3  11265.78   2816.45
+Panik svjetiljka WG 6 x 0,5W HP-LED 230V, MIX mod, stropna                         1481.55    5   7407.75   1851.94
+KARDAMOD SURFACE ROUND QRB DOUBLE, bijela G53, max.2x75W                           1683.51   19  31986.69   7996.67
+Sutil Round  LED 8W, 4000K, 560lm, 120°, IP40, sive boje                            126.04   25   3151.00    787.75
+KANO GU10 kućište sa bijelim staklom za EASYTEC II                                  312.23    1    312.23     78.06
+
+                                                                                                         ----------
+UKUPNO                                                                                                    257184.22
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

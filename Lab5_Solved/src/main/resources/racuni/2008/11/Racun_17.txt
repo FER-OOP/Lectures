@@ -1,0 +1,31 @@
+Račun br. 557899
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+NYCY 4x4RE/4                                                                       2695.96    8  21567.68   5391.92
+Bezhalogeni vatrodojavni instal. kabel JB-H(ST)H 4x2x0,8BMK                          10000   16 160000.00  40000.00
+EURO SPOT GU10 bijela,uklj. 3f.adapter                                              374.92   25   9373.00   2343.25
+Ring za SLEEK G12 Spot, bijeli                                                       50.01   11    550.11    137.53
+DC sklopnik | 11kW | 24V DC | 3N/O                                                   866.5   28  24262.00   6065.50
+Bezhalogeni jednožilni vodič H07Z-K 1,5mm2, žuto/zeleni                              10000   24 240000.00  60000.00
+"FIN XS Pole 50 4W LED 4000°K,""Down"", siva"                                      2187.41   19  41560.79  10390.20
+PVC-om izol.kabel za srednja meh.opt. YMS -J 3x1,5 sv.sivi                           10000    4  40000.00  10000.00
+Instal. umetak 2-39K komplet 13 IR prednja pl. čelik                               2153.81    6  12922.86   3230.72
+Zaštitni prekidač AMPARO 6kA, C 16A, 2-polni                                         55.46    9    499.14    124.78
+Windows Software za Programiranje EASY 400-700                                      276.12    6   1656.72    414.18
+Bezhalogeni kabel s el. funkc. do30 Min. (N)HXH-J4x150rmE30                          10000    6  60000.00  15000.00
+Elektronička sklopka za upravljanje roletama, umetak                                792.82   18  14270.76   3567.69
+Halogena žarulja, grlo GU5,3, 20W, 38°                                                3.21   14     44.94     11.24
+Okvir za ugradnju KX panik svj.u strop sa test tasterom                             154.88   10   1548.80    387.20
+Nadgradna svjetiljka SAO IP54 T5 4x14W ECG, bijela                                  1129.7   22  24853.40   6213.35
+Podnožje N voda, vel.00, Mostić/Mostić, 1-pol.                                        4821   23 110883.00  27720.75
+Sklopnik 3P |5.5kW (14A) [AC3] | 110V AC | + 1N/O (ugrađen)                         149.92   15   2248.80    562.20
+Kronos-I-S/A1 3x50W GU5,3 MR16, 12V, IP20, sive boje                                 79.07   10    790.70    197.68
+
+                                                                                                         ----------
+UKUPNO                                                                                                    767032.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

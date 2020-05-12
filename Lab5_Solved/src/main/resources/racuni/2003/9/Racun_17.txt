@@ -1,0 +1,22 @@
+Račun br. 357175
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+TENDA LED zidna svj., bb LED, brušeni aluminij                                     1433.11    8  11464.88   2866.22
+Dodatni okvir theLuxa P, crni                                                        35.96   25    899.00    224.75
+Gumeni savitljivi kabel NSSHöu-J 4x120, žuti                                         10000   19 190000.00  47500.00
+Ugradni okvir za MO2, 3P, -2500A, vodoravne str. priklj.                          10076.73   17 171304.42  42826.11
+Nazidna kutija za MAXI monitor, 216x117x16mm                                        148.83    5    744.15    186.04
+Kabel YSLYQY-JZ 7x 1 prozirni                                                        10000    8  80000.00  20000.00
+Kabel E-Y2Y-J 4x10RM                                                                 10000   23 230000.00  57500.00
+Levante-S 10 LED 24W 2215lm 4000K asim.,IP66 SKII,antracit                         1943.54   22  42757.88  10689.47
+Kopča, plava, za LED prespojne kabele, 100 kom.                                      90.88   26   2362.88    590.72
+GLENOS TREPPENSTUFEN Profile DOWN 100, 1m, aluminij                                 156.11   16   2497.76    624.44
+
+                                                                                                         ----------
+UKUPNO                                                                                                     732031.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

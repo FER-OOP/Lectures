@@ -1,0 +1,21 @@
+Račun br. 752012
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Prekidač otvoreni, vel.3, 3pole, 5000A, 100kA, fiksni                                10000   26 260000.00  65000.00
+Finožični PVC-om izolirani vodič H07V-K (P/F) 6mm2, naran.                           455.4   12   5464.80   1366.20
+Završna pločica za redne stezaljke 16mm², tip CBC, siva                               4850   28 135800.00  33950.00
+"19"" napojna letva sa 7xshuko+prenaponska zaštita, 1.25U"                          445.48   19   8464.12   2116.03
+51200TR/B,  2L UGRADNA KUTIJA BEZ VIDLJIVOG RUBA, crne boje                          218.8   26   5688.80   1422.20
+"Samostojeći komunikacijski ormar DS 600x1300x800, 19"", 27U"                       3203.4   17  54457.80  13614.45
+Okvir za prekidač MO3 4-pol 6300A horiz., 4 pom konektora                         41552.33    7 290866.31  72716.58
+38006A, 2m napajanje za WW/DL cijev                                                  36.66   27    989.82    247.46
+9009L/W, T8 LED staklena cijev 9w WW 60cm,230v, mat                                  58.62   22   1289.64    322.41
+
+                                                                                                         ----------
+UKUPNO                                                                                                     763021.3
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

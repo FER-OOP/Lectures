@@ -1,0 +1,17 @@
+Račun br. 372203
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+UPS GENIO MaxiGreenER 10kVA/9kW                                                   20329.02    9 182961.17  45740.29
+DASAR LED SQUARE, asim., nehrđajući čelik 316, 28W,3000K                           2058.94   26  53532.44  13383.11
+Nazidna utičnica, siva, 16A, IP44, utične stezaljke                                  35.16   10    351.60     87.90
+Instalacijski sklopnik 40A | 2 N/O + 2 N/C | 230V AC                                350.19   18   6303.42   1575.85
+Bočne stranice za Modul 2000/3S, dubine 150mm, tip 28/150                             4160    6  24960.00   6240.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    268108.62
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

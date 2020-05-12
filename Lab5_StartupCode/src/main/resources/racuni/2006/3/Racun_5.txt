@@ -1,0 +1,29 @@
+Račun br. 964303
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Sklopnik vel. 3|45kW (95A) [AC-3] | 230VAC, 50/60Hz                                1131.86    6   6791.16   1697.79
+Gljivasto tipkalo, crveno, fi=40mm, deblokada zakretom                               72.36   25   1809.00    452.25
+Uklopni sat, digitalni, godišnji program, ASTRO, 2 C/O, 3ŠM                        2031.62    2   4063.24   1015.81
+POWERLINE prijamnik, 10A, plavi                                                     1215.2   16  19443.20   4860.80
+LED traka Flexstrip 48 tople bijele b. IP43 L-5M                                   1130.94   21  23749.74   5937.43
+Nosač za SPEED WORK XC900001--                                                      126.29    9   1136.61    284.15
+Industrijsko kućište sivo, sivi poklopac, 130x95x65mm, IP65                          58.21    3    174.63     43.66
+L-SE montažna šina MR 1x35-80 7x2,5mm²                                              148.62   23   3418.26    854.56
+Kabel LiYY 12x0,14                                                                   10000   24 240000.00  60000.00
+PlanoCentro 201, senzor prisutnosti, p/ž,  stropni, crni                            4150.7   11  45657.70  11414.43
+KABEL E-AYY-0 (PP00-AL) 4X150 SM                                                     10000   29 290000.00  72500.00
+Softshell jakna -M-                                                                 595.37   20  11907.40   2976.85
+Prednja ploča za tel. i stereo zvučničke utičnice, bijela                            12.84   24    308.16     77.04
+Podnožje, pred./zadnji pokrov s četkom Š=600 za DS/DSZ/DSS                           91.92   26   2389.92    597.48
+L-SE LSK 1.5 1x44W LMW 4500lm 830 ECG, bijele boje                                  1256.6   17  21362.20   5340.55
+Panik svjetiljka Linda 18W, MIX-mod, industr.                                       795.83    6   4774.98   1193.74
+LIKA kućište za LINUX LIGHT, srebrne boje                                           374.92   14   5248.88   1312.22
+
+                                                                                                         ----------
+UKUPNO                                                                                                     682235.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

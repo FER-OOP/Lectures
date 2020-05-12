@@ -1,0 +1,33 @@
+Račun br. 790894
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Bimetalni relej za sklopnike vel. 2 | 5,50 - 8,00A                                   218.9   12   2626.80    656.70
+Reflektor za BERET & DIVIS Downlight, GU6,5, 16°                                     39.24   26   1020.24    255.06
+Kućište N/Ž, IP55, 13 modula, prozirna vrata                                        220.83   11   2429.13    607.28
+Shuki-Q/A2 LED 1W 3000K, IP20, aluminij                                             105.76   20   2115.20    528.80
+Instal. umetak 2-18L komplet 6 IR prednja pl. plastika                             1263.27   11  13895.97   3473.99
+Razdjelnik uzidni, IP40, 3-redni, 54 modula, bijela vrata                           234.17   21   4917.57   1229.39
+UPS Multi Plus 40kVA 36KW 6min,3f/3f/Online/veliko kuć.                           81933.13   11 901264.44 225316.11
+Odjelna stranica za AS ormare, 2000x500mm (VxŠ)                                     503.96   26  13102.96   3275.74
+Teretna sklopka, 4P, 630A, opcija: daljinski isklop                                3932.89    5  19664.45   4916.11
+KM panik svje. LED/3h bat. 230VAC, Auto test, univerz. mont.                        532.22    3   1596.66    399.16
+Montažna ploča, bakelitna, za IG2718.. 220x130x4mm                                    4130   21  86730.00  21682.50
+Prednja ploča, čelična, slijepa, 3B4                                                  4160    2   8320.00   2080.00
+Rolo-WL 3 E27 75W, aluminij, antracit                                               212.21   23   4880.83   1220.21
+Montažna ploča za MINIPOL ormare, poliester, 400x300mm                               84.47   27   2280.69    570.17
+LED PWM Repeater RGBW                                                               676.39   11   7440.29   1860.07
+AIXLIGHT R zidna, QRB111, okr.,cr.b., G53, max. 1x50W                               875.55   25  21888.75   5472.19
+Audio vanjski panel, 44 tipke, sa PTT otvorom                                         4690    9  42210.00  10552.50
+Kabel H05VVC4V5-K 5x2,5 sivi                                                         10000   29 290000.00  72500.00
+TRISTAN nadgradna svjetiljka T8, 58W CCG, srebrne boje                              813.03   28  22764.84   5691.21
+Serijski ormar AS, 1-vrata, 2000x800x400 (VxŠxD),bez MP,7035                       3789.92   14  53058.88  13264.72
+Agnes-R LED 40W 4000K 3200lm, IP20, bijele boje                                     616.53   27  16646.31   4161.58
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1518854.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

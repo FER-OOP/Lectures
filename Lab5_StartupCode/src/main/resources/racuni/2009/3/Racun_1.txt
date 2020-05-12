@@ -1,0 +1,32 @@
+Račun br. 908962
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ugradna svjetiljka SERH 2 A2 L1 T5 3x24W, ECG, bijela                                 8534    8  68272.00  17068.00
+Maskirni razdjelnik 5 širina brojila/ 21 MV                                           4180   30 125400.00  31350.00
+Strujni trafo, montaža na DIN nosač, 80/5A, 3VA, Kl. 3                              127.03   11   1397.33    349.33
+Motorna zaštitna sklopka, 3-polna | 2.20 - 3,20A, vel.S00                            200.5   23   4611.50   1152.88
+Pinta-Q/A2 50W GU10 MR16, 100-240V, IP20, bijele boje                                63.02   16   1008.32    252.08
+FI-blok 63A 3-polni, 30mA, Tip AC                                                     4290    6  25740.00   6435.00
+NV osigurač vel. 2, 250A/400V AC                                                      65.2   16   1043.20    260.80
+FENDA sjenilo svjetiljke, crvene boje                                               249.72   14   3496.08    874.02
+Punto-LR-R/A1 50W GU5,3 MR16, 12V, IP20, brušeni krom                                21.96   28    614.88    153.72
+D02 (Neozed) osigurač 25A, gL                                                         4.79    8     38.32      9.58
+SPEED WORK stalak za 3 špule                                                       1071.13   23  24635.99   6159.00
+Kruta pojačana cijev, M50, 750N, EN3341, crna, 3m (pak. 21m)                       1930.66   29  55989.14  13997.29
+Poliester zidni ormar MINIPOL, prozirna vrata, 400x400x200mm                       1517.01    6   9102.06   2275.52
+Okvir 4x2M line, srebrni                                                             57.52   10    575.20    143.80
+Okvir plitki s vratima i umetkom za KVM, 1-redni,12+2 modula                        245.46   24   5891.04   1472.76
+"Opt. razdjelnik,24 niti, LC, 9/125µm OS2, izvlačivi,19"",1U"                      2467.08   23  56742.84  14185.71
+Kabelska stopica 95mm2, za MC2                                                       27.39    6    164.34     41.08
+Gumeni savitljivi kabel NSSHöu-O 1x120, žuti                                         10000   16 160000.00  40000.00
+Zaporni vijak M12x1.5, metrički, poliamid                                             0.65   28     18.20      4.55
+Zaštitni prekidač, B karakteristika, 16A, 1-polni, 10kA                              24.55   20    491.00    122.75
+
+                                                                                                         ----------
+UKUPNO                                                                                                    545231.44
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

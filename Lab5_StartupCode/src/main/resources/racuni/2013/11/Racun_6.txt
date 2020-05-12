@@ -1,0 +1,30 @@
+Račun br. 985757
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ugradna svjetiljka SERH ECO T5 4x14W ECG IP54 M600, bijela                          543.28   24  13038.72   3259.68
+Nazidna utičnica, siva, 16A, IP44, utične stezaljke                                  35.16   13    457.08    114.27
+Kabel YSLYQY-J 4x70 prozirni                                                         10000   24 240000.00  60000.00
+Modularna slijepa ploča za AS/KS ormare 600x450mm RAL 7035                           157.9    4    631.60    157.90
+Rastavlačka pruga vel.2, 1P isklop, M10                                            1004.23   14  14059.22   3514.80
+"Označna pločica tip CSC ""0"" (100 kom.)"                                            9.83   16    157.28     39.32
+NV osigurač vel. 00, gG/gL, 125A/500V AC                                              4838   21 101598.00  25399.50
+Ida2 LED 3W, 3000K, 48lm, IP65, alu, bijele boje                                    331.49    5   1657.45    414.36
+Završni poklopac TBR okrugli sa otvorom                                              51.19   17    870.23    217.56
+Kabel E-AY2Y-O 4x50SM                                                                10000   22 220000.00  55000.00
+SAT kapa stupa 42-50mm,do 18 koaks. kabela,neprop.,crni                              39.06   22    859.32    214.83
+DASAR 215, ES111 podna ugradna svjetiljka, četvrtasta                              1307.91   29  37929.39   9482.35
+Fluokompaktna žarulja TC-L 24W/827 2G11                                               42.5   29   1232.50    308.13
+Cedric LED 20W 4000K 1500lm, IP65, antracit                                          656.4   25  16410.00   4102.50
+Fluokompaktna žarulja TC-S 11W/830 G23                                                19.7   17    334.90     83.73
+Utičnica, 16A, umetak, otp. na grebanje, bijela                                      16.48   11    181.28     45.32
+Luxa 102 FL, LED spot 16W, 3000K, zidna, IP44, bijela                               798.81   20  15976.20   3994.05
+AIXLIGHT R2 OFFICE T5, zaobljena,bi.b.,2xT5 39W+2xES111 75W                        2809.97   20  56199.40  14049.85
+
+                                                                                                         ----------
+UKUPNO                                                                                                    721592.44
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

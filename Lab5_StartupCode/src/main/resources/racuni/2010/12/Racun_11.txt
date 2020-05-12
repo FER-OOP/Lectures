@@ -1,0 +1,24 @@
+Račun br. 732126
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Tipkalo s povratom, plosnato, bijelo                                                 25.67    1     25.67      6.42
+Aluminijski profil SLW, naborani                                                    122.57    8    980.56    245.14
+Transformator, 1-fazni | 230/230V | 2500VA, IP00                                   3243.22    2   6486.44   1621.61
+Box priključne stezaljke, za 3-polnu MC1 (3 kom.)                                    62.83   12    753.96    188.49
+SLR spojnica profila                                                                 50.26   25   1256.50    314.13
+7307G/W, 7w GU10 WW                                                                   5.74   10     57.40     14.35
+Montažna ploča 3PB, 670x294x13mm, 7 visinskih jedinica                              246.76   28   6909.28   1727.32
+Plasto LED 16W, 3000K, 960lm, 230V, IP65, plastika,bijele b.                        344.67    5   1723.35    430.84
+Instalacijski umetak za Minipol ormar 800x600mm, 5x29 modula                       1147.56   26  29836.56   7459.14
+Perforirana montažna traka, pocinčana, 10m, Š=12mm, d=5,3mm                            4.3   26    111.80     27.95
+Potporni izolator visine 30mm, obostrano s maticom M8, 1.5kV                          4837   16  77392.00  19348.00
+Indikacija uklopa, za prekidač MO, 1 C/O kontakt (tvornički)                        400.74   21   8415.54   2103.89
+
+                                                                                                         ----------
+UKUPNO                                                                                                    133949.06
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

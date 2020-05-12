@@ -1,0 +1,23 @@
+Račun br. 842849
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ugradna svjetiljka SEO XTP T8 4x36W CCG IP54 M600, bijela                          2042.05   21  42883.05  10720.76
+NV osigurač vel. 2, 250A/400V AC                                                      65.2    8    521.60    130.40
+UPS AVARA Multi 160kVA 160kW 0min. 3f/3f/Online                                      10000   16 160000.00  40000.00
+VISIO45 -  nosač za 7 modula                                                        581.41   18  10465.38   2616.34
+Ines-R 22W 2GX13, 230V, IP20, sive boje                                             132.63   14   1856.82    464.21
+Prednja ploča za dimer EL174300, bijela                                              70.55    8    564.40    141.10
+FLEXLED ROLL HIGH LUMEN 24V, 1m, 5000K                                              218.46    8   1747.68    436.92
+Smith-II-R LED 3W 3000K 200lm, IP54, bijele boje                                    278.44    1    278.44     69.61
+Prednja ploča, čelična, slijepa, 5B1                                                  4160   30 124800.00  31200.00
+Kompaktni prekidač snage tip M, 3P/80A/25kA, MC1                                    906.37   16  14501.92   3625.48
+TRAIL podna svj. LED 650mm 9W 900lm sim. 3000K                                     2802.68   15  42040.20  10510.05
+
+                                                                                                         ----------
+UKUPNO                                                                                                    399659.47
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

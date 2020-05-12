@@ -1,0 +1,32 @@
+Račun br. 171997
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ugradna svjetiljka SERH 2 A8 L2 T5 2x14W, ECG, bijela                               412.19   21   8655.99   2164.00
+Prednja ploča s otvorom za uređaje ø22,5 mm, biserno bijela                             52   29   1508.00    377.00
+Proširenje sa accu, bez punjača za USPRP220/USPRP300 72V 7Ah                        3425.9   16  54814.40  13703.60
+Kabel H05VV-F (PP/J) 3x1mm2, crni, 50m                                               10000   18 180000.00  45000.00
+Bočne stranice za AS ormare, 2000x800mm (VxŠ) RAL 7035 (par)                       1069.97   21  22469.37   5617.34
+Razdjelnik nazidni, IP55, 3-redni, 36 modula, prozirna vrata                        509.38   14   7131.32   1782.83
+54 hlače, vodo-otporne, sa puno džepova                                             320.04    3    960.12    240.03
+Pokrov za ARROW BLUE VELIČINA 00                                                      4821    1   4821.00   1205.25
+Ovjesni set za MEDO PRO 60 četvrt., bijele boje                                      187.2   16   2995.20    748.80
+Strujni trafo, 800/5A 40X10                                                         152.77   22   3360.94    840.24
+L-SE montažna šina MR 3x28-54 5x1,5mm²                                               274.9    3    824.70    206.17
+Izmj. Fronius Symo 6.0-3-M, 6kW, 3f, IP55, TL 2 MppTracker                        18495.75   20 369915.00  92478.75
+Linijska svj. SERH 220 ASY 1x54W, ECG, bijele boje                                  343.62   20   6872.40   1718.10
+Pokrov stezaljki za sklopnike veličine 6, kratki                                     42.59    7    298.13     74.53
+Kratkospojna stezaljka, 1-polna, 250A, M10, montaža na ploču                          4832   22 106304.00  26576.00
+Nadgradna svjetiljka SARM 2 2x35W ECG, bijela                                       480.92   22  10580.24   2645.06
+LED RF kontroler Mono - za 1 zonu, bežično tipkalo                                  591.84   23  13612.32   3403.08
+Panik svjetiljka KX LED 3W, CPS sustav,MIX mod, univerzalna                         1316.6   29  38181.40   9545.35
+Nazidni okvir s vratima za Modul 2000 | 2A-21 | dubina 250mm                       1255.52   11  13810.72   3452.68
+LED PWM Repeater Mono                                                               507.29   21  10653.09   2663.27
+
+                                                                                                         ----------
+UKUPNO                                                                                                    857768.25
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

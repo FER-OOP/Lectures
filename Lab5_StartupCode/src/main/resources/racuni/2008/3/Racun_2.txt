@@ -1,0 +1,20 @@
+Račun br. 341727
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Sutil Quadro LED 8W, 3000K, 480lm, 120°, IP40, bijele boje                          161.18   25   4029.50   1007.37
+PATH POLE 100cm 360° 8x1W LED, 40° 4000K RAL9006                                   3896.39    5  19481.95   4870.49
+7304AG/D/36, 3LED 4,5w GU10 DL 36 ° 100-240V                                         46.46   27   1254.42    313.60
+Telephone License za MUG, 10 korisnika                                             1114.18    8   8913.44   2228.36
+Nadgradna svjetiljka SAP IP54 T8 4x18W CCG, bijela                                 1033.82   18  18608.76   4652.19
+Maria-WL-R LED 3x1W 6000K, IP54, sive boje                                          131.95    6    791.70    197.92
+Signalna svjetiljka sa LED 230VAC/DC, glatka leća, zelena                            68.45    6    410.70    102.67
+LUZO INTERGRATED LEDstr.ugr.prsten,okrugli,bijeli 3000K 36°                         578.81   19  10997.39   2749.35
+
+                                                                                                         ----------
+UKUPNO                                                                                                     64487.86
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

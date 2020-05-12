@@ -1,0 +1,23 @@
+Račun br. 962044
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Serijski ormar AS, 1-vrata, 2000x400x400(VxŠxD),bez MP,7035                        4062.87   23  93446.02  23361.50
+Priključnica 2xRJ45 cat.5e, neoklopljena, 80x80, RAL9010                             31.66   11    348.26     87.07
+"Opt. razdjelnik, 8 niti, FC,50/125µm OM2, izvlačivi,19"",1U"                      1003.07   12  12036.84   3009.21
+ROTOBALL FLOOR vanjska svj., bijele b., E27, max. 24W, IP44                         1370.6    9  12335.40   3083.85
+Marra LED traka 14,4W/m 3000K 860lm/m, dimabilna, IP68                              364.61    6   2187.66    546.91
+Tipka sa osvjetljenim natpisom, antracit                                             16.41   19    311.79     77.95
+Rolo-CL-R 35W GU10 MR16, 100-240V, IP54, antracit                                   146.65   23   3372.95    843.24
+VAP LED 60 samostojeća svj. 9W LED,3000K,okrug.,nehrđ. Čelik                       2184.14    5  10920.70   2730.17
+Spojnica za na vrata, za MC1, duljine 60mm                                          317.11   22   6976.42   1744.10
+"IT METER LINE nap. letva s mjeračem snage, 8xshuko, 19"", 1U"                      2318.2   11  25500.20   6375.05
+Završna pločica za 3P sabirnicu SI310120-- (16mm²)                                    4832   18  86976.00  21744.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    254412.23
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

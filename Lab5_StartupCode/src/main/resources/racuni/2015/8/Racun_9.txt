@@ -1,0 +1,25 @@
+Račun br. 255609
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Baterija 4,8V 2,0Ah za svjet. sa vl. nap. LED sa LPU modulom                        134.44    6    806.64    201.66
+Pokrov za 2xRJ45 Toolless, antracit                                                  12.97   23    298.31     74.58
+Podnožje prema širini ormara (za ormare 3A../.IP54)                                   4160   21  87360.00  21840.00
+TRILEDO SQUARE CL downlight, brušeni alum., 6W, 38°, 3000K                          625.15    8   5001.20   1250.30
+LIGHT EYE MR16 Spot za LINUX LIGHT, krom                                            437.43   20   8748.60   2187.15
+Sonda za štapni uzemlj. 1.5m, Ø25mm s 3-dj. prsten. završ.                          156.37   11   1720.07    430.02
+Montažna ploča za MINIPOL ormare, metalna, 400x300mm                                106.26   27   2869.02    717.26
+Cu - Main branch term., 1 pole,160A,  1x70mm², 8x16mm²                                4230    4  16920.00   4230.00
+"1-struki okvir ""Riva"", biserno bijeli"                                            13.71   12    164.52     41.13
+Grebenasta sklopka, (glavna,crveno/žuta),0-1/4P/25A,na vrata                        210.98   15   3164.70    791.17
+Elektronska prigušnica ECG QTi DALI 2x35/49/220-240 DALI dim                        328.42   14   4597.88   1149.47
+Talpa-R/A1 50W GU10 MR16, 100-240V, IP20, bijele boje                                73.32   27   1979.64    494.91
+Kućište opal KX panike za sigurnosnu rasvjetu                                       104.15   20   2083.00    520.75
+
+                                                                                                         ----------
+UKUPNO                                                                                                     135713.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

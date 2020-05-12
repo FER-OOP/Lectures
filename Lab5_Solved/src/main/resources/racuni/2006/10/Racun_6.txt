@@ -1,0 +1,20 @@
+Račun br. 256874
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ind.svj.ARKTUR SQUARE LED 113W 12000lm/765 ECG IP65 110°                           2733.37   29  79267.73  19816.93
+Noel-Q/A2 50W GU10 MR16, 100-240V, IP20, bijele boje                                 99.51    6    597.06    149.26
+Nosač RC senzora pokreta, inox efekt                                                166.49   21   3496.29    874.07
+FID sklopka AMPARO, 25-2-003/A (puls), 10kA                                         359.83   29  10435.07   2608.77
+KNX dvostruko tipkalo, N/Ž, IP44, sivo                                              523.65    6   3141.90    785.48
+Tipka, 2-struka, za ELG740140, bijela                                                98.21    8    785.68    196.42
+Prenaponska zaštita 24V za Mono trake                                                126.9   21   2664.90    666.23
+Glenos akrilni pokrov za četvrtasti Profile 3030, 3m                                374.58   20   7491.60   1872.90
+
+                                                                                                         ----------
+UKUPNO                                                                                                   107880.234
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

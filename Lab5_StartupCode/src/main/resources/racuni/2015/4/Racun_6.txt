@@ -1,0 +1,26 @@
+Račun br. 707228
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Stezaljka glavnog voda (za Al i Cu),1P,2x35mm²|2x25mm²,plava                         34.04   30   1021.20    255.30
+GLENOS LED zidna ugradna svjetiljka, tople bb                                       312.23    7   2185.61    546.40
+Stezaljke za širinski produžetak, za 4P MC3, 500A, za kabel                        1008.91   15  15133.65   3783.41
+46 hlače, vodo-otporne, sa puno džepova                                             320.04   17   5440.68   1360.17
+COLOR CONTROL, RGBW SLAVE 12V/24V                                                   374.92   23   8623.16   2155.79
+Shuki-Q/A2 LED 1W 6000K, IP20, aluminij                                             105.76   30   3172.80    793.20
+Označne pločice '351-400', Dekafix DY5 (sadrži 50 oznaka)                             8.78   11     96.58     24.14
+Pomoćni sklopnik ET, 4A | 230V AC | 3N/O + 1N/C                                     127.16   26   3306.16    826.54
+Označne pločice '201-250', Dekafix DY5 (sadrži 50 oznaka)                             8.45   11     92.95     23.24
+Nadgradna svjetiljka MERA OPAL 1x36W ECG, bijela                                    150.32   10   1503.20    375.80
+Signalni fleksibilni kabel YSLY-JZ 4x1,5                                             10000    7  70000.00  17500.00
+LIGHT EYE ovjesna svjetiljka za EASYTEC II, ES111, krom                             625.15    8   5001.20   1250.30
+NAUTILUS LED 304 S, 3x1W, tbb                                                       788.36   27  21285.72   5321.43
+Roze-WL-S LED 6x0,2W 6000K, IP20, aluminij                                           79.07    9    711.63    177.91
+
+                                                                                                         ----------
+UKUPNO                                                                                                    137574.53
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,21 @@
+Račun br. 564357
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+9S07/D/SE, 7W E14 DL                                                                  5.23   15     78.45     19.61
+LED napajanje 15W, 500mA, dim.                                                       187.2   21   3931.20    982.80
+Sabirnica, 4-struka za B/C odvodnike (za TN-S, TT sustave)                           23.56   19    447.64    111.91
+Ugradna svjetiljka SERM 2 A8 L1 T5 2x35W, ECG, bijela                                 8534   12 102408.00  25602.00
+89200W, LED DRIVER 12v 200w 100-240v                                                331.49   23   7624.27   1906.07
+Nosač telefonskih letvica za prihvat do 5 LSA letvica,D=30mm                         98.74    8    789.92    197.48
+NEW TRIA LED DL SQUARE SET, brušeni aluminij, 6W,3000K,38°                          316.63   29   9182.27   2295.57
+Reflektor TES 250W HIT E40 IP65 crni asimetrični                                    957.49   23  22022.27   5505.57
+Vodotijesna svjetiljka LINDA Transparente 2-28/54W IP65                             591.37   12   7096.44   1774.11
+
+                                                                                                         ----------
+UKUPNO                                                                                                    153580.47
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

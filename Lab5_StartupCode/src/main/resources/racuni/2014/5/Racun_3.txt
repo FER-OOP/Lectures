@@ -1,0 +1,32 @@
+Račun br. 151766
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Sabirnica, 2P, viličasta, 16mm² (80A)|korak 18mm| 1m, AMPARO                          4230    5  21150.00   5287.50
+GLENOS PROFILE 2508, 2m, aluminij                                                   155.78    5    778.90    194.73
+TRUST RASTER                                                                        437.43   24  10498.32   2624.58
+Kabel za punjenje tip2, 32A 1F, 4m duljine                                            8130   11  89430.00  22357.50
+Motorna zaštitna sklopka, 3-polna | 1.40 - 2.00A, vel.S00                           205.37   10   2053.70    513.42
+Linijska svjetiljka LUCIE T5 1-35/49/80W DALI aluminij                              985.11   26  25612.86   6403.21
+"1-struki okvir ""Scala"", bijeli"                                                    7.73    8     61.84     15.46
+AIXLIGHT MOD 1 MR16, srebrne boje                                                   172.66    9   1553.94    388.49
+Fluo cijev T5|T16 39W/830 G5                                                         42.19    3    126.57     31.64
+Zaštitni prekidač AMPARO 6kA, B 6A, 2-polni                                          66.94   12    803.28    200.82
+Solid Double LED 7W 6000K 530lm, IP20                                               124.52   21   2614.92    653.73
+FI-blok 63A, 3-polni, 100mA, Tip A (Puls)                                           978.52    8   7828.16   1957.04
+316 SENSE-Panel Video, digital-key panel, nehrđ. čelik, VIP                       17180.01    5  85900.05  21475.01
+DIO FLEX PLATE,topla bijela LED, 1W, krom                                              418    8   3344.00    836.00
+Podnožje za HSTMSVL120, visina 100mm                                                980.08   26  25482.08   6370.52
+Centralna ploća za podno grijanje sa on/off prekidačem                              109.48   10   1094.80    273.70
+Elektronska prigušnica ECG QTi 1x18/220-240 dim 1-10V                               297.08   20   5941.60   1485.40
+Nadgradna downlight svjetiljka ARM 292 1x13W CCG TC-D,bijela                        212.53   25   5313.25   1328.31
+NV podnožje 3P, vel.00|160A, na ploču, 1.5-70mm²                                      4831   25 120775.00  30193.75
+Tipka s ručicom,zelena,3 pol.,50°,lijevo bez-desno s povrat.                         45.85   23   1054.55    263.64
+
+                                                                                                         ----------
+UKUPNO                                                                                                    411417.84
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

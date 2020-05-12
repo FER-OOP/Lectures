@@ -1,0 +1,31 @@
+Račun br. 1099308
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Punto-R/A1 50W GU10 MR16, 230V, IP20, brušeni krom                                    29.9   16    478.40    119.60
+N/Ž okvir + vrata 4A-39 D=300mm str.ploča+zakr. ručica, IP54                       4048.03   12  48576.36  12144.09
+Noel-Q/A2 LED 40W 3000K 3200lm, IP20, bijele boje                                   967.46   19  18381.74   4595.44
+Plafonjera ALICA Round OP 2x9W, CCG IP54, crna                                      244.49   28   6845.72   1711.43
+Grace-R LED 12W 3000K 400lm, IP20, sive boje                                        234.51   25   5862.75   1465.69
+Poliester kućište 280x190x100mm sivo - B-EFI                                        209.61   20   4192.20   1048.05
+Grebenasta sklopka 0-1/2P/32A/1kV DC, na DIN nosač                                  387.64   28  10853.92   2713.48
+FI-blok 40A, 4-polni, 30mA, Tip A (Puls)                                            835.01   16  13360.16   3340.04
+Napajanje 156W, 12V, IP67                                                           748.84   25  18721.00   4680.25
+Baterija 4,8V 0,5Ah za svjet. sa vl. napajanjem LED KM i KS                         116.47    6    698.82    174.71
+ROX zidna svj. G8,5, antracit, 2x35W                                               1871.23    3   5613.69   1403.42
+Instalacijski umetak za WSM ormare, 4x27 modula                                     418.87    6   2513.22    628.30
+Halogena žarulja QT-DE 11/12 1000W R7s L=191,2                                       73.99   15   1109.85    277.46
+Utičnica s poklopcem, 16A, umetak, bež                                               44.79    5    223.95     55.99
+Lugno-Q/A1 35W GU10 MR16, 100-240V, IP54, sive boje                                 234.51    2    469.02    117.25
+Montažni nosač 2H                                                                    10.78   22    237.16     59.29
+LED 12-30V AC/DC plavi za montažu na dno                                             35.69   13    463.97    115.99
+"Opt. razdjelnik,12 niti, SC,50/125µm OM3, izvlačivi,19"",1U"                       920.54   10   9205.40   2301.35
+EURO SPOT ECG 50, 60°bijela G12,50W,uklj. 3f.adapter                                938.06    6   5628.36   1407.09
+
+                                                                                                         ----------
+UKUPNO                                                                                                    153435.69
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

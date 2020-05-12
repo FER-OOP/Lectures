@@ -1,0 +1,27 @@
+Račun br. 299529
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+A/V jedinica, color kamera, VIP, IKALL/IKALL METAL/VANDALCOM                       6691.63   23 153907.48  38476.87
+AIXLIGHT PRO FLAT okr.FRAME 2 ugradno kućište, srebrne boje                         437.43    1    437.43    109.36
+Mini-Lynx, 11W, 4000K, E14                                                           62.51   13    812.63    203.16
+LED napajanje 1W/350mA IP20 za max. 1 PERLA svjetiljku                                8510   20 170200.00  42550.00
+Metalhalogena žarulja 20W CMH-MR16 PRECISE, 40°,3000K,GX10                          312.23   24   7493.52   1873.38
+Nosač za montažu MO, za veličinu 1 i 2 (kao rezervni dio)                             4970   23 114310.00  28577.50
+Modul signalne svjetiljke, trajno zeleno svjetlo, 24V AC/DC                         606.25   11   6668.75   1667.19
+Shunt 60mV, 60A                                                                       4398   11  48378.00  12094.50
+HDMI 1.4 kabel, 2xHDMI19 tipA muški, pozlaćeni kontakti, 2m                          48.54   25   1213.50    303.38
+Prednja ploča antenske utičnice sa 4 otvora, alu efekt                               84.82    4    339.28     84.82
+LED 85-264V AC, crveni, za montažu na dno kućišta, utične                            57.89    4    231.56     57.89
+Krović za zaštitu WSM ormara od kiše, za ormar 250X155 (ŠxD)                          4066    3  12198.00   3049.50
+Ugradna svjetiljka SE-ID ECO L1 TC-L 2x40W ECG M600, bijela                         448.96   18   8081.28   2020.32
+IP68 prespojna kutija,3-polna,100mmx40,5mm,6-13mm promjer k.                         87.01   16   1392.16    348.04
+Prespojni kabel RJ45 cat.6 neoklopljen, PVC, crveni, 1.0m                                9   16    144.00     36.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     525807.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

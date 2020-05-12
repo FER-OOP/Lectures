@@ -1,0 +1,14 @@
+Račun br. 349201
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"1-struki stakleni okvir ""Riva"", alu efekt"                                       424.74   24  10193.76   2548.44
+LED GU10, 5W, 3000K, 360lm, 120°, 230V                                               53.05   23   1220.15    305.04
+
+                                                                                                         ----------
+UKUPNO                                                                                                     11413.91
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

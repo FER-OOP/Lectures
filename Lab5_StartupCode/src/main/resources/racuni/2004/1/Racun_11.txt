@@ -1,0 +1,25 @@
+Račun br. 521306
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LIPSY 50 M COLOR CONTROL zidna/stropna svj., 55cm, RGB 3000K                       2058.94   24  49414.56  12353.64
+Armatura za svjetiljku Cat 1 1x13W TC-DEL Ø 220mm                                     8518    3  25554.00   6388.50
+Multimode-Relej, 3C/O, 10A, 110VDC 11-polni,AgNi 90/10, MT                           80.68   15   1210.20    302.55
+PARA MULTI 406 LED,okr.,sa Philips DLMI Modul 2000lm,3000K                         1871.23    7  13098.61   3274.65
+Instal. umetak 4-33K komplet 11 IR prednja pl. čelik                               2387.38   21  50134.98  12533.74
+Montažna ploča, širine 3PB, visina 294mm                                              4063    8  32504.00   8126.00
+Prespojni kabel RJ45 cat.5e neoklopljen, PVC, sivi, 3.0m                             12.38   25    309.50     77.38
+Kabel H05VV-F (PP/J) 3x2,5mm2, bijeli, 50m                                           10000    6  60000.00  15000.00
+ALTRA DICE SPOT, četvrt., crni, GU10, max. 50W uklj. adapter                        500.12   23  11502.76   2875.69
+Spojnica za DOWNUNDER PROFIL, 2kom.                                                   12.5   16    200.00     50.00
+LED-STRIP OUTDOOR, 24V, 50cm, 4000K (3000K LED)                                     625.15   24  15003.60   3750.90
+Natpisna pločica fi=60mm, 4-jezična, “Not-Aus”                                       30.34   18    546.12    136.53
+ARROCK SAND 70 samost. svj., kamen, E27, max. 15W                                  2809.97    5  14049.85   3512.46
+
+                                                                                                         ----------
+UKUPNO                                                                                                     273528.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

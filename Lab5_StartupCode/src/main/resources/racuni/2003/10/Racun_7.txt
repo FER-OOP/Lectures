@@ -1,0 +1,17 @@
+Račun br. 476663
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kabanica veličina L                                                                   9843   29 285447.00  71361.75
+Frida-I-R 20W G4, 12V, IP20, krom                                                     5.74   27    154.98     38.74
+Kabel LiYCY 52x0,14                                                                  10000   23 230000.00  57500.00
+KALU LED 1 FLOOR podna svjetiljka, 1x10W, 3000K, bb/cb                             1188.46   14  16638.44   4159.61
+NYCY 19x1,5RE/4                                                                    4429.52    1   4429.52   1107.38
+
+                                                                                                         ----------
+UKUPNO                                                                                                    536669.94
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

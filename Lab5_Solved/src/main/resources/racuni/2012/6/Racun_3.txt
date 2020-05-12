@@ -1,0 +1,16 @@
+Račun br. 546733
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Tuljci, izolirani, 16mm2, L2=18mm (pak.50 kom)                                       60.05    1     60.05     15.01
+Levante-S 10 LED 24W 2215lm 4000K asim.,IP66, SKII, RAL9003                        2006.63   15  30099.45   7524.86
+Regulator jalove snage sa 6 stupnjeva                                              1395.53    7   9768.71   2442.18
+9C09S/C/SE, 9W E14 CW                                                                 5.74    3     17.22      4.30
+
+                                                                                                         ----------
+UKUPNO                                                                                                     39945.43
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

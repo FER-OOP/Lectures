@@ -1,0 +1,19 @@
+Račun br. 165809
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Svijetleća tipka s ručicom,2 položaja,žuta,60°,bez povrata                            75.6    2    151.20     37.80
+Narezni prsten 22mm, može se montirati na bušilicu                                   25.53   24    612.72    153.18
+Bakreno uže 50 mm2                                                                 5290.89    3  15872.67   3968.17
+Push pull presp. kabel RJ45 STP cat.6a 10GB LS0H sivi 1.5m                           46.03   16    736.48    184.12
+Piros-II-R/A2 LED 15W 4000K 1200lm, IP20, bijele boje                               464.13   20   9282.60   2320.65
+Sabirnica, 3P, viličasta, 10mm² (63A)|korak 18mm| 1m, AMPARO                        128.37   12   1540.44    385.11
+Kompaktni prekidač snage tip AF, 3P/160A/36kA                                      1158.99   30  34769.70   8692.42
+
+                                                                                                         ----------
+UKUPNO                                                                                                     62965.81
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

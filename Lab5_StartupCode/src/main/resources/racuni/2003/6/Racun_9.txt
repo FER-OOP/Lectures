@@ -1,0 +1,21 @@
+Račun br. 872764
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Punto-F MR16 Spot, GU5,3, 50W, IP20, 12V, brušeni mesing                             18.07    8    144.56     36.14
+Višežični PVC-om izolirani vodič H07V-R (P/M) 35mm2, smeđi                           10000   28 280000.00  70000.00
+Kompenzacija  LSK 7% 17,5/2,5kvar 600x1250x300mm zidni ormar                      18657.54    5  93287.70  23321.92
+Bela Plano, E27 26W IP20, krom sa crnim kabelom                                     447.74   30  13432.20   3358.05
+Kabel LiYY 3x0,25                                                                    10000   13 130000.00  32500.00
+Uzidni okvir s vratima+umetak, 3U-18, 100mm (plosnati)                             1607.01   30  48210.30  12052.58
+Levante-S 16 LED 38W 3330lm, 4000K ulič.,IP66,SKII,RAL9006                         2824.08    7  19768.56   4942.14
+Sklopnička komb. za promjenu smjera vel. 00 / 4kW / 400V 3P                         251.89   15   3778.35    944.59
+Shunt 60mV, 800A                                                                      4398   19  83562.00  20890.50
+
+                                                                                                         ----------
+UKUPNO                                                                                                     672183.7
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

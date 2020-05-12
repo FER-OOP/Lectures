@@ -1,0 +1,32 @@
+Račun br. 770310
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+7836B/P, Opalni pokrov 2m za 7836T                                                  109.99   16   1759.84    439.96
+Nadgradna svjetiljka SALENA LED 29W 3050lm/840 SLB ECG,bb                           769.95   26  20018.70   5004.68
+Montažna ploča za IP54, 4A-39                                                         4160   16  66560.00  16640.00
+Držač za cilindrične osigurače 10 x 38 | 3P | 32A/690V                               93.29   11   1026.19    256.55
+Kabel H05VVC4V5-K 4x2,5 sivi                                                         10000   21 210000.00  52500.00
+Modularna prednja ploča sa otvorom za 4x24 modula, 600x600mm                        259.73   21   5454.33   1363.58
+VAP 70 podna svjetiljka,okr., nehrđ.čelik, E27, max.23W,IP44                       2809.97    8  22479.76   5619.94
+Nazidno tipkalo, bijelo, 1 N/O, 10A, IP44, na vijak                                   2102   22  46244.00  11561.00
+Metalna vrata visine 60mm za MODUL 160, 4x33 modula                                   4172   20  83440.00  20860.00
+LED žarulja MEGAMAN CLASSIC OPAL 9,5W E27 810 LUMEN 2800K                           111.23   15   1668.45    417.11
+Elektr. prigušnica ECG QTi DALI T/E 1x26/230-240 DALI dim                           284.82   23   6550.86   1637.72
+Direktni starter sa sklopkom 4kW/400V AC [AC3]                                      452.33   22   9951.26   2487.81
+GX8,5 grlo + kabel                                                                    5.23   15     78.45     19.61
+Zakretna ručica za MC1, zaključ., na vrata (crvena/žuta)                            292.07   27   7885.89   1971.47
+Ampermetar, montaža na DIN nosač, DC, 25A, direktno                                 581.86    9   5236.74   1309.18
+Radne cipele vel.37                                                                   9841    4  39364.00   9841.00
+G12 Modul za AIXLIGHT PRO ugradno kućište, 58°, srebrne boje                        312.23   23   7181.29   1795.32
+Otvoreni prekidač, 3P, 66kA, 1600A, izvl., vod. str. priklj.                      39212.33    2  78424.66  19606.16
+LED Driver, 1-10V & Push to dimm, 250-700mA, 12-24VDC, 8-16W                        317.64   18   5717.52   1429.38
+"Žuta podložna pločica, ""NOT AUS"", fi=80mm, samoljepljiva"                          12.2   21    256.20     64.05
+
+                                                                                                         ----------
+UKUPNO                                                                                                    619298.06
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

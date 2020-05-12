@@ -1,0 +1,17 @@
+Račun br. 466789
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Priključna stezaljka 2 x M 8 - 1 x V-stezaljka 2 x 35–70 mm2                         62.76   16   1004.16    251.04
+Parov-CL-III-CO 35W GU10 MR16, 100-240V, IP20, aluminij                             156.45   19   2972.55    743.14
+Matica PG7 (za uvodnicu M272810--A)                                                   0.65   28     18.20      4.55
+Maskirni razdjelnik 2 širina brojila/ 42 MV                                           4180   23  96140.00  24035.00
+NV osigurač vel. 00, gG/gL, 100A/690V AC                                              4838    2   9676.00   2419.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    109810.91
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

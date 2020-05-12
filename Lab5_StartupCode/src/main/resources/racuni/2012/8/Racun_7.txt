@@ -1,0 +1,17 @@
+Račun br. 167320
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Devin-Q 150W Rx7s, 230V, IP20, sive boje                                             19.59   13    254.67     63.67
+IBDN prespojni kabel RJ45 UTP cat.6A, žuti, 4.6m                                      6804   22 149688.00  37422.00
+Završna pločica za stezaljku IK690014--, siva                                         3.09   26     80.34     20.08
+Prednja ploča za PIR senzor pokreta, F/S/R, bijela                                   44.14    8    353.12     88.28
+Stezaljka glavnog voda (za Al i Cu), 1P,2x25mm²|2x16mm²,siva                         21.33   19    405.27    101.32
+
+                                                                                                         ----------
+UKUPNO                                                                                                     150781.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,14 @@
+Račun br. 634035
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Meiva-Q/A2 LED 40W 3000K 3200lm, IP20, bijele boje                                  967.46   25  24186.50   6046.63
+Signalni fleksibilni kabel YSLCY-JZ 5x 4 sivi                                      4011.56   18  72208.08  18052.02
+
+                                                                                                         ----------
+UKUPNO                                                                                                     96394.58
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

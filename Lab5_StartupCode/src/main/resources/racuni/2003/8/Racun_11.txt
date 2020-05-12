@@ -1,0 +1,29 @@
+Račun br. 408322
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Dodatno kvadratno kućište  tip B2 za svjetiljku  NLILD                              139.51   25   3487.75    871.94
+Signalni fleksibilni kabel YSLY-JZ 4x35 sivi                                         10000    9  90000.00  22500.00
+Priključna kutija, nehrđajući čelik, 200x800x120(VxŠxD),IP66                       2202.27    9  19820.43   4955.11
+GLENOS kutna spojnica OUTSIDE, 90°, za Alu Profile, crne b.                          93.26   27   2518.02    629.51
+Svjetleće tipkalo bez povrata, plosnato, žuto                                        56.99   26   1481.74    370.43
+Visokonaponsko grlo, GU 10 sa 60cm kabela                                            31.25   22    687.50    171.88
+Nadgradna svjetiljka PRIMO M PRISMA 2x58W ECG, bijela                                  334   21   7014.00   1753.50
+Serijski ormar AS, 2-vrata, 2000x1200x500 (VxŠxD), RAL 7035                         5173.4   30 155202.00  38800.50
+Instalacijski set PlanoSet RR, crni                                                 293.85   12   3526.20    881.55
+Traka označna 10 x 31-40 za HMM2 i CBC.2                                              4850    4  19400.00   4850.00
+Owen-II-R/A2 50W G8,5, 230V, IP20, bijele boje                                      277.26    1    277.26     69.32
+SAT/ant. završni otpor 75Ohm za utičnice HSATDD/HSBKDD                                2.36   22     51.92     12.98
+Vodič (N)YM-O (PGP) 4x16mm2, bez zašt. vodiča, svij.-sivi                            10000   14 140000.00  35000.00
+Kabel za gradilišta XYMM-J 4x2,5 K35 / 50m, žuti                                     10000   22 220000.00  55000.00
+Ručica za VC3 i VC4, montaža na vrata, crveno/žuta                                  157.81   19   2998.39    749.60
+60010, ONE LIGHT NOTE PAD 100 pages                                                   6.92   19    131.48     32.87
+Finožični PVC-om izol. vodič H07V-K (P/F) 1,5mm2, crni HPV                           10000   14 140000.00  35000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     806596.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

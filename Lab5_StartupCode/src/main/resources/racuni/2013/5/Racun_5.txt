@@ -1,0 +1,25 @@
+Račun br. 675803
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+D02 rastavna sklopka TYTAN RH1 za 60mm, 24-60V DC, nadzor                             4822   30 144660.00  36165.00
+FID sklopka 63-4-01/B, za sve oblike diferencijalne struje                         6923.23    7  48462.61  12115.65
+Pomoćni kontakt za sklopnike vel.00, 1N/O                                            18.42    1     18.42      4.61
+"Opt. razdjelnik, 8 niti,SC,50/125µm OM2, izvlačivi,19"",1U"                        563.05   30  16891.50   4222.88
+Tunel stezaljke 16-185mm2, za 4-polne MC3                                           531.05   30  15931.50   3982.88
+Spojnica za cijev KSX50/50                                                           16.63   28    465.64    116.41
+Ovjesna svjetiljka OFFICE ECO DIR PAR 1x49W ECG, siva                                468.2   15   7023.00   1755.75
+IBDN prespojni kabel RJ45 UTP cat.6A, zeleni, 4.6m                                    6804   24 163296.00  40824.00
+Mura-II-17-R LED 1W 6000K, IP54, aluminij                                           131.95    6    791.70    197.92
+Assembly of an 4 pole (RGB) LED light bar                                           368.33   13   4788.29   1197.07
+Gumeni savitljivi kabel NSSHöu-J 10x1,5, žuti                                        10000    2  20000.00   5000.00
+"Tipkalo s povratom, plosnato, crno, oznaka: ""0"""                                  41.51   29   1203.79    300.95
+Mikro sklopnik 3NO+1NO, 2,2kW, 5A, 400VAC                                            84.34   18   1518.12    379.53
+
+                                                                                                         ----------
+UKUPNO                                                                                                    425050.56
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

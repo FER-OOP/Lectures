@@ -1,0 +1,26 @@
+Račun br. 422025
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ventilator s filterom 320x320x150mm IP54, 66W, 370m3/h                             1028.68   11  11315.48   2828.87
+Krović za zaštitu WSM ormara od kiše, za ormar 600X210 (ŠxD)                          4066   29 117914.00  29478.50
+Fluokompaktna žarulja TC-SEL 9W/827 2G7                                              20.16   16    322.56     80.64
+Razvodna kutija, podžbukna, Ø70, 40mm, M20, crna                                    100.97   17   1716.49    429.12
+Vodotijesna svjetiljka LINDA Industrie PC 2x35-49W IP65                              522.8    7   3659.60    914.90
+LINEA 80M 1x35/49/80W T5 preklapajući uložak, ECG Qti                               606.58   29  17590.82   4397.71
+Theia-R LED 30W 3000K 2500lm, IP54, antracit                                        636.47   30  19094.10   4773.52
+Višežični PVC-om izolirani vodič H07V-R (P/M) 120mm2, crni                           10000   20 200000.00  50000.00
+Prespojni kabel RJ45 STP cat.6a/10GB, LS0H, plavi, 3.0m                              43.43    3    130.29     32.57
+LED sustav utikača Mini - Mono 6x IP20                                               150.6   11   1656.60    414.15
+Punto-A MR16 Spot, GU5,3, 50W, IP20, 12V, mesing                                     17.57    2     35.14      8.78
+Ind.svj.ARKTUR SQUARE LED 184W 20000lm/765 ECG IP65 55°                            3387.84   30 101635.20  25408.80
+Clara-II-SC LED 2x3W 3000K 2x210lm, IP54, antracit                                  344.67   14   4825.38   1206.35
+LS-FI (KZS), C/16A/30mA, 3P, Tip A, 10kA                                              4281   28 119868.00  29967.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     599763.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

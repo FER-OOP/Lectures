@@ -1,0 +1,31 @@
+Račun br. 119179
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kabel 6mm2, crveni, TÜV odobrenje, pakiranje 500m                                  1320.04    9  11880.36   2970.09
+Kučište n/ž 4M                                                                       26.37    7    184.59     46.15
+Zatvarač veličine 1, 3-polni (tvornički ugrađen)                                      4970   18  89460.00  22365.00
+Compact passimo, senzor prisut. 24V, p/ž, stropni, srebrni                         2897.71   20  57954.20  14488.55
+PIN-Busbar for KNX-modules with wire 1,5m                                             4230    6  25380.00   6345.00
+Grebenasta sklopka u kućištu (crveno/žuta), 0-1/3P/80A, IP65                        753.89    2   1507.78    376.95
+"Prednja ploča za ""Astro"" uklopni sat, inox efekt"                                  2103   30  63090.00  15772.50
+LS-FI (KZS), C/20A/30mA, 1P+N, Tip A, 10kA                                          426.69   10   4266.90   1066.72
+Vrata, metalna, perforirana za kom. ormare, 47U, Š=800 mm                           1057.2   17  17972.40   4493.10
+Modul za audio jedinicu, 0 tipki, IKALL, crni                                       207.62    3    622.86    155.71
+POLE PARC 150 floor lamp, anthracite, 2G11, 36W, IP44                              3122.88   26  81194.88  20298.72
+Udarni čavao za beton (bez bušenja), 4x18mm                                          75.26   18   1354.68    338.67
+Kompaktni prekidač snage tip A, 3P/40A/50kA, utični, MC1                           1708.03    2   3416.06    854.01
+Design IL ERT-LED 1x3W 230VAC 8h bežična, usmjerena, ugradna                       1710.21    9  15391.89   3847.97
+1 dodatni LED modul za STYLE intercom slušalicu                                      59.55   24   1429.20    357.30
+NV podnožje 3P, vel.00|160A, na ploču, M8, zaštita od dodira                        190.63   19   3621.97    905.49
+Kabel H05VV-F (PP/J) 5x6mm2, svijetlo-sivi, 100m                                     10000    9  90000.00  22500.00
+Finožični PVC-om izolirani vodič H07V-K (P/F) 10mm2, smeđi                          770.13    6   4620.78   1155.20
+Poliester podnožje za ukopavanje u zemlju, 1000x500x300(VŠD)                       2832.11    7  19824.77   4956.19
+
+                                                                                                         ----------
+UKUPNO                                                                                                    493173.34
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,32 @@
+Račun br. 832506
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Solarlog set kabela 3m za Kostal                                                    213.36    6   1280.16    320.04
+AFDD, series Lisa, C 13 A, 2-pole, 30 mA, A/delayed, 10 kA                         1215.49   17  20663.33   5165.83
+Izolirana okasta stopica, M5, žuta, 4-6mm2 (pak.=100 kom.)                           108.9   16   1742.40    435.60
+Sportska torba plava/crvena/bijela                                                  215.02   30   6450.60   1612.65
+Flyer prečka L=1000m, crna                                                         1314.96   22  28929.12   7232.28
+Set nasadnika za ključ 33 kom.                                                        2303   15  34545.00   8636.25
+Kompaktni prekidač snage tip A, 3P, 50kA, 125A                                     1768.29    4   7073.16   1768.29
+Todd-II-Q LED 9x0,2W 6000K 60lm, IP20, aluminij                                     116.92   21   2455.32    613.83
+"Zidni komunikacijski ormar DW Dualbloc, 600x370x515, 19"", 6U"                    1033.98   28  28951.44   7237.86
+BIG THEO BEAM G9 zidna svjetiljka, četvrt.,bi.b., max. 60W                          813.03   11   8943.33   2235.83
+Trokatna stezaljka (vijčani priključak) 2.5mm², bež                                  19.43   26    505.18    126.29
+Tipka sa simbolom svjetla, svjetleća, bijela                                         24.89   29    721.81    180.45
+Natpisna pločica, prazna, 27 x 27mm, samoljepljiva                                    2.92   16     46.72     11.68
+Bezhalogeni kabel s el. funkc. do30 Min(N)HXCH2x2,5re/2,5E30                         10000   20 200000.00  50000.00
+Plafonjera AURA 3 Sensor LED 16,8W 3000K 1360 Lumen                                1094.01   26  28444.26   7111.06
+Design IL ERT-LED 1x3W 230VAC 8h  bežična, usmjerena,stropna                       1658.41   11  18242.51   4560.63
+Kabel H05VV-F (PP/J) 3x1mm2, crni, 50m                                               10000   18 180000.00  45000.00
+9R04/R/E, PAR38 LED E27 RED                                                          17.74   29    514.46    128.62
+Tipka s ručicom,crvena,osvijetljena,3 polož.,50°,s povratom                          44.43    4    177.72     44.43
+LED ugr.profil,eloks.alu. 1m, uklj.satinirani pokrov                                191.93   10   1919.30    479.82
+
+                                                                                                         ----------
+UKUPNO                                                                                                     571605.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

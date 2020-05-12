@@ -1,0 +1,22 @@
+Račun br. 684208
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Video vanjski panel, 14 tipki, sa PTT otvorom                                         4690   24 112560.00  28140.00
+Kućište N/Ž, IP55, 8 modula, prozirna vrata                                         157.81   15   2367.15    591.79
+Zaštitni prekidač AMPARO 6kA, B 32A, 3P+N                                            98.25    6    589.50    147.38
+FID sklopka 63-4-01/A, S izvedba, za frekventne pretvarače                         1371.79   22  30179.38   7544.85
+Okvir trostruki 80x205mm za nosač 45x45mm, RAL9010                                   13.36   28    374.08     93.52
+Kućište za zidnu montažu za Wireless Kontrol Netbook                               2268.26    9  20414.34   5103.58
+Fluo cijev T16 80W/865 G5                                                            33.97    2     67.94     16.99
+I-PENDANT PRO LED PANEL PENDULUM 2700K 1295x295mm bijele b.                        1558.31   11  17141.41   4285.35
+Elektronski transformator, slave, 50-200W                                             2103   11  23133.00   5783.25
+Multifun. I/O Box za Dialog Plus, za kontrolu 3 x 8A releja                        4267.35   30 128020.50  32005.12
+
+                                                                                                         ----------
+UKUPNO                                                                                                     334847.3
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

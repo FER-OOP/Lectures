@@ -1,0 +1,17 @@
+Račun br. 675622
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ulična svj. RUBINO LED 37W 3750lm/740 ECG IP66, klasa II,sb                        2155.82   28  60362.96  15090.74
+Dusa-II-R LED 3x0,6W, IP67, aluminij                                                 439.8    7   3078.60    769.65
+Optička spojnica ST singlemodna, metalna, keramička, ECO                             10.23   24    245.52     61.38
+Odvodnik prenapona klase D (patrona) VV 280V - serija UAS                           120.49   25   3012.25    753.06
+DC sklopnik | 18.5kW | 24V DC | 3N/O                                                704.35   17  11973.95   2993.49
+
+                                                                                                         ----------
+UKUPNO                                                                                                     78673.28
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

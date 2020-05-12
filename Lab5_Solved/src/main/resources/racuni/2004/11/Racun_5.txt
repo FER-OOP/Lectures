@@ -1,0 +1,28 @@
+Račun br. 184485
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Metalhalogena žarulja 35W CMH-MR16 PRECISE, 40°,3000K,GX10                          312.23   16   4995.68   1248.92
+SLOTS 45 samostojeća svjetiljka, 6,3W LED, tople bb,antracit                        875.55   21  18386.55   4596.64
+"Optički prespojni panel 19"", 1U, uklj. 4 spojnice LC, MM"                         611.42   20  12228.40   3057.10
+Zaštita od kiše za čitač otiska prsta 1.0 i 2.0                                     608.99   30  18269.70   4567.42
+Kabel za motorne pogone oklopljeni SLCM-JZ4x1,5 0,6/1kV sivi                       2716.42    9  24447.78   6111.94
+Kompaktni prekidač snage tip A, 4P, 25kA, 200A                                     2829.46   17  48100.82  12025.21
+Zakretna ručica za MC2, zaključavanje, na vrata (crna/siva)                         268.95   14   3765.30    941.33
+Montažna ploča za IP54, 5A-24                                                         4160   24  99840.00  24960.00
+Bela Plano, E27 26W IP20, krom sa crnim kabelom                                     447.74    5   2238.70    559.67
+RUSTY PATHLIGHT ras.stupić, 9W G53,hrđavi čelik                                    1433.11   26  37260.86   9315.21
+L-SE završni poklopac za sjenilo REP12 T5 i T8 (2 kom)                               25.59   22    562.98    140.74
+SAT nosač za krov za stupove do 60mm,okomita instal., čel.                           295.4   23   6794.20   1698.55
+Kompaktni prekidač snage tip A, 3P/63A/50kA, utični, MC1                           1708.03   12  20496.36   5124.09
+Montažna ploča 315x265x1.5mm, pocinčani čelični lim                                   4130   14  57820.00  14455.00
+Noel-Q/A2 LED 20W 3000K 1500lm, IP20, bijele boje                                   542.36    3   1627.08    406.77
+Industrijska  svjetiljka CERES 1x140W,LED DALI,13600lm/840                         4736.14   19  89986.66  22496.67
+
+                                                                                                         ----------
+UKUPNO                                                                                                    446821.06
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

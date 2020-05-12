@@ -1,0 +1,14 @@
+Račun br. 793995
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kabel za gradilišta XYMM-J 5x1,5 K35 / 50m, žuti                                     10000    2  20000.00   5000.00
+"Inverter Kaco Blueplanet 20.0; TL3, 3f, 2MPPT, IP65"                             29347.31   19 557598.88 139399.72
+
+                                                                                                         ----------
+UKUPNO                                                                                                     577598.9
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

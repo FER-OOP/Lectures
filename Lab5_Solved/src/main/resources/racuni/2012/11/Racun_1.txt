@@ -1,0 +1,22 @@
+Račun br. 998292
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+FI-blok 125A, 4-polni, 1A, Tip A (Puls)                                               4290   12  51480.00  12870.00
+Kabelski nož, 8-28mm                                                                135.47   15   2032.05    508.01
+Fazne pregrade na priključnim stezaljkama, za 3P MC1 (2 kom)                         65.67   12    788.04    197.01
+Poliester kućište 360x180x171mm, prozirni poklopac,IP66,sivo                        439.62   25  10990.50   2747.63
+Tess-R 60W E27, 100-240V, IP20, sive boje                                            17.74    3     53.22     13.31
+Mikroprizmatični uložak za CL profile, transparent                                   61.28    3    183.84     45.96
+KC panik lampa 8W 230V elektronski balast EVG, stropna mont                         398.48    2    796.96    199.24
+Bezhal. kabel HSLH-JZ3x2,5FRNC H-F 1žila ž/z ostale crn/siv                          10000   29 290000.00  72500.00
+Prednja ploča za pneumatsko tipkalo EL735150, bijela                                  2104   10  21040.00   5260.00
+Signalni fleksibilni kabel YSLY-JZ 7x0,75 sivi                                      686.13   16  10978.08   2744.52
+
+                                                                                                         ----------
+UKUPNO                                                                                                    388342.72
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

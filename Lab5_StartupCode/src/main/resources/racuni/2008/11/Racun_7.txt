@@ -1,0 +1,27 @@
+Račun br. 842035
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+KALU LED 4 Wide Line zidna i stropna svj., 4x10W,3000K,bb/cb                        3310.6   26  86075.60  21518.90
+AIXLIGHT R DUO, HQI111,okr.,bi.b.,G12,2x70W,bez odsijača                           2809.97    2   5619.94   1404.98
+NV rastavna sklopka vel.000|125A, 3P, box stez.,60mm Compact                        327.46   30   9823.80   2455.95
+Redna stezaljka (vijčani priključak) 6mm², tip CBC, siva                              4.53   25    113.25     28.31
+Nadgradna svjetiljka PRIMO M PRISMA 1x49W ECG, bijela                               311.66    2    623.32    155.83
+Mini-Lynx, 11W, 2700K, E27                                                           62.51   23   1437.73    359.43
+Zaštitni prekidač MB 25kA CL 100/3                                                  476.17   14   6666.38   1666.60
+"Samostojeći komunikacijski ormar DS 600x900x600,19"", 18U"                        2634.78   13  34252.14   8563.04
+L-SE montažna šina MR 2x28-54 5x1,5mm²                                              193.29    3    579.87    144.97
+FLEXLED ROLL SLIM 24V , 3m, 3000K                                                   374.92   25   9373.00   2343.25
+Gwen-R 150W RX7s, 230V, IP20, brušeni krom                                           19.59    1     19.59      4.90
+Rolo-WL 2 E27 2x75W, aluminij, antracit                                             245.32    3    735.96    183.99
+Kabel LiYCY 2x0,5                                                                   434.14   23   9985.22   2496.31
+Kabel H05VVC4V5-K 12x1 sivi                                                          10000   26 260000.00  65000.00
+Kabel EYY-J (PP00-Y) 3x16RE                                                          10000   17 170000.00  42500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     595305.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

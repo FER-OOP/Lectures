@@ -1,0 +1,22 @@
+Račun br. 1007901
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kompaktni prekidač snage tip M, 3P/80A/100kA, MC1                                     4963    4  19852.00   4963.00
+LED aluminij Downlight, veća, LED tople bb, 3W                                      249.72   26   6492.72   1623.18
+Natpisna pločica za YRT/YRS78704 podnožje                                             0.65   21     13.65      3.41
+Uzidni okvir s vratima za Modul 2000 | 3U-24 | dubina 100mm                           4190   25 104750.00  26187.50
+Sitra 360 WL zidna svjetiljka, kameno sive b., GX53, max. 9W                        500.12   12   6001.44   1500.36
+Aluminijski pokrov LBK i LBKI                                                         51.6    3    154.80     38.70
+Kronos-Q/A2 LED 20W 3000K, IP20, sive boje                                          384.55   19   7306.45   1826.61
+SFP modul 1000SX LC multimodni VCSEL, 850nm 550m                                     286.7   11   3153.70    788.43
+Panik svjetiljka KW FLUO 8W, CPS sustav, stropna                                    271.93    7   1903.51    475.88
+LED Classic Economy žarulja 9,5W E27 2800K 15.000h                                    8581   19 163039.00  40759.75
+
+                                                                                                         ----------
+UKUPNO                                                                                                    312667.28
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

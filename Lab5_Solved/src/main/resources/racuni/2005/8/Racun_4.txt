@@ -1,0 +1,31 @@
+Račun br. 847430
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Tipka za dimer, antracit                                                             12.97   10    129.70     32.42
+M-T-Shirt  cotton-jersey                                                            104.86   30   3145.80    786.45
+Lamelirana bakrena sabirnica, 894A, duljina 2m, 10x32x1mm                          1857.01    3   5571.03   1392.76
+Adapter, modul. uložak AS/KS                                                        764.03   12   9168.36   2292.09
+Kabel H05VV-F (PP/J) 4x2,5mm2, svijetlo-sivi, 500m                                   10000    4  40000.00  10000.00
+Utičnica šuko sa zatikom , dvostruka, vertikalna, utične s.                          59.24   22   1303.28    325.82
+Adapter 4 za visine 68mm za nove redne uređaje                                       78.53   26   2041.78    510.45
+Plafonjera MALLE LED 19W 1750lm/830 ECG, bijela                                     669.79   15  10046.85   2511.71
+9G01/R/E, LED BALL žarulja 0,5w E27 230v, crvene boje                                16.05   19    304.95     76.24
+Direktni starter sa sklopkom 7.5kW/400V AC [AC3]                                    578.37   27  15615.99   3904.00
+PV motorkontr. 400-480VAC/35A AC-53a bez BP/50A AC-53b sa BP                       3166.55   13  41165.15  10291.29
+Panik svjetiljka Linda 36W, MIX-mod, industr.                                       843.01   24  20232.24   5058.06
+Majica Store kratkih rukava -large-                                                 301.79   11   3319.69    829.92
+Svjetleće tipkalo s povratom, plosnato, bijelo                                       38.45   27   1038.15    259.54
+Industrijska svjetiljka CUB usk.sn. 4xTC-L 55W/840 IP64                            3008.56    3   9025.68   2256.42
+WALLYX GU10 zidna svj., tamni antracit                                              500.12    6   3000.72    750.18
+Montažna ploča 3PB, 670x70x13mm RAL 7035                                             77.69   30   2330.70    582.68
+N/Ž okvir + vrata 4A-28 D=250mm str.ploča+zakr. ručica, IP54                       4235.32   30 127059.59  31764.90
+BRICK LED Downunder zidna svj., srebrne boje, topla b. LED                          267.29   27   7216.83   1804.21
+
+                                                                                                         ----------
+UKUPNO                                                                                                    301716.53
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,21 @@
+Račun br. 143965
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Nosač natpisne pločice za IN022033                                                     2.6    4     10.40      2.60
+Termoskupljajući bužir u kutiji (10m), crni, 2.4/1.2mm                                6.85   23    157.55     39.39
+Ina-A 3 LED 12W, 3000K, 1100lm, 700mA, 38°, SKIII,bijele b.                         144.46   18   2600.28    650.07
+Pokrov za gljivaste tipke, crveni                                                     8.52    6     51.12     12.78
+PERLA stropna svj. 1x1W LED 4000K 10° fres.leća, alu                                385.35   22   8477.70   2119.43
+Utikač za TYTAN II 3x35A sa D02 osiguračima, komplet                                167.16    7   1170.12    292.53
+9G03L/D/E, 48 LED SMD DL 3,5W E27                                                    15.71   29    455.59    113.90
+Bezhalogeni kabel s el. funkc. do90 Min. (N)HXH-J5x2,5reE90                        2889.26    2   5778.52   1444.63
+LS-FI (KZS), B/13A/30mA, 1P+N, Tip A, 6kA, serija AMPARO                            183.12   17   3113.04    778.26
+
+                                                                                                         ----------
+UKUPNO                                                                                                     21814.32
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

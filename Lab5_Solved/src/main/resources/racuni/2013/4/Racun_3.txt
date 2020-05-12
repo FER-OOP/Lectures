@@ -1,0 +1,22 @@
+Račun br. 628961
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Levante-M 30 LED 71W 6910lm 4000K asim.,IP66,SKII,antracit                         4644.86   16  74317.76  18579.44
+KALU TRACK QPAR111 svjetiljka, crna, uklj. 3-f adapter                              500.12   18   9002.16   2250.54
+LED POWER SUPPLY 150W, 24V, IP44, sa zaštitom od dodira                             938.06   26  24389.56   6097.39
+6 box stezaljki 4-95mm², za 3-polne MZ1                                              60.78    7    425.46    106.36
+Ugradna svjetiljka SERH XTP T8 4x18W ECG M600, bijela                              1279.87   20  25597.40   6399.35
+Prednja ploča za razdjelnike sa kabelskim kanalom, 2G3                                4160   16  66560.00  16640.00
+Kompaktni prekidač snage tip ME, 3P, 50kA, 220A                                    4422.25   24 106134.00  26533.50
+TANI zidna svjetiljka, R7s 118mm, max 120W, krom                                    437.43   29  12685.47   3171.37
+Stražnja ploča za nazidni Modul 2000 | 2R-45                                         260.5   29   7554.50   1888.63
+Navi TomTom Start CE Traffic                                                        1886.2   20  37724.00   9431.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     364390.3
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

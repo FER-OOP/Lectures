@@ -1,0 +1,19 @@
+Račun br. 145065
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Grebenasta sklopka, grupna (2 grupe), 0-1/1P/10A, na vrata                          124.61   22   2741.42    685.35
+S4H koaks. prespojni kabel, 2xF-konektor, 3.5 m, bijeli                              19.59   25    489.75    122.44
+PEYOTE 17cm 2x90° 8x1W LED, 40° 3000K RAL9006                                      2580.53    7  18063.71   4515.93
+UPS za ekey, 230V AC / 12V DC / 4Ah, montaža na DIN nosač                          3472.78   17  59037.26  14759.32
+Podnožje, bočne stranice, par, za kom. ormare dubine 800mm                          266.25    5   1331.25    332.81
+Utičnica s poklopcem, 16A, kompletna, IP44, bijela                                  112.44   21   2361.24    590.31
+Grebenasta sklopka, 1-0-2/1P/20A, na DIN nosač                                      137.62   28   3853.36    963.34
+
+                                                                                                         ----------
+UKUPNO                                                                                                     87877.99
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

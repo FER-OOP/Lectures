@@ -1,0 +1,23 @@
+Račun br. 257442
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kabel E-AY2Y-J 4x240SM                                                               10000    4  40000.00  10000.00
+PD-C360i/8 mini senzor prisutnosti IR, stropni, 360°, Ø8m                          1183.08   23  27210.84   6802.71
+LED traka 115 NWRa=90+, 26,5W/m, 2149lm/m, 24VDC,IP44, l=5m                        1828.91   15  27433.65   6858.41
+Prva pomoć za automobil                                                              305.5   14   4277.00   1069.25
+Jedinica za sobu dežurnog djelatnika, DZE Sigma                                     903.14   30  27094.20   6773.55
+Kućište za stezaljke ABS 80/160/65                                                    4130    7  28910.00   7227.50
+7524D/W/30, LED CREE 12x2w 30d WW 500mA dimabilna                                   123.67    7    865.69    216.42
+Nadgradna svjetiljka SAO IP54 T5 4x28W ECG, bijela                                 1503.57   29  43603.53  10900.88
+Kabel H05VVC4V5-K 12x1,5 sivi                                                        10000   22 220000.00  55000.00
+BILAS SPOT, single, 25°, 15W, 2700K, okrugla, crne boje                            1558.31   13  20258.03   5064.51
+Pomoćni kontakt, 2 C/O kontakta, vijčana montaža                                     58.05   20   1161.00    290.25
+
+                                                                                                         ----------
+UKUPNO                                                                                                    440813.94
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,31 @@
+Račun br. 353739
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LED prespojni kabel RJ45 oklopljen,500 MHz,Ea,10GB,plavi,3m                          62.88   13    817.44    204.36
+Podnožje Vartec TII, 1-polno, za VVM modul, pomoćni kontakt                         129.19    3    387.57     96.89
+Mostić ZA IS2*** B/C 3-polni                                                         51.72   11    568.92    142.23
+Majica Store kratkih rukava -X-large-                                               301.79    8   2414.32    603.58
+Poluvodički sklopnik 1-polni | 30A/24-480VAC, 24-230VAC/DC                          688.66    6   4131.96   1032.99
+Tipka za elektronski dimer, bijela                                                   180.7    1    180.70     45.17
+Tipkalo (1 N/O), kompletno, 10A, na oprugu, bijelo                                   21.41   17    363.97     90.99
+Bezhalogeni telekomunikacijski kabel J-H(ST)H 60x2x0,8 sivi                          10000   26 260000.00  65000.00
+Kućište N/Ž, IP40, bez vrata, 1-redno, 2 modula                                      16.48   23    379.04     94.76
+Prednja ploča, plastična, slijepa, 3B6K                                               4160   28 116480.00  29120.00
+Stražnja ploča za nazidni Modul 2000 | 1R-07                                         42.08   17    715.36    178.84
+Zaštitni prekidač MB 15kA BT 100/3                                                  458.97    6   2753.82    688.46
+Levante-S 16 LED 38W 3105lm 3000K asim.,IP66,SKII,RAL9003                          2629.01   28  73612.28  18403.07
+"Opt. razdjelnik,16 niti, SC 50/125µm OM4, izvlačivi,19"",1U"                      1326.16    4   5304.64   1326.16
+Završni poklopac LBU okrugli sa rupom                                                87.09   24   2090.16    522.54
+Kompaktni prekidač snage tip A, 3P/50A/25kA, MC1                                    694.81   24  16675.44   4168.86
+Zaštita za sab.sistem,izl. 39 ili 34 mm za ARROW BLUE vel.00                          4821   15  72315.00  18078.75
+Daljinski isklopnik za MC4, 24V AC/DC, sa ranijim pom. kont.                        903.09    2   1806.18    451.55
+Zaštitni prekidač AMPARO 6kA, C 63A, 1-polni                                         42.71   20    854.20    213.55
+
+                                                                                                         ----------
+UKUPNO                                                                                                     561851.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

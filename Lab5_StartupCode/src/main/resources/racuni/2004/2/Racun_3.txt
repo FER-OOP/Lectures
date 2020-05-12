@@ -1,0 +1,16 @@
+Račun br. 670719
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ugradna svjetiljka SE-ID ECO PAR L1 TC-L 2x40W ECG M625,bij.                        644.12    1    644.12    161.03
+DC zaštitni prekidač, C 20A, 1-polni, 10kA                                           67.64   30   2029.20    507.30
+LUZO INTEGRATED LEDugr.prsten,okrugli,metalbruš.4000K 36°                           635.43   24  15250.32   3812.58
+Zaštitni prekidač AMPARO 6kA, C 16A, 2-polni                                         55.46   28   1552.88    388.22
+
+                                                                                                         ----------
+UKUPNO                                                                                                    19476.521
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

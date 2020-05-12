@@ -1,0 +1,20 @@
+Račun br. 658934
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Optički završetak SC 9/125µm OS2, 2.0m (4 kom.)                                      79.44   14   1112.16    278.04
+Geluce LED PR1 opal svj. 1x51W, DALI 3900lm/840, M625, 9003                        2128.46    9  19156.14   4789.04
+Odvodnik prenapona, Powertec 25kA kl. B/C + pomoćni kontakt                        1776.05    9  15984.45   3996.11
+KALU II ES111, Double                                                              1000.75   22  22016.50   5504.13
+OCCULDAS surfaced stropna svjetiljka, 22W 3000K, okrugla, bb                       1746.03   28  48888.84  12222.21
+Ručka za montažu na vrata, za 3P MC2, crveno/žuta, komplet                          451.54    2    903.08    225.77
+Tipka sa bijelim prozorčićem i simbolom zvona, antracit                              16.41   18    295.38     73.85
+Brava sa 2 ključa za BK071../072../073..i CRTMRB razdjelnike                         75.51    1     75.51     18.88
+
+                                                                                                         ----------
+UKUPNO                                                                                                    108432.06
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

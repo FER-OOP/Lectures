@@ -1,0 +1,25 @@
+Račun br. 130888
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Slijepi pokrov MO 2M, bijeli                                                          7.19   13     93.47     23.37
+Konektiranje 2x12 SC MM utikača + zašt. za povlačenje                              3415.44   22  75139.68  18784.92
+"19"" čelični slijepi pokrov, 4U, RAL 7035"                                          37.72    3    113.16     28.29
+Fluokompaktna žarulja TC-D 18W/827 G24D-2                                            27.45   17    466.65    116.66
+LUNA 35W HIT G12 uklj. izvor 12° inox okvir                                        2486.36   28  69618.09  17404.52
+Sticker Bones, crne boje                                                             80.76   11    888.36    222.09
+Optička spojnica LC DX,SM,keramička,bez prirubnice,plava,ECO                         21.42   28    599.76    149.94
+Telefonski magazin za prenaponsku zaštitu, H izvedba, prazan                        129.49   25   3237.25    809.31
+SAT koaks. presp. kabel, 2xF-quick kon.,kl.A, bijeli, 1.5m                            17.9   11    196.90     49.22
+Kućište za 1 tipkalo, crno-sivo, IP67                                                52.24   11    574.64    143.66
+LED MEGAMAN GU10 PAR16 6W, 2800K, 360lm, DG, 35°, DIM                                85.63   10    856.30    214.07
+USB utičnica, dvostruka, 1400mA                                                     508.61   17   8646.37   2161.59
+SAT multiswitch 17 IN 8 OUT za quattro/quad LNB,nap. do 10m                        3171.56   16  50744.96  12686.24
+
+                                                                                                         ----------
+UKUPNO                                                                                                     211175.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

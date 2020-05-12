@@ -1,0 +1,15 @@
+Račun br. 276504
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kabel H05VVC4V5-K 2x 0,75 sivi                                                       10000   21 210000.00  52500.00
+Elektronički odvojni relej, 1-struki, 230V, 750VA, umetak                           458.64    3   1375.92    343.98
+Potporni izolator visine 35mm, s vijkom i maticom M8, 0.75kV                         37.41    1     37.41      9.35
+
+                                                                                                         ----------
+UKUPNO                                                                                                    211413.33
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

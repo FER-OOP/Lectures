@@ -1,0 +1,26 @@
+Račun br. 152315
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Traka za označavanje, visine 15mm/duljine 1m, samoljepljiva                          59.92    7    419.44    104.86
+Romero-S LED 1W 3000K 65lm, IP54, aluminij                                          212.21   12   2546.52    636.63
+Signalni fleksibilni kabel YSLY-OZ 12x0,75 sivi                                      10000   13 130000.00  32500.00
+MEDO 60 stropna svjetiljka, četvrt.,srebrne boje,4xT5 24W                          2184.14    6  13104.84   3276.21
+Okvir MO 1/3M line, bijeli                                                            9.37   26    243.62     60.90
+I-VIDUAL LED PANEL za modul 600x600, 4000K, bijele boje                             813.03   13  10569.39   2642.35
+Grebenasta sklopka, 0-1-2-3/1P/10A, na vrata                                        225.88    3    677.64    169.41
+SAT kaskadna jed. EN 50494,9 IN 6 OUT pasivna za HSATSU906KA                       2210.04    5  11050.20   2762.55
+NEW TRIA I MR16 Downlight, četvrtasta, mat bb                                       174.53    5    872.65    218.16
+Vodotijesna svjetiljka LINDA Ind. sa bater. 1h PC 1-58W IP65                        942.33   30  28269.90   7067.48
+KADUX LED Double DL Set, 3000K, 30°, brušeni aluminij                              2309.34   26  60042.84  15010.71
+Prednja ploča, čelična, slijepa, 1B7                                                  4160   30 124800.00  31200.00
+Otvoreni prekidač, 3P, 55kA, 1250A, izvl., vod. str. priklj.                      20309.19    2  40618.38  10154.59
+Motorna zaštitna sklopka, 3-polna | 0.11 - 0.16A, vel.S00                           165.86   19   3151.34    787.84
+
+                                                                                                         ----------
+UKUPNO                                                                                                    426366.78
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,30 @@
+Račun br. 612948
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Marra LED traka 6,6W/m 4000K 324lm/m, IP54                                            8.95   25    223.75     55.94
+H03VVH2-F 2x0,75mm2, bijeli, YML-fl 50m kolut                                        10000    3  30000.00   7500.00
+Kada za brojilo, 1 ploča za brojilo u jednom redu, 3-reda                           620.28   11   6823.08   1705.77
+Napajanje, 100W, 230VAC/24VDC, 4A, SELV, 199x98x38mm                               2099.81   25  52495.25  13123.81
+Obujmica za oluk, nehrđajući čelik V2A, Ø100mm                                       18.77   26    488.02    122.01
+Cilindrični osigurač za fotonapon, 10x38, 12A, gPV, 1000V DC                         60.24   15    903.60    225.90
+Strujni trafo, prolazni, okrugli, promjer otvora: 210mm                            2924.61   15  43869.15  10967.29
+Ugradna downl. svj. ERM 253 1x31W,LED ,2200lm/840, bijela                             8536   10  85360.00  21340.00
+Baterija RPOWER OGiV 12/150Ah, longlife: 10-12 god.                                2622.95   21  55081.95  13770.49
+Spojnica cat.5e UTP RJ45 ženski - RJ45 ženski                                        24.19   14    338.66     84.67
+FID sklopka 25-2-003/AC, 10kA                                                       218.55    5   1092.75    273.19
+Pokrov lučne komore za MO3, 3-polni (kao rezervni dio)                                4970   25 124250.00  31062.50
+LS-FI (KZS), B/13A/100mA, 3P, Tip A, 10kA                                             4281    8  34248.00   8562.00
+Mura-II-45-R LED 1W 6000K, IP54, aluminij                                           139.22    2    278.44     69.61
+Alexa-I-60-R 15W E27, 100-240V, IP54, aluminij                                      941.44   25  23536.00   5884.00
+NV rastavna sklopka vel.000|125A, 3P, stez. 50mm², 60mm                             377.11   13   4902.43   1225.61
+D02 rastavna sklopka TYTAN II, 3-polna, fiksni uložak 35A                           306.28   21   6431.88   1607.97
+Pult metalni 985x1000x400 (VxŠxD)                                                  4758.64   29 138000.56  34500.14
+
+                                                                                                         ----------
+UKUPNO                                                                                                     608323.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,15 @@
+Račun br. 552800
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Nazidna izmjenična sklopka, bijela, 10A, IP44, utične stez.                          46.69   19    887.11    221.78
+LED zidni profil, eloksirani aluminij, 2 metra                                       187.2   11   2059.20    514.80
+Priključna kutija, čelik, 200x400x80 (VxŠxD), IP66, RAL7035                         198.87   27   5369.49   1342.37
+
+                                                                                                         ----------
+UKUPNO                                                                                                       8315.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

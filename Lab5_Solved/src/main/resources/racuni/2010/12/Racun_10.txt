@@ -1,0 +1,30 @@
+Račun br. 253796
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+BK razdjelnik,1xF-ž-2xF-ž,multimedija,5-1006MHz,BVE 20-01                            18.61   23    428.03    107.01
+PD-C360i/8 mini DIM senzor prisutnosti IR,stropni, 360°, Ø8m                       1492.76   28  41797.28  10449.32
+Keanu-II-R 25W G9, 100-240V, IP54, aluminij                                         376.27   12   4515.24   1128.81
+Zaštitni prekidač AMPARO 6kA, B 6A, 3P+N                                             98.25   20   1965.00    491.25
+Relej snage, 1C/O, 12A, 24VDC serije RT, raster 3.5mm                                17.56   16    280.96     70.24
+Vodič (N)YM(ST)-J 5x2,5 / 1,5, svijetlo-sivi                                         10000   29 290000.00  72500.00
+Dijagonalno križna spojnica, traka 30mm-traka 30mm, 2-djelna                         19.23   27    519.21    129.80
+Ugradna svjetiljka SERS 2 ECO T8 2x36W ECG M625, bijela                             373.87   29  10842.23   2710.56
+Okomita vodilica kabela za DS/DSZ/DSI ormare 37U                                    232.99   30   6989.70   1747.43
+ASTO TUBE I stropna svj.bijela 1GU10,max.75W                                        312.23   29   9054.67   2263.67
+Narezni prsten 22mm, može se montirati na bušilicu                                   25.53   28    714.84    178.71
+"Opt. razdjelnik, 4 niti,LC,50/125µm OM4, izvlačivi,19"",1U"                        516.05   11   5676.55   1419.14
+Aline-R LED 7W 3000K 500lm, IP54, bijele boje                                       172.33    5    861.65    215.41
+Podnaponski isklopnik 380-415V AC (kao rezervni dio)                               1510.38   14  21145.32   5286.33
+Završni poklopac CLI okrugli sa rupom i vijcima                                      87.09   24   2090.16    522.54
+Signalni fleksibilni kabel YSLY-JZ 14x1,5 sivi                                     2823.48   28  79057.44  19764.36
+Montažna ploča za IP54, 2A-28                                                         4160    6  24960.00   6240.00
+LED crvena svjetiljka, BA15D 18-30V AC/DC                                            279.6    5   1398.00    349.50
+
+                                                                                                         ----------
+UKUPNO                                                                                                    502296.25
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

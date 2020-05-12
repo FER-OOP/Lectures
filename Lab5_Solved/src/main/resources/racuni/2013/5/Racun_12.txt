@@ -1,0 +1,19 @@
+Račun br. 1029059
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+MERVALED S zidna svj.,antracit,12WLED,sa senzorom pokreta                          1250.97    6   7505.82   1876.45
+Komunik. Kartica Profibus (DP-V1, Profidrive V2 PP05), box                         5929.29   25 148232.25  37058.06
+Montažna ploča za MINIPOL ormare, metalna, 400x400mm                                129.76    6    778.56    194.64
+D02 prilagodni uložak (prsten) Neozed 25A                                              2.6    9     23.40      5.85
+Janine-III-R 50W GU5,3 MR16, 12V, IP20, aluminij                                     65.89   17   1120.13    280.03
+Maskirni razdj. 3M-39, 13-redni, 429ŠM,1855x760x200mm(VxŠxD)                       3746.81   16  59948.96  14987.24
+Nazidni okvir s vratima za Modul 2000 | 2A-42 | dubina 300mm                       2842.59    3   8527.77   2131.94
+
+                                                                                                         ----------
+UKUPNO                                                                                                    226136.89
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

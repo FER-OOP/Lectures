@@ -1,0 +1,14 @@
+Račun br. 1023830
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Mehanička blokada za motorni pogon, za MC3 i MC4                                   2284.83   19  43411.77  10852.94
+Montažna ploča za AS/KS ormare, 2200x600mm (VxŠ)                                    888.26   24  21318.24   5329.56
+
+                                                                                                         ----------
+UKUPNO                                                                                                    64730.016
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

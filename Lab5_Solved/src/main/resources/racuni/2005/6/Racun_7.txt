@@ -1,0 +1,19 @@
+Račun br. 735864
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+9G09MD/D/E, LED dimabilna DL 8.5W E27 230v                                          117.25   20   2345.00    586.25
+"Zidni komunikacijski ormar DW Monobloc, 600x500x395, 19"", 9U"                     887.42    9   7986.78   1996.69
+Motorna zaštitna sklopka, 3-polna | 55 - 63A                                        862.89   15  12943.35   3235.84
+Poliester kućište 190x190x100mm sivo - A                                            225.87   18   4065.66   1016.42
+Okvir viši s vratima i umetkom za KVM, 4-redni, 48+8 modula                         429.56    3   1288.68    322.17
+Mura-CL-I-Q 9W GX53, 100-240V, IP54, aluminij                                       298.38    1    298.38     74.60
+Quadro 120 LED ovjesna svjetiljka D/I,50W,4000K,4300lm,alu                         2680.75   15  40211.25  10052.81
+
+                                                                                                         ----------
+UKUPNO                                                                                                      69139.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

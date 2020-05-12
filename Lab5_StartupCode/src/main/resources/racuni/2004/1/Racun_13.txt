@@ -1,0 +1,25 @@
+Račun br. 921941
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Prekidač opterećenja, 4 x 230V AC, 16A, C opterećenje                              2169.13    8  17353.04   4338.26
+Plafonjera AURA 3 Sensor LED 16,8W 4000K 1600 Lumen                                1094.01   30  32820.30   8205.08
+Sutil Round LED Panel, 16W, 4000K, 1230lm, IP40, siva                               307.84    3    923.52    230.88
+Sklopnik vel.00 (za PLC) | AC3 5,5kW/400V | 17-30VDC | 1 N/O                        173.73   22   3822.06    955.51
+Redna stezaljka 4mm2, tip CBD4, narančasta                                             4.3   16     68.80     17.20
+I-BED WALL SHORT, 3,8W, 3000K, CRI=80, bijele boje                                  938.06   24  22513.44   5628.36
+F/FTP inst. kabel cat.6, 2x(4x2xAWG23/1),  450MHz,LS0H,plavi                        738.42    8   5907.36   1476.84
+"Samostojeći komunikacijski ormar DS 600x1970x1200, 19"", 42U"                     4210.19    9  37891.71   9472.93
+Murona-R 20W G4, 12V, IP20, žute boje                                                 3.71   24     89.04     22.26
+Modul signalne svjetiljke, treptajuće žuto svjetlo, 24VAC/DC                        294.07   11   3234.77    808.69
+Vodotijesna svjetiljka LINDA Transparente 2-35/49/80W IP65                          608.13   21  12770.73   3192.68
+SFL PAR56 TS 70 LONG HV Rx7s SPOT, alum., 70W, uklj. adapter                       1433.11   20  28662.20   7165.55
+FID sklopka 40-2-03/A (puls), 6kA                                                   348.96   16   5583.36   1395.84
+
+                                                                                                         ----------
+UKUPNO                                                                                                    171640.33
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

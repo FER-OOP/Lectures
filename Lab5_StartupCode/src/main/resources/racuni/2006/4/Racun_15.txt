@@ -1,0 +1,30 @@
+Račun br. 254900
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Bezhalogeni kabel s el. funkc. do30 Min. (N)HXH-O1x50rmE30                           10000   29 290000.00  72500.00
+Vrata sa zakretnim zasunom 3T-42 RAL7035                                              4170   21  87570.00  21892.50
+Mrežni ispravljač, 1f, taktni, 230V AC/24V DC, 2.5A pri 50°C                         407.3   11   4480.30   1120.07
+Dimer 40-1000W, umetak, R/L, memory funkcija                                       1730.03   25  43250.75  10812.69
+Umetak 1-polne sklopke, na oprugu                                                    11.25   17    191.25     47.81
+Kliješta za krimpanje 0,75-16                                                         2303   19  43757.00  10939.25
+Punto-R 35W GU4 MR11, 12V, IP20, antik mesing                                        13.17   30    395.10     98.78
+Podnožje prema dubini ormara, 500mm, prolazno, RAL 7022                              196.3   21   4122.30   1030.58
+E-AYY-O 1x150RM                                                                      10000   30 300000.00  75000.00
+PENTULI LED ovjesna svjetiljka 38, bijele boje                                     2058.94   27  55591.38  13897.85
+Izolirana natična stopica, 6.3, plava, 1.5-2.5mm2 (100 kom.)                         64.97    7    454.79    113.70
+Poluvodički sklopnik promjene smjera, 3P, 10A/24-480V AC/DC                        1713.28   12  20559.36   5139.84
+Ormar za baterije prazan 800x1950x600 (ŠxVxD) 6 polica,cokl                       15590.67   30 467720.09 116930.03
+Držač za instalacijsku cijev M20, svijetlo-sivi (100 kom.)                           85.07   18   1531.26    382.82
+UPS Genio Flex Plus Dual 3000VA 2700W 5 Min.1/1f/Line-Int.                         6851.81   29 198702.48  49675.62
+UPS MultiPlus 12kVA 10,8kW, 0min,3f/3f/Online/veliko kuć.                         43526.97   271175228.13 293807.03
+Ugradna svjetiljka SERH 2 A8 L1 T5 2x14W, ECG, bijela                               453.77    1    453.77    113.44
+Sklopnik 3P |7.5kW (18A) [AC3] / 32A [AC1] | 230V AC | 1N/O                         218.23   28   6110.44   1527.61
+
+                                                                                                         ----------
+UKUPNO                                                                                                    2700118.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,28 @@
+Račun br. 972894
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"Opt. razdjelnik,12 niti, ST, 62,5/125µm OM1, izvl.,19"",1U"                       1093.32    9   9839.88   2459.97
+Nadgradna downlight svjetiljka ARM 292 2x18W CCG TC-D,bijela                        250.85   23   5769.55   1442.39
+Bezhal. kabel poboljšanih svoj.za sl. požara N2XH-J 4x25rm                           10000   25 250000.00  62500.00
+Kabel H05VV5-F 7x1,5 sivi                                                            10000   10 100000.00  25000.00
+Bezhalogeni kabel s el. funkc. do90 Min. (N)HXH-O1x35rmE90                         4752.35    8  38018.80   9504.70
+LED signalna svjetiljka, crveno/zeleno, 12-24V AC/DC                                 67.96   25   1699.00    424.75
+Kompaktni prekidač snage tip A, 3P/160A/100kA, MC1                                 1860.06   14  26040.84   6510.21
+Plasto LED 24W, 3000K, 1440lm, 230V, IP65, plastika,antracit                        431.01    7   3017.07    754.27
+3f reflektor VITO DC LED 38W 3400lm/840 20°,sive boje                              1470.55    5   7352.75   1838.19
+Halogena žarulja HALOLUX 64542 A ES 28W E27                                          17.84   10    178.40     44.60
+Spojnica motorke BES2 vel.2 i sklopnika vel.2 / za DC                                47.46    9    427.14    106.78
+Pozivni modul, 6 tipki, 4+n, IKALL                                                  503.82    2   1007.64    251.91
+Kondenzatorska baterija 2,5 kVAr(400V)                                              490.35    5   2451.75    612.94
+"19"" čelični slijepi pokrov, 1U, RAL 7035"                                          19.74    1     19.74      4.93
+Sklopnik vel. 2 | 18,5kW (40A) [AC-3] | 230VAC, 50/60 Hz                            375.46   17   6382.82   1595.70
+LED+zaštitni modul, crveni, 6-24V DC, A1+, S-Releji Serije 4                          3120   22  68640.00  17160.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    520845.38
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

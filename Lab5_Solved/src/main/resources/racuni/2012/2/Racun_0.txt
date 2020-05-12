@@ -1,0 +1,14 @@
+Račun br. 1036977
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Prednja ploča, plastična, slijepa, 5B1K                                               4160    9  37440.00   9360.00
+D02 rastavna sklopka za sustav 60mm, 3P isklop                                      513.43   14   7188.02   1797.01
+
+                                                                                                         ----------
+UKUPNO                                                                                                     44628.02
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

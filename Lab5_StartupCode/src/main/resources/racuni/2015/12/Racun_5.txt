@@ -1,0 +1,14 @@
+Račun br. 599208
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Razdjelnik za šuplji zid, KVH, 2R,24+4 modula,bijeli,komplet                        434.17   11   4775.87   1193.97
+SEVEN-CIRCLE 150W HIT E40 IP65 cestovna optika, crna                               3503.61   22  77079.42  19269.86
+
+                                                                                                         ----------
+UKUPNO                                                                                                     81855.29
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,31 @@
+Račun br. 251518
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Završetak za cijev (brtva), Ø25/19.5mm, nepropusni                                  340.29   23   7826.67   1956.67
+Ručica za VC1 i VC2, montaža na vrata, crveno/žuta                                   93.99   23   2161.77    540.44
+LED Driver 350mA, 1-6W, ne dimabilno                                                 77.89    7    545.23    136.31
+Aktuator za rolete,  4 x DC 6……24 V, 1A                                            2466.81   26  64137.06  16034.27
+RUSTY 70 vanjska svjetiljka,zahrđani čelik                                         1871.23   29  54265.67  13566.42
+Natrijeva žarulja HSE-E 68W E27(zam. za HME80)                                       93.85    5    469.25    117.31
+Prednja ploča, čelična, slijepa, 1B5                                                  4160   11  45760.00  11440.00
+Linijska svj. SERM-LT 112, srednji profil,  1x35W, ECG, bb                          560.81    7   3925.67    981.42
+Duke-S/A1 LED 12x1W 3000K 700lm, IP65, sive boje                                    431.01   18   7758.18   1939.55
+Aaron-Q 32/42W G24q-4, 230V, IP20, sive boje                                         37.67   19    715.73    178.93
+D02 rastavna sklopka TYTAN II, 3-polna, fiksni uložak 25A                           306.28   10   3062.80    765.70
+Grijač za ormar 150W, 9-36V AC/DC                                                   732.97   15  10994.55   2748.64
+Postolje za nazidne razdjelnike M2000 IP30, prednji dio, 1PB                         50.26    4    201.04     50.26
+Maskirni razdj. 3M-42, 14-redni, 462ŠM,1995x760x200mm(VxŠxD)                       4182.63   10  41826.30  10456.57
+DIVIS GU6,5 Downlight, duboki, bb                                                   283.12   14   3963.68    990.92
+Fluokompaktna žarulja TC-SEL 11W/840 2G7 PH                                           7.44   20    148.80     37.20
+Kronos-Q/A2 LED 25W 3000K 1750lm, IP20, bijele boje                                 696.28   17  11836.76   2959.19
+L-SE nosač i ovjesna sajla RS 2000mm, čelik                                          49.48   21   1039.08    259.77
+Brzovezujući cement za montažu (pak.15 kg)                                          145.15   13   1886.95    471.74
+
+                                                                                                         ----------
+UKUPNO                                                                                                    262525.22
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

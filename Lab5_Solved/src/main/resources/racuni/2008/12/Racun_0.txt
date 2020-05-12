@@ -1,0 +1,16 @@
+Račun br. 612891
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Noel-S/A2 2x50W GU10 MR16, 100-240V, IP20, bijele boje                              185.68   11   2042.48    510.62
+Kompenzacija  LSFC 7% 200/50kvar 600x2000x400mm Samost.orm.                       53109.76   301593292.88 398323.22
+OPEN GRILL ovjesna svjetiljka, 4 x T5 24W                                          2684.77   14  37586.78   9396.70
+Panik svjet. KMB  bežična , aku.bat LED 3h 230VAC , univ.SC                        1364.71   28  38211.88   9552.97
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1671134.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,33 @@
+Račun br. 858599
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+GU10 SP Downlight, krom mat                                                         205.96    3    617.88    154.47
+Panik svjetiljka 8W/3h, fluo cijev, IP65                                             222.4   27   6004.80   1501.20
+Bakreno uže 25 mm2                                                                 3026.03    6  18156.18   4539.04
+POWERLINE prijamnik, 10A, plavi                                                     1215.2    5   6076.00   1519.00
+"Natpisna pločica za umetanje fi=28mm, prozirna, ""O"""                               3.09   20     61.80     15.45
+Ugradna downl. svj. ERM 251 1x150W CCG RX7s, bijela                                 182.12    1    182.12     45.53
+AIXLIGHT PRO 111 LEDDISK mat bijele boje,4000K 50°                                  750.35   11   8253.85   2063.46
+DASAR FLAT 230V LED,okr.,4,3W LED,toplo bijele boje,nehrđ.č.                         700.5   26  18213.00   4553.25
+Montažni nosač DIN šine, ravni, visine 90mm                                           8.37   29    242.73     60.68
+ENOLA_B PD-1 ovjesna svjetiljka, GU10, max. 50W, mesing                             562.63   25  14065.75   3516.44
+Rufus-II-R LED 3x3W 3000K, IP54, aluminij                                           696.11   18  12529.98   3132.49
+Teški gumeni kabel H07RN-F 1x25, crni                                                10000   21 210000.00  52500.00
+Halogena žarulja HALOLUX 64541 B ES 18W E14, bistra                                  19.85    4     79.40     19.85
+Kabelska stopica 10mm2 M8                                                             2.44   19     46.36     11.59
+"Modul elek.kruga DCM za 19"" 2x4A maint./non-maint za Midicon"                    1777.31   22  39100.82   9775.21
+Sutil-R LED 40W 6000K 2800lm, IP40, bijele boje                                     762.34    1    762.34    190.59
+Ring za SLEEK G12 Spot, bijeli                                                       50.01    6    300.06     75.01
+Instal. umetak 1-24L komplet 8 IR prednja pl. plastika                             1361.57   12  16338.84   4084.71
+Kabelska obujmica za kabel promjera 6-12mm, za ASCAP/ASCAB                          266.49    8   2131.92    532.98
+GLENOS završni pokrov za profile 2609, obli, bijele boje                            124.52   29   3611.08    902.77
+"Mini Handsfree 4,3"" COLOR-monitor, bijeli, za SBC sustave"                       2413.09   18  43435.62  10858.91
+
+                                                                                                         ----------
+UKUPNO                                                                                                    400210.56
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

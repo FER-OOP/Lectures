@@ -1,0 +1,27 @@
+Račun br. 491634
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+UPS AVARA Multi 30kVA 27KW 8min, 3F/3F/Online veliko kučište                      72124.41    3 216373.22  54093.30
+Dewy IP65  za 1xT8 LED cijevi 1200mm PC/PC                                          112.69   26   2929.94    732.48
+LEVANTE-M 30 LED 60W 4380lm, 3000°K, siva                                           3855.2   15  57828.00  14457.00
+Aluminijska montažna ploča 1250x2500x3mm, bijele boje                              1306.36   14  18289.04   4572.26
+DC sklopnik | 7.5kW | 24V DC | 3N/O + 1N/O pomoćni kontakt                          380.35   18   6846.30   1711.58
+DVB-T antena unut., 150x150mm, IEC-ž. kon., napajanje, siva                         155.58    3    466.74    116.68
+Halogena žarulja QPAR 51 ECO 28W 35° GU10                                             8560   14 119840.00  29960.00
+Uređaj za binarni izlaz, 2x 230V AC, 10A, omski teret                               661.86   16  10589.76   2647.44
+HDMI 1.4 kabel, 2xHDMI19 tip A muški, Ferrit/Gold, crni, 15m                        288.24   11   3170.64    792.66
+LS-FI (KZS), B/6A/30mA, 1P+N, Tip AC, 6kA                                           237.01   14   3318.14    829.54
+Telefonska LSA priključna letvica 2/10, montaža na nosač                             39.65   29   1149.85    287.46
+ARROCK SAND 40 samost. svj.,pjesak, E27, max. 15W                                  2184.14   12  26209.68   6552.42
+KALU 3 zidna i strop.svj.mat bijela 3x50Wmax.QRB111                                1126.79   20  22535.80   5633.95
+Završni poklopac CLR četvrtasti sa rupom i vijcima                                    51.6   14    722.40    180.60
+Paralelna spojnica (kratkospojnik) za 25 stezaljki IK110010-                          4850    4  19400.00   4850.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     509669.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

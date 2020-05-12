@@ -1,0 +1,30 @@
+Račun br. 742654
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Odvodnik prenapona, Vartec 10kA, kl.C, 335V                                         364.25   12   4371.00   1092.75
+Aline-R LED 13W 3000K 925lm, IP54, bijele boje                                      219.81    3    659.43    164.86
+Samostojeći ormar, 2-vrata, 2000x1200x400 (VxŠxD) bez MP R5                        4631.65   18  83369.70  20842.42
+Podnožje prema širini ASR/KSR ormara, 1000x200mm, AISI304                             4056   10  40560.00  10140.00
+LIGHT EYE ovjesna svjetiljka za EASYTEC II, ES111, krom                             625.15   27  16879.05   4219.76
+Finožični PVC-om izolirani vodič H07V-K (P/F) 6mm2, sivi                             455.4   25  11385.00   2846.25
+7902R/AL, Aluminijski ugradni profil 2m + PC opalni pokrov                          146.65    9   1319.85    329.96
+N/Ž inst. razdj. 1A-18, 6-redni, 78 ŠM, 915x380x250mm(VxŠxD)                       2229.81   17  37906.77   9476.69
+Levante-M 30 LED 71W 6910lm 4000K asim.,IP66,SKII,antracit                         4644.86   11  51093.46  12773.36
+Signalni fleksibilni kabel YSLY-JZ 12x0,75 sivi                                    1241.72   14  17384.08   4346.02
+Prizma stezaljka, dvostruka, 2 x (70-120)mm², vel. 2                                112.53    3    337.59     84.40
+Finožični PVC-om izolirani vodič H07V-K (P/F) 10mm2, zeleni                          10000    4  40000.00  10000.00
+NV osigurač vel. 1, gG/gL, 160A/690V AC                                               4838   21 101598.00  25399.50
+Reflektor SET 400W HST E40 IP65 crni simetrični                                    1639.63   30  49188.90  12297.22
+Rastavna sklopka za cilindrične osig. 10x38mm, 3P/32A sa LED                        187.65   13   2439.45    609.86
+Solid Double LED 15W 3000K 1050lm, IP20                                             234.51   29   6800.79   1700.20
+Sklopnik 3P |11kW (22A) [AC3] / 32A [AC1] | 24V DC | 1N/C                           353.35   18   6360.30   1590.08
+Poliester zidni ormar MINIPOL, zatv. u 3 točke,400x300x200mm                        789.73   24  18953.52   4738.38
+
+                                                                                                         ----------
+UKUPNO                                                                                                    490606.88
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

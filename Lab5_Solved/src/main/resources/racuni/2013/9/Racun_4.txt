@@ -1,0 +1,25 @@
+Račun br. 121774
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+SAM08  query modul 8 nezavisnih ulaza za isk/uklj rasvjete                         2283.42    2   4566.84   1141.71
+Telekomunikacijski kabel F-vYAY 5x2x0,5, sivi                                        10000    7  70000.00  17500.00
+D02 rastavna sklopka CORON 2, 3-polna+N, 63A                                          4824    1   4824.00   1206.00
+"Samostojeći komunikacijski ormar DS 800x2105x1000, 19"", 45U"                     4652.48    5  23262.40   5815.60
+Finožični PVC-om izol. vodič H05V-K (P/F) 0,5mm2, zeleni HPV                         10000    9  90000.00  22500.00
+Daljinski isklopnik za MC2, 110-130V AC/DC za MC2                                   400.74   11   4408.14   1102.03
+Umetak 2-polne sklopke, na oprugu                                                    15.94    9    143.46     35.86
+Ormar komp. 100kVAr/14%  - 25kVAr /600x2000x400 samostojeći                       47763.37   12 573160.44 143290.11
+OUT BEAM LED zidna svjetiljka, uski snop, sive boje                                1250.97   25  31274.25   7818.56
+Panik svjetiljka PF FLUO 11W, CPSsustav,MIX mod, zidna                             1792.05   15  26880.75   6720.19
+Podnožje, prednji dio, za razdjelnike 5A../.                                        318.75   22   7012.50   1753.13
+Vezica 370 x 7.6mm, natural (pak.=100 kom.)                                          76.67    2    153.34     38.33
+Držač kabela,mont. na dno ormara,za AS/KS ormare šir. 600mm                         142.08   12   1704.96    426.24
+
+                                                                                                         ----------
+UKUPNO                                                                                                     837391.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

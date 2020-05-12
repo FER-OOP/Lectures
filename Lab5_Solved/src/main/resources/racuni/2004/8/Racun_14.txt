@@ -1,0 +1,22 @@
+Račun br. 309493
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Okomita vodilica kabela za DS/DSZ/DSI ormare 32U                                    220.81    6   1324.86    331.21
+Priključna kutija, čelik, 150x150x120 (VxŠxD), IP66, RAL7035                        174.28   27   4705.56   1176.39
+Damian-R/A2 3x40W G9, 100-240V, IP20, brušeni krom                                  131.95   14   1847.30    461.82
+Kabel EYY-O (PP00) 3x1,5RE                                                           10000   24 240000.00  60000.00
+9R05/C/SE, 5W E14 CW R50                                                              3.37   25     84.25     21.06
+Ugradna svjet. KVADRA R70 1x35/49/80W QTI satinirani pokrov                        1020.95   28  28586.60   7146.65
+IP68 prespojna kutija, 3-polna                                                      124.69   26   3241.94    810.48
+Flur zaslon, dvostrani, za stropnu montažu                                            2104   24  50496.00  12624.00
+Nadgradna svjetiljka SAP IP54 T5 4x24W ECG, bijela                                 1043.44    7   7304.08   1826.02
+Aluminijski profil sa pokrovom, četvr., bijele boje, 2m                             437.43   25  10935.75   2733.94
+
+                                                                                                         ----------
+UKUPNO                                                                                                    348526.34
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

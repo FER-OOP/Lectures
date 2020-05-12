@@ -1,0 +1,32 @@
+Račun br. 735170
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zaštitni prekidač AMPARO 4.5kA, B 6A, 1P+N, širine 1 modula                          41.95   12    503.40    125.85
+Zaštitni prekidač MB 18kA CL 100/4                                                  617.24   27  16665.48   4166.37
+Lana-I-R/A2 75W GU10 AR111, 100-240V, IP20, sive boje                               146.65   21   3079.65    769.91
+Svjetiljka za ormar, tanka, IP20, 11W, montaža vijcima                              477.29   23  10977.67   2744.42
+7309G/W, 9w GU10 WW                                                                   5.74   21    120.54     30.14
+Tris-I-R/A1 LED 3x1W 6000K 180lm,dimabilna,350mA,IP20,alu                            89.21    2    178.42     44.60
+Fluokompaktna žarulja TC-SEL 11W/830 2G7                                             20.16   17    342.72     85.68
+LEDPANEL 100 SMD, nadgradna, četvrt., bijela, 3000K                                 500.12   28  14003.36   3500.84
+Kompenzacija  LSFC 7% 200/25kvar 600x2000x400mm Samost.orm.                       55842.27   10 558422.69 139605.67
+Poprečna stranica, širina 5/200mm                                                   575.89   30  17276.70   4319.18
+Kompaktni prekidač snage tip A, 4P/80A/50kA, MC1                                    1373.6    8  10988.80   2747.20
+Finožični PVC-om izolirani vodič H07V-K (P/F) 10mm2, plavi                          770.13   27  20793.51   5198.38
+I-VIDUAL LED PANEL za modul 625x625, 3000K, bijele boje                             875.55   20  17511.00   4377.75
+Mia-R 70W G12, 230V, IP20, bijele boje                                                9.63   17    163.71     40.93
+Panik svjetiljka KX Wireless aku.bat LED 8h 230VAC univ.mont                       1823.46    1   1823.46    455.86
+Compact passage, senzor pristunosti 24V, p/ž, stropni, crni                        2859.97   29  82939.13  20734.78
+Sabirnica 3-polna, jezičasta, 35mm², 130 A, korak 27mm, 1m                          736.72   13   9577.36   2394.34
+Cilindrični osigurač, 10x38, 16A, gG, 500V AC                                         2.91   17     49.47     12.37
+Sticker Space, crne boje                                                             80.76    8    646.08    161.52
+"19"" fiksna polica do maks. 15kg, d=250mm, 1U, RAL7035"                             96.37   12   1156.44    289.11
+
+                                                                                                         ----------
+UKUPNO                                                                                                    767219.56
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

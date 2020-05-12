@@ -1,0 +1,28 @@
+Račun br. 251973
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+FGL OUTDOOR GU10, bb                                                                249.72    1    249.72     62.43
+Aluminijski uložak SL                                                               104.83   13   1362.79    340.70
+Bezhalogeni kabel s el. funkc. do30 Min. (N)HXH-J4x95rmE30                           10000    8  80000.00  20000.00
+QUAD 1 XL LED zidna svjetiljka, 3,2W, 3000K, četvrtasta, bb                         687.83   14   9629.62   2407.41
+Ampermetar, montaža na DIN nosač, AC, 40A, direktno                                 262.11   10   2621.10    655.27
+Maskirni razdjelnik 3 širine brojila/ 21 MV                                           4180   25 104500.00  26125.00
+Linijska svj. SERH 112 2x49W, ECG, bijele boje                                      530.56   14   7427.84   1856.96
+ADL 50 pano svj. GU10, krom                                                         249.72   23   5743.56   1435.89
+Kabel EYY-O (PP00) 3x16RM                                                            10000   29 290000.00  72500.00
+Joystick, komplet,2 položaja sa po 1 N/O, s povratom, vodor.                         229.1   13   2978.30    744.58
+Kabel RS-2YCY 6x2x0,5 PiMF                                                           10000   14 140000.00  35000.00
+Ormar plast.750x1250x312,krov protiv kiše,dno zat.,2 vrata,                           4142    5  20710.00   5177.50
+Kompenzacija  LSFC 14% 200/50kvar 600x2000x600mm Samost.orm.                      62670.49   181128068.75 282017.19
+MODUL CONNECT jezičasti kontakt L2/L3                                                 0.98   28     27.44      6.86
+OUT 65 LED DL okrugli Set, 9W, 3000K, 38°, uklj.napajanje,bb                        437.43   21   9186.03   2296.51
+Izolirani kabelski tuljak, dvostruki, sivi, 2x4.0mm²/14mm                             0.67   27     18.09      4.52
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1802523.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

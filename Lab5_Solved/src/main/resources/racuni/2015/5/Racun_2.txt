@@ -1,0 +1,31 @@
+Račun br. 431398
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+AF S LED 300 reflektor, 8xLED (24W), 5000°K, IP44, inox                            4138.33   28 115873.24  28968.31
+Sklopnik vel. 0 | 4kW (9A) [AC-3] | 24VAC, 50Hz                                     105.73    2    211.46     52.87
+Pomoćni sklopnik vel.00 | 4P | AC15 6A/230V | 24VAC | 4 N/O                         101.65   12   1219.80    304.95
+Vijak za drvo 200mm M10, INOX                                                        27.09   14    379.26     94.82
+Katalog Amparo zaštitni i signalni uređaji, razdjelnici...                               0   15      0.00      0.00
+NV rastavna sklopka vel.2|400A, 3P,M10, stez.240mm²,na ploču                       1170.73   25  29268.25   7317.06
+41018/G,  X konektor, sive boje                                                       39.7   24    952.80    238.20
+Vince-I-R/A1 8W T5, 230V, IP20, aluminij                                            205.28    9   1847.52    461.88
+Montažni nosač 3HH                                                                   21.88    2     43.76     10.94
+BIG THEO WALL OUT, ES111, srebrne boje                                              506.37    8   4050.96   1012.74
+PEMA četvrt. zidna svjetiljka,bi.b., E27, max. 15W                                  500.12    5   2500.60    625.15
+Mehanička blokada za 3-polne MZ3                                                    171.46   26   4457.96   1114.49
+"Stezaljka ""A"" 1P, dovod 35mm²|odvodi: 1x(4x35)"                                   70.58   15   1058.70    264.68
+Adapter za sustav 60mm, EEC 80A, 1 nosač, širine 72mm                               197.52   27   5333.04   1333.26
+Tuljci, izolirani, 10mm2, L2=18mm (pak.100 kom)                                      52.53    5    262.65     65.66
+S-Fleece jacket  breathable, waterproof, windproof                                  654.13   18  11774.34   2943.58
+Utičnica, bežično upravljiva, max. 3500W                                             187.2   20   3744.00    936.00
+Zaštitni prekidač, C karakteristika, 6A, 3-polni+N, 10kA                            200.66   16   3210.56    802.64
+Rolo-WL 3 E27 75W, aluminij, hrđavo smeđe boje                                      212.21    8   1697.68    424.42
+
+                                                                                                         ----------
+UKUPNO                                                                                                    187886.58
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

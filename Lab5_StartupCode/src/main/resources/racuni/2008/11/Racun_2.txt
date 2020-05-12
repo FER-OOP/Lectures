@@ -1,0 +1,17 @@
+Račun br. 907721
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Sklopni element za montažu na dno kućišta, N/O, utične                               19.18    4     76.72     19.18
+Finožični PVC-om izolirani vodič H07V-K (P/F) 25mm2, plavi                         2040.19    3   6120.57   1530.14
+89075V, LED DRIVER 24v 0-75w , ulaz 230v                                            331.49   10   3314.90    828.72
+Sklopnik vel.0 | 4P | AC1 40A/690V | 230VAC                                         257.15   30   7714.50   1928.62
+NYCY 4x4RE/4                                                                       2695.96    3   8087.88   2021.97
+
+                                                                                                         ----------
+UKUPNO                                                                                                     25314.57
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

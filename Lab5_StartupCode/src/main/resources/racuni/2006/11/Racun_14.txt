@@ -1,0 +1,23 @@
+Račun br. 238225
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Reflektor SET 70W HST-DE RX7s IP65 crni asimetrični                                 884.58   10   8845.80   2211.45
+Ugradna 3fazna strujna šina 3m 16A alu                                              612.63   25  15315.75   3828.94
+"Natpisna pločica, ""OFF"", 17.5 x 28mm, natična"                                     8.13   16    130.08     32.52
+SOPRANA OVAL podna svj. SL-1, crni tekstil, E27, max. 60W                          1433.11   14  20063.54   5015.88
+Zaštitni prekidač sa svojstvima rastavljača, C 20A, 1-polni                          198.3   10   1983.00    495.75
+EUTRAC 3-fazna nadgradna šina duljine 1 metar, srebrne boje                         224.04   15   3360.60    840.15
+Kompaktni prekidač snage tip A, 3P/200A/50kA                                       1684.09   17  28629.53   7157.38
+"19"" napojna letva,7xIEC C13+prenap. zašt.,kabel 2m,crna,alu"                         246   17   4182.00   1045.50
+Kućište sa gl. skl. za MZS tip BE5, crveno/žuta ručica, IP54                        125.74   19   2389.06    597.27
+Tipkalo uskočno, plosnato, bez pokrova (prazno)                                      38.37   10    383.70     95.92
+Raster za odsijač LA R2 T8 2x58W sa poprečnim lamelama, alu                         132.64   20   2652.80    663.20
+
+                                                                                                         ----------
+UKUPNO                                                                                                     87935.87
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,15 @@
+Račun br. 968457
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+IP68 prespojna kutija, okrugla, 4x 7-25mm  promjer kabela                           437.43    5   2187.15    546.79
+Koaksijalni spojnica F-ženski/IEC-ženski, S4H, 10kom.                                39.76   14    556.64    139.16
+ECO LED PANEL ROUND downlight, okrug., bijele b., 14W, 3000K                        375.73   22   8266.06   2066.52
+
+                                                                                                         ----------
+UKUPNO                                                                                                    11009.851
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

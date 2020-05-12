@@ -1,0 +1,27 @@
+Račun br. 586390
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Motorna zaštitna sklopka, 3-polna | 2.20 - 3,20A, vel.S0                            223.43   25   5585.75   1396.44
+Kompaktni prekidač snage tip A, 3P/100A/50kA, utični, MC1                          2213.08   10  22130.80   5532.70
+Finožični PVC-om izol. vodič H07V-K (P/F) 10mm2, smeđi HPV                           10000   23 230000.00  57500.00
+7306BD/W/45, LED 12W PAR30 E27 WW dimabilna 45 ° 230V                               231.98    2    463.96    115.99
+NV rastavna sklopka vel.000|125A, 3P, stez. 50mm², 60mm                             377.11    7   2639.77    659.94
+LS-FI (KZS), B/20A/100mA, 2P, Tip A, 10kA                                             4281   30 128430.00  32107.50
+Tris-II-R/A1 LED 3x1W 6000K 180lm,dim.,350mA,IP20,crne boje                          88.02   18   1584.36    396.09
+Q-Line Produžetak, alu-natur                                                        124.52    8    996.16    249.04
+RFB LED 25W, 3000K, 1875lm, 100-240V, IP54, pc, bijele boje                         530.36   23  12198.28   3049.57
+Reflektor TES 400W HIT E40 IP65 crni asimetrični                                   1023.12    8   8184.96   2046.24
+Višežični PVC-om izolirani vodič H07V-R (P/M) 95mm2, ž/z                             10000   19 190000.00  47500.00
+Strujni trafo, montaža na DIN nosač, 50/5A, 2VA, Kl. 3                              126.47    8   1011.76    252.94
+UPS Senzor temperature i digitalni U/I modul RJ11 - RJ11                           1006.38   22  22140.36   5535.09
+Panik svjetiljka KW LED 3W, CPS sustav, MIX mod,zidna                               969.23   17  16476.91   4119.23
+Brava sa 2 ključa za BK071../072../073..i CRTMRB razdjelnike                         75.51   21   1585.71    396.43
+
+                                                                                                         ----------
+UKUPNO                                                                                                    643428.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

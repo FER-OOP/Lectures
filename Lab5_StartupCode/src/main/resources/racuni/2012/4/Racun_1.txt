@@ -1,0 +1,18 @@
+Račun br. 546332
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LED RETROFIT RAL1 35 DIM 6W 230V 827 250lm opal S14D 20000h                         133.78    9   1204.02    301.01
+ALPA MUSHROOM ras.stupić, E27 max.24W, srebrne boje                                 625.15   11   6876.65   1719.16
+Gljiva, svjetleća, deblokada povlačenjem                                            115.43    2    230.86     57.72
+Instalacijski sklopnik 20A | 2 N/C | 230VAC                                         123.82    4    495.28    123.82
+Kabel H05VVC4V5-K 3x0,75 sivi                                                        10000    2  20000.00   5000.00
+Prednja ploča, plastična, slijepa, 4B12K                                              4160    8  33280.00   8320.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    62086.812
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

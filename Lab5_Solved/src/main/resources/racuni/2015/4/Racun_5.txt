@@ -1,0 +1,14 @@
+Račun br. 634091
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Razdjelnik N/Ž, s prozirnim vratima 1R / 9 modula IP65                              379.53    7   2656.71    664.18
+FLEXLED ROLL HIGH LUMEN 24V, 1m, 2700K                                              218.46   18   3932.28    983.07
+
+                                                                                                         ----------
+UKUPNO                                                                                                      6588.99
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

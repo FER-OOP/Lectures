@@ -1,0 +1,17 @@
+Račun br. 415652
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LS-FI (KZS), B/16A/30mA, 1P+N, Tip A, G izvedba, 10kA                               652.92   19  12405.48   3101.37
+Podnožje N voda, vel.00, V-stezaljka/Mostić, 1-pol.                                 174.48   14   2442.72    610.68
+LED DMX kontroler Touch RGBW crne boje                                              836.68   27  22590.36   5647.59
+Podnožje prema dubini AS/KS ormara, 800x200mm, RAL 7022                             283.08   29   8209.32   2052.33
+"Opt. razdjelnik,16 niti, LC,50/125µm OM2, izvlačivi,19"",1U"                      1445.37   10  14453.70   3613.43
+
+                                                                                                         ----------
+UKUPNO                                                                                                     60101.58
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

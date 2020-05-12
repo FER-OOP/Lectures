@@ -1,0 +1,25 @@
+Račun br. 886104
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LINEA R80M ugradni profil, eloksirani aluminij L-2970mm                             618.52   29  17937.08   4484.27
+Senzor prisutnosti 180B KNX, 8m, p/ž, zidni, IP54, bijeli                          1643.44   23  37799.12   9449.78
+Cube-WL-Q 35W GU10 MR16, 100-240V, IP54, antracit                                   190.58    8   1524.64    381.16
+Ugradni okvir za MO2, 3P, -3200A, vodoravne str. priklj.                          15200.83   25 380020.75  95005.19
+Anker za SQUARE POLE 30 i 60cm, INOX                                                312.23   17   5307.91   1326.98
+Ulična svjetiljka GENESIS VP HSE/I 70W IP65 RAL7030                                1195.47    7   8368.29   2092.07
+TYTAN HC prespojni kabel RJ10, duljina 100cm                                            20   11    220.00     55.00
+HQI-TS žarulja, 70W, NDL                                                            155.78   11   1713.58    428.39
+Adapter za sustav 60mm, EEC 32A, 1 nosač, širine 72mm                               186.78    1    186.78     46.69
+Rastavna sklopka za cilindrične osig. 10x38mm, 3P/32A sa LED                        187.65    4    750.60    187.65
+Nevil-S LED 3x1W 3000K, IP54, sive boje                                              344.5   20   6890.00   1722.50
+Preklopnik 3P/63A, mogućnost zaključavanja                                          522.57    6   3135.42    783.85
+GLENOS završni pokrov za profil 1107, sive boje                                      31.25    6    187.50     46.88
+
+                                                                                                         ----------
+UKUPNO                                                                                                    464041.66
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

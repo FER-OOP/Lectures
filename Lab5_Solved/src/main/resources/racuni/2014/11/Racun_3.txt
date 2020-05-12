@@ -1,0 +1,31 @@
+Račun br. 853649
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Sklopnik vel. 00 | 3kW (7A) [AC-3] | 110VAC, 50Hz | 1 N/O                               99    2    198.00     49.50
+Battery Box (bez punjača) za USPRD220ER i USPRD300ER 72V14Ah                       5338.04   21 112098.84  28024.71
+P/Ž kutija, 3 modula, POWERCOM/IKALL                                                 49.19    9    442.71    110.68
+Grebenasta sklopka (glavna, žuto/crvena),0-1/3P/100A, na DIN                        610.69    2   1221.38    305.35
+Uzidni okvir s vratima - M3000, 5U-39                                              2377.77   15  35666.55   8916.64
+Elektronska prigušnica ECG QTi DALI 2x58/220-240 DALI dim                           350.76   15   5261.40   1315.35
+Utičnica MO šuko 2M 16A, sa zašt. kon. i dj. zaš., crvena                            22.81   21    479.01    119.75
+QUAD 2 zidna svj., četvrt., antracit, LED, 2x3W, tople bi.b.                        617.88    7   4325.16   1081.29
+PURI glava svj.srebrnosiva GU10,max.50W,uklj. 3f.adapter                             224.2   29   6501.80   1625.45
+9R08/W/E, LED R63 8w E27 WW 230v 1:1 size                                            46.46   20    929.20    232.30
+Otvoreni prekidač, 3P, 80kA, 3200A, fiksni,vod. str. priklj.                      58271.61   16 932345.75 233086.42
+BNC konektor za krimpanje                                                             4690   15  70350.00  17587.50
+Ravni vezni element PK 110*70                                                        12.62   25    315.50     78.88
+Francis-Q/A2 75W GU10 AR111, 100-240V, IP20, aluminij                               234.51   11   2579.61    644.90
+Završni poklopac LBF okrugli sa rupom                                                 8.37   28    234.36     58.59
+KADUX LED Double DL Set, 3000K, 30°, brušeni aluminij                              2309.34    9  20784.06   5196.02
+Ugradna indirektna svj. VMRL RWB 4-14/24W ECG M625 perfor.                          868.45   11   9552.95   2388.24
+Zaštitna dioda 6-230V DC, A1+, za S-Releje Serije 4                                   8.48   20    169.60     42.40
+Ugradna kutija, podžbukna, sa strana prostor za stezaljke                          1171.88   13  15234.44   3808.61
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1218690.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

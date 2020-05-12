@@ -1,0 +1,32 @@
+Račun br. 845193
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+I-PENDANT PRO LED PANEL PENDULUM 3000K 1295x295mm bijele b.                        1558.31    7  10908.17   2727.04
+Zaštitni prekidač, C karakteristika, 63A, 3-polni, 10kA                             200.56    8   1604.48    401.12
+Vanjski kut za kanal SIGNA 70/130 RAL 9010                                          216.33   20   4326.60   1081.65
+Instalacijski sklopnik 40A | 3 N/O + 1 N/C | 230V AC, 3ŠM                           324.41   14   4541.74   1135.44
+Softshell jakna -S-                                                                 595.37   25  14884.25   3721.06
+Pomoćni kontakt, 2 C/O kontakta, vijčana montaža                                     58.05    9    522.45    130.61
+Vremenski relej, multifunkcijski, 12-240VAC/DC, 2 C/O, 8A                           273.06    7   1911.42    477.85
+Vartec modul varistor, VVM, TII, 255V/20kA                                           143.1   15   2146.50    536.63
+Glenos akrilni pokrov, četvrtasti pokrov za profile 2609, 3m                        374.58   27  10113.66   2528.41
+Savitljiva cijev (srednje) plašt,750N,M20, 50m, EN3341, siva                        590.97    4   2363.88    590.97
+LED G9, 3W, 3000K, 180lm, 230V                                                       26.52    3     79.56     19.89
+WAVE WALL zidna svjetiljka 2x4,6W LED, 3000K, 700lm, mesing                        1188.46   18  21392.28   5348.07
+Podnaponski isklopnik 220V AC/DC (tvornički ugrađen)                               1380.24   18  24844.32   6211.08
+Redna stezaljka (vijčani priključak) 150mm², bež                                    141.47   22   3112.34    778.09
+LOGS IN zidna svjetiljka, četvrtasta, 5W LED,3000K,cb/mesing                        750.35   10   7503.50   1875.88
+Distribucijski blok, 1P, 250A, 1x120mm² | 2x35+5x16+4x10mm²                         246.03    5   1230.15    307.54
+Mod. nadzora mrežnog napona za uklju. sig. opće rasvjete 4A                         827.11    6   4962.66   1240.67
+Otvoreni prekidač, 4P, 66kA, 3200A, izvl., vod. str. priklj.                      97223.09    4 388892.38  97223.09
+Instal. umetak 4-45K komplet 15 IR prednja pl. čelik                               3238.61   16  51817.76  12954.44
+SAT stup d=2m, Ø50mm, sa završnom kapom, alu                                        133.27   28   3731.56    932.89
+
+                                                                                                         ----------
+UKUPNO                                                                                                     560889.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

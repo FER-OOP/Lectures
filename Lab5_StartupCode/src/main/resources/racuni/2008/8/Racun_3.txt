@@ -1,0 +1,15 @@
+Račun br. 393128
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Solid Double LED 15W 4000K 1095lm, IP20                                             234.51   24   5628.24   1407.06
+41020/G, mehaničko ojačanje, sive boje                                               14.69   11    161.59     40.40
+Ind.svj.ARKTUR SQUARE LED 113W 12000lm/765 ECG IP65 120x40°                        2733.37   12  32800.44   8200.11
+
+                                                                                                         ----------
+UKUPNO                                                                                                     38590.27
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

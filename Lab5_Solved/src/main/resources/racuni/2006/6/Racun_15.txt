@@ -1,0 +1,24 @@
+Račun br. 1005231
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Driving ravni rate big 51 - 100km Distance                                         1841.66   22  40516.52  10129.13
+Nazidni okvir s vratima za Modul 2000 | 4A-45 | dubina 300mm                       4442.33   18  79961.94  19990.48
+Završna pločica za rednu stezaljku IK100050-A, siva                                   3.61   16     57.76     14.44
+Ina-L-R/A2 LED 20W 3000K 1500lm, IP20, bijele boje                                  527.66   29  15302.14   3825.53
+Laki gumeni kabel H05RR-F 3x1,5, crni                                               644.64   24  15471.36   3867.84
+Industrijski natikač, 5 polni, 63A, 400V, IP44                                      381.77   15   5726.55   1431.64
+Kliješta za gnječenje stopica Q60+                                                  219.34   20   4386.80   1096.70
+BIMA I svjetiljka za 3-fazne šine, srebrne boje                                     406.17   29  11778.93   2944.73
+Zaštitni prekidač AMPARO 4.5kA, C 25A, 1P+N, širine 1 modula                         41.95   10    419.50    104.88
+Signalni fleksibilni kabel YSLY-JZ 18x2,5 sivi                                     5693.51    6  34161.06   8540.26
+Reed-I-R 70W Rx7s, 230V, IP20, bijele boje                                            9.63   24    231.12     57.78
+Kabel H05VV-F (PP/J) 2x1,5mm2, crni, 50m                                             10000    8  80000.00  20000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     288013.7
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

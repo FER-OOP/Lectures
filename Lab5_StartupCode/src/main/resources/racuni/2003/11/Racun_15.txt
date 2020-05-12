@@ -1,0 +1,31 @@
+Račun br. 504280
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Pokrov za antensku utičnicu TV-SAT-RD, bijeli                                          8.9   17    151.30     37.82
+Kompaktni prekidač snage tip A, 4P/20A/25kA, MC1                                    946.85   18  17043.30   4260.82
+LS-FI (KZS), C/32A/30mA, 1P+N, Tip AC, 6kA                                          237.01    3    711.03    177.76
+Dodatna stezaljka 25mm2                                                              11.79   21    247.59     61.90
+Umetak izmjeničnog tipkala, na vijak                                                 15.62    2     31.24      7.81
+Redna stezaljka (vijčani priključak) 2.5mm², plava                                    2.27   12     27.24      6.81
+Konektiranje 2x8 SC SM utikača + zašt. za povlačenje                               3084.74   27  83287.98  20821.99
+PERFECT DIMMING SYSTEM, LED-Driver, 20VA, 500mA                                     374.92   14   5248.88   1312.22
+Bluetooth V2.1 bežični TELEFON kit, USB, baterija                                   360.64   30  10819.20   2704.80
+Nosač 110mm, za reguliranje ugradne dubine                                           25.45   29    738.05    184.51
+Mura-CL-I-Q 9W GX53, 100-240V, IP54, aluminij                                       298.38   15   4475.70   1118.93
+Pinta-A MR16 Spot, GU5,3, 50W, IP20, podesiva, bijela                                21.79   25    544.75    136.19
+GLENOS zavr.pokr. za kutni profil, bijele boje                                       43.76   28   1225.28    306.32
+8015G/W, 150W HQI G12 WW                                                             15.71   29    455.59    113.90
+Linijska svj. SERH 112 1x28W, ECG, bijele boje                                      476.11   11   5237.21   1309.30
+Optička spojnica SC/APC DX SM,ker.,s prirubnicom,zelena,ECO                          13.93    1     13.93      3.48
+Nosač MO 1M bez nožica, za knauf kutije                                               4.37   13     56.81     14.20
+Telekomunikacijski kabel F-YAY 20x2x0,6mm2                                           10000    5  50000.00  12500.00
+Tipka MO 1M sa simbolom dimera, crna                                                   7.5    7     52.50     13.12
+
+                                                                                                         ----------
+UKUPNO                                                                                                     180367.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

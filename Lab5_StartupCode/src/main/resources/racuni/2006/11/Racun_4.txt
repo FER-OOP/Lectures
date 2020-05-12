@@ -1,0 +1,32 @@
+Račun br. 758821
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Spojnica (koljeno) M32, bez halogena, crna                                         2191.66    5  10958.30   2739.57
+Trakasta obujmica V2A za cijevi Ø8-114mm priklj. 2.5-16mm²                           15.97    9    143.73     35.93
+Odvodnik prenapona klase D (komplet), 1+1, 280V, UAS                                386.53    9   3478.77    869.69
+FI-blok 40A, 2-polni, 300mA, Tip A (Puls)                                           617.76    9   5559.84   1389.96
+Kompaktni prekidač snage tip A, 4P/32A/50kA, MC1                                    1144.8   26  29764.80   7441.20
+Berry LED 30W, 3000K, 1800lm, 230V, IP65, plastika, antracit                        510.42   10   5104.20   1276.05
+UPS Dialog Dual 4000VA 2400W / Online                                             12821.76    3  38465.28   9616.32
+89113/ELE, 1x13w PL elektronska prigušnica                                           53.56    1     53.56     13.39
+Kompenzacija  LSFC 7% 200/25kvar 800x2000x400mm Samost.orm.                       50850.72    6 305104.31  76276.08
+Prednja ploča za potezno tipkalo EL735100, biserno bijela                             2104    4   8416.00   2104.00
+Kućište za 3 tipkala serije MS, crno-sivo                                            61.63    6    369.78     92.44
+"Opt. razdjelnik, 8 niti,ST,50/125µm OM2, izvlačivi,19"",1U"                        599.28   27  16180.56   4045.14
+Bezhalogeni inst.kabel pob.svoj. za sl.požara NHXMH-J 5x2,5                          10000   22 220000.00  55000.00
+Okvir za prekidač MO2 4-pol 2000A horiz., 4 pom konektora                         11688.65   18 210395.70  52598.93
+NEW TRIA LED DL SQUARE SET, mat bijele b., 6W, 2700K, 38°                           406.17    5   2030.85    507.71
+Montažna ploča za Maxipol ormare 750X500 (VxŠ), metalna                             300.11   18   5401.98   1350.49
+Utikač za TYTAN II 3x63A sa D02 osiguračima, komplet                                167.16   11   1838.76    459.69
+Daljinski isklopnik, 12-110V AC i 12-60V DC, natična montaža                        109.43   17   1860.31    465.08
+SMD LED žarulja, oblik svijeće, mat, E14, 4W, 3000K, 250lm                           33.11    1     33.11      8.28
+"Samostojeći komunikacijski ormar DS 600x1970x1200, 19"", 42U"                     4210.19    2   8420.38   2105.09
+
+                                                                                                         ----------
+UKUPNO                                                                                                    873580.25
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

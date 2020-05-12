@@ -1,0 +1,30 @@
+Račun br. 1059974
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+S4H p/ž kućište za puni zid, za višak IT kabela, crno                                46.58   16    745.28    186.32
+Razdjelnik nazidni, IP40. 1-redni, 18 modula, bijela vrata                          101.04   10   1010.40    252.60
+7517A/W, LED AR111 G53 17w WW 45 ° 12V AC/DC                                        117.76   28   3297.28    824.32
+Tuwa-II-R LED 1W 3000K 50lm, 350mA, IP67, aluminij                                  205.28    8   1642.24    410.56
+Poliester zidni ormar MINIPOL, zatv. u 3 točke,400x400x200mm                       1123.76    8   8990.08   2247.52
+Set konektora za kombiniranje modularnih adaptera,60mm Comp.                         48.83    3    146.49     36.62
+Prednja ploča, čelična, sa otvorom za uređaje, 3G4-L                                  4160    4  16640.00   4160.00
+Sklopnik vel. 3 | 45kW (95A) [AC-3] | 24VDC                                         1503.6   28  42100.80  10525.20
+Industrijsko kućište sivo, sivi poklopac, 110x110x65mm, IP65                         56.35   23   1296.05    324.01
+LS-FI (KZS), C/16A/100mA, 3P, Tip A, 10kA                                             4281   16  68496.00  17124.00
+Jamba-III-WL-R 15W E27, 100-240V, IP54, rusty                                       124.52   14   1743.28    435.82
+PAR38, E27, 18W, 2700K                                                               187.2   17   3182.40    795.60
+"Zidni komunikacijski ormar DW Monobloc, 600x500x395, 19"", 9U"                     887.42   23  20410.66   5102.67
+KC panik lampa 11W 230V za CPS MIX mod, stropna montaža                            1067.93    2   2135.86    533.97
+Kućište s poklopcem (razvodna kutija) 108x108x56.5mm, IP65                           24.63    5    123.15     30.79
+Bill-Q 2x26W G24q-3, 230V, IP20, bijele boje                                         37.67    4    150.68     37.67
+Dekorativni pokrov za KALOS svjetiljku sa 4 kraka, antracit                         418.86   12   5026.32   1256.58
+Jednožični PVC-om izolirani vodič H05V-U (P) 1mm2, plavi                             10000   18 180000.00  45000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     357137.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

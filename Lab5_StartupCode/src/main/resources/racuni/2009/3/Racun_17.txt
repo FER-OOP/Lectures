@@ -1,0 +1,19 @@
+Račun br. 275093
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+TENORA CL-2 stropna svjetiljka sa 2 zgloba, crne boje                              1558.31    2   3116.62    779.16
+Kompaktni prekidač snage tip ME, 3P, 100kA, 140A, utični                           4305.49   10  43054.90  10763.73
+Kabel LiYCY 4x2x0,14                                                                 10000   16 160000.00  40000.00
+Panik svje.tip OL  OLED 230VAC/DC CPS jednostrana,  ovjesom                        2137.92   16  34206.72   8551.68
+IBDN prespojni kabel RJ45 UTP cat.6A, žuti, 2.1m                                      6804   30 204120.00  51030.00
+Optički prespojni kabel duplex, LC/ST, 50/125µm OM2, 5.0m                           120.43    3    361.29     90.32
+Prednja ploča, plastična, slijepa, 5B7K                                               4160   28 116480.00  29120.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     561339.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

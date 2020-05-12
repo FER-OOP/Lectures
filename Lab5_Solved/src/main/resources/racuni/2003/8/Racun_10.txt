@@ -1,0 +1,30 @@
+Račun br. 105018
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Signalna svjetiljka sa LED 230VAC/DC, glatka leća, crvena                            68.45   20   1369.00    342.25
+UPS Premium Dual 2200VA 1980W 6 min.1/1-fazni/Online                               8973.61   20 179472.20  44868.05
+Modul za audio/video jedinicu, 1 tipka, IKALL, crni                                 294.49    7   2061.43    515.36
+38007B, 10cm kutnik za BL TUBE                                                       26.35    5    131.75     32.94
+FlexLED Roll ECO, tople bb, 1m, 60LED/m, DC 12V                                      86.41   28   2419.48    604.87
+Zaštitni prekidač, D karakteristika, 4A, 2-polni, 10kA                              128.42   18   2311.56    577.89
+KADUX 3 GU10 Downlight, četvrtasti, crne boje, max. 3x50W                           406.17   12   4874.04   1218.51
+Punto-F MR16 Spot, GU5,3, 50W, IP20, 12V, mesing                                     18.07    4     72.28     18.07
+Teški gumeni kabel H07RN-F 1x120, crni                                               10000   11 110000.00  27500.00
+Izolirani kabelski tuljak, dvostruki, crveni, 2x1.00mm²/8mm                           0.21    9      1.89      0.47
+Okvir za ugradnju RX panik lampe u strop                                            290.04    6   1740.24    435.06
+RC 130i infracrveni senzor pokreta, nazidni, IP54, crni                             929.94   26  24178.44   6044.61
+Cijevni nosač 1000mm, bijeli par tip dizajn                                         512.31   10   5123.10   1280.78
+ALTRA DICE zidna svj., WL-2, srebrne boje, GU10, max. 50W                           625.15    6   3750.90    937.73
+Instalacijski umetak za Minipol ormar 600x400mm, 3x18 modula                         664.1   29  19258.90   4814.72
+Box stezaljka ARROW BLUE veličina 1                                                   4821   21 101241.00  25310.25
+Vodič (N)YM-O (PGP) 3x1,5mm2, bez zašt. vodiča, svij.-sivi                           10000    5  50000.00  12500.00
+Okvir MO 1/3M, line, crni                                                            33.29    4    133.16     33.29
+
+                                                                                                         ----------
+UKUPNO                                                                                                    508139.38
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

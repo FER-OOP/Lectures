@@ -1,0 +1,22 @@
+Račun br. 822296
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ind.svj.ARKTUR SQUARE LED 184W 20000lm/757 ECG IP65 120x40°                        3503.32    9  31529.88   7882.47
+Sabirnica, 4P, viličasta, 16mm² (80A)|korak 17.8mm| 1m                              377.51   20   7550.20   1887.55
+Bat.18 kom.longlife  OGiV 12V/5,2Ah s kabel. za ožič.+polica                       3268.13    6  19608.78   4902.19
+NV podnožje 1P, vel.00|160A, na ploču, M8, zaštita od dodira                         75.65    2    151.30     37.83
+KNX binarni ulaz 2x8                                                               2261.88   29  65594.52  16398.63
+Ventilator s filterom 320x320x150mm IP54, 135W, 560m3/h                            1695.19    4   6780.76   1695.19
+Alto-II-R/A2 LED 3x1W 6000K 217lm, IP20, sive boje                                  136.68    1    136.68     34.17
+Kompaktni prekidač snage tip A, 4P, 150kA, 125A                                    2718.12   21  57080.52  14270.13
+Linijska svjetiljka SOLO 2 1x14W ECG T5 bijela                                      163.04   13   2119.52    529.88
+Kutnik za kabelske kanale širine 2                                                   69.76   22   1534.72    383.68
+
+                                                                                                         ----------
+UKUPNO                                                                                                    192086.89
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

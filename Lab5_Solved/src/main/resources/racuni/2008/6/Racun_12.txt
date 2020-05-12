@@ -1,0 +1,26 @@
+Račun br. 483321
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Nosač MO 2M bez nožica, za knauf kutije                                               4.37   27    117.99     29.50
+PD-C360i/12 mini DIM senzor prisutnosti IR,stropni,360°,Ø12m                       1706.82   14  23895.48   5973.87
+Signalna LED svjetiljka na DIN nosač, crvena/zelena, 230V AC                         67.53    6    405.18    101.29
+Zaštitni prekidač, C karakteristika, 20A, 3-polni, 10kA                             100.67   26   2617.42    654.35
+Bezhalogeni vatrodojavni instal. kabel JB-H(ST)H 2x2x0,8 E30                         10000   22 220000.00  55000.00
+FID sklopka 80-4-01/AC, 10kA                                                        631.66   22  13896.52   3474.13
+Vodič (N)YM(ST)-J 4x1,5 / 1,5, svijetlo-sivi                                         10000   21 210000.00  52500.00
+Montažna ploča za AS/KS ormare, 2000x800mm (VxŠ)                                    799.48    1    799.48    199.87
+Uređaj za binarni ulaz, 4 x AC/DC 24V                                              1443.37    7  10103.59   2525.90
+Mono kabelska spojnica, neizolirana, prema DIN, Cu, 35mm²                            15.61   23    359.03     89.76
+Philips Master LED Spot MR16, 6.5W, 36°, 3000K, dim.                                 187.2   26   4867.20   1216.80
+AIXLIGHT R OFFICE T5, okr., sr.b.,max.2xT5 54W+2xES111 75W                         2997.68    1   2997.68    749.42
+Ugradna downlight svjetiljka EQM 211 1x26W CCG TC-D, bijela                         329.35   13   4281.55   1070.39
+VAYNISSA zidna i stropna svjetiljka, 4x LED, krom                                     8570   27 231390.00  57847.50
+
+                                                                                                         ----------
+UKUPNO                                                                                                     725731.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

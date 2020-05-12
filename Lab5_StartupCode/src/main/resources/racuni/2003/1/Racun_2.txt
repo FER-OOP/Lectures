@@ -1,0 +1,24 @@
+Račun br. 379537
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LED Svjetiljka MO 2M 12W 250V, dvobojna crvena/zelena                               173.03    6   1038.18    259.54
+Sklopnik vel. 2 | 18,5kW (40A) [AC-3] | 230VAC, 50/60 Hz                            375.46   30  11263.80   2815.95
+Otvoreni prekidač, 4P, 80kA, 2500A, fiksni, prednje priklj.                       72071.32   12 864855.88 216213.97
+9407G/W, 7W G9 WW                                                                     5.74   21    120.54     30.14
+Gljivasto tipkalo bez povrata, zeleno, deblokada pritiskom                           87.54    9    787.86    196.96
+Bezhalogeni jednožilni vodič H07Z-K 6mm2, sivi                                       10000    3  30000.00   7500.00
+Plosnata traka Fe/Zn 40 x 4.0mm, 1bunt~50kg~39m                                      12.56   20    251.20     62.80
+LED Downlight 30/3, okr.,bi.b., 30 LED, 3000K                                       619.23    3   1857.69    464.42
+HDMI 1.4 kabel, 2xHDMI19 tipA muški, pozlaćeni kontakti, 2m                          48.54   18    873.72    218.43
+Strujni trafo, 500/5A 30X10                                                         101.91   23   2343.93    585.98
+Tina četvrtasti LED 20W, 1600lm, 3000K, IP54, bijele boje                           517.18    6   3103.08    775.77
+UPS GENIO Flex Plus Tower 1100VA 740W 4min 1f/1f, Line-Int.                        3231.12   18  58160.16  14540.04
+
+                                                                                                         ----------
+UKUPNO                                                                                                     974656.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

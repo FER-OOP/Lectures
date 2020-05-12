@@ -1,0 +1,18 @@
+Račun br. 397946
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Držač za kabelske kanale, univerzalni                                                 4861   12  58332.00  14583.00
+7306M/W/50, LED MODUL tople bijele boje, 6w CREE 50 °                                52.03    9    468.27    117.07
+Montažna ploča sa pregradom UP2 220x430x15mm                                          4172   21  87612.00  21903.00
+Small Connect, priključna stezaljka 10mm² za BS990171--                               4230   27 114210.00  28552.50
+Kabel LiYCY 5x0,14                                                                   10000    7  70000.00  17500.00
+Kompaktni prekidač snage tip AE, 3P, 150kA, 630A+izvl. modul                       9920.01   21 208320.20  52080.05
+
+                                                                                                         ----------
+UKUPNO                                                                                                    538942.44
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,23 @@
+Račun br. 127811
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+SQUARE POLE 30, E27 max. 20W, brušeni aluminij                                     1433.11   22  31528.42   7882.11
+Standardna bakrena sabirnica,50x10mm |1000A| 2.4mpokositrena                          4835   16  77360.00  19340.00
+Flyer ulična svjetiljka, asim. 40 LED 94W 8840lm 4000K                             5030.39   28 140850.92  35212.73
+L-SE umetak DM 1.2 Deep 1x32W LED 3150lm/840                                       1222.47   28  34229.16   8557.29
+Savitljiva cijev (lagana) M32, 320N, 25m, HF, svijelto-siva                        1347.75   21  28302.75   7075.69
+Ben-I-R LED 3W 3000K 150lm, IP54, aluminij                                           439.8    5   2199.00    549.75
+Kai-M 54 LED 104W 11935lm, 4000K ulič.opt.LT-M,IP66, RAL9006                       6316.51   14  88431.14  22107.79
+Redna stezaljka (vijčani priključak) 16mm², tip CBC, siva                             9.07    8     72.56     18.14
+Newton asimetrični reflektor 18 LED 149W 4000K, IP66, antr.                        6837.19   24 164092.56  41023.14
+"Napajanje za WC set ""Sigma"", 24V DC, 0.5A, uzidna montaža"                       581.39   27  15697.53   3924.38
+Zaštitni prekidač, C karakteristika, 50A, 1-polni, 10kA                               51.3    7    359.10     89.78
+
+                                                                                                         ----------
+UKUPNO                                                                                                     583123.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

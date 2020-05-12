@@ -1,0 +1,26 @@
+Račun br. 236060
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"Upravljački modul opće rasvjete za CPS MIX- mod; 4-200VA"                          383.02    7   2681.14    670.28
+Signalni fleksibilni kabel YSLCY-JZ 3x 1 sivi                                       806.56   22  17744.32   4436.08
+Kompenzacija  LSFC 14% 75/6,25kvar 600x2000x400mm Sam.orm.                        44695.56   22 983302.31 245825.59
+Izolirani kabelski tuljak, crveni, 35.0mm²/25mm                                       1.33   24     31.92      7.98
+Podložna pločica, DIN522, pocinčana, 6,4x20x1,25mm                                   32.71   26    850.46    212.61
+ALTRA DICE II, srebrne boje/crne b.                                                 619.23   12   7430.76   1857.69
+Kabel LiYCY 2x0,5                                                                   434.14   24  10419.36   2604.84
+Element za vertikalno povezivanje                                                    13.16    9    118.44     29.61
+Okvir za ISO ormare tip VMS                                                          79.43    8    635.44    158.86
+"Zasun, crveni, za plastične prednje ploče, ""Celanex"""                               1.7    6     10.20      2.55
+Gumena uvodnica za kabel, crne boje 12mm/10m                                          1.61   22     35.42      8.86
+BIG THEO up/down OUT ES111 zidna svj.,četvrt.,bi.b,max.2x75W                        875.55    7   6128.85   1532.21
+Sutil Quadro LED 30W, 3000K, 1800lm, 120°, IP40, bijele boje                         439.8   29  12754.20   3188.55
+Stezaljka ECB zelena, dovod: 2x25mm² | odvod: 14x4mm²                                89.67    3    269.01     67.25
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1042411.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

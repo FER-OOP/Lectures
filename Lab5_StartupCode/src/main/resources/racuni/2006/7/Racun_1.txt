@@ -1,0 +1,23 @@
+Račun br. 797646
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"Opt. razdjelnik, 16 niti,LC,50/125µm OM3, izvlačivi,19"",1U"                       826.38    8   6611.04   1652.76
+Redna stezaljka (vijčani priključak) 150mm², bež                                    141.47   18   2546.46    636.61
+KALU TRACK QPAR111 svjetiljka,bijela, uklj. 3-f adapter                             500.12    8   4000.96   1000.24
+Svjetleće tipkalo s plosnatom tipkom, plavo                                          28.62   22    629.64    157.41
+AFDD, series Lisa, C 13 A, 2-pole, 30 mA, type A, 10 kA                            1075.59   23  24738.57   6184.64
+Direktni spoj za LED trake, 10 kom.                                                  50.01    9    450.09    112.52
+Compact passage, senzor pristunosti 24V, p/ž, stropni, crni                        2859.97   17  48619.49  12154.87
+Scott-II-R LED 1,5W, IP54, sive boje                                                 69.27   22   1523.94    380.98
+Plafonjera MALLE LED 19W 1800lm/840 ECG, bijela                                     669.79   24  16074.96   4018.74
+LUNA DISPLAY, srebrne boje, GU10 , max. 75W, sa krom držačem                        578.81   23  13312.63   3328.16
+Lano četvrtasti LED M600, 48W, 6000K, 3800lm, IP20,1200mA,bb                        530.36    2   1060.72    265.18
+
+                                                                                                         ----------
+UKUPNO                                                                                                     119568.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

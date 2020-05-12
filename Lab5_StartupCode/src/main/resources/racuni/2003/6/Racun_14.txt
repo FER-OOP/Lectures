@@ -1,0 +1,20 @@
+Račun br. 351200
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Držač za kabelske kanale SIGNA                                                        4866   26 126516.00  31629.00
+Adapter za DIN nosač                                                                 24.79   18    446.22    111.56
+Metalhalogena žarulja HIT-DE Uvr 250W/842 Fc2                                       301.58   24   7237.92   1809.48
+Podnaponski isklopnik za MC1, 380-440V AC, sa 3m kabela                             429.03    8   3432.24    858.06
+Bath četvrtasti Medium LED 600mm, IP44, krom                                        377.96   21   7937.16   1984.29
+Sander-I-R/A2 LED 35W 4000K 3350lm, IP20, sive boje                                 848.68    6   5092.08   1273.02
+Sitra 360 WL zidna svjetiljka, antracit, GX53, max. 9W                              500.12   17   8502.04   2125.51
+"Natpisna pločica za umetanje fi=28mm, prozirna, ""ZU"""                              3.09   24     74.16     18.54
+
+                                                                                                         ----------
+UKUPNO                                                                                                    159237.81
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

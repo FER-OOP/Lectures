@@ -1,0 +1,21 @@
+Račun br. 619860
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Signalni fleksibilni kabel YSLCY-OZ 3x 0,75 sivi                                     10000   15 150000.00  37500.00
+Ugradna svjetiljka SERH XTP T5 4x54W ECG M625, bijela                              1642.58   24  39421.92   9855.48
+Valo-R/A2 LED 45W 3000K 2950lm, IP20, crne boje                                     795.63    4   3182.52    795.63
+7914R/AL, Alu. podni ugradni profil 2m+3mm PC opal pok. IP67                        278.44   19   5290.36   1322.59
+Segon 175 TC-TEL2x26/32W ECG,175mm, ugradni downlighter                             310.89   28   8704.92   2176.23
+7918/W, Bijeli profil IP68 , 2m + PMMA opalni pokrov                                168.62   16   2697.92    674.48
+Zaštitni prekidač AMPARO 6kA, C 16A, 3P+N                                            95.31    5    476.55    119.14
+Ugradna svjetiljka SEO XTP T5 4x24W ECG IP54 M600, bijela                          1094.63   14  15324.82   3831.21
+LED žarulja Classic Klar 3W E14 140lm 2800K                                           80.2   25   2005.00    501.25
+
+                                                                                                         ----------
+UKUPNO                                                                                                     227104.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

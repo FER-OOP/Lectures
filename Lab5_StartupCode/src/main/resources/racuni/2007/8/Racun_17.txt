@@ -1,0 +1,27 @@
+Račun br. 627188
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+KNX Teretna sklopka HM,3x16A                                                       1463.55    1   1463.55    365.89
+Panik svjetiljka VM LED 230VAC, MIX mod, montaža strop.                            2151.31    7  15059.17   3764.79
+LED MEGAMAN PAR16 4,5W GU10 230V 2800K 35° 600 Candela                              144.08   20   2881.60    720.40
+Neizolirana Cu stopica 4-6mm², M8                                                     0.78   20     15.60      3.90
+Okvir 3x2M line, smaragdni                                                            81.9   18   1474.20    368.55
+Instal. umetak 2-39L komplet 13 IR prednja pl. plastika                            2264.46   25  56611.50  14152.88
+Podesiva spojnica za 1-faznu 3-f šinu, srebrne boje                                  87.01   22   1914.22    478.56
+Prirubnica za uvod kabela, Š=620mm                                                  176.59   11   1942.49    485.62
+Kabel H05VVC4V5-K 7x1 sivi                                                           10000   29 290000.00  72500.00
+Gumeni savitljivi kabel NSSHöu-J 3x70/35, žuti                                       10000   21 210000.00  52500.00
+"19"" fiksna polica do maks. 150kg, d=850mm, 1U, RAL7035"                           286.45    5   1432.25    358.06
+7512D/D/30, LED CREE 12x1w 30d DL 350mA, dimabilna                                  123.67   29   3586.43    896.61
+Strujni trafo, 800/5A 40X10                                                         152.77   15   2291.55    572.89
+FN Zaštita od munje (ožičena kutija), 1000VDC, za 1MPPT                            1991.96    1   1991.96    497.99
+Kabel H05VV5-F 3x0,75 sivi                                                           10000   10 100000.00  25000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     690664.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,32 @@
+Račun br. 127743
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Sklopnik vel. 0 | 4kW (9A) [AC-3] | 24VDC                                           225.01   30   6750.30   1687.57
+Kabel H05VV-F (PP/J) 5x2,5mm2, svijetlo-sivi, 50m                                    10000   11 110000.00  27500.00
+PROFUNO LED Spot, 3000K, 30°, uklj. 3F adapter, srebrne boje                       1250.97   15  18764.55   4691.14
+Podnožje, prednji dio, za razdjelnike 5A../.                                        318.75   16   5100.00   1275.00
+Napajanje, 310W, 230VAC/26VDC, 12A, SELV, 240x120x60mm                             6723.06    1   6723.06   1680.77
+VANDALCOM audio modul, bez tipki                                                    352.57    9   3173.13    793.28
+Panik svjetiljka KX FLUO 8W, CPS sustav,MIX mod,univerzalna                        1840.27   17  31284.59   7821.15
+SAT kaskadna jedinica za 5 IN 18 OUT pasivna za HSATS5xxKA                          1463.8   22  32203.60   8050.90
+9S07S/D/E, 7W E27 DL                                                                  5.74   18    103.32     25.83
+Pokrov za elektronski sobni termostat, bijeli                                       390.31   27  10538.37   2634.59
+Linda LED HS 1x30W, 4000K, 4493lm                                                  1123.73   20  22474.60   5618.65
+SAT multiswitch 17 IN 8 OUT za quattro/quad LNB,nap. do 10m                        3171.56    1   3171.56    792.89
+Joystick, komplet, 2 položaja sa po 1 N/O, s povratom, okom.                         229.1   17   3894.70    973.68
+Kabel H05VV-F (PP/J) 4x1mm2, svijetlo-sivi, 100m                                     10000   20 200000.00  50000.00
+XL-T-Shirt  cotton-jersey                                                           104.86   14   1468.04    367.01
+KADUX 1 ES111 Downlight, četvrtasti, bijele boje, max. 50W                          500.12   14   7001.68   1750.42
+"19"" metalni prsten za okomito vođenje kabela 40x40"                                21.23   19    403.37    100.84
+Nadgradna svjetiljka SAO ECO T8 1x36W CCG ind, bijela                               367.05   18   6606.90   1651.72
+Piktogramska plexi ploča za lampu KB, komplet. 4 piktograma                         325.95    5   1629.75    407.44
+Kabel H05VV-F (PP/J) 7x1,5mm2, svijetlo-sivi, 500m                                   10000   16 160000.00  40000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     631291.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

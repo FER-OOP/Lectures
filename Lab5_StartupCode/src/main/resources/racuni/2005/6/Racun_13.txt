@@ -1,0 +1,33 @@
+Račun br. 356311
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kabel YSLYQY-JZ 12x 1 prozirni                                                       10000    9  90000.00  22500.00
+Bezhalogeni kabel s el. funkc. do30 Min. (N)HXH-J4x16rmE30                           10000    1  10000.00   2500.00
+Ljepilo 640 - 80ml                                                                  107.48   17   1827.16    456.79
+Pribor za montažu parcijane MP u AS/KS ormare 600x600 (ŠxD)                         592.58    2   1185.16    296.29
+EUTRAC T-spoj desna, crne b.                                                        437.43    4   1749.72    437.43
+Montažni nosač bez perforacija (puni), čelični, duljina 3m                           15.68   22    344.96     86.24
+Prihvat sa centrirnim svrdlom za cilindr. pile HSS Bi-metal                         274.48   23   6313.04   1578.26
+Pločica + nosač 30x50mm, natpis: RUN                                                  8.93    5     44.65     11.16
+KALOS ASL D-ulič.optika 30+10LED,4000K 90W,antracit, 2 kr.                         5427.45   15  81411.75  20352.94
+Montažna šina MR 2x35-80 5x2,5mm²                                                   222.15    9   1999.35    499.84
+Nadgradna svjetiljka Torno 2 Plafo, E27, 2x18W IP65 antracit                        231.98   20   4639.60   1159.90
+LED 85-264V AC, bijeli, prednja montaža                                              52.68   14    737.52    184.38
+Elektronski termostat za podno grijanje, 10 - 50°C                                 1518.21    9  13663.89   3415.97
+IP44 nosač, prazan za 2 modula (SFA)(SFB)                                            73.65    9    662.85    165.71
+Pločica + nosač 30x50mm, natpis: OFF ON                                              10.06   20    201.20     50.30
+N/Ž inst. razdj. 4A-42, 14-redni, 630 ŠM, 2025x1030x250mm                          6645.64   10  66456.40  16614.10
+DASAR GX53 podna ugradna svjetiljka, okrugla                                        562.63   26  14628.38   3657.09
+"Natpisna pločica, ""ZU"", 12.5 x 28mm, natična"                                      3.09   24     74.16     18.54
+Kompaktni prekidač snage tip A, 4P, 150kA, 80A                                     1812.13   13  23557.69   5889.42
+E-TRAFO 05, 105VA, 12V                                                              237.21   21   4981.41   1245.35
+Grebenasta sklopka u kućištu, uvodnica M20, 1-0-2/1P/16A                            246.94   13   3210.22    802.55
+
+                                                                                                         ----------
+UKUPNO                                                                                                    327689.06
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

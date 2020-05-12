@@ -1,0 +1,24 @@
+Račun br. 1021031
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+3-fazni programabilni digitalni multimetar                                          884.43    5   4422.15   1105.54
+Sklopka 0-1, 16A, 1 N/O + 1 N/C, montaža na DIN                                      54.47    1     54.47     13.62
+Prespojni kabel RJ45/RJ45 ISDN, neoklopljeni, crni, 2.0m                              6.46   13     83.98     21.00
+Majica Store dugih rukava -X-large-                                                 255.48    3    766.44    191.61
+Zaštitni prekidač MB 18kA CL 100/4                                                  617.24    3   1851.72    462.93
+PRIORI FID sklopka 63-4-03/A, S izvedba, za fr. pretvarače                         1753.28   17  29805.76   7451.44
+RUSTY 70 LED četvrtasti vanjska svjetiljka 3000K IP55, rusty                       2246.83   24  53923.92  13480.98
+Kabel H05VVC4V5-K 12x0,75 sivi                                                       10000    1  10000.00   2500.00
+Priključnica prazna 80x80 za 2 modula (SFA/B), kosi izvod                            11.57   26    300.82     75.21
+AFDD, series Lisa, B 20 A, 2-pole, 30 mA, type A, 10 kA                            1118.51   12  13422.12   3355.53
+"19"" okvir (rack) jednodjelni 27U, 616x1365x600"                                  1107.49   29  32117.21   8029.30
+Piktogram Linda 11W strelica napored, vidljivost 20m                                 22.72   14    318.08     79.52
+
+                                                                                                         ----------
+UKUPNO                                                                                                    147066.66
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

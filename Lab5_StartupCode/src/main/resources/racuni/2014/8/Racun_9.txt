@@ -1,0 +1,16 @@
+Račun br. 524975
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Nadgradna svjetiljka SAO IP54 T5 4x24W ECG, bijela                                 1126.59   18  20278.62   5069.65
+Univerzalna stez. za lamelirane Cu sabirnice 3x20x1 -10x32x1                        110.78    5    553.90    138.48
+Vijak sa upuštenom glavom, za drvo, 4x40mm                                           20.42   25    510.50    127.63
+Elektronski transformator FN III, 12V, 150VA                                        155.78   11   1713.58    428.39
+
+                                                                                                         ----------
+UKUPNO                                                                                                      23056.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

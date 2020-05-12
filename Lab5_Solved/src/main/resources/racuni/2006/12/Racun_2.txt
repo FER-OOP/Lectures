@@ -1,0 +1,17 @@
+Račun br. 732512
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Marra LED traka 4,8W/m 60LEDs/m plava 24VDC IP68                                    346.53   27   9356.31   2339.08
+NEW TRIA, GU10 Downlight, okrugla, brušeni aluminij                                 167.94   12   2015.28    503.82
+Sklopni element za prednju montažu, N/O, utične stezaljke                            19.35   30    580.50    145.13
+9C03C/D/SE, 60 LED SMD DL 3W  E14                                                    10.64   14    148.96     37.24
+NEW TRIA MINI DL SQUARE, 3W, 3000K, 30°, crne boje                                  205.96    8   1647.68    411.92
+
+                                                                                                         ----------
+UKUPNO                                                                                                   13748.7295
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

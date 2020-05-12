@@ -1,0 +1,27 @@
+Račun br. 1097624
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zaštitni prekidač, B karakteristika, 50A, 1-polni+N, 10kA                           242.96    4    971.84    242.96
+Spojnica profila MFR & MFI                                                            51.6    7    361.20     90.30
+FLEXLED ROLL HIGH LUMEN 24V, 2m, 2700K                                              406.17   11   4467.87   1116.97
+Wago utična stezaljka za razvodne kutije, 3 x (0.5-2.5)mm²                             1.1   29     31.90      7.98
+Carl-R 70W G12, 230V, IP20, sive boje                                                177.4   19   3370.60    842.65
+Plosnati kabel, 8-žični,bijeli,za tel. prespojne kabele,100m                        224.79   30   6743.70   1685.92
+KVADRA 70M 1x28/54W DALI preklapajući uložak                                        962.77    7   6739.39   1684.85
+Sklopka MO 1M 16A 2p bez tipke na vijak                                               28.6   28    800.80    200.20
+Sklopka+LED, 16A, 230VAC/DC, 1 N/O + 1 N/C, montaža na DIN                            91.3   27   2465.10    616.28
+Senzor prisutnosti, 180°, 8m, p/ž, zidni, IP54, crni                               1333.14    1   1333.14    333.29
+Linijska svj. SERH 112 2x80W, ECG, bijele boje                                       578.5    3   1735.50    433.88
+Završni poklopac CLW ravni zatvoreni sa vijcima                                       51.6   22   1135.20    283.80
+Prespojni kabel RJ45 cat.5e oklopljen, PVC, plavi, 1.0m                               7.03    6     42.18     10.55
+Vartec modul varistor, VVM, TII, 255V/15kA                                           143.1   11   1574.10    393.53
+Montažni profil prema šir. i prema dub. AS/KS ormara, 500mm                         444.97    6   2669.82    667.46
+
+                                                                                                         ----------
+UKUPNO                                                                                                     34442.34
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

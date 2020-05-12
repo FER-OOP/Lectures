@@ -1,0 +1,20 @@
+Račun br. 216942
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Vrata, metalna, visoka za MODUL 160, 5x24 modula                                      4172    2   8344.00   2086.00
+Papirnata vrećica, veća                                                              18.23   23    419.29    104.82
+FI-blok 80A, 4-polni, 300mA, Tip A (Puls)                                          1366.18   28  38253.04   9563.26
+Nevil-Q LED 4x1W 6000K 240lm,dimabilna,350mA,IP20,aluminij                           77.21   27   2084.67    521.17
+A03VV-F 5x0,75mm2, svijetlo-sivi, 100m kolut                                         10000    8  80000.00  20000.00
+Tipka s ručicom,žuta,3 polož.,50°,lijevo s-desno bez povrata                         45.85    2     91.70     22.92
+Zaštitni prekidač, B karakteristika, 25A, 3-polni, 6kA                               87.36   27   2358.72    589.68
+Kabelski kanal 80X60 (VxŠ), 2m, perforirani, sivi, RAL7030                           45.85   12    550.20    137.55
+
+                                                                                                         ----------
+UKUPNO                                                                                                    132101.62
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,20 @@
+Račun br. 585548
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Bob-II-Q LED 17W 4000K 1100lm, IP20, sive boje                                      298.38   22   6564.36   1641.09
+Kompaktni prekidač snage tip A, 4P, 50kA, 200A/125A, red. N                        2749.54    4  10998.16   2749.54
+Metalhalogena žarulja HIT 1000W/D E40                                              1228.67   27  33174.09   8293.52
+P/Ž inst. razdj. 1U-28,9-redni,117ŠM,1380x380x250mm(VxŠxD)                          3284.8    7  22993.60   5748.40
+Kalos 10 LED 24W 1985lm, 4000K ulič.opt. LT-M,IP66, antracit                       3753.05   16  60048.80  15012.20
+IKALL metal slijepi modul                                                           445.59   22   9802.98   2450.74
+Poliester kućište 180x180x129mm, prozirni poklopac,IP66,sivo                        319.45    9   2875.05    718.76
+ARKTUR SQUARE LED ECO 194W 23800lm/840 ECG IP65 100°,sb                            4042.32    9  36380.88   9095.22
+
+                                                                                                         ----------
+UKUPNO                                                                                                    182837.92
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

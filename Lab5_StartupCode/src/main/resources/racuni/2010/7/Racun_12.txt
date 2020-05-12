@@ -1,0 +1,28 @@
+Račun br. 787972
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kabel H03VV-F (PP/L) 4x0,75mm2, bijeli, 100m kolut                                  306.63    8   2453.04    613.26
+CARISO 2, LED zidna svjetiljka, 7,5W LED, 3000K, cb/ mesing                        1000.75   17  17012.75   4253.19
+"Natpisna pločica za umetanje fi=28mm, prozirna, ""AUS"""                             3.09    4     12.36      3.09
+Stezaljke za širinski produžetak, za 4P MC3, 500A, za traku                         592.62   15   8889.30   2222.32
+Natični (djeljivi) strujni trafo, 150/5A, 30x20mm                                   747.36    3   2242.08    560.52
+Nadgradna downlight svjetiljka ARM 291 2x13W CCG TC-D,bijela                        323.14   23   7432.22   1858.06
+PIPOFLEX zidna svj., crvena b., 4W, 3000K                                           500.12   20  10002.40   2500.60
+Pokrov za elektronski sobni termostat, bijeli                                       390.31   22   8586.82   2146.71
+Shelf Strip konektor 90°                                                             14.69   28    411.32    102.83
+PlanoCentro 101, senzor prisutnosti, stropni, bijeli                               3432.36   23  78944.28  19736.07
+Halogena žarulja QR-C 51 ALU 50W WFL 36° GU 5,3                                      17.68   28    495.04    123.76
+Kabel EYY-JZ (PP00-Y) 24x1,5 RE                                                    4568.16   30 137044.81  34261.20
+Janine-I-Q 50W GU5,3 MR16, 12V, IP20, aluminij                                      165.74   22   3646.28    911.57
+Reflektor 12° za CMH Spot                                                           115.26   13   1498.38    374.60
+LED DOWNUNDER PROFIL, srebrne boje, 2m                                              625.15   18  11252.70   2813.18
+Rezervni filter za ventilator 202x202mm, IP55 (pak=5 kom.)                          420.27   24  10086.48   2521.62
+
+                                                                                                         ----------
+UKUPNO                                                                                                    300010.25
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

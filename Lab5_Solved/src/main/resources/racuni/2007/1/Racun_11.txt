@@ -1,0 +1,16 @@
+Račun br. 846403
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LED sustav utikača Mini - produžni kabel RGB 100cm IP20                              83.66   28   2342.48    585.62
+Ugradna svjetiljka SERH 2 A1 L1 T5 4x24W, ECG, bijela                                 8534   19 162146.00  40536.50
+Finožični PVC-om izolirani vodič H07V-K (P/F) 25mm2, crveni                          10000    6  60000.00  15000.00
+Halogena žarulja QT12 25W IRC GY6,35 Energysaver                                     32.88   14    460.32    115.08
+
+                                                                                                         ----------
+UKUPNO                                                                                                     224948.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

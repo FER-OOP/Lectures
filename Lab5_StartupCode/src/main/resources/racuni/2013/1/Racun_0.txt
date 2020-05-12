@@ -1,0 +1,21 @@
+Račun br. 992268
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kompaktni prekidač snage tip A, 4P/50A/25kA, MC1                                   1103.59   18  19864.62   4966.15
+Stropna svjetiljka Lugno Round, GU10, 35W, IP54, aluminij                           361.06   14   5054.84   1263.71
+Fluo cijev T16 35W/865 G5                                                            33.97   28    951.16    237.79
+ENOLA_B SPOT single, zidna i stropna svjetiljka,GU10,crne b.                        500.12   20  10002.40   2500.60
+PEYOTE 17cm 360° 8x1W LED, 40° 3000K antracit                                      2289.96   25  57249.00  14312.25
+Kompaktni prekidač snage tip ME, 3P, 150kA, 350A+izvl. modul                          6244   15  93660.00  23415.00
+EURO SPOT ES111, okr., crne boje, GU10, max. 75W,3-f adapter                        437.43   21   9186.03   2296.51
+7304G/D/30, LED 3w GU10 DL 30 °                                                         25   28    700.00    175.00
+Finožični PVC-om izolirani vodič H07V-K (P/F) 25mm2, crveni                          10000   18 180000.00  45000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    376668.06
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

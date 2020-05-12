@@ -1,0 +1,17 @@
+Račun br. 803522
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kopče za montažu za DELF C PRO, 10 komada, 45°                                       50.01   29   1450.29    362.57
+EUTRAC Nap.stezaljka,lijeva, crne b.                                                  95.8    8    766.40    191.60
+Digitalni pozivni modul/šifrarnik+dig. imenik, crni, IKALL                            4690   30 140700.00  35175.00
+Optički prespojni kabel duplex, LC/SC, 50/125µm OM3, 10m                            144.78   20   2895.60    723.90
+L-SE sjajni odsijač R12 T5 AL 28/54W duboki, aluminij                                81.44    4    325.76     81.44
+
+                                                                                                         ----------
+UKUPNO                                                                                                    146138.05
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

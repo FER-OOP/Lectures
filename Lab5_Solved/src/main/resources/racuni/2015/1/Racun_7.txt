@@ -1,0 +1,30 @@
+Račun br. 786048
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zaštitni prekidač, C karakteristika, 10A, 2-polni, 10kA                             101.46   28   2840.88    710.22
+FLEXLED ROLL HIGH LUMEN 24V, 2m, 3000K                                              406.17    9   3655.53    913.88
+Strugač za led                                                                       44.52   18    801.36    200.34
+Kabel H05VV-F (PP/J) 5x2,5mm2, svijetlo-sivi, 500m                                   10000   13 130000.00  32500.00
+Bakrena sabirnica, TT profil, 1250A,duljina 2.4m,pokositrena                       2113.97   10  21139.70   5284.92
+Kabel H05VV5-F 12x1,5 sivi                                                           10000    3  30000.00   7500.00
+Kabel kit za UPS - AS400                                                            967.89   27  26133.03   6533.26
+IP2x zaštita od dodira, za 4-polne MC1 (montaža na MC196741)                         38.48   18    692.64    173.16
+N/Ž kutija IP20 za senzore PD-C360 i MD-C360                                        139.68    9   1257.12    314.28
+Prespojni kabel RJ45 cat.5e oklopljen, PVC, sivi, 7.0m                               30.94    2     61.88     15.47
+NEW TRIA LED DL okrugli Set, 12W, 2700K, 38°, bijele boje                           875.55   29  25390.95   6347.74
+Finožični PVC-om izolirani vodič H07V-K (P/F) 4mm2, smeđi                           313.72    7   2196.04    549.01
+Instalacijski sklopnik 25A | 2 N/C | 230V AC                                         123.5    1    123.50     30.88
+Krović za zaštitu WSM ormara od kiše, za ormar 400X210 (ŠxD)                          4066   24  97584.00  24396.00
+EURO SPOT MR16, sa 3-faznim adapterom, bb                                           562.36   30  16870.80   4217.70
+Instal. umetak 1-24K komplet 8 IR prednja pl. čelik                                1317.58    9  11858.22   2964.55
+Alexa-I-60-Q 15W E27, 100-240V, IP54, aluminij                                      769.44   20  15388.80   3847.20
+Prespojni kabel RJ45 cat.5e oklopljen, PVC, crveni, 7.0m                             30.94   16    495.04    123.76
+
+                                                                                                         ----------
+UKUPNO                                                                                                     386489.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

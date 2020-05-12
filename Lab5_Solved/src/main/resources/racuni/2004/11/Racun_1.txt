@@ -1,0 +1,20 @@
+Račun br. 377847
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Držač releja serije MT                                                                5.85    4     23.40      5.85
+1-polna sklopka, kompletna, 10A, na oprugu, bijela                                      20   28    560.00    140.00
+Bimetalni relej, područje podešenja 0.40-0.60A                                      214.32   29   6215.28   1553.82
+Mikser za SB color + napajanje (širine 8 modula)                                   2267.93    7  15875.51   3968.88
+2-struki okvir 55x55mm, antracit                                                      2414    6  14484.00   3621.00
+Prednja ploča, plastična, slijepa, 5B13K                                              4160   30 124800.00  31200.00
+Samostojeći ormar, 2-vrata, 1800x1600x400 (VxŠxD), RAL 7035                        6431.23   16 102899.68  25724.92
+Prespojni kabel RJ45 cat.6 oklop.,s pregibnicama,crveni,0,5m                          9.42   18    169.56     42.39
+
+                                                                                                         ----------
+UKUPNO                                                                                                    265027.44
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

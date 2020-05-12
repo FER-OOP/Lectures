@@ -1,0 +1,15 @@
+Račun br. 907763
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Priključna kutija, čelik, 200x300x80 (VxŠxD), IP66, RAL7035                         181.14   26   4709.64   1177.41
+KC sigurnosna svjetiljka 8W/3h/230VAC taster, zidna                                 594.25   25  14856.25   3714.06
+Telekomunikacijski kabel YYSCH 6x0,6mm2, boja slonovače                              10000    1  10000.00   2500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     29565.89
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

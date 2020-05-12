@@ -1,0 +1,21 @@
+Račun br. 726794
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Finožični PVC-om izolirani vodič H05V-K (P/F) 0,5mm2, crni                           55.66    2    111.32     27.83
+Razvodna kutija za šuplje stijenke, Ø120, s pokl., naranč.                         5181.78   20 103635.59  25908.90
+COLOR CONTROL, RGBW SLAVE 12V/24V                                                   374.92   22   8248.24   2062.06
+Natpisna pločica 18x27mm, aluminijska, prazna                                         2.04   20     40.80     10.20
+Nazidni okvir s vratima za Modul 2000 | 4A-42 | dubina 400mm                       4923.66   14  68931.24  17232.81
+AIXLIGHT R2 četvrt., QRB111, zaobljena,bi.b., G53,max.4x50W                        2497.05    5  12485.25   3121.31
+Okvir za ugradnju u strop za lampu tip KB                                           112.23   25   2805.75    701.44
+7836T/W, Trokutasti profil 2m za 7820/7830, bijele boje                             219.81    2    439.62    109.91
+Utičnica šuko sa zaš. kon.+pokl+ dječ. zaš. na vijak bijela                          22.35   15    335.25     83.81
+
+                                                                                                         ----------
+UKUPNO                                                                                                    197033.06
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

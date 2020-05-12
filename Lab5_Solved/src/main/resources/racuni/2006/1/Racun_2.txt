@@ -1,0 +1,15 @@
+Račun br. 791124
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+7308/W/60, WHITE COB LED 8w WW 60 ° 12v AC/DC                                       109.99   16   1759.84    439.96
+RUSTY SLOT 80 ras.stupić asimetr., E27 max.11W,zahrđani čeli                       1871.23   21  39295.83   9823.96
+FID sklopka AMPARO, 40-4-003/AC, G izvedba, 10kA                                    495.32    6   2971.92    742.98
+
+                                                                                                         ----------
+UKUPNO                                                                                                    44027.586
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

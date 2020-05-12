@@ -1,0 +1,29 @@
+Račun br. 661628
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+E27 LED tube žarulja, 3000K, za vanjske svjetiljke                                  124.69   22   2743.18    685.80
+Samostojeći ormar, 1-vrata, 1800x800x600 (VxŠxD), RAL 7035                         3901.74   11  42919.14  10729.79
+Telekomunikacijski kabel vodonepropusan F-2YA2Y 100x2x0,6                            10000    7  70000.00  17500.00
+PE stezaljka sa 7 odvoda                                                             11.71   16    187.36     46.84
+SDL PRO 70, HIT-DE 70W R7s, sa 3-faznim adapterom,bb                               1125.94   15  16889.10   4222.27
+"3-struki okvir ""Riva"", alu efekt"                                                104.88   19   1992.72    498.18
+Teretna sklopka, rastavljač (izolator), AMPARO, 63A, 1P                              38.22   25    955.50    238.88
+Bočni nosač pokrova SI013140--, sustav 60mm Compact                                  31.47   25    786.75    196.69
+"Opt. razdjelnik,24 niti, ST,50/125µm OM2, izvlačivi,19"",1U"                      1449.28   30  43478.40  10869.60
+Rapeater za Wireless Kontrol (230VAC)                                              1280.61   14  17928.54   4482.13
+RP print relej, 2C/O, 8A, 12VDC, raster 5mm                                          22.44   10    224.40     56.10
+X- spojnica za 1-faznu šinu, nadgradna, srebrna b.                                  124.52   16   1992.32    498.08
+Zakretna tipka / 40° / sa povratom / dva položaja                                    59.18    5    295.90     73.97
+Električarski odvijač, križni, PH-2x100mm, 1000V, izoliran                           43.92   26   1141.92    285.48
+Rozeta, 1 izlaz, okrugla, krom                                                      124.52   25   3113.00    778.25
+Bezhal. kabel poboljšanih svoj.za sl. požara N2XH-J 1x25rm                           10000    8  80000.00  20000.00
+Vezica 100 x 2.5mm, natural (pak.=100 kom.)                                           4.25    1      4.25      1.06
+
+                                                                                                         ----------
+UKUPNO                                                                                                     284652.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

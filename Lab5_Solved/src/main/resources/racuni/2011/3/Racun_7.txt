@@ -1,0 +1,27 @@
+Račun br. 1054518
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+D02 rastavna sklopka TYTAN T, 3-polna + pom. kontakt, 63A                           470.76   27  12710.52   3177.63
+Motorna zaštitna sklopka, 3-polna | 70.0 - 90.0A, vel.S3                            864.93   21  18163.53   4540.88
+LED RF WiFi kontroler Touch RGBW - 4 zone - bijele boje                             836.68   12  10040.16   2510.04
+Industrijska svjetiljka SCUP PC 2x42W, TC-TEL, ECG, siva                              8542   17 145214.00  36303.50
+Utičnica za zvučnike sa stereo priklj., umetak,vijčane stez.                        179.42   27   4844.34   1211.08
+Završni poklopac TBU ravni sa rupom                                                  83.77   19   1591.63    397.91
+Podes. spoj za Rosen Lite i Glu-Trax šine                                            68.25   22   1501.50    375.38
+Kabel LiYCY 7x0,34                                                                  912.82    5   4564.10   1141.03
+Bakrena sabirnica, TTT profil, 2500A, duljina 2.4m,pocinčana                       5223.26    7  36562.82   9140.71
+LED napajanje 24V/100W IP67                                                         331.21   10   3312.10    828.02
+Kondenzatorski sklopnik | 100 kVAr | 220-240V AC                                   1739.46   28  48704.88  12176.22
+OTOS PL, TC-D 18W G24d-2, antracit                                                  860.31   17  14625.27   3656.32
+Ugradna svjetiljka SERH 2 A8 L1 T5 1x28W, ECG, M625, bijela                           8534   28 238952.00  59738.00
+LED žarulja, mat, E27, dim., 11,5W, 2700K, 806lm                                     66.23   15    993.45    248.36
+Kabel za zvučnike LFZ-XY 2x10mm2, prozirni                                           10000    2  20000.00   5000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     561780.3
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

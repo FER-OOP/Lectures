@@ -1,0 +1,28 @@
+Račun br. 1086928
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Marra LED traka 19,2W/m 4000K 1300lm/m, dimabilna, IP20                             879.43    4   3517.72    879.43
+Nazidni okvir s vratima za Modul 2000 | 4A-45 | dubina 250mm                       3572.07   24  85729.68  21432.42
+Signalna svjetiljka, bijela                                                           7.98   23    183.54     45.88
+Ugradna svjetiljka SERH 2 A8 L1 T5 2x14W, ECG, bijela                               453.77    2    907.54    226.88
+EURO SPOT ECG 35, 15°crna G12,35W,uklj. 3f.adapter                                  938.06   21  19699.26   4924.81
+Tipka sa simbolom ventilatora, svjetleća, bijela                                     26.74    1     26.74      6.68
+Metalhalogena žarulja HIE 250W/N/SI E40 FS1                                         201.05    6   1206.30    301.58
+LYNAH LED ovjesna svjetiljka, 4x10W, 3000K, quad, crne boje                        3122.88   27  84317.76  21079.44
+FLOODI (RF) 30W reflektor, RGB, 130°, IP65, srebrnosiva boja                       2497.05    4   9988.20   2497.05
+FID sklopka 63-4-03/A (puls), 6kA                                                      588    6   3528.00    882.00
+Lima-R/A2 70W G12, 230V, IP20, brušeni krom                                          17.74    8    141.92     35.48
+BACCO 70 podna svjetiljka, antracit, E27                                           1125.94   24  27022.56   6755.64
+Kabel H05VV-F (PP/J) 7x1mm2 svijetlo-sivi, 100m                                      10000    5  50000.00  12500.00
+38000/AL, spojnica za 38128V i 38135V                                                18.24   27    492.48    123.12
+KALU 2 QPAR stropna svj., brušeni alum.,ES111, max. 2x75W                           938.06   10   9380.60   2345.15
+"Opt. razdjelnik,24 niti, FC,50/125µm OM2, izvlačivi,19"",1U"                      2026.96   11  22296.56   5574.14
+
+                                                                                                         ----------
+UKUPNO                                                                                                    318438.84
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

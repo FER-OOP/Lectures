@@ -1,0 +1,28 @@
+Račun br. 575044
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"Montažni nosači za 19"" okvir za ormare 1000 mm dubine, par"                       125.18    5    625.90    156.48
+LED HORN 9W, srebrna, LED topla b.                                                  453.92    1    453.92    113.48
+7306LGD/W/38, 5LED 5,8w GU10 WW 38 ° dimabilna 230v                                  66.23   12    794.76    198.69
+Ugradna svjetiljka SERH 2 T8 2x18W ECG M625, bijela                                    334   27   9018.00   2254.50
+Ispravljač, 1-fazni | 230-400/24VDC | 1.5A                                           546.5   29  15848.50   3962.13
+Višežični PVC-om izolirani vodič H07V-R (P/M) 16mm2, plavi                           10000   27 270000.00  67500.00
+Matica M40x1.5, metrička, poliamid                                                    2.84   19     53.96     13.49
+PE stezaljka sa 7 odvoda, izolirana                                                  11.71   11    128.81     32.20
+Unutarnji kut za kanal SIGNA 70/110 RAL 9010                                        188.19    6   1129.14    282.29
+Luxa kutnik crni                                                                     36.77   30   1103.10    275.77
+Ugradni downl. SEGON LED 18W ED 1900lm/830 MAT IP44 70°,bb                          485.13   13   6306.69   1576.67
+Devin-Q 2x26W G24q-3, 230V, IP20, sive boje                                          19.59   24    470.16    117.54
+UPS AVARA Multi 30kVA 27KW 8min, 3F/3F/Online veliko kučište                      72124.41   261875234.50 468808.66
+E27, 23W, štedna žarulja, spiralna, 2700K                                            58.79   10    587.90    146.98
+Punto-F LED, 7W, 3000K, 462lm, IP44, aluminij                                       238.74   17   4058.58   1014.65
+Shelf Strip konektor                                                                 14.69    5     73.45     18.36
+
+                                                                                                         ----------
+UKUPNO                                                                                                    2185887.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,22 @@
+Račun br. 182802
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Relej 2 C/O |10A | 115VAC                                                            65.69   30   1970.70    492.68
+Sklopnik vel.2 | 4P | AC1 60A/690V | 24VDC                                          780.67   27  21078.09   5269.52
+LS-FI (KZS), C/16A/30mA, 1P+N, Tip AC, 10kA                                         309.93   26   8058.18   2014.54
+"Opt. razdjelnik, 12 niti,LC,9/125µm OS2, izvlačivi,19"",1U"                        693.87   26  18040.62   4510.15
+Termostat za grijač, 0-60°C, 1 N/C kontakt, IP20                                     90.73    7    635.11    158.78
+Distribucijski blok, 4P, 125A, po polu: 2x35mm² | 10x16mm²                          157.33   16   2517.28    629.32
+Motorna zaštitna sklopka, 3-polna | 1.60 - 2.50A                                    233.61   21   4905.81   1226.45
+Montažna ploča za IP54, 5A-42                                                         4160   27 112320.00  28080.00
+Kompaktni prekidač snage tip A, 3P/63A/50kA, MC1                                    768.86   18  13839.48   3459.87
+Kada za brojilo, 5 ploča za brojilo u jednom redu, 3-reda                          2108.19   21  44271.99  11068.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    227637.25
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

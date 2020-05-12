@@ -1,0 +1,33 @@
+Račun br. 820649
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Sklopnik vel. 3 | 30kW (65A) [AC-3] | 24VAC, 50Hz                                   739.58   28  20708.24   5177.06
+MD 360/8 senzor pokreta, bijeli                                                     863.79   24  20730.96   5182.74
+Motorna zaštitna sklopka, 3-polna | 40.0 - 50.0A, vel.S2                            707.04    7   4949.28   1237.32
+Nadgradna downlight svj. ARM 294 2x18W ECG TC-DEL, bijela                            303.6    8   2428.80    607.20
+LED S14s-cijev 8W 500lm 2700K 500mm                                                 198.57    1    198.57     49.64
+Mehanička blokada za motorni pogon, za MC2                                         1752.51   18  31545.18   7886.29
+"Stezaljka ""A"" 1P, dovod 25mm²|odvodi: 1 x (4x16)"                                 45.91   25   1147.75    286.94
+Ugradna svjetiljka SEP ECO T8 4x18W ECG M600, bijela                                281.26   23   6468.98   1617.25
+Kompenzacija  LSK 14% 68,75/6,25kvar 600x1250x300mm zidni or                      30678.81   30 920364.31 230091.09
+Plafonjera SLAVO 260 9W 800lm/840 ECG, bijela                                       338.84   11   3727.24    931.81
+Ina-R/A1 LED 30W 3000K 2100lm, IP20, bijele boje                                    503.83    8   4030.64   1007.66
+NEW TRIA LED DISK,stropna ugr.arm.,okrugla,sb,2700K,35°                             938.06   14  13132.84   3283.21
+Niski poklopac za stropnu montažu za KW lampu, opal                                   51.7    5    258.50     64.63
+Montažna ploča za kućište C - 238x238mm                                              50.08   26   1302.08    325.52
+P/Ž razdjelnik, KVM, 3-redni, 36+6 modula, bijeli, komplet                          503.43   14   7048.02   1762.01
+7315G/W/45, LED R111 GU10 15w WW 45 ° 230v                                          102.89   19   1954.91    488.73
+Produženi priključak, 2 otvora, za 3P MC4, do 1400A                                 855.65   23  19679.95   4919.99
+"19"" napojna letva,6xshuko+prenap. zašt. i prekidač,crna,alu"                         246    4    984.00    246.00
+A03VV-F 3x1mm2, crni, 100m kolut                                                     10000    4  40000.00  10000.00
+Teretna sklopka, 4P, 800A, opcija: daljinski isklop                                9796.28   29 284092.13  71023.03
+Linijska svj. SERH-LL 112, završni profil,  2x80W, ECG, bb                           635.9   28  17805.20   4451.30
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1402557.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

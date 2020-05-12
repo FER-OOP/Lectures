@@ -1,0 +1,33 @@
+Račun br. 1071677
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Senzor prisut. stropni,theRonda S360-101,Ø9m,2kanala,siv,n/ž                        918.06   27  24787.62   6196.90
+Kompaktni prekidač snage tip AE, 4P, 50kA, 630A                                     7629.1    9  68661.90  17165.47
+MD 180i/R, P/Ž, IP20, senzor + javljač pokreta, relej                               828.09    1    828.09    207.02
+Zaštitni prekidač AMPARO 6kA, B 10A, 2-polni                                         55.46   25   1386.50    346.63
+DASAR LED četvrtasti podna ugradna svjetiljka,28W,4000K,inox                       2058.94   19  39119.86   9779.96
+LED Downlight 95 - IP43 | CRI/RA 97 (podesiv) topla bijela                           447.6    4   1790.40    447.60
+LED traka 72 CLW, Ra=90+ 15,8W/m, 1015lm/m,24VDC IP44, l=5m                        1306.36   28  36578.08   9144.52
+Otvoreni prekidač, 4P, 55kA, 1250A, izvl., vod. str. priklj.                      30672.17   13 398738.22  99684.55
+Voltmetar, 96x96mm, 500V AC                                                         125.58   27   3390.66    847.67
+UPS GENIO MaxiGreen 20kVA/18kW                                                    44893.25   20 897865.00 224466.27
+Mura-II-17-R LED 1W 3000K, IP54, aluminij                                           131.95   19   2507.05    626.76
+Nadgradna svjetiljka SAO ECO T8 2x36W ECG, bijela                                   345.17   17   5867.89   1466.97
+SITRA LED zidna svj., okrugla, srebrne boje, 6x1W LED,tbb                           938.06    1    938.06    234.51
+PLASTRA SQUARE zidna svj., četvr., bijela b., 48 LED, 3000K                        1188.46    6   7130.76   1782.69
+AMPARO 6 tipski kućni ormar, 3-redni, uzidni                                       1356.73   18  24421.14   6105.29
+Talos Square LED 48W, 3000K, 2810lm, 1200mA, IP20, bijele b.                        762.34   22  16771.48   4192.87
+Punto-F MR16 Spot, GU5,3, 50W, IP20, 12V, bijela                                      15.2   22    334.40     83.60
+SAT završni otpor 75Ohm, F-muški, s izolacijom za DC                                  8.09   30    242.70     60.68
+Redna stezaljka za razdvajanje N vodiča, 6mm², tip CNT,plava                         13.74   19    261.06     65.26
+Bezhalogeni jednožilni vodič H07Z-K 1,5mm2, sivi                                     10000    5  50000.00  12500.00
+TRAFO 210VA, krom, 12V , za direktno uklj.                                         1125.94    2   2251.88    562.97
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1583872.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

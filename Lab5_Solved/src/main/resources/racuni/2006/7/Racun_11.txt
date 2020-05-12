@@ -1,0 +1,18 @@
+Račun br. 730332
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Katalog - SAT LINE (engleski jezik)                                                      0    4      0.00      0.00
+DC sklopnik | 11kW | 24V DC | 3N/O + 1N/C pomoćni kontakt                           468.18   16   7490.88   1872.72
+Prednja ploča, čelična, slijepa, 5B1                                                  4160   18  74880.00  18720.00
+Završni poklopac CLR ravni zatvoreni sa vijcima                                       51.6    6    309.60     77.40
+9F07/D, 7W GX53 DL                                                                   19.59    5     97.95     24.49
+Dimer, uzidni, AN60400W R                                                            64.68   30   1940.40    485.10
+
+                                                                                                         ----------
+UKUPNO                                                                                                    84718.836
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

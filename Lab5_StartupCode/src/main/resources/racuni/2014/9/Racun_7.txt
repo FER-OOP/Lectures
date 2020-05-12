@@ -1,0 +1,32 @@
+Račun br. 427672
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"3-struki okvir ""Riva"", inox efekt"                                                160.9    1    160.90     40.22
+Kompaktni prekidač snage tip AE, 4P, 50kA, 800A                                    14774.8   18 265946.41  66486.60
+Kabel JB-Y(ST)Y 40x2x0,8mm2                                                          10000   18 180000.00  45000.00
+Linijska svjetiljka SOLO 2 T5 2x49W ECG, bijela                                      249.3    6   1495.80    373.95
+Grebenasta sklopka (glavna, žuto/crvena),0-1/3P/85A,na vrata                        563.04    5   2815.20    703.80
+Sig.svjetiljka DLQ 1x1W ERT-LED 3h 230VAC Wireless krom                            1381.16   25  34529.00   8632.25
+Theia-R LED 20W 3000K 1600lm, IP54, antracit                                        517.18    8   4137.44   1034.36
+Napajanje, 24V DC, 1A, montaža na DIN nosač, SELV                                   387.58   15   5813.70   1453.42
+Zaštita od dodira priključnih stezaljki, za 3-polne MC2                              74.04    7    518.28    129.57
+Nazidni okvir s vratima za Modul 2000 | 2A-12 | dubina 100mm                       1015.27   19  19290.13   4822.53
+LED RF WiFi kontroler Touch RGBW - 4 zone - crne boje                               836.68   19  15896.92   3974.23
+Punto-A MR16 Spot, GU5,3, 50W, IP20, 12V, crna                                       23.82    7    166.74     41.68
+Montažni nosač za EEC i EMC adaptere širine 63mm                                      4832    9  43488.00  10872.00
+Ugradna svjetiljka SEP ECO T8 4x18W CCG IP54 M600, bijela                           460.13   16   7362.08   1840.52
+DASAR LED LV ugradna svj., okrugla, SST, 6W , 3000K, IP67                           687.83   25  17195.75   4298.94
+ARKTUR SQUARE PLUS LED 220W 25000lm/740 ECG IP66 55°                               5920.91    3  17762.73   4440.68
+Kompaktni prekidač snage tip VE, 3P, 50kA, 250A                                    3234.54   12  38814.48   9703.62
+Mini-Lynx, 23W, 2700K, E27                                                           80.76   20   1615.20    403.80
+SPEED WORK stalak za 3 špule                                                       1071.13    8   8569.04   2142.26
+89113/ELE, 1x13w PL elektronska prigušnica                                           53.56    9    482.04    120.51
+
+                                                                                                         ----------
+UKUPNO                                                                                                     666059.9
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

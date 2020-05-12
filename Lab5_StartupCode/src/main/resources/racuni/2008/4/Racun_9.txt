@@ -1,0 +1,27 @@
+Račun br. 1068342
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+FIN XS Pole 30 2x4W LED 3000°K, 600lm, antracit                                    3024.84   22  66546.48  16636.62
+Panik svjetiljka KW LED 3W, CPS sustav, MIX mod, stropna                            990.88   29  28735.52   7183.88
+FID sklopka 25-4-04/A (puls), 6kA                                                   295.37   24   7088.88   1772.22
+NYCY 3x4RE/4                                                                        2260.8   25  56520.00  14130.00
+Ugradna svjetiljka SEP XTP T5 4x14W ECG IP54 M625, bijela                          1091.38   25  27284.50   6821.13
+Master License za MUG, 50 korisnika                                               58030.56    1  58030.56  14507.64
+Antenska utičnica, TV/R, 1000MHz, 2dB, završna                                       63.66    9    572.94    143.24
+GU10 LED, 5W,bijele boje, 60°, nije dim.                                            155.78   17   2648.26    662.07
+Centralni bistabilni relej, 2 N/O + 1 N/C, 230VAC                                   824.15   16  13186.40   3296.60
+LED PANEL za rešet. stropove, bijela, 230V, 4000K, 620x620mm                       1558.31   14  21816.34   5454.08
+Nadgradna svjetiljka SALENA LED 29W 2950lm/830 SLB ECG,bb                           769.95   11   8469.45   2117.36
+EUTRAC Kutna spojnica  unut., crne b.                                               312.23    6   1873.38    468.35
+65611T/B/C, Reflektor LED 15W CW , 3f, 100-240V, crne boje                          351.43    6   2108.58    527.15
+Kompenzacija  LSFC 7% 275/25kvar 800x2000x400mm Samost.orm.                       62752.71   14 878537.94 219634.47
+Kompaktni prekidač snage tip M, 3P/80A/100kA, MC1                                     4963   24 119112.00  29778.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1292531.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

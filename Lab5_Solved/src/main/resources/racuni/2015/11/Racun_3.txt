@@ -1,0 +1,22 @@
+Račun br. 890069
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Krajnji komad za kanal SIGNA 70/110 RAL 9010                                         61.58   24   1477.92    369.48
+OSRAM žarulja HALOPIN Eco G9, 48W                                                     37.5   14    525.00    131.25
+Nadgradna ind. svjetiljka SBOX AB 1x150W,HS/HI,E40,EB, IP65                        1238.45    5   6192.25   1548.06
+Neizolirana Cu stopica 50mm², M8                                                      5.49   28    153.72     38.43
+Senzor prisut. stropni, theRonda P360-100, Ø24m,1 kanal,sivi                       1285.63    4   5142.52   1285.63
+Tipkalo s plosnatom tipkom, komplet, crveno, 1 N/C                                   42.76   10    427.60    106.90
+Pokrov za antensku utičnicu HSAT…, 4 otvora, antracit                                12.97    3     38.91      9.73
+Podnožje N voda, 250A, M8 (obostrano), odvojivo, na ploču                              105   19   1995.00    498.75
+STIX zidna svjetiljka, 1x3W LED, 3000K, zakretna, bijele b.                           8570   15 128550.00  32137.50
+XL-Collar jakna, vodoodbojna sa puno džepova                                        330.46   18   5948.28   1487.07
+
+                                                                                                         ----------
+UKUPNO                                                                                                     150451.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

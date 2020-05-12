@@ -1,0 +1,30 @@
+Račun br. 177595
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"Dvostruko svjetleće tipkalo crno/crno, oznake ""+/-"""                              74.47   14   1042.58    260.65
+ARKTUR SQUARE PLUS LED 220W 26600lm/765 ECG IP66 110°                              5920.91   23 136180.94  34045.23
+Razvodna kutija za šuplje stijenke, Ø120, s pokl., naranč.                         5181.78    7  36272.46   9068.11
+Pomoćni kontakt (LA3007-LA3074), 3A (230V, AC15), 1 N/O                              24.09   25    602.25    150.56
+Kompaktni prekidač snage tip A, 4P/40A/50kA, MC1                                   1352.81    8  10822.48   2705.62
+"Grebenasta sklopka, ""TAG-0-NACHT""/1P/20A, na DIN nosač"                           245.3   12   2943.60    735.90
+Zaštitne rukavice, presvučene, MAXI-vel.10                                            38.7    8    309.60     77.40
+LED traka Flexstrip 108  bijele b. L=5m 24VDC                                      1759.24   19  33425.56   8356.39
+Grebenasta sklopka, 1-2-3-4/1P/20A, na DIN nosač                                    172.18   29   4993.22   1248.30
+Prenaponska zaštita 24V za DW, RGB, RGBW trake                                      317.93   27   8584.11   2146.03
+LED univerzalni dimer Mono                                                          507.29   16   8116.64   2029.16
+Meiva-Q/A2 75W G53 AR111, 12V, IP20, crne boje                                       152.4   19   2895.60    723.90
+"Opt. razdjelnik, 24 niti,SC,50/125µm OM4, izvlačivi,19"",1U"                      1107.76    1   1107.76    276.94
+Profil za montažu DIN nosača na dno, širina 200mm (2 kom.)                            4065   30 121950.00  30487.50
+D02 rastavna sklopka TYTAN II, 3-polna, 25A, komplet                               2035.49   30  61064.70  15266.17
+Ugradna svjetiljka SERM 2 A8 L1 T5 1x24W, ECG, bijela                                 8534   29 247486.00  61871.50
+Print relej SR4, 3 N/O+1 N/C, 24VDC, 8A, 5mm                                          3523   29 102167.00  25541.75
+Završni poklopac LBI četvrtasti sa rupom i vijcima                                   87.09   21   1828.89    457.22
+
+                                                                                                         ----------
+UKUPNO                                                                                                     781793.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

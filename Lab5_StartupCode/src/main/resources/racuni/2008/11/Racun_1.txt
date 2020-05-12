@@ -1,0 +1,18 @@
+Račun br. 391365
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+HORN -T GU10, bijele boje                                                           218.46    6   1310.76    327.69
+KABEL E-AYY-J (PP00-AL) 4X185 SM                                                   9714.18   13 126284.34  31571.08
+Parabol.širokosnopni odsijač za svjetiljku LINDA 2-49W 160mm                        163.12    7   1141.84    285.46
+Podnaponski isklopnik za MC2 i MC3, 208-240V AC                                      325.2    2    650.40    162.60
+Zaštitni prekidač, C karakteristika, 1A, 3-polni+N, 10kA                             328.4   23   7553.20   1888.30
+Kabel YSLYQY-JZ 18x 2,5 prozirni                                                     10000    8  80000.00  20000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    216940.53
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

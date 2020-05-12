@@ -1,0 +1,18 @@
+Račun br. 959049
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Stropna svjetiljka Lugno Round, GU10, 35W, IP54, siva                               231.13   14   3235.82    808.96
+Redna stez. (utični priklj.) 2.5mm², 2 dovoda|2 odvoda, siva                          9.43   22    207.46     51.86
+Teretna sklopka, modul proširenja,  3 x AC 230/400 V‚ 20 AX                         914.99   23  21044.77   5261.19
+KC sigurnosna svjetiljka 8W/3h/230VAC autotest, strop                               799.05   18  14382.90   3595.72
+Sabirnica za ARROW S, 3P, jezičasta, 35mm²|korak 27mm| 1m                             4230    2   8460.00   2115.00
+Kabel H05VV-F (PP/J) 5x1,5 mm2, bijeli, 100m                                         692.2   19  13151.80   3287.95
+
+                                                                                                         ----------
+UKUPNO                                                                                                     60482.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

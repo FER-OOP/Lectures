@@ -1,0 +1,14 @@
+Račun br. 477647
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kompenzacija  LSFC 7% 325/25kvar 800x2000x400mm Samost.orm.                       73989.92   151109848.88 277462.22
+Uzdužna stranica, 12 visinskih jedinica (200mm)                                       4180    1   4180.00   1045.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1114028.9
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

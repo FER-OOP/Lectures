@@ -1,0 +1,14 @@
+Račun br. 257181
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kabel H05VV-F (PP/J) 5x1mm2, svijetlo-sivi, 100m                                     10000    7  70000.00  17500.00
+Natpisna pločica za isklop u nuždi, žuta, fi=90mm, 4-jezična                         30.34    9    273.06     68.26
+
+                                                                                                         ----------
+UKUPNO                                                                                                     70273.06
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

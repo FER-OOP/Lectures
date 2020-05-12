@@ -1,0 +1,18 @@
+Račun br. 483820
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Daljinski isklopnik 110V AC/DC (tvornički ugrađen)                                  1161.4   11  12775.40   3193.85
+Vodotijesna svjetiljka LINDA Industrie PC 2-28W/840 ECG IP65                        487.68   19   9265.92   2316.48
+38000/AL, spojnica za 38128V i 38135V                                                18.24   14    255.36     63.84
+Panik svjetiljka KE ERT-LED 3W, CPS,MIX-mod,univerzalna                            1129.87   19  21467.53   5366.88
+Telekomunikacijski kabel vodonepropusan F-2YA2Y 40x2x0,8                             10000   19 190000.00  47500.00
+Ugradna svjetiljka SEP T8 2x18W ECG M600, bijela                                       278   21   5838.00   1459.50
+
+                                                                                                         ----------
+UKUPNO                                                                                                    239602.22
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,19 @@
+Račun br. 635090
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+PARA MULTI 406 za E27 sa akrilnim prozirnim pok.                                   1250.97   29  36278.13   9069.53
+Nadgradna svjetiljka SARH IP54 T8 2x36W ECG, bijela                                1211.14   20  24222.80   6055.70
+Voltmetar/Ampermetar, digitalni, 0-500V AC, trafo.../5A                             709.62   11   7805.82   1951.45
+ENOLA_C SPOT, okr., bijele b., 9W , 3000K, 35°, 1-f adapter                         938.06   13  12194.78   3048.70
+9409S/C/E, 9W E27 CW                                                                  7.77   22    170.94     42.74
+Uzidni okvir s vratima za Modul 2000 | 3U-21 | dubina 100mm                           4190    6  25140.00   6285.00
+ARTE 300 Trafo, krom                                                               1746.03   21  36666.63   9166.66
+
+                                                                                                         ----------
+UKUPNO                                                                                                     142479.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

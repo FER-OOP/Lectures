@@ -1,0 +1,22 @@
+Račun br. 651607
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Nazidni okvir bez vrata za Modul 2000 | 5A-45 | dubina 250mm                       3546.14   19  67376.66  16844.16
+Sutil Round  LED 8W, 4000K, 560lm, 120°, IP40, bijele boje                          126.04   23   2898.92    724.73
+Luxa 102 FL, LED spot 8W, 6000K, zidna, IP44, bijela                                 532.7   28  14915.60   3728.90
+Držač za instal. cijev M32, HF, svijetlo sivi (pak.100 kom.)                        449.04   16   7184.64   1796.16
+Cilindrični osigurač, 10x38, 16A, gG, 500V AC                                         2.91   23     66.93     16.73
+FID sklopka 63-4-05/AC, 10kA                                                           331    9   2979.00    744.75
+FLAC BEAM, podna svjetiljka, srebrne boje, G12, 70W                                2058.94   28  57650.32  14412.58
+Ind.svj.ARKTUR SQUARE LED 147W 15900lm/765 ECG IP65 120x40°                        3118.34   11  34301.74   8575.44
+Mara-I-R LED 25W 3000K 2100lm, IP20, bijele boje                                    586.29    5   2931.45    732.86
+Poliester kućište 280x190x100mm sivo - B-EFI                                        209.61   13   2724.93    681.23
+
+                                                                                                         ----------
+UKUPNO                                                                                                     193030.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

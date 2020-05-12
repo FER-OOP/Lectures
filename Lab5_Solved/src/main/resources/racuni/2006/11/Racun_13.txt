@@ -1,0 +1,17 @@
+Račun br. 358463
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kompaktni prekidač snage tip VE, 3P, 50kA, 1000A                                  15457.69   29 448273.03 112068.27
+Natrijeva žarulja HSE 70W/I E27                                                     566.95   23  13039.85   3259.96
+Montažna ploča za IP54, 3A-24                                                         4160    1   4160.00   1040.00
+Kompenzacija  LSFC 7% 400/25kvar 800x2000x400mm Samost.orm.                       85541.93   191625296.63 406324.16
+I-PENDANT PRO LED PANEL PENDULUM 3000K 1295x295mm srebrne b.                       1558.31    4   6233.24   1558.31
+
+                                                                                                         ----------
+UKUPNO                                                                                                    2097002.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

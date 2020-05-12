@@ -1,0 +1,27 @@
+Račun br. 965926
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Sklopka izmjenična, 2struka, IP20,, na vijak, bijela, nadžbu                         40.32   28   1128.96    282.24
+Kabel YSLYQY-J 5x 6 prozirni                                                         10000    6  60000.00  15000.00
+PERFORMANCE LINE RJ45 modul oklop., kl. Ea 10GB PoE+, 24kom                            546   14   7644.00   1911.00
+Optički prespojni kabel duplex, SC/SC, 9/125µm OS2, 2.0m                             81.23   11    893.53    223.38
+Kompaktni prekidač snage tip AE, 3P, 50kA, 400A+izvl. modul                        6580.73   12  78968.76  19742.19
+Stražnja ploča za nazidni Modul 2000 | 5R-45                                        598.27   15   8974.05   2243.51
+Linijska svj. SERM-LL 112, završni profil,  2x80W, ECG, bb                          645.52   25  16138.00   4034.50
+Strujni trafo, 60/5A, za kabel promjera do 21mm                                      83.36   29   2417.44    604.36
+Hands-free unutarnja audio jedinica s 3 tipke, crna                                 416.84    3   1250.52    312.63
+Bezhalogeni jednožilni vodič H07Z-K 1,5mm2, plavi                                    10000   12 120000.00  30000.00
+T-spojnica za 1-f  šina, lijeva, crna b.                                             87.01   12   1044.12    261.03
+EUTRAC spojnica šina, prolazna, bij.                                                  95.8   25   2395.00    598.75
+70024, LED NOĆNA SVJETILJKA 0,5w EU utikač                                           25.68    6    154.08     38.52
+Tipka MO 2M, bijela                                                                   4.22   10     42.20     10.55
+Silikon-Acetat, prozirni, 310ml                                                      39.93   18    718.74    179.68
+
+                                                                                                         ----------
+UKUPNO                                                                                                     301769.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

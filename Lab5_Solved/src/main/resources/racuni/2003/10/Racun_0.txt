@@ -1,0 +1,18 @@
+Račun br. 104005
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kabelska uvodnica M40x1.5, poliamid, RAL7035                                         35.25   15    528.75    132.19
+Napajanje za 1faznu visokonap.str.šinu,ugrad.lijevo,bijeli                           68.25    2    136.50     34.13
+Modul inverter za opću rasvjetu 3h/ 6-80W sa Autotest modul                        1303.42   10  13034.20   3258.55
+BIJELI PRSTEN za 10120 i 10142                                                       79.58   26   2069.08    517.27
+Adapter za DIN profil, prazan, za 1 modul (SFA)(SFB)                                 41.91   19    796.29    199.07
+Montažni nosač i pribor za IKALL audio                                              262.61   17   4464.37   1116.09
+
+                                                                                                         ----------
+UKUPNO                                                                                                     21029.19
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

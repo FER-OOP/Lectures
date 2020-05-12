@@ -1,0 +1,32 @@
+Račun br. 870672
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+L-SE spojnica za sjenilo RCP12 T5 i T8 (2 kom)                                        28.7   13    373.10     93.28
+Bezhalogeni kabel s el. funkc. do30 Min. (N)HXCH4x4re/4E30                           10000   29 290000.00  72500.00
+EURO SPOT LED DISK 800,sa 3-faznim adapterom, srebrne boje                          875.55   24  21013.20   5253.30
+NV rastavna sklopka vel.3|630A, 3P, M12, nadzor. osig., 60mm                          4832   22 106304.00  26576.00
+POWER LED žarulja QRB, tople bijele boje                                            483.86    3   1451.58    362.89
+Reed-II-L-R 2x26/32/42W G24q, 230V, IP20, sive boje                                   7.77   30    233.10     58.28
+LED RETROFIT RL-C40 DIM 6W 230V 827 470lm mat E14 25000h                             54.83    9    493.47    123.37
+Utičnica MO šuko 2M 16A, sa zašt. kon. i dj. zaš., crvena                            22.81    3     68.43     17.11
+Bezhalogeni kabel s el. funkc. do90 Min.(N)HXCH24x1,5re/6E90                         10000   14 140000.00  35000.00
+LED traka 35 UWW Ra=90+, 7,6W/m, 617lm/m, 24VDC,IP44, l=5m                          870.91    1    870.91    217.73
+NEW TRIA III GU10, četvrt.obl., mat bijele boje, max. 3x 50W                        500.12   25  12503.00   3125.75
+Univerzalni adapter 200A, SS 60mm, priključak 6-70mm² dolje                           4832    3  14496.00   3624.00
+N/Ž inst. razdj. 2A-7, 2-redni, 42 ŠM, 410x590x180 mm                                 4190    4  16760.00   4190.00
+Gljivasto tipkalo u kućištu (žuto/crno), 2 N/C, komplet                             149.11   28   4175.08   1043.77
+Prespojni kabel RJ45 cat.6 neoklopljen, PVC, sivi, 2.0m                               12.8   17    217.60     54.40
+Zamjenjiva skala, 96x96mm, 150/300/5A AC                                              4399   23 101177.00  25294.25
+Zaštitni prekidač AMPARO 6kA, C 20A, 1-polni                                         20.02   10    200.20     50.05
+DIABO SPOT 1 stropna svjetiljka , krom, 1x GU10, max. 35W                           437.43    3   1312.29    328.07
+Priključnica prazna 80x80 za 2 modula (SFA/B), kosi izvod                            11.57   16    185.12     46.28
+T8-LED, 18W, 4000K, G13, 1200mm                                                     374.92    8   2999.36    749.84
+
+                                                                                                         ----------
+UKUPNO                                                                                                     714833.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,21 @@
+Račun br. 355522
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Utičnica MO šuko 2M 16A, sa dječjom zaštitom, na vijak, crna                         27.98   14    391.72     97.93
+Držač žaruljice sa ugrađenom LED, zeleni,230VAC,utične stez.                         48.78   14    682.92    170.73
+Motorna zaštitna sklopka, 3-polna | 14.0 - 20.0A, vel.S0                            259.37    3    778.11    194.53
+Mod. nadzora mrežnog napona za uklju. sig. opće rasvjete 4A                         827.11   19  15715.09   3928.77
+Kutnik za kabelske kanale širine 5                                                   87.81   28   2458.68    614.67
+Blok pomoćnih kontakata za LA1 (0+2)                                                 49.18    8    393.44     98.36
+Montažna ploča za Maxipol ormare 750x1000 (VxŠ), poliester                            4146    9  37314.00   9328.50
+IP FlexLED Roll, tople bb, 3m, 60LED/m, DC 12V                                      404.74   29  11737.46   2934.36
+EURO CUBE Spot, 3000K, CRI90, 90°, uklj. 3F adapter, crne b.                       1433.11   28  40127.08  10031.77
+
+                                                                                                         ----------
+UKUPNO                                                                                                     109598.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

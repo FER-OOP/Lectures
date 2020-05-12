@@ -1,0 +1,29 @@
+Račun br. 562244
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Međuokvir 540x360x62,5mm                                                            605.57    2   1211.14    302.79
+Matica PG29 (za uvodnicu M272804--A)                                                  1.86   28     52.08     13.02
+Halogena žarulja QT-DE ECO 400W R7s 114,2mm                                          36.92    6    221.52     55.38
+Sklopka+LED, 16A, 230VAC/DC, 1 N/O + 1 N/C, montaža na DIN                            91.3    3    273.90     68.48
+LED traka Flex 60 WW IP43 RA90+ 1050lm/m 13,5W/m L=5m 24VDC                        1089.05   11  11979.55   2994.89
+Natrijeva žarulja HSE 70W/I E27                                                     566.95   29  16441.55   4110.39
+EURO SPOT LED DISK 800,sa 3-faznim adapterom, srebrne boje                          875.55   26  22764.30   5691.07
+Halogena žarulja QR-CBC51 WFL 50W ECO GU5,3 36°                                      34.44   26    895.44    223.86
+"Sobno signalno svjetlo ""Standard"", crveno-zeleno"                                  2104   21  44184.00  11046.00
+Optički prespojni kabel duplex, ST/SC, 50/125µm OM2, 10.0m                           117.6    4    470.40    117.60
+Koaksijalni spojnica F-ženski/IEC-muški, S4H, 10kom.                                 39.76   23    914.48    228.62
+Teški gumeni kabel H07RN-F 1x95, crni                                                10000   17 170000.00  42500.00
+Nadgradna svjetiljka SARH IP54 T8 2x36W CCG ind, bijela                            1573.23    1   1573.23    393.31
+Plastični pokrov TB, okrugli/opal 2m                                                 75.39   29   2186.31    546.58
+Ugradno kućište za svjetiljku LUNA 20W MT                                           213.65   24   5127.60   1281.90
+Maskirni razdj. 4M-45, 15-redni, 675ŠM,2130x980x200mm(VxŠxD)                       5213.16   10  52131.60  13032.90
+Sklopnik 3P |11kW (22A) [AC3] / 32A [AC1] | 230V AC | 1N/O                          248.55   21   5219.55   1304.89
+
+                                                                                                         ----------
+UKUPNO                                                                                                    335646.66
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

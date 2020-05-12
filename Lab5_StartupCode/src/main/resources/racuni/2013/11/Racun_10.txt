@@ -1,0 +1,15 @@
+Račun br. 675812
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Meiva-Q/A1 LED 6W 3000K 475lm, IP20, aluminij                                       119.28   11   1312.08    328.02
+LASSON, zidna svj., WL-2, četvrtasta, bež, 2xE27                                    938.06    7   6566.42   1641.60
+Sučelje za prekidače/tipkala, 2 x bezpotencijalni kontakt                           399.45   28  11184.60   2796.15
+
+                                                                                                         ----------
+UKUPNO                                                                                                    19063.102
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

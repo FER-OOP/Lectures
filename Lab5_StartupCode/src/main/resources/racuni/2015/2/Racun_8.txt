@@ -1,0 +1,18 @@
+Račun br. 569802
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Finožični PVC-om izol. vodič H07V-K (P/F) 2,5mm2, smeđi HPV                          10000   14 140000.00  35000.00
+Zaštita za sab. sistem 39 ili 34 mm za ARROW BLUE vel.02                              4821   30 144630.00  36157.50
+NV podnožje, 3-polno, vel.1|250A, 2xM10                                               4821   13  62673.00  15668.25
+Set brtvi za sklopke i utičnice, 2-struki, za IP44                                   12.97   12    155.64     38.91
+PlanoCentro 201, senzor prisutnosti, stropni, bijeli                                3725.4   14  52155.60  13038.90
+Pokrov za ind. dio svjetiljke OFFICE 218 2-35/49W                                    73.68   11    810.48    202.62
+
+                                                                                                         ----------
+UKUPNO                                                                                                     400424.7
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

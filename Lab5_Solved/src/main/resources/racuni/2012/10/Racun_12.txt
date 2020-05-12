@@ -1,0 +1,33 @@
+Račun br. 110411
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Helena-II 2x55W 2G11, 230V, IP20, sive boje                                        1458.46   16  23335.36   5833.84
+Scott-III-R LED 1,5W, IP54, sive boje                                                98.84    6    593.04    148.26
+"WC set ""Sigma"", uzidno napajanje, komplet, inox efekt"                          2387.15   12  28645.80   7161.45
+EUTRAC napajanje, desno, bij.                                                         95.8   17   1628.60    407.15
+Vodotijesna svjetiljka PACE 2x58W ECG IP65                                          259.07   19   4922.33   1230.58
+Signalni fleksibilni kabel YSLY-JZ 7x0,5 sivi                                       551.54   13   7170.02   1792.50
+Cilindrični osigurač, 14x51, 20A, gG, 690V AC                                          6.1   13     79.30     19.82
+NEW TRIA, ES111 Downlight, okrugla, mat bb                                          280.98   10   2809.80    702.45
+Okvir 4x2M line, zlatni                                                              57.52    6    345.12     86.28
+Krović za zaštitu WSM ormara od kiše, za ormar 600X400 (ŠxD)                          4066   30 121980.00  30495.00
+Zaštitni prekidač, C karakteristika, 2A, 1-polni+N, 10kA                            102.89   16   1646.24    411.56
+ARKTUR SQUARE PLUS LED 220W 26600lm/757 ECG IP66 110°                              5920.91    3  17762.73   4440.68
+SIGHT 54 TRACK, četvrt.obl., bijele b.,1x T5,54W,3-f adapter                       1250.97   15  18764.55   4691.14
+DisplayPort kabel, DP20 muški/DVI-D (24+1), 5m                                      244.65   16   3914.40    978.60
+Noel-Q/A2 LED 15W 3000K 1000lm, IP20, bijele boje                                    410.4   28  11491.20   2872.80
+Bezhalogeni telekomunikacijski kabel J-H(ST)H 10x2x0,6 sivi                          10000   30 300000.00  75000.00
+Kopče za PEN LIGHT, 100 kom.                                                        155.78   29   4517.62   1129.41
+Signalni fleksibilni kabel YSLCY-JZ 3x 0,75 sivi                                    703.34    2   1406.68    351.67
+Sklopnička kombinacija zvijezda/trokut 15kW (30A) AC3| 24VAC                       1686.59   16  26985.44   6746.36
+Signalna svjetiljka, glatka leća, crvena                                             19.35   28    541.80    135.45
+Nazidni okvir bez vrata za Modul 2000 | 4A-12 | dubina 180mm                        991.11    1    991.11    247.78
+
+                                                                                                         ----------
+UKUPNO                                                                                                     579531.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

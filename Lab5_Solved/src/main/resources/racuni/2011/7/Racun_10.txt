@@ -1,0 +1,29 @@
+Račun br. 1022014
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Mini-pomoćni sklopnik 4P | 3 N/O + 1 N/C | 230V AC | 10A                            134.88   11   1483.68    370.92
+Sklopka, izmjenična, sa indikacijom, IP20, na vijak, bijela,                         35.94    3    107.82     26.95
+Dimer 20-315W/VA, tranzistorski, podžbukni                                          776.72   17  13204.24   3301.06
+Trokatna stezaljka (vijčani priključak) 2.5mm², bež, 2P+PE                           20.64    8    165.12     41.28
+Instal. umetak 4-45L komplet 15 IR prednja pl. plastika                            3600.42    3  10801.26   2700.31
+Kućni kom. razd.,3-redni,44xTOOL.,4x230V,ravna vrata,RAL9003                        840.95   23  19341.85   4835.46
+LED Strip 230V napajanje za 100m                                                     55.08   13    716.04    179.01
+IPERI 50 podna svjetiljka,bi.b.,48 LED,neutral bi.b.,4000K                          687.83   18  12380.94   3095.24
+PlanoCentro 201, senzor prisutnosti, p/ž, stropni, srebrni                         4306.33   13  55982.29  13995.57
+N/Ž kutija IP20 za senzor Serije C, bijela                                           69.89    9    629.01    157.25
+9465/W/E, 65W E27 WW                                                                 25.51    3     76.53     19.13
+Prednji okvir, vel.000, 130 x 210mm                                                   4832   15  72480.00  18120.00
+Priključna kutija, nehrđajući čelik, 300x300x120(VxŠxD),IP66                       1515.59    8  12124.72   3031.18
+Regulator jalove snage sa 12 stupnjeva                                              2192.9   13  28507.70   7126.92
+Otvoreni prekidač, 4P, 66kA, 1000A, fiksni, prednje priklj.                       25777.02    9 231993.17  57998.29
+Pokrov priključnih stezaljki za MC3, 4-polni, odlomljivi                            170.37   27   4599.99   1150.00
+Montažna ploča za WKS3050, 275x470x2, pocinčani čelik                                 4065   26 105690.00  26422.50
+
+                                                                                                         ----------
+UKUPNO                                                                                                     570284.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

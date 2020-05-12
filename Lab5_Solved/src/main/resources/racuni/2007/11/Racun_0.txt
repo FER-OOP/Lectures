@@ -1,0 +1,21 @@
+Račun br. 678143
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Rozeta, 1 izlaz, okrugla, crne boje                                                 105.76   20   2115.20    528.80
+Kompenzacija  LSFC 14% 500/50kvar 800x2110x600mm Samost.orm.                         10000   20 200000.00  50000.00
+Nadgradna svjetiljka AOTF-O 4x18W ECG, sa opalnim pokrovom                          858.77   17  14599.09   3649.77
+Fluo cijev T8|T26 ECO 16W/840                                                        49.02   21   1029.42    257.36
+Cilindrični osigurač, 8x31, 12A, gG, 400V AC                                          2.85   10     28.50      7.13
+Bezhal. kabel HSLH-JZ25x1,5FRNC H-F 1žila ž/z ostale crn/siv                         10000    8  80000.00  20000.00
+Signalni fleksibilni kabel YSLCY-JZ 5x 6 sivi                                      5302.88    4  21211.52   5302.88
+Međuokvir za kućište F - 560x280x50mm                                               420.58   17   7149.86   1787.46
+Izmjenjivač 24V DC/ 230VAC 800W sa šuko utičnicom                                  3098.06    1   3098.06    774.52
+
+                                                                                                         ----------
+UKUPNO                                                                                                     329231.7
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,32 @@
+Račun br. 169188
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Plano Square LED Plafo, 30W, 4000K, 2174lm, IP40, bijele b.                            590   20  11800.00   2950.00
+Odvodnik prenapona klase C (komplet), 1P, 1x20kA/580V, UAS                          170.79   12   2049.48    512.37
+LEVANTE-M L11 zidna spojnica LEVANTE MEDIUM RAL9006                                 325.17   15   4877.55   1219.39
+"Tipkalo s povratom, plosnato, zeleno, oznaka: ""I"""                                29.06   13    377.78     94.44
+Finožični PVC-om izolirani vodič H07V-K (P/F) 70mm2, crni                          6000.14   23 138003.22  34500.80
+NV osigurač vel. 3, 400A/400V AC                                                    126.67   11   1393.37    348.34
+Tuljci, izolirani, 4mm2, L2=9,5mm (pak.100 kom)                                      17.81   29    516.49    129.12
+RY relej, 1C/O, 8A, 12V DC, raster 3.2mm                                             16.26    8    130.08     32.52
+Finožični PVC-om izol. vodič H07V-K (P/F) 4mm2, zeleni HPV                           10000    9  90000.00  22500.00
+Fazne pregrade na priključnim stezaljkama, za 3P MC4 (2 kom)                        168.27   26   4375.02   1093.76
+SLEEK G12 Spot, bijela,70W, uklj. 48° Reflektor, 3f Adapter                         813.03    6   4878.18   1219.55
+Optički prespojni kabel duplex, FC/FC, 50/125µm OM2, 10m                            131.57    2    263.14     65.79
+VINTA,  LED 4W, 2200K                                                                187.2    1    187.20     46.80
+9F07/C, 7W GX53 CW                                                                   19.59   11    215.49     53.87
+Ovjesna/nadgradna svjetiljka Office LED D, 43W, 1,5m                               2109.53   22  46409.66  11602.42
+SAT koaksijalni F-utikač, natisni za DIGI-SAT 3000,3030,3040                          3.83   24     91.92     22.98
+Fluokompaktna žarulja TC-L 55W/830 2G11                                              49.17    6    295.02     73.75
+Zatvarač, 4-polni, veličina 2 (kao rezervni dio)                                      4970   12  59640.00  14910.00
+RETROSIX WALL QRB, zidna svj., brušeni al.,crne boje,max.50W                        635.43   17  10802.31   2700.58
+LED SHELL zidna svj., okrugla, crne b., LED, 4W, tople bb                           562.36    1    562.36    140.59
+
+                                                                                                         ----------
+UKUPNO                                                                                                    376868.28
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

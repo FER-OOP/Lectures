@@ -1,0 +1,30 @@
+Račun br. 640227
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LED GU10 5,5W, 40°, 2700K                                                           218.46    5   1092.30    273.08
+BIG NAUTILUS SQUARE LED zidna svj. 12W 3000K, četv.,antracit                       1125.94   23  25896.62   6474.15
+Ezio-Q LED 2,5W 3000K 15lm, IP44, bijele boje                                       351.77   26   9146.02   2286.50
+Zaštitni prekidač, B karakteristika, 10A, 1-polni, 10kA                              24.63   18    443.34    110.84
+Helios-S/A2 3x50W GU5,3 MR16, 12V, IP20, aluminij                                   183.15   20   3663.00    915.75
+Pomoćni kontakt, 2 N/O, utične stezaljke                                             39.64   17    673.88    168.47
+Svjetleće tipkalo s povratom, plosnato, žuto                                         38.45   16    615.20    153.80
+Kabel EYY-J (PP00-Y) 5x10RE                                                          10000   27 270000.00  67500.00
+Nadžbukna kutija za PresenceLight, siva                                             258.37   19   4909.03   1227.26
+SSVGA produžni kabel 4C+5, pozl. kontakti, crni, 15m                                244.65   17   4159.05   1039.76
+WAVE kut 90° unut., krom                                                             43.76   22    962.72    240.68
+Meiva-Q/A2 75W G53 AR111, 12V, IP20, crne boje                                       152.4   30   4572.00   1143.00
+LED prespojni kabel RJ45 oklopljen,500 MHz,Ea,10GB,plavi,1m                           42.9   30   1287.00    321.75
+Sklopka, 3-polna, 20A, ugrad.s pred.str. NOT AUS                                    223.09    1    223.09     55.77
+Teretna sklopka, 4P, 800A, opcija: daljinski isklop                                9796.28   11 107759.09  26939.77
+Prednja ploča antenske utičnice sa 2 otvora, bijela                                  14.06   28    393.68     98.42
+Minijaturni relej, 4C/O, 6A, 110VDC, serije PT                                        42.7   29   1238.30    309.58
+Vrata, metalna, perforirana za kom. ormare, 22U, Š=800 mm                              717   22  15774.00   3943.50
+
+                                                                                                         ----------
+UKUPNO                                                                                                    452808.34
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

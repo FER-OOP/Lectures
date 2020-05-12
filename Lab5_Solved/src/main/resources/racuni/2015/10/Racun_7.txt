@@ -1,0 +1,22 @@
+Račun br. 928363
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kabel EYY-J (PP00-Y) 4x25 RM                                                       8423.88    4  33695.52   8423.88
+Zamjenjiva skala ampermetra za montažu na DIN nosač, 150A/5A                         37.39   29   1084.31    271.08
+DIII podnožje E33|3P, 63A/690V, montaža na sustav 60mm                              102.12    4    408.48    102.12
+Ploča za dimer, sa zakretnom tipkom, biserno bijela                                  24.96   18    449.28    112.32
+LIGHT EYE SPOT za EASYTEC II, ES111, krom/mat crne b.                               625.15   26  16253.90   4063.48
+Flyer ulična svjetiljka, asim. 25 LED 49W 5650lm 4000K                             4147.81   22  91251.82  22812.96
+KARDAMOD SURFACE ROUND ES111 SINGLE,srebrnosiva GU10,max.75W                        813.03    5   4065.15   1016.29
+Ulazno/Izlazni modul                                                               2390.41    8  19123.28   4780.82
+Svjetiljka Solo Line T5 1x35W,ECG, bijele boje                                      308.41    6   1850.46    462.62
+Grebenasta sklopka u kućištu,0-1/2P/20A,na vrata,za grijanje                        164.09   18   2953.62    738.40
+
+                                                                                                         ----------
+UKUPNO                                                                                                    171135.83
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

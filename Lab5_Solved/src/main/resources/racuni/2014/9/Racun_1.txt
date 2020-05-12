@@ -1,0 +1,14 @@
+Račun br. 950421
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Industrijska svjetiljka SCUP AL 1x250W HS/HI IP23 E40                               647.23   16  10355.68   2588.92
+Kabel H05VV-F (PP/J) 5x2,5mm2, svijetlo-sivi, 100m                                 1103.08    8   8824.64   2206.16
+
+                                                                                                         ----------
+UKUPNO                                                                                                     19180.32
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,24 @@
+Račun br. 977291
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Tenora WL-1 zidna svjetiljka, E27, max. 60W, kratka, krom/cb                        875.55   19  16635.45   4158.86
+Univer. opt.  kabel U-DQ(ZN)BH 24x9µm OS2, nm.                                     1067.48    2   2134.96    533.74
+Nick-II-Q 2x26/32/42W G24q, 230V, IP20, brušeni krom                                  7.77   24    186.48     46.62
+NEW TRIA LED DL četvrtasti Set, 12W, 3000K, 38°, brušeni al.                       1000.75   23  23017.25   5754.31
+KALOS dvostr. nosač 500mm za stup Ø 60mm, antracit                                 7174.96   15 107624.40  26906.10
+Razdjelnik N/Ž, s prozirnim vratima 2R / 28 modula IP65                             983.47   29  28520.63   7130.16
+Paralelna spojnica/zvjezdište za sklopnike vel. 0                                    11.15   30    334.50     83.63
+Pomoćni kontakt (LA3007-LA3074), 6A (230V, AC15), 1 N/O                              23.57   12    282.84     70.71
+89004, DRIVER 350mA 1-4W LED IP66 100-240V                                           69.78    1     69.78     17.44
+BEDSIDE LED zidna svj., RIGHT, 3W, 4000K, srebrna b.                               1125.94   27  30400.38   7600.09
+Ugradna svjetiljka SERS 2 T8 2x58W ECG M625, bijela                                   8534   30 256020.00  64005.00
+Perforirana montažna traka, pocinčana, 10m, Š=12mm, d=5,3mm                            4.3   14     60.20     15.05
+
+                                                                                                         ----------
+UKUPNO                                                                                                    465286.84
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

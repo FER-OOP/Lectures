@@ -1,0 +1,30 @@
+Račun br. 782551
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Prednja ploča, čelična, sa otvorom za uređaje, 2G4                                    4160   16  66560.00  16640.00
+Potporni izolator visine 50mm, obostrano s maticom M8, 2kV                            4837   24 116088.00  29022.00
+Nosač pokrova SI010250..012360..012370..012380, dubina 107mm                         37.96   18    683.28    170.82
+Kompaktni prekidač snage tip VE, 3P, 85kA, 630A                                   19465.21   26 506095.50 126523.88
+Nazidni razdjelnik bez vrata, 4-redni, 48 modula                                    332.95   28   9322.60   2330.65
+Pablo-S LED 3,5W 3000K 230lm, IP20, aluminij                                        278.44   18   5011.92   1252.98
+Paralelna spojnica (zvjezdište) za skl. LSDD                                         11.69    1     11.69      2.92
+FID sklopka 40-2-03/AC, 6kA                                                         191.37   29   5549.73   1387.43
+Uzdužna stranica, 12 visinskih jedinica (100 mm)                                     276.6   11   3042.60    760.65
+Nazidna križna sklopka, siva, 10A, IP44, utične stezaljke                            73.68    4    294.72     73.68
+E27 LED SMALL BALL žarulja, 260lm , 3000K                                            93.26    2    186.52     46.63
+Shunt 60mV, 100A                                                                    249.95   30   7498.50   1874.63
+COB LED GU10, dim., 8W, 3000K, 480lm, 60°, 230V                                     144.46   17   2455.82    613.96
+Linda Basic LED 1x19W, 4000K, 2724lm, IP65, sive b.,L=1270mm                        603.49   19  11466.31   2866.58
+Punto-A MR16 Spot, GU5,3, 50W, IP20, 12V, siva                                       22.64    8    181.12     45.28
+Rezervni filter za ventilator 252x252mm, IP55 (pak=5 kom.)                          421.82   11   4640.02   1160.01
+T-spojnica za 1-f  šina, desna, crna b.                                              87.01   24   2088.24    522.06
+FID sklopka 40-4-003/AC, 10kA, G izvedba                                             467.1   16   7473.60   1868.40
+
+                                                                                                         ----------
+UKUPNO                                                                                                    748650.25
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

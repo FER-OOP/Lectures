@@ -1,0 +1,24 @@
+Račun br. 934535
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"Opt. razdjelnik, 12 niti, SC 50/125µm OM4, izvlačivi,19"",1U"                     1138.28    4   4553.12   1138.28
+"Opt. razdjelnik,12 niti, LC,50/125µm OM3, izvlačivi,19"",1U"                      1219.59   20  24391.80   6097.95
+Kompaktni prekidač snage tip VE, 3P, 150kA, 100A                                   2296.62   19  43635.78  10908.95
+LIGHT EYE I zidna i stropna svjetiljka, 1xES111                                     625.15   28  17504.20   4376.05
+Sigurnosni relej za odvajanje male elektrane od mreže                              3061.31    2   6122.62   1530.66
+SURA svjetiljka, krom                                                               312.23   21   6556.83   1639.21
+Magnetski plašt za prolazni trafo MC900210                                         1779.47    5   8897.35   2224.34
+Finožični PVC-om izolirani vodič H05V-K (P/F) 0,5mm2,t-plavi                         55.66    5    278.30     69.57
+Miri-R 9W GX53, 100-240V, IP20, bijele boje                                          19.93   28    558.04    139.51
+Priključna ploča, 3P, sustav 60mm, 6-50mm² Cu/Al                                    143.27    2    286.54     71.64
+Tipka sa simbolom zvona, antracit                                                    15.62    7    109.34     27.33
+Kompaktni prekidač snage tip AE, 3P, 85kA, 800A+izvl. modul                       13772.16   15 206582.41  51645.60
+
+                                                                                                         ----------
+UKUPNO                                                                                                     319476.3
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

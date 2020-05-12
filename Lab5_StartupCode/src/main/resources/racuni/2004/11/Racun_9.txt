@@ -1,0 +1,20 @@
+Račun br. 836365
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Robin-II-Q/A1 75W GU10 AR111, 100-240V, IP20, crne boje                             124.52   16   1992.32    498.08
+7306LGD/D/38, 5LED 5,8w GU10 DL 38 ° dimabilna 230v                                  66.23    3    198.69     49.67
+FID sklopka 40-2-003/A (puls), G izvedba, 6kA                                         4271   18  76878.00  19219.50
+Backlight lanac sa LED modulima 12, 4050K, IP65 CRI/RA 90+                          487.06    7   3409.42    852.35
+Gumeni savitljivi kabel NSSHöu-J 4x6, žuti                                           10000    1  10000.00   2500.00
+Signalni fleksibilni kabel YSLY-JB 5x35 sivi                                         10000    8  80000.00  20000.00
+PHO zidna svjetiljka, 3W LED, 3000K, bijele boje                                    437.43   24  10498.32   2624.58
+Prenaponska zaštita 24V za DW, RGB, RGBW trake                                      317.93    4   1271.72    317.93
+
+                                                                                                         ----------
+UKUPNO                                                                                                    184248.47
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

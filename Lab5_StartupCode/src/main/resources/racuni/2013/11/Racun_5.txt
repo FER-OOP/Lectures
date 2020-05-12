@@ -1,0 +1,27 @@
+Račun br. 895282
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Teretna sklopka, 3P, 400A, opcija: daljinski isklop                                2376.88    3   7130.64   1782.66
+OSRAM žarulja HALOPIN Eco G9, 20W                                                     37.5   26    975.00    243.75
+EURO CUBE Spot, 3000K, CRI90, 30°, uklj. 3F adapter, sb                            1433.11   24  34394.64   8598.66
+Marra LED Strip 4,8W/m, 60LEDs/m, 300lm/m, 4000K, 24VDC IP68                        265.26   18   4774.68   1193.67
+"10"" panel s DIN nosačem, 3U, RAL7035"                                             113.75   21   2388.75    597.19
+Linda LED 1x30W EM 1h, 4000K, 4493lm                                               2058.23   24  49397.52  12349.38
+Panik svjetiljka U6 Autotest LED 3W/3h, ugradna                                    2597.92   10  25979.20   6494.80
+Signalna LED svjetiljka na DIN nosač, žuta, 230V AC                                  44.07   15    661.05    165.26
+Metalhalogena žarulja HIE 400W/N/783 E40 OS                                         424.45   23   9762.35   2440.59
+Pozivni modul sa 6 tipki, simplebus, IKALL                                           654.3   10   6543.00   1635.75
+Zaštitna mrežica za panike KD,KS,LI,M                                               430.35   10   4303.50   1075.88
+Relej snage, 1C/O, 16A, 5VDC serije RT, raster 5mm                                   18.94    3     56.82     14.20
+Prednja ploča utičnice za zvučnike, inox efekt                                        2122    8  16976.00   4244.00
+Završna pločica za četverokatnu stezaljku IK680003--,siva                             3.09    1      3.09      0.77
+Ugradna svjetiljka SEP XTP T8 4x36W ECG IP54 M600, bijela                          1386.91   21  29125.11   7281.28
+
+                                                                                                         ----------
+UKUPNO                                                                                                    192471.34
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

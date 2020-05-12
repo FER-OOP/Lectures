@@ -1,0 +1,27 @@
+Račun br. 916033
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+I-BED WALL SHORT, 3,8W, 3000K, CRI=80, crne boje                                    938.06   13  12194.78   3048.70
+Instal. umetak 5-45K komplet 15 IR prednja pl. čelik                               3606.61   20  72132.20  18033.05
+N stezaljka sa 15 odvoda                                                             34.63   14    484.82    121.20
+LASSON zidna svjetiljka, WL-3,cr.b., E27                                            687.83   29  19947.07   4986.77
+SCUP PC 1x70W HIT G12 zvono sa akrilnim sjenilom IP20 si.b.                        1179.49   12  14153.88   3538.47
+Levante-S 20 LED 48W 4425lm 4000K rotosim.,IP66,SKII,RAL9003                       3205.01   25  80125.25  20031.31
+OUT BEAM LED zidna svjetiljka, rusty                                               1433.11    9  12897.99   3224.50
+Poliester kućište 270x360x201mm, IP66, RAL 7035 (sivo)                              584.34   21  12271.14   3067.79
+Kompaktni prekidač snage tip VE, 4P, 50kA, 160A                                    3045.76   12  36549.12   9137.28
+Pomoćni sklopnik vel.00 | 4P | AC15 6A/230V | 230VAC | 4 N/O                        101.65   26   2642.90    660.73
+Zaštita od dodira priključnih stezaljki, za 4-polne MC3                             156.68    9   1410.12    352.53
+Ugradni okvir za MO3, 3P, -4000A, vodoravne str. priklj.                          18558.36   13 241258.67  60314.67
+Isklopnik, 1-polni, 25A, 0-1, plast.kućište                                         390.41   12   4684.92   1171.23
+Zaštitni prekidač, B karakteristika, 50A, 1-polni, 10kA                             129.21    2    258.42     64.61
+RFB LED 18W, 4000K, 1488lm, 100-240V, IP54, pc, bijele boje                         397.73   12   4772.76   1193.19
+
+                                                                                                         ----------
+UKUPNO                                                                                                     515784.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

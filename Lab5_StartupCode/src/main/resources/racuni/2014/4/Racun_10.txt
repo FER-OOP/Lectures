@@ -1,0 +1,31 @@
+Račun br. 875504
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Instal. umetak 2-42L komplet 14 IR prednja pl. plastika                            2434.81   24  58435.44  14608.86
+Philips Master Stairway štedna žarulja E27,20W,2700K                                155.78   25   3894.50    973.63
+Sklopnik 3P |45kW (85A) [AC3] / 150A [AC1] | 230V AC                               1292.36   29  37478.44   9369.61
+Standardna bakrena sabirnica, 20x5mm |320A| 2.4m,pokositrena                         520.6   10   5206.00   1301.50
+PEYOTE POLE 48cm 180° 8x1W LED, 40° 3000K antracit                                 3537.56    9  31838.04   7959.51
+XL-Collar jakna, vodoodbojna sa puno džepova                                        330.46   11   3635.06    908.76
+Kabel EYY-J (PP00-Y) 5x35 RM                                                      14474.63   30 434238.91 108559.73
+Pozivni modul sa 4 tipke, simplebus, IKALL                                          605.76   13   7874.88   1968.72
+Motorna zaštitna sklopka, 3-polna | 2.20 - 3,20A, vel.S00                            200.5   22   4411.00   1102.75
+N/Ž kutija IP20 za senzore PD-C360 i MD-C360                                        139.68   20   2793.60    698.40
+ORION CONE 140 ovjesna, bež , E14, max. 40W, staklo                                 500.12    8   4000.96   1000.24
+Kompenzacija  LSFC 14% 175/25kvar 600x2000x600mm Samost.orm.                      57326.92    1  57326.92  14331.73
+A03VV-F 4x1mm2, svijetlo-sivi, 500m kolut                                            10000   20 200000.00  50000.00
+Tipka sa simbolom zvona, antracit                                                    15.62    2     31.24      7.81
+Tipka s ručicom,plava,osvijetljena,2 polož.,50°,bez povrata                          44.43   15    666.45    166.61
+Pella-S LED 5W 3000K 145lm, IP54, bijele boje                                       331.49   13   4309.37   1077.34
+Kabel H03VV-F (PP/L) 4x0,75mm2, bijeli, 50m kolut                                    10000    2  20000.00   5000.00
+Piros-II-R/A2 LED 15W 3000K 1095lm, IP20, bijele boje                               464.13   27  12531.51   3132.88
+MEDO 60 stropna svjetiljka, četvrt.,srebrne boje,4xT5 24W                          2184.14   24  52419.36  13104.84
+
+                                                                                                         ----------
+UKUPNO                                                                                                     941091.7
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

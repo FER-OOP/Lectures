@@ -1,0 +1,22 @@
+Račun br. 146936
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+51100TR/B,  1L UGRADNA KUTIJA bez vidljivog ruba, crne b.                           145.81   23   3353.63    838.41
+Sklopnik 3P |7.5kW (18A) [AC3] / 32A [AC1] | 110V AC | 1N/O                         200.39   29   5811.31   1452.83
+Sklopnik vel. 00 | 4kW (9A) [AC-3] | 24VAC, 50Hz | 1 N/C                            102.44   21   2151.24    537.81
+Odvodnik prenapona klase C, TNC, 255V/20kA (SET) + pom. kon.                        563.11    5   2815.55    703.89
+Vijak sa upuštenom glavom, za drvo, 4x50mm                                           19.81   25    495.25    123.81
+KALU LED 1 FLOOR podna svjetiljka, 1x10W, 3000K, bb/cb                             1188.46    3   3565.38    891.34
+GLENOS završni pokrov za profil 1808, sive boje                                       37.5   11    412.50    103.13
+EUTRAC T-spoj desna, crne b.                                                        437.43    9   3936.87    984.22
+SAT ut. kr. 3-struka,R/CATV/SAT,kl.A,18dB, prog.,bez okvira                         147.77   18   2659.86    664.97
+Signalni fleksibilni kabel YSLCY-JZ 4x 6 sivi                                       4604.6   21  96696.60  24174.15
+
+                                                                                                         ----------
+UKUPNO                                                                                                    121898.19
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

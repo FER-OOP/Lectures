@@ -1,0 +1,29 @@
+Račun br. 906110
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+H03VVH2-F 2x0,75mm2, bijeli, YML-fl 100m kolut                                       10000   16 160000.00  40000.00
+Plasto LED 30W, 3000K, 1800lm, 230V, IP65, plastika,antracit                        649.65   23  14941.95   3735.49
+Zaštitni prekidač, C karakteristika, 0.5A, 1-polni, 10kA                            102.41   11   1126.51    281.63
+BERET G12 Downlight, bb                                                             437.43   25  10935.75   2733.94
+L-SE završni poklopac za montažne šine MRE (2 kom)                                   20.78   27    561.06    140.26
+Kabel H05VVC4V5-K 2x 0,75 sivi                                                       10000   13 130000.00  32500.00
+Okvir za IKALL, 1-struki,srebrni                                                    284.29   22   6254.38   1563.60
+PLASTRA Tube zidna svjetiljka, 2xGU10, okrugla, gips                                374.92    7   2624.44    656.11
+UPS Senzor temperature i digitalni U/I modul RJ11 - RJ11                           1006.38    7   7044.66   1761.17
+Tipka s ključem,1-0-2/60°/bez povr./ključ izvl. u sva 3 pol.                        197.06   19   3744.14    936.03
+Tipkalo+LED, 16A, 24V AC/DC, 1 N/O + 1 N/C, montaža na DIN                           86.83   27   2344.41    586.10
+Podnožje samostoječeg ormara 600x400x200mm                                         1013.69   12  12164.28   3041.07
+Fluokompaktna žarulja TC-Tel 18W 840 Gx24Q-2                                          24.2   19    459.80    114.95
+Fleksibilni fleks. kabel, cat 5e U/UTP, PVC, sivi, 305m                             588.75   30  17662.50   4415.63
+Assembly of an LED System according to the customers request                       1104.99   29  32044.71   8011.18
+LED napajanje TC 4W/350mA, IP20                                                      150.6   18   2710.80    677.70
+Punto-S 2x50W GU5,3 MR16, 12V, IP20, aluminij                                       161.18   29   4674.22   1168.55
+
+                                                                                                         ----------
+UKUPNO                                                                                                    409293.62
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

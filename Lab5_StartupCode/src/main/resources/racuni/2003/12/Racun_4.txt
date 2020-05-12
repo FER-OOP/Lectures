@@ -1,0 +1,14 @@
+Račun br. 297840
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Serijski ormar AS, 1-vrata, 2200x800x600 (VxŠxD), RAL 7035                          4217.7   11  46394.70  11598.68
+LED napajanje 240W/24V IP67                                                        2136.22   11  23498.42   5874.60
+
+                                                                                                         ----------
+UKUPNO                                                                                                    69893.125
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

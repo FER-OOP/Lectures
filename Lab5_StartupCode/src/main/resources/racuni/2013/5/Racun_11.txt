@@ -1,0 +1,29 @@
+Račun br. 849083
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+PROFUNO LED Spot, 3000K, 60°, uklj. 3F adapter, crne boje                          1250.97    6   7505.82   1876.45
+Linijska svjetiljka SOLO 2 T5 2x35W ECG, bijela                                      249.3    7   1745.10    436.27
+Minijaturni relej, 4C/O, 6A, 125VDC, serije PT                                       46.91   13    609.83    152.46
+TRUKKO, LED zidna svjetiljka, 60cm                                                  750.35   12   9004.20   2251.05
+Smith-II-R LED 3W 3000K 200lm, IP54, bijele boje                                    278.44   23   6404.12   1601.03
+FI-blok 40A, 4-polni, 300mA, S izvedba                                                4290   14  60060.00  15015.00
+Panik svjetiljka LED 7M 1.5W 6h NiMh                                                635.41   11   6989.51   1747.38
+Nadgradna svjetiljka SARS 2 ECO T8 2x58W CCG, ind, bijela                           369.06   29  10702.74   2675.69
+Sigma Single 20W, 4000K, 1400lm, 120°, alu, antracit                                251.91    1    251.91     62.98
+Kabel EYY-O (PP00) 3x16RE                                                            10000   26 260000.00  65000.00
+Sutil Round  LED 3W, 3000K, 180lm, 120°, IP40, sive boje                             99.51    9    895.59    223.90
+Zaštitni prekidač, B karakteristika, 6A, 1-polni+N, 10kA                             98.86   21   2076.06    519.02
+"Opt. razdjelnik, 4 niti,LC,50/125µm OM3, izvlačivi,19"",1U"                        494.24   15   7413.60   1853.40
+Finožični PVC-om izolirani vodič H07V-K (P/F) 95mm2, crni                          7797.46   16 124759.36  31189.84
+PlanoCentro 000, senzor prisutnosti, pomoćni, strop , bijeli                       2918.03   27  78786.81  19696.70
+Ventilator 230VAC, 15W, 50/60Hz, 160m3/h, 120x120mm                                 114.19    3    342.57     85.64
+Tipka sa simbolom zvona, termički postojana, biserno bijela                          38.37   21    805.77    201.44
+
+                                                                                                         ----------
+UKUPNO                                                                                                    578352.94
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

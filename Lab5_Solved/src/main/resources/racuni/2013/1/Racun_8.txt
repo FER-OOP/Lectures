@@ -1,0 +1,16 @@
+Račun br. 1020613
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Panik svjet. KC Wireless sa aku.bat LED 3h 230VAC zidna                            1577.82   10  15778.20   3944.55
+Industrijska utičnica, 5 polna, 16A, IP44, ugradna, kosa                             63.89   18   1150.02    287.51
+Zdina svjetiljka Cube-WL2, E27 PAR30, 2x75W, IP54, siva                             285.03   13   3705.39    926.35
+Britespot ES111 žarulja, 70W, 24°,GX10 3000K                                        437.43    1    437.43    109.36
+
+                                                                                                         ----------
+UKUPNO                                                                                                     21071.04
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,21 @@
+Račun br. 361973
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+L-SE umetak DM 1.2 PAR-L 1x52W LED 4350lm/840                                      1601.15    1   1601.15    400.29
+NEW TRIA LED DL četvrtasti Set, 12W, 3000K, 38°, bijele boje                        938.06   11  10318.66   2579.67
+Zakovica 6mm, pak.=100 kom.                                                          74.93    8    599.44    149.86
+Ugradna svjetiljka SERH 310 T8 2/36W ECG sj. raster                                  696.4    2   1392.80    348.20
+"1-struki okvir ""Scala"", biserno bijeli"                                            8.75   10     87.50     21.88
+"Gljivasto tipkalo bez povrata, crveno, debl. pritiskom ""0"""                       91.59   29   2656.11    664.03
+LED RETROFIT RL-HRL125 54W 230V 6000lm E27 32000h                                  1388.54   29  40267.66  10066.92
+RUSTY CONE podna svjetiljka, E14 max. 40W, zahrđani čelik                          1250.97   15  18764.55   4691.14
+LED Flexstrip kofer sa uzorcima                                                     709.37    7   4965.59   1241.40
+
+                                                                                                         ----------
+UKUPNO                                                                                                     80653.45
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

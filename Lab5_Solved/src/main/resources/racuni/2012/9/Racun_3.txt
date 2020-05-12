@@ -1,0 +1,27 @@
+Račun br. 540786
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Nadgradna svjetiljka SAP ECO T8 2x58W ECG, bijela                                   346.72   16   5547.52   1386.88
+Standardna bakrena sabirnica, 12x5mm |200A| 2.4m,pokositrena                        325.75   10   3257.50    814.38
+EUTRAC 3-fazna nadgradna šina duljine 1 metar, crne boje                            218.46   14   3058.44    764.61
+Industrijska svjetiljka SCUP PC 1x250W,E40,MT/ST, CCG, siva                           8542   22 187924.00  46981.00
+Stolni nosač za SMART monitor                                                      1291.76   25  32294.00   8073.50
+Okvir 2M line, mat crni                                                              40.32   27   1088.64    272.16
+Strujni trafo, 400/5A, 40X10                                                        151.39    7   1059.73    264.93
+Vodotijesna svjetiljka DEVA ECO PC 1x28W ECG                                        228.51    3    685.53    171.38
+LED DALI PWM Dimer DW                                                               803.29   25  20082.25   5020.56
+Mikro sklopnik | 2.2kW (5A) [AC3] | 230V AC | 3NO + 1NC                              81.13    4    324.52     81.13
+Ručna svjetiljka, 3W Power-LED, Li-ion, autonomija 4h, IP44                         984.68    6   5908.08   1477.02
+Kuka ML 6x35mm Mat. 1.4016, visine 45mm                                              73.54   12    882.48    220.62
+Kabel EYY-J (PP00-Y) 4x16 RE                                                       5371.69   28 150407.31  37601.83
+Prespojni kabel RJ45 STP cat.6a/10GB, LS0H, sivi, 3.0m                               43.43   12    521.16    130.29
+Sklopka 1-0-2, 16A, 2 C/O, montaža na DIN nosač                                      87.81   25   2195.25    548.81
+
+                                                                                                         ----------
+UKUPNO                                                                                                     415236.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

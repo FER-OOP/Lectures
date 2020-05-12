@@ -1,0 +1,20 @@
+Račun br. 644047
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Montažna ploča za AS/KS ormare, 1800x1200mm (VxŠ)                                   976.89    6   5861.34   1465.33
+"Opt. razdjelnik, 8 niti, ST, 62,5/125µm OM1, izvl.,19"",1U"                           817   16  13072.00   3268.00
+Nazidna križna sklopka, siva, 10A, IP44, na vijak                                     2102   13  27326.00   6831.50
+Punto-LR-R/A1 50W GU5,3 MR16, 12V, IP20, brušeni krom                                21.96   29    636.84    159.21
+Lamelirana bakrena sabirnica, 617A, duljina 2m, 5x32x1mm                           1013.57   24  24325.68   6081.42
+FI isklopni relej, 300mA, 1 preklopni kontakt, tip A                                614.63   23  14136.49   3534.12
+SOPRANA, PD-5, okrugla, bež b., 3x E27, max. 3x 60W                                1125.94   17  19140.98   4785.24
+Poluvodički motorni kontroler 200-400V/100A bez zaštite                               4701   20  94020.00  23505.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    198519.33
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

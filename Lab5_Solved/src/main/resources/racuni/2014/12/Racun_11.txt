@@ -1,0 +1,17 @@
+Račun br. 536808
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+9828/D/2, 28W 2D 2PIN DL                                                              3.71    6     22.26      5.57
+Telekomunikacijski kabel vodonepropusan F-2YA2Y 2x2x0,8                              10000   22 220000.00  55000.00
+Preklopnik mreža-0-Not, pričvrš.na sabirnicu, 3-polna, 100A                        1714.31   30  51429.30  12857.33
+Zatvarač veličine 1, 3-polni (tvornički ugrađen)                                      4970   24 119280.00  29820.00
+Poluvodički mot.kontroler 200-440V/48A sa bypass i zaštitom                           4701    3  14103.00   3525.75
+
+                                                                                                         ----------
+UKUPNO                                                                                                    404834.56
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

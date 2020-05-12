@@ -1,0 +1,33 @@
+Račun br. 115229
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+NEW TRIA I GU10 downlight, četvrt., mat crne b., max. 50W                           205.96    1    205.96     51.49
+Distantni vijci za podizanje krovnog panela kod AS/KS ormara                        195.53   12   2346.36    586.59
+Gumeni savitljivi kabel NSSHöu-J 4x2,5, žuti                                         10000    8  80000.00  20000.00
+"2-struki okvir ""Scala"", alu efekt"                                                90.41    6    542.46    135.62
+Tenora WL-1 zidna svjetiljka, E27, max. 60W, kratka, krom/bb                        875.55   11   9631.05   2407.76
+Dijagonalno križna spojnica, traka 30mm-traka 30mm, 2-djelna                         19.23   19    365.37     91.34
+CYGNIS LED stolna svjetiljka                                                       1433.11   21  30095.31   7523.83
+Plosnati kut, SIGNO BK 70/130, RAL 9010                                             201.97   26   5251.22   1312.81
+Mia-R 70W G8,5, 230V, IP20, sive boje                                                 5.74    4     22.96      5.74
+N/Ž inst. razdj. 1A-21, 7-redni, 91 ŠM,1055x380x250mm                              2319.05   13  30147.65   7536.91
+Finožični PVC-om izolirani vodič H07V-K (P/F) 16mm2, ž/z                           1193.14    4   4772.56   1193.14
+Signalni fleksibilni kabel YSLY-JB 5x10 sivi                                         10000    9  90000.00  22500.00
+OSSA R7s, ovalna, mat crna, R7s 78mm, max. 100W, gore/dolje                         437.43    6   2624.58    656.15
+Mini grijač 15W, 9-36V AC/DC                                                        325.22   26   8455.72   2113.93
+Sklopnik 4P |7.5kW (18A) [AC3] / 32A [AC1] | 230V AC                                242.13   19   4600.47   1150.12
+Kabel JB-YY 2x0,8mm2                                                                 10000    2  20000.00   5000.00
+PADI LED 600, aluminij, neutr. bijele boje SMD LED                                  374.92   29  10872.68   2718.17
+"Optički prespojni panel 19"", 1U, uklj. 4 spojnice ST, MM"                         575.48   28  16113.44   4028.36
+Sklopka+LED, 16A, 24V AC/DC, 1 N/O + 1 N/C, montaža na DIN                           95.53   11   1050.83    262.71
+Katalog - Kompaktni prekidači snage serije CUBICO                                        0   30      0.00      0.00
+Razvodna kutija, nadžbukna, 85x85x40mm, membrane, IP54, siva                         891.3   29  25847.70   6461.92
+
+                                                                                                         ----------
+UKUPNO                                                                                                    342946.34
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

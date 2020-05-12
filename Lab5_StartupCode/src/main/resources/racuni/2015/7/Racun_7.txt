@@ -1,0 +1,20 @@
+Račun br. 910508
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+FID sklopka AMPARO, 40-2-03/AC, 10kA                                                207.53    7   1452.71    363.18
+Otvoreni prekidač, 4P, 55kA, 2000A, fiksni,vod. str. priklj.                      33494.63   16 535914.06 133978.52
+Finožični PVC-om izolirani vodič H05V-K (P/F) 1mm2, bijeli                            93.1    7    651.70    162.93
+N/PE sabirnica, 63A, s vijcima, duljine 1m                                           167.4    2    334.80     83.70
+EURO CUBE Spot, 4000K, CRI90, 30°, uklj. 3F adapter, bb                            1433.11   22  31528.42   7882.11
+Grebenasta sklopka u kućištu (crveno/žuta), 0-1/4P/40A, IP65                        508.28   25  12707.00   3176.75
+Video vanjski panel, 24 tipke, sa PTT otvorom                                      3119.45    5  15597.25   3899.31
+SAM08  query mod.8 nez.ulaza za isk/uklj rasvj.,preinstal.                         3070.92   15  46063.80  11515.95
+
+                                                                                                         ----------
+UKUPNO                                                                                                    644249.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

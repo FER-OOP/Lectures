@@ -1,0 +1,18 @@
+Račun br. 914553
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+BIG THEO wall OUT ES111 zidna svj.,četvrt.,bi.b,GU10,max.75W                        562.63   30  16878.90   4219.73
+HDMI rotacijski adapter 360°, HDMI A ženski-HDMI A muški                             53.88    8    431.04    107.76
+Kompaktni prekidač snage tip VE, 4P, 150kA, 400A+izvl. modul                      11591.05   27 312958.34  78239.59
+PARA 380 svjetiljka, E27 grlo, eloksirani aluminij                                  750.35    8   6002.80   1500.70
+Zaštitni prekidač AMPARO 6kA, C 50A, 3P+N                                            257.5   15   3862.50    965.63
+Podnožje prema širini ASR/KSR ormara, 600x200mm, AISI304                              4056   28 113568.00  28392.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     453701.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

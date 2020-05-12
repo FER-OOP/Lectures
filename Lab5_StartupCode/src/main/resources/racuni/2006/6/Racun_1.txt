@@ -1,0 +1,28 @@
+Račun br. 549699
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Industrijska  svjetiljka CERES 1x140W,LED 1-10V,17200lm/657                        3914.85    2   7829.70   1957.43
+LED Push dimer Mini Mono                                                            391.91    1    391.91     97.98
+Poliester ormar, vrh i dno zatv., 1 vrata 750x1000x312 (VŠD)                       2655.98   12  31871.76   7967.94
+Zamjenjiva skala, 72x72mm, 1000/2000/5A AC                                            4399    2   8798.00   2199.50
+Zaštitna mrežica 165/70 za zidne i stropne senzore                                  223.69    8   1789.52    447.38
+Optički prespojni kabel duplex LC/FC, 50/125µm OM2, 10.0m                           126.96   14   1777.44    444.36
+Označne pločice 451-500 (pločica sa 2x od 451-500)                                   16.83   27    454.41    113.60
+KALU FLOOR 2, podni reflektor                                                      1000.75    4   4003.00   1000.75
+GILA zidna ugradna svjetiljka, LED, tople bb                                        687.83   13   8941.79   2235.45
+Razdjelnik uzidni, IP40, 1-redni, 18 modula, prozirna vrata                         107.16   19   2036.04    509.01
+Montažna ploča sa pregradom UP2 220x430x15mm                                          4172   12  50064.00  12516.00
+6 tunel stezaljki 120-240mm² za MZ3                                                 440.44   27  11891.88   2972.97
+NV rastavna pruga vel.00|160A,3P,M8/mostić 70mm²,sustav100mm                        416.77   27  11252.79   2813.20
+Grace-R LED 12W 3000K 400lm, IP20, sive boje                                        234.51   11   2579.61    644.90
+Zaštitni prekidač AMPARO 6kA, C 13A, 3P+N                                            95.31   28   2668.68    667.17
+Kabelska uvodnica s maticom, PG11, IP68                                               1.93   18     34.74      8.68
+
+                                                                                                         ----------
+UKUPNO                                                                                                    146385.28
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

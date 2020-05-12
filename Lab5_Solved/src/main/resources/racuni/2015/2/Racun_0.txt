@@ -1,0 +1,22 @@
+Račun br. 848378
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+40003/W,  ŠINA 3m, bijele boje                                                      298.38    5   1491.90    372.98
+"Samostojeći komunikacijski ormar DS 600x1300x1000, 19"", 27U"                     3444.51   14  48223.14  12055.79
+Signalni fleksibilni kabel YSLY-JZ 3x1,5 sivi                                       545.46    4   2181.84    545.46
+Downunder OUT LED L, 3,3W, 3000K, antracit boja                                     437.43    3   1312.29    328.07
+Signalna LED svjetiljka, 110-240V AC/DC, montaža na DIN                              72.77   20   1455.40    363.85
+Držač za cilindrične osigurače 14 x 51 | 3P | 50A/690V                              329.75   28   9233.00   2308.25
+Signalni fleksibilni kabel YSLCY-OZ 3x 0,75 sivi                                     10000   26 260000.00  65000.00
+Uklopni sat, analogni, dnevni program, QUARZ, 1 N/O, 1ŠM                            238.61   28   6681.08   1670.27
+LED 85-264V AC plavi za prednju montažu                                              52.68   21   1106.28    276.57
+Pomoćni kontakt, normal, 1 C/O, za MZ                                                31.91    7    223.37     55.84
+
+                                                                                                         ----------
+UKUPNO                                                                                                     331908.3
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

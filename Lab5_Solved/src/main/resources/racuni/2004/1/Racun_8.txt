@@ -1,0 +1,28 @@
+Račun br. 693915
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Finožični PVC-om izol. vodič H07V-K (P/F) 50mm2, ž/z HPV                             10000   30 300000.00  75000.00
+Multifunkcionalna olovka                                                              9841   29 285389.00  71347.25
+KALU LED 1 FLOOR podna svjetiljka, 1x10W, 3000K, bb/cb                             1188.46   28  33276.88   8319.22
+Lokot za zaključavanje MZ3                                                           33.61   30   1008.30    252.08
+Cilindrični osigurač, 10 x 38, 15A, 600VAC, 300VDC, klasa CC                        103.76   17   1763.92    440.98
+Serijski ormar AS, 2-vrata, 1800x1200x600 (VxŠxD), RAL 7035                        5056.97   16  80911.52  20227.88
+LED MEGAMAN MR16 GU5,3 5W, 2800K, 12V, DG, 36°                                       64.02   11    704.22    176.05
+PARA CONE 14 ovj.svj. okrugla bijele/zlatne b.GU10 uklj.1f a                        562.63    5   2813.15    703.29
+LEDDISK HORN DL, bi.b., 4000K                                                       813.03    5   4065.15   1016.29
+Okvir MO 4x2M, line, crni                                                            54.23   30   1626.90    406.73
+LS-FI (KZS), C/40A/300mA, 1P+N, Tip AC, 6kA                                           4281   21  89901.00  22475.25
+Kompaktni prekidač snage tip A, 4P, 150kA, 100A, utični                            3450.61   27  93166.48  23291.62
+Doplata za regulator PROPHI12RS umjesto RM9606                                      7530.7    1   7530.70   1882.67
+LED Driver, DALI & Push to dimm, 350-900mA, 12-24VDC, 10-20W                         329.8   26   8574.80   2143.70
+Sutil Round LED Panel, 20W, 4000K, 1330lm, IP40, siva                               476.46   27  12864.42   3216.10
+Razdjelnik nazidni, IP55, 3-redni, 36 modula, prozirna vrata                        509.38    2   1018.76    254.69
+
+                                                                                                         ----------
+UKUPNO                                                                                                     924615.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,17 @@
+Račun br. 919391
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ugradna svjetiljka SERH XTP T5 4x54W ECG M625, bijela                              1642.58   18  29566.44   7391.61
+Ovjes za KALOS ovjesnu svjetiljku                                                   644.19   19  12239.61   3059.90
+Nap.stezaljka za WAVE, 2kom krom                                                     68.25   19   1296.75    324.19
+Uzidni okvir s vratima - M3000, 4U-33                                              1881.14   12  22573.68   5643.42
+Dvostruka NV pruga vel.3 (630A), 3P isklop, M12, 185mm                             5319.04   29 154252.16  38563.04
+
+                                                                                                         ----------
+UKUPNO                                                                                                    219928.64
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

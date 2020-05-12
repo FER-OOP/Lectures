@@ -1,0 +1,20 @@
+Račun br. 493547
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+WAVE WALL zidna svjetiljka 2x4,6W LED, 3000K, 700lm, crne b.                       1125.94   20  22518.80   5629.70
+Plosnati profil, duljina 1m                                                          59.18   22   1301.96    325.49
+Kućište za MZS, IP54                                                                147.24   23   3386.52    846.63
+Okvir plitki s vratima i umetkom za KVM, 4-redni,48+8 modula                        429.56   18   7732.08   1933.02
+Yela-R 2x26/32/42W G24q, 230V, IP20, bijele boje                                      7.77    6     46.62     11.65
+Prozirna vrata, akril, za WSM1006xx, otvor: 859X427mm                              1071.69   12  12860.28   3215.07
+Instal. umetak 3-39L komplet 13 IR prednja pl. plastika                             2704.4    3   8113.20   2028.30
+Aluminijski montažni nosač 4H                                                         26.1    2     52.20     13.05
+
+                                                                                                         ----------
+UKUPNO                                                                                                    56011.656
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

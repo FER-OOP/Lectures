@@ -1,0 +1,30 @@
+Račun br. 112310
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kompaktni prekidač snage tip A, 3P/50A/25kA, MC1                                    694.81   26  18065.06   4516.27
+SB Top switch za sustave sa max. 2 Quadra vanjska panela                            977.35   16  15637.60   3909.40
+UPS GENIO Flex Plus Tower 1100VA 740W 4min 1f/1f, Line-Int.                        3231.12    3   9693.36   2423.34
+TRISTAN nadgradna svjetiljka T8, 2x18W CCG, bb                                      374.92   15   5623.80   1405.95
+LED traka 35 CW Ra=90+, 7,6W/m, 680lm/m, 24VDC,IP44, l=5m                           870.91    3   2612.73    653.18
+Vremenski relej, multifunkcijski, 12-240VAC/DC, 1 C/O, 8A                           213.08   12   2556.96    639.24
+Prespojni kabel RJ45 cat.5e neoklopljen, PVC, žuti, 5.0m                             17.72    4     70.88     17.72
+Rozeta, 3 izlaza, crvene boje                                                       299.73    9   2697.57    674.39
+Kratkospojnik za 2 stezaljke IK100070-A                                               7.31    3     21.93      5.48
+Cube-WL-Q 9W GX53, 100-240V, IP54, sive boje                                        136.68    2    273.36     68.34
+Reflektor CAPRI simetrični 1x250W E40 HIT/HST, crna                                 677.47   22  14904.34   3726.08
+Teretna sklopka, 4P, 63A                                                            656.36    6   3938.16    984.54
+FID sklopka 63-4-01/A (puls)                                                        710.93   22  15640.46   3910.11
+Voltmetarska preklopka, 1P, L-L/L-N, na DIN nosač                                   209.44   10   2094.40    523.60
+Zaštitni prekidač, B karakteristika, 13A, 3-polni, 6kA                              100.57   10   1005.70    251.43
+Adapter za sustav 60mm, EEC 32A, 2 nosača, širine 45mm                              149.96    5    749.80    187.45
+Klizna matica M5 (100 kom.)                                                           4160    2   8320.00   2080.00
+Kompenzacija  LSK 7% 25/6,25kvar 600x1250x300mm zidni ormar                       19128.36   27 516465.69 129116.42
+
+                                                                                                         ----------
+UKUPNO                                                                                                     620371.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

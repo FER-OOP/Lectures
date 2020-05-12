@@ -1,0 +1,22 @@
+Račun br. 388112
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Termoskupljajući bužir 10cm sa ljepilom                                              13.49   29    391.21     97.80
+Majica Store dugih rukava -X-large-                                                 255.48   18   4598.64   1149.66
+Ugradna svjetiljka SERM 2 A8 L1 T5 2x35W, ECG, bijela                                 8534   20 170680.00  42670.00
+Bimetalni relej za sklopnike vel. 2 | 14,00 - 20,00A                                 218.9    1    218.90     54.72
+EURO SPOT EVG, HQI-T, 15°, bijela b., uklj. 3-f adapter                            1000.75   30  30022.50   7505.63
+Potporni izolator visine 30mm, obostrano s maticom M8, 1.5kV                          4837   16  77392.00  19348.00
+LS-FI (KZS), C/10A/30mA, 1P+N, Tip A, 6kA                                           286.44   17   4869.48   1217.37
+NEW TRIA II QRB111 SQUARE, uklj. opruge, crne boje                                  531.37   20  10627.40   2656.85
+FGL OUTDOOR SQUARE Downlight, MR16, srebrne boje                                    218.46   28   6116.88   1529.22
+Meiva-Q/A2 LED 20W 3000K 1500lm, IP20, bijele boje                                  542.36   12   6508.32   1627.08
+
+                                                                                                         ----------
+UKUPNO                                                                                                     311425.3
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,17 @@
+Račun br. 110352
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+M-Bodywarmer, podstavljen, vodoodbojan                                              460.23   30  13806.90   3451.73
+Kućište n/ž za 1 modul (SFA)(SFB), Š46xV30xD65, RAL9010                               6.97    7     48.79     12.20
+Telekomunikacijski kabel F-YAY 3x2x0,6mm2                                            10000   17 170000.00  42500.00
+Robin-II-Q/A1 75W GU10 AR111, 100-240V, IP20, crne boje                             124.52   15   1867.80    466.95
+Servisni daljinski upravljač za Sphinx RC 104                                        99.99   13   1299.87    324.97
+
+                                                                                                         ----------
+UKUPNO                                                                                                    187023.36
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

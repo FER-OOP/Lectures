@@ -1,0 +1,24 @@
+Račun br. 497398
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Lana-II-R/A2 50W G53 AR111, 230V, IP20, sive boje                                   105.76   25   2644.00    661.00
+"2-struki okvir ""Fashion"", sivi, IP44"                                             149.5   15   2242.50    560.63
+Minijaturni relej, 2C/O, 12A, 24VDC serije PT                                        34.71    4    138.84     34.71
+Savitljiva cijev (lagana) M20, 320N, 50m, HF, svijelto-siva                          686.4   11   7550.40   1887.60
+Kabel E-Y2Y-J 4x10RM                                                                 10000   19 190000.00  47500.00
+L-SE LSK 1.5 1x68W LMW 6950lm 830 ECG, bijele boje                                 1228.16    2   2456.32    614.08
+"Pokrov plosnatog tipkala, crni, oznaka ""+"""                                       13.44    8    107.52     26.88
+Set od dva antivandal vijka s ključem (za vanjski panel)                                76   24   1824.00    456.00
+P/Ž sklopka s ključem 1P, 0-1                                                       455.88   17   7749.96   1937.49
+Završni poklopac LBF okrugli sa rupom                                                 8.37   26    217.62     54.40
+DRAGAN SENSOR, antarcit, E27, max. 2x24W, IP44, sa senzorom                        1125.94   20  22518.80   5629.70
+Kutnik za kabelske kanale širine 3                                                   70.57   25   1764.25    441.06
+
+                                                                                                         ----------
+UKUPNO                                                                                                    239214.19
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

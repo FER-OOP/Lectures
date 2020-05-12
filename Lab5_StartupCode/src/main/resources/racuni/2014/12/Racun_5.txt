@@ -1,0 +1,23 @@
+Račun br. 996080
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+SAT inline pojačalo 10dB,  47 - 2.200MHz, SVS 2-04                                   51.03   22   1122.66    280.66
+Okvir za panel, aluminij                                                            580.45    8   4643.60   1160.90
+Ručica za VC1, direktna montaža, s prednjim pokrovom                                118.25    6    709.50    177.38
+Kompaktni prekidač snage tip VE, 3P, 50kA, 800A                                   11868.38    3  35605.14   8901.29
+Tipkalo s povratom, visoko, zeleno                                                   45.25   22    995.50    248.88
+NEW TRIA 68 LED DL okrugli Set, 9W, 3000K, 38°, bijele boje                         437.43    9   3936.87    984.22
+Napajanje 3W, 700mA, IP65                                                           100.52   19   1909.88    477.47
+Majica Store, ženska, dugih rukava -small-                                          255.48   25   6387.00   1596.75
+Plafonjera RKL 2 1x60 E27 IP40 bijela                                               125.66   23   2890.18    722.55
+Ina-R LED 7W 4000K 530lm, dimabilna, 700mA, IP65, bijele b.                         249.21   13   3239.73    809.93
+HORN Downlight MR16, bij.                                                           143.27   18   2578.86    644.72
+
+                                                                                                         ----------
+UKUPNO                                                                                                    64018.918
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

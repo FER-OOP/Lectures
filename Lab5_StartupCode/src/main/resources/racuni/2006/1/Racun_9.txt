@@ -1,0 +1,16 @@
+Račun br. 357754
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Preklopnik 3P/32A, mogućnost zaključavanja                                          362.27   12   4347.24   1086.81
+Kompaktni prekidač snage tip A, 3P/63A/50kA, MC1                                    768.86    2   1537.72    384.43
+KARDAMOD SURFACE četvrtasti QRB SINGLE stropna svj., crne b.                       1000.75   11  11008.25   2752.06
+Završni poklopac profila SPL četvrtasti sa rupom i vijcima                            50.2   14    702.80    175.70
+
+                                                                                                         ----------
+UKUPNO                                                                                                    17596.012
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

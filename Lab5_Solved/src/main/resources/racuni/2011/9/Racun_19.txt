@@ -1,0 +1,29 @@
+Račun br. 941484
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zatvarač, 3-polni, veličina 1 (kao rezervni dio)                                      4970   21 104370.00  26092.50
+Tuljci,izolirani, dvostruki, 2x16mm2, L2=14mm (pak.50 kom)                           132.4   30   3972.00    993.00
+Podnožje prema dubini AS/KS ormara, 500x200mm, RAL 7022                              173.1   15   2596.50    649.13
+Zaštitni prekidač, C karakteristika, 20A, 1-polni+N, 10kA                           103.06    7    721.42    180.35
+Stražnji priključak za 4-polne MC2 (4 kom.)                                         224.97    5   1124.85    281.21
+Montažna ploča za AS/KS ormare, 2000x1200mm (VxŠ)                                  1083.49   10  10834.90   2708.73
+"Optički prespojni panel 19"", 1U, uklj. 4 spojnice SC MM"                          627.44    8   5019.52   1254.88
+Modul signalne svjetiljke, trajno žuto svjetlo, 230V AC                              446.2   10   4462.00   1115.50
+Bistabilni relej, 48VAC|24VDC, 1 C/O, 16A, na DIN nosač                             312.31    7   2186.17    546.54
+NV sklopka-rastavljač,vel.2, 3p,M10, za 100mm sistem                                  4821    5  24105.00   6026.25
+Kabel H03VV-F (PP/L) 3x0,75mm2, svijetlo-sivi, 100m kolut                            10000   14 140000.00  35000.00
+Teretna sklopka, 2/4P, 1000A, opcija: daljinski isklop,1kVDC                      18738.12    6 112428.72  28107.18
+Optički prespojni kabel duplex, SC/FC, 50/125µm OM2, 10m                             117.9   11   1296.90    324.23
+N/Ž okvir+vrata,serijski,3A-42,D400mm,str.pl.+zakr.ruč.,IP54                       4605.51   22 101321.22  25330.30
+Prednja ploča za razdjelnike sa kabelskim kanalom, 5G3                                4160   30 124800.00  31200.00
+Metalhalogena žarulja 150W CDM-TD, WDL                                              249.72   13   3246.36    811.59
+Instalacijski sklopnik 25A | 3 N/O + 1 N/C | 24V AC                                 150.65   10   1506.50    376.63
+
+                                                                                                         ----------
+UKUPNO                                                                                                     643992.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

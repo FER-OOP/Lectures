@@ -1,0 +1,26 @@
+Račun br. 931179
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zakretna ručica s produžnom osovinom, zaključavanje, za MZ3                         260.95   20   5219.00   1304.75
+Senzor prisut. stropni, thePrema S360-100, 100m2,1kanal,bij                        1184.25   26  30790.50   7697.63
+Muriel-R 28W G9, 100-240V, IP44, krom                                               146.65   14   2053.10    513.27
+Pokrov za svjetleće tipkalo, žuti                                                     8.52   20    170.40     42.60
+Kabel H05VV-F (PP/J) 2x1mm2, svijetlo-sivi, 50m                                      10000   29 290000.00  72500.00
+Napajanje 156W, 12V, IP67                                                           748.84    1    748.84    187.21
+GLENOS LED zidna ugradna svjetiljka, tople bb                                       312.23    6   1873.38    468.35
+Ina-R LED 7W 3000K 500lm, dimabilna, 700mA, IP65, bijele b.                         249.21    3    747.63    186.91
+Glenos akrilni pokrov za Profile 1808, 2508, 2720, 1m                                62.51   23   1437.73    359.43
+Flyer kit za montažu na sajlu                                                       750.18   19  14253.42   3563.35
+Set za ovjes za 3-f šinski sustav, L=1500mm                                          79.58   18   1432.44    358.11
+Motorna zaštitna sklopka, 3-polna | 16 - 25A                                        204.98    8   1639.84    409.96
+Tel. ormarić n/ž za 10 letvica 2/10, bez bravice                                    290.01   30   8700.30   2175.08
+Držač za cilindrične osigurače 10 x 38 | 3P + N | 32A/690V                             128   18   2304.00    576.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    361370.56
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

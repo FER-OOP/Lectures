@@ -1,0 +1,19 @@
+Račun br. 988731
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Neo-WL-III-R LED 1W, IP44, sive boje                                                 57.44   22   1263.68    315.92
+Kabel H05VV-F (PP/J) 3x0,75mm2, bijeli, 50m                                          10000   11 110000.00  27500.00
+SAT multiswitch 9 IN 8 OUT za quattro LNB,unut. napajanje                           790.43   14  11066.02   2766.50
+Sphinx 104-360/2, senzor pris. DIM, 2 kanala, p/ž, stropni                          816.23   16  13059.68   3264.92
+ROX ACRYL UP-DOWN zidna svj., brušeni aluminij                                     1558.31    6   9349.86   2337.47
+NEW TRIA 3 DL četvrtasti Set, 3x6W, 3000K, 38°, crne boje                          1125.94   10  11259.40   2814.85
+Wieland konektor, ženski, bijele boje, 3-polni                                       60.34    3    181.02     45.26
+
+                                                                                                         ----------
+UKUPNO                                                                                                    156179.66
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

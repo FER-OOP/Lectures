@@ -1,0 +1,18 @@
+Račun br. 630146
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Bezhal. kabel poboljšanih svoj.za sl. požara N2XH-J 4x16rm                           10000    1  10000.00   2500.00
+LED ES111,  srebrne b., 15W, 140°, 2700K                                            374.92    6   2249.52    562.38
+Pokrov stezaljki ARROW BLUE vel.1                                                     4821   19  91599.00  22899.75
+Puna metalna vrata sa zakret. ručkom, za DW ormare 15U Š=600                        539.93   25  13498.25   3374.56
+Standalone Set Micro 2 for 2 modules, Power 500Wx2,5h                             15315.26   28 428827.28 107206.82
+LED prespojni kabel RJ45 neoklopljen, cat.6, sivi, 30m                              230.71   18   4152.78   1038.20
+
+                                                                                                         ----------
+UKUPNO                                                                                                     550326.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

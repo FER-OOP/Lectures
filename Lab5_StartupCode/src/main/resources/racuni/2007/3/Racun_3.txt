@@ -1,0 +1,15 @@
+Račun br. 454320
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Univerzalna stezaljka 120-300mm², za sabirnice 20x5 - 30x10                         108.26    9    974.34    243.59
+Okomita vodilica kabela za DS/DSZ/DSI ormare 27U                                    195.71   19   3718.49    929.62
+Signalni poklopac za razvodne kutije Ø60mm, crveni                                   86.91    1     86.91     21.73
+
+                                                                                                         ----------
+UKUPNO                                                                                                      4779.74
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

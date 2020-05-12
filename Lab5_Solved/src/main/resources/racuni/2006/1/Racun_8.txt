@@ -1,0 +1,20 @@
+Račun br. 712677
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Priključni kabel za IU008508 / IU008513, 3x0,75mm², 3m, crni                          33.4   22    734.80    183.70
+Tipka s ručicom, 3 položaja, 60°, bez povrata                                        100.7   19   1913.30    478.32
+Podnožje Vartec TII, 1-polno, za VVM modul                                           74.25   20   1485.00    371.25
+Zaštitni LED modul, crveni, 24V AC/DC, za podnožje MT78740                           34.56    9    311.04     77.76
+Voltmetar, 72x72mm, 60V DC                                                          383.58   13   4986.54   1246.64
+Krović za zaštitu WSM ormara od kiše, za ormar 800X260 (ŠxD)                          4066   16  65056.00  16264.00
+Bezhalogeni kabel s el. funkc. do90 Min.(N)HXH-JZ12x1,5reE90                         10000    5  50000.00  12500.00
+STRUCTURN LED 10W, okrugla, crna, 3000K, 60°, uklj. Adapter                         752.87    2   1505.74    376.43
+
+                                                                                                         ----------
+UKUPNO                                                                                                    125992.42
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

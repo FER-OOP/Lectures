@@ -1,0 +1,33 @@
+Račun br. 644137
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+AIXLIGHT PENDANT SYSTEM 1,1m okvir, srebrne boje                                    750.35   25  18758.75   4689.69
+Grebenasta sklopka, 0-1-2/1P/20A,na vrata                                           124.61   27   3364.47    841.12
+Otvoreni prekidač, 3P, 55kA, 1250A, fiksni,vod. str. priklj.                       14737.4   23 338960.22  84740.05
+Univer.opt.kabel A/I-DQ(ZN)BH 12x50/125µm OM3, LS0H-3, nm.                          1523.5    6   9141.00   2285.25
+Zaštitni prekidač, D karakteristika, 2A, 3-polni, 10kA                              198.55   21   4169.55   1042.39
+LED RETROFIT RAL2 60 DIM 9W 230V 827 500lm proz. S14S 20000h                        163.43    5    817.15    204.29
+LS-FI (KZS), C/16A/10mA, 1-polni+N, Tip A                                           475.72    4   1902.88    475.72
+Višežični PVC-om izolirani vodič H07V-R (P/M) 50mm2, ž/z                             10000   10 100000.00  25000.00
+Prednja ploča s otv. za uređaje ø22,5 mm, žuta/bis. bijela,                          75.85   23   1744.55    436.14
+LED svjetleća oznaka, 230V AC, crvena                                                69.51    5    347.55     86.89
+0734/15, Reflektor za 11135L / 65624T 15 °                                           58.62    4    234.48     58.62
+Fleksibilni plosnati kabel za dizalice H07VVH6-F 4x6, crni                           10000   11 110000.00  27500.00
+Poluvodički sklopnik 3-polni | 20A/48-600VAC, 5-24VDC                              1576.43   17  26799.31   6699.83
+17° reflektor 0726                                                                   36.66   25    916.50    229.13
+Zakretna ručica za montažu direktno na MC3 (crna/siva)                              333.03    7   2331.21    582.80
+Sklopnik vel. 0 | 11kW (25A) [AC-3] | 110VAC, 50Hz                                  218.58   12   2622.96    655.74
+Nazidna kutija za MAXI monitor, 216x117x16mm                                        148.83   19   2827.77    706.94
+Adaptor za 1-faznu šinu, bijela b., električni                                       80.76   14   1130.64    282.66
+Držač žaruljice BA 9s, bez žaruljice, dubina ugradnje 50mm                           17.23   13    223.99     56.00
+Strujni trafo, 1500/5A 80X30                                                          4398   17  74766.00  18691.50
+Ugradna downlight svjetiljka EQM 211 1x26W CCG TC-D, bijela                         329.35   14   4610.90   1152.72
+
+                                                                                                         ----------
+UKUPNO                                                                                                     705669.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

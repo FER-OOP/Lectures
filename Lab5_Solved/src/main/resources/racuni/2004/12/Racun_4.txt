@@ -1,0 +1,15 @@
+Račun br. 606300
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Potenciometar, komplet, 10 kOhm                                                     226.04   20   4520.80   1130.20
+"Samostojeći komunikacijski ormar DS 800x1525x800, 19"", 32U"                      3617.79    8  28942.32   7235.58
+Fluo cijev T5|T16 39W/840 G5                                                         42.35    6    254.10     63.52
+
+                                                                                                         ----------
+UKUPNO                                                                                                    33717.223
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

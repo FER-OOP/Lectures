@@ -1,0 +1,22 @@
+Račun br. 677300
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+PROTECTOR K 9V, fotoelektronički detektor dima, bijeli                              201.67   27   5445.09   1361.27
+Luxa 102 FL, LED spot 16W, 3000K, zidna, IP44, crna                                 798.81   26  20769.06   5192.27
+Vrata, metalna za MODUL 160, 6x24 modula                                            466.69   14   6533.66   1633.42
+Optički prespojni kabel duplex, LC/SC, 62,5/125µm OM1, 3m                            65.63   13    853.19    213.30
+Označna traka-ploča 5 x 1-18 za tip CBD.2                                            17.06   21    358.26     89.56
+Plano Square LED Plafo, 22W, 3000K, 1490lm, IP40, bijela                             425.1   15   6376.50   1594.13
+Panik svjetiljka VX LED/3h 230VAC,Autotest, montaža strop.                         2185.45   22  48079.90  12019.97
+ARKTUR SQUARE PLUS LED 220W 22000lm/840 ECG IP66 110°                              5920.91    1   5920.91   1480.23
+7306K/W/45, COB LED GU5,3 6,5w WW 45 ° dimabilna 12v AC/DC                          132.63    6    795.78    198.95
+Zaštitni prekidač MB GR.2 36kA CL 250/3                                            1102.98   29  31986.42   7996.60
+
+                                                                                                         ----------
+UKUPNO                                                                                                   127118.766
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

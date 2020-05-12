@@ -1,0 +1,30 @@
+Račun br. 788757
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Lumo-R LED 15W 4000K 1000lm, IP44, bijele boje                                      245.32   10   2453.20    613.30
+Nosač sabirnica 3P za sustav 60mm, dugi                                              51.54    4    206.16     51.54
+9525M/W/E, 25W E27 WW                                                                10.64   19    202.16     50.54
+Krović za zaštitu WSM ormara od kiše, za ormar 500X155 (ŠxD)                          4066   11  44726.00  11181.50
+SFP modul 1000LX LC singlemodni, 1310nm, 10km                                       388.42    5   1942.10    485.53
+Elektronska prigušnica ECG QTi 2x28/54/220-240                                      161.96   12   1943.52    485.88
+BIG NAILS PLUS zidna svj.,nehrđ.čelik 304, E27,max. 23W,IP44                        938.06   24  22513.44   5628.36
+Minijaturni relej, 4C/O, 6A, 230VAC                                                  49.83   16    797.28    199.32
+"4-struki okvir ""Fashion"", otp. na grebanje, biserno bijeli"                       41.14   26   1069.64    267.41
+TRIA II Downlight, aluminij, srebrne boje, MR16                                      86.41    3    259.23     64.81
+Označne pločice '31-40', Dekafix DY5 (sadrži 50 oznaka)                               8.45   25    211.25     52.81
+Smith-II-Q LED 3W 3000K 200lm, IP54, bijele boje                                    278.44   12   3341.28    835.32
+LOGICOM krović za P/Ž kućišta, 2 modula                                             603.63   30  18108.90   4527.23
+Zaštitni prekidač, C karakteristika, 6A, 1-polni, 10kA                               26.82   26    697.32    174.33
+Nadgradna svjetiljka PRIMO H OPAL T5 1x35W ECG, bijela                              377.13   16   6034.08   1508.52
+IP44 nosač, prazan za 2 modula (SFA)(SFB)                                            73.65    9    662.85    165.71
+Mini-pomoćni sklopnik 4P | 2 N/O + 2 N/C | 24V DC | 10A                             142.77    1    142.77     35.69
+UPS Premium Plus 1000VA 800W 7 min.1/1-fazni/Online                                3903.94   29 113214.26  28303.56
+
+                                                                                                         ----------
+UKUPNO                                                                                                    218525.44
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

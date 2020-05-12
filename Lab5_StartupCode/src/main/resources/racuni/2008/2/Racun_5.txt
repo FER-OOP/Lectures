@@ -1,0 +1,26 @@
+Račun br. 591492
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Bimetalni relej, područje podešenja 0.80-1.20A                                      214.32    6   1285.92    321.48
+Zaštitni prekidač AMPARO 6kA, B 6A, 2-polni                                          66.94    6    401.64    100.41
+Plosnati kabel, 6-žični,crni, za tel. prespojne kabele, 100m                        181.81    3    545.43    136.36
+Terra-R/A1 LED 15W 3000K 850lm, IP67, nehrđajući čelik                             1988.99   30  59669.70  14917.43
+Kompaktni prekidač snage tip A, 3P/100A/100kA, MC1                                 1188.03   30  35640.90   8910.23
+Spoj za 1-f  3-f šine,srebrne boje s mogućnošću napajanja                            61.16   27   1651.32    412.83
+KALU TRACK LEDDISK svjetiljka, bijele b., 3000K, 3-f adapter                       1307.91   15  19618.65   4904.66
+FENDA sjenilo svjetiljke , bež                                                      249.72   25   6243.00   1560.75
+Ispravljač, 3-fazni | 400/24VDC | 15A                                                 4547    5  22735.00   5683.75
+Zaštitni prekidač AMPARO 6kA, C 50A, 3P+N                                            257.5   19   4892.50   1223.13
+Završna pločica za stezaljku IK150004-A, bež                                           1.6    7     11.20      2.80
+DALI USB miš                                                                       2322.43   17  39481.31   9870.33
+Pokrov za BIG LED PLOT okr., 4 zrake, srebrne boje                                  143.65    1    143.65     35.91
+Vodotijesna svjetiljka LINDA Industrie PC 1-11W/840 IP65                            189.26    5    946.30    236.58
+
+                                                                                                         ----------
+UKUPNO                                                                                                    193266.53
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

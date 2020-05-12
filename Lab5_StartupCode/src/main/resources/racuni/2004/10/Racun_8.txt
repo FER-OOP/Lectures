@@ -1,0 +1,22 @@
+Račun br. 862330
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Stražnja ploča za nazidni Modul 2000 | 5R-45                                        598.27   13   7777.51   1944.38
+Adapter za sustav 60mm, EEC 25A, 1 nosač, širine 90mm                               248.16   19   4715.04   1178.76
+Zaštitni prekidač C 25A, 1-polni+N, širine 1 modula                                 106.59    4    426.36    106.59
+Kućište za 3 tipkala, crno-sivo, IP67                                                74.55   16   1192.80    298.20
+Motorna zaštitna sklopka, 3-polna | 0.22 - 0.32A, vel.S0                            206.11   17   3503.87    875.97
+LED traka spoj. 10mm 2kom                                                               25   30    750.00    187.50
+DC zaštitni prekidač, C 40A, 2-polni, 10kA                                          138.94   27   3751.38    937.85
+Ugradna svjetiljka SERH XTP T8 2x36W CCG M600, bijela                              1484.65   27  40085.55  10021.39
+Montažna ploča, poliester, zaIG5454... 490x490x4mm                                    4130    8  33040.00   8260.00
+Cilindar brava za WSM ormare EK 333                                                   61.5   19   1168.50    292.13
+
+                                                                                                         ----------
+UKUPNO                                                                                                    96411.016
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

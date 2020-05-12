@@ -1,0 +1,19 @@
+Račun br. 396399
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"19"" ventilatorska jedinica s 4 ventilatora i termostatom, 2U"                    1094.72   30  32841.60   8210.40
+Linijska svj. SIMPLE LINE LED 2012 63W 6400lm/830 DALI,bb                          1424.42   27  38459.34   9614.83
+N/Ž okvir+vrata,serijski,3A-39,D400mm,str.pl.+zakr.ruč.,IP54                       4443.71   14  62211.94  15552.98
+DC zaštitni prekidač, C 3A, 2-polni, 10kA                                             4474   26 116324.00  29081.00
+Reflektor CAPRI simetrični 1x70W RX7S HIT/HST, crna                                 480.92    3   1442.76    360.69
+Otvoreni prekidač, 3P, 66kA, 1000A, fiksni, prednje priklj.                       15570.55   21 326981.53  81745.38
+Ugradni downl. SEGON LED 18W ED 1900lm/830 MAT IP44 70°,bb                          485.13   29  14068.77   3517.19
+
+                                                                                                         ----------
+UKUPNO                                                                                                    592329.94
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

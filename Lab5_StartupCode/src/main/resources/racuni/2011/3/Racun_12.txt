@@ -1,0 +1,28 @@
+Račun br. 320933
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kompaktni prekidač snage tip A, 3P/125A/36kA, box stezaljke                         950.46   29  27563.34   6890.83
+LED traka Flexstrip 115 RGB, L=5m 24VDC                                            1866.24    3   5598.72   1399.68
+P/Ž sklopka s ključem 1P, 0-1                                                       455.88   22  10029.36   2507.34
+Fluo cijev T5|T16 28W/840 G5                                                         21.87   25    546.75    136.69
+FID sklopka AMPARO, 25-4-003/AC, 10kA                                               262.99   17   4470.83   1117.71
+Kabel za gradilišta XYMM-J 5x1,5 K35 / 100m, žuti                                    10000    7  70000.00  17500.00
+NEW MYRA DISPLAY STRAIGHT, srebrna, GU10, max. 50W, IP55                            875.55    2   1751.10    437.77
+DC zaštitni prekidač, C 6A, 1-polni, 10kA                                            67.64   13    879.32    219.83
+Kompenzacija  LSK 14% 75/12,5kvar 600x1250x300mm zidni ormar                      30150.78   20 603015.56 150753.89
+Clara-II-SC LED 2x6W 3000K 2x420lm, IP54, bijele boje                               424.25    8   3394.00    848.50
+DC sklopnik | 11kW | 24V DC | 3N/O + 1N/O pomoćni kontakt                           482.79   30  14483.70   3620.93
+Otvoreni prekidač, 3P, 66kA, 1000A, izvl., vod. str. priklj.                      20725.96    2  41451.92  10362.98
+Rita-R/A2 LED 10W 3000K 770lm, IP20, bijele boje                                    238.74    2    477.48    119.37
+Sutil Quadro LED 8W, 6000K, 560lm, 120°, IP40, sive boje                            132.63   29   3846.27    961.57
+KVADRA 70M 1x35/49/80W DALI preklapajući uložak                                    1001.55   28  28043.40   7010.85
+LS-FI (KZS), C/10A/300mA, 1P+N, Tip AC, 6kA                                         199.43    4    797.72    199.43
+
+                                                                                                         ----------
+UKUPNO                                                                                                     816349.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

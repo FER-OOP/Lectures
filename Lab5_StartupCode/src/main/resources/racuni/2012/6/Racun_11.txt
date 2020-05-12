@@ -1,0 +1,32 @@
+Račun br. 698573
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Unutarnja vrata za Minipol ormare, poliester, puna, 600X400                         779.98    7   5459.86   1364.96
+Levante-S 20 LED 48W 3885lm 3000K asim.,IP66,SKII,RAL9006                          3205.01   28  89740.28  22435.07
+9R07/W/SE, R50 LED 5w E14 WW 1:1 size                                                33.11    6    198.66     49.67
+Teški gumeni kabel H07RN-F 4x1,5, crni                                              906.75   17  15414.75   3853.69
+Kabel LiYCY 4x0,75                                                                  762.03   23  17526.69   4381.67
+AIXLIGHT R OFFICE T5, okr.,cr.b., max.2xT5 54W+2xES111 75W                         2997.68   21  62951.28  15737.82
+Produžetak za 1-faznu 3-f šinu, crna b., električni                                   37.5   15    562.50    140.63
+Zaštitni prekidač, C karakteristika, 2A, 3-polni+N, 6kA                             178.04   12   2136.48    534.12
+Ugradni okvir za AS/KS, 1800x600mm, za umetak Modul 2000                              4067    9  36603.00   9150.75
+LYNAH LED ovjesna svjetiljka, 2x10W 3000K double, bijele b.                        1871.23   18  33682.14   8420.54
+Podnožje prema dubini ASR/KSR ormara, 400x200mm, AISI304                              4056   22  89232.00  22308.00
+Centralni bistabilni relej, 3 N/O, 230VAC                                           533.96   27  14416.92   3604.23
+Maskirni razdj. 2M-21, 7-redni, 147 ŠM,1010x540x200mm(VxŠxD)                       2023.91   12  24286.92   6071.73
+ASTINA OUT ESL, 2xGU10,bi.b.                                                        374.92   28  10497.76   2624.44
+Luxa 102 FL, LED spot 8W, 6000K, zidna, IP44, bijela                                 532.7    7   3728.90    932.23
+"19"" spremnik za višak kabela, D=440mm, RAL7035"                                   727.22   14  10181.08   2545.27
+LED-napajanje, 8VA, 350 mA                                                          124.69    5    623.45    155.86
+Sklopnik 3P | 4kW (10A) [AC3] | 48V AC | + 1N/O (ugrađen)                           176.92   29   5130.68   1282.67
+Cube-WL-Q 2x9W GX53, 100-240V, IP54, sive boje                                      234.51    4    938.04    234.51
+Razvodna kutija, podžbukna, Ø70, 40mm, M20, crna                                    100.97   23   2322.31    580.58
+
+                                                                                                         ----------
+UKUPNO                                                                                                    425633.66
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

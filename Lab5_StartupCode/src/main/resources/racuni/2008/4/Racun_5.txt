@@ -1,0 +1,25 @@
+Račun br. 245423
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Maskirni razdj. 1M-18, 6-redni, 78 ŠM, 875x330x200mm (VxŠxD)                       1807.58   26  46997.08  11749.27
+Siltu-R/A1 LED 18x1W 6000K 1080lm,dimabilna,350mA,IP20,alu                          255.46   20   5109.20   1277.30
+Nazidni okvir s vratima za Modul 2000 | 3A-45 | dubina 250mm                        2917.9    1   2917.90    729.47
+Transformator, 1-fazni | 400/024V | 100VA, IP00                                     261.47   20   5229.40   1307.35
+LED PAR16 80 DIM 7,2W 230V 36° 827 575lm 1439cd GU10 25000h                          104.9   17   1783.30    445.83
+"Prespojni panel 10"", prazan, za 12 modula (SFA)(SFB), 1U"                         130.09    1    130.09     32.52
+Ugradna svjetiljka SERH 2 T5 2x24W ECG M625, bijela                                 346.72   29  10054.88   2513.72
+Elektronska prigušnica ECG QTi DALI 2x14/24/220-240 DALI dim                        350.76   24   8418.24   2104.56
+DELWA PATH LIGHT LED samost. brušeni alu.,LED, 4x1W,topla b.                       1871.23   28  52394.44  13098.61
+Signalni fleksibilni kabel YSLCY-OZ 2x0,75                                           10000    6  60000.00  15000.00
+Pokrov priključka za SI337040...730...240…740…190 i SI337750                         38.07   15    571.05    142.76
+Kompenzacija  LSFC 14% 300/25kvar 800x2110x500mm Samost.orm.                      82781.28   161324500.50 331125.13
+LIPSY 30 LED stropna svj., okrugla, 13W, 3000K, 1050lm, bb                          625.15   28  17504.20   4376.05
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1535610.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

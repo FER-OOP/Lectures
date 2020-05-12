@@ -1,0 +1,19 @@
+Račun br. 427023
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Finožični PVC-om izol. vodič H07V-K (P/F) 2,5mm2,naranč. HPV                         10000   25 250000.00  62500.00
+CARISO 2, LED zidna svjetiljka, 7,5W LED, 3000K, mesing                            1000.75    7   7005.25   1751.31
+Sabirnica, 3P, viličasta, 16mm² (80A)|korak 17.8mm| 1m                              227.96   18   4103.28   1025.82
+Držač okrugle šipke, dubina 86 mm                                                   167.35    5    836.75    209.19
+DC zaštitni prekidač, C 50A, 2-polni, 10kA                                          206.02    5   1030.10    257.52
+Pomoćni kontakt (2+2) prednji, za K3-175...316                                      100.98    9    908.82    227.20
+Puna metalna vrata sa zakret. ručkom, za DW ormare 9U, Š=600                        487.37    6   2924.22    731.05
+
+                                                                                                         ----------
+UKUPNO                                                                                                     266808.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

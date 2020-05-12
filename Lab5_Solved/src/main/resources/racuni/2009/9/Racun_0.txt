@@ -1,0 +1,20 @@
+Račun br. 152312
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+T-Shirt siva -L-                                                                     46.02   19    874.38    218.60
+Pokrov stezaljki za LA301513 i LA301763                                              260.5   23   5991.50   1497.88
+Nadzemni kabel E-A2Y 4x95RM, 0,6/1KV                                                 10000   17 170000.00  42500.00
+Instal. umetak 4-45K komplet 15 IR prednja pl. čelik                               3238.61    9  29147.49   7286.87
+Marra LED traka 14,4W/m 6000K 1030lm/m, dimabilna, IP68                             364.61   12   4375.32   1093.83
+Bill-Q 2x26W G24q-3, 230V, IP20, bijele boje                                         37.67   25    941.75    235.44
+Optički prespojni kabel duplex, ST/ST, 50/125µm OM2, 3.0m                            74.39   20   1487.80    371.95
+Sabirnica, 1P, jezičasta, 16mm² (80A)|8.9mm| 1m, L1, L2, L3                         302.03   15   4530.45   1132.61
+
+                                                                                                         ----------
+UKUPNO                                                                                                    217348.67
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

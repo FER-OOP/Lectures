@@ -1,0 +1,19 @@
+Račun br. 283856
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+USB utičnica, dvostruka, 1400mA                                                     508.61    8   4068.88   1017.22
+Vijci, 3.2x15mm (pak.1000 kom)                                                      184.29   30   5528.70   1382.17
+Senzor prisutnosti 180B KNX, 8m, p/ž, zidni, IP54, srebrni                         2033.09   16  32529.44   8132.36
+Unutarnja vrata za Minipol ormare, poliester, puna, 600X500                         721.96   22  15883.12   3970.78
+"""Synchro"" uklopni sat, dnevni program"                                           403.19   21   8466.99   2116.75
+Sklopnik vel. 2 | 18,5kW (40A) [AC-3] | 24VAC, 50Hz                                 393.35   28  11013.80   2753.45
+Ugradna svjetiljka SERH ECO T8 4x18W ECG IP54 M600, bijela                          516.13   15   7741.95   1935.49
+
+                                                                                                         ----------
+UKUPNO                                                                                                     85232.88
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

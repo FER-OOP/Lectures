@@ -1,0 +1,23 @@
+Račun br. 1059788
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+RMQ kućište crno/sivo za 12 tipkala                                                 403.32   11   4436.52   1109.13
+Svjetleća oznaka, 250VAC, normal sa 1 fleks. priklj. vodičem                         20.24   21    425.04    106.26
+Uzdužna stranica, 12 visinskih jedinica (100 mm)                                     276.6   15   4149.00   1037.25
+BARRO UP/DOWN zidna svj., krom                                                      750.35   11   8253.85   2063.46
+Napajanje, 24V DC, 1A, montaža na DIN nosač, SELV                                   387.58   22   8526.76   2131.69
+Sigurnosna svjetiljka DLQ ERT-LED1,5W,CPS,kvadratna,ugradna                         978.73   30  29361.90   7340.47
+"Montažni profil 500mm, ""click"" montaža na okvir AS ormara"                        320.1   30   9603.00   2400.75
+"Bit 1/4"", PZ 2, duljine 50mm"                                                       34.4   11    378.40     94.60
+NAUTILUS SPIKE, okrugla, srebrna, GU10,max. 35W,sa 3m kabela                        191.93    2    383.86     95.96
+Compact passage, senzor prisut. 360°, HVAC, stropni, bijeli                        1689.89   27  45627.03  11406.76
+KADUX 1 ES111 Downlight, četvrtasti, crne boje, max. 50W                            500.12   23  11502.76   2875.69
+
+                                                                                                         ----------
+UKUPNO                                                                                                    122648.12
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

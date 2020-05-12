@@ -1,0 +1,17 @@
+Račun br. 512974
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Linijska svj. SERH-LF 112, početni profil,  1x80W, ECG, bb                          624.73   12   7496.76   1874.19
+Reflektor FORCA LED 151W 16220lm/757 ECG IP65, as široki,sb                        4134.73   16  66155.68  16538.92
+Sklopnik vel. 00 | 3kW (7A) [AC-3] | 110VAC, 50Hz | 1 N/C                               99    7    693.00    173.25
+Spojnica (koljeno) M25, siva (pak. 20 kom.)                                         586.45   14   8210.30   2052.57
+Bakrena sabirnica, 146A, 10x3mm, duljina 2m                                           4822    5  24110.00   6027.50
+
+                                                                                                         ----------
+UKUPNO                                                                                                   106665.734
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

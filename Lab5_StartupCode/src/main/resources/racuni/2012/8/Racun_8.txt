@@ -1,0 +1,18 @@
+Račun br. 772063
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Dingo Medium LED 30W, 4500K, 2200lm, dim., bijela                                   563.48    2   1126.96    281.74
+Linda LED 2x24W AMPIO, 4000K, 6980lm                                               1377.33   17  23414.61   5853.65
+Plosnati kabel, 8-žični,bijeli,za tel. prespojne kabele,100m                        224.79   21   4720.59   1180.15
+Ugradna svjetiljka SEO ECO PC T5 4x14W ECG IP54 M600, bijela                        619.92   24  14878.08   3719.52
+Zaštitni prekidač sa svojstvima rastavljača, C 125A, 3-polni                        674.11   26  17526.86   4381.71
+Serijski ormar AS, 2-vrata, 2000x1200x600 (VxŠxD), RAL 7035                        5242.67    1   5242.67   1310.67
+
+                                                                                                         ----------
+UKUPNO                                                                                                     66909.77
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

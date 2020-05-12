@@ -1,0 +1,15 @@
+Račun br. 294183
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Signalni fleksibilni kabel YSLY-JZ 4x6 sivi                                        2713.17    4  10852.68   2713.17
+Uvodnica PG29 (maticu M273108--- naručiti odvojeno)                                  12.31   11    135.41     33.85
+ASTO I GU10 Spot, brušeni aluminij                                                  196.83    4    787.32    196.83
+
+                                                                                                         ----------
+UKUPNO                                                                                                     11775.41
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

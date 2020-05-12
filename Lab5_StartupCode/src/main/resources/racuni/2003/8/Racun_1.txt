@@ -1,0 +1,25 @@
+Račun br. 741432
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LED FLOOD LIGHT,cr.b., 10W, LED tople bi.b., 120°                                   625.15    2   1250.30    312.58
+Teški gumeni kabel H07RN-F 7x4, crni                                                 10000    9  90000.00  22500.00
+PAR38, E27, 18W, 2700K                                                               187.2   27   5054.40   1263.60
+Motorna zaštitna sklopka, 2-polna | 4.0 - 6.3A                                      128.78   13   1674.14    418.54
+Zaštitni prekidač MB 18kA CL 80/3                                                   458.97    9   4130.73   1032.68
+DIABO svjetiljka za žičani sustav, bijele b., MR16, max. 35W                        462.77    6   2776.62    694.15
+TOOLLESS LINE utični modul RJ45 cat.6, neoklopljen (SFA)                             19.81   19    376.39     94.10
+"19"" nap. letva za UPS, 8xUTE crv.,C14 kabel 2m,10A osig.,1U"                      505.04   25  12626.00   3156.50
+D02 rastavna sklopka ARROW S, 1-polna, 16A                                          121.75   18   2191.50    547.88
+NV sklopka-rastavljač,vel.1, 3p,M10, za 100mm sistem                                  4821   16  77136.00  19284.00
+CREST, ovjesna svjetiljka, PD-1, krom,plastika bb,2xT5,24W                          1370.6    7   9594.20   2398.55
+Pablo-S LED 3,5W 3000K 230lm, IP20, aluminij                                        278.44    2    556.88    139.22
+PEMA zidna svj., crne b.                                                            625.15   12   7501.80   1875.45
+
+                                                                                                         ----------
+UKUPNO                                                                                                    214868.94
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

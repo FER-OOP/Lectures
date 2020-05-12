@@ -1,0 +1,16 @@
+Račun br. 932263
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+DC zaštitni prekidač, C 16A, 2-polni, 10kA                                          133.82   28   3746.96    936.74
+Montažni nosač za EEC i EMC adaptere širine 72mm                                      4832   30 144960.00  36240.00
+L-SE pokrov T8 R1 1x58W sa prizm. difuzorom                                          65.77    5    328.85     82.21
+7902R/W, Bijeli ugradni profil 2m + PC opalni pokrov                                190.58   26   4955.08   1238.77
+
+                                                                                                         ----------
+UKUPNO                                                                                                    153990.88
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

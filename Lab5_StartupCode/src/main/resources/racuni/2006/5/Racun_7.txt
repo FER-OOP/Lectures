@@ -1,0 +1,22 @@
+Račun br. 227223
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+T-spojnica za 1-f  3-f šina,desna,srebrne boje                                       87.01   25   2175.25    543.81
+LED PAR16 35 DIM 3,1W 230V 36° 827 230lm 565cd GU10 25000h                           61.28   30   1838.40    459.60
+Podnožje za crno-bijeli Bravo i Genius monitor, SB                                   611.8   20  12236.00   3059.00
+NV osigurač vel. 2, 50A/400V AC                                                      69.15   30   2074.50    518.63
+Ampermetarski umetak za TYTAN R, D02, 3P, za 60mm sustav                            479.22   13   6229.86   1557.46
+Relej snage, 1N/O, 30A, 24VDC, Faston 250, Tip RM                                   105.29    6    631.74    157.93
+Linijska svj. SERH 112 1x28W, ECG, bijele boje                                      476.11    4   1904.44    476.11
+LED ES111, crne boje, 17W, 30°, 2700K                                               562.63   29  16316.27   4079.07
+NV rastavna sklopka vel.2|400A, M10, nadzor osig., mont.pl                            4831   11  53141.00  13285.25
+Ormar plast.1250x1000x312,krov protiv kiše,dno zat.,2 vrata                           4142   22  91124.00  22781.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    187671.47
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

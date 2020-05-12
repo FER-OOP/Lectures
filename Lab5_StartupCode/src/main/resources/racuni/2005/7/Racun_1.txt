@@ -1,0 +1,14 @@
+Račun br. 860647
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+FRAME CURVE zidna ugradna svjetiljka LED tople bijele boje                          196.83   11   2165.13    541.28
+Ugradna svjetiljka SERH 625 T5 4/14/24W ECG QTI sj. raster                         1134.97   17  19294.49   4823.62
+
+                                                                                                         ----------
+UKUPNO                                                                                                    21459.621
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

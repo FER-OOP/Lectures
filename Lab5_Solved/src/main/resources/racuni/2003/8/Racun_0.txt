@@ -1,0 +1,18 @@
+Račun br. 429615
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+GU10 LED, 5W,bijele boje, 60°, nije dim.                                            155.78   23   3582.94    895.73
+LED RETROFIT RL-D40 DIM 6W 230V 827 470lm mat E27 25000h                             54.83    7    383.81     95.95
+Pokrov/kabelska polica DW4H gornja/donja,Š= 500mm,D=140mm                             6018   11  66198.00  16549.50
+Bezhalogeni kabel s el. funkc. do90 Min. (N)HXH-J3x6reE90                          3538.96   26  92012.96  23003.24
+SAT ljepiva traka brtvljenje 60x8cm, UV- vodootporna, crvena                         40.78    8    326.24     81.56
+7834, LED POWER SUPPLY CABLE za 7830 / 7831                                          11.15    5     55.75     13.94
+
+                                                                                                         ----------
+UKUPNO                                                                                                     162559.7
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,14 @@
+Račun br. 376204
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Metalhalogena žarulja, 35W G12 COOL WHITE CERAMIC                                    16.05   21    337.05     84.26
+Geluce LED PB1 opal svj. 1x51W, ECG 3300lm/830, M625, 9003                         1923.84    6  11543.04   2885.76
+
+                                                                                                         ----------
+UKUPNO                                                                                                     11880.09
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

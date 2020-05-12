@@ -1,0 +1,16 @@
+Račun br. 574719
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Industrijska svjetiljka CUB R90 šir.snop 4xTC-L 55W/840 IP43                       2621.49   23  60294.27  15073.57
+LED RETROFIT RL-D40 4W 230V 827 470lm prozirna E14 AL 15000h                         63.74   17   1083.58    270.90
+Elektronska prigušnica ECG QTi 1x36/220-240 dim 1-10V                               297.08   16   4753.28   1188.32
+Pločica + nosač 30x50mm, natpis: OFF ON                                              10.06   18    181.08     45.27
+
+                                                                                                         ----------
+UKUPNO                                                                                                     66312.21
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

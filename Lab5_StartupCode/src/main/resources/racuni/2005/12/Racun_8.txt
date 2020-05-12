@@ -1,0 +1,30 @@
+Račun br. 521723
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Prednja ploča za sklopke s bravom EL121900/121930, alu efekt                        233.69   21   4907.49   1226.87
+Podnožje za izvlačivi prekidač, 4-polno, za MC3                                    4375.98   19  83143.62  20785.90
+Bezhalogeni kabel s el. funkc. do90 Min. (N)HXH-O1x300rmE90                          10000   15 150000.00  37500.00
+Halogena žarulja QPAR 30 75W 30° E27 OS                                              58.79   17    999.43    249.86
+Pločica + nosač, natpis: STOP                                                         8.93   17    151.81     37.95
+Ugradna svjetiljka SERH 2 A8 L1 T5 2x14W, ECG, bijela                               453.77    7   3176.39    794.10
+Jakna s kapuljačom -M-                                                              383.49    7   2684.43    671.11
+DALI sekvencer                                                                     1860.08    2   3720.16    930.04
+Kabel E-Y2Y-J 5x10RE                                                                 10000   18 180000.00  45000.00
+Bezhalogeni kabel s el. funkc. do30 Min.(N)HXH-JZ10x1,5reE30                         10000    7  70000.00  17500.00
+Mehanička blokada za motorni pogon, za MC3, duga verzija                           2316.87   24  55604.88  13901.22
+Ugradna svjetiljka SELENA OP LED 39W M600 4350lm/840 DALI,bb                       1039.44   30  31183.20   7795.80
+Rico-Q LED 6W 3000K 475lm, IP20, aluminij                                            439.8   26  11434.80   2858.70
+Ugradna kutija, podžbukna, nizajuća, Ø60, 45mm, M25, crna                            85.18   11    936.98    234.24
+Aura 2 LED 11W, 4000K, 1350lm, IP43                                                 542.82    9   4885.38   1221.34
+Alat za lako otvaranje  ugradnih svjetiljki tip  IL                                  62.99    9    566.91    141.73
+Ina-II-STR-R/A2 50W GU10 MR16, 100-240V, IP20, aluminij                             117.25   25   2931.25    732.81
+EURO SPOT INTEGRIRANI LED, 4.000K, 24°,uklj.3F adapter,cr.b.                        875.55   20  17511.00   4377.75
+
+                                                                                                         ----------
+UKUPNO                                                                                                     623837.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

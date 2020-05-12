@@ -1,0 +1,14 @@
+Račun br. 555866
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Mero-R LED 3W 3000K 130lm, IP20, aluminij                                           322.54   21   6773.34   1693.34
+Ugradna downlight svj. ERK 190 LED,26W,2000lm,4000K,bijela                          485.88   19   9231.72   2307.93
+
+                                                                                                         ----------
+UKUPNO                                                                                                    16005.061
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

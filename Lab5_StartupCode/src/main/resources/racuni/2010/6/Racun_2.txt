@@ -1,0 +1,29 @@
+Račun br. 582862
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+89242/ELE, 2x26w/2x32w/2x42w PL elektronska prigušnica                               35.65   28    998.20    249.55
+Okvir za prekidač MO1 4-pol 2000A horiz., 4 pom konektora                         10590.41   15 158856.16  39714.04
+SAT pojačalo 9 u 9, SVS 990-09                                                     1603.59   30  48107.70  12026.92
+Držač kabela (4 komada)                                                              10.69   21    224.49     56.12
+ROX PATH LIGHT GX53 podna svj., brušeni al., GX53, max. 9W                         1871.23    7  13098.61   3274.65
+9407G/D, 7W G9 DL                                                                     5.74   18    103.32     25.83
+"Stezaljka ""A"" 2P, dovod 35mm²|odvodi: 2x(2x25)"                                   81.02   11    891.22    222.80
+Pokrov theMova P i theRonda                                                          62.25   22   1369.50    342.38
+Finožični PVC-om izol. vodič H07V-K (P/F) 35mm2, smeđi HPV                           10000   14 140000.00  35000.00
+Halogena žarulja QR-CBC51 WFL 50W ECO GU5,3 36°                                      34.44   21    723.24    180.81
+SLOTS 65 samostojeća svjetiljka, 6,3W LED, tople bb, rusty                         1000.75   30  30022.50   7505.63
+Kabel LiYY 5x0,25                                                                    10000    3  30000.00   7500.00
+Adapter D01 na D02, za CORON 2                                                        2.85    4     11.40      2.85
+Kompaktni prekidač snage tip A, 3P/100A/100kA, MC1                                 1188.03   25  29700.75   7425.19
+Okvir za IKALL, 2-struki, antracit                                                  347.63   21   7300.23   1825.06
+Spojnica za aluminijski profil sa pokrovom, bij.b.                                   62.51   27   1687.77    421.94
+E27 SPOT, bijele b., max. 75W, uklj. 3-f adapter                                    249.72   12   2996.64    749.16
+
+                                                                                                         ----------
+UKUPNO                                                                                                    466091.72
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

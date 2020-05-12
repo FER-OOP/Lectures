@@ -1,0 +1,17 @@
+Račun br. 102253
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+L-SE sjenilo R12 T5 L2 35-80W perforirano, bijele boje                               86.25   12   1035.00    258.75
+Kavez klizne matice M5 (pak.=100 kom.)                                               52.68    6    316.08     79.02
+Pomoćni kontakt 1 C/O + 1 N/C za FI-D 125A i FI-D/B                                 197.24    1    197.24     49.31
+LUNA 70W HIT G12 uklj. izvor 32° inox okvir                                        2486.36   25  62159.00  15539.75
+Kabel H05VVC4V5-K 5x2,5 sivi                                                         10000    9  90000.00  22500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    153707.33
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

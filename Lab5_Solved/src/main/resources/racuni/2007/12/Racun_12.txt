@@ -1,0 +1,29 @@
+Račun br. 608180
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Gljivasto tipkalo crveno, deblokada zakretom                                        104.56   12   1254.72    313.68
+TYTAN HC prespojni kabel RJ10, duljina 15cm                                           18.2    4     72.80     18.20
+Poliester kućište 270x180x171mm, prozirni poklopac,IP66,sivo                         338.8    1    338.80     84.70
+KNX jednostruko tipkalo, N/Ž, IP44, sivo, LED idikacija                             474.53   27  12812.31   3203.08
+Sklopka, 3-polna+2 pom.kontakta, 32A, kućište, NOT AUS                              546.04   10   5460.40   1365.10
+Gisele-OV 40W G9, 100-240V, IP20, bijele boje                                       185.68   20   3713.60    928.40
+Odvodnik prenapona klase C (komplet), 3P, 3x20kA/280V, UAS                          427.92   23   9842.16   2460.54
+Vodotijesna svjetiljka LINDA ST PC 2-58W CCG IP65                                   509.18   27  13747.86   3436.96
+Voltmetar, digitalni, montaža na DIN nosač, 100/500VDC                             1006.99   28  28195.72   7048.93
+ENOLA_B single zidna i stropna svjetiljka GU10 max.50W, cb                          374.92   29  10872.68   2718.17
+Stražnja ploča za nazidni Modul 2000 | 2R-33                                        199.52   10   1995.20    498.80
+Teški gumeni kabel H07RN-F 4x4, crni                                               2070.55    4   8282.20   2070.55
+Isklopnik, 1-polni, 25A, 0-1, plast.kućište                                         390.41    4   1561.64    390.41
+Ugradna svjetiljka SE-ID ECO PAR L1 TC-L 2x55W ECG M600, bb                         643.96   13   8371.48   2092.87
+FID sklopka 40-2-01/AC, 10kA                                                        351.34   28   9837.52   2459.38
+Finožični PVC-om izol. vodič H07V-K (P/F) 2,5mm2, zeleni HPV                         10000   15 150000.00  37500.00
+ADEGAN MANILA TL,PE antr.,nehrđ. čelik304,granitG654,E27,24W                       1871.23   24  44909.52  11227.38
+
+                                                                                                         ----------
+UKUPNO                                                                                                    311268.62
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

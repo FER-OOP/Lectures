@@ -1,0 +1,23 @@
+Račun br. 556548
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"Opt. razdjelnik, 4 niti,SC,50/125µm OM3, izvlačivi,19"",1U"                        482.43   19   9166.17   2291.54
+Memorijski modul EASY 500/700, EASY M 32K                                           174.24   29   5052.96   1263.24
+LED FLOOD LIGHT,cr.b., 30W, LED bi.b., 120°                                        1871.23   23  43038.29  10759.57
+KYKLOP PATHLIGHT podna svj., antracit,3x1W LED tople bi.b.                          813.03   14  11382.42   2845.60
+Lily-R LED 30W 3000K 2300lm, IP20, bijele boje                                      530.36   21  11137.56   2784.39
+UPS AVARA Multi 10kVA 9kW 38min, 3F/3F/Online veliko kučište                      57810.65   17 982781.00 245695.23
+TRISTAN nadgradna svjetiljkae T8, 36W CCG, srebrne boje                             625.15   10   6251.50   1562.88
+Teretna sklopka, 3P, 200A                                                          1021.88   14  14306.32   3576.58
+HDMI 1.4 kabel, 2xHDMI19 tip A muški, Ferrit/Gold, crni, 15m                        288.24   15   4323.60   1080.90
+Jean-Q/A1 LED 5W 3000K 280lm, IP65, antracit                                        450.78   20   9015.60   2253.90
+Ugradna downlight svjetiljka EQM 221 2x18W CCG TC-D, bijela                         401.49   24   9635.76   2408.94
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1106091.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

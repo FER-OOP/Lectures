@@ -1,0 +1,23 @@
+Račun br. 833151
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ovjes za KALOS ovjesnu svjetiljku                                                   644.19   13   8374.47   2093.62
+STIX zidna svjetiljka, 1x3W LED, 3000K, zakretna, bijele b.                           8570   29 248530.00  62132.50
+GU10 SP Downlight, krom mat                                                         205.96   22   4531.12   1132.78
+Panik svjetiljka U6 Autotest LED 3W/3h, ugradna                                    2597.92   27  70143.84  17535.96
+Khali-I-R/A2 70W G8,5, 230V, IP20, sive boje                                        161.18   19   3062.42    765.60
+Prespojna ploča, 3 izlaza sa 2 premosnice, max.700mA,crne b.                         62.51   27   1687.77    421.94
+Finožični PVC-om izol. vodič H05V-K (P/F) 0,5mm2, ž/z HPV                            10000   20 200000.00  50000.00
+Ugradna svjetiljka SERM 2 A8 L2 T5 2x24W, ECG, bijela                                 8534   17 145078.00  36269.50
+Unutarnji kut za kanal SIGNA 70/130 RAL 9001                                        216.33   11   2379.63    594.91
+Završni pokrov za aluminijski profil sa pokrovom, sreb.boje                          62.51    6    375.06     93.76
+Cilindrični osigurač za fotonapon, 10x38, 12A, gR, 900V DC                           50.89   23   1170.47    292.62
+
+                                                                                                         ----------
+UKUPNO                                                                                                     685332.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

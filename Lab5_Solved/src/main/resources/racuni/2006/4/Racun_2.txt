@@ -1,0 +1,18 @@
+Račun br. 1027507
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Nadžbukni okvir compact                                                             140.63   29   4078.27   1019.57
+Sobni kontroler Conttouch, karbon metalic                                          3664.58   13  47639.54  11909.88
+Nadžbukni okvir LUXA 103-200                                                         62.73   23   1442.79    360.70
+Utičnica s poklopcem, 16A, kompletna, IP44, biserno bijela                          112.44   20   2248.80    562.20
+Serijski ormar AS, 1-vrata, 2000x600x600 (VxŠxD), RAL 7035                         3917.26   21  82262.46  20565.62
+LED PEN LIGHT PRO, tople bb, 10,5m, 230V                                           1250.97   24  30023.28   7505.82
+
+                                                                                                         ----------
+UKUPNO                                                                                                    167695.14
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

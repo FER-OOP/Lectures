@@ -1,0 +1,14 @@
+Račun br. 855048
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LED Driver 700mA, 7-15W, ulaz 220-240V                                               79.58   25   1989.50    497.38
+IP44 uvodnica kabela M25 za 2 kabela 3 do 8 mm                                       31.92   10    319.20     79.80
+
+                                                                                                         ----------
+UKUPNO                                                                                                       2308.7
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

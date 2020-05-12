@@ -1,0 +1,19 @@
+Račun br. 168834
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+6 box stezaljki 4-95mm², za 3-polne MZ1                                              60.78   13    790.14    197.54
+Podnaponski isklopnik 230/240VAC za MZS vel.00/0/2/3                                 98.29   17   1670.93    417.73
+UPS AVARA Multi 15kVA 13,5kW 21min, 3F/3F/Online veliko kuč.                      63147.02    4 252588.08  63147.02
+Poliester zidni ormar MINIPOL, zatv. u 3 točke,500x400x200mm                       1375.57   11  15131.27   3782.82
+LED Panel Round 300 20W 1330lm neutr. bb 4200K, bijele b.                           703.23   24  16877.52   4219.38
+Matica M25x1.5, metrička, poliamid                                                    1.06   12     12.72      3.18
+AIXLIGHT R2 OFFICE T5,zaobljena,sr.b.,2xT5 54W+2xES111 75W                         2997.68    1   2997.68    749.42
+
+                                                                                                         ----------
+UKUPNO                                                                                                    290068.34
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

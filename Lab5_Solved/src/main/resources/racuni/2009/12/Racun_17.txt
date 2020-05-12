@@ -1,0 +1,17 @@
+Račun br. 193863
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+NV rastavna pruga vel.1|250A, 3P, M12, sustav 185mm                                1100.09    8   8800.72   2200.18
+ Nadgr. downl. SOLINA 242 LED 24W 2500lm/830 MAT IP20 70°,bb                        746.88    7   5228.16   1307.04
+Ugradna downlight svjetiljka EQM 211 1x13W CCG TC-D, bijela                         326.87   28   9152.36   2288.09
+ARKTUR SQUARE PLUS LED 214W 27000lm/840 ECG IP66 100°                              6221.21   15  93318.15  23329.54
+Prednja ploča, plastična, slijepa, 1B4K                                               4160    9  37440.00   9360.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    153939.39
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,30 @@
+Račun br. 878086
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"Montažni profil 600mm, ""click"" montaža na okvir AS ormara"                       355.58   10   3555.80    888.95
+VISIO HR-brošura                                                                         0    1      0.00      0.00
+EURO SPOT INTEGRIRANI LED, 4.000K,15°,uklj.3F adapter,sr.b.                         875.55   15  13133.25   3283.31
+Metalhalogena žarulja HIE-P 70W/WDL COATED E27 FS1                                  349.83   16   5597.28   1399.32
+Elektronska prigušnica ECG QTi 1x58/220-240 dim 1-10V                               217.81   23   5009.63   1252.41
+Nazidni okvir s vratima za Modul 2000 | 2A-42 | dubina 250mm                       2288.63   15  34329.45   8582.36
+Ormar plast.1250x750x312,krov protiv kiše,dno otv.,1 vrata,                           4142   18  74556.00  18639.00
+Frekvencmetar, 72x72mm, 45 - 55Hz, 230V                                             308.31   24   7399.44   1849.86
+Veliki stolni blok za pisanje                                                        84.26   15   1263.90    315.98
+Završni poklopac LBR ravni sa otvorom                                                51.19    4    204.76     51.19
+7309G/C, 9w GU10 CW                                                                   5.74    6     34.44      8.61
+Daljinski isklopnik za seriju BR, 110-415V AC / 110-230V DC                         261.89   20   5237.80   1309.45
+Priključna kutija, nehrđajući čelik, 300x500x120(VxŠxD),IP66                       1814.98    1   1814.98    453.74
+Plasto LED 24W, 3000K, 1440lm, 230V, IP65,plastika,bijele b.                        431.01   29  12499.29   3124.82
+LED Razvodna kutija (x3) serijski spoj                                               19.35   22    425.70    106.43
+Set zaštitnih pokrova za stezaljke, za 3-polne MY1                                   60.72    1     60.72     15.18
+Kompenzacija  LSK 14% 87,5/12,5kvar 600x1250x300mm zidni orm                       29259.8    3  87779.41  21944.85
+Pokrivna ploča za stezaljke, 3-polna i 4-polna                                          20    8    160.00     40.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    253061.86
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

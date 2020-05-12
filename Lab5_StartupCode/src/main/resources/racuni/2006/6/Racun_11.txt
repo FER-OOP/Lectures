@@ -1,0 +1,26 @@
+Račun br. 886792
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Rozeta, 1 izlaz, okrugla, krom                                                      124.52    9   1120.68    280.17
+FID sklopka 63-4-03/A, S izvedba                                                   1225.36   19  23281.84   5820.46
+Pregibnica zelena za oklopljene ili neoklop. RJ45 utikače                             0.98   29     28.42      7.11
+Priključna kutija, čelik, 200x800x120 (VxŠxD), IP66, RAL7035                        377.71   14   5287.94   1321.98
+Okvir plitki s vratima i umetkom za KVM, 4-redni,48+8 modula                        429.56    9   3866.04    966.51
+Linda LED CONIC 2x30W, 4000K, 8575lm                                               1604.35    1   1604.35    401.09
+Označna pločica tip CSC 5 (100 kom.)                                                  9.83   13    127.79     31.95
+Okvir 2/3M line, zlatni                                                              35.64   22    784.08    196.02
+Berry LED 30W, 3000K, 1800lm, 230V, IP65, plastika, sive b.                         510.42   13   6635.46   1658.86
+Finožični PVC-om izol. vodič H07V-K (P/F) 6mm2, plavi HPV                            10000   26 260000.00  65000.00
+LINEA 80M K2 spojnica                                                                27.45   12    329.40     82.35
+Zaštita od dodira priključnih stezaljki, za 3-polne MC3                             115.59   30   3467.70    866.92
+Signalni fleksibilni kabel YSLY-JZ 25x2,5 sivi                                       10000   19 190000.00  47500.00
+Grebenasta sklopka (glavna, sivo/crna), 0-1/3P/40A, na DIN                          214.89   28   6016.92   1504.23
+
+                                                                                                         ----------
+UKUPNO                                                                                                     502550.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

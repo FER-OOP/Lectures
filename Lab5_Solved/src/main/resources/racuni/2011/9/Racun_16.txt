@@ -1,0 +1,18 @@
+Račun br. 546665
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ana-SC LED 9W 3000K 600lm, IP54, bijele boje                                        417.66    7   2923.62    730.91
+UPS Genio Flex Plus Dual ER 2200VA 1760W 0 Min.1/1f/Online                         5242.46   15  78636.90  19659.22
+Perforirana stražnja str. za DS/DSZ ormare, 42U, Š=600                              744.12   29  21579.48   5394.87
+Downunder OUT LED L, 3,3W, 3000K, bijela boja                                       437.43   21   9186.03   2296.51
+PEYOTE POLE 48cm 360° 8x1W LED, 40° 4000K antracit                                 3315.41   27  89516.07  22379.02
+ARROCK granit 40 ROUND, granit, E27,max.15W                                        1871.23   12  22454.76   5613.69
+
+                                                                                                         ----------
+UKUPNO                                                                                                    224296.86
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

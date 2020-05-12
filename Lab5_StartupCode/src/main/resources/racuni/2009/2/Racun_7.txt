@@ -1,0 +1,32 @@
+Račun br. 936136
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kabel H05VVC4V5-K 12x1 sivi                                                          10000   14 140000.00  35000.00
+Finožični PVC-om izolirani vodič H07V-K (P/F) 2,5mm2, sivi                          195.31    1    195.31     48.83
+WETSY SQUARE vanjska svjetiljka, okrugla                                            938.06   26  24389.56   6097.39
+Ina-R/A1 LED 13W 3000K 783lm, IP20, aluminij                                        268.81   21   5645.01   1411.25
+Bimetalni relej za LA1, područje podešenja 6-9A                                     205.21   29   5951.09   1487.77
+TRAIL-LIGHT, LED Ugradna svjetiljka,4 bb LED, uklj.pok.                             374.92   25   9373.00   2343.25
+Samostojeća svjetiljka SVO TC-L 4x55W dimabilna                                    4560.68   11  50167.48  12541.87
+Kompaktni prekidač snage tip AF, 3P/100A/18kA, box stezaljke                         529.4   21  11117.40   2779.35
+Profil za ojačanje vrata WSM ormara visine 1200mm (2 kom.)                          111.87   25   2796.75    699.19
+Označna pločica tip CSC 3 (100 kom.)                                                  9.83   14    137.62     34.40
+Mia-R 70W G12, 230V, IP20, brušeni krom                                               9.63   26    250.38     62.60
+Zamjenjiva skala, 96x96mm, 1500/3000/5A AC                                            4399    5  21995.00   5498.75
+Sklopnik vel. 2 | 18,5kW (40A) [AC-3] | 24VAC, 50Hz                                 393.35   22   8653.70   2163.43
+PROTECTOR K 230V, fotoelektronički detektor dima, bijeli                            340.56   17   5789.52   1447.38
+Industrijska  svjetiljka CERES 1x140W,LED,17200lm/657                              3935.64    3  11806.92   2951.73
+"Opt. razdjelnik, 8 niti,SC,9/125µm OS2, izvlačivi,19"",1U"                         570.45   15   8556.75   2139.19
+Levante-S 20 LED 48W 4425lm 4000K asim.,IP66,SKII,RAL9003                          3099.61    2   6199.22   1549.81
+Vezica 425 x 8.8mm, natural (pak.=50 kom.)                                          138.38    2    276.76     69.19
+Motorna zaštitna sklopka, 3-polna | 0.55 - 0.80A, vel.S00                           179.44   29   5203.76   1300.94
+TERANG zidna i stropna svj., ovalna, bijela ,8W LED, 3000K                          374.92   23   8623.16   2155.79
+
+                                                                                                         ----------
+UKUPNO                                                                                                    327128.38
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

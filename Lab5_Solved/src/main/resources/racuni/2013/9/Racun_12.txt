@@ -1,0 +1,22 @@
+Račun br. 756241
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+70016, DŽEPNA LED SVJETILJKA, crne boje                                              25.68   21    539.28    134.82
+Završni poklopac profila MFR četvrtasti sa vijcima                                    50.2   25   1255.00    313.75
+Signalni poklopac za razvodne kutije Ø70mm, crveni                                  110.67    6    664.02    166.01
+Halogena žarulja QT12 35W IRC GY6,35 Energysaver                                     32.88   25    822.00    205.50
+Nosač za montažu Smart monitora na zid                                               98.86    8    790.88    197.72
+"19"" fiksna polica do maks. 80kg, d=550mm, 1U, RAL7035"                             166.9   11   1835.90    458.97
+PT-RC utični modul, 6-60VAC, EM02                                                    10.78   16    172.48     43.12
+Ampermetarska preklopka, 1P/20A/0-1-2-3/AC21/na DIN šinu                            197.89   10   1978.90    494.72
+Adapter PK za prekidače i utičnice                                                   13.74   13    178.62     44.65
+FID sklopka 40A, 4P, 30mA, Tip EV, za električna vozila                            4602.19    9  41419.71  10354.93
+
+                                                                                                         ----------
+UKUPNO                                                                                                     49656.79
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,26 @@
+Račun br. 170537
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Plosnati kabel 2-polni, 2x0,5mm                                                       8.94   24    214.56     53.64
+Perforirana vrata s bravicom, za DW ormare 18U, Š=600                               331.88   28   9292.64   2323.16
+KVADRA 70 M LED 37W 840 5370lm L-1145mm,DALI,eloksirani alu.                       1064.44   10  10644.40   2661.10
+LED DMX kontroler Touch DW 4 zone                                                   836.68    8   6693.44   1673.36
+BILAS SPOT LED, 15W, 2700K, 25°, okrugla, bijele boje                              1558.31   28  43632.68  10908.17
+Bezhal. kabel poboljšanih svoj.za sl. požara N2XH-O 1x95rm                           10000   14 140000.00  35000.00
+Sklopnik 3P |7.5kW (18A) [AC3] / 32A [AC1] | 48V DC | 1N/O                          284.27   30   8528.10   2132.02
+Univer. opt.  kabel U-DQ(ZN)BH 4x50µm OM4, nm.                                     1296.16   15  19442.40   4860.60
+Pretvornik napona AC/DC za teret 500VA                                              304.54   13   3959.02    989.75
+Clara 1 LED 2x3W, 3000K, 2x210lm, 230V, IP54, bijele boje                           344.67   28   9650.76   2412.69
+Kompenzacija  LSFC 14% 350/50kvar 800x2110x500mm Samost.orm.                      87314.36   161397029.75 349257.44
+Bimetalni relej za sklopnike vel. 00 | 0,55 - 0,80A                                 161.33   15   2419.95    604.99
+Linijska svjetiljka SOLO 2 1x35W ECG T5 bijela                                      217.34    7   1521.38    380.35
+Kompaktni prekidač snage tip A, 3P, 150kA, 320A                                    5518.07   29 160024.03  40006.01
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1813053.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,16 @@
+Račun br. 377968
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+AIR INDI Display svjetiljka, 7.6W LED, 3000K, mesing                                938.06    7   6566.42   1641.60
+N/PE sabirnica, 63A, s vijcima, duljine 1m                                           167.4   22   3682.80    920.70
+Svjetiljka sa žarnom niti 110-130 V, BA15D                                           22.17    5    110.85     27.71
+Matica PG7 (za uvodnicu M272810--A)                                                   0.65   30     19.50      4.88
+
+                                                                                                         ----------
+UKUPNO                                                                                                    10379.569
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

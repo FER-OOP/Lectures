@@ -1,0 +1,28 @@
+Račun br. 347940
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Magnetska prigušnica za MH izvore 1x35W HIT                                         298.79   13   3884.27    971.07
+Proširenje sa accu i punjačem za USMLT 480V / 40 x 80 Ah                             10000   16 160000.00  40000.00
+41020/W, mehaničko ojačanje, bijele boje                                             14.69    4     58.76     14.69
+Strujni trafo, 150/5A, Tip TAR3D-150, 30x10mm                                       101.91   15   1528.65    382.16
+LED Downlight PRO R bez okvira, okr., uklj.LED modul,2700K                          752.87    6   4517.22   1129.30
+Signalni fleksibilni kabel YSLCY-OZ 34x 1,5 sivi                                     10000    8  80000.00  20000.00
+UPS GENIO Net Power 800VA/480W, 4min 1f/1f, Line-int.                               863.38   16  13814.08   3453.52
+Ventilacijska prirubnica za WSM ormare, Tip C, 410x96 (ŠxV)                          38.78   15    581.70    145.42
+"Opt. razdjelnik, 4 niti,SC,50/125µm OM2, izvlačivi,19"",1U"                        473.28    6   2839.68    709.92
+FRAME BASIC LED Set, 6W, 3000K, brušeni al., uklj. napajanje                        280.98    2    561.96    140.49
+Okvir MO 4M line, bijeli                                                              12.5   18    225.00     56.25
+EUTRAC Produžetak, elek., crne b.                                                     95.8    4    383.20     95.80
+DisplayPort kabel, DP20 muški/muški, 3m                                             109.44   15   1641.60    410.40
+INDA Spot,mat bijela GU10, 50Wmax.                                                  312.23    8   2497.84    624.46
+Svjetiljka za ormar, magnetsko učvršćenje                                           550.44   29  15962.76   3990.69
+Grebenasta sklopka, 0-1/2P/20A,na vrata,centralno učvršćenje                        211.08    1    211.08     52.77
+
+                                                                                                         ----------
+UKUPNO                                                                                                     288707.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

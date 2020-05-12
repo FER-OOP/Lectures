@@ -1,0 +1,25 @@
+Račun br. 895613
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Bočne stranice za Modul 2000/3S, dubine 150mm, tip 24/150                             4160   15  62400.00  15600.00
+Izlazni filter za IUKNF2523A, 145x145x26mm, IP54                                    145.86   28   4084.08   1021.02
+Izolirani spoj za EASYTEC II                                                        124.52    6    747.12    186.78
+Bat. Ormar za SPM/SPH, 20x9Ah, bez punjača baterija                                9825.69    9  88431.21  22107.80
+Laki gumeni kabel H05RR-F 4x0,75, crni                                               10000   12 120000.00  30000.00
+Fazne pregrade na priključnim stezaljkama, za 4P MC3 (3 kom)                           103    4    412.00    103.00
+"Tipkalo plosnato u kućištu, crveno, 1 N/O+1 N/C, simbol ""0"""                     165.61   25   4140.25   1035.06
+BARRO ovjesna svjetiljka, GU10                                                      578.81   12   6945.72   1736.43
+"19"" metalni prsten za okomito vođenje kabela 40x80"                                21.23   18    382.14     95.53
+FLEXLED ROLL 3D 24V, 5m, 3000K                                                      562.63   21  11815.23   2953.81
+Kabel za mot. pogon sa Cu širmom 2YSLCY 4x4 EMV Stand.                             5954.02    1   5954.02   1488.51
+Kabelska stopica 35mm2, M8                                                              10    3     30.00      7.50
+Blok pomoćnih kontakata za sklopnike vel. 00, 3 N/O+1 N/C                            41.44   17    704.48    176.12
+
+                                                                                                         ----------
+UKUPNO                                                                                                    306046.22
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

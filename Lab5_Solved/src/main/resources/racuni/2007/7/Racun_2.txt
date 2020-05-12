@@ -1,0 +1,19 @@
+Račun br. 1054638
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LIGHT EYE Spot GU10, max. 50W, uklj. 1f adapter,crne b./krom                        374.92   17   6373.64   1593.41
+Tuljci, izolirani, 1.5mm2, L2=8mm (pak.100 kom)                                       9.36    4     37.44      9.36
+Perforirana vrata s bravicom, za DW ormare 4U, Š=600                                202.55    7   1417.85    354.46
+SPACE D HIT 70 2x18                                                                 826.25   23  19003.75   4750.94
+Mostić za napajanje, 20 polni za YSN78024                                             8.99   10     89.90     22.47
+Fluokompaktna žarulja TC-L 55W/827 2G11                                              49.17   24   1180.08    295.02
+SOPRANA SOLID zidna svjetiljka, WL-1 , siva, E14, max. 60W                          625.15   14   8752.10   2188.03
+
+                                                                                                         ----------
+UKUPNO                                                                                                     36854.76
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

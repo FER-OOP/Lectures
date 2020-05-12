@@ -1,0 +1,18 @@
+Račun br. 855750
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+EASY LIM RF SINGLE COLOR SLAVE 12V/DC i 24V/DC                                       62.51    9    562.59    140.65
+Downunder OUT LED L, 3,3W, 3000K, bijela boja                                       437.43   12   5249.16   1312.29
+Cilindrični osigurač za fotonapon, 10x38, 10A, gPV, 1000V DC                         60.24   18   1084.32    271.08
+Prenaponska zaštita 24V za Mono trake                                                126.9    9   1142.10    285.52
+Montažna ploča 3M-46                                                                 51.46   22   1132.12    283.03
+Zaštitni prekidač AMPARO 6kA, B 25A, 2-polni                                         56.88    2    113.76     28.44
+
+                                                                                                         ----------
+UKUPNO                                                                                                      9284.05
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

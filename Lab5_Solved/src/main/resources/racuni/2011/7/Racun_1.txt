@@ -1,0 +1,27 @@
+Račun br. 578009
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Grebenasta sklopka, (glavna,crveno/žuta),0-1/4P/40A,na vrata                        297.09    4   1188.36    297.09
+Transformator, 1-fazni | 400/230V | 400VA, IP00 + osig. sek.                       1046.29   11  11509.19   2877.30
+CORDA ovjesna svjetiljka, bež                                                      1063.26    9   9569.34   2392.33
+Linijska svjetiljka SOLO 2 T8 2x58W CCG, bijela                                     218.89    9   1970.01    492.50
+Ind.svj.ARKTUR SQUARE LED 147W 15900lm/765 ECG IP65 110°                           3118.34   29  90431.86  22607.96
+Jednožični PVC-om izolirani vodič H05V-U (P) 1mm2, naran.                            10000   19 190000.00  47500.00
+Završna pločica, plava, za stezaljku CBD16                                            1.78   25     44.50     11.13
+NEW TRIA LED DL četvrtasti Set, 12W, 3000K, 38°, bijele boje                        938.06   14  13132.84   3283.21
+TYTAN HC prespojni kabel RJ10, duljina 15cm                                           18.2   28    509.60    127.40
+Komplet za povezivanje baterija za LPS microcontrol 5,2Ah                             5150    6  30900.00   7725.00
+Mike-I-S-R/A2 LED 1W 6000K, IP20, sive boje                                          88.02   13   1144.26    286.07
+Panik.svj.KW 8W 3h,s baterijom stropna                                              529.32   16   8469.12   2117.28
+M48 Area QU-D 1Modul 48LEDs 4000K IP66 114W 10775lm RAL9006                        4895.69   19  93018.11  23254.53
+Odcjepnik za SB2 sisteme                                                            104.96   29   3043.84    760.96
+Nadgradna svjetiljka SAP IP54 T8 4x36W CCG, bijela                                 1316.63   16  21066.08   5266.52
+
+                                                                                                         ----------
+UKUPNO                                                                                                    475997.12
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

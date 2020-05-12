@@ -1,0 +1,22 @@
+Račun br. 942860
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zaštitni prekidač, C karakteristika, 32A, 3-polni, 6kA                               87.36   15   1310.40    327.60
+BILAS SPOT TRIPLE, 3x15W LED, 2700K, 25°, crne boje                                4249.51    2   8499.02   2124.75
+Mini sklopnik 3P | 4kW [AC3] | 24V AC | + 1N/C (ugrađen)                            132.53   19   2518.07    629.52
+Stražnji priključak za 3-polne MC3 (3 kom.)                                         471.73   12   5660.76   1415.19
+Halogena žarulja QR-CBC 51  WFL  20W ECO GU5,3 36°                                   34.44    5    172.20     43.05
+CRISTAL SMALL LED 4x1W 3000K ASIM. 40°x50° INOX+ugr.kut.                           2255.83   21  47372.43  11843.11
+Signalni fleksibilni kabel YSLCY-JZ 12x0,75                                          10000    1  10000.00   2500.00
+Pokrov stezaljki za sklopnike veličine 3                                             16.81   21    353.01     88.25
+Otvoreni prekidač, 4P, 55kA, 2000A, fiksni,vod. str. priklj.                      33494.63   19 636397.94 159099.48
+Odjelna pločica, crvena, za stezaljku CBD35 i CBD 50                                  2.84    3      8.52      2.13
+
+                                                                                                         ----------
+UKUPNO                                                                                                     712292.3
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

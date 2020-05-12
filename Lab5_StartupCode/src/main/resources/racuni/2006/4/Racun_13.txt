@@ -1,0 +1,33 @@
+Račun br. 654678
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Redna stezaljka (vijčani priključak) 10mm², crvena                                    7.23   20    144.60     36.15
+Sklopka, križna, IP54, na oprugu, nadžbukna                                          52.36   11    575.96    143.99
+7822, LED STRIP konektor za 7820 / 7821                                              11.15   27    301.05     75.26
+HALOSPOT111 EnergySaver, 12V, 3000K, 50W, 24°, OSRAM                                  95.8   14   1341.20    335.30
+"Bit-umetak 1/4"", TX25, duljine 25mm, crni"                                         18.58   18    334.44     83.61
+LED traka Flexstrip 36 RGB IP43 L-5M                                                753.96    5   3769.80    942.45
+"Dvostruko svjetleće tipkalo bijelo/crno, oznake: ""I"" - ""0"""                     75.04   16   1200.64    300.16
+Kanal s poklopcem LE, 40x40mm (VxŠ), duljina 2m, RAL 9010                            39.64   21    832.44    208.11
+Kruta pojačana cijev, M40, 750N, EN3341, crna, 3m (pak. 21m)                       1372.81    7   9609.67   2402.42
+Battery Box (bez punjača) za USPRD100 36V 14Ah                                     3744.59    4  14978.36   3744.59
+SIP Modul za VIP (5 licenci)                                                       4405.06   29 127746.74  31936.69
+"Opt. razdjelnik,16 niti, SC, 62,5/125µm OM1, izvl.,19"",1U"                       1303.99   24  31295.76   7823.94
+Okvir 2x2M line, zlatni                                                              28.75   11    316.25     79.06
+ENOLA_B SPOT double, zidna i stropna svjetiljka 2xGU10, cb                          875.55    8   7004.40   1751.10
+GU/GZ 10 TURNO, Downlight, bijele boje                                              143.27   26   3725.02    931.25
+Odašiljač za alarmnu jedinicu EL733580--                                              2104    7  14728.00   3682.00
+50226BF/8, GLASS za 50226BF reflektor                                                14.69   27    396.63     99.16
+LED RETROFIT RL-D40 4W 230V 827 470lm prozirna E14 AL 15000h                         63.74   16   1019.84    254.96
+Završna pločica za stezaljku IK119006--, plava                                        4850   28 135800.00  33950.00
+Instal. umetak 2-45K komplet 15 IR prednja pl. čelik                               2475.44   22  54459.68  13614.92
+ENOLA_B UP-DOWN zidna svj., bb, GU10, max. 50W                                      625.15   12   7501.80   1875.45
+
+                                                                                                         ----------
+UKUPNO                                                                                                     417082.3
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

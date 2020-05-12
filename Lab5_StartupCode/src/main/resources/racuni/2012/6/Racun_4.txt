@@ -1,0 +1,15 @@
+Račun br. 625083
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Sklopnik vel. 2 |18,5kW (40A) [AC-3] | 230VAC | 2N/O+ 2N/C                            4791   12  57492.00  14373.00
+Zaštitni prekidač B 16A, 1-polni+N, širine 1 modula                                  89.19   25   2229.75    557.44
+Stezaljka BK10 BU, 10mm2, za bakrene sabirnice                                         2.6    8     20.80      5.20
+
+                                                                                                         ----------
+UKUPNO                                                                                                     59742.55
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

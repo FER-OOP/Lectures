@@ -1,0 +1,18 @@
+Račun br. 1007039
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Modul za spajanje vanjskih kamera na Quadra KIT                                    2021.98   12  24263.76   6065.94
+Kompaktni prekidač snage tip AE, 3P, 85kA, 1250A+izvl. modul                      74148.02   282076144.63 519036.13
+Meiva-Q/A2 LED 40W 3000K 3200lm, IP20, bijele boje                                  967.46   21  20316.66   5079.17
+Kabel LiYY 3x0,14                                                                    10000   27 270000.00  67500.00
+Zaštita za sabirnički sistem 32 mm za ARROW BLUE vel.00                               4821    9  43389.00  10847.25
+ANILA Spot GU10 sa proz staklom, za EASYTEC II, srebrne boje                        312.23    4   1248.92    312.23
+
+                                                                                                         ----------
+UKUPNO                                                                                                    2435363.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,28 @@
+Račun br. 1066625
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Beta 2/58W EVG, široki snop, difuzor od nehrđajućeg čelika                         2194.48    4   8777.92   2194.48
+Strujni trafo, pravokutni, dimenzije otvora: 115 x 305mm                          11157.47   18 200834.45  50208.61
+DisplayPort kabel, DP20 muški/HDMI19, 2m                                            145.18    5    725.90    181.47
+Ina-R/A1 LED 20W 3000K 1500lm, IP20, bijele boje                                    397.73   16   6363.68   1590.92
+Stražnji priključak za 4-polne MC4 (4 kom.)                                         625.18   18  11253.24   2813.31
+Bezhalogeni jednožilni vodič H07Z-U 1,5mm2, smeđi                                    10000    5  50000.00  12500.00
+Stezaljka prizma ARROW BLUE veličina 1                                                4821   22 106062.00  26515.50
+LED LIGHTPOINT, okrugli, mat bijele b., 1W LED, 3000K                               155.78   22   3427.16    856.79
+Kućište za stezaljke ABS 120/122/65                                                   4130   28 115640.00  28910.00
+NV osigurač vel. 000, gG/gL, 100A/500V AC                                            29.49    1     29.49      7.37
+Podstanica procesorom za Multi-Control za 12 DCM                                  19370.17    5  96850.85  24212.71
+Prednja ploča, čelična, slijepa, 1B7                                                  4160   24  99840.00  24960.00
+Ugradna svjetiljka SEO XTP T8 4x18W ECG IP54 M625, bijela                          1208.04   29  35033.16   8758.29
+Motorna zaštitna sklopka, 2-polna | 0.63 - 1.0A                                     128.78   24   3090.72    772.68
+Označne pločice '2', Dekafix DY5 (sadrži 50 oznaka)                                   8.45   21    177.45     44.36
+KVADRA 70M 1x21/39W DALI preklapajući uložak                                        955.63   20  19112.60   4778.15
+
+                                                                                                         ----------
+UKUPNO                                                                                                     757218.7
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

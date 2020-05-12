@@ -1,0 +1,32 @@
+Račun br. 135620
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kabel LiYY 3x0,34                                                                    10000   14 140000.00  35000.00
+Jednožični PVC-om izolirani vodič H07V-U (P) 2,5mm2, bijeli                            169   10   1690.00    422.50
+Ugradna downlight svjetiljka EQM 211 1x13W ECG TC-DEL,bijela                        369.06    9   3321.54    830.39
+Kompaktni prekidač snage tip A, 3P, 150kA, 50A, utični                             1867.16   29  54147.64  13536.91
+"Zidni komunikacijski ormar DW Dualbloc, 600x370x515, 19"", 6U"                    1033.98   29  29985.42   7496.35
+Završna pločica za stezaljku IK610210--, siva                                         1.78   30     53.40     13.35
+Adapter D01 na D02 Arrow                                                              2.85   29     82.65     20.66
+Ugradna svj. ERIS 1x44W DIF,LED 3200lm/840, M600, bijela                           1011.48   11  11126.28   2781.57
+SENSER LED PANEL nadgradni, 6W, 3000K, četvrtasti, sive boje                        406.17    7   2843.19    710.80
+Utičnica MO šuko 2M 16A, sa poklopcem i dj. zašt., bijela                            30.01   25    750.25    187.56
+VANO TC vanjska svjetiljka, TC-L 36W 2G11. srebrne boje                            1250.97   29  36278.13   9069.53
+Finožični PVC-om izolirani vodič H07V-K (P/F) 2,5mm2,t-plavi                        195.31   16   3124.96    781.24
+SEVEN-CIRCLE 70W HIT E27 IP65 optika za bic.staze, crna                            3468.28   14  48555.92  12138.98
+Nadgradna svjetiljka SAO ECO T5 2x35W ECG, bijela                                   407.54   11   4482.94   1120.73
+LED DMX kontroler Stick GA2 - bijele boje                                          5495.69   21 115409.49  28852.38
+Profil-stezaljka 51 x (20 - 42)mm za TT sabirnice, 1600A                            396.19    5   1980.95    495.24
+7904/AL, Aluminijski profil  2m + PC opal diffuser                                  183.15   15   2747.25    686.81
+Odvodnik prenapona klase C (patrona) GG, N/PE, 40kA/260V,UAS                        217.37    3    652.11    163.03
+Magnetna traka 7mm širine                                                            25.17   26    654.42    163.60
+Univer.opt.kabel A/I-DQ(ZN)BH 24x50/125µm OM3, LS0H-3, nm.                         2589.17    6  15535.02   3883.75
+
+                                                                                                         ----------
+UKUPNO                                                                                                    473421.62
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

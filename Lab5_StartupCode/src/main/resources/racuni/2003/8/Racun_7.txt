@@ -1,0 +1,24 @@
+Račun br. 425558
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+L-SE montažna šina MR 1x35-80 5x1,5mm²                                              116.66    7    816.62    204.15
+Instal. umetak 2-7K komplet 2 IR prednja pl. čelik                                  604.95   20  12099.00   3024.75
+Industrijski utikač - Multigrip, 5 polni, 32A, IP44                                   4320    2   8640.00   2160.00
+Dewy IP65  za 2xT8 LED cijevi 1200mm PC/PC                                           142.6   18   2566.80    641.70
+GU/GZ 10 TURNO, Downlight, bijele boje                                              143.27   11   1575.97    393.99
+EASY 400 1-fazno stabilizirano napajanje 24V DC, 1.25A                              663.15   26  17241.90   4310.48
+Bezhalogeni jednožilni vodič H07Z-K 1,5mm2, smeđi                                    10000    9  90000.00  22500.00
+Univer.opt.kabel A/I-DQ(ZN)BH 16x50/125µm OM4, LS0H-3, nm.                          3441.7   21  72275.70  18068.92
+Kompaktni prekidač snage tip A, 3P/20A/25kA, MC1                                    706.95   25  17673.75   4418.44
+Relej 3 C/O |10A | 48VAC                                                             71.95   15   1079.25    269.81
+Montažna ploča 155x140x1.5mm, pocinčani čelični lim                                   4130    7  28910.00   7227.50
+Yara 21W T5, 230V, IP20, krom                                                       278.44   15   4176.60   1044.15
+
+                                                                                                         ----------
+UKUPNO                                                                                                     257055.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

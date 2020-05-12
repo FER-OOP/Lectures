@@ -1,0 +1,33 @@
+Račun br. 449716
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Minijaturni relej, 4C/O, 6A, 6VAC, serije PT                                         38.95   24    934.80    233.70
+RC 280i infracrveni senzor pokreta, nazidni, IP54, crni                            1559.63    5   7798.15   1949.54
+Punto-A MR16 Spot, GU5,3, 50W, IP20, 12V, brušeni krom                               31.08    9    279.72     69.93
+VANDALCOM P/Ž kutija, 2 modula                                                       424.3   25  10607.50   2651.88
+LED Strip konektor 4,8W/m                                                             7.26    2     14.52      3.63
+Nosači pokrova sabirnica (lijevi+desni), sustav 60mm                                  4832   28 135296.00  33824.00
+Signalni fleksibilni kabel YSLY-JZ 3x1,5 sivi                                       545.46    9   4909.14   1227.29
+Plafonjera MALLE LED 19W 1800lm/840 ECG, bijela                                     669.79   14   9377.06   2344.26
+DVI-D kabel, DVI-D(24+1) muško - muški, 5m                                           91.16    4    364.64     91.16
+Nazidno tipkalo za rolete, bijelo, IP44, utične stezaljke                           116.05   17   1972.85    493.21
+LED DALI PWM Dimer RGB DT8 (Device Type 8)                                         1132.18   10  11321.80   2830.45
+Ugradna downl. svjetiljka EQM 211 1x18W TC-DEL IP20 bijela                          343.62   20   6872.40   1718.10
+Postolje vel.00 H, S3/T, RAL7032                                                   2583.25   24  61998.00  15499.50
+Poprečna stranica, širina 2/200mm                                                   229.04   26   5955.04   1488.76
+3-F adapter za strujne šine, 230V, 16A, bijela                                       50.51   26   1313.26    328.32
+Jednožični PVC-om izolirani vodič H07V-U (P) 2,5mm2, crveni                         189.24   25   4731.00   1182.75
+U/UTP inst. kabel cat.5e,4x2xAWG24/1,LS0H,plavi,kutija 305m                         210.78    9   1897.02    474.26
+Optički prespojni kabel duplex, FC/FC, 50/125µm OM2, 3m                              78.26    1     78.26     19.57
+"Stezaljka ""A"" 2P, dovod 25mm²|odvodi: 2 x (2x16)"                                 86.25   21   1811.25    452.81
+KALU TRACK LEDDISK SPOT, srebrne boje, 3000K, 1-f adapter                          1125.94   16  18015.04   4503.76
+Instalacijski sklopnik 25A | 3 N/O + 1 N/C | 230V AC/DC, 2ŠM                        214.15   11   2355.65    588.91
+
+                                                                                                         ----------
+UKUPNO                                                                                                     287903.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

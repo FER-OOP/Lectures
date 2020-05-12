@@ -1,0 +1,18 @@
+Račun br. 341461
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Sobno signalno svjetlo s natpisnom pločicom                                           2104   13  27352.00   6838.00
+FLAT 121 zidna svj. 2 x T5 21W                                                     1250.97   22  27521.34   6880.34
+Set za direktno spajanje 2 vodiča na pruge sa V-stezaljkama                         773.25    7   5412.75   1353.19
+Stropna rozeta za HANG UP svjetiljke, bijela b.                                      93.26    2    186.52     46.63
+Sklopnik vel. 00 | 4kW (9A) [AC-3] | 24VDC | 1 N/C                                  119.35   15   1790.25    447.56
+Ugradna kutija za šuplje stijenke, Ø68, 61mm, M20, naranč.                          809.85   18  14577.30   3644.32
+
+                                                                                                         ----------
+UKUPNO                                                                                                     76840.16
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,16 @@
+Račun br. 826447
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zatvarač veličine 3, 4-polni (tvornički ugrađen)                                      4970   10  49700.00  12425.00
+Podnaponski isklopnik za MC4, 208-240V AC                                           510.98    9   4598.82   1149.71
+Bruno-WL-I-S 20W E27, 100-240V, IP54, antracit                                      251.91   28   7053.48   1763.37
+Panel/Tablet PC sa touchscreen                                                    23622.21   11 259844.31  64961.08
+
+                                                                                                         ----------
+UKUPNO                                                                                                    321196.62
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,20 @@
+Račun br. 565746
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Držač za RM releje                                                                       3    3      9.00      2.25
+Zaštitni prekidač MB 25kA CL 16/3                                                   476.17   25  11904.25   2976.06
+P/Ž inst. razdj. 2U-7,2-redni,42ŠM,410x590x250mm(VxŠxD)                               4190   23  96370.00  24092.50
+7103ALG/C, G9 LED 2,5w CW 230v                                                       26.52    6    159.12     39.78
+70030, LED SVJETILJKA 70w PODVODNA 120m , punjiva, crne boje                       2452.96    6  14717.76   3679.44
+Fronius Solar Battery 7.5 (6,0 kWh)                                                  10000   21 210000.00  52500.00
+KADUX LED Double DL Set, 3000K, 38°, bijele boje                                    875.55    2   1751.10    437.77
+LED DALI PWM Dimer RGB DT8 (Device Type 8)                                         1132.18   17  19247.06   4811.77
+
+                                                                                                         ----------
+UKUPNO                                                                                                    354158.28
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

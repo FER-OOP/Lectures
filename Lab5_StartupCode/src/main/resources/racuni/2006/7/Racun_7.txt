@@ -1,0 +1,18 @@
+Račun br. 804852
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Halogena žarulja HALOLUX 64543 B ES 42W E14, bistra                                  21.87   14    306.18     76.55
+Sklopnik 3P |11kW (22A) [AC3] / 32A [AC1] | 400V AC | 1N/C                          256.93    2    513.86    128.46
+Telekomunikacijski kabel YYSCH 3x0,6mm2, boja slonovače                              10000    2  20000.00   5000.00
+41002/G, ADAPTER, sive boje                                                           29.9   10    299.00     74.75
+Ina-R LED 7W 3000K 500lm, dimabilna, 700mA, IP54, bijele b.                         322.54   24   7740.96   1935.24
+MINI FRAME zidna ugradna svjetiljka LED, tople bb                                    187.2   11   2059.20    514.80
+
+                                                                                                         ----------
+UKUPNO                                                                                                      30919.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

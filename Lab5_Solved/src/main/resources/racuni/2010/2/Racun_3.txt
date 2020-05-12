@@ -1,0 +1,32 @@
+Račun br. 1099097
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Završni poklopac LBF okrugli sa rupom                                                 8.37    8     66.96     16.74
+Kabel H05VV-F (PP/J) 3x1mm2, svijetlo-sivi, 100m                                     10000   23 230000.00  57500.00
+Ugradna svj. SELENA OP LED ECO 24W M625 2600lm/840 ECG,bb                           669.79   12   8037.48   2009.37
+"Inverter Kaco Blueplanet 7.5; TL3, 3f, 2MPPT, IP65"                              17967.39    6 107804.34  26951.09
+Optički prespojni kabel duplex, SC/FC, 9/125µm OS2, 10.0m                           117.16   24   2811.84    702.96
+Lokot za zaključavanje MZ2                                                           31.11    8    248.88     62.22
+Panik svjetiljka KW FLUO 11W, CPS sustav, MIX mod, stropna                          890.09   30  26702.70   6675.68
+Rasvjetni stup Tetra Parco1 IP65 HIT35W G8,5                                       3147.86    9  28330.74   7082.69
+Tipkalo s plosnatom tipkom, plavo, uskočno, s držačem                                42.98   18    773.64    193.41
+Neo-WL-I-R LED 2x1W, IP44, sive boje                                                 57.44   19   1091.36    272.84
+Modul za audio/video jedinicu, 1 tipka, IKALL, crni                                 294.49    5   1472.45    368.11
+Punto-F MR16 Spot, GU5,3, 50W, IP20, 12V, bijela                                      15.2   25    380.00     95.00
+Downunder OUT LED S, 1,7W, 3000K, srebrnosiva boja                                  312.23    4   1248.92    312.23
+Zaštitni prekidač AMPARO 6kA, C 32A, 1-polni                                         20.96   21    440.16    110.04
+Svjetleće tipkalo s plos.tipkom,sa LED 24VAC/DC,crveno,1N/C                          73.17   13    951.21    237.80
+Dodatni blok pomoćnih kontakata 2 N/O + 2 N/C (rezervni dio)                       1302.08    9  11718.72   2929.68
+Brtva za utičnice, za IP44                                                             7.5   18    135.00     33.75
+Krović za zaštitu od kiše 1250x300                                                 1746.29   24  41910.96  10477.74
+Zaštitni prekidač, C karakteristika, 10A, 1-polni+N, 6kA                             54.22    4    216.88     54.22
+Zaštitni prekidač sa svojstvima rastavljača,D 80A,3-polni+N                        1070.07   28  29961.96   7490.49
+
+                                                                                                         ----------
+UKUPNO                                                                                                     494304.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

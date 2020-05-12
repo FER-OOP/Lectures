@@ -1,0 +1,21 @@
+Račun br. 249868
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Stražnja ploča za nazidni Modul 2000 | 1R-16                                          59.9   21   1257.90    314.48
+Nadgradna svjetiljka SARH 2 ECO T8 4x18W ECG, bijela                                325.94    1    325.94     81.49
+Teretna sklopka, rastavljač (izolator), 40A, 4P                                     161.71    5    808.55    202.14
+Spojnica (koljeno) M25, bez halogena, svijetlo-siva (10kom.)                       1478.16   20  29563.20   7390.80
+Adapter za sustav 60mm, EMC 32A, 2 nosača, širine 54mm                                4832   17  82144.00  20536.00
+Označne pločice 251-300 (pločica sa 2x od 251-300)                                   16.83   23    387.09     96.77
+Signalni fleksibilni kabel YSLY-JZ 7x0,75 sivi                                      686.13    7   4802.91   1200.73
+FRAME BASIC LED, četvrt.,mat bijele b.,toplo bijele boje LED                         224.2    4    896.80    224.20
+Sig.svj.sa bat. DHE Autotest ERT-LED 1h,3h,8h 230VAC ugradna                        939.12   26  24417.12   6104.28
+
+                                                                                                         ----------
+UKUPNO                                                                                                    144603.52
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

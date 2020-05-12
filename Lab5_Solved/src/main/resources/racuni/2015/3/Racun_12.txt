@@ -1,0 +1,25 @@
+Račun br. 170755
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+NEW TRIA II MR16, četvrt.obl., mat bijele boje, max. 2x 50W                         343.66   26   8935.16   2233.79
+Combi okvir podžbukni za kućni razdjelnik 6, RAL9003                                117.07    8    936.56    234.14
+KADA ZA ŠUPLJE STJENKE, 3-REDNA, 36+6 MODULA                                         99.07    6    594.42    148.60
+Linijska svj. SERH-LT 112, srednji profil,  2x49W, ECG, bb                          570.43    3   1711.29    427.82
+Umetak serijske sklopke, na vijak                                                    12.65   12    151.80     37.95
+Senzor prisutnosti 360B KNX, 8m, p/ž, stropni, IP54, bijeli                        1429.58   23  32880.34   8220.08
+LED cijev 11,5W, 1400lm, 4000K, 120°, zakretna 90°, L-590mm                         224.17   24   5380.08   1345.02
+Design IL ERT-LED 1x3W 230V AC/DC CPS ML, usmjerena,stropna                         792.96   21  16652.16   4163.04
+Ispravljač, 1-fazni | 230-400/24VDC | 3A                                            789.65   17  13424.05   3356.01
+Okvir 3x2M line, srebrni                                                             34.38   24    825.12    206.28
+"Opt. razdjelnik,24 niti, ST,50/125µm OM3, izvlačivi,19"",1U"                      1504.82   24  36115.68   9028.92
+Kabel H05VV-F (PP/J) 10x1,5mm2, svijetlo-sivi, 500m                                  10000    8  80000.00  20000.00
+Senzor prisut. stropni, thePrema S360-101,100m2,2kan.,bijeli                       1259.82    1   1259.82    314.95
+
+                                                                                                         ----------
+UKUPNO                                                                                                    198866.47
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

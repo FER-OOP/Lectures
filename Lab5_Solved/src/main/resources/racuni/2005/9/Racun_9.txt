@@ -1,0 +1,19 @@
+Račun br. 690400
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Prednja ploča, čelična, slijepa, 5B1                                                  4160    6  24960.00   6240.00
+NV rastavna pruga vel.00|160A, 3P, M8, sustav 60mm                                  591.25   13   7686.25   1921.56
+I-PENDANT PRO LED PANEL PENDULUM 2700K 1295x295mm bijele b.                        1558.31   23  35841.13   8960.28
+FID sklopka 125-4-01/A (puls)                                                         4270   16  68320.00  17080.00
+IP2x zaštita od dodira, za 3-polne MC1 (montaža na MC190021)                         44.16   11    485.76    121.44
+060020A, STICKER ONE LIGHT LOGO 34x29cm                                              14.69    1     14.69      3.67
+Pregibnica za RJ45 utikač, modularna, siva                                            0.84    9      7.56      1.89
+
+                                                                                                         ----------
+UKUPNO                                                                                                    137315.39
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

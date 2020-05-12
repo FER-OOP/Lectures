@@ -1,0 +1,27 @@
+Račun br. 485846
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ormar plast.1250x1000x312,krov protiv kiše,dno zat.,2 vrata                           4142    5  20710.00   5177.50
+Natpisna pločica fi=60mm, 4-jezična, “Not-Aus”                                       30.34   20    606.80    151.70
+Optički prespojni kabel duplex, ST/ST, 50/125µm OM2, 2.0m                           125.32   10   1253.20    313.30
+Zaštitni prekidač AMPARO 6kA, B 25A, 3P+N                                            98.25    2    196.50     49.13
+XXL-T-Shirt  cotton-jersey                                                          104.86   22   2306.92    576.73
+Samostojeći ormar, 2-vrata, 2000x1200x400 (VxŠxD) bez MP R5                        4631.65    5  23158.25   5789.56
+FI-blok 63A, 2-polni, 300mA, S izvedba                                                4290    2   8580.00   2145.00
+Finožični PVC-om izol. vodič H05V-K (P/F) 0,75mm2, smeđi HPV                         10000   24 240000.00  60000.00
+Prespojni kabel RJ45 cat.5e neoklopljen, PVC, zeleni, 1.0m                             5.9   16     94.40     23.60
+"ICONA monitor bijeli 4,3"""                                                       2598.38   26  67557.88  16889.47
+Otvoreni prekidač, 3P, 55kA, 1000A, izvl., vod. str. priklj.                      17861.71   22 392957.63  98239.41
+"FIN XS Pole 50 2x4W LED 3000°K, ""Down&Down"", siva"                              3178.73    6  19072.38   4768.09
+Tuljci, izolirani, 10mm2, L2=12mm (pak.100 kom)                                      33.79   16    540.64    135.16
+Kompaktni prekidač snage tip VE, 4P, 50kA,1600A+izvl. modul                       72246.39    3 216739.17  54184.79
+Mura-CL-II-R LED 1W 3000K, IP54, aluminij                                           219.81    5   1099.05    274.76
+
+                                                                                                         ----------
+UKUPNO                                                                                                     994872.9
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,30 @@
+Račun br. 920370
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+NEW TRIA 2 DL četvrtasti Set, 2x6W, 3000K, 38°,crne boje                            625.15   25  15628.75   3907.19
+Nadgradna svjetiljka SAP IP54 T5 4x14W ECG, bijela                                 1041.89   29  30214.81   7553.70
+Prednja ploča, plastična, slijepa, 3B5K                                               4160   18  74880.00  18720.00
+Energetski kabel 0,6/1kV PP00 (NYY-O) 1x500rm crni                                   10000   18 180000.00  45000.00
+PARA 380 reflektor, red, E27, max. 260W                                             813.03   26  21138.78   5284.70
+1-polna sklopka, kompletna, 10A, na oprugu, bijela                                      20    1     20.00      5.00
+Savitljiva cijev (srednje), M16, 750N, kolut 50m, siva                              298.55    5   1492.75    373.19
+UPS Multi Plus 10kVA 9kW                                                          38406.15   13 499279.94 124819.98
+Brava 61005                                                                          86.88   25   2172.00    543.00
+Ovjes sa stropnom rozetom i razvodnom kutijom 5P, 1,2m                               75.55    1     75.55     18.89
+Relej snage, 1C/O, 12A, 24VDC serije RT, raster 3.5mm                                17.56    5     87.80     21.95
+Vezica 142 x 3.2mm, natural (pak.=100 kom.)                                           8.81   26    229.06     57.27
+Finožični PVC-om izolirani vodič H07V-K (P/F) 2,5mm2, crveni                        195.31   23   4492.13   1123.03
+Stezaljka ECB siva, dovod: 2x25mm² | odvod: 14x4mm²                                  89.67   23   2062.41    515.60
+Sigma Single 30W, 4000K, 2100lm, 120°, alu, antracit                                344.67   27   9306.09   2326.52
+LED traka 115 UWW Ra=90+ 26,9W/m 1930lm/m, 24VDC,IP44, l=5m                        1828.91   24  43893.84  10973.46
+Stropna svjetiljka Cube-CL1, GU10 QPAR 16, 35W, IP54, bijela                        187.71    4    750.84    187.71
+Plosnati kabel, 4-žični,crni, za tel. prespojne kabele, 100m                        132.95   27   3589.65    897.41
+
+                                                                                                         ----------
+UKUPNO                                                                                                     889314.3
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

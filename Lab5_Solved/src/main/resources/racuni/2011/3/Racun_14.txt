@@ -1,0 +1,22 @@
+Račun br. 992909
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Optički prespojni kabel duplex, LC/ST, 50/125µm OM2, 3.0m                           168.81   21   3545.01    886.25
+LED 12-30V AC/DC, plavi, za prednju montažu                                          35.49   18    638.82    159.71
+Utičnica MO šuko 2M 16A, sa zaštitinim kontaktom, bijela                             20.94    3     62.82     15.70
+Kućište IP55 za MZS vel.00                                                           58.95   17   1002.15    250.54
+Zaštitni prekidač, D karakteristika, 2A, 3-polni, 10kA                              198.55   25   4963.75   1240.94
+Vijci + tuljci za stezaljku CBD70                                                      2.6   18     46.80     11.70
+Kompaktni prekidač snage tip A, 3P/100A/50kA, MC1                                   977.89   19  18579.91   4644.98
+Elektronska prigušnica ECG QT-M 1x26-42W                                            100.52    9    904.68    226.17
+Signalni fleksibilni kabel YSLCY-JZ 4x16 sivi                                     11333.38   24 272001.13  68000.28
+Okvir 3-struki, antacit                                                              18.44    1     18.44      4.61
+
+                                                                                                         ----------
+UKUPNO                                                                                                     301763.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,33 @@
+Račun br. 565269
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Downunder OUT LED L, 3,3W, 3000K, bijela boja                                       437.43   16   6998.88   1749.72
+Vodotijesna svjetiljka DEVA ECO PC 1x58W ECG                                        263.73    2    527.46    131.87
+LED traka nap.stez. 10mm, sa 30cm Kabel, 1kom                                        16.72   17    284.24     71.06
+Slave License za MUG, 1 korisnik                                                    315.68   27   8523.36   2130.84
+Rita-R/A2 150W G12, 230V, IP20, brušeni krom                                          17.9   20    358.00     89.50
+Prirubna ploča 916x211x5mm, za IL951…IP54 (pak.=2 kom.)                               4170   17  70890.00  17722.50
+Nadgradna svjetiljka SAO ECO T8 4x18W CCG, ind, bijela                              372.32   21   7818.72   1954.68
+Nazidno dvostruko tipkalo, bijelo, svjetleće, 2 N/O, IP44                             2102   13  27326.00   6831.50
+Nosači za montažu LB i TB profila                                                    50.26   22   1105.72    276.43
+NV kratkospojnik 160A, vel.00                                                        38.62   29   1119.98    279.99
+Fluokompaktna žarulja TC-L 24W/840 2G11                                               24.2   30    726.00    181.50
+LED Strip montažne kopče 14,4W/m                                                      1.35   19     25.65      6.41
+RETROSIX GU10 WALL UP-DOWN, prozirna, GU10, max. 2x 50W                             433.76   29  12579.04   3144.76
+Kabel LiYY 36x0,5                                                                    10000   30 300000.00  75000.00
+Kompenzacija  LSFC 14% 125/12,5kvar 800x2110x500mm Samost                         51499.42   12 617993.06 154498.27
+Poliester ormar,vrh zatv.dno otv.,2 vrata 1000x1000x300(VŠD)                       4949.94   17  84148.98  21037.24
+6-kutna matica, NUT-HEX-DIN934-I8I-WS10-(A2K)-M6                                     14.74   24    353.76     88.44
+Izolirani kabelski tuljak, dvostruki, sivi, 2x4.0mm²/14mm                             0.67   19     12.73      3.18
+Intercommunication systems 2016                                                      50.68    7    354.76     88.69
+Montažna ploča za MINIPOL ormare, poliester, 500x400mm                              151.55   26   3940.30    985.08
+Vodič (N)YM-O (PGP) 2x1,5mm2, bez zašt. vodiča, svij.-sivi                           10000    7  70000.00  17500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1215086.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

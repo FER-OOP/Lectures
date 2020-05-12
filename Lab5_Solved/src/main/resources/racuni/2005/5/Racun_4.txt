@@ -1,0 +1,14 @@
+Račun br. 485793
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LED-napajanje, 12VA, 700mA                                                          218.46   18   3932.28    983.07
+Ugradna svjetiljka SERH 2 T5 2x24W ECG M625, bijela                                 346.72   21   7281.12   1820.28
+
+                                                                                                         ----------
+UKUPNO                                                                                                      11213.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

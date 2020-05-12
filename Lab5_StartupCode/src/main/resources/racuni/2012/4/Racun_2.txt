@@ -1,0 +1,25 @@
+Račun br. 781850
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ugradna svjetiljka SERH XTP T5 4x14W ECG M625, bijela                              1334.32    9  12008.88   3002.22
+LED AR111, CREE XT-E LED, 15W, 30°, 2700K                                           316.63   24   7599.12   1899.78
+WALLYX GU10 zidna svj., tamni antracit                                              500.12   17   8502.04   2125.51
+Spojnica (koljeno) M25, bez halogena, crna (pak. 10 kom.)                          1478.16    9  13303.44   3325.86
+"Optički prespojni panel 19"", 1U, uklj. 12 spojnica LC MM"                         778.67    5   3893.35    973.34
+SENSER LED PANEL nadgradni, 6W, 3000K, četvrtasti, bijele b.                        406.17    4   1624.68    406.17
+7306LG/W/38, 5LED 5,5w GU10 WW 38 ° 100-240v                                         46.46    1     46.46     11.61
+Ugradna kutija, podžbukna, sa strana prostor za stezaljke                          1171.88   13  15234.44   3808.61
+Vodotijesna svjetiljka LINDA PC 2x28W ECG IP65 SC II                                547.94   29  15890.26   3972.57
+Vertikalni montažni profil za AS/KS ormare visine 2000mm                            479.53   29  13906.37   3476.59
+SENSER LED PANEL ugradni, 10W, 3000K, okrugla, sive boje                            312.23    3    936.69    234.17
+Središnji držač za učvršćenje montažne ploče u AS/KS ormaru                         195.22    6   1171.32    292.83
+Ugradni downl. SEGON LED 18W ED 1900lm/830 MAT IP20 70°,bb                          469.64   28  13149.92   3287.48
+
+                                                                                                         ----------
+UKUPNO                                                                                                    107266.97
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

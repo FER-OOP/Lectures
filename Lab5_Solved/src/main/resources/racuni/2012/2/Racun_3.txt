@@ -1,0 +1,31 @@
+Račun br. 398336
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+T vezni element 90˚ PK 110*70                                                         4866   16  77856.00  19464.00
+Kabel H05VV-F (PP/J) 5x1,5mm2, svijetlo-sivi, 500m                                   10000    5  50000.00  12500.00
+Samoljepljivi držač vezica, 28 x 28mm/4.8mm (pak.=100 kom.)                          62.97   10    629.70    157.43
+EURO SPOT ECG 50, 60°bijela G12,50W,uklj. 3f.adapter                                938.06   14  13132.84   3283.21
+L-SE LSK 1.5 1x68W LMW 6950lm 830 ECG, bijele boje                                 1228.16    9  11053.44   2763.36
+N/Ž okvir + vrata 2A-18 D=250mm str.ploča+zakr. ručica, IP54                       2494.07   13  32422.91   8105.73
+FID sklopka 40-4-003/AC, 10kA                                                       265.62    9   2390.58    597.65
+LED 85-264V AC zeleni, za montažu na dno kućišta, utične                             82.96   15   1244.40    311.10
+Kabel H03VV-F (PP/L) 4x0,75mm2, svijetlo-sivi, 500m kolut                            10000   20 200000.00  50000.00
+Kabelska spojnica s vijkom, pocinčana, 16-50mm²                                      81.43   15   1221.45    305.36
+T-spojnica za 1-f  3-f šina,desna, bb                                                87.01   19   1653.19    413.30
+Sklopni element za prednju montažu, 1+1, utične stezaljke                            28.62    5    143.10     35.78
+70022, LED NOĆNA SVJETILJKA 0,5w BS utikač                                           25.68   11    282.48     70.62
+SOPRANA zidna svjetiljka, WL-2, bež tekstil, E27                                    813.03   20  16260.60   4065.15
+Kutni element 90˚ PK 110*70                                                          32.49   19    617.31    154.33
+"3-struki okvir ""Fashion"", bijeli, IP44"                                          104.07   30   3122.10    780.53
+Obujmica s čavlom, za kabele, 7-12mm, čavlić Ø2x25mm, siva                           31.94   23    734.62    183.65
+BIMA pano svj., krom                                                                500.12   25  12503.00   3125.75
+UPS GENIO Flex Plus Tower 800VA 640W 5min 1f/1f, Line-Int.                            2684   27  72468.00  18117.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     497735.7
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

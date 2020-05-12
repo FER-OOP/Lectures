@@ -1,0 +1,15 @@
+Račun br. 527714
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+FLEXLED ROLL SELECT 24V, 1m, 2700K                                                  249.72   25   6243.00   1560.75
+Cijev, M40, 320N, EN2221, svijetlo siva, 3m (pak. 21m)                              887.48   21  18637.08   4659.27
+Set zaštitne opreme Würth (rukavice + 2x naočale)                                   395.16   14   5532.24   1383.06
+
+                                                                                                         ----------
+UKUPNO                                                                                                     30412.32
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

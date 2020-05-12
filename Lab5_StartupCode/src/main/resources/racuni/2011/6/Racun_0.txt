@@ -1,0 +1,14 @@
+Račun br. 326471
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Adapter za montažu LAM na DIN nosač                                                   4.65   21     97.65     24.41
+Nadgradna svjetiljka SARH 2 ECO T8 2x36W CCG, ind, bijela                           349.98   27   9449.46   2362.36
+
+                                                                                                         ----------
+UKUPNO                                                                                                      9547.11
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

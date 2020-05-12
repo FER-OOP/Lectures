@@ -1,0 +1,14 @@
+Račun br. 167571
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kabel H05VV5-F 34x1 sivi                                                             10000    4  40000.00  10000.00
+Finožični PVC-om izolirani vodič H07V-K (P/F) 1,5mm2, zeleni                        121.44   16   1943.04    485.76
+
+                                                                                                         ----------
+UKUPNO                                                                                                     41943.04
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

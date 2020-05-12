@@ -1,0 +1,16 @@
+Račun br. 1057859
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Reed-I-L-R 2x13/18W G24q, 230V, IP20, sive boje                                       5.74   18    103.32     25.83
+Audio vanjski panel, 4 tipke, sa PTT otvorom                                          4690   19  89110.00  22277.50
+Luka LED 3W, 3000K, 190lm, 700mA, IP65, 30°, alu                                    124.52    6    747.12    186.78
+Senga LED 30W 2570lm, 3000K, 230V, IP65, bijele boje                                411.07   23   9454.61   2363.65
+
+                                                                                                         ----------
+UKUPNO                                                                                                     99415.05
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

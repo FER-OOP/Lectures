@@ -1,0 +1,20 @@
+Račun br. 767493
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Tipkalo s plosnatom tipkom, bijelo, uskočno, s držačem                               42.98    2     85.96     21.49
+Zaštitni prekidač, C karakteristika, 13A, 1-polni, 6kA                               31.62   13    411.06    102.76
+FID sklopka AMPARO, 63-4-01/AC, 10kA                                                  4210    5  21050.00   5262.50
+Kabel LiYCY 12x2x0,5                                                                 10000   13 130000.00  32500.00
+SFL PAR56 TS 70 LONG HV Rx7s SPOT, alum., 70W, uklj. adapter                       1433.11   15  21496.65   5374.16
+Komplet obujmica za vel.00                                                           12.51   26    325.26     81.32
+Ugradno kućište za svjetiljku LUNA 20W MT                                           213.65   26   5554.90   1388.72
+"Sobno signalno svjetlo ""Design"", bijelo-crveno-zeleno"                          1495.71   16  23931.36   5982.84
+
+                                                                                                         ----------
+UKUPNO                                                                                                     202855.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

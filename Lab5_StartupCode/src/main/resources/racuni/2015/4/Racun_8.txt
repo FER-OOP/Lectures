@@ -1,0 +1,16 @@
+Račun br. 978657
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Plafonjera ALICA Round OP 1x22W, CCG IP54, bijela                                   262.02    5   1310.10    327.52
+Označne pločice '41-50', Dekafix DY5 (sadrži 50 oznaka)                               8.45   29    245.05     61.26
+Zaštitni prekidač MB 25kA CL 63/3                                                   476.17   18   8571.06   2142.77
+VINCELLI zidna svjetiljka 10,7W, 2700K, 640lm, cb/bambus                           1125.94    4   4503.76   1125.94
+
+                                                                                                         ----------
+UKUPNO                                                                                                    14629.971
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

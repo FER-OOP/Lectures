@@ -1,0 +1,14 @@
+Račun br. 541740
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+HDMI 1.4 kabel, 2xHDMI19 tipA muški, pozlaćeni kontakti, 10m                        129.43    1    129.43     32.36
+FID sklopka AMPARO, 63-4-003/AC, 10kA                                                  343   22   7546.00   1886.50
+
+                                                                                                         ----------
+UKUPNO                                                                                                      7675.43
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

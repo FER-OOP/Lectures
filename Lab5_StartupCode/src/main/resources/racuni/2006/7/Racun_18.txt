@@ -1,0 +1,30 @@
+Račun br. 537334
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Majica Store, ženska, kratkih rukava -small-                                        301.79   14   4225.06   1056.27
+Savitljiva cijev (lagano), M40, 320N,kolut 25m,svijetlo-siva                        572.29   15   8584.35   2146.09
+Mehanička blokada za 3-polne MZ2                                                     41.11    2     82.22     20.56
+MY68 ugradna spot svj. okrugla MR16 GU5,3 50W IP20 prilag.                           48.55    6    291.30     72.82
+7306LGD/D/38, 5LED 5,8w GU10 DL 38 ° dimabilna 230v                                  66.23    1     66.23     16.56
+Signalni fleksibilni kabel YSLY-JZ 4x0,5 sivi                                       318.77    9   2868.93    717.23
+Pločica + nosač, natpis: MAN AUTO                                                    11.04   19    209.76     52.44
+Ugradna svjetiljka SERM 2 A8 L1 T5 1x54W, ECG, bijela                                 8534   11  93874.00  23468.50
+Pokrov priključnih stezaljki na adapteru MC291400--                                  58.02    4    232.08     58.02
+Style 2 kit, 1 stan, audio, P/Ž / N/Ž, 2 žice                                       658.73   10   6587.30   1646.83
+Finožični PVC-om izol. vodič H07V-K (P/F) 25mm2, crni HPV                            10000   26 260000.00  65000.00
+Modul signalne svjetiljke, blicajuće crveno svjetlo, 230VAC                         587.33   11   6460.63   1615.16
+"2-struki stakleni okvir ""Riva"", alu efekt"                                       511.82   19   9724.58   2431.15
+AIXLIGHT R DUO, QRB111, okr., sr.b., G53, max. 2x50W                               1433.11   15  21496.65   5374.16
+Grebenasta sklopka 0-1/2P/32A/1kV DC, na DIN nosač                                  387.64   20   7752.80   1938.20
+Fluo cijev T8|T26 ECO 32W 865                                                        49.02    5    245.10     61.27
+FID sklopka 63-4-03/AC, 6kA                                                         425.06    6   2550.36    637.59
+Stražnji priključak za 4-polne MC3 (4 kom.)                                         625.03    7   4375.21   1093.80
+
+                                                                                                         ----------
+UKUPNO                                                                                                     429626.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,16 @@
+Račun br. 196516
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Sklopnik 3P | 4kW (10A) [AC3] | 24V DC | + 1N/O (ugrađen)                           211.82    5   1059.10    264.78
+Uzidni okvir s vratima - M3000, 3U-18                                               861.68    7   6031.76   1507.94
+Izolirana utična stopica, 6.3, plava, 1.5-2.5mm² (100 kom.)                          76.95   12    923.40    230.85
+Motorna zaštitna sklopka, 3-polna | 1.60 - 2.50A                                    233.61   19   4438.59   1109.65
+
+                                                                                                         ----------
+UKUPNO                                                                                                     12452.85
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

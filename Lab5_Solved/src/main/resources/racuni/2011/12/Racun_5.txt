@@ -1,0 +1,33 @@
+Račun br. 729106
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Vatrodojavni kabel  JB-Y(St)Y 6x2x0,8                                               952.29   27  25711.83   6427.96
+Bakrena sabirnica 204A, 20x3mm, duljina 2m                                            4822   23 110906.00  27726.50
+POWER TRAIL LITE,bi.b., četvrt. pokrov                                              437.43   27  11810.61   2952.65
+Optički prespojni kabel duplex, ST/ST, 50/125µm OM2, 5.0m                           102.31   18   1841.58    460.39
+ARROW-BLOC vel.3 za sustav 100mm, odlaz gore                                          4821   28 134988.00  33747.00
+Utičnica šuko sa zaš. kon.+pokl+ dječ. zaš. na vijak bijela                          22.35   18    402.30    100.58
+Otvoreni prekidač, 3P, 66kA, 2500A, izvl., vod. str. priklj.                      58792.33   211234638.88 308659.72
+Stupnjevita sklopka CG 8 A270-600E F085                                             470.69   18   8472.42   2118.10
+Križna spojnica, 2-djelna, traka 30mm - vodič Ø8-10mm                                21.87   30    656.10    164.03
+Strujni trafo, prolazni, okrugli, promjer otvora: 70mm                              562.88   24  13509.12   3377.28
+Noel-S/A2 3x75W G53 AR111, 12V, IP20, bijele boje                                   358.02   18   6444.36   1611.09
+Signalni fleksibilni kabel YSLY-JZ 21x1 sivi                                       3024.86   12  36298.32   9074.58
+Fleks. kabel SF/UTP 4x2xAWG26/7, cat.5e, 200MHz, PVC, žuti                          520.52   21  10930.92   2732.73
+Sabirnica 4 struka, izolirana, za TN-S-, TT-sustav                                    4959    1   4959.00   1239.75
+Priključna kutija, čelik, 300x600x120 (VxŠxD), IP66, RAL7035                        409.59   21   8601.39   2150.35
+Kabel H05VV5-F 12x1,5 sivi                                                           10000   19 190000.00  47500.00
+S/FTP inst. kabel cat.7a, 4x2xAWG22/1, 1200MHz, LS0H-3, 50%,                        634.11   13   8243.43   2060.86
+Sutil Round  LED 12W, 3000K, 720lm, 120°, IP40, bijele boje                         172.33    9   1550.97    387.74
+Kabelske vezice, plastične, natur, 4.8x280mm                                          32.4   28    907.20    226.80
+FLEXLED ROLL SELECT 24V, 1m, 2700K                                                  249.72   28   6992.16   1748.04
+Predtpor za povezivanje LED  12-30V AC/DC na 220V AC/DC                             107.97   30   3239.10    809.78
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1821103.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

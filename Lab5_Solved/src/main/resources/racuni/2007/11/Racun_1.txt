@@ -1,0 +1,25 @@
+Račun br. 1027436
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Plafonjera SLAVO 260 13W 1000lm/830 ECG sa senzorom, bijela                         646.73    8   5173.84   1293.46
+Prisjedni vijak za EZII, 25A                                                          3.09   19     58.71     14.68
+Telekomunikacijski kabel F-YAY 2x2x0,8mm2                                            10000   23 230000.00  57500.00
+Owen-II-R/A2 50W PGJ5, 230V, IP20, sive boje                                         79.24   13   1030.12    257.53
+"Inverter Kaco Blueplanet 7.5; TL3, 3f, 2MPPT, IP65"                              17967.39   28 503086.94 125771.73
+Optički slijepi modul za LC DX otvore, 25 kom.                                       39.35    1     39.35      9.84
+Linijska svjetiljka SOLO 2 1x54W ECG T5 bijela                                      207.72    7   1454.04    363.51
+PTT brava sa mikroprekidačem, bez ključa                                            484.35    6   2906.10    726.53
+Hector-S/A1 150W Rx7s, 230V, IP20, brušeni krom                                      19.59   29    568.11    142.03
+Grebenasta sklopka (glavna, žuto/crvena), 0-1/3P/20A, na DIN                        125.61    8   1004.88    251.22
+Devin-Q 2x13W G24d-1, 230V, IP20, brušeni krom                                       19.59    9    176.31     44.08
+Dvostruka IT utičnica za kanale SIGNA, RAL9010                                        4866   18  87588.00  21897.00
+Bezhalogeni kabel s el. funkc. do90 Min.(N)HXH-JZ12x1,5reE90                         10000   23 230000.00  57500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1063086.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

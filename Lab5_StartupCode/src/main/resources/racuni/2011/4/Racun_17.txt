@@ -1,0 +1,14 @@
+Račun br. 777349
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Odstojnik faza                                                                       35.36   11    388.96     97.24
+Instal. umetak 5-39L komplet 13 IR prednja pl. plastika                            3204.12   24  76898.88  19224.72
+
+                                                                                                         ----------
+UKUPNO                                                                                                     77287.84
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

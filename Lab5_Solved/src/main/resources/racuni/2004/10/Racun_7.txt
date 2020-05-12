@@ -1,0 +1,28 @@
+Račun br. 1032901
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Bezhalogeni kabel s el. funkc. do90 Min. (N)HXH-J5x10reE90                         8446.15   19 160476.86  40119.21
+Zaštitni prekidač AMPARO 6kA, C 50A, 2-polni                                        125.46    2    250.92     62.73
+Maskirni razdj. 4M-39, 13-redni, 585ŠM,1855x980x200mm(VxŠxD)                       4022.11   17  68375.88  17093.97
+Paralelna spojnica (kratkospojnik) za 2 stezaljke IK200002-C                          2.19   22     48.18     12.05
+Owen-II-R/A2 50W PGJ5, 230V, IP20, crne boje                                         99.01    3    297.03     74.26
+LED svjetleća oznaka s 2 priključna vodiča, 12-24V, crvena                            2101   26  54626.00  13656.50
+SNR Print relej, 1N/O, 6A, 24VDC                                                     28.81   26    749.06    187.26
+Podnožje prema širini AS/KS ormara, 600x200mm, RAL 7022                             487.52    6   2925.12    731.28
+Industrijski utikač, 5 polni, 32A, 400V, IP44                                        32.18   26    836.68    209.17
+Poliester zidni ormar MINIPOL, prozirna vrata, 400x300x200mm                       1491.92   14  20886.88   5221.72
+Ovjes za 1-faznu 3-f šinu, bb, 3m                                                    87.01   17   1479.17    369.79
+Prizmatični pokrov za KC                                                            139.02   30   4170.60   1042.65
+Signalni fleksibilni kabel YSLCY-JZ 4x2,5 sivi                                     2055.37   24  49328.88  12332.22
+Univerzalna spojnica šina                                                            22.25   16    356.00     89.00
+SAT nosač Goliat,za grede 110cm,sa stupom 3m,vert. inst.,č.                        1602.04   19  30438.76   7609.69
+Zamjenjiva skala ampermetra za montažu na DIN nosač, 250A/5A                          4399   27 118773.00  29693.25
+
+                                                                                                         ----------
+UKUPNO                                                                                                     514019.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

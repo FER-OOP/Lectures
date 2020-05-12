@@ -1,0 +1,33 @@
+Račun br. 1047618
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Modul signalne svjetiljke,treptajuće zeleno svjetlo,24VAC/DC                         446.2   11   4908.20   1227.05
+RUSTY PATHLIGHT ras.stupić, 9W G53,hrđavi čelik                                    1433.11   13  18630.43   4657.61
+DOWNUNDER I zidna svjetiljka za žarulju 50W                                         293.82   10   2938.20    734.55
+Okvir za ugradnju RX u strop                                                        253.82   30   7614.60   1903.65
+Montažna ploča za MINIPOL ormare, poliester, 400x400mm                              122.68   23   2821.64    705.41
+P/Ž inst. razdj. 2U-45,15-redni,315ŠM,2160x590x250mm(VxŠxD)                        5857.99   11  64437.89  16109.47
+Poliester zidni ormar MINIPOL,proz. vrata,400x400x200(VxŠxD)                       1080.56    4   4322.24   1080.56
+Zakretna ručica s produžnom osovinom, zaključavanje, za MZ3                         260.95   20   5219.00   1304.75
+Kronos-II-Q/A2 4x70W G12, 230V, IP20, sive boje                                      96.98   27   2618.46    654.62
+GLOO PURE 27 podna svjetiljka, antracit, E27, max. 20W                              625.15   13   8126.95   2031.74
+Napojni kabel za DELF C PRO jednobojni                                               28.21    8    225.68     56.42
+MD-C360i/8 mini senzor pokreta IR, stropni, 360°, Ø8 m                              968.08   25  24202.00   6050.50
+Adapter za montažu MC2 na DIN nosač                                                  83.82   30   2514.60    628.65
+Dan-/Noć sklopnik, 3-polni, 25A                                                     657.28    9   5915.52   1478.88
+Zaštitni prekidač, B karakteristika, 6A, 2-polni, 10kA                               99.09   24   2378.16    594.54
+Spojnica za savitljivu cijev M32, svijetlo siva, pak.25 kom.                        271.99    9   2447.91    611.98
+Poliester podnožje za ukopavanje u zemlju, 1000x750x300(VŠD)                       3571.92   12  42863.04  10715.76
+UPS Power Dialog Plus 6500VA / 5200W                                              25899.95   24 621598.75 155399.69
+Nazidna utičnica sa zaštitom za djecu, siva, 16A, IP44                                2102   29  60958.00  15239.50
+Produženi priključak, 2 otvora, za 3P MC4, do 1400A                                 855.65    6   5133.90   1283.48
+Kompenzacija  LSFC 14% 500/50kvar 800x2110x600mm Samost.orm.                         10000    6  60000.00  15000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     949875.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

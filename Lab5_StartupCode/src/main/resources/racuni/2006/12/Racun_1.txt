@@ -1,0 +1,21 @@
+Račun br. 551482
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+SAT antena 100/95cm,alu,40,3dB,dvostr. pričv. monoblok,antr.                       1011.38   23  23261.74   5815.44
+Shelf Strip napajanje i konektor                                                     14.69   15    220.35     55.09
+Baterije 18 kom. longlife OGiV 12V/41Ah s kabelima za ožič.                        15480.6   13 201247.80  50311.95
+Pierce-I-R/A2 50W GU10 MR16, 100-240V, IP20, crne boje                              165.74   27   4474.98   1118.74
+Finožični PVC-om izol. vodič H07V-K (P/F) 50mm2, ž/z HPV                             10000   11 110000.00  27500.00
+BILAS SPOT LED, 15W, 2700K, 60°, okrugla, bijele boje                              1558.31   12  18699.72   4674.93
+Optički prespojni kabel duplex FC/FC, 62,5/125µm OM1, 2.0m                           64.44   19   1224.36    306.09
+Optički završetak FC, 50/125µm OM2, 2.0m (4 kom.)                                     78.1    2    156.20     39.05
+Maskirni razdj. 2M-24, 8-redni, 168 ŠM,1105x540x200mm(VxŠxD)                       2345.48    3   7036.44   1759.11
+
+                                                                                                         ----------
+UKUPNO                                                                                                     366321.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

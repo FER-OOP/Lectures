@@ -1,0 +1,18 @@
+Račun br. 626795
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Transformator, 1-fazni | 400/230V | 4000VA, IP00                                   5943.08    6  35658.48   8914.62
+Strujni trafo, 200/5A, za kabel promjera do 21mm                                     83.36    8    666.88    166.72
+Pinta-STR-Q 50W GU10 MR16, 100-240V, IP20, bijele boje                               59.64   30   1789.20    447.30
+"Samostojeći komunikacijski ormar DS 600x1970x900, 19"", 42U"                      4008.71    2   8017.42   2004.36
+RC član 127-240VAC / 150-250VDC, za sklopnike veličine 0                             39.55   18    711.90    177.97
+Kabelska obujmica za kabel promjera 12-16mm, za ASCAP/ASCAB                         266.49   11   2931.39    732.85
+
+                                                                                                         ----------
+UKUPNO                                                                                                    49775.266
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

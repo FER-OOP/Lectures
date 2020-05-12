@@ -1,0 +1,25 @@
+Račun br. 458412
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+7838E, Završni pokrov za 7838 (2kom)                                                 43.92   11    483.12    120.78
+Sklopka 0-1, 16A, 2 N/O, montaža na DIN                                              58.29   13    757.77    189.44
+LEVANTE L9 stupna spojnica za 48-60mm stup, crna                                    418.09   27  11288.43   2822.11
+Savitljiva cijev (srednje) plašt,750N,M32, 25m, EN3341, siva                       1140.65    2   2281.30    570.33
+Samostojeći ormar, 1-vrata, 1800x1000x400 (VxŠxD), RAL 7035                        4622.13   30 138663.89  34665.97
+NV osigurač vel. 3, 250A/400V AC                                                    126.67   19   2406.73    601.68
+AF 500/200i reflektor sa senzorom pokreta 500W IP44 crni                           1111.76    6   6670.56   1667.64
+Matica M25x1.5, metrička, poliamid                                                    1.06   10     10.60      2.65
+PIKA MR16 Downlight, bijele boje                                                     57.44    4    229.76     57.44
+LS-FI (KZS), C/25A/30mA, 1P+N, Tip AC, 10kA                                         309.93    4   1239.72    309.93
+EASY 721 DC TC, 24VDC, 12 dig. ulaza,8 tranzistorskih izlaza                       1587.98   26  41287.48  10321.87
+Bezhalogeni kabel s el. funkc. do90 Min. (N)HXH-J4x16rmE90                        10085.59   27 272310.94  68077.73
+Modul signalne svjetiljke,treptajuće plavo svjetlo,24V AC/DC                        769.07    7   5383.49   1345.87
+
+                                                                                                         ----------
+UKUPNO                                                                                                     483013.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

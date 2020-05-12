@@ -1,0 +1,26 @@
+Račun br. 283155
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Motorna zaštitna sklopka, 3-polna | 32 - 40A                                        770.95   28  21586.60   5396.65
+Nosač uređaja u media razdjelniku                                                    50.67   10    506.70    126.67
+Design LED Reflektor 100W 7750lm tople bb 3000K, bijele b.                          2573.7   10  25737.00   6434.25
+Bezhalogeni jednožilni vodič H05Z-K 0,5mm2, crni                                     10000   19 190000.00  47500.00
+Emelie-R 7W GX53, 100-240V, IP20, bijele boje                                       293.14    3    879.42    219.86
+Energetski kabel 0,6/1kV PP00 (EYY-O) 1x16re crni                                    10000   27 270000.00  67500.00
+Umetak 1-polne sklopke, sa indikacijom, na oprugu                                    16.72   23    384.56     96.14
+Ugradna svjetiljka SERH 310 T8 2/36W ECG sj. raster                                  696.4   24  16713.60   4178.40
+PIPOFLEX zidna svj., crna b., 4W, 3000K                                             437.43   25  10935.75   2733.94
+Plafonjera SLAVO 260 10W 800lm/840 ECG sa senzorom, bijela                          631.41   26  16416.66   4104.17
+Grebenasta sklopka (glavna, žuto/crvena), 0-1/3P/25A (7,5kW)                        238.87    8   1910.96    477.74
+AIXLIGHT PRO ring, mat- bb, aluminij                                                 93.26   24   2238.24    559.56
+Kompaktni prekidač snage tip AE, 4P, 50kA, 800A+izvl. modul                       17156.27   20 343125.38  85781.34
+"3-struki okvir ""Fashion"", termički postojan, biserno bijeli"                      50.99   11    560.89    140.22
+
+                                                                                                         ----------
+UKUPNO                                                                                                    900995.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

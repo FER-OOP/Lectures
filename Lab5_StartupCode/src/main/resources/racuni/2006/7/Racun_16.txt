@@ -1,0 +1,29 @@
+Račun br. 201956
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Završna pločica za rednu stezaljku IK100050-A, siva                                   3.61   25     90.25     22.56
+Montažna ploča, komplet za Zvijezda-Trokut komb. vel.2-2-2                           77.22   24   1853.28    463.32
+Glenos akrilni pokrov, obli pokrov za profile 2609, 2m                              249.72    9   2247.48    561.87
+Laki gumeni kabel H05RR-F 4x0,75, crni                                               10000   13 130000.00  32500.00
+Ampermetar, 72x72mm, 25A DC, direktno                                               219.36    4    877.44    219.36
+PEYOTE POLE 48cm 2x90° 8x1W LED, 40° 4000K antracit                                3537.56   28  99051.68  24762.92
+"Pozivno tipkalo + utičnica za ""Comfort"" tipkala, bijelo"                           2104    3   6312.00   1578.00
+"Opt. razdjelnik, 24 niti,SC,50/125µm OM4, izvlačivi,19"",1U"                      1107.76    6   6646.56   1661.64
+Ugradna svjetiljka SE-ID ECO PAR L2 TC-L 2x55W ECG M600                             640.71   27  17299.17   4324.79
+Plosnati kut  za kanal SIGNA 70/110 RAL9010                                         188.19   29   5457.51   1364.38
+Signalni fleksibilni kabel YSLY-JZ 7x10 sivi                                         10000   20 200000.00  50000.00
+Svjetleće tipkalo s plosnatom tipkom, prozirno, uskočno                              42.98   16    687.68    171.92
+Kuka za preklop lima                                                                 82.09   29   2380.61    595.15
+Zaštitna mrežica 165/70 za zidne i stropne senzore                                  223.69   15   3355.35    838.84
+Fluo cijev T5|T16 39W High Output, 3000K                                             80.76   20   1615.20    403.80
+Spojnica za 4 polne slopnike (vel.3-vel.S3)                                           7.43   23    170.89     42.72
+Gwen-R 150W RX7s, 230V, IP20, brušeni mesing                                         19.59    1     19.59      4.90
+
+                                                                                                         ----------
+UKUPNO                                                                                                    478064.66
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

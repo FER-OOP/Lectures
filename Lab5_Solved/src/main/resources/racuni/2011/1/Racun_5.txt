@@ -1,0 +1,14 @@
+Račun br. 524814
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Bezhal. kabel poboljšanih svoj.za sl. požara N2XH-J 1x95rm                           10000   12 120000.00  30000.00
+Miri-R 9W GX53, 100-240V, IP20, bijele boje                                          19.93    2     39.86      9.97
+
+                                                                                                         ----------
+UKUPNO                                                                                                    120039.86
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

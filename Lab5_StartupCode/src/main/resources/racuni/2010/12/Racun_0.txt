@@ -1,0 +1,25 @@
+Račun br. 439782
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Vijci + tuljci za stezaljku CBD50                                                      2.6   21     54.60     13.65
+Vezica crna 310*4,8                                                                  33.33   27    899.91    224.98
+Jednožični PVC-om izolirani vodič H07V-U (P) 10mm2, ž/z                             811.62   22  17855.64   4463.91
+Nadgradna svjetiljka MERA OPAL 1x28W ECG, bijela                                    165.06    2    330.12     82.53
+EURO SPOT INTEGRIRANI LED, 3000K, 36°,uklj.3F adapter,cr.b.                         875.55   26  22764.30   5691.07
+Ina-STR-R/A2 LED 18W 4000K 1300lm, dimabilna, IP20, sive b.                         364.61   10   3646.10    911.52
+ Nadgr. downl. SOLINA 242 LED 24W 2500lm/840 MAT IP20 70°,bb                        746.88   16  11950.08   2987.52
+3f reflektor VITO DC LED 38W 3400lm/840 40°,sive boje                              1470.55   13  19117.15   4779.29
+ASTO II GU10 Spot, brušeni aluminij                                                 335.72   17   5707.24   1426.81
+LS-FI (KZS), D/16A/30mA, 3P+N, Tip A, 6kA                                             4281    3  12843.00   3210.75
+MEDO 60 LED, stropna svjetiljka, crvene boje                                       3122.88   17  53088.96  13272.24
+Minijaturni relej, 4C/O, 6A, 24VDC, pozlaćeni kontakti                               57.22   14    801.08    200.27
+Ugradna downl. svj. ERM 202 2x13W CCG TC-D IP20/44, bijela                          280.02   22   6160.44   1540.11
+
+                                                                                                         ----------
+UKUPNO                                                                                                    155218.61
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

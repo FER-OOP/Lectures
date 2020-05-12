@@ -1,0 +1,22 @@
+Račun br. 276071
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Philips Master LED Spot GU10, 5.3W, 36°, 2700K, dim.                                220.66    8   1765.28    441.32
+Bezhalogeni jednožilni vodič H07Z-K 50mm2, žuto/zeleni                               10000   24 240000.00  60000.00
+Kabel za motorne pogone SLM-JZ 4x1,5 0,6/1kV sivi                                  1392.59    1   1392.59    348.15
+Univerzalni dimer sa tipkalom 20- 400W, umetak, R, L, C                             983.35    4   3933.40    983.35
+Ugradna svjetiljka SEP XTP T5 4x54W ECG IP54 M600, bijela                          1315.08    6   7890.48   1972.62
+Terra L LED 10W, 3000K, 525lm, 24°, IP67, inox                                     1392.23   27  37590.21   9397.55
+LED torba sa uzorcima TB & SP profila                                               261.27   24   6270.48   1567.62
+NV rastavna sklopka  ARROW BLUE vel.1/250A, 3P,M10                                  780.17    4   3120.68    780.17
+LED GU10 žarulja, 4W, SMD LED, 2700K, 40°                                            94.11   17   1599.87    399.97
+SAT utičnica prol. 2x,radio/CATV,5-1.006MHz,22dB,bez okvira                          42.34   13    550.42    137.60
+
+                                                                                                         ----------
+UKUPNO                                                                                                     304113.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

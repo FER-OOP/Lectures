@@ -1,0 +1,32 @@
+Račun br. 322581
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Prednja ploča, čelična, slijepa, 3B12                                                 4160    6  24960.00   6240.00
+Kratkospojnik za 2 stezaljke IK100070-A                                               7.31   26    190.06     47.51
+Vodotijesna svjetiljka PACNF 1x36W ECG IP65                                         276.45   25   6911.25   1727.81
+Kompaktni prekidač snage tip A, 3P, 150kA, 125A                                    2053.48   15  30802.20   7700.55
+Kliješta za krimpanje, hexagon, 10-120mm², DIN                                     1738.76   23  39991.48   9997.87
+Monoblock LED, zeleni, 24V AC/DC, kompletna svjetiljka                               30.42   13    395.46     98.86
+S-Fleece jacket  breathable, waterproof, windproof                                  654.13   26  17007.38   4251.85
+Nosač bimetalnog releja U12, za montažu na DIN nosač                                 75.53   14   1057.42    264.35
+Obostrano ljepljiva traka, temp. postojana, crvena, 50mx19mm                        256.66   27   6929.82   1732.46
+Konverter medija 1xRJ45 10/100 - 1xFO SC 100 SM 20km                                   497   20   9940.00   2485.00
+Odvodnik prenapona, Photec 550VDC/12,5kA kl. B/C                                   1105.52    6   6633.12   1658.28
+PVC kabel, samonosivi, YMT-O 3 x 2,5 re, crni                                        10000   12 120000.00  30000.00
+Univerzalni metalni kutnik duljine 130mm                                            722.97   17  12290.49   3072.62
+Mehanička blokada za motorni pogon, za MC2 i MC3                                    1465.6    6   8793.60   2198.40
+P/Ž inst. razdj. 3U-39,13-redni,429ŠM,1885x810x250mm(VxŠxD)                        5533.18    9  49798.62  12449.66
+7303/W/30, LED 3w 12v WW 30 °                                                        16.05    4     64.20     16.05
+NEW TRIA LED DL okrugli Set, 25W, 3000K, 30°, brušeni al.                           1370.6    7   9594.20   2398.55
+Nadgradna svjetiljka SARS 2 ECO T8 2x58W CCG, ind, bijela                           369.06   11   4059.66   1014.91
+Zamjenjiva skala, 72x72mm, 150/300/5A AC                                              4399   27 118773.00  29693.25
+Izolirani poklopac za V-stezaljke VK400                                               4821   16  77136.00  19284.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    545327.94
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

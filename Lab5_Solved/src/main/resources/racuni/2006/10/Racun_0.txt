@@ -1,0 +1,25 @@
+Račun br. 935050
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Okvir 1M line, zlatni                                                                24.38   14    341.32     85.33
+Reflektor SET 400W HIT E40 IP65 crni simetrični                                    1150.48    8   9203.84   2300.96
+Svijetleća tipka s ručicom,2 položaja,bijela,40°,sa povratom                         71.79   13    933.27    233.32
+Pomoćni sklopnik vel.00 | 4P | AC15 6A/230V | 230VAC | 4 N/O                        101.65    2    203.30     50.83
+LS-FI (KZS), B/25A/30mA, 1P+N, Tip A, 6kA                                           315.05   12   3780.60    945.15
+Okvir MO 2/3M line, bijeli                                                            9.37    7     65.59     16.40
+Sigma-S/A1 LED 30W 4000K 2100lm, IP65, sive boje                                    629.88   23  14487.24   3621.81
+Pokrov priključaka za MB2 3-polni                                                     4381    5  21905.00   5476.25
+Marra LED traka 4,8W/m 60LEDs/m plava 24VDC IP68                                    346.53    3   1039.59    259.90
+Zaštitni prekidač AMPARO 6kA, B 40A, 1-polni                                         23.66   27    638.82    159.71
+Luxa 102 FL, LED spot 32W, 6000K, zidna, IP44, crna                                1393.13    9  12538.17   3134.54
+Bimetalni ampermetar s pokazivačem maksimuma, za trafo …/5A                         333.59   30  10007.70   2501.93
+"Natpisna pločica, ""START"", 12.5 x 28mm, natična"                                   3.09   14     43.26     10.81
+
+                                                                                                         ----------
+UKUPNO                                                                                                      75187.7
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

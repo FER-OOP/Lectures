@@ -1,0 +1,21 @@
+Račun br. 1087253
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Fluokompaktna žarulja TC-D 13W/840 G24D-1                                            27.45    9    247.05     61.76
+Spoj za EASYTEC II, krom                                                            155.78   10   1557.80    389.45
+FID sklopka 63-4-01/A, S izvedba, za frekventne pretvarače                         1371.79    6   8230.74   2057.69
+Podžbukna kutija za Touch monitor KX5882AB13 i KX5882AB23                           396.84    6   2381.04    595.26
+Tarifni prekidač s podešavanjem na 16, 20 i 25A, 1-polni                             89.99   24   2159.76    539.94
+TRITON GIMBLE LED 6x1W, mat bb, LED tople bb                                        694.85   14   9727.90   2431.97
+ENOLA_B PD-1 ovjesna svjetiljka GU10, max. 50W, mesing                              813.03   11   8943.33   2235.83
+NEW TRIA LED DL četvrtasti Set, 25W, 3000K, 30°, crne boje                          1370.6    3   4111.80   1027.95
+Metalna vrata puna s bravicom, za DW ormare 12U, Š=600                               275.9    8   2207.20    551.80
+
+                                                                                                         ----------
+UKUPNO                                                                                                    39566.617
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

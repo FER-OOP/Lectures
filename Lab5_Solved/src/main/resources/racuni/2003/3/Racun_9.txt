@@ -1,0 +1,24 @@
+Račun br. 331644
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+FID sklopka 40-4-003/A (puls), 6kA                                                  401.08   27  10829.16   2707.29
+Ugradna downl. svj. ERM 253 1x35/70/150W CCG G12, bijela                             198.1    4    792.40    198.10
+ACRYLBOX 2kom QRB111, crne b./prozirno                                             1433.11   14  20063.54   5015.88
+Elektronski potenciometar sa on/off prekidačem, podžbukni                           426.57   26  11090.82   2772.71
+LS-FI (KZS), C/10A/100mA, 3P, Tip A, 10kA                                             4281    7  29967.00   7491.75
+Ben-I-R LED 2x1W 3000K 100lm, IP54, aluminij                                        527.66   14   7387.24   1846.81
+EUTRAC spojnica šina, prolazna, srebrne boje                                        123.34    4    493.36    123.34
+Valo X-Small LED, 15W, 4000K, 1100lm, IP20, bijele boje                             351.43    6   2108.58    527.15
+Pokrov kabelskog uvoda 00, 3-polni                                                    6.67    1      6.67      1.67
+Kabel EYY-J (PP00-Y) 4x240SM                                                         10000   20 200000.00  50000.00
+"Samostojeći kom. ormar DSZ, rastavljiv,800x2105x800,19"", 45U"                       4711   29 136619.00  34154.75
+Savitljiva cijev (lagano), M50, 320N,kolut 25m,svijetlo-siva                       1028.59   29  29829.11   7457.28
+
+                                                                                                         ----------
+UKUPNO                                                                                                    449186.88
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

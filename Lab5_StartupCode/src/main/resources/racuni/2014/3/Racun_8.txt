@@ -1,0 +1,22 @@
+Račun br. 572638
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Instalacijski umetak za Minipol ormar 800x600mm, 5x29 modula                       1147.56   30  34426.80   8606.70
+"Opt. razdjelnik,24 niti, ST,50/125µm OM2, izvlačivi,19"",1U"                      1449.28   19  27536.32   6884.08
+Zaštitni prekidač MB 18kA BT 63/3                                                   458.97   10   4589.70   1147.43
+Bezhalogeni kabel s el. funkc. do30 Min. (N)HXH-J5x2,5reE30                          10000   23 230000.00  57500.00
+Nadgradna svjetiljka SARH 2 ECO T5 2x49W ECG, bijela                                391.56   17   6656.52   1664.13
+Industrijska utičnica, kombinirana, IP44, predožičena, 32A                          313.62    1    313.62     78.40
+Tris-I-Q/A1 LED 3x1W 3000K 135lm,dim.,350mA,IP20,crne b.                             43.59    9    392.31     98.08
+Vijak sa upuštenom glavom, za drvo, 6x60 / 35mm                                      58.36   19   1108.84    277.21
+Kabel EYY-JZ (PP00-Y) 24x1,5 RE                                                    4568.16   16  73090.56  18272.64
+Kuka SL 8x35mm Mat. 1.4016, visine 45mm                                             103.38   10   1033.80    258.45
+
+                                                                                                         ----------
+UKUPNO                                                                                                     379148.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

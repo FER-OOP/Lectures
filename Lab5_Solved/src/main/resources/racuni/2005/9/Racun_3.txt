@@ -1,0 +1,30 @@
+Račun br. 994209
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ovjesna svjetiljka OFFICE ECO DIR/IND PAR 1x35W ECG, siva                           485.73   29  14086.17   3521.54
+TV priključnica MO 1M, prolazna, 10d,B 5-2400MHz, crna                               60.33    1     60.33     15.08
+Instal. umetak 3-21L komplet 7 IR prednja pl. plastika                             1558.21    8  12465.68   3116.42
+Sticker Totem Fox, crne boje                                                        155.78   16   2492.48    623.12
+EUTRAC Ovjes za 3-fazne šine, 120cm, bb                                             218.46   13   2839.98    709.99
+Kabel H03VV-F (PP/L) 3x0,5mm2, svijetlo-sivi                                         10000    9  90000.00  22500.00
+Jamba-II-25-R 15W E27, 100-240V, IP54, sive boje                                    190.58    9   1715.22    428.80
+Prespojni kabel RJ45 STP cat.6a/10GB, LS0H, sivi, 1.0m                               28.31   15    424.65    106.16
+Pinta-II-Q/A1 50W GU10 MR16, 100-240V, IP20, bijele boje                             59.64   25   1491.00    372.75
+Tunel stezaljke 4 x 50-240mm2, za 3-polne MC4                                       975.55   16  15608.80   3902.20
+Preklopnik 3P/32A, mogućnost zaključavanja                                          362.27   18   6520.86   1630.21
+Okvir za panel, crno staklo                                                         769.22   29  22307.38   5576.84
+LED cijev 24,5W 3500lm 4000K,120°, zakretna 90°                                     344.49   30  10334.70   2583.67
+N/Ž okvir + vrata 3A-42 D=300mm str.ploča+zakr. ručica, IP54                       3793.91   28 106229.48  26557.37
+Pločica + nosač 30x50mm, natpis: FAULT                                                8.93   28    250.04     62.51
+Zaštitni prekidač AMPARO 6kA, B 13A, 2-polni                                         55.67   13    723.71    180.93
+Elektronska prigušnica ECG QTi 2x36/220-240 dim 1-10V                               350.76   25   8769.00   2192.25
+Razdjelnik nazidni, IP40. 1-redni, 18 modula, prozirna vrata                         91.39   13   1188.07    297.02
+
+                                                                                                         ----------
+UKUPNO                                                                                                    297507.53
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

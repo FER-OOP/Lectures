@@ -1,0 +1,19 @@
+Račun br. 1067534
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+PERFECT DIMMING SYSTEM, LED-Driver, 20VA, 500mA                                     374.92   27  10122.84   2530.71
+Montažna ploča za kućište A - 148x148mm                                              24.22   29    702.38    175.60
+Zaštitni prekidač, C karakteristika, 40A, 3-polni+N, 6kA                            131.43   21   2760.03    690.01
+PRIMOLUX LED 35W 4050lm/840 opal ECG IP44, dužine 1235mm,bb                         854.62   20  17092.40   4273.10
+Teški gumeni kabel H07RN-F 1x4, crni                                                 10000   22 220000.00  55000.00
+INOX samostojeći ormar, 2000x1600x400mm (VxŠxD)                                   31925.55   22 702362.13 175590.53
+Ugradna downl. svj. ERM 202 2x13W CCG TC-D IP20/44, bijela                          280.02   16   4480.32   1120.08
+
+                                                                                                         ----------
+UKUPNO                                                                                                    957520.06
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

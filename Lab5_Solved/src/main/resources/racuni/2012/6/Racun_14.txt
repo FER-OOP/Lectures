@@ -1,0 +1,31 @@
+Račun br. 132701
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+NEW TRIA MINI DL SQUARE, 3W, 3000K, 30°, brušeni aluminij                           218.46    9   1966.14    491.54
+Okvir 1/3M line, plavi                                                               35.64   24    855.36    213.84
+Pokrov za ARROW BLUE VELIČINA 00                                                      4821   20  96420.00  24105.00
+Optički prespojni kabel duplex, SC/FC, 50/125µm OM2, 1.0m                            62.52    1     62.52     15.63
+SNR spojnik, crveni, 500mm                                                            3351   19  63669.00  15917.25
+Umetak telefonske utičnice TAE 3 x 10                                               211.72   16   3387.52    846.88
+Rita-R/A2 70W G12, 230V, IP20, sive boje                                             17.74    8    141.92     35.48
+WireXpert RJ45 set permanent adaptera - klase Ea / cat.6a                             5300    2  10600.00   2650.00
+LED napajanje 9W, 350mA, okrugli oblik                                              124.52   21   2614.92    653.73
+"19"" profil. nosači, visine 22U za DS-, DSZ-, DSI i DW-ormare"                      65.04   29   1886.16    471.54
+Svjetleće tipkalo bez povrata, plosnato, žuto                                        56.99   21   1196.79    299.20
+Mura-CL-II-S 3x9W GX53, 100-240V, IP20, aluminij                                    257.32   20   5146.40   1286.60
+TRUKKO, LED zidna svjetiljka, 90cm                                                  938.06    1    938.06    234.51
+Kabel za punjenje tip2 na tip 1, 32A 3F, 4m duljine                                   8130   28 227640.00  56910.00
+E27, 23W, štedna žarulja, spiralna, 2700K                                            58.79   11    646.69    161.67
+"Samostojeći kom. ormar DSZ, rastavljiv,800x1970x1200,19"",42U"                    5293.33    5  26466.65   6616.66
+Grebenasta sklopka (glavna, sivo/crna), 0-1/4P/80A, na DIN                          568.04   14   7952.56   1988.14
+LBF montažne kopče                                                                    8.37    4     33.48      8.37
+Finožični PVC-om izolirani vodič H05V-K (P/F) 0,5mm2, smeđi                           7022    2  14044.00   3511.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     465668.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

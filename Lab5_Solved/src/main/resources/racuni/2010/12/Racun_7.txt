@@ -1,0 +1,30 @@
+Račun br. 570191
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Univerzalni dimer , glavni modul, 20….500VA (R,L,C teret)                          1679.76   22  36954.72   9238.68
+SAT uzemljenje+prenap. zašt.,5x F-kon.,5x odv.,za HSATS5xxKA                        266.98    9   2402.82    600.71
+LED 12-30V AC/DC plavi za montažu na dno, utične stezaljke                           55.57    5    277.85     69.46
+Adapter 630A, za montažu Siemens 3NP4,3NP5,3KE4,3KA5 na 60mm                          4832   29 140128.00  35032.00
+Metalni stabilizator za kutnu spojnicu za 1f.strujnu šinu                             37.5   30   1125.00    281.25
+Kabel H05VV-F (PP/J) 4 x1,5mm2, svijetlo-sivi, 50m                                   10000   17 170000.00  42500.00
+Komplet za povezivanje baterija za LPS microcontrol 5,2Ah                             5150   17  87550.00  21887.50
+Blok za pisanje A4                                                                   13.89   22    305.58     76.40
+"19"" LED svjetiljka, montaža na vijak ili magnet"                                  698.38   26  18157.88   4539.47
+PROFUNO LED Spot, 3000K, 60°, uklj. 3F adapter, bijele boje                        1250.97    9  11258.73   2814.68
+Ina-R LED 7W 3000K 500lm, dimabilna, 700mA, IP65, bijele b.                         249.21   10   2492.10    623.03
+Prednja ploča za razdjelnike sa kabelskim kanalom, 4G4                                4160    2   8320.00   2080.00
+E30 ormar za panik centrale LPS MI w. fan V=918 Š=711 D=345                       15145.03   26 393770.78  98442.70
+F/UTP inst. kabel cat.5e,4x2xAWG24/1, PVC, plavi(500m/1000m)                        314.48    9   2830.32    707.58
+Nazubljena podložna pločica, M10 / d=20mm                                            77.26    1     77.26     19.32
+Optički prespojni kabel duplex ST/FC, 9/125µm OS2, 2.0m                             137.65    6    825.90    206.47
+LED RETROFIT RL-HRL80 36W 230V 4000lm E27 32000h                                    1060.3   26  27567.80   6891.95
+PE stezaljka sa 15 odvoda, izolirana                                                 34.63   27    935.01    233.75
+
+                                                                                                         ----------
+UKUPNO                                                                                                     904979.7
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

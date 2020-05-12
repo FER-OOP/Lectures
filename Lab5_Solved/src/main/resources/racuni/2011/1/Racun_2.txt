@@ -1,0 +1,31 @@
+Račun br. 461553
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Sutil Quadro LED 16W, 6000K, 1120lm, 120°, IP40, bijele boje                        205.45   27   5547.15   1386.79
+Kutnik za theLuxa P, crni                                                            44.02    7    308.14     77.04
+LIGHT EYE BALL GU10 ovjesna svjetiljka GU10 max. 50W, bakar                         406.17    4   1624.68    406.17
+Dihtung za IP65                                                                      90.57   13   1177.41    294.35
+Pokrovna ploča, za rastavne sklopke vel. 2                                          124.61   25   3115.25    778.81
+Kapica za svjetiljku, bez pokrova                                                    18.11   20    362.20     90.55
+LS-FI (KZS), B/16A/30mA, 2P, Tip A, 10kA                                              4281   21  89901.00  22475.25
+"19"" napojna letva,8xshuko,prekidač,1U,kabel 2m,crna,alu"                             177   12   2124.00    531.00
+Savitljiva cijev (lagano), M20, 320N,kolut 50m,svijetlo-siva                        172.47    7   1207.29    301.82
+TRAPECCO zidna svjetiljka, 10W, 3000K, indirekt, antracit b.                       1125.94    6   6755.64   1688.91
+Panik svjetiljka Linda Transparente 11W 230V EVG,MIX-mod,uni                        809.37   15  12140.55   3035.14
+Serijski ormar AS, 1-vrata, 1800x600x600 (VxŠxD), RAL 7035                         3894.37   21  81781.77  20445.44
+Montažna šina MR 1x35-80 5x2,5mm²                                                   127.83   21   2684.43    671.11
+Rozeta, 1 izlaz, okrugla, krom                                                      124.52   20   2490.40    622.60
+Fluo cijev T5|T16 39W/865 G5                                                         20.47    4     81.88     20.47
+Industrijska  svjetiljka CERES 1x140W,LED,17200lm/657                              3935.64   10  39356.40   9839.10
+Modul signalne svjetiljke,treptajuće crveno svjetlo, 230V AC                        606.25    3   1818.75    454.69
+Zaštitni prekidač MB 25kA CL 32/3                                                   476.17   28  13332.76   3333.19
+Valo-II-R/A2 LED 20W 4000K 1600lm, IP20, bijele boje                                503.83   29  14611.07   3652.77
+
+                                                                                                         ----------
+UKUPNO                                                                                                    280420.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

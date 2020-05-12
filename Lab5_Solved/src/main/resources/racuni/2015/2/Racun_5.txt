@@ -1,0 +1,30 @@
+Račun br. 747124
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Plafonjera RKL 2 1x60 E27 IP40 bijela                                               125.66   24   3015.84    753.96
+AOT-O LED, 25W, 4000K, IP50, akril, opal, bijele boje                               506.88   15   7603.20   1900.80
+Pokrov za 1xToolless, bijeli                                                           8.9    1      8.90      2.22
+Okvir 2x2M line, bež                                                                 11.88    7     83.16     20.79
+Ugradna svjetiljka SERH 2 A8 L2 T5 1x28W, ECG, bijela                               530.56   12   6366.72   1591.68
+Kabel LiYCY 14x0,25                                                                  10000   18 180000.00  45000.00
+Instalacijski sklopnik 63A | 4 N/C | 230V AC                                        494.01   28  13832.28   3458.07
+Plastična prirubnica za WSVBF, 35 otvora, bezhalogena, IP65                          54.38   13    706.94    176.74
+Finožični PVC-om izolirani vodič H07V-K (P/F) 6mm2, sivi                             455.4    1    455.40    113.85
+Zaštitni prekidač AMPARO 6kA, C 40A, 2-polni                                         68.64   18   1235.52    308.88
+A03VV-F 5x0,75mm2, crni, 50m kolut                                                   10000   28 280000.00  70000.00
+Inverter MultiPlus 24/3000/70-50 24Vdc/3000W                                      15361.87   23 353323.00  88330.75
+Relej snage, 1C/O, 16A, 24VAC serije RT, raster 5mm                                  23.09   29    669.61    167.40
+Kabel LiYCY 10x0,5                                                                 1595.92   23  36706.16   9176.54
+SATIN CONE SHADE, bb/krom                                                          1250.97   29  36278.13   9069.53
+Metalhalogena žarulja HIT-DE-CE 150W/830 RX7S                                       245.73   15   3685.95    921.49
+HQI-TS žarulja, 70W, NDL                                                            155.78   20   3115.60    778.90
+Prizma stezaljke za rastavnu sklopku, 16-70mm², Cu/Al                                21.22   24    509.28    127.32
+
+                                                                                                         ----------
+UKUPNO                                                                                                     927595.7
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

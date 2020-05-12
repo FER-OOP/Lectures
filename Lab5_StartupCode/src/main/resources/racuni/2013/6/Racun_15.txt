@@ -1,0 +1,16 @@
+Račun br. 481636
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kapica za svjetiljku, plosnata, žuta                                                  24.3    3     72.90     18.22
+KALU 2, mat bijele boje, 2x QRB111, max. 2x 50W                                     750.35   15  11255.25   2813.81
+Okvir 1M line, mat crni                                                              40.32    7    282.24     70.56
+Ugradna svjetiljka SELENA LED 39W M600 ED 3850lm/840 MAT,bb                         862.36   19  16384.84   4096.21
+
+                                                                                                         ----------
+UKUPNO                                                                                                     27995.23
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

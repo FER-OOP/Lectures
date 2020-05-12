@@ -1,0 +1,21 @@
+Račun br. 905792
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Fabio-Q 15W E27, 100-240V, IP20, brušeni krom                                         17.9   15    268.50     67.13
+Bočna stranica za trodijelni sistem, 39 modularnih visina                             4160    1   4160.00   1040.00
+"Mini 4,3"" COLOR-monitor, bijeli, za SBC sistem"                                  2008.81   21  42185.01  10546.25
+Standalone Set Micro 1 for 1 Module, Power 250Wx2,5h                               8181.47   20 163629.41  40907.35
+Montažna ploča za AS/KS ormare, 1800x600mm (VxŠ)                                    586.13    8   4689.04   1172.26
+Plastični poklopac za IG706112, sivi, 300x300x40,bezhalogeni                        227.08   24   5449.92   1362.48
+Signalni fleksibilni kabel YSLY-OZ 7x1,5 sivi                                        10000   14 140000.00  35000.00
+Vodič (N)YM-J (PGP) 5x6mm2, sa zašt. vodičem, svij.-sivi                             10000   16 160000.00  40000.00
+Kabelska spojnica, izolirana, žuta, 4-6mm²                                          158.05   16   2528.80    632.20
+
+                                                                                                         ----------
+UKUPNO                                                                                                     522910.7
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

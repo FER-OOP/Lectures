@@ -1,0 +1,28 @@
+Račun br. 863029
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Nadzemni kabel E-A2Y 4x50RM, 0,6/1KV                                                 10000   22 220000.00  55000.00
+Izmjenjivač 24V DC/ 230VAC 350W sa šuko utičnicom                                  1239.22   23  28502.06   7125.52
+Parcijalna montažna ploča za AS/KS ormare šir. 800mm, 6 red.                        114.27   29   3313.83    828.46
+Kućište n/ž Š204xV45xD80mm za HSEMDR6W0F, RAL9010                                    22.32   22    491.04    122.76
+Prisjedni vijak za EZIII, 35A                                                         6.26   13     81.38     20.35
+Centralni upravljački modul sa zaslonom, za sobu                                   3762.68   24  90304.32  22576.08
+Tris-I-R LED 3x1W 6000K 180lm,dimabilna,350mA,IP20,aluminij                          88.02   29   2552.58    638.14
+Kabel za punjenje tip2 na tip 2, 20A 3F, 4m duljine                                   8130   30 243900.00  60975.00
+PE stezaljka sa 15 odvoda                                                            34.63    2     69.26     17.32
+TESA dvostruko-ljepljiva traka 12mm širine                                          219.82   21   4616.22   1154.06
+Podnaponski isklopnik za MC1, 208-240VAC+2 ranija pom. kont.                        467.21   27  12614.67   3153.67
+Ring za SLEEK G12 Spot, srebrne boje                                                 50.01   14    700.14    175.03
+Finožični PVC-om izolirani vodič H07V-K (P/F) 6mm2, sivi                             455.4   17   7741.80   1935.45
+AFDD, series Lisa, B 16 A, 2-pole, 30 mA, type A, 10 kA                            1075.59   28  30116.52   7529.13
+Bezhal. kabel s konc.zaštitnim Cu vodičem N2XCH 2x1,5re/1,5                          10000    4  40000.00  10000.00
+Kompaktni prekidač snage tip AE, 3P, 50kA, 1600A                                  15806.11    4  63224.44  15806.11
+
+                                                                                                         ----------
+UKUPNO                                                                                                     748228.3
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

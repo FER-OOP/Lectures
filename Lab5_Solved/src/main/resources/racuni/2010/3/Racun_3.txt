@@ -1,0 +1,16 @@
+Račun br. 436287
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zaštitni prekidač MB 25kA BT 40/3                                                   476.17   29  13808.93   3452.23
+Fluo cijev T26 58W/830 G13                                                           26.83   21    563.43    140.86
+Levante-S 16 LED 38W 3540lm 4000K asim.,IP66,SKII,antracit                         2546.71    8  20373.68   5093.42
+Konverter medija 1xRJ45 10/100/1000T - 1xFO SC 1000 MM 550m                            985   21  20685.00   5171.25
+
+                                                                                                         ----------
+UKUPNO                                                                                                     55431.04
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

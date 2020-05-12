@@ -1,0 +1,16 @@
+Račun br. 1043734
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Industrijska svj. CERES 1x140W,LED DALI,13600lm/840, crna                          4953.49   25 123837.26  30959.31
+Bezhalogeni kabel s el. funkc. do90 Min. (N)HXH-J3x4reE90                          2549.22   26  66279.72  16569.93
+Jednožični PVC-om izolirani vodič H07V-U (P) 1,5mm2, naran.                         102.21   11   1124.31    281.08
+Vodič (N)YM-J (PGP) 3x2,5mm2, sa zašt. vodičem, svij.-sivi                          615.29   10   6152.90   1538.22
+
+                                                                                                         ----------
+UKUPNO                                                                                                    197394.19
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

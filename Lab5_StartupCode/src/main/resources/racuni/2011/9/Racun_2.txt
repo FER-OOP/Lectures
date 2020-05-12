@@ -1,0 +1,23 @@
+Račun br. 324894
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kabel H05VV-F (PP/J) 2x1mm2, svijetlo-sivi, 100m                                    230.73    8   1845.84    461.46
+SNR relej, komplet 1 C/O, 6A, 230VAC/DC, vijčane stezaljke                          126.99   24   3047.76    761.94
+Okvir 1M line, mat crni                                                              40.32   27   1088.64    272.16
+Kai-M 44 LED 104W 9725lm, 4000K ulič.opt. LT-L,IP66, RAL9006                       5495.53   10  54955.30  13738.82
+Križna sklopka, umetak, utične stezaljke                                             58.51   19   1111.69    277.92
+Adapter za montažu na DIN nosač (za trafo od 30-160VA)                                39.6   26   1029.60    257.40
+Kutna spojnica za Hang Up                                                           374.92   19   7123.48   1780.87
+Dvokrilna vrata puna, za kom. ormare, 42U, Š=600 mm                                1009.63   18  18173.34   4543.33
+FlexLED Roll ECO, tople bb, 1m, 60LED/m, DC 12V                                      86.41    4    345.64     86.41
+ACRYLBOX 2kom GU10, crne b./prozirno                                               1063.26    2   2126.52    531.63
+Elvis-WL-S LED 3W 3000K, IP54, sive boje                                            176.22    8   1409.76    352.44
+
+                                                                                                         ----------
+UKUPNO                                                                                                     92257.58
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,26 @@
+Račun br. 538912
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Montažni nosač DIN šine, ravni, visine 90mm                                           8.37    9     75.33     18.83
+Prednja ploča, plastična, slijepa, 3B3K                                               4063   16  65008.00  16252.00
+Poklopac za zašt. od prašine za tooll. module, zeleni, 25kom                          19.6   24    470.40    117.60
+Kanal s poklopcem LE, 60x110mm (VxŠ), duljina 2m, RAL 9010                           70.39   17   1196.63    299.16
+Izolir traka 19mm x 20m, crna, VDE, UV otporna                                        6.14    1      6.14      1.53
+Ormar plast.1000x750x420,krov protiv kiše,dno zat.,2 vrata,                           4142    3  12426.00   3106.50
+"19"" profil. nosači, visine 27U za DS-, DSZ-, DSI i DW-ormare"                      85.08   28   2382.24    595.56
+Kabel YSLYQY-JZ 12x 1,5 prozirni                                                     10000    8  80000.00  20000.00
+IP sučelje                                                                         1504.66   18  27083.88   6770.97
+SUPROS PD ovjesna svj. 3000lm, 3000K SLM LED,okrugla,crne b.                       1250.97   20  25019.40   6254.85
+Finožični PVC-om izolirani vodič H05V-K (P/F) 0,5mm2, zeleni                         55.66   30   1669.80    417.45
+Senzor prisut. stropni, thePiccola S360, 8m, bijeli                                 523.62    1    523.62    130.90
+Francis-S 2x18W T8, 230V, IP65, sive boje                                           159.16   26   4138.16   1034.54
+TERANG zidna i stropna svjetiljka, 8W LED, 3000K, oval,rusty                        343.66    1    343.66     85.92
+
+                                                                                                         ----------
+UKUPNO                                                                                                    220343.27
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

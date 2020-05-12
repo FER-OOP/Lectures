@@ -1,0 +1,22 @@
+Račun br. 254415
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Tuljak za 185mm2, pocinčani, DIN norma                                                 8.4   22    184.80     46.20
+Tipka sa simbolom ključa, bijela                                                     19.35   26    503.10    125.78
+Uzorci LED Profila TB serije                                                        251.32   25   6283.00   1570.75
+PlanoSpot 360, senzor prisutnosti, KNX, stropni, bijeli                            1832.78   10  18327.80   4581.95
+Nadgradna svjetiljka SARS 2 ECO T8 1x36W CCG, ind, bijela                           271.64   16   4346.24   1086.56
+Paralelna spojnica (kratkospojnik) za 2 stezaljke IK200004-C                           2.6    1      2.60      0.65
+Kabel LiYCY 18x0,34                                                                  10000   14 140000.00  35000.00
+Nazidni okvir                                                                         2104   23  48392.00  12098.00
+Kompaktni prekidač snage tip A, 3P/40A/100kA, MC1                                   971.28   19  18454.32   4613.58
+Kabel H05VV-F (PP/J) 7x1,5mm2, svijetlo-sivi, 500m                                   10000   19 190000.00  47500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    426493.88
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

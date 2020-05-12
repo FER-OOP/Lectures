@@ -1,0 +1,22 @@
+Račun br. 103165
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+SENSER LED PANEL nadgradni, 6W, 3000K, četvrtasti, bijele b.                        406.17   12   4874.04   1218.51
+Linda LED 1x24W EM 1h, 4000K, 3296lm                                               2065.99   24  49583.76  12395.94
+Savitljiva cijev (srednje), M20, 750N, predožičena sa 3x2.5                        1258.82   13  16364.66   4091.16
+Nadgradna svjetiljka SALENA LED 29W 3000lm/830 ECG,bb                               769.95   25  19248.75   4812.19
+Izolir traka, crvena, 15mm x 10m - COROPLAST                                          5.69    7     39.83      9.96
+Zaštitni prekidač, C karakteristika, 20A, 2-polni, 10kA                             101.46   18   1826.28    456.57
+BERRA 30 podna svjetiljka,antracit,48 LED,neutral bi.b,4000K                        562.63   14   7876.82   1969.21
+J-Bus/ModBUS sučelje via RS232/RS485 (odvojena ugradnja)                           3072.49   20  61449.80  15362.45
+NEW ANDREAS zidna svj., krom                                                        578.81   28  16206.68   4051.67
+Zaštitni prekidač MB GR.2 25kA CL 160/3                                            1061.56   23  24415.88   6103.97
+
+                                                                                                         ----------
+UKUPNO                                                                                                     201886.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

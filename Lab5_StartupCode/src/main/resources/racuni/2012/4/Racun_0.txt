@@ -1,0 +1,18 @@
+Račun br. 945719
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Finožični PVC-om izolirani vodič H07V-K (P/F) 2,5mm2, naran.                        195.31    2    390.62     97.65
+Nadgradna svjetiljka PRIMO M PRISMA 1x24W ECG, bijela                               234.87   18   4227.66   1056.92
+EURO CUBE Spot, 4000K, CRI90, 30°, uklj. 3F adapter, bb                            1433.11    4   5732.44   1433.11
+A03VV-F 2x1mm2, bijeli, 100m kolut                                                   10000   18 180000.00  45000.00
+Optički prespojni kabel duplex ST/ST, 50/125µm OM3, 2.0m                             74.25    3    222.75     55.69
+Energetski kabel 0,6/1kV PP00 (NYY-O)Z 7x1,5re crni                                  10000   10 100000.00  25000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    290573.47
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

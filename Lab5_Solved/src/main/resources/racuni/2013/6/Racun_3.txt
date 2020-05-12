@@ -1,0 +1,29 @@
+Račun br. 144563
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Panik svjet. KS LED  3h  230V AC ,8h, bežična,univerzalna m.                       1624.89   15  24373.35   6093.34
+Strujni trafo 200/5, 1.5VA, class 1, za SI337010...020...030                          4833   21 101493.00  25373.25
+"4-struki okvir ""Fashion"", termički postojan, bijeli"                               78.7    4    314.80     78.70
+Industrijska svj. CERES 1x99W,LED,8800lm/750, crna                                    8536   13 110968.00  27742.00
+Biber kuka 6/45/240                                                                  95.79   22   2107.38    526.85
+Signalni fleksibilni kabel YSLY-OZ 2x0,75                                            10000   28 280000.00  70000.00
+Industrijska svjetiljka SCUP AL 1x250W HS/HI IP23 E40                               647.23   18  11650.14   2912.53
+Teretna sklopka, 3P, 800A, opcija: daljinski isklop                                8885.86   12 106630.33  26657.58
+Instalacijski sklopnik 25A | 3 N/O + 1 N/C | 24V AC/DC, 2ŠM                         214.15    9   1927.35    481.84
+1-struki okvir 55x55mm, antracit                                                      2414   28  67592.00  16898.00
+Maskirni razdjelnik 5 širina brojila/ 21 MV                                           4180   25 104500.00  26125.00
+Završni poklopac TBF okrugli s rupom za prolaz kabela                                50.26   28   1407.28    351.82
+Perforirana bočna str. za DS/DSZ ormare, 45U, D=1000                                785.99   30  23579.70   5894.92
+Compact passage, senzor prisutnosti KNX, stropni, crni                             2471.61   18  44488.98  11122.25
+Motorna zaštitna sklopka, 3-polna | 1.0 - 1.6A                                      204.98   30   6149.40   1537.35
+Podnožje prema dubini ormara, 800mm, prolazno, RAL 7022                             245.29    1    245.29     61.32
+Odvodnik prenapona - D/2,5kA uzidni, prolazno ožičenje                              447.67   29  12982.43   3245.61
+
+                                                                                                         ----------
+UKUPNO                                                                                                    900409.44
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

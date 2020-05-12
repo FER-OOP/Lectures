@@ -1,0 +1,28 @@
+Račun br. 602951
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zaštitni prekidač MB 18kA CL 40/3                                                   458.97   21   9638.37   2409.59
+Finožični PVC-om izol. vodič H07V-K (P/F) 2,5mm2,t-plavi HPV                         10000   28 280000.00  70000.00
+Slijepi pokrov fi=22,3mm, plastični, crni                                            10.07    3     30.21      7.55
+Nathan-Q 13W G24q-1, 230V, IP20, brušeni krom                                        19.59   24    470.16    117.54
+LED napajanje 15W, 350mA, dim.                                                       187.2    5    936.00    234.00
+LED RF WiFi kontroler RGBW predajnik - 6 zona                                       836.68    8   6693.44   1673.36
+FlexLED Roll, RGB, 5m, 48LED/m, DC 24V                                              813.03    8   6504.24   1626.06
+Otvoreni prekidač, 4P, 80kA, 3200A, izvl., vod. str. priklj.                         10000   29 290000.00  72500.00
+Print relej, 1 C/O, 5A, 5V DC, serije PE, raster 2.5mm                               18.53   14    259.42     64.86
+Nazidni okvir bez vrata za Modul 2000 | 3A-24 | dubina 250mm                       1139.82   18  20516.76   5129.19
+Reflektor za BERET & DIVIS Downlight, G12, 70°                                       50.01    7    350.07     87.52
+Shunt 60mV, 20A                                                                       4398   30 131940.00  32985.00
+Svjetleće tipkalo s plosnatom tipkom, crveno, uskočno                                42.98    8    343.84     85.96
+Zaštitni prekidač, B karakteristika, 13A, 2-polni, 10kA                              80.41   25   2010.25    502.56
+Bruno-WL-I-S 20W E27, 100-240V, IP54, antracit                                      251.91    5   1259.55    314.89
+Izolirana okasta stopica, M8, plava, 1.5-2.5mm2 (100 kom.)                           97.22    7    680.54    170.14
+
+                                                                                                         ----------
+UKUPNO                                                                                                     751632.9
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

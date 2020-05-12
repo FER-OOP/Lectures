@@ -1,0 +1,26 @@
+Račun br. 1008000
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+NV rastavna sklopka vel.00|160A, 3P, kratak, sustav 60mm                            385.93    1    385.93     96.48
+Kabel H05VV-F (PP/J) 3x1,5mm2, smeđi, 100m                                           10000    1  10000.00   2500.00
+Adapter za montažu pruge vel.00 (SI332350,SI332860) na 185mm                        138.56    6    831.36    207.84
+LED okrugla ploča 17W/350mA - neutralna bijela | RA80+                              337.75   26   8781.50   2195.38
+Nazidna 2-polna sklopka, siva, 16A, IP44, utične stezaljke                           73.68    5    368.40     92.10
+Držač žaruljice sa ugrađenom LED, plavi, 230VAC, vijčane st.                         42.98   30   1289.40    322.35
+L-SE umetak DM 1.5 Deep 1x66W LED 6200lm/830                                        1736.9    1   1736.90    434.22
+Kabel H05VV-F (PP/J) 4x4mm2, svijetlo-sivi, 500m                                   1797.31   23  41338.13  10334.53
+Kompaktna sabirnica 4P, 1xFID 4P, 8xSI 1+N, 12 modula                                90.86   25   2271.50    567.88
+Berry LED 16W, 4000K, 960lm, 230V, IP65, plastika, bijele b.                        331.49   20   6629.80   1657.45
+LS-FI (KZS), C/32A/300mA, 1P+N, Tip AC, 6kA                                           4281   18  77058.00  19264.50
+Završni poklopac TBU ravni zatvoreni                                                 83.77   11    921.47    230.37
+Kabel LiYCY 25x0,14                                                                  10000   20 200000.00  50000.00
+Montažna šina MR 1x58 5x2,5mm²                                                      131.08    7    917.56    229.39
+
+                                                                                                         ----------
+UKUPNO                                                                                                    352529.94
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

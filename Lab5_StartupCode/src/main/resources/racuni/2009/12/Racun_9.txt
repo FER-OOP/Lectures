@@ -1,0 +1,15 @@
+Račun br. 880082
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LIPSY 50 LED stropna svj., okrugla, 30W, 3000K, 2500lm, bb                         1063.26   27  28708.02   7177.00
+Pako-Q/A2 LED 1W, dimabilna, 350mA, IP20, aluminij                                   37.67   20    753.40    188.35
+Hvataljka Ø16, vrh hvataljke Ø10mm, duljina: 1.5m, Alu                               60.34   25   1508.50    377.13
+
+                                                                                                         ----------
+UKUPNO                                                                                                     30969.92
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

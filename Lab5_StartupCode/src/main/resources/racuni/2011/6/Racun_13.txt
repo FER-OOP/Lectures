@@ -1,0 +1,33 @@
+Račun br. 456944
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"1-struki okvir ""Fashion"", termički postojan, biserno bijeli"                       9.77   11    107.47     26.87
+Baterije 18 kom. longlife OGiV 12V/204Ah s kabelima za ožič.                      63437.45    7 444062.16 111015.54
+Ugradni downl. SEGON W 170 ECO 21W 1900lm 840 EVG IP44 ,bb                          292.56    8   2340.48    585.12
+Okvir za IKALL, 2-struki, srebrni                                                   347.63   18   6257.34   1564.33
+Strujni trafo, 600/5A, 40x10mm Tip TAI 400                                          298.32    1    298.32     74.58
+AIXLIGHT MOD 4 GU10, srebrne boje                                                   635.43   18  11437.74   2859.44
+Maskirni razdjelnik 4 širine brojila/ 21 MV                                           4180   15  62700.00  15675.00
+Dvostruka NV pruga vel.3 (630A), 3P isklop, M12, 185mm                             5319.04   21 111699.84  27924.96
+Prespojni kabel RJ45 cat.5e oklopljen, PVC, sivi, 10.0m                              42.63   17    724.71    181.18
+Ugradni okvir za MO1, 3P, -1600A, vodoravne str. priklj.                           7160.55   24 171853.19  42963.30
+Sticker Fairytale, crne boje                                                         80.76   23   1857.48    464.37
+FID sklopka AMPARO, 63-4-01/AC, 10kA                                                  4210    2   8420.00   2105.00
+L-SE LSK 1.5 1x44WDEEP 6450lm 840 ECG, bijele boje                                 1289.56   11  14185.16   3546.29
+KARDAMOD SURFACE ROUND ES111 DOUBLE, bijela GU10, max.2x75W                        1307.91    1   1307.91    326.98
+Kabelska stopica 185mm2, M10                                                         62.01   10    620.10    155.02
+Metalhalogena žarulja, 35W G12 COOL WHITE CERAMIC                                    16.05   12    192.60     48.15
+Prirubnica za povezivanje WSM ormara, Tip A, 210x96 (ŠxV)                            39.02   27   1053.54    263.39
+LED Driver 350mA, 1-6W, ne dimabilno                                                 77.89   30   2336.70    584.17
+Blok pomoćnih kontakata za LA1 (4+0)                                                 79.75   19   1515.25    378.81
+IP2x zaštita od dodira, za 4-polne MC3                                               143.6   27   3877.20    969.30
+DASAR SQUARE, GU10, podna ugradna svjetiljka                                        506.37   14   7089.18   1772.30
+
+                                                                                                         ----------
+UKUPNO                                                                                                     853936.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

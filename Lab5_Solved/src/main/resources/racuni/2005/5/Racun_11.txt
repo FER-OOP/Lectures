@@ -1,0 +1,27 @@
+Račun br. 373490
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+9S15/W/SE, 15W E14 WW                                                                 5.23    6     31.38      7.85
+EURO SPOT ECG 50, 60°srebrnosiva G12,50W,uklj. 3f.adapter                           938.06   17  15947.02   3986.75
+LED RF WiFi kontroler Touch RGBW - 4 zone - crne boje                               836.68    6   5020.08   1255.02
+Telekomunikacijski kabel YYSCH 26x0,6mm2, boja slonovače                             10000   21 210000.00  52500.00
+Tipkalo sa indikacijom L-N, normalno otvoreno                                        20.52    1     20.52      5.13
+Okvir za ugradnju KX panik svj.u strop sa test tasterom                             154.88   23   3562.24    890.56
+Audio /video jedinica, color kamera, SBC za POWERCOM                               4248.69   16  67979.04  16994.76
+LED traka Flex 60 UWW IP43 RA90+ 1000lm/m 13,5W/m L=5m 24VDC                       1089.05   20  21781.00   5445.25
+Odvodnik prenapona PHOTEC. KLASA II (C) 550VDC, In 20kA                             582.64   16   9322.24   2330.56
+SCUP 3 PC 1x250W,E40, HI/ST, MB, IP20                                               1105.8   24  26539.20   6634.80
+PT LED utični modul, zeleni, 6-24V AC/DC , EM11                                      11.05   26    287.30     71.83
+Al-Cu stezaljka 240mm2, siva                                                        209.56    3    628.68    157.17
+Prednja ploča, čelična, slijepa, 3B10                                                 4160   15  62400.00  15600.00
+Završni poklopac LBR ravni sa otvorom                                                51.19    5    255.95     63.99
+Redna stezaljka za razdvajanje N vodiča, 6mm², tip CNT,plava                         13.74    9    123.66     30.91
+
+                                                                                                         ----------
+UKUPNO                                                                                                     423898.3
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,22 @@
+Račun br. 962573
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Bezhalogeni kabel s el. funkc. do30 Min. (N)HXH-J5x1,5reE30                          10000   14 140000.00  35000.00
+Ugradna svjetiljka SERH ECO T8 4x18W ECG M600, bijela                               316.32   14   4428.48   1107.12
+Tipka sa simbolom ključa, termički postojana, bijela                                 29.18   29    846.22    211.56
+Nazidni okvir s vratima za Modul 2000 | 5A-42 | dubina 250mm                       3859.99   14  54039.86  13509.97
+Mikroprekidač za vrata                                                              142.08    1    142.08     35.52
+Odjelna stranica za AS ormare, 2000x600mm (VxŠ)                                     544.05    9   4896.45   1224.11
+Audio vanjski panel, 2 tipke, bez PTT otvora                                       1122.07   29  32540.03   8135.01
+Paralelna spojnica (kratkospojnik) za 4 stezaljke SCB6                                 6.1   30    183.00     45.75
+"3-struki stakleni okvir ""Riva"", inox efekt"                                      738.58    6   4431.48   1107.87
+Okvir za ugradnju KX u strop, široki izrez                                          249.62   28   6989.36   1747.34
+
+                                                                                                         ----------
+UKUPNO                                                                                                    248496.97
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

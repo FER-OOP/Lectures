@@ -1,0 +1,17 @@
+Račun br. 104067
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Konektiranje 2x4 LC SM utikača + zašt. za povlačenje                               1876.41    2   3752.82    938.21
+Nadgradna svjetiljka SALENA LED 39W 4100lm/840 ECG,bb                               831.55   30  24946.50   6236.63
+Tuljci,izolirani, dvostruki, 2x16mm2, L2=14mm (pak.50 kom)                           132.4   21   2780.40    695.10
+FID sklopka 40-2-03/AC, 6kA                                                         191.37    2    382.74     95.68
+Odvodnik prenapona klase C (patrona) GG, N/PE, 40kA/260V,UAS                        217.37   25   5434.25   1358.56
+
+                                                                                                         ----------
+UKUPNO                                                                                                     37296.71
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

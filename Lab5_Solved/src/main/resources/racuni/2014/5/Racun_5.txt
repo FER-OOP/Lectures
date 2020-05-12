@@ -1,0 +1,22 @@
+Račun br. 181128
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Telekomunikacijski kabel vodonepropusan F-2YA2Y 30x2x0,8                             10000   20 200000.00  50000.00
+NEW TRIA 2 DL četvrtasti Set, 2x6W, 2700K, 38°,crne boje                            625.15    3   1875.45    468.86
+Teretna sklopka, modul proširenja,  3 x AC 230/400 V‚ 20 AX                         914.99   24  21959.76   5489.94
+7305G/R/30, LED 3x1w GU10 , 30 ° , crvene boje                                       66.23   10    662.30    165.58
+Mini-Lynx, 23W, 4000K, E27                                                           80.76   28   2261.28    565.32
+Perforirana vrata s bravicom, za DW ormare 15U, Š=600                               303.96   16   4863.36   1215.84
+FID sklopka 40-4-003/AC, 6kA                                                         245.1   19   4656.90   1164.22
+SOPRANA zidna svj., WL-1, okrugla, crne b., E27, max. 40W                           750.35    3   2251.05    562.76
+Gisele-R 2x35W GU10 MR16, 100-240V, IP20, bijele boje                               263.91    9   2375.19    593.80
+Ugradna downl. svj. ERM 201 1x13W CCG TC-D IP20, bijela                             177.32   19   3369.08    842.27
+
+                                                                                                         ----------
+UKUPNO                                                                                                    244274.38
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

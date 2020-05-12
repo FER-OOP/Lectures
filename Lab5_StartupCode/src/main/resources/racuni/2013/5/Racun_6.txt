@@ -1,0 +1,14 @@
+Račun br. 335657
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Bimetalni relej za sklopnike vel. 00 | 2,80 - 4,00A                                 161.33   10   1613.30    403.33
+Ugradna svjetiljka SERH XTP T8 4x36W ECG M600, bijela                              2413.76   19  45861.44  11465.36
+
+                                                                                                         ----------
+UKUPNO                                                                                                    47474.742
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

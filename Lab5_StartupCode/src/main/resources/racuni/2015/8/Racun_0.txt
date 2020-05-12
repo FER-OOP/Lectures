@@ -1,0 +1,29 @@
+Račun br. 480902
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"Zidni komunikacijski ormar DW Dualbloc, 600x500x515, 19"", 9U"                    1137.04   12  13644.48   3411.12
+P/Ž inst. razdj. 1U-21,7-redni,91ŠM,1055x380x250mm(VxŠxD)                          2696.26   19  51228.94  12807.24
+Sklopnik 3P |15kW (32A) [AC3] / 65A [AC1] | 48V DC                                   864.6   20  17292.00   4323.00
+"Opt. razdjelnik, 24 niti,SC,50/125µm OM2, izvlačivi,19"",1U"                       922.28   19  17523.32   4380.83
+Pokrov priključaka za MB1 3-polni                                                    14.26   12    171.12     42.78
+SAT ut. prolaz 3-struka, radio/CATV/SAT,kl.A,18dB,bez okvira                         62.37    5    311.85     77.96
+DASAR LED LV ugradna svj., okrugla, SST, 6W , 3000K, IP67                           687.83   20  13756.60   3439.15
+Krovna kuka FP 8/45/110, nehrđajući čelik, TÜV                                      102.12    5    510.60    127.65
+Tarifni prekidač (limitator) 40A, 1-polni                                           168.48   22   3706.56    926.64
+Nadgradna svjetiljka SARS 2 ECO T8 2x36W ECG, bijela                                   278   17   4726.00   1181.50
+PARA DOME II 480, HQI 250W                                                         1746.03   17  29682.51   7420.63
+Držač za cilindrične osigurače 22 x 58 | 1P | 100A/690V                             157.82   17   2682.94    670.74
+SOPRANA,ovjesna svjetiljka,PD-1,četvrtasta,bb tekstil,4xE27                        1433.11   15  21496.65   5374.16
+Cilindrični osigurač za fotonapon, 10x38, 8A, gPV, 1000V DC                          60.24    4    240.96     60.24
+BRICK LED Downunder zidna svj., srebrne boje, topla b. LED                          267.29   12   3207.48    801.87
+Zaštitni prekidač, C karakteristika, 6A, 4-polni, 6KA                               123.03   17   2091.51    522.88
+Spojnica za cijev KSX65/65                                                            23.2   23    533.60    133.40
+
+                                                                                                         ----------
+UKUPNO                                                                                                    182807.12
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

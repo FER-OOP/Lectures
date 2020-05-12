@@ -1,0 +1,26 @@
+Račun br. 172733
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Bezhalogeni jednožilni vodič H07Z-U 1,5mm2, smeđi                                    10000    8  80000.00  20000.00
+NV rastavna pruga vel.1|250A, 3P, V-stezaljka, sustav 185mm                        1090.99   24  26183.76   6545.94
+HORN MINI LED Downlight,okrugla bijela,LED toplo bijela 350m                         187.2   25   4680.00   1170.00
+LED HORN 9W, srebrna, LED topla b.                                                  453.92   10   4539.20   1134.80
+Motorna zaštitna sklopka, 3-polna | 6.30 - 10.00A                                   257.75    5   1288.75    322.19
+LED DMX kontroler Touch DW crne boje                                                836.68    8   6693.44   1673.36
+Shunt 60mV, 150A                                                                      4398    4  17592.00   4398.00
+CONE GU10 zidna svjetiljka, bijele b., max. 50W, IP44                               437.43    3   1312.29    328.07
+SOPRANA, PD-5, okrugla, bijela b., 3x E27, max. 3x 60W                             1125.94    5   5629.70   1407.42
+Video vanjski panel, 10 tipki, sa PTT otvorom                                         4690   23 107870.00  26967.50
+Završni poklopac CLW ravni zatvoreni sa vijcima                                       51.6   12    619.20    154.80
+Serijski ormar AS, 2-vrata, 2000x1200x400 (VxŠxD), RAL 7035                        5099.82   13  66297.66  16574.41
+Strujni mjerni trafo 400A za ARROW LINE                                               4823   11  53053.00  13263.25
+D02 rastavna sklopka, 1P+N, montaža na DIN nosač                                    313.87   30   9416.10   2354.02
+
+                                                                                                         ----------
+UKUPNO                                                                                                     385175.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

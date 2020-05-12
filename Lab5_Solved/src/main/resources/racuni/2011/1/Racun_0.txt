@@ -1,0 +1,31 @@
+Račun br. 844642
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Box stezaljka ARROW BLUE veličina 2 i 3                                               4821   10  48210.00  12052.50
+Ručka za montažu na vrata, za 3P MC4, crno/siva, komplet                           1320.53    7   9243.71   2310.93
+Luigi-30-R 15W E27, 100-240V, IP44, antracit                                        183.15   27   4945.05   1236.26
+LS-FI (KZS), B/16A/30mA, 1P+N, Tip A, G izvedba, 10kA                               652.92   20  13058.40   3264.60
+Sklopka, 3-struka, IP20, bijela, nadžbukna                                            31.1   14    435.40    108.85
+LINEA 80M polikarbonatni opalni pokrov L-2969mm                                     384.73   20   7694.60   1923.65
+Paralelna spojnica (kratkospojnik) za 10 stezaljki IK610002-                         22.52   21    472.92    118.23
+Gumom iz. i oplašten 1-žilni kabel 1,8/3 kV NSGAFöu 240 crni                         10000   23 230000.00  57500.00
+BIMA pano svj., krom                                                                500.12   16   8001.92   2000.48
+"Zidni kom. ormar DW, bočne stranice, 600x635x595, 19"", 12U"                       1240.1   26  32242.60   8060.65
+Murona-R 20W G4, 12V, IP20, plave boje                                                3.71    3     11.13      2.78
+Khali-I-R/A2 35W G8,5, 230V, IP20, sive boje                                        161.18   25   4029.50   1007.37
+Nazidna kutija s okvirom, 2-struka, bijela                                           75.87    9    682.83    170.71
+Kabel H05VV-F (PP/J) 3x0,75mm2, bijeli, 500m                                         10000    7  70000.00  17500.00
+Umetak serijske sklopke, na oprugu                                                   12.65    5     63.25     15.81
+LED žarulja obl.svijeće 3,5W E14 250lm 2800K                                         76.01    2    152.02     38.01
+Savitljiva cijev (lagana) M25, 320N, 50m, HF, svijelto-siva                         856.97    5   4284.85   1071.21
+Svjetiljka Solo Line T5 1x49W,ECG, bijele boje                                      306.85   25   7671.25   1917.81
+Spojnica motorke BES0 i i sklopnika vel.0 / za AC                                    19.26   17    327.42     81.86
+
+                                                                                                         ----------
+UKUPNO                                                                                                    441526.84
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

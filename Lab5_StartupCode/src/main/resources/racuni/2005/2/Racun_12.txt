@@ -1,0 +1,28 @@
+Račun br. 114309
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"Grebenasta sklopka, ""HAND-0-AUTO""/3P/20A, na vrata"                                4360   30 130800.00  32700.00
+Odjavno tipkalo za medicinsku sestru                                                  2104   16  33664.00   8416.00
+Odvodnik prenapona COMBTEC kl.B/C TT 275/12,5+H                                    2162.18    1   2162.18    540.54
+FID sklopka 80-4-01/B, za sve oblike diferencijalne struje                         9927.99   24 238271.77  59567.95
+EURO SPOT MR16, sa 3-faznim adapterom, bb                                           562.36   26  14621.36   3655.34
+P/Ž inst. razdj. 3U-45,15-redni,495ŠM,2160x810x250mm(VxŠxD)                        6590.57   23 151583.11  37895.78
+Lano četvrtasti LED, 60W, 6000K, 4700lm, 1300mA, IP20, bb                          1502.39   16  24038.24   6009.56
+Ventilator s filterom 320x320x150mm IP54, 115W, 445m3/h                             1131.3   19  21494.70   5373.68
+Finožični PVC-om izolirani vodič H07V-K (P/F) 25mm2, plavi                         2040.19   29  59165.51  14791.38
+Zero LED 1x9W, 4000K, 1223lm, Ra>80, IP40, prizma, bijela                          1273.28   17  21645.76   5411.44
+Kabel H03VV-F (PP/L) 2x0,75mm2, svijetlo-sivi, 500m kolut                            10000    8  80000.00  20000.00
+Kompenzacija  LSK 7% 75/12,5kvar 600x1250x300mm zidni ormar                       25989.26   10 259892.59  64973.15
+Ina-A Spot, MR16 GU5,3, 50W, aluminij                                                47.64   23   1095.72    273.93
+Ugradna downl. svj. za dod. ERK-Z 207  1-26W TC-DEL ECG                             275.05   26   7151.30   1787.82
+Majca kratki rukav vel.XXL                                                            9841    1   9841.00   2460.25
+Uzdužna stranica, 24 visinske jedinice (200mm)                                        4180   28 117040.00  29260.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1172467.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

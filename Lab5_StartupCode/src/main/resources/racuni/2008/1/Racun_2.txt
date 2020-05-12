@@ -1,0 +1,20 @@
+Račun br. 983377
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+GLENOS PROFILE 2609, 1m, crne boje                                                  156.11    4    624.44    156.11
+Otvoreni prekidač, 4P, 66kA, 1250A, fiksni, prednje priklj.                       27443.51   30 823305.31 205826.31
+Print relej SR2, 2 C/O, 24VDC, 6A, 5mm                                              112.78   10   1127.80    281.95
+Kabel LiYY 10x0,14                                                                   10000   13 130000.00  32500.00
+7306F/D, LED 5w PAR30 DL E27                                                         57.44   25   1436.00    359.00
+Rico-Q LED 6W 3000K 475lm, IP20, aluminij                                            439.8    6   2638.80    659.70
+Nazidna kutija s okvirom, 1-struka, bijela                                           45.08   15    676.20    169.05
+Mia-R 70W G8,5, 230V, IP20, bijele boje                                               5.74   18    103.32     25.83
+
+                                                                                                         ----------
+UKUPNO                                                                                                     959911.9
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

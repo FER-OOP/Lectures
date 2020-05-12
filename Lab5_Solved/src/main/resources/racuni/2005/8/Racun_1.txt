@@ -1,0 +1,28 @@
+Račun br. 833315
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Redna stezaljka (utični priključak) 4mm², tip HMM.4, plava                            4.07   23     93.61     23.40
+Optički prespojni kabel duplex, SC/SC, 62,5/125µm OM1, 1m                            54.19    3    162.57     40.64
+Izolirana utična stopica, 6.3, crvena, 0.25-1mm² (100 kom.)                          77.26   16   1236.16    309.04
+Reflektor SET 1000W HIT E40 IP65 crni simetrični                                   5245.14   25 131128.50  32782.13
+Ulična svjetiljka GENESIS VP HSE/I 70W IP65 RAL7030                                1195.47   17  20322.99   5080.75
+Zaštitni prekidač sa svojstvima rastavljača, C 25A, 3-polni                         597.76    1    597.76    149.44
+Teški gumeni kabel H07RN-F 4x4, crni                                               2070.55    6  12423.30   3105.83
+LOGICOM N/Ž kućište s krovićem, 4 modula                                           1327.85   23  30540.55   7635.14
+Bimetalni relej, područje podešenja 1.8-2.7A                                        214.32    6   1285.92    321.48
+LED DMX kontroler DE3, bijele boje                                                 10886.4   14 152409.61  38102.40
+Audio modul, mogućnost spajanja odvojene color kamere, IKALL                       4452.94   12  53435.28  13358.82
+P/Ž RAZDJELNIK , 24+4 MODULA, 2-REDNI                                               233.62   29   6774.98   1693.74
+KNX napajanje 320mA                                                                1404.75   16  22476.00   5619.00
+NV osigurač vel. 00, 16A/400V AC                                                     27.97   29    811.13    202.78
+LED GU10, 5W, 3000K, 360lm, 120°, 230V                                               53.05   30   1591.50    397.88
+FID sklopka 63-4-003/AC, 6kA                                                        517.19   24  12412.56   3103.14
+
+                                                                                                         ----------
+UKUPNO                                                                                                     447702.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

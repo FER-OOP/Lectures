@@ -1,0 +1,14 @@
+Račun br. 793938
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Nazidni okvir bez vrata za Modul 2000 | 2A-7 | dubina 180mm                         863.06   29  25028.74   6257.19
+Optički prespojni kabel duplex, LC/LC, 50/125µm OM2, 3.0m                            85.08   12   1020.96    255.24
+
+                                                                                                         ----------
+UKUPNO                                                                                                    26049.701
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

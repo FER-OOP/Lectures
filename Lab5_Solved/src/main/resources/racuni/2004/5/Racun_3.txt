@@ -1,0 +1,27 @@
+Račun br. 387710
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+PEYOTE 17cm 2x90° 8x1W LED, 40° 3000K RAL9006                                      2580.53   14  36127.42   9031.86
+Pokrov priključnih stezaljki za rastavne sklopke vel.00                              19.82   18    356.76     89.19
+Francis-S 2x58W T8, 230V, IP65, sive boje                                           298.38    3    895.14    223.78
+TENORA CL-2 stropna svjetiljka sa 2 zgloba, crne boje                              1558.31   25  38957.75   9739.44
+Tel. okrugla šipka za do 300 parica, puna šipka                                     148.64    6    891.84    222.96
+Sabirnica, 4-struka za B/C odvodnike (za TN-S, TT sustave)                           23.56   22    518.32    129.58
+Zaštitni prekidač MB 25kA BT 40/3                                                   476.17   11   5237.87   1309.47
+Punto-A MR16 Spot, GU5,3, 50W, IP20, 12V, bijela                                     28.55   19    542.45    135.61
+Prespojni kabel RJ45 cat.5e oklopljen, PVC, plavi, 7.0m                              30.94   14    433.16    108.29
+VANDALCOM PTT modul                                                                 463.75   15   6956.25   1739.06
+Kabel LiYCY 5x0,5                                                                   892.58   21  18744.18   4686.04
+Reflektor CAPRI asimetrični 1x250W E40 HIT/HST, crna                                677.47   13   8807.11   2201.78
+Priključna stezaljka, 6-25mm², ravna, jezičasta                                      20.39   19    387.41     96.85
+"3-struki okvir ""Fashion"", termički postojan, biserno bijeli"                      50.99   13    662.87    165.72
+Bezhal. kabel HSLH-JZ12x1FRNC H-F 1žila ž/z ostale crn/siv                           10000    1  10000.00   2500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    129518.53
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

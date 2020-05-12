@@ -1,0 +1,20 @@
+Račun br. 490684
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kabel LiYY 3x0,75                                                                    10000   30 300000.00  75000.00
+T5 fluo cijev 24W High Output, 4000K                                                 62.51   22   1375.22    343.80
+ARKTUR SQUARE PLUS LED 220W 26600lm/765 ECG IP66 55°                               5920.91    9  53288.19  13322.05
+Atia 13W T5, 230V, IP20, bijele boje                                                 66.23   18   1192.14    298.04
+Tipkalo s plosnatom tipkom, komplet, crveno, 1 N/C                                   42.76   30   1282.80    320.70
+Nazidna kutija za MAXI monitor, 216x117x16mm                                        148.83    9   1339.47    334.87
+Kliješta za rezanje Cu/Al kabela, s oprugom, TL230mm, Ø15mm                          403.2    7   2822.40    705.60
+Završni poklopac LBU okrugli sa rupom                                                87.09    9    783.81    195.95
+
+                                                                                                         ----------
+UKUPNO                                                                                                    362084.03
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

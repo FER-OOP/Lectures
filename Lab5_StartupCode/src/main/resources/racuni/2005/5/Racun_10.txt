@@ -1,0 +1,33 @@
+Račun br. 1086261
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+SERH ECO A4 L2 T5 4x14W EVG M625, bijela b.                                           8534    9  76806.00  19201.50
+Levante-S 20 LED 48W 4425lm 4000K asim.,IP66,SKII,antracit                         3205.01   11  35255.11   8813.78
+LED traka 86 RGB UWW Ra=90+ 10,7W/m, 782lm/m, 24VDC,IP44                           1393.45    4   5573.80   1393.45
+Pokrov za antensku utičnicu HSAT…, 3 otvora, bijeli                                    8.9    1      8.90      2.22
+Zaštitni prekidač, C karakteristika, 1A, 2-polni, 6kA                                 4475   15  67125.00  16781.25
+Levante-M 44 LED 104W 9940lm 4000K LT-L,IP66,SKII,antracit                         5248.66    2  10497.32   2624.33
+LS-FI (KZS), C/10A/100mA, 3P, Tip A, 10kA                                             4281    5  21405.00   5351.25
+Bezhalogeni jednožilni vodič H05Z-K 1mm2, ljubičasti                                 10000   17 170000.00  42500.00
+Poliester kućište 540x360x171mm, prozirni poklopac,IP66,sivo                        894.93    7   6264.51   1566.13
+Bimetalni relej za sklopnike vel. 00 | 0,90 - 1,25A                                 161.33   21   3387.93    846.98
+Spojnica MC4 nadgradna muška, za kabel 4-6mm2                                        21.62   26    562.12    140.53
+Mura-II-Q LED 1W 6000K, IP54, aluminij                                              156.45   29   4537.05   1134.26
+Razvodna kutija-šuplje stijenke, dubina 45mm pokl.,nar.                             976.64   30  29299.20   7324.80
+Optički slijepi modul za ST/FC otvore, 25 kom.                                       51.22    6    307.32     76.83
+Sklopnik vel.3 | 4P | AC1 140A/690V | 24VDC                                        1763.94    3   5291.82   1322.95
+Finožični PVC-om izolirani vodič H07V-K (P/F) 16mm2, crni                          1193.14   24  28635.36   7158.84
+Rastavna sklopka za cilindrične os. 22x58mm, 3P/100A sa LED                           4826   10  48260.00  12065.00
+Uzidni okvir s vratima+umetak, 3U-24, 100mm (plosnati)                             1913.42   13  24874.46   6218.62
+Spremnik za dokumentaciju, metalni, univerzalni, RAL 7035                           225.02    1    225.02     56.26
+Prespojna ploča, 3 izlaza, 350/500mA,crne b.                                         36.66   15    549.90    137.48
+Maskirni razdj. 3M-39, 13-redni, 429ŠM,1855x760x200mm(VxŠxD)                       3746.81   22  82429.82  20607.46
+
+                                                                                                         ----------
+UKUPNO                                                                                                    621295.56
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

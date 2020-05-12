@@ -1,0 +1,14 @@
+Račun br. 532997
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Bezhal. sign. kabel HSLCH-JZ 3x1,5 FRNC sivi/žila crna                               10000   15 150000.00  37500.00
+AIXLIGHT R2 DUO,HQI111,zaobljena,sr.b,G12,2x70W,bez odsijača                       2809.97   22  61819.34  15454.84
+
+                                                                                                         ----------
+UKUPNO                                                                                                    211819.34
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

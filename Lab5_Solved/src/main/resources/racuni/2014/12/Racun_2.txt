@@ -1,0 +1,14 @@
+Račun br. 297036
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Elektronička sklopka za upravljanje roletama, umetak                                792.82   15  11892.30   2973.07
+Linijska svj. SERH-LT 112, srednji profil,  2x35W, ECG, bb                          570.43   15   8556.45   2139.11
+
+                                                                                                         ----------
+UKUPNO                                                                                                     20448.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,22 @@
+Račun br. 450221
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zaštitni prekidač MB 18kA CL 32/3                                                   458.97   30  13769.10   3442.27
+NAUTILUS SPIKE, GU10, sa 1,5m kabela sa utikačem                                    173.52    2    347.04     86.76
+Kabel LiYCY 16x2x0,14                                                                10000   14 140000.00  35000.00
+Bezhal. kabel s konc.zaštitnim Cu vodičem N2XCH 4x95sm/50                            10000    5  50000.00  12500.00
+Pokrov za 1xRJ45 Toolless, antracit                                                  12.97   24    311.28     77.82
+Ormar plast.750x750x312,krov protiv kiše,dno otv.,1 vrata,                            4142   12  49704.00  12426.00
+UPS AVARA Multi 10kVA 9kW 38min, 3F/3F/Online veliko kučište                      57810.65   251445266.25 361316.56
+Aktuator , 1x AC 230V, 16 AX/20A, C teret                                           572.92   27  15468.84   3867.21
+Aline-R LED 7W 3000K 500lm, IP54, bijele boje                                       172.33    3    516.99    129.25
+Okvir za IKALL, 1-struki, antracit                                                  284.29    8   2274.32    568.58
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1717657.9
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

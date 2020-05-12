@@ -1,0 +1,14 @@
+Račun br. 954746
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+UPS Genio Flex Plus Dual 3000VA 2700W 5 Min.1/1f/Line-Int.                         6851.81   29 198702.48  49675.62
+7836T/W, Trokutasti profil 2m za 7820/7830, bijele boje                             219.81   29   6374.49   1593.62
+
+                                                                                                         ----------
+UKUPNO                                                                                                    205076.97
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

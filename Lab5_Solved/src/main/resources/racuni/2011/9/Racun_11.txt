@@ -1,0 +1,22 @@
+Račun br. 325348
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kabel LiYCY 16x2x0,14                                                                10000    1  10000.00   2500.00
+Rezervni filter za ventilator 202x202mm, IP54 (pak=5 kom.)                           97.08   26   2524.08    631.02
+Bezhal. kabel poboljšanih svoj.za sl. požara N2XH-J 1x70rm                           10000    5  50000.00  12500.00
+Mehanička blokada za LA3 150/175 horizontalna                                       332.32   11   3655.52    913.88
+E-AYY-O 1x240RM                                                                      10000   10 100000.00  25000.00
+AIXLIGHT R2 OFFICE T5, zaobljena,bi.b.,2xT5 54W+2xES111 75W                        2997.68   14  41967.52  10491.88
+"Opt. razdjelnik,24 niti, SC,50/125µm OM3, izvlačivi,19"",1U"                      1497.57   29  43429.53  10857.38
+Vodič (N)YM(ST)-J 5x2,5 / 1,5, svijetlo-sivi                                         10000   28 280000.00  70000.00
+KARDAMOD SURFACE SQUARE QRB SINGLEKVADRAtna,bijela max.75W                         1000.75   11  11008.25   2752.06
+Kabel LiYCY 6x0,5                                                                    10000   21 210000.00  52500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     752584.9
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

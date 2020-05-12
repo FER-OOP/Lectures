@@ -1,0 +1,21 @@
+Račun br. 170916
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Stražnja ploča za nazidni Modul 2000 | 4R-18                                        193.35    3    580.05    145.01
+9407G/W, 7W G9 WW                                                                     5.74   29    166.46     41.61
+"Dvostruko svjetleće tipkalo bijelo/crno, oznake: ""I"" - ""0"""                     75.04   29   2176.16    544.04
+N/Ž okvir + vrata 3A-39 D=300mm str.ploča+zakr. ručica, IP54                       3991.81   17  67860.77  16965.19
+QR-CBC 51 35W SP 10° GU5,3 TI halog.žarulja                                          23.42   30    702.60    175.65
+"Opt. razdjelnik, 8 niti, LC, 62,5/125µm OM1, izvl.,19"",1U"                        947.25    9   8525.25   2131.31
+Označne pločice 'L', (pločica sa 100 oznaka)                                         15.17   16    242.72     60.68
+Kabelska stopica 240mm2, za MC3                                                      60.41   11    664.51    166.13
+GLENOS profil 2020-100, crne boje, 1m, bijele boje Cover                             218.8    7   1531.60    382.90
+
+                                                                                                         ----------
+UKUPNO                                                                                                    82450.125
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

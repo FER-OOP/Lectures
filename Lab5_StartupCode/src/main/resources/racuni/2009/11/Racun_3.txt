@@ -1,0 +1,25 @@
+Račun br. 312197
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Osigurač DC 355A - max48V, priključak M10                                            63.62   25   1590.50    397.63
+Bakrena sabirnica,TT profil, 1600A, duljina 3.6m,pokositrena                       4942.95   17  84030.16  21007.54
+KNX podnožje, dubina montaže 18 mm                                                  278.63   26   7244.38   1811.10
+EUTRAC Produžetak, elek., crne b.                                                     95.8    5    479.00    119.75
+FLEXLED ROLL 3D 24V, 5m, 2700K                                                      562.63   10   5626.30   1406.57
+COB LED MODUL za AIXLIGHT PRO montažni okvir, 70°, bijele b.                          8570   12 102840.00  25710.00
+Zaštitni prekidač MB 15kA BT 80/3                                                   458.97   23  10556.31   2639.08
+Kompaktni prekidač snage tip ME, 3P, 50kA, 140A                                    2385.34   17  40550.78  10137.70
+Ugradna svjetiljka SEP ECO T8 3x18W ECG IP54 M600, bijela                           698.73   16  11179.68   2794.92
+Varistor za svitak 110-230V AC/DC za LA3007-LA3022                                   54.47    1     54.47     13.62
+Vezica 370 x 7.6mm, natural (pak.=100 kom.)                                          76.67   25   1916.75    479.19
+Phos Plus 16 LED 38W 3615lm 4000K ulič.opt.LT-M IP66 RAL9006                       4015.41    1   4015.41   1003.85
+Redna stezaljka (utični priključak), 10mm², siva                                      5.93   30    177.90     44.47
+
+                                                                                                         ----------
+UKUPNO                                                                                                    270261.66
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

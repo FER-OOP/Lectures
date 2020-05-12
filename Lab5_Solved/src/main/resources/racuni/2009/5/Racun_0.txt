@@ -1,0 +1,30 @@
+Račun br. 825710
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Poliester zidni ormar MINIPOL, 600x400x230mm (VxŠxD)                               1069.58    5   5347.90   1336.97
+Pokrov kabelskog uvoda 00, 3-polni                                                    6.67    9     60.03     15.01
+EASY LIM RF MINI RGB SLAVE, 12V/DC i 24V/DC                                          62.51   23   1437.73    359.43
+Zaštitni prekidač, D karakteristika, 4A, 1-polni, 10kA                               63.25    7    442.75    110.69
+Prespojni kabel RJ45 cat.6 neoklopljen, PVC, plavi, 1.0m                                 9   26    234.00     58.50
+Dimer elektronski 300 W/VA RLC 2-žični                                              245.25   26   6376.50   1594.13
+Univer. opt.  kabel U-DQ(ZN)BH 12x50µm OM3, nm.                                    2020.81   25  50520.25  12630.06
+PT LED utični modul, crveni, RT6-24V DC A1+, EM18                                     9.91    2     19.82      4.95
+Fronius Solar Battery 6.0 (4,8 kWh)                                               90658.22   151359873.25 339968.31
+Zaštitni prekidač, D karakteristika, 40A, 3-polni, 10kA                             207.37   16   3317.92    829.48
+Odstojnici za niveliranje MC3                                                        75.62   18   1361.16    340.29
+Kabel H05VV5-F 18x1 sivi                                                             10000   28 280000.00  70000.00
+Bezhalogeni kabel s el. funkc. do90 Min. (N)HXH-J3x16rmE90                           10000   13 130000.00  32500.00
+KARDAMOD SURFACE četvrtasti QRB SINGLE stropna svj., crne b.                       1000.75   30  30022.50   7505.63
+Fluokompaktna žarulja TC-D 13W/827 G24D-1                                            27.45   28    768.60    192.15
+P/Ž media razdjelnik, MVM, 4-redni, 12+2 modula, viši okvir                          956.2    2   1912.40    478.10
+KYKLOP zidna svjetiljka,bi.b., 3x1W LED tople bi.b.                                 750.35   24  18008.40   4502.10
+Zaštitni prekidač MB 25kA CL 40/3                                                   476.17   15   7142.55   1785.64
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1896845.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

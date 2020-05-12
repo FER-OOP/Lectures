@@ -1,0 +1,24 @@
+Račun br. 560310
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+AITES LED ROUND za ugradne kutije, bijele b., 3000K                                 249.72   26   6492.72   1623.18
+MOTUS hibrid motor starter 1.5-9A, montaža na sustav 60mm                          1490.39    2   2980.78    745.20
+Označna pločica tip CSC 'X'                                                           9.83   12    117.96     29.49
+Kompenzacija  LSK 14% 75/25kvar 600x1250x300mm zidni ormar                        25477.33    2  50954.66  12738.67
+Optički završetak ST 9/125µm OS2, 2.0m (4 kom.)                                      79.59   29   2308.11    577.03
+EURO SPOT EVG, HQI-T, 15°, bijela b., uklj. 3-f adapter                            1000.75   16  16012.00   4003.00
+Gljiva, deblokada povlačenjem                                                       134.27   12   1611.24    402.81
+LED traka 96 UWW Ra=90+, 20,7W/m 1725lm/m, 24VDC,IP44, l=5m                        1698.27    9  15284.43   3821.11
+Kompaktni prekidač snage tip A, 4P, 50kA, 500A                                     5518.07   22 121397.54  30349.38
+Kabelska uvodnica M25x1.5, poliamid, RAL7035                                          8.21   18    147.78     36.94
+Rastavna sklopka za cilindrične os. 14x51mm, 3P+N/50A sa LED                        234.32   24   5623.68   1405.92
+Levante-M 40 LED 94W 7930lm 3000K asim., IP66,SKII,RAL9006                         5434.52   30 163035.59  40758.90
+
+                                                                                                         ----------
+UKUPNO                                                                                                     385966.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

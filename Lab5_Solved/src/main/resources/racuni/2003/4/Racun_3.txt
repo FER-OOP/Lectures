@@ -1,0 +1,29 @@
+Račun br. 461948
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+T8 LED cijev, zakretna, 11W, 6000K, 900lm, 230V, 60cm                                69.78   29   2023.62    505.90
+EURO SPOT MR16, sa 3-faznim adapterom, bb                                           562.36   29  16308.44   4077.11
+Solid Double LED 7W 4000K 510lm, IP20                                               124.52   21   2614.92    653.73
+Okvir za ugradnju u strop za lampu tip KB                                           112.23   26   2917.98    729.49
+Izmjenična sklopka, kompletna, 10A, na vijak, bijela                                 22.35    6    134.10     33.53
+DASAR LED HV ugradna, okrugla, SST, 6W , 3000K, 230V, IP67                         1000.75   13  13009.75   3252.44
+L-SE LSK 1.5 1x68W DEEP 8200lm 840 Dali, bijele boje                               1512.17   20  30243.40   7560.85
+Razdjelnik nazidni, IP65, 1-redni, 8 modula, prozirna vrata                         152.03   26   3952.78    988.20
+Gljivasto tipkalo sa 1 N/O + 1 N/C, komplet sa kućištem                             199.43   26   5185.18   1296.29
+USB 1.1 pretvarač/ekstender na UTP, USB A - RJ45, do 60m                            235.34    2    470.68    117.67
+D02 rastavna sklopka TYTAN II, 3-polna, 50A, komplet                               2035.49   20  40709.80  10177.45
+Strujni trafo, pravokutni, dimenzije otvora: 115 x 305mm                          11157.47   20 223149.39  55787.35
+SIGHT 54, nadgradna svjetiljka, brušeni aluminij, 54W                              1188.46    1   1188.46    297.11
+Hector-S/A1 150W Rx7s, 230V, IP20, brušeni krom                                      19.59   28    548.52    137.13
+Tunel stezaljke 16-95mm2, za 4-polne MC1                                            216.68   23   4983.64   1245.91
+NV rastavna sklopka vel.1|250A, M10, nadzor osig., mont.pl                         1980.15    3   5940.45   1485.11
+Fluo cijev T8|T26 58W/830 G13                                                        15.35    2     30.70      7.68
+
+                                                                                                         ----------
+UKUPNO                                                                                                     353411.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

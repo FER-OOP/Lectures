@@ -1,0 +1,30 @@
+Račun br. 740533
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Gypsum Square GT1, MR16, GU10, 50W, IP20, bijele boje                                72.99    2    145.98     36.49
+Podnožje prema širini AS/KS ormara, 600x100mm, RAL 7022                             283.08   28   7926.24   1981.56
+Tipka za sklopke i tipkala, biserno bijela                                           11.67   15    175.05     43.76
+Adapter dvostruki za HSEM02W2F                                                        2434   26  63284.00  15821.00
+TENORA CL-2 stropna svjetiljka sa 2 zgloba, crne boje                              1558.31   28  43632.68  10908.17
+Nadgradna svjetiljka PRIMO H OPAL T5 1x28W ECG, bijela                              316.32    3    948.96    237.24
+RUSTY 40 vanjska svjetiljka,zahrđani čelik                                          1495.8   20  29916.00   7479.00
+Okvir 3M line, mat crni                                                              52.52    3    157.56     39.39
+Savitljiva cijev (lagano), M63, 320N,kolut 25m,svijetlo-siva                       1590.67   22  34994.74   8748.69
+Sango-R 25W G9, 100-240V, IP20, aluminij                                            196.16   22   4315.52   1078.88
+Grebenasta sklopka, 1-2/2P/10A, na vrata                                            168.21   27   4541.67   1135.42
+Optički prespojni kabel duplex, LC/SC, 50/125µm OM2, 2.0m                            69.05   11    759.55    189.89
+Ormar plast.750x1000x420,krov protiv kiše,dno otv.,1 vrata,                           4142   28 115976.00  28994.00
+Luxa 102-180, LED sa senz., 32W, 6000K, zidna, IP44, crna                          1495.54   21  31406.34   7851.58
+Ključ za DIN 3mm bravu, sa dvostrukom bradom                                         19.04   26    495.04    123.76
+Revizijska vrata (mjerni spoj), 155×205mm                                            77.77   22   1710.94    427.73
+Matica PG13,5 (za uvodnicu M272800--A)                                                0.65    8      5.20      1.30
+Nadgradna svjetiljka SAP IP54 T8 2x36W CCG, ind, bijela                            1305.93    5   6529.65   1632.41
+
+                                                                                                         ----------
+UKUPNO                                                                                                     346921.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

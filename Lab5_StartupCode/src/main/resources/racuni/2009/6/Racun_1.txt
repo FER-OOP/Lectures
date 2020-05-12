@@ -1,0 +1,16 @@
+Račun br. 425577
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Pokrov 1 mjesta sabirnice za MZS vel.00/0                                             5.61   14     78.54     19.64
+7309AG/W/35, LED 10w GU10 R111 WW 35 °                                              225.39    8   1803.12    450.78
+"Natpisna pločica, ""Stop Start"", 12.5 x 28mm, natična"                              3.09   22     67.98     16.99
+LS-FI (KZS), B/20A/100mA, 3P, Tip A, 10kA                                             4281   20  85620.00  21405.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     87569.64
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

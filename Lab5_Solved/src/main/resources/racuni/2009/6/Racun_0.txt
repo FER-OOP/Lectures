@@ -1,0 +1,22 @@
+Račun br. 268402
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+GLOO PURE 27 podna svjetiljka, antracit, E27, max. 20W                              625.15   24  15003.60   3750.90
+Višežični PVC-om izolirani vodič H07V-R (P/M) 70mm2, plavi                           10000    2  20000.00   5000.00
+Kondenzatorski sklopnik | 20 kVAr | 220-240V AC                                     402.55   22   8856.10   2214.02
+Kompaktni prekidač snage tip A, 3P/80A/36kA, box stezaljke                          580.51    8   4644.08   1161.02
+Tel. samostojeći razvodni ormar, 3x600 parica, IP30                               12143.38    3  36430.14   9107.54
+LED prespojni kabel RJ45 oklopljen,500 MHz,Ea,10GB,sivi,0.3m                          33.9   19    644.10    161.03
+Ugradna svjetiljka SEP ECO T8 2x36W ECG M600, bijela                                302.04    4   1208.16    302.04
+Modul signalne svjetiljke, blicajuće crveno svjetlo, 24VDC                          587.33    8   4698.64   1174.66
+Daljinski isklopnik za MC4, 110-130V AC/DC                                          644.79   17  10961.43   2740.36
+FID sklopka 25-2-003/AC, 10kA, G izvedba                                            857.78   14  12008.92   3002.23
+
+                                                                                                         ----------
+UKUPNO                                                                                                    114455.17
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

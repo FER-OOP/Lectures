@@ -1,0 +1,21 @@
+Račun br. 921249
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Signalni fleksibilni kabel YSLCY-JZ 50x 1 sivi                                       10000   30 300000.00  75000.00
+Sklopni element za prednju montažu, 1 N/C, utične stezaljke                          18.86   28    528.08    132.02
+FI-blok 40A, 2-polni, 300mA, Tip A (Puls)                                           617.76   28  17297.28   4324.32
+Motorna zaštitna sklopka, 3-polna | 25 - 32A                                        454.69   10   4546.90   1136.72
+SAT utičnica prol. 2x,radio/CATV,5-1.006MHz,14dB,bez okvira                          42.34   24   1016.16    254.04
+Linijska svjetiljka SOLO 2 T5 2x35W ECG, bijela                                      249.3   11   2742.30    685.58
+Pokrov 380x190x80mm prozirni - E-DH                                                 301.07    9   2709.63    677.41
+Kompenzacija  LSFC 14% 125/12,5kvar 800x2110x500mm Samost                         51499.42   17 875490.19 218872.56
+FI-blok 63A 3-polni, 30mA, Tip AC                                                     4290   22  94380.00  23595.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1298710.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

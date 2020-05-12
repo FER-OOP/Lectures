@@ -1,0 +1,24 @@
+Račun br. 791326
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Bill-Q 2x26W G24q-3, 230V, IP20, brušeni krom                                        37.67   24    904.08    226.02
+LED prespojni kabel RJ45 oklopljen,500 MHz,Ea,10GB,zeleni,5m                         83.13   18   1496.34    374.08
+Sigurn. svjetiljka DER ERT-LED 3x1W, CPS, MIX-mod, ugradna                          792.96   18  14273.28   3568.32
+Sticker Totem Fox, bijele boje                                                      155.78    7   1090.46    272.61
+BIMA pano svj., krom                                                                500.12   23  11502.76   2875.69
+Mara-I-R LED 12W 3000K 665lm, dimabilna, IP20, aluminij                             381.17   12   4574.04   1143.51
+LED RETROFIT RAL1 60 DIM 9W 230V 827 500lm proz. S14D 20000h                        163.43   15   2451.45    612.86
+Elektronski transformator  240/12V 10-60VA Dim                                       58.02   23   1334.46    333.61
+NEW TRIA DLMI ROUND Downlight, srebrne boje, 3000K, 60°                            1433.11    3   4299.33   1074.83
+Priključna kutija, nehrđajući čelik, 200x400x80(VxŠxD),IP66                         1343.8   25  33595.00   8398.75
+LED utični modul, crveni, 110-230V AC, za S-Releje Serije 4                           8.48    5     42.40     10.60
+Odjelnik N vodova                                                                    32.52    6    195.12     48.78
+
+                                                                                                         ----------
+UKUPNO                                                                                                     75758.72
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

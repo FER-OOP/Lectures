@@ -1,0 +1,16 @@
+Račun br. 294489
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ugradna downl. svj. ERM 201 2x18W CCG TC-D IP20, bijela                             210.98    9   1898.82    474.70
+LED rotacioni dimer RGB                                                             507.29    2   1014.58    253.65
+Montažni nosač, širine 4PB, 35x15mm                                                   4063   29 117827.00  29456.75
+Halogena žarulja QT 12 35W 12V GY6,35                                                13.03   13    169.39     42.35
+
+                                                                                                         ----------
+UKUPNO                                                                                                    120909.79
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

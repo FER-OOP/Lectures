@@ -1,0 +1,30 @@
+Račun br. 419684
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Signalni fleksibilni kabel YSLCY-JZ 10x0,75 sivi                                     10000   13 130000.00  32500.00
+Zaštitni prekidač MB 18kA CL 16/3                                                   520.33    5   2601.65    650.41
+Frida-I-R 20W G4, 12V, IP20, bijele boje                                              5.23   15     78.45     19.61
+D-RECTION ELITE 50 Spot bijela G12,50W,uklj. 3f.adapter                             752.87   10   7528.70   1882.18
+LED GX53, 7W, 4000K, 500lm, 100-240V                                                 56.43   14    790.02    197.51
+"Pozivno tipkalo + utičnica za ""Comfort"" tipkala, bijelo"                           2104   12  25248.00   6312.00
+LED napajanje 12V/60W IP67                                                          195.31    3    585.93    146.48
+Prednja ploča, plastična, slijepa, 5B13K                                              4160    2   8320.00   2080.00
+"Optički prespojni panel 19"", 1U, uklj. 24 spojnice ST MM"                         862.33    9   7760.97   1940.24
+Relej 3 C/O |10A | 24VDC sa zaštitnom diodom                                          61.1   10    611.00    152.75
+Priključna stezaljka 95mm² za ARROW jezičastu sabirnicu                              50.81    4    203.24     50.81
+Ugradna svjetiljka SE-ID PAR V2 1x14W, T5,ECG, bijela                               544.83   13   7082.79   1770.70
+IR daljinski upravljač za KX2582EB21 i KX2582DB11                                   251.13   13   3264.69    816.17
+Flat cable 5-pole                                                                    16.73   28    468.44    117.11
+Signalni fleksibilni kabel YSLY-JZ 7x1,5 sivi                                      1159.75   25  28993.75   7248.44
+Kućište, bez vrata, 1-redno, 12+1 modula, IP40                                       108.7   30   3261.00    815.25
+Krajnji držač, montaža na DIN nosač, tip BT/3, crni, vijčani                          2.19   20     43.80     10.95
+Bezhalogeni jednožilni vodič H07Z-K 1,5mm2, ljubičasti                               10000   24 240000.00  60000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    466842.44
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

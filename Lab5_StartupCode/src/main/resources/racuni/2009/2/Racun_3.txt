@@ -1,0 +1,27 @@
+Račun br. 847859
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Maria-CL-R LED 6W 3000K 440lm, IP54, antracit                                       331.49   15   4972.35   1243.09
+Industrijska utičnica, 5 polna, 16A, IP44, ugradna, ravna                             4320    5  21600.00   5400.00
+Stropna svj. Rolo-CL small, GU10 QPAR 16, 35W, IP54, bijela                         144.46    1    144.46     36.12
+"Opt. razdjelnik,12 niti, LC,50/125µm OM3, izvlačivi,19"",1U"                      1219.59   10  12195.90   3048.97
+Puna metalna vrata sa zakret. ručkom, za DW ormare 6U, Š=600                        461.38   26  11995.88   2998.97
+L-SE umetak DM 1.5 Medium Wide 1x66W LED 6750lm/840                                   8529   25 213225.00  53306.25
+A03VV-F 3x1mm2, bijeli, 50m kolut                                                    10000   21 210000.00  52500.00
+Baterija RPOWER OGiV 12/55Ah, longlife: 10-12 god.                                 1121.91   11  12341.01   3085.25
+TENORA WL-2 zidna svjetiljka sa 2 zgloba, crne boje                                1250.97    7   8756.79   2189.20
+Kabel YSLYQY-JZ 7x 6 prozirni                                                        10000   21 210000.00  52500.00
+Opal poklopac za panik svjetiljku tip KC                                            136.53    9   1228.77    307.19
+Luka-R LED 1/3W 4000K 200lm, dimmbar, 350/700mA, IP65, bb                           124.52   20   2490.40    622.60
+Finožični PVC-om izol. vodič H07V-K (P/F) 25mm2, ž/z HPV                             10000   21 210000.00  52500.00
+Kondenzatorski sklopnik | 80 kVAr | 220-240V AC                                    1610.67    3   4832.01   1208.00
+Switch POE (6 Ports), VIP                                                          1134.08   14  15877.12   3969.28
+
+                                                                                                         ----------
+UKUPNO                                                                                                     939659.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,16 @@
+Račun br. 1049271
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Relej snage, 2C/O, 8A, 12VDC serije RT, raster 5mm                                   14.89   16    238.24     59.56
+Sig. Svj. ZAW 230VAC,3/ 8h, auto., -25°C do35°C,vanjska bat.                       2253.97   19  42825.43  10706.36
+Dimer univerzalni MO 2M 0-300W RLC, bijeli set                                      563.35   25  14083.75   3520.94
+IBDN prespojni kabel RJ45 UTP cat.6A, sivi, 1.2m                                     59.51    5    297.55     74.39
+
+                                                                                                         ----------
+UKUPNO                                                                                                     57444.97
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

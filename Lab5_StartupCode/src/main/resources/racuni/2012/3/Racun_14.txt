@@ -1,0 +1,21 @@
+Račun br. 322104
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Nadgradna svjetiljka SALENA LED 39W 4100lm/840 ECG,bb                               831.55    3   2494.65    623.66
+Stezna nazuvica M25, slijepa                                                          1.28    1      1.28      0.32
+Spojnica za sabirnice TT-profil, 1600A, duljina 95mm                                300.01   21   6300.21   1575.05
+Prespojni kabel RJ45 cat.5e neoklopljen, PVC, žuti, 10.0m                            35.03   18    630.54    157.63
+Kabel H05VV-F (PP/J) 7x1,5mm2, crni, 50m                                             10000    5  50000.00  12500.00
+Kada za brojilo, 5 ploča za brojilo u jednom redu, 2-reda                          1594.82   27  43060.14  10765.03
+Teški gumeni kabel H07RN-F 5x35, crni                                             21975.58   26 571365.06 142841.27
+Jednožični PVC-om izolirani vodič H07V-U (P) 2,5mm2, plavi                          189.24   10   1892.40    473.10
+Stropna svjetiljka Cube-CL1, GU10 QPAR 16, 35W, IP54, siva                          187.71   22   4129.62   1032.41
+
+                                                                                                         ----------
+UKUPNO                                                                                                     679873.9
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

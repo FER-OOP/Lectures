@@ -1,0 +1,15 @@
+Račun br. 961968
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zav.pok. za PEN LIGHT                                                                 3.04   25     76.00     19.00
+Zaštitni prekidač, C karakteristika, 25A, 1-polni, 10kA                              24.71   19    469.49    117.37
+Kabel H05VV-F (PP/J) 5x1,5 mm2, bijeli, 100m                                         692.2   30  20766.00   5191.50
+
+                                                                                                         ----------
+UKUPNO                                                                                                     21311.49
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

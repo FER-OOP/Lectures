@@ -1,0 +1,17 @@
+Račun br. 636860
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Vodotijesna svjetiljka LINDA Industrie PC 1x28-54W IP65                             427.24   26  11108.24   2777.06
+Ugradna svjetiljka SEO XTP T8 4x36W ECG IP54 M625, bijela                          1570.75   23  36127.25   9031.81
+Zaštita od udara                                                                     95.69    7    669.83    167.46
+AOT-O LED, 62W, 4000K, IP50, akril, opal, bijele boje                               952.78    8   7622.24   1905.56
+Vatrodojavni kabel  JB-Y(St)Y 1x2x0,8                                               188.23   30   5646.90   1411.72
+
+                                                                                                         ----------
+UKUPNO                                                                                                     61174.46
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

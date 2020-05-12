@@ -1,0 +1,29 @@
+Račun br. 956129
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Pila za zidne kutije, d=68mm AT, sadrži adapter                                     389.99   16   6239.84   1559.96
+Samostojeći ormar, 1-vrata, 1800x800x400 (VxŠxD), RAL 7035                         3713.28   17  63125.76  15781.44
+Izlazni filter za IUKNF2523A, 145x145x26mm, IP54                                    145.86   13   1896.18    474.04
+Modul za 4 kamere, RJ45, H.264 kompatibilan, VIP sustav                            2299.88    3   6899.64   1724.91
+3f reflektor VITO DC LED 38W 3200lm/830 ECG 20°,sive boje                          1470.55   13  19117.15   4779.29
+Sabirnica, 1P, jezičasta, plava, 16mm² (80A)|8.9mm| 1m, N                           108.73   21   2283.33    570.83
+Maskirni razdj. 3M-39, 13-redni, 429ŠM,1855x760x200mm(VxŠxD)                       3746.81   12  44961.72  11240.43
+Prednja ploča sa tipkalom za dimer, bijela                                           35.04   15    525.60    131.40
+Ugradna downlight svj. ERM 201 1x26W TC-DEL ECG IP20, bijela                         223.7   25   5592.50   1398.13
+Kompaktni prekidač snage tip A, 3P, 150kA, 25A                                     2409.72   18  43374.96  10843.74
+VDE plosnata okrugla kliješta, 200mm 45 Solingen                                    248.83    8   1990.64    497.66
+Paralelna spojnica (kratkospojnik) za 10 stezaljki IK600002-                         17.56   16    280.96     70.24
+PVC-om izol.kabel za srednja meh.opt. YMS -J 5x1,5 crni                              10000   22 220000.00  55000.00
+Sklopka Not-Aus, 6-polna + 2 pom.kontakta, 25A                                      655.61   13   8522.93   2130.73
+Pako-R/A1 LED 3W 6000K 120lm,dimabilna,700mA,IP20,aluminij                           58.62    9    527.58    131.90
+Tipka sa simbolom zvona, biserno bijela                                               19.1   25    477.50    119.38
+Zaštitni prekidač, B karakteristika, 10A, 2-polni, 6kA                               63.66   18   1145.88    286.47
+
+                                                                                                         ----------
+UKUPNO                                                                                                     426962.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,22 @@
+Račun br. 102845
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Telephone License za MUG, 10 korisnika                                             1114.18    4   4456.72   1114.18
+Zaštitni prekidač, D karakteristika, 2A, 3-polni, 10kA                              198.55   30   5956.50   1489.13
+Cijev, M20, 320N, EN2221, svijetlo siva, 3m (pak. 111m)                             273.74   18   4927.32   1231.83
+MARINE Transformator, 150W                                                          374.92   15   5623.80   1405.95
+Savitljiva cijev (lagano), M16, 320N,kolut 50m,svijetlo-siva                        158.61    6    951.66    237.92
+7315G/W/45, LED R111 GU10 15w WW 45 ° 230v                                          102.89   25   2572.25    643.06
+Utičnica šuko sa poklopcem i dječjom zašt. na vijak bijela                           18.44   10    184.40     46.10
+Paralelna spojnica 95mm2, 3-polna, za veličinu 2                                     47.28    2     94.56     23.64
+Vezica 203 x 4.6mm, crna (pak.=100 kom.)                                             22.35   25    558.75    139.69
+KABEL E-AYY-J (PP00-AL) 4X95 SE                                                      10000   27 270000.00  67500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    295325.97
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

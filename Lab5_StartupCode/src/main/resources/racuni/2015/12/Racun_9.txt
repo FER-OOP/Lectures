@@ -1,0 +1,31 @@
+Račun br. 319466
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Tenga-WL-R LED 12W 3000K 300lm, IP54, sive boje                                     696.11    1    696.11    174.03
+9821/D/2, 21W 2D 2PIN DL                                                              3.71   10     37.10      9.27
+Marra LED traka 5m RGB uklj. napaj., sa daljinskim upravlj.                         505.35   25  12633.75   3158.44
+Montažna ploča za kućište B - 238x148mm                                              35.77   14    500.78    125.19
+SAT razdjelnik,1xIEC-m/2xIEC-ž quick,0.1-2200MHz,TZU 40-02                           14.06    8    112.48     28.12
+L-SE el. uložak DM 1x58W ECG                                                        220.44   16   3527.04    881.76
+Finožični PVC-om izol. vodič H05V-K (P/F) 1mm2, naranč. HPV                          10000   30 300000.00  75000.00
+Korisnički daljinski upravljač za Sphinx RC 104                                      77.73   12    932.76    233.19
+GLENOS četvrtasti Profile 3030, 2m, bijele boje                                     500.12   23  11502.76   2875.69
+Linijska svj. SERM-LF 112, početni profil,  1x28W, ECG, bb                          546.54   16   8744.64   2186.16
+Ugradna ind. svjetiljka SBOX EB 1x70W,HI,E27,MB, IP65                              1002.64   25  25066.00   6266.50
+Montažna ploča 4PB, 890x70x13mm RAL 7035                                            104.56    6    627.36    156.84
+Teretna sklopka, 4P, 63A, opcija: daljinski isklop                                  665.42    1    665.42    166.35
+ROX zidna svj. G8,5, antracit, 2x35W                                               1871.23    4   7484.92   1871.23
+Reflektor SET 150W HIT-DE RX7s IP65 crni simetrični                                1093.24   10  10932.40   2733.10
+Instal. umetak 1-18L komplet 6 IR prednja pl. plastika                             1170.28    2   2340.56    585.14
+Nadgradna kutija IP44 MD180i/R,MD180i/T,MD/PD180 bijela                             259.44   13   3372.72    843.18
+"Samostojeći komunikacijski ormar DS 800x1525x600, 19"", 32U"                      3473.62   25  86840.50  21710.13
+Kabel H05VV-F (PP/J) 5x1mm2, svijetlo-sivi, 100m                                     10000    5  50000.00  12500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    526017.25
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

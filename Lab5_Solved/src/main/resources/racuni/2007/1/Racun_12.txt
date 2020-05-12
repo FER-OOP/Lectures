@@ -1,0 +1,31 @@
+Račun br. 559830
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+ACRYLBOX 2kom GU10, crne b./prozirno                                               1063.26    9   9569.34   2392.33
+Ugradna svjetiljka SERH XTP T8 2x36W CCG M600, bijela                              1484.65   20  29693.00   7423.25
+Otvoreni prekidač, 4P, 55kA, 1600A, fiksni, prednje priklj.                       39004.05   13 507052.66 126763.16
+Mini-pomoćni sklopnik 4P | 3 N/O + 1 N/C | 400V AC | 10A                            126.92    8   1015.36    253.84
+Signalni fleksibilni kabel YSLY-JZ 5x10 sivi                                       6172.18   18 111099.24  27774.81
+KALOS HL ulič.optika 10LED,4000K 24W, antracit, 4 kraka                            4192.05    4  16768.20   4192.05
+Preklopnik, nizajući, 10A, 1-polni, T-0-N                                            193.8    3    581.40    145.35
+Izolirani kabelski tuljak, sivi, 0.75mm²/8mm                                          0.07    6      0.42      0.11
+Transformator, 1-fazni | 230/24V | 250VA, IP00 + osig. sek.                         570.17   13   7412.21   1853.05
+Optički prespojni kabel duplex LC/FC, 50/125µm OM2, 10.0m                           126.96    2    253.92     63.48
+PlanoCentro 201, senzor prisutnosti, p/ž, stropni, bijeli                          3917.32   20  78346.40  19586.60
+Grebanasta sklopka 0-1/2P/na vrata (centr. učvršćenje)                              106.61   20   2132.20    533.05
+3f-Reflektor Carril E27 PAR30, 75W, IP20, bijela                                    176.05   21   3697.05    924.26
+Neizolirana Cu stopica 70mm², M8                                                     11.32   17    192.44     48.11
+Elektronski transformator  240/12V 50-150VA Dim                                     114.02    4    456.08    114.02
+Predinstalirani inst. kab. cat.7, 2xkon. bloka, 2xzašt., 70m                        468.21   21   9832.41   2458.10
+CONTONE IP44, 16W, 890lm, 3000-2000K dim., okrugla,bijele b.                        625.15   25  15628.75   3907.19
+Optički prespojni kabel duplex, LC/LC, 9/125µm OS2, 3.0m                             89.54   16   1432.64    358.16
+Kutnik za učvršćenje signalne svjetiljke                                            100.97    8    807.76    201.94
+
+                                                                                                         ----------
+UKUPNO                                                                                                    795971.44
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

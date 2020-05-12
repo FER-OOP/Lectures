@@ -1,0 +1,17 @@
+Račun br. 327108
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zaštitni prekidač, C karakteristika, 3A, 1-polni+N, 10kA                            123.58   17   2100.86    525.22
+Završni poklopac TBF ravi s rupom za prolaz kabela                                   50.26    7    351.82     87.95
+Krilo zakretne ručice za M2000, RAL7035                                                2.6    3      7.80      1.95
+Halogena žarulja QR-LP 111 ECO 35W FL 24° G53                                        98.51   13   1280.63    320.16
+Metalhalogena žarulja HIT-CE 150W/942 G12                                           201.05   14   2814.70    703.67
+
+                                                                                                         ----------
+UKUPNO                                                                                                    6555.8105
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

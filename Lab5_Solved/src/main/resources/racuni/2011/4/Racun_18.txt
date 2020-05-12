@@ -1,0 +1,22 @@
+Račun br. 197816
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Onda-R/A2 LED 10W 3000K 800lm, IP20, bijele boje                                    571.59    2   1143.18    285.80
+LED MEGAMAN PAR16 4,5W GU10 230V 2800K 35° 600 Candela                              144.08   16   2305.28    576.32
+9G09M/W/E, LED WW 8.5W E27 100-240V                                                  65.89   19   1251.91    312.98
+Kompenzacija  LSK 7% 52,5/7,5kvar 600x1250x300mm zidni ormar                       23742.1   29 688520.88 172130.22
+Reflektor CAPRI simetrični 1x150W RX7S HIT/HST, crna                                514.58   14   7204.12   1801.03
+Sklopni element za montažu na dno kućišta, N/O, utične                               19.18   14    268.52     67.13
+LS-FI (KZS), C/20A/30mA, 1P+N, Tip AC, 6kA                                          210.18   12   2522.16    630.54
+Kompaktni prekidač snage tip A, 3P, 36kA, 200A                                      1970.7   16  31531.20   7882.80
+Ida LED 3W, 3000K, 55lm, IP65, alu, bijele boje                                     331.49    6   1988.94    497.23
+Videokit IKALL METAL sa Master Gateway, VIP, 1 obitelj                            10852.73    5  54263.65  13565.91
+
+                                                                                                         ----------
+UKUPNO                                                                                                     790999.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

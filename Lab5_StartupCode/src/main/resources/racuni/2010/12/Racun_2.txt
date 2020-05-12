@@ -1,0 +1,16 @@
+Račun br. 964865
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Shuki-Q/A2 LED 1W 3000K, IP20, aluminij                                             105.76   29   3067.04    766.76
+"19"" set nosača za police za zidne komunikacijske ormare DW"                        56.43   13    733.59    183.40
+Pokrov sabirnice 12-30 x 10mm, T i TT profila, duljina 1m                            82.35    3    247.05     61.76
+I-BED WALL SHORT, 3,8W, 3000K, CRI=80, crvene boje                                 1000.75   10  10007.50   2501.88
+
+                                                                                                         ----------
+UKUPNO                                                                                                     14055.18
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

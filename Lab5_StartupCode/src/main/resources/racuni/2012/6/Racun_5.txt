@@ -1,0 +1,25 @@
+Račun br. 992361
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+AIXLIGHT PRO 111 LEDDISK mat bijele boje,4000K 50°                                  750.35   17  12755.95   3188.99
+Stopica 95/M10 neizolirana                                                            2303    6  13818.00   3454.50
+Redna stezaljka (utični priključak), 10mm², zelena                                   18.78   14    262.92     65.73
+"Natpisna pločica, ""^"", 12.5 x 27mm, samoljepljiva"                                 8.13    5     40.65     10.16
+Kompaktni prekidač snage tip ME, 3P, 100kA, 140A, utični                           4305.49   22  94720.78  23680.20
+UPS Multi Plus 20kVA 16kW 0Min.,3f/1f /Online/veliko kućište                      44380.45   16 710087.19 177521.80
+Postolje ormara IG008202, 590x950x310mm (ŠxVxD), RAL7035                           2206.81   25  55170.25  13792.56
+Kutna spojnica za 1f.visokonap.ugrad.str.šinu,unutarnje uze                          99.51    8    796.08    199.02
+DASAR 260, HIT-T, 70W, podna ugradna svjetiljka, četvrtasta                        2371.86    6  14231.16   3557.79
+Konektiranje 2x24 SC SM utikača + zašt. za povlačen                                6756.64   19 128376.16  32094.04
+FID sklopka 63-4-05/AC, 6kA                                                         326.93    5   1634.65    408.66
+STELLA,elektronički stubišni i bistabilni relej 80 A (20ms)                         228.79    2    457.58    114.39
+Vartec modul varistor, VVM, TII, 255V/20kA                                           143.1   18   2575.80    643.95
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1034927.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

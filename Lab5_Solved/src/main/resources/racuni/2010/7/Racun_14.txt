@@ -1,0 +1,24 @@
+Račun br. 817815
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Slušalica Intercom STYLE, SB                                                        754.06   28  21113.68   5278.42
+Kutija za beton MO 3M, dubina 60mm 650°C, 400V                                       27.04    5    135.20     33.80
+J-Bus/ModBUS sučelje via RS232/RS485 (odvojena ugradnja)                           3072.49   25  76812.25  19203.06
+Telekomunikacijski kabel YYSCH 6x0,6mm2, boja slonovače                              10000   18 180000.00  45000.00
+IP2x zaštita od dodira, za 4-polne MC2                                               69.46   24   1667.04    416.76
+Pokrov lučne komore za MO1, 3-polni (tvornički ugrađen)                               4970   15  74550.00  18637.50
+Prednja ploča antenske utičnice sa 4 otvora, bijela                                  29.51   11    324.61     81.15
+Svjetleće tipkalo s plos. tipkom, sa LED 230VAC,zeleno,1N/O                          95.61    6    573.66    143.42
+Držač kabela,mont. na dno ormara,za AS/KS ormare šir. 600mm                         142.08    1    142.08     35.52
+Bočna stranica za trodijelni sistem, 42 modularne visine                              4160   19  79040.00  19760.00
+LED RETROFIT RL-C40 Dim TW 6,3W 230V 827-818 470lm mat E14                           80.64    7    564.48    141.12
+Završni poklopac CLR četvrtasti sa rupom i vijcima                                    51.6    8    412.80    103.20
+
+                                                                                                         ----------
+UKUPNO                                                                                                     435335.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

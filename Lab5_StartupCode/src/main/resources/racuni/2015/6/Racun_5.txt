@@ -1,0 +1,28 @@
+Račun br. 746569
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+41008/W, KONEKTOR, bijele boje                                                       16.72    1     16.72      4.18
+Medes-II-S/A2 100W Rx7s, 230V, IP20, sive boje                                      196.16   29   5688.64   1422.16
+Potezno tipkalo, biserno bijelo                                                       2104   18  37872.00   9468.00
+LED Panel Round 240 15W 1000lm tople bb 2800K, bijele b.                            441.51   26  11479.26   2869.81
+Nosač RC senzora pokreta, smeđi                                                     152.48   18   2744.64    686.16
+Nosač cilindričnih osigurača za Class J, 3P,400A,sustav 60mm                          4838   29 140302.00  35075.50
+Kabel EYY-J (PP00-Y) 5x35 RM                                                      14474.63   24 347391.13  86847.78
+Signalna svjetiljka, bijela                                                           7.98    1      7.98      2.00
+Tina LED 12W, 3000K, 1100lm, 700mA, IP64, 38°, alu,bijele b.                        184.16   17   3130.72    782.68
+L-SE sjajni odsijač AL 35-80W asimetrični                                            99.13   22   2180.86    545.21
+MEDO PRO 40 stropna svjetiljka, okrugla, bijele b., T5 40W                         1250.97   14  17513.58   4378.40
+Kompaktni prekidač snage tip A, 3P/32A/25kA, MC1                                    694.81   28  19454.68   4863.67
+Univer.opt.kabel A/I-DQ(ZN)BH 16x50/125µm OM3, LS0H-3, nm.                         1878.72   13  24423.36   6105.84
+Telefonska LSA priključna letvica 2/10, montaža na nosač                             39.65   11    436.15    109.04
+Optički prespojni kabel duplex ST/SC, 50/125µm OM3, 2.0m                              74.1   27   2000.70    500.17
+Montažna ploča 4PB, 890x294x13mm, 7 visinskih jedinica                              292.21   15   4383.15   1095.79
+
+                                                                                                         ----------
+UKUPNO                                                                                                    619025.56
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

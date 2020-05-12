@@ -1,0 +1,33 @@
+Račun br. 544995
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Aaron-Q 26W G24q-3, 230V, IP20, sive boje                                            37.67    1     37.67      9.42
+Bezhal. kabel poboljšanih svoj.za sl. požara N2XH-J 3x6re                            10000   10 100000.00  25000.00
+SAT utičnica prol. 2x,radio/CATV,5-1.006MHz,22dB,bez okvira                          42.34    1     42.34     10.59
+SAT koaks. presp. kabel, 2xF-quick kon.,kl.A, bijeli, 5.0m                           34.95    9    314.55     78.64
+Kabel YSLYQY-J 4x25 prozirni                                                         10000   29 290000.00  72500.00
+Bočne stranice za Modul 2000/3S, dubine 150mm, tip 40/150                             4160    9  37440.00   9360.00
+LED Classic Smart žarulja 8W E27 2800K 25.000h                                      144.27   29   4183.83   1045.96
+Tipkalo uskočno, plosnato, crveno                                                     64.4   25   1610.00    402.50
+Teretna sklopka, rastavljač (izolator), 63A, 4P                                     161.71   28   4527.88   1131.97
+"Opt. razdjelnik, 12 niti,SC,50/125µm OM2, izvlačivi,19"",1U"                       653.11   17  11102.87   2775.72
+Post-IT blok sa zastavicama za označavanje                                           27.48   19    522.12    130.53
+Optička spojnica LC/APC DX SM,ker.,s prirubnicom,zelena,ECO                          21.42   22    471.24    117.81
+Umetak brave 8mm, trokutasti                                                          4066   28 113848.00  28462.00
+Zaštitni prekidač, C karakteristika, 25A, 1-polni, 10kA                              24.71    6    148.26     37.06
+Jamba-II-WL-R 15W E27, 100-240V, IP54, sive boje                                    175.88    1    175.88     43.97
+FID sklopka 25-4-01/AC, 10kA                                                        359.74   25   8993.50   2248.38
+Otvoreni prekidač, 3P, 80kA, 3200A, fiksni, prednje priklj.                       61187.63   191162565.00 290641.25
+Kabel H03VV-F (PP/L) 3x0,5mm2, svijetlo-sivi                                         10000   23 230000.00  57500.00
+Poklopac 560x280x30mm sivi - F-G                                                    456.73   10   4567.30   1141.83
+LS-FI (KZS), C/6A/30mA, 1P+N, Tip A, 6kA, serija AMPARO                              206.5    9   1858.50    464.62
+Lano LED 48W, 4000K, 3800lm, IP20, UGR19,120°,M600,bijele b.                        629.88    5   3149.40    787.35
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1975558.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,16 @@
+Račun br. 113896
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Blok pomoćnih kontakata za sklopnike vel. 00, 3 N/O+1 N/C                            41.44   30   1243.20    310.80
+Savitljiva cijev (srednje), M20, 750N, EN3341, 50m, siva                            290.81   30   8724.30   2181.07
+9R09/C/E, 9W E27 CW                                                                   3.37   10     33.70      8.42
+9C07P/W/SE, 7W E14 WW PEARL                                                           6.92   18    124.56     31.14
+
+                                                                                                         ----------
+UKUPNO                                                                                                     10125.76
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

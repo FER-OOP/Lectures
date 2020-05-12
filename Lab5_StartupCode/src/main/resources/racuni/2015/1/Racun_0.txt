@@ -1,0 +1,17 @@
+Račun br. 1090773
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ugradna svjetiljka SERH ECO A1 L1 T5 4x14W ECG M600, bijela                         428.17   11   4709.87   1177.47
+Priključna kutija, čelik, 400x800x120 (VxŠxD), IP66, RAL7035                        665.18   12   7982.16   1995.54
+BEGEH Security Transponder                                                         2674.67    9  24072.03   6018.01
+EURO SPOT INTEGRIRANI LED, 4.000K, 15°,uklj.3F adapter,cr.b.                        875.55   11   9631.05   2407.76
+NV osigurač vel. 00, gG/gL, 160A/500V AC                                              4838   18  87084.00  21771.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    133479.11
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

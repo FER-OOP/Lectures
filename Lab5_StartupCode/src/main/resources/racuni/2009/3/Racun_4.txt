@@ -1,0 +1,26 @@
+Račun br. 498908
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+9S11M/D/SE, 11W E14 DL                                                                3.71   11     40.81     10.20
+Prednja ploča za tipkalo EL735140, bijela                                             2104    2   4208.00   1052.00
+ Nadgr. downl. SOLINA 242 LED 18W 1900lm/840 MAT IP20 70°,bb                        723.82   13   9409.66   2352.42
+FLEXLED ROLL SELECT 24V, 5m, 2700K                                                  500.12    1    500.12    125.03
+L-SE montažna šina MR 2x58 7x2,5mm²                                                 265.28   12   3183.36    795.84
+Plosnate stezaljke 32 x 50mm, visina: 5 - 20mm                                      143.75   20   2875.00    718.75
+Strujni trafo, 1500/5A 64x20                                                        290.12   16   4641.92   1160.48
+Plafonjera ALICA Round TR 1x60W max, E27, IP54, crna                                   195    4    780.00    195.00
+Utičnica za tipkalo EL730200--, bijela                                                2104   18  37872.00   9468.00
+Ugradni downl. SEGON M 170 ECO 13W 1100lm 840 EVG IP44 ,bb                          292.56   22   6436.32   1609.08
+Cube-WL-Q 35W GU10 MR16, 100-240V, IP54, rusty                                      190.58   23   4383.34   1095.83
+Transformator, 1-fazni | 230/024V | 250VA, IP00                                     512.67   15   7690.05   1922.51
+Kabel EYY-J (PP00-Y) 3x10RE                                                        2975.28   28  83307.84  20826.96
+Konektiranje 2x12 LC MM utikača + zašt. za povlačenje                              3840.73    6  23044.38   5761.09
+
+                                                                                                         ----------
+UKUPNO                                                                                                     188372.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

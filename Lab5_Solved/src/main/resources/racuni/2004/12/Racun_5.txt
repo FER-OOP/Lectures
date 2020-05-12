@@ -1,0 +1,22 @@
+Račun br. 969709
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Instal. umetak 3-33L komplet 11 IR prednja pl. plastika                            2289.28   28  64099.84  16024.96
+Signalni fleksibilni kabel YSLY-JZ 18x1,5 sivi                                     3507.59   22  77166.98  19291.75
+BILAS SPOT DOUBLE, 2x15W LED, 2700K, 25°, bijele boje                              2997.68   16  47962.88  11990.72
+Kabelski kanal, bez halogena, 75x100mm (VxŠ), 2m, RAL7035                           163.43    2    326.86     81.71
+Zaštitni prekidač, B karakteristika, 20A, 3-polni+N, 6kA                            112.77   11   1240.47    310.12
+Vezica 188 x 4.8mm, natural (pak.=100 kom.)                                          16.84   21    353.64     88.41
+Gumeni nastavak za plastičnu kapu LKT Ø 70                                           42.51    1     42.51     10.63
+Ind.svj.ARKTUR SQUARE LED 184W 20000lm/757 ECG IP65 110°                           3503.32   21  73569.72  18392.43
+Tipka s ručicom,crna,neosvijetljena,2 polož.,50°,s povratom                          40.08   21    841.68    210.42
+Luxa 102 FL, LED spot 8W, 6000K, zidna, IP44, crna                                   532.7   11   5859.70   1464.93
+
+                                                                                                         ----------
+UKUPNO                                                                                                    271464.28
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

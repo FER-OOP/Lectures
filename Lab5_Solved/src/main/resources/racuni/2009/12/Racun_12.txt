@@ -1,0 +1,18 @@
+Račun br. 520402
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Bezhal. kabel poboljšanih svoj.za sl. požara N2XH-J 5x1,5re                          10000    6  60000.00  15000.00
+Industrijska svj. HB380 LED 21000lm,157W,120°,6000K,RAL9006                         7524.5   22 165539.00  41384.75
+Izolirana sabirnica za 3 rastavne sklopke vel.00, 3P, 35mm²                         384.47    7   2691.29    672.82
+Zaštitni prekidač, C karakteristika, 20A, 3-polni, 10kA                             100.67   22   2214.74    553.68
+6-kutna matica, NUT-HEX-DIN934-I8I-WS13-(A2K)-M8                                     23.65    2     47.30     11.82
+"Stezaljka ""A"" 1P, dovod 70mm²|odvodi: 1x(4x50), clip"                            183.99    5    919.95    229.99
+
+                                                                                                         ----------
+UKUPNO                                                                                                    231412.28
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

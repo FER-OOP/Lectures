@@ -1,0 +1,23 @@
+Račun br. 212717
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+PEYOTE 17cm 360° 8x1W LED, 40° 4000K antracit                                      2289.96    6  13739.76   3434.94
+Shuki-Q/A2 LED 1W 3000K, IP20, aluminij                                             105.76   29   3067.04    766.76
+FID sklopka 63-4-05/AC, 6kA                                                         326.93   15   4903.95   1225.99
+Ugradna svjetiljka SERH 2 A8 L2 T5 1x24W, ECG, bijela                                 8534    8  68272.00  17068.00
+Signalni fleksibilni kabel YSLY-OZ 2x1,5                                             10000   29 290000.00  72500.00
+Bezhalogeni telekomunikacijski kabel J-H(ST)H 10x2x0,6 sivi                          10000   27 270000.00  67500.00
+PHELIA ovjesna svjetiljka 3, crne boje                                              938.06   23  21575.38   5393.85
+Zamjenjiva skala, 96x96mm, 1000/2000/5A AC                                            4399   16  70384.00  17596.00
+Montažni nosač 2H                                                                    10.78    9     97.02     24.25
+LED prespojni kabel RJ45 neoklopljen, cat.6, sivi, 15m                              131.25   25   3281.25    820.31
+Vodotijesna svjetiljka LINDA 2x58W PC EX-ZONE 22 ECG IP65                              762   14  10668.00   2667.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     755988.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

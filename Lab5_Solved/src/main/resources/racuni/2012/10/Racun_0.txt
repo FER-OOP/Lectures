@@ -1,0 +1,15 @@
+Račun br. 484477
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Strujni trafo, 50/5A, za kabel promjera do 21mm                                      83.36   12   1000.32    250.08
+Plastično kućište, 600x400x130mm, IP65, bezhalogeno                                 942.01    2   1884.02    471.01
+Grebenasta sklopka (glavna, sivo/crna), 0-1/4P/32A, na DIN                          215.46    9   1939.14    484.78
+
+                                                                                                         ----------
+UKUPNO                                                                                                      4823.48
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

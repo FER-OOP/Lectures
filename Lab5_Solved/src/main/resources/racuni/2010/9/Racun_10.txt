@@ -1,0 +1,24 @@
+Račun br. 534011
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Modularni okvir za ormar 1800x800mm, 33 reda                                        674.15   27  18202.05   4550.51
+FORCHINI M, PD-1, 50cm, okr.,bijelo/srebrne boje,E27,max.40W                        1495.8   18  26924.40   6731.10
+Instal. umetak 3-39K komplet 13 IR prednja pl. čelik                               2698.58   19  51273.02  12818.26
+Označna pločica tip CSC 7 (100 kom.)                                                  9.83   20    196.60     49.15
+Neizolirana Cu stopica 240mm², M12                                                   37.42   26    972.92    243.23
+"1-struki okvir ""Fashion"", bijeli"                                                  6.27   24    150.48     37.62
+RAZDJELNIK ZA ŠUPLJE STIJENE, 24+4 MODULA, 2-REDNI                                  251.59    6   1509.54    377.39
+Sabirnica, 4P, viličasta, 16mm² (80A)|korak 17.8mm| 1m                              377.51   23   8682.73   2170.68
+Kompaktni prekidač snage tip VE, 3P, 85kA, 1600A                                  45743.49    2  91486.98  22871.74
+Glenos završni pokrov za PROFILE 2020, crne boje, 2 kom                              62.51   24   1500.24    375.06
+Zakretna ručica sa spojkom za vrata, crveno/žuta, IP66                              546.28   17   9286.76   2321.69
+7511R/D, 11W AR111 DL GU10                                                           10.64    7     74.48     18.62
+
+                                                                                                         ----------
+UKUPNO                                                                                                     210260.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

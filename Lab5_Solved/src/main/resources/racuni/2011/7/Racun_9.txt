@@ -1,0 +1,33 @@
+Račun br. 766041
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Jakna s kapuljačom -XXL-                                                            383.49   27  10354.23   2588.56
+N/PE sumarni odvodnik Protec 100kA kl. B/C                                         1375.78    9  12382.02   3095.51
+Kabel H03VV-F (PP/L) 4x0,75mm2, smeđi, 500m kolut                                    10000   25 250000.00  62500.00
+Strujni trafo, 60/5A, Tip TAR3D-60, 30x10mm                                           4398    2   8796.00   2199.00
+Elektronska prigušnica ECG QTi DALI 2x18/220-240 DALI dim                           350.76   22   7716.72   1929.18
+Steve-I-S LED 7W 3000K 82lm, IP65, nehrđajući čelik                                1026.09    5   5130.45   1282.61
+Noel-R/A2 75W G53 AR111, 12V, IP20, bijele boje                                     132.63    7    928.41    232.10
+Zaštitni prekidač, B karakteristika, 10A, 3-polni, 6kA                               87.36   14   1223.04    305.76
+Redna stezaljka (vijčani priključak) 6mm², tip CBC, siva                              4.53    4     18.12      4.53
+Reflektor Matrix 2 rotosimetrični HIT 150W IP66                                    4651.13    9  41860.17  10465.04
+Relej snage, 3C/O, 16A, 24V AC, Faston 187, Tip RM                                  110.98   14   1553.72    388.43
+Montažna ploča, bakelitna, za IG3636.. 310x310x4mm                                    4130    6  24780.00   6195.00
+LED traka 86 RGB HW Ra=90+ 10,7W/m 932lm/m 24VDC,IP44, l=5m                        1393.45   22  30655.90   7663.97
+LED napajanje, 12W, 24V, za ugr.kut.                                                125.36   10   1253.60    313.40
+Slijepa traka, mogućnost plombiranja                                                 29.59   12    355.08     88.77
+Sutil Round  LED 8W, 4000K, 560lm, 120°, IP40, bijele boje                          126.04   24   3024.96    756.24
+Marra LED traka 14,4W/m 2700K 840lm/m, dimabilna, IP68                               483.9    6   2903.40    725.85
+Maskirni razdj. 1M-21, 7-redni, 91 ŠM, 1010x330x200mm(VxŠxD)                       1856.33   30  55689.90  13922.47
+Podnožje za crno-bijeli Bravo i Genius monitor, SB                                   611.8   30  18354.00   4588.50
+Ampermetar, 48x48mm, 25A AC, direktno                                               144.24   14   2019.36    504.84
+AIXLIGHT PRO I okr.FRAME ugradno kućište, srebrne boje                              312.23   30   9366.90   2341.73
+
+                                                                                                         ----------
+UKUPNO                                                                                                     488366.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

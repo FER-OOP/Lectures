@@ -1,0 +1,17 @@
+Račun br. 452617
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kompaktni prekidač snage tip ME, 3P, 85kA, 550A                                   24234.25   14 339279.50  84819.88
+BULAN GRID zidna svj., okrugla, bijela, E27, max. 2x25W                             308.85   23   7103.55   1775.89
+Telefonska žica za ranžiranje YV 2x0,5/0,9 bijela-crvena                            136.59   23   3141.57    785.39
+9821/D/2, 21W 2D 2PIN DL                                                              3.71   10     37.10      9.27
+Sklopnik vel.0 | 4P | AC1 35A/690V | 24VAC                                          171.61    9   1544.49    386.12
+
+                                                                                                         ----------
+UKUPNO                                                                                                    351106.22
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

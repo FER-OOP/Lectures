@@ -1,0 +1,29 @@
+Račun br. 108891
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Sticker Totem Owl, bijele boje                                                      343.66   20   6873.20   1718.30
+Podstanica procesorom za Multi-Control za 36 DCM                                  31496.33   12 377955.97  94488.99
+Zaštitni prekidač, D karakteristika, 40A, 3-polni+N, 10kA                           307.33   14   4302.62   1075.65
+Zaštitni prekidač, B karakteristika, 63A, 1-polni+N, 10kA                           334.98   18   6029.64   1507.41
+AIXLIGHT KARDAFRAME DUO, 2 x ES111 75W GU10                                         938.06    4   3752.24    938.06
+Shunt 60mV, 20A                                                                       4398   12  52776.00  13194.00
+Ampermetarski umetak za TYTAN R, D02, 3P, za 60mm sustav                            479.22   10   4792.20   1198.05
+Ugradna downl. svj. ERM 201 2x18W CCG TC-D IP20, bijela                             210.98    4    843.92    210.98
+Kućište za stezaljke ABS 120/122/65                                                   4130    2   8260.00   2065.00
+LED traka 115 WW Ra=90+, 26,7W/m, 2093lm/m 24VDC,IP44, l=5m                        1828.91    8  14631.28   3657.82
+Transformator, 1-fazni | 400/230V | 2000VA, IP00                                   3484.86   25  87121.50  21780.38
+LELEX 1 sa Power LED tople bijele boje                                              230.68   17   3921.56    980.39
+Stropna ugradna svj. SERM 150 T5 2/28/54W EVG QTI                                   282.03    6   1692.18    423.04
+Izmj. Fronius Symo 6.0-3-M, 6kW, 3f, IP55, TL 2 MppTracker                        18495.75    2  36991.50   9247.88
+BIG THEO UP / DOWN ES111                                                            938.06   29  27203.74   6800.94
+Ugradna svjetiljka SE-ID ECO L1 T5 2x14W ECG M600, bijela                           396.21   30  11886.30   2971.57
+NV osigurač vel. 3, 630A/400V AC                                                    131.71   22   2897.62    724.41
+
+                                                                                                         ----------
+UKUPNO                                                                                                    651931.44
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

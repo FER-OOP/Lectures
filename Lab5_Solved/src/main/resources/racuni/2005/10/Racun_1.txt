@@ -1,0 +1,18 @@
+Račun br. 734555
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Pokrov stezaljki za sklopnike veličine 2                                             14.34    7    100.38     25.10
+SEO LED M625 55W, 4000K, 4500lm, DALI, IP20, opal, RAL9003                         1768.55    5   8842.75   2210.69
+Ugradna svjetiljka SEO XTP T5 2x28W ECG IP54 M625, bijela                          1059.42    6   6356.52   1589.13
+Telekomunikacijski kabel F-YAY 30x2x0,6mm2                                           10000    7  70000.00  17500.00
+Ugradni nosač profila SL                                                              50.2   20   1004.00    251.00
+"Tipkalo s plosnatom tipkom, crno, natpis ""0"", s držačem"                          27.97   23    643.31    160.83
+
+                                                                                                         ----------
+UKUPNO                                                                                                     86946.96
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

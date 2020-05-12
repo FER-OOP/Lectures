@@ -1,0 +1,33 @@
+Račun br. 856029
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+7101L/W, G4 LED 1,5w WW 12v AC/DC                                                     39.7   18    714.60    178.65
+ALPA MUSHROOM ras.stupić, E27 max.24W, srebrne boje                                 625.15   16  10002.40   2500.60
+Sabirnica, 4P, viličasta, 10mm² (63A)|korak 17.8mm| 1m                              321.65   17   5468.05   1367.01
+Par cijevnih nosača 500mm, kromirani, montaža strop                                  172.8    8   1382.40    345.60
+Kompenzacija  LSFC 14% 350/50kvar 800x2110x500mm Samost.orm.                      87314.36   232008230.25 502057.56
+Sklopka 0-1, 16A, 2 N/O, montaža na DIN                                              58.29   18   1049.22    262.30
+Okvir 2M line, plavi                                                                 24.38    1     24.38      6.09
+ARROW R rastavna pruga za D02 osigurače, 3P/50A, sustav 60mm                        301.88   17   5131.96   1282.99
+Levante-M 16 LED 38W 3750lm 4000K LT-L,IP66,SKII,RAL9006                            3855.2   17  65538.40  16384.60
+Reflektor SET 250W HST E40 IP65 crni simetrični                                    1485.11    6   8910.66   2227.67
+Odvodnik prenapona klase C, TT,TN-S 255V/20kA (SET)                                 669.87   18  12057.66   3014.42
+38007A, 10cm kutnik za WW/DL TUBE                                                    26.35    4    105.40     26.35
+Elektronski relej ETU45B sa zašt. funk. LSIN, bez display-a                        8175.95    3  24527.85   6131.96
+Teleskopski nosač                                                                    34.71   21    728.91    182.23
+Kompenzacija  LSFC 7% 100/12,5kvar 800x2000x500mm Sam.orm.                        36857.71   15 552865.69 138216.42
+ZENIT LED 30, zidna i stropna svjetiljka, sive boje                                1558.31   14  21816.34   5454.08
+Finožični PVC-om izolirani vodič H07V-K (P/F) 4mm2, bijeli                          313.72   22   6901.84   1725.46
+Samoljepljiva oznaka PE/N, Ø15mm, žuto/zeleno/plava                                   1.58   16     25.28      6.32
+Piktogram Linda 11W strelica napored, vidljivost 20m                                 22.72   24    545.28    136.32
+DASAR EXACT MR16, okrugla, podna ugradna svjetiljka                                 687.83   17  11693.11   2923.28
+Kruta pojačana cijev, M63, 750N, EN3342, HF, crna, 3m                             11165.89   20 223317.80  55829.45
+
+                                                                                                         ----------
+UKUPNO                                                                                                    2961037.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

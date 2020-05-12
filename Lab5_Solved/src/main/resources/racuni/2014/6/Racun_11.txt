@@ -1,0 +1,18 @@
+Račun br. 990978
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LED panel okrugli 60, 3000K, bijele boje                                           1433.11   25  35827.75   8956.94
+SRM-230V relejni modul za povećanje snage uklapanja                                 283.96   19   5395.24   1348.81
+Delora-R LED 4x0,2W, IP20, aluminij                                                  77.21    9    694.89    173.72
+Senzor prisut. stropni, thePrema P360-101, 100m2,master,bij                         2210.3    6  13261.80   3315.45
+7818, NEONFLEX RBL kontroler                                                         37.67    9    339.03     84.76
+Izolirana natična stopica, 6.3, crvena, 0.25-1mm2 (100 kom.)                         58.98   11    648.78    162.19
+
+                                                                                                         ----------
+UKUPNO                                                                                                    56167.492
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

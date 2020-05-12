@@ -1,0 +1,28 @@
+Račun br. 423746
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Univerzalna stez. za lamelirane Cu sabirnice 5x24x1 -10x30x1                         77.66   24   1863.84    465.96
+7902R/AL, Aluminijski ugradni profil 2m + PC opalni pokrov                          146.65   12   1759.80    439.95
+ES111 Modul za AIXLIGHT PRO ugradno kućište, srebrne boje                           155.78    6    934.68    233.67
+Strukturirano staklo za AIXLIGHT PRO ugradno kućište                                 43.76   16    700.16    175.04
+Bezhalogeni jednožilni vodič H07Z-K 35mm2, crni                                      10000    6  60000.00  15000.00
+Okomita vodilica kabela za DS/DSZ/DSI ormare 22U                                    147.01   26   3822.26    955.57
+Kabel LiYCY 8x0,14                                                                   10000   26 260000.00  65000.00
+Plosnate stezaljke 50 x 63mm, visina: 5 - 20mm                                      245.85   15   3687.75    921.94
+Gljivasto tipkalo bez povrata, crveno, deblokada pritiskom                            61.1   20   1222.00    305.50
+"Zidni kom. ormar DW, bočne stranice, 600x635x595, 19"", 12U"                       1240.1    7   8680.70   2170.18
+Osram elektronski transformator HTM 150 12V, 150VA                                  312.23   13   4058.99   1014.75
+Reflektor FORCA LED 151W 17050lm/765 ECG IP65, as uski,sb                          4134.73    3  12404.19   3101.05
+Zaštitni prekidač, D karakteristika, 13A, 1-polni, 10kA                               56.1   15    841.50    210.38
+Poliester ormar 440x1080x320mm (ŠxVxD), 1 vrata,IP43,RAL7032                       4744.87    3  14234.61   3558.65
+"""Synchro"" uklopni sat, dnevni program"                                           403.19   28  11289.32   2822.33
+Signalni fleksibilni kabel YSLCY-JZ 12x 0,75 sivi                                  2216.28    7  15513.96   3878.49
+
+                                                                                                         ----------
+UKUPNO                                                                                                    401013.78
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

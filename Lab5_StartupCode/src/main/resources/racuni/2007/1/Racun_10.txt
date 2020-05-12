@@ -1,0 +1,15 @@
+Račun br. 459016
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Style 5 kit, 3 stana, audio, P/Ž / N/Ž, 5 žica                                      855.06   21  17956.26   4489.06
+Icarus-Q LED 2x3W 3000K 500lm, IP54, bijele boje                                    662.99   25  16574.75   4143.69
+CORONA stropna svjetiljka, CL-1, okrugla,krom, E27, max. 60W                        449.94   26  11698.44   2924.61
+
+                                                                                                         ----------
+UKUPNO                                                                                                     46229.45
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

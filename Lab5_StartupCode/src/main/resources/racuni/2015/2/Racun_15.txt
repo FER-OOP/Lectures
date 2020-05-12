@@ -1,0 +1,23 @@
+Račun br. 425832
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ind.svj.ARKTUR SQUARE LED 113W 9900lm/840 ECG IP65 120x40°                         2733.37   30  82001.10  20500.28
+Berry LED 16W, 3000K, 960lm, 230V, IP65, plastika, bijele b.                        331.49   29   9613.21   2403.30
+Kemijska olovka, plava, Schrack                                                       8.07    5     40.35     10.09
+Spojnica za sabirnice 12x5mm do 20x10mm, 520A, duljina 150mm                        138.48   28   3877.44    969.36
+Adapter za elektroničke uređaje, biserno bijeli                                      14.06    8    112.48     28.12
+ARROW-BLOC vel.3 za sustav 100mm, odlaz gore                                          4821   23 110883.00  27720.75
+Redna stezaljka (utični priključak) 6mm², tip HMM.6, plava                            8.13    6     48.78     12.19
+Kabelski kanal 80x25 (VxŠ), 2m, perforirani, sivi, RAL7030                           29.51   26    767.26    191.82
+Strujni trafo 400/5, 2.5VA, class 1, za SI337010...020...030                        227.39   12   2728.68    682.17
+Visokonaponsko grlo, GU 10 sa 15cm kabela                                            19.26    4     77.04     19.26
+Bezhal. kabel s konc.zaštitnim Cu vodičem N2XCH 4x185sm/95                           10000    4  40000.00  10000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    250149.36
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

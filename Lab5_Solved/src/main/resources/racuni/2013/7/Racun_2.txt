@@ -1,0 +1,14 @@
+Račun br. 1094990
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+EURO SPOT ECG 35, 60°, srebrnosiva                                                  938.06   22  20637.32   5159.33
+Optički prespojni kabel duplex, LC/LC, 50/125µm OM2, 10.0m                          115.23   11   1267.53    316.88
+
+                                                                                                         ----------
+UKUPNO                                                                                                     21904.85
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

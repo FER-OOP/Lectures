@@ -1,0 +1,15 @@
+Račun br. 577304
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zaštitni prekidač AMPARO 6kA, C 10A, 2-polni                                         55.46   15    831.90    207.97
+Otvoreni prekidač, 3P, 80kA, 3200A, izvl., vod. str. priklj.                      77122.58    8 616980.63 154245.16
+Lokot za zaključavanje MZ3                                                           33.61   26    873.86    218.46
+
+                                                                                                         ----------
+UKUPNO                                                                                                     618686.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

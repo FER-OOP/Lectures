@@ -1,0 +1,21 @@
+Račun br. 409643
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ugradni downl. SEGON LED 20W DALI 1900lm/840 MAT IP20 70°,bb                        723.82    6   4342.92   1085.73
+Završni pokrov za nosače sabirnica SI012310-- i SI012320--                           21.24   30    637.20    159.30
+Prespojni kabel RJ45 cat.5e neoklopljen, PVC, sivi, 1.0m                               5.9   30    177.00     44.25
+LED ES111, CREE XT-E LED, 17W, 30°, 4000K, CRI>90, d                                625.15   15   9377.25   2344.31
+Linijska svjetiljka SOLO 2 1x21W ECG T5 bijela                                      172.51   15   2587.65    646.91
+Zaštitni prekidač AMPARO 6kA, B 10A, 3P+N                                            98.25    4    393.00     98.25
+DC pomoćni sklopnik | 4A [AC15] | 24V DC | 4N/O                                     298.23   24   7157.52   1789.38
+KALU TRACK QRB111, bijele b., max. 50W, uklj. 3-f adapter                           750.35   26  19509.10   4877.27
+Stezaljka pomoćnog kruga, za MC3/4 (vijčane stezaljke)                               40.65   24    975.60    243.90
+
+                                                                                                         ----------
+UKUPNO                                                                                                    45157.242
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

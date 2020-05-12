@@ -1,0 +1,14 @@
+Račun br. 941113
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+SAIL zidna svj., WL 2, crne b., 2x3W LED, tbb                                        844.8   22  18585.60   4646.40
+DASAR EXACT MR16, okrugla, podna ugradna svjetiljka                                 687.83   17  11693.11   2923.28
+
+                                                                                                         ----------
+UKUPNO                                                                                                     30278.71
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

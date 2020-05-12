@@ -1,0 +1,23 @@
+Račun br. 147646
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+BIG THEO up/down OUT ES111 zidna svj.,četvrt.,bi.b,max.2x75W                        875.55   26  22764.30   5691.07
+NV podnožje 3P, vel.00|160A, na ploču, M8                                           168.16   27   4540.32   1135.08
+Montažna ploča, bakelitna, za IG1313.. 98,5x98,5x3mm                                  4130   30 123900.00  30975.00
+Levante-M 28 LED 66W 6450lm 4000K LT-L,IP66,SKII,RAL9006                              4459   10  44590.00  11147.50
+Tipka MO 2M, crna                                                                     9.22    6     55.32     13.83
+LS-FI (KZS), C/20A/30mA, 1P+N, Tip AC, 10kA                                         309.93   24   7438.32   1859.58
+7812, NEONFLEX konektor                                                              29.39    1     29.39      7.35
+Zaštitni RC modul 110-240V AC za podnožje MT78740                                    32.76   19    622.44    155.61
+Svjetiljka Solo Line T5 1x28W,ECG, bijele boje                                      258.92   20   5178.40   1294.60
+SQUARE GU10 Downlight, bb                                                           155.78   25   3894.50    973.63
+"Pokrov za stezaljke tip ""A"", duljina 1m"                                         116.96   17   1988.32    497.08
+
+                                                                                                         ----------
+UKUPNO                                                                                                     215001.3
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

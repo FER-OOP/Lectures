@@ -1,0 +1,15 @@
+Račun br. 814408
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Metalhalogena žarulja HIE-P 100W/WDL COATED E27 FS1                                 379.77    8   3038.16    759.54
+BK koaks. presp. kabel IEC-m/IEC-ž,ravni,kl.A,bijeli,1.5m                            12.93    7     90.51     22.63
+DII podnožje E27|3P, 25A/500V, montaža na sustav 60mm                                 80.2   26   2085.20    521.30
+
+                                                                                                         ----------
+UKUPNO                                                                                                      5213.87
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

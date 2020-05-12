@@ -1,0 +1,23 @@
+Račun br. 794292
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kabel H05VVC4V5-K 4x0,75 sivi                                                        10000    8  80000.00  20000.00
+LYNAH LED ovjesna svjetiljka, 2x10W 3000K double, crne boje                        1871.23   24  44909.52  11227.38
+LED PAR16 50 DIM 4,6W 230V 36° 840 350lm 750cd GU10 25000h                           74.18   22   1631.96    407.99
+T8 LED zakretna cijev, 25W, 4000K, 2250lm, 230V, 150cm                              146.65   30   4399.50   1099.88
+Vijak sa upuštenom glavom, za drvo, 4x40mm                                           20.42   18    367.56     91.89
+PVC-om izol.kabel za srednja meh.opt. YMS -J 5x16 crni                               10000   10 100000.00  25000.00
+Tuljci, izolirani, 6mm2, L2=12mm (pak.100 kom)                                        25.8   19    490.20    122.55
+T-Shirt siva -XL-                                                                    46.02    7    322.14     80.54
+Stolni nosač za SMART monitor                                                      1291.76    5   6458.80   1614.70
+SAIL zidna svj., WL 2, crne b., 2x3W LED, tbb                                        844.8   23  19430.40   4857.60
+GLENOS završni pokrov za Regal profile, 2 kom, bijele boje                           93.26    2    186.52     46.63
+
+                                                                                                         ----------
+UKUPNO                                                                                                     258196.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

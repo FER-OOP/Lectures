@@ -1,0 +1,19 @@
+Račun br. 897229
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Nosač sabirnica centralnog napajanja, 3P, srednji                                     4836   26 125736.00  31434.00
+Zaštitna kapica za tipkalo, od Elastolana,prozirna, IP67                             10.07   16    161.12     40.28
+Postolje za nazidne razdjelnike, bočni dio, 300mm (par)                             149.44   28   4184.32   1046.08
+Teretna sklopka, 3P, 63A, opcija: daljinski isklop                                  669.76   17  11385.92   2846.48
+Poklopac za razvodnu kutiju 80x80mm GTDW140--                                        307.7    1    307.70     76.93
+Stroj za savijanje za EASYTEC II                                                   1558.31    6   9349.86   2337.47
+STAKLO za 10242AG , satinirani rubovi                                                 7.94   27    214.38     53.60
+
+                                                                                                         ----------
+UKUPNO                                                                                                     151339.3
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

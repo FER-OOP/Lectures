@@ -1,0 +1,18 @@
+Račun br. 288215
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Signalni kontakt za FID sklopke                                                      51.79   17    880.43    220.11
+LED TRACKSPOT bijela,3x3W toplobij.10*uklj. 3f.adapter                              731.77   11   8049.47   2012.37
+Vezna spojnica V4A, 2-djelna, vodič Ø10 i pl.30| sonda Ø20mm                         76.01   24   1824.24    456.06
+Relej za nadzor napona, 3 fazni, 1 C/O, fiksno: 195,5V                              330.13    2    660.26    165.07
+Ugradna downlight svjetiljka ERK 207 2-26 TC-DEL ECG bijela                         288.08   18   5185.44   1296.36
+Ovjesna svjetiljka OFFICE ECO DIR/IND PAR 1x49W ECG, siva                           480.92   20   9618.40   2404.60
+
+                                                                                                         ----------
+UKUPNO                                                                                                     26218.24
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,20 @@
+Račun br. 217364
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Završni poklopac SLT sa vijcima                                                     104.83    3    314.49     78.62
+Cilindrični osigurač, 8x31, 25A, gG, 400V AC                                          2.85    7     19.95      4.99
+FITU E27 ovjesna svj., E27, max. 60W, okrugla, crvene boje                          249.72   22   5493.84   1373.46
+Motorna zaštitna sklopka, 3-polna | 6.3 - 10.0A                                     204.98    2    409.96    102.49
+KARDAMOD SURFACE četvrtasti ES111 SINGLE, GU10, crne boje                           687.83    9   6190.47   1547.62
+WALLYX GU10 zidna svj., tamni antracit                                              500.12   27  13503.24   3375.81
+NV podnožje, vel.00, M8/mostić, 1-pol.                                                4821   27 130167.00  32541.75
+Ben-I-R LED 3x3W 3000K 450lm, IP54, aluminij                                        498.43    7   3489.01    872.25
+
+                                                                                                         ----------
+UKUPNO                                                                                                    159587.97
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

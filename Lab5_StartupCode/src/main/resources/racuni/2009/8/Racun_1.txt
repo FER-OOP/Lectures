@@ -1,0 +1,15 @@
+Račun br. 394131
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Tipka s ručicom,zelena,osvijetljena,2 polož.,50°,s povratom                          44.43   30   1332.90    333.23
+Plasto LED 30W, 3000K, 1800lm, 230V, IP65,plastika,bijele b.                        649.65    4   2598.60    649.65
+LED Driver za Lano 1200mA 48W LED panele                                            161.35   13   2097.55    524.39
+
+                                                                                                         ----------
+UKUPNO                                                                                                      6029.05
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,20 @@
+Račun br. 233827
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ankeri za beton za VAP, nehrđ.čelik 304                                              187.2   13   2433.60    608.40
+Priključna kutija, nehrđajući čelik, 150x150x120(VxŠxD),IP66                        993.94   20  19878.80   4969.70
+Traka označna 10 x 21-30 za HMM2 i CBC.2                                              4850    5  24250.00   6062.50
+89006W, LED DRIVER 12v 0-6w , ulaz 230v                                              72.99   23   1678.77    419.69
+Pribor za ovjes 2m, uklj. stropni nosači                                              33.5    8    268.00     67.00
+Spojnica motorke BES0 i i sklopnika vel.0 / za AC                                    19.26    7    134.82     33.71
+Kabel H03VV-F (PP/L) 3x0,75mm2, bijeli, 100m kolut                                  226.68   21   4760.28   1190.07
+VAYNISSA zidna i stropna svjetiljka, 4x LED, bijele boje                            875.55    6   5253.30   1313.32
+
+                                                                                                         ----------
+UKUPNO                                                                                                     58657.57
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,23 @@
+Račun br. 581337
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zaštitni prekidač sa svojstvima rastavljača,C100A,3-polni+N                        1055.35   16  16885.60   4221.40
+Grebenasta sklopka, 0-1/4P/20A, na DIN, sa ručicom na vrata                         218.79    4    875.16    218.79
+Maskirni razdjelnik 4 širine brojila/ 21 MV                                           4180   14  58520.00  14630.00
+3f reflektor VITO LED 29W 2250lm/840 20°, bijele boje                               1000.9   21  21018.90   5254.73
+Podložna pločica za zakretnu ručicu za M2000, RAL7035                                 4160    9  37440.00   9360.00
+89024E, RGB kontroler za 24vDC LED traku                                            344.67   22   7582.74   1895.69
+Pločica + nosač 30x50mm, natpis: I 0 II                                               8.94   17    151.98     37.99
+Umetak tipkala, na oprugu                                                            12.35   17    209.95     52.49
+Plano Square LED Plafo, 22W, 3000K, 1490lm, IP40, bijela                             425.1   23   9777.30   2444.32
+"Sobno signalno svjetlo ""Comfort"", crveno-zeleno"                                   2104   27  56808.00  14202.00
+Aluminijski montažni nosač 4H                                                         26.1    3     78.30     19.58
+
+                                                                                                         ----------
+UKUPNO                                                                                                    209347.92
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

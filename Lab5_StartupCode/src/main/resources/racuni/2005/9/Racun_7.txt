@@ -1,0 +1,24 @@
+Račun br. 635518
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zaštitni prekidač, D karakteristika, 16A, 2-polni, 10kA                             105.59    6    633.54    158.38
+Držač za instalacijsku cijev M32, svijetlo-sivi (100 kom.)                           185.9    8   1487.20    371.80
+7308GD/W/45, LED 7w dimabilna GU10 WW 45 °                                           57.44    9    516.96    129.24
+LED RF WiFi kontroler DW predajnik - 6 zona                                         836.68   10   8366.80   2091.70
+Regulator temp. i vlage 0 - 60°C, 50-90% rF, 1 C/O kontakt                          982.67    2   1965.34    491.34
+Okvir 7M line, plavi                                                                 61.27   18   1102.86    275.71
+Noel-S/A2 2x50W GU10 MR16, 100-240V, IP20, bijele boje                              185.68   17   3156.56    789.14
+Pokrov za zaštitu od dodira u sustavu 185mm, širina 50mm                             48.09   28   1346.52    336.63
+Industrijska svj. CERES 1x99W,LED 1-10V,8800lm/750, crna                              8536   20 170720.00  42680.00
+Zaštitni prekidač, B karakteristika, 63A, 1-polni, 6kA                               56.82    3    170.46     42.61
+Zaštita od dodira priključnih stezaljki, za 3-polne MC1                              44.35   12    532.20    133.05
+Grebenasta sklopka, 1-2/1P/20A,na vrata,centralno učvršćenje                        211.08   19   4010.52   1002.63
+
+                                                                                                         ----------
+UKUPNO                                                                                                    194008.95
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

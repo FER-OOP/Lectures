@@ -1,0 +1,32 @@
+Račun br. 700012
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Plafonjera ALICA Round OP 1x22W, CCG IP54, crna                                     247.75   12   2973.00    743.25
+Palos-II-R/A2 35W G8,5, 230V, IP20, bijele boje                                     277.26   12   3327.12    831.78
+Redna stezaljka (vijčani priključak) 16mm², žuto/zelena                               4850   21 101850.00  25462.50
+Ovjesna svj. OFFICE EXE II LED opal 71W 5000lm/840, Ral 9003                        2863.5   15  42952.50  10738.13
+Otvoreni prekidač, 3P, 55kA, 1600A, fiksni,vod. str. priklj.                      22788.06    3  68364.18  17091.04
+Pozivno tipkalo za medicinsku sestru, odvojeni binarni ulaz                           2104    3   6312.00   1578.00
+Ugradna svjetiljka SERH 2 T8 2x18W ECG M625, bijela                                    334   22   7348.00   1837.00
+KALOS ASL D-ulič.optika 20+10LED,4000K 70W,antracit, 2 kraka                       4897.99    8  39183.92   9795.98
+7311AG/W, 11w GU10 WW                                                                 5.74   13     74.62     18.65
+Isklopnik 3 N/O 16A, montaža na DIN nosač                                            71.39   25   1784.75    446.19
+Bezhalogeni vatrodojavni instal.kabel JB-H(ST)H 8x2x0,8 E90                          10000   29 290000.00  72500.00
+Zaštitni prekidač, C karakteristika, 25A, 3-polni+N, 6kA                            112.77    9   1014.93    253.73
+Signalna LED svjetiljka na DIN nosač, žuta, 230V AC                                  44.07    4    176.28     44.07
+Montažni nosač 2H                                                                    10.78    4     43.12     10.78
+Kabel H05VV-F (PP/J) 10x1,5mm2, svijetlo-sivi, 100m                                  10000   14 140000.00  35000.00
+Industrijska utičnica, 5 polna, 16A, IP44, ugradna, kosa                             63.89    6    383.34     95.83
+DOWNUNDER LED 14, zidna ugradna svjetiljka,tople bb,kam.siva                        312.23    4   1248.92    312.23
+TYTAN HR11 relej za ukupni nadzor, 2 C/O, 5A / 250V AC                              341.65    4   1366.60    341.65
+Megaman LED žarulja oblik. svijeće E14 5,5W 2800K 470lm opal                          98.2    6    589.20    147.30
+Mehanička blokada za MC4                                                            963.12    7   6741.84   1685.46
+
+                                                                                                         ----------
+UKUPNO                                                                                                     715734.3
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,33 @@
+Račun br. 1004830
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Reed-II-L-R 2x26/32/42W G24q, 230V, IP20, brušeni krom                                7.77   22    170.94     42.74
+Paralelna spojnica (kratkospojnik) za 5 stezaljki IK110002--                          4850   10  48500.00  12125.00
+Bezhalogeni vatrodojavni instal. kabel JB-H(ST)H 20x2x0,8 E3                         10000   14 140000.00  35000.00
+Kompaktni prekidač snage tip VE, 3P, 150kA, 630A+izvl. modul                      24305.92    1  24305.92   6076.48
+"10"" napojna letva, 3xshuko, 1U, kabel 2m, RAL7035, alu"                           256.45   14   3590.30    897.58
+Bezhal. kabel HSLH-JZ4x2,5FRNC H-F 1žila ž/z ostale crn/siv                          10000   19 190000.00  47500.00
+Ormar za baterije prazan 800x1950x600 (ŠxVxD) 6 polica,cokl                       15590.67    5  77953.35  19488.34
+Okvir za prekidač MO1 4-pol 1000A horiz., 4 pom konektora                          8182.73   15 122740.95  30685.24
+Modularna prednja ploča sa otvorom za 2x35 modula, 800x300mm                        191.38   11   2105.18    526.30
+Kompaktni prekidač snage tip A, 3P, 36kA, 400A                                      3033.7   15  45505.50  11376.38
+Ampermetar, montaža na DIN nosač, AC, 25A, direktno                                 262.11    8   2096.88    524.22
+LED ES111, 6,5W, COB LED, 2700K, 38°                                                280.98   29   8148.42   2037.11
+NEW TRIA MINI DL četvrtasti Set, 3W, 3000K, 30°, brušeni al.                        312.23   11   3434.53    858.63
+NEW TRIA DLMI ROUND Downlight, mat bijele boje, 3000K, 60°                         1433.11   12  17197.32   4299.33
+"DE-EMBEDDED LINE prespojni panel 10xRJ45 cat.6 oklop.,10"",1U"                     537.25    8   4298.00   1074.50
+Prednja ploča, čelična, slijepa, 3B1                                                  4160   15  62400.00  15600.00
+Univerzalni dimer sa tipkalom 20- 400W, umetak, R, L, C                             983.35   18  17700.30   4425.07
+Valo-R/A2 LED 45W 4000K 3000lm, IP20, sive boje                                     795.63    3   2386.89    596.72
+Digitalni šifrarnik, IKALL, 2 releja                                                1753.8    2   3507.60    876.90
+Instalacijski sklopnik 25A | 1 N/O + 3 N/C | 230VAC/DC, 2ŠM                         214.15   22   4711.30   1177.82
+Rezervni ključ MS1 standard                                                          32.76   18    589.68    147.42
+
+                                                                                                         ----------
+UKUPNO                                                                                                    781343.06
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

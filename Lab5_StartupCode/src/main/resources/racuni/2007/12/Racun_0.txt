@@ -1,0 +1,23 @@
+Račun br. 274648
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+P/Ž kada za BK071... , KVM, 1-redni, 12+2 modula                                    101.83   13   1323.79    330.95
+Elektronski transformator FN II, 12V, 105VA                                         124.69    5    623.45    155.86
+Priključna kutija, nehrđajući čelik, 200x300x120(VxŠxD),IP66                       1235.29   15  18529.35   4632.34
+Utičnica (bez pr. pl.)zašt. za djecu,16A,umetak, bis. bijela                          2114   24  50736.00  12684.00
+Prespojni kabel RJ45 cat.6 oklop.,s pregibnicama,crveni,3m                           20.53   14    287.42     71.86
+Blokada poklopca, lokot/plombiranje, za rastavljač vel. 1-3                          18.39    7    128.73     32.18
+Kompenzacija  LSFC 14% 250/50kvar 800x2110x500mm Samost.orm.                      66453.58    5 332267.88  83066.97
+LED G9 žarulja, 2.5W, 2700K, 180°                                                   124.52   30   3735.60    933.90
+Zamjenjiva skala, 96x96mm, 80/160/5A AC                                               4399   26 114374.00  28593.50
+Ovjes za 1-faznu 3-f šinu, crna boja, 3m                                             87.01   16   1392.16    348.04
+Small Connect, priključna stezaljka 10mm² za BS990170--                                9.1   14    127.40     31.85
+
+                                                                                                         ----------
+UKUPNO                                                                                                    523525.78
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

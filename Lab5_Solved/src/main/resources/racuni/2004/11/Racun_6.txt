@@ -1,0 +1,25 @@
+Račun br. 522810
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+DC zaštitni prekidač, C 25A, 1-polni, 10kA                                            70.4    3    211.20     52.80
+Teški gumeni kabel H07RN-F 1x150, crni                                               10000   19 190000.00  47500.00
+WAVE WALL zidna svjetiljka, 2x4,6W LED, 3000K, 700lm, al.                          1250.97   16  20015.52   5003.88
+DAQ sigurnosna lampa ERT-LED 230V za CPS MIX mod, stropna                          1082.05   27  29215.35   7303.84
+GLENOS završni pokrov za profile 2609, četvrtasti, crne boje                        124.52   10   1245.20    311.30
+FlexLED Roll Pro, bijele b., 1m, 60LED/m, DC 24V                                    218.46   15   3276.90    819.23
+Plosnate stezaljke 20 x 40mm, visina: 5 - 20mm                                        4832    2   9664.00   2416.00
+Okvir 2x2M line, bež                                                                 11.88    4     47.52     11.88
+CORDA ovjesna svjetiljka, crne boje                                                1063.26    9   9569.34   2392.33
+Teretna sklopka , 4 x 230V AC, 8A                                                  1482.39    3   4447.17   1111.79
+"19"" pokrov/nosač za LED rasvjetu DV900337, 1U, RAL7035"                            58.61   18   1054.98    263.74
+Distribucijski blok, 4P, 80A, po polu: 1x16mm² | 8x10mm²                             125.2    7    876.40    219.10
+Neizolirana Cu stopica 150mm², M12                                                   19.68   22    432.96    108.24
+
+                                                                                                         ----------
+UKUPNO                                                                                                    270056.53
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

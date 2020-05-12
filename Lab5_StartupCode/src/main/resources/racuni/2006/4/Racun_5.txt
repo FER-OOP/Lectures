@@ -1,0 +1,22 @@
+Račun br. 590685
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Blok pomoćnih kontakata|1 N/O + 1 N/C|10A za inst. sklopnike                        105.75    9    951.75    237.94
+Zaštitni prekidač MB 18kA CL 80/4                                                   617.24   20  12344.80   3086.20
+Signalni fleksibilni kabel YSLCY-JZ 5x16 sivi                                     13654.91   23 314062.94  78515.73
+Priključna stezaljka, 35mm², ravna, jezičasta                                        31.85   22    700.70    175.18
+SOPRANA,  CL-1, okrugla, bež tekstil, E27                                            844.8   25  21120.00   5280.00
+SOPRANA BOW svjetiljka, SL-1, bijelo sjenilo, E27, max. 60W                        1808.71    6  10852.26   2713.06
+Vezica 203 x 2.5mm, natural (pak.=100 kom.)                                           8.34   22    183.48     45.87
+Video vanjski panel, 6 tipki, sa PTT otvorom                                          4690   14  65660.00  16415.00
+VANDALCOM audio modul, 2 tipke                                                      564.47   15   8467.05   2116.76
+"Grebenasta sklopka, ""HAND-0-AUTO""/2P/20A, na DIN nosač"                          319.66   25   7991.50   1997.88
+
+                                                                                                         ----------
+UKUPNO                                                                                                    442334.47
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

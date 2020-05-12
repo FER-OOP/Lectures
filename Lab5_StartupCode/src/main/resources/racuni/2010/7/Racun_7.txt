@@ -1,0 +1,17 @@
+Račun br. 263128
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zaštitni prekidač MB 18kA CL 50/3                                                   458.97   21   9638.37   2409.59
+"Opt. razdjelnik, 4 niti LC 50/125µm OM4, izvlačivi,19"",1U"                         725.2   22  15954.40   3988.60
+Nazidni okvir bez vrata za Modul 2000 | 2A-42 | dubina 250mm                       1885.08    4   7540.32   1885.08
+Prednja ploča za pneumatsko tipkalo EL735150, biserno bijela                          2104   20  42080.00  10520.00
+Nico-R/A1 35W GU10 MR16, 100-240V, IP65, antracit                                   198.86   15   2982.90    745.72
+
+                                                                                                         ----------
+UKUPNO                                                                                                     78195.99
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

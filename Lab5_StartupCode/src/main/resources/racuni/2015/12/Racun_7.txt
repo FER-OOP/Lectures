@@ -1,0 +1,22 @@
+Račun br. 130457
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LED Driver dim. 350mA, 7,5-15W, ulaz 230V                                           145.81    2    291.62     72.90
+ACRYLBOX 1kom QRB111, crne b./prozirno                                              875.55   30  26266.50   6566.63
+Ovjesna svjetiljka OFFICE ECO DIR/IND PAR 2x49W ECG, siva                           509.77   12   6117.24   1529.31
+Prsten za izjednačenje sa žbukom 60x12mm crveni                                     150.68    8   1205.44    301.36
+Ida LED 3W, 3000K, 55lm, IP65, alu, bijele boje                                     331.49    7   2320.43    580.11
+Motorna zaštitna sklopka, 3-polna | 0.22 - 0.32A, vel.S00                           167.32   20   3346.40    836.60
+Savitljiva cijev (srednje) plašt,750N,M25, 50m, EN3341, siva                        721.72   11   7938.92   1984.73
+LIGHT EYE MR16 Spot za LINUX LIGHT, krom                                            437.43   13   5686.59   1421.65
+BIMA II glava svj.bijelaGU10,2x50Wmax.uklj. 3f.adapter                              531.37   15   7970.55   1992.64
+Nosač natpisa                                                                         8.37   26    217.62     54.40
+
+                                                                                                         ----------
+UKUPNO                                                                                                     61361.31
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

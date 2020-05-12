@@ -1,0 +1,19 @@
+Račun br. 342206
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Odvijač križni  izol. crveni                                                          2303    5  11515.00   2878.75
+Mikro sklopnik | 2.2kW (5A) [AC3] | 24V AC | 3NO + 1NO                               81.13   17   1379.21    344.80
+Sabirnica (češalj) za ožičenje podnožja RT7872P                                       3.17   15     47.55     11.89
+Spojnica (koljeno) M25, bez halogena, crna (pak. 10 kom.)                          1478.16   30  44344.80  11086.20
+Bakreno uže 50 mm2                                                                 5290.89   12  63490.68  15872.67
+"19"" profil / šina 12U za zidne komunikacijske ormare tip DW"                       44.25   28   1239.00    309.75
+Samoljepljive oznake za tipke (svjetlo/zvono/ključ/strelice)                          5.71   25    142.75     35.69
+
+                                                                                                         ----------
+UKUPNO                                                                                                    122158.99
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

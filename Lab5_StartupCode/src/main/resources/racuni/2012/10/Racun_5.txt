@@ -1,0 +1,31 @@
+Račun br. 835291
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Solid LED traka u kućištu, 15W, 1095lm, 4000K, IP20, siva                           298.38   17   5072.46   1268.11
+Kronos-II-Q/A2 50W G53 AR111, 12V, IP20, sive boje                                  126.04   30   3781.20    945.30
+Okvir 3x2M line, plavi                                                               34.38    1     34.38      8.60
+SLR spojnica profila                                                                 50.26   12    603.12    150.78
+Poklopac za zašt. od prašine za tooll. module, zeleni, 25kom                          19.6   20    392.00     98.00
+Završni pokrov za aluminijski profil sa pokrovom, sreb.boje                          62.51   15    937.65    234.41
+Tipka sa simbolom ključa, termički postojana, bijela                                 29.18   25    729.50    182.38
+LOGICOM N/Ž kućište s krovićem, 2 modula                                           1031.88   11  11350.68   2837.67
+FID sklopka 80-4-03/B (za sve oblike dif. struje), S izvedba                       8787.31    4  35149.24   8787.31
+Kabelski kanal 80X40 (VxŠ), 2m, perforirani, sivi, RAL7030                           36.55   10    365.50     91.38
+Zamjenski senzor za Bat-Logg u sustavu  NLBT.M184                                   649.95   12   7799.40   1949.85
+Poliester ormar,vrh zatv. dno otv.,2 vrata 750x1000x300(VŠD)                       4268.67   28 119522.76  29880.69
+Kabel LiYY 36x0,25                                                                   10000   12 120000.00  30000.00
+Uvodnica MO 1M za ulaz/izlaz kabela, bijela                                           5.16    8     41.28     10.32
+Sklopka+LED, 16A, 230VAC/DC, 2 N/O, montaža na DIN                                   93.17    8    745.36    186.34
+LED PAR16 80 DIM 7,2W 230V 36° 827 575lm 1439cd GU10 25000h                          104.9    9    944.10    236.02
+Signalni fleksibilni kabel YSLCY-JZ 4x 0,5 sivi                                      10000   10 100000.00  25000.00
+Grebenasta sklopka (glavna, sivo/crna), 0-1/3P/40A (15kW)                           400.61   24   9614.64   2403.66
+Utičnica, 16A, zaštita za djecu, umetak, alu efekt                                   77.24    2    154.48     38.62
+
+                                                                                                         ----------
+UKUPNO                                                                                                    417237.72
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

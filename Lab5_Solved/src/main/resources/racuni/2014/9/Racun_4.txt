@@ -1,0 +1,22 @@
+Račun br. 1058061
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+NAUTILUS vanj.reflektor, MR16, IP67, inox                                           562.63   23  12940.49   3235.12
+Dimer 40-400W, sa on/off prekidačem, podžbukni                                      228.21   12   2738.52    684.63
+IP68 spojna kutija, 3polna                                                            66.9   29   1940.10    485.03
+Ind.svj.ARKTUR SQUARE LED 113W 9900lm/840 ECG IP65 120x40°                         2733.37   14  38267.18   9566.79
+MEDO 40 LED, ugradna svjetiljka, crvene boje                                       1250.97   20  25019.40   6254.85
+MEDO 60 stropna svjetiljka, četvrt.,srebrne boje,4xT5 24W                          2184.14   15  32762.10   8190.52
+LED SN napajanje 50W/24V IP20                                                       417.71   13   5430.23   1357.56
+Kompaktni prekidač snage tip ME, 3P, 85kA, 550A                                   24234.25    3  72702.75  18175.69
+3-fazna kutna spojnica, desno, bijela                                                65.04   15    975.60    243.90
+Stezaljka glavnog voda (za Cu), 1P, 2x25mm²|2x16mm², plava                           16.64   30    499.20    124.80
+
+                                                                                                         ----------
+UKUPNO                                                                                                    193275.55
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

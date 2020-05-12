@@ -1,0 +1,31 @@
+Račun br. 852562
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Podnožje N voda, vel.00, Mostić/Mostić, 1-pol.                                        4821    3  14463.00   3615.75
+Vodič (N)YM-J (PGP) 3x1,5mm2, sa zašt. vodičem, svij.-sivi                          372.41   28  10427.48   2606.87
+Profil za montažu DIN nosača na dno, širina 500mm (2 kom.)                            4065   30 121950.00  30487.50
+Kabel LiYCY 16x0,34                                                                  10000   30 300000.00  75000.00
+Sklopnik vel. 0 | 11kW (25A) [AC-3] | 230VAC, 50/60Hz                               228.99   26   5953.74   1488.44
+KM panik svj. LED/3h bat. 230V,TEST dugme, univerz. montaža                         550.38   14   7705.32   1926.33
+FI-blok 40A, 2-polni, 100mA, Tip A (Puls)                                           666.37   19  12661.03   3165.26
+"""Synchro"" uklopni sat, dnevni program"                                           403.19    1    403.19    100.80
+Meiva-Q/A1 LED 6W 3000K 475lm, IP20, aluminij                                       119.28    5    596.40    149.10
+Kabel EYY-O (PP00) 3x10RE                                                            10000   26 260000.00  65000.00
+Okvir 2/3M line, mat crni                                                            54.55    7    381.85     95.46
+Kabel H05VV-F (PP/J) 2x1mm2, svijetlo-sivi, 50m                                      10000   29 290000.00  72500.00
+Sklopni element, N/O (radni), prednja montaža                                        17.56   11    193.16     48.29
+Signalni fleksibilni kabel YSLY-OZ 3x1,5 sivi                                        10000    4  40000.00  10000.00
+Nazidni okvir s vratima za Modul 2000 | 4A-39 | dubina 250mm                       2766.45   12  33197.40   8299.35
+DVB-T pojačalo 2 u 1, FM VHF/UHF podesivo, TVS 6-00                                 420.29    8   3362.32    840.58
+TERANG 2, 3000K, oval, sive boje                                                    406.17   14   5686.38   1421.60
+Tipka za 3-struku sklopku, bijela                                                    12.65    9    113.85     28.46
+Gumom iz. i oplašten 1-žilni kabel 1,8/3 kV NSGAFöu 300 crni                         10000   29 290000.00  72500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1397095.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

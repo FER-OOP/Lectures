@@ -1,0 +1,16 @@
+Račun br. 163715
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"Gljivasto tipkalo s povratom, crveno, oznaka: ""0"""                                46.66    2     93.32     23.33
+Držač žaruljice sa ugrađenom LED, bijeli,230VAC,utične stez.                         48.78   13    634.14    158.54
+Zaštitni prekidač, C karakteristika, 4A, 1-polni+N, 6kA                              90.53   13   1176.89    294.22
+BOX-L E27 zidna svjetiljka, četvrt.,bi.b., E27, max. 18W                             393.5   19   7476.50   1869.13
+
+                                                                                                         ----------
+UKUPNO                                                                                                      9380.85
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

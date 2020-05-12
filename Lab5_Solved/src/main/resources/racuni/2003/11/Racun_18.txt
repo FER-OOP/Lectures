@@ -1,0 +1,22 @@
+Račun br. 936968
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Panik svjetiljka VM LED 3W, CPS sustav, MIX mod, stropna                           3545.03   15  53175.45  13293.86
+Centralni bistabilni relej, 3 N/O, 230VAC                                           533.96   30  16018.80   4004.70
+Sklopnik 3P |90kW (175A) [AC3] / 250A [AC1] | 230VAC/DC                            2528.92    2   5057.84   1264.46
+Compact Office, senzor prisut., DALI, p/ž, stropni, srebrni                        1997.29    8  15978.32   3994.58
+S/FTP kabel cat.7, 4x2xAWG23/1, 1.000MHz, LS0H-3, 30%, plavi                        473.83   30  14214.90   3553.72
+Kabel H05VV-F (PP/J) 4x4mm2, svijetlo-sivi, 100m                                     10000    5  50000.00  12500.00
+Pokrov 280x190x80mm sivi - B-GH                                                     238.31   29   6910.99   1727.75
+Potenciometar, komplet, 10 kOhm                                                     226.04   24   5424.96   1356.24
+Kabel H05VV5-F 12x1 sivi                                                             10000   29 290000.00  72500.00
+LEDDISK HORN DL, sr.b., 4000K                                                       813.03   12   9756.36   2439.09
+
+                                                                                                         ----------
+UKUPNO                                                                                                    466537.62
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

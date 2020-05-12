@@ -1,0 +1,18 @@
+Račun br. 648512
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+KADUX 2 ES111 Downlight, četvrtasti, crne boje, max. 2x50W                          813.03    3   2439.09    609.77
+LED DMX kontroler Touch DW crne boje                                                836.68   13  10876.84   2719.21
+Nazidni okvir bez vrata za Modul 2000 | 4A-21 | dubina 250mm                       1216.42   21  25544.82   6386.21
+DC zaštitni prekidač, C 10A, 2-polni, 10kA                                          140.82   23   3238.86    809.71
+Teretna sklopka, 3P, 125A, VC1, s ručicom                                           492.12    5   2460.60    615.15
+Nadgradna svjetiljka SARH 2 ECO T5 4x24W ECG, bijela                                364.25    8   2914.00    728.50
+
+                                                                                                         ----------
+UKUPNO                                                                                                     47474.21
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

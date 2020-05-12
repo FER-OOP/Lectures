@@ -1,0 +1,15 @@
+Račun br. 378373
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+N/Ž okvir + vrata 4A-33 D=250mm str.ploča+zakr. ručica, IP54                       4413.95    8  35311.60   8827.90
+Montažna ploča, širine 4PB, visina 294mm                                              4063   30 121890.00  30472.50
+Vrata, prozirna za MODUL 160, 4x24 modula                                             4172    6  25032.00   6258.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     182233.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

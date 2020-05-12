@@ -1,0 +1,26 @@
+Račun br. 410075
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Dvostruki adapter 185mm za Wöhner rastavnu prugu vel. 00                            213.22    8   1705.76    426.44
+7301/Y, LED 12v , žute boje MR16                                                     10.81   23    248.63     62.16
+Bezhalogeni kabel s el. funkc. do30 Min. (N)HXH-J5x16rmE30                           10000    5  50000.00  12500.00
+Uzdužna stranica, 12 visinskih jedinica (100 mm)                                     276.6   14   3872.40    968.10
+CRISTAL MEDIUM LED 9x1W 4000K SIM. 40° INOX+ugr.kut.                               2973.64   18  53525.52  13381.38
+Rico-Q LED 6W 3000K 475lm, IP20, bijele boje                                        497.24   28  13922.72   3480.68
+Vodotijesna svjetiljka LINDA Transparente 2-11W TC-S IP65 PC                        411.34    5   2056.70    514.17
+Fluokompaktna žarulja TC-DEL 26W/827 G24Q-3                                          26.83   13    348.79     87.20
+Tipka za sklopke i tipkala, inox efekt                                               51.46   15    771.90    192.97
+Owen-II-R/A2 50W PGJ5, 230V, IP20, bijele boje                                       79.24   10    792.40    198.10
+Teretna sklopka, 3P, 63A, VC1, s produžnom osovinom                                 413.04   30  12391.20   3097.80
+KARDAMOD SURFACE ROUND QRB SINGLE, srebrnosiva G53, max.75W                        1125.94    6   6755.64   1688.91
+Motorna zaštitna sklopka, 3-polna | 40.0 - 50.0A, vel.S2                            707.04    6   4242.24   1060.56
+41012/B/R, kutna spojnica, desno, crne boje                                          26.52    4    106.08     26.52
+
+                                                                                                         ----------
+UKUPNO                                                                                                    150739.97
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

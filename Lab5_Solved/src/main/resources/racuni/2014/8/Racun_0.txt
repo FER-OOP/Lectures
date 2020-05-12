@@ -1,0 +1,25 @@
+Račun br. 177939
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kompaktni prekidač snage tip AE, 4P, 50kA, 400A+izvl. modul                        8722.55   14 122115.70  30528.92
+Mike-II-R/A2 LED 1W 3000K, dimabilna, 350mA, IP20, aluminij                          38.69   15    580.35    145.09
+MD-C360i/12 mini senzor pokreta IR, stropni, 360°, Ø12m                            1111.41    7   7779.87   1944.97
+BOX-L E27 zidna svjetiljka, četvrt.,bi.b., E27, max. 18W                             393.5   17   6689.50   1672.37
+PATH POLE 50cm 360° 8x1W LED, 40° 4000K antracit                                   3178.73    7  22251.11   5562.78
+P/Ž inst. razdj. 2U-18,6-redni,126ŠM,915x590x250mm(VxŠxD)                          2864.13   25  71603.25  17900.81
+PD-C360/8 Slave P/Ž stropni senzor prisutnosti 360° Ø8m                             905.46   22  19920.12   4980.03
+Nazidni okvir s vratima za Modul 2000 | 2A-45 | dubina 300mm                       3828.23   30 114846.90  28711.72
+Bočne stranice za Modul 2000, dubine 60mm, tip E-41/60                                4160    8  33280.00   8320.00
+Finožični PVC-om izolirani vodič H07V-K (P/F) 2,5mm2, smeđi                         195.31   15   2929.65    732.41
+Linijska svj. SERH-LF 112, početni profil,  1x49W, ECG, bb                          567.33    9   5105.97   1276.49
+Pokrov za plosnatu tipku, zeleni                                                      5.69   15     85.35     21.34
+Spojnica (koljeno) M25, bez halogena, crna (pak. 10 kom.)                          1478.16    9  13303.44   3325.86
+
+                                                                                                         ----------
+UKUPNO                                                                                                     420491.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

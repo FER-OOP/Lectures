@@ -1,0 +1,17 @@
+Račun br. 143021
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"Zidni komunikacijski ormar DW Dualbloc, 600x500x515, 19"", 9U"                    1137.04   12  13644.48   3411.12
+Kompaktna sabirnica za 1xFID 4P, 1xLS 3+N, 2xLS 1+N                                 108.13   10   1081.30    270.32
+Media razdj. za šuplji zid, MVM 4R, 12+2 modula,plitki okvir                        1083.7   21  22757.70   5689.42
+9G15L/D/E, LED GLOBE 15w DL E27 95mm 230v                                            63.02   18   1134.36    283.59
+Ingro-II-S/A1 LED 3x1W 2700K, IP20, aluminij                                        245.32   21   5151.72   1287.93
+
+                                                                                                         ----------
+UKUPNO                                                                                                     43769.56
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

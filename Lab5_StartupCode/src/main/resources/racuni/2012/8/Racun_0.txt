@@ -1,0 +1,15 @@
+Račun br. 966905
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+SPOJNE KLEME ZA PODCENTRALU                                                         866.13    3   2598.39    649.60
+AFDD, series Lisa, B 13 A, 2-pole, 30 mA, type AC, 10 kA                           1054.14   23  24245.22   6061.31
+Utičnica, 16A, zaštita za djecu, umetak, biserno bijela                              25.82    1     25.82      6.45
+
+                                                                                                         ----------
+UKUPNO                                                                                                    26869.432
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

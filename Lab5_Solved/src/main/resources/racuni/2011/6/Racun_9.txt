@@ -1,0 +1,27 @@
+Račun br. 377464
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Abby-R 70W G12, 230V, IP65, crne boje                                                46.46    2     92.92     23.23
+GLENOS PROFILE 2609, 3m, crne boje                                                  468.35   24  11240.40   2810.10
+Telekomunikacijski kabel F-YAY 100x2x0,8mm2                                          10000    6  60000.00  15000.00
+Solarlog set kabela 3m za Fronius                                                   213.36   14   2987.04    746.76
+Instal. umetak 3-28K komplet 9 IR prednja pl. čelik                                1920.36   13  24964.68   6241.17
+LOGICOM krović za P/Ž kućišta, 1 modul                                              538.15   15   8072.25   2018.06
+Spojnica za 3 polne slopnike (vel.2/3/6-vel.2/3/6)                                    7.43   10     74.30     18.57
+Pomoćni kontakt, normal, montaža lijevo, 1 C/O, za MY2                               92.59   15   1388.85    347.21
+Stolni nosač za ICONA monitor                                                      1502.03   11  16522.33   4130.58
+Ugradna svjetiljka SERH 2 T8 2x18W ECG M625, bijela                                    334   14   4676.00   1169.00
+Otvoreni prekidač, 4P, 66kA, 2000A, fiksni, prednje priklj.                       36452.24   18 656140.31 164035.08
+Završni poklopac TBI okrugli s rupom za prolaz kabela                                83.77   22   1842.94    460.73
+BULAN stropna svjetiljka, E14 max. 60W E14, srebrne boje                            278.27   11   3060.97    765.24
+Serijski ormar AS, 2-vrata, 2000x1200x400 (VxŠxD), RAL 7035                        5099.82   20 101996.40  25499.10
+Strujni trafo, 1000/5A 80X30                                                          4398   12  52776.00  13194.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     945835.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

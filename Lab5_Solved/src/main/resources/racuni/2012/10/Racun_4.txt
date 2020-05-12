@@ -1,0 +1,30 @@
+Račun br. 696345
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Hvataljka Ø16, vrh hvataljke Ø10mm, duljina: 1.5m, Alu                               60.34    8    482.72    120.68
+HALOSPOT111 EnergySaver, 12V, 3000K, 50W, 45°, OSRAM                                  95.8   17   1628.60    407.15
+Pločica + nosač, natpis: START                                                        8.93    3     26.79      6.70
+Ignis-II-S LED 1,2W, IP41, aluminij                                                 600.99   18  10817.82   2704.46
+Prednja ploča, čelična, slijepa, 3B10                                                 4160    6  24960.00   6240.00
+Ina-R/A2 LED 7W 3000K 500lm, dim., 700mA, IP54, bijele b.                           381.17   17   6479.89   1619.97
+FLEX LINE kabelski utikač, cat.7, za kabele AWG23, križni                             6021    9  54189.00  13547.25
+Sobni kontroler Conttouch, titan bijeli                                            3335.37   13  43359.81  10839.95
+UPS kit za paralelni rad uređaja serije USMLT                                      2560.41   10  25604.10   6401.02
+Plasto LED 30W, 3000K, 1800lm, 230V, IP65,plastika,bijele b.                        649.65   19  12343.35   3085.84
+Nadgradna svjetiljka SAO ECO T8 4x18W CCG, ind, bijela                              372.32    4   1489.28    372.32
+Minijaturni relej, 2C/O, 12A, 48VDC serije PT                                        34.23   20    684.60    171.15
+NV rastavna sklopka vel.000|125A, 3P, stez. 50mm²,na ploču                          267.17   20   5343.40   1335.85
+"Stezaljka ""A"" 4P, dovod 25mm²|odvodi: 3x(4x16)+1x(12x16)"                        227.82    4    911.28    227.82
+Industrijska svjetiljka SCUP AL 1x150W,E40,MT/ST,MB,IP65,cr.                        530.56    5   2652.80    663.20
+Gwen-R 150W RX7s, 230V, IP20, bijele boje                                            19.59   17    333.03     83.26
+D02 rastavna sklopka ARROW S, 3-polna, 10A                                            4824   26 125424.00  31356.00
+Jednožični PVC-om izolirani vodič H05V-U (P) 1mm2, bijeli                            10000   21 210000.00  52500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    526730.44
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

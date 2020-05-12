@@ -1,0 +1,16 @@
+Račun br. 470066
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+UPS GENIO iDialog 1600VA/960W                                                      1794.66   27  48455.82  12113.96
+Kabel EYY-J (PP00-Y) 5x16RE                                                          10000   16 160000.00  40000.00
+SFP modul 1000SX LC multimodni VCSEL, 850nm 550m                                     286.7   17   4873.90   1218.48
+SOPRANA BOW svjetiljka, SL-1, bijelo sjenilo, E27, max. 60W                        1808.71    5   9043.55   2260.89
+
+                                                                                                         ----------
+UKUPNO                                                                                                    222373.27
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

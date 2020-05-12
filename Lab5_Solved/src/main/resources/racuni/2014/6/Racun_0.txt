@@ -1,0 +1,19 @@
+Račun br. 445132
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Instal. umetak 2-21K komplet 7 IR prednja pl. čelik                                1314.29    2   2628.58    657.15
+Nadgradna svjetiljka KVADRA 70 1-14/24W QTI sat. pokrov                             721.69   10   7216.90   1804.22
+Poklopac 560x280x30mm sivi - F-G                                                    456.73    6   2740.38    685.10
+Design IL ERT-LED 1x3W 230VAC 8h bežična, usmjerena, ugradna                       1710.21   28  47885.88  11971.47
+Sklopnik 3P |7.5kW (18A) [AC3] / 32A [AC1] | 230V AC | 1N/O                         218.23    7   1527.61    381.90
+LIPSY 36 S COLOR CONTROL stropna svj., 36cm, LED RGB 3000K                         1125.94   26  29274.44   7318.61
+Marra LED traka 4,8W/m 60LEDs/m 350lm/m 4000K 24VDC IP20                            165.74   12   1988.88    497.22
+
+                                                                                                         ----------
+UKUPNO                                                                                                    93262.664
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

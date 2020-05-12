@@ -1,0 +1,24 @@
+Račun br. 127742
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Držač za instalacijsku cijev M20, sivi (pak.100 kom.)                                95.28   15   1429.20    357.30
+Ugradna downl. svj. ERM 202 2x13W ECG TC-DEL IP20/44, bijela                        308.41    1    308.41     77.10
+GLENOS profil 200, 2m, crne boje                                                    624.64   17  10618.88   2654.72
+Poklopac 280x280x30mm sivi - C-G                                                    234.13    6   1404.78    351.20
+Uzidni okvir s vratima - M3000, 3U-45                                              2161.15    4   8644.60   2161.15
+Zaštitni prekidač, C karakteristika, 50A, 3-polni+N, 6kA                            295.54   20   5910.80   1477.70
+Ugradna svj. ERIS 1x44W DIF,LED DALI,3150lm/830,M600, bijela                       1235.19   12  14822.28   3705.57
+"19"" čelični slijepi pokrov, 6U, RAL 7035"                                          49.45   20    989.00    247.25
+Tipkalo s povratom, plosnato, crveno                                                 25.67    7    179.69     44.92
+Pločica + nosač 30x50mm, natpis: Aus                                                 12.54   30    376.20     94.05
+Ovjesni pribor za LED Panel                                                         124.52   29   3611.08    902.77
+Relej snage, 2C/O, 25A, 230VAC                                                       60.32   21   1266.72    316.68
+
+                                                                                                         ----------
+UKUPNO                                                                                                     49561.64
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

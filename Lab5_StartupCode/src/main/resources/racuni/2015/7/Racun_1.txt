@@ -1,0 +1,30 @@
+Račun br. 1066007
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Nadgradna svjetiljka PRIMO H PRISMA T5 2x49W ECG, bijela                             388.3    6   2329.80    582.45
+Zaštitni prekidač, C karakteristika, 32A, 2-polni, 10kA                             101.46   16   1623.36    405.84
+Solarlog 1.2 do 100 kWp za više invertera - WiFi                                   7221.66    9  64994.94  16248.74
+Prespojni kabel RJ45 cat.6 oklop.,s pregibnicama,crveni,10m                          54.72   17    930.24    232.56
+Kabel H05VV-F (PP/J) 3x1,5mm2, svijetlo-sivi, 100m                                   10000    7  70000.00  17500.00
+Vodotijesna svjetiljka LINDA Industrie PC 1-36W ECG IP65                            316.63    5   1583.15    395.79
+Vijak sa upuštenom glavom, za drvo, 5x60mm                                           40.55   20    811.00    202.75
+Napajanje za 1-8 kom. 1W LED, 350mA                                                  72.99    4    291.96     72.99
+Telefonska priključnica,IP20, na vijak, bijela, nadžbukna                            22.51   20    450.20    112.55
+Driving ravni rate Individual ab 101km Distance                                      18.41   22    405.02    101.25
+ARKTUR SQUARE LED ECO 194W 23800lm/840 ECG IP65 100°,sb                            4042.32    1   4042.32   1010.58
+Kompaktni prekidač snage tip A, 3P, 150kA, 125A                                    2053.48   16  32855.68   8213.92
+Telefonski set za zaštitu IP54 za razvodni ormar 06                                1533.08   17  26062.36   6515.59
+Finožični PVC-om izolirani vodič H07V-K (P/F) 2,5mm2, crni                          195.31    7   1367.17    341.79
+Trokatna stezaljka (utični priključak), 2.5mm², siva                                 11.54    3     34.62      8.65
+Stubišni automat, mehanički, 1-7min., 16A                                           182.93   26   4756.18   1189.04
+Motorna zaštitna sklopka, 3-polna | 0.25 - 0.40A                                    197.29   23   4537.67   1134.42
+Kabel LiYCY 7x0,5                                                                  1124.33   10  11243.30   2810.82
+
+                                                                                                         ----------
+UKUPNO                                                                                                    228318.97
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

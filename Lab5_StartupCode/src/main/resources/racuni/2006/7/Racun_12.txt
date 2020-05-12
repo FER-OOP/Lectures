@@ -1,0 +1,26 @@
+Račun br. 871220
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Nazidni okvir s vratima za Modul 2000 | 5A-39 | dubina 250mm                       3712.22   22  81668.84  20417.21
+Bakreni vodič za uzemljenje (pletenica), 16x1x300mm, M8                               4067    9  36603.00   9150.75
+KABEL E-AYY-0 (PP00-AL) 4X150 SE                                                     10000   23 230000.00  57500.00
+Romy-R 2x15W E27, 100-240V, IP20, brušeni krom                                       37.67    5    188.35     47.09
+Optički završetak LC, 50/125µm OM4, 2.0m (4 kom.)                                   118.64    8    949.12    237.28
+Zaštitni prekidač, B karakteristika, 25A, 1-polni+N, 10kA                           106.75   16   1708.00    427.00
+Priključna kutija, nehrđajući čelik, 200x200x80(VxŠxD),IP66                        1053.68    8   8429.44   2107.36
+Nazidni okvir bez vrata za Modul 2000 | 5A-42 | dubina 250mm                       2203.65   28  61702.20  15425.55
+Plafonjera ALICA Round OP 1x22W, CCG IP54, bijela                                   262.02    3    786.06    196.51
+Bočne stranice za Modul 2000/3S, dubine 102mm, tip 41/102                             4160   14  58240.00  14560.00
+Bistabilni relej, 230VAC, 1 N/O, 16A, na DIN nosač                                  108.51   13   1410.63    352.66
+Pozivno tipkalo za monitor, umetak, 24V DC, max. 20mA                                 2104   22  46288.00  11572.00
+PROTECTOR K relej za PROTECTOR K 230 V                                                 104   15   1560.00    390.00
+Priključna stezaljka, opruga, za fi85mm, 3-fazno                                     65.15   14    912.10    228.03
+
+                                                                                                         ----------
+UKUPNO                                                                                                    530445.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

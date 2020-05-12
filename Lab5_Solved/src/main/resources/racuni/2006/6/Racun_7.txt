@@ -1,0 +1,17 @@
+Račun br. 724547
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+ENOLA_C 18 SPOT, okr., bijele b., 18W, 3000K,55°,3-f adapter                       1433.11   27  38693.97   9673.49
+Nadgradna svjetiljka SARH-AS T5 1x35W, ECG, bijela                                  381.94    2    763.88    190.97
+Signalni fleksibilni kabel YSLCY-JZ 5x25 sivi                                        10000   30 300000.00  75000.00
+89242/ELE/DIM, 2x26/32/42w PL Dim. elektronska prigušnica                            53.56   30   1606.80    401.70
+N/Ž inst. razdj. 3A-21, 7-redni, 231 ŠM, 1055x810x250mm                            3074.06   12  36888.72   9222.18
+
+                                                                                                         ----------
+UKUPNO                                                                                                    377953.38
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

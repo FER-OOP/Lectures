@@ -1,0 +1,18 @@
+Račun br. 758500
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Utičnica MO 1M 16A, sa dječjom zaštitom, crna                                        24.69   20    493.80    123.45
+Bezhalogeni inst.kabel pob. svoj.za sl.požara NHXMH-O 2x1,5                          10000    1  10000.00   2500.00
+Bezhalogeni instalacijski kabel JE-H(ST)H 2x2x0,8 E30 nar.                           10000   27 270000.00  67500.00
+Označne pločice '21-30', Dekafix DY5 (sadrži 50 oznaka)                               8.45   23    194.35     48.59
+Stezaljka glavnog voda (za Cu), 1P, 2x70mm²|2x50mm², siva                            78.78   21   1654.38    413.60
+Dina-R LED 12W 3000K 1100lm,dimm.,700mA,IP64,brušeni krom                           161.18   25   4029.50   1007.37
+
+                                                                                                         ----------
+UKUPNO                                                                                                    286372.03
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

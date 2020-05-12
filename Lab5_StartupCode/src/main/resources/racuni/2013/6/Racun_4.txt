@@ -1,0 +1,30 @@
+Račun br. 686231
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Slušalica STYLE, SB sa privacy/doctor funkcijom i interkom.                         748.24   30  22447.20   5611.80
+VAP 100, okr., nehrđ.čelik 304, E27, max. 23W, IP44                                 3435.8    4  13743.20   3435.80
+Barkod čitač za VIP                                                                2219.42   25  55485.50  13871.38
+Instalacijski sklopnik 40A | 4 N/O | 230V AC                                        335.29    8   2682.32    670.58
+Kronos-Q/A2 LED 20W 3000K, IP20, bijele boje                                        384.55   10   3845.50    961.38
+INOX samostojeći ormar, 1600x1000x400mm (VxŠxD)                                    20750.2   26 539505.19 134876.30
+LED crvena svjetiljka, BA15D 18-30V AC/DC                                            279.6   28   7828.80   1957.20
+FID sklopka 40-4-01/A (puls)                                                        547.11   27  14771.97   3692.99
+USB 2.0 A-B kabel, A muški-B muški, 1.8m, crni                                       22.73   30    681.90    170.47
+RC član 127-240VAC / 150-250VDC, za sklopnike veličine 0                             39.55   13    514.15    128.54
+Zaštitni prekidač, C karakteristika, 4A, 2-polni, 6kA                                85.37   27   2304.99    576.25
+Zaštita od dodira priključnih stezaljki, za 4-polne MC4                              345.6   30  10368.00   2592.00
+KALU LED 2 zidna i stropna svjetiljka 2x10W 3000K bijele/cb                         1495.8   29  43378.20  10844.55
+Roze-I-R LED 6x0,2W 3000K, IP20, aluminij                                           156.45    3    469.35    117.34
+Električarski odvijač, ravni, 4x100mm, 1000V, izoliran                               35.63   18    641.34    160.34
+Reflektor Sigma Single 30W, 6000K, 2200lm, 120°,alu,antracit                        344.67   23   7927.41   1981.85
+SAIL zidna svj., WL 1, bb, 1x3W LED, tbb                                            750.35   25  18758.75   4689.69
+Ugradna svjetiljka SEP XTP T5 4x54W ECG IP54 M600, bijela                          1315.08    4   5260.32   1315.08
+
+                                                                                                         ----------
+UKUPNO                                                                                                    750614.06
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

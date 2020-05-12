@@ -1,0 +1,21 @@
+Račun br. 707902
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Fluokompaktna žarulja TC-DEL 13W/830 G24Q-1                                          26.06   15    390.90     97.72
+"VH panik svjetiljka LED 230V za CPS MIXmod; ugradna montaža"                      2800.07   22  61601.54  15400.39
+Potenciometar, komplet, 1 kOhm                                                      226.04   29   6555.16   1638.79
+Instal. umetak 4-12K komplet 4 IR prednja pl. čelik                                 990.63   25  24765.75   6191.44
+LED MEGAMAN FILAMENT CLASSIC E27, A60, 5,5W, 2700K,470lm,DIM                        182.24   28   5102.72   1275.68
+Industrijsko kućište sivo, sivi poklopac, 95x65x60mm, IP65                           52.03    8    416.24    104.06
+LED Panel Round 180 11W 780lm neutr. bb 4200K, bijele b.                            441.51   18   7947.18   1986.80
+ASTO IV GU10 Spot, brušeni aluminij                                                  562.8   22  12381.60   3095.40
+PEYOTE POLE 48cm 180° 8x1W LED, 40° 4000K antracit                                 3537.56   27  95514.13  23878.53
+
+                                                                                                         ----------
+UKUPNO                                                                                                    214675.22
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

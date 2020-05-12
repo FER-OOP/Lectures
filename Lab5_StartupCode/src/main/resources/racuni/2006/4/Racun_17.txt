@@ -1,0 +1,20 @@
+Račun br. 346162
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+3f-Reflektor Carril E27 PAR30, 75W, IP20, siva                                      176.05   23   4049.15   1012.29
+Transformator, 1-fazni | 230/024V | 160VA, IP00                                     292.69   25   7317.25   1829.31
+Završna pločica za redne stezaljke 35mm², tip CBC, siva                               4850    6  29100.00   7275.00
+MYRA STRAIGHT pano-svjetiljka, antracit                                             813.03   28  22764.84   5691.21
+Sklopnik vel. 3 | 30kW (65A) [AC-3] | 24VDC                                        1060.63   22  23333.86   5833.46
+DULUX TC-TEL 32W/827 Gx24Q-3 fluokom.žarulja                                         50.26   23   1155.98    288.99
+"Optički prespojni panel 19"", 1U, uklj. 4 spojnice ST, MM"                         575.48   19  10934.12   2733.53
+PlanoCentro LON, senzor prisutnosti, p/ž, stropni, srebrni                            2172   21  45612.00  11403.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    144267.19
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

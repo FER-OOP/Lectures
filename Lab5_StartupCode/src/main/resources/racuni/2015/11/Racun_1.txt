@@ -1,0 +1,15 @@
+Račun br. 640021
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Vezna spojnica V4A, 2-djelna, vodič Ø10 i pl.30| sonda Ø20mm                         76.01   13    988.13    247.03
+Lano Square LED Panel 48W,4000K,3800lm,IP20,UGR19,120°,M625                         629.88   14   8818.32   2204.58
+Prospekt-Prod.Portfolio 2009 E                                                           0   23      0.00      0.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                      9806.45
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

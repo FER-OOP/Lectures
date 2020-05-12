@@ -1,0 +1,28 @@
+Račun br. 572833
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+UPS GENIO MaxiGreen 10kVA/9kW                                                     24564.23   22 540413.06 135103.27
+KALU LED 4 četvrtasti zidna i stropna svj. 4x10W, bijele/cb                        3122.88   23  71826.23  17956.56
+Krović za zaštitu WSM ormara od kiše, za ormar 1000X300(ŠxD)                          4066    7  28462.00   7115.50
+Ugradni okvir za MO2, 3P, -2000A, vodoravne str. priklj.                           8160.33   24 195847.92  48961.98
+Proširenje sa accu i punjačem za USMLT 480V / 3 x 40 x 7 Ah                       27818.15    1  27818.15   6954.54
+Rastavna pruga vel.2, 1-polni isklop, sistem 185mm, V-stez.                           4823   27 130221.00  32555.25
+Soft-starter 3P, 2f upravlj. 25A/400-480VAC/24-480VAC/DC                           2815.55   23  64757.65  16189.41
+Viano-II-R/A1 LED 6x1W 3000K 270lm,dim.,350mA,IP20,crne b.                          119.28   11   1312.08    328.02
+Laki gumeni kabel H05RR-F 2x1,5, crni                                               530.28   20  10605.60   2651.40
+Ovjesna svjetiljka OFFICE ECO DIR/IND PAR 2x54W ECG, siva                           508.07   11   5588.77   1397.19
+Grebenasta sklopka, 1-2/1P/20A, na DIN nosač                                         245.3   27   6623.10   1655.78
+Solid Double LED 15W 6000K 1140lm, IP20                                             234.51   22   5159.22   1289.80
+Grebenasta sklopka u kućištu (crveno/žuta), 0-1/3P/40A, IP65                        329.94    1    329.94     82.49
+WETSY SQUARE vanjska svjetiljka, četvrtasta                                         938.06   19  17823.14   4455.79
+Kabel H05VVC4V5-K 3x1,5 sivi                                                         10000   14 140000.00  35000.00
+HALOSPOT111 EnergySaver, 12V, 3000K, 50W, 24°, OSRAM                                  95.8    6    574.80    143.70
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1247362.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

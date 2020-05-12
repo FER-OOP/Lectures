@@ -1,0 +1,25 @@
+Račun br. 968754
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Razdjelnik za šuplji zid, KVH, 2R,24+4 modula,bijeli,komplet                        434.17   10   4341.70   1085.43
+Priključni set, 10-120mm², s pokrovom, 60mm Compact, 3P/5P                            4832   16  77312.00  19328.00
+LED PEN LIGHT PRO, tople bb, 10,5m, 230V                                           1250.97   13  16262.61   4065.65
+Finožični PVC-om izolirani vodič H07V-K (P/F) 6mm2, ž/z                              455.4   25  11385.00   2846.25
+Jakna s kapuljačom -XL-                                                             383.49    7   2684.43    671.11
+Redna stezaljka (vijčani priključak) 2.5mm², tip CBC, plava                           3.94    3     11.82      2.95
+Finožični PVC-om izolirani vodič H07V-K (P/F) 70mm2, plavi                         6000.14    1   6000.14   1500.04
+"19"" fiksna polica do maks. 40kg, d=650mm, niskoprofilna"                          225.71    4    902.84    225.71
+FIN XS Pole 30 4W LED 4000°K, 300lm, siva                                          1999.54    4   7998.16   1999.54
+"Natpisna pločica, ""Stop Start"", 12.5 x 28mm, natična"                              3.09    4     12.36      3.09
+Sklopnička komb. za promjenu smjera vel. 00 / 4kW / 400V 3P                         251.89   26   6549.14   1637.29
+FID sklopka 40-4-03/B (za sve oblike dif. struje), S izvedba                       5351.65   23 123087.95  30771.98
+Rita-R/A2 LED 20W 4000K 1600lm, IP20, bijele boje                                   512.96    4   2051.84    512.96
+
+                                                                                                         ----------
+UKUPNO                                                                                                     258600.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

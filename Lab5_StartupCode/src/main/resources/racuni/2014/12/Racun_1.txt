@@ -1,0 +1,19 @@
+Račun br. 180423
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Nazidna alarmna jedinica, napuštanje sobe bez pratnje                             24096.91    7 168678.38  42169.59
+60 traperice, vodootporne,sa puno džepova                                           516.06    1    516.06    129.01
+Grebenasta sklopka (glavna, sivo/crna), 0-1/4P/80A, na DIN                          568.04   22  12496.88   3124.22
+Zaštitni prekidač, B karakteristika, 63A, 3-polni, 10kA                             403.66    9   3632.94    908.23
+Linijska svj. SERH-LT 112, srednji profil,  2x54W, ECG, bb                          546.54   11   6011.94   1502.98
+Ina-R/A1 LED 6W 4000K 485lm, IP20, bijele boje                                      159.16   23   3660.68    915.17
+Utičnica šuko sa zaš. kon.+pokl+ dječ. zaš. na oprugu zelena                         21.57   11    237.27     59.32
+
+                                                                                                         ----------
+UKUPNO                                                                                                    195234.14
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

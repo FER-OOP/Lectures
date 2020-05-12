@@ -1,0 +1,33 @@
+Račun br. 717918
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Francis-S 2x58W T8, 230V, IP65, sive boje                                           298.38   13   3878.94    969.73
+GRAFIT TORCH zidna svjetiljka, antracit, E27, max. 11W                              437.43   19   8311.17   2077.79
+LS-FI (KZS), B/16A/30mA, 1P+N, Tip A, 6kA                                           286.44   16   4583.04   1145.76
+"Opt. razdjelnik,12 niti, FC, 9/125µm OS2, izvlačivi,19"",1U"                      1430.01    7  10010.07   2502.52
+Philips CorePro LED bulb E27, 6W, 2700K                                             112.02   11   1232.22    308.05
+Zaštitni prekidač AMPARO 6kA, B 6A, 2-polni                                          66.94   23   1539.62    384.91
+Tipkalo uskočno, plosnato, bijelo                                                    62.13   15    931.95    232.99
+Okvir MO 3x2M line, bijeli                                                           12.97   12    155.64     38.91
+Kabel YSLYQY-JZ 7x 1,5 prozirni                                                      10000   19 190000.00  47500.00
+Tipkalo s plosnatom tipkom, crveno, s držačem                                        24.39   27    658.53    164.63
+PlanoSpot 360, senzor prisutnosti, KNX, stropni, srebrni                              2016   23  46368.00  11592.00
+Završni poklopac TBW ravni zatvoreni                                                 50.26    7    351.82     87.95
+Odvodnik prenapona COMBTEC kl.B/C TNC 275/12,5                                     1164.06   20  23281.20   5820.30
+Signalni fleksibilni kabel YSLCY-OZ 2x 1,5 sivi                                     812.63    6   4875.78   1218.95
+CRYSTAL VIII Downlight svjetiljka                                                   280.98    7   1966.86    491.72
+Reflektor za BERET & DIVIS Downlight, G12, 40°                                       50.01   10    500.10    125.03
+Poluvodički sklopnik 1-polni | 30A/24-480VAC, 5-24VDC                               642.47   29  18631.63   4657.91
+7815/W, Profil za 7810, bijele boje                                                 198.86    9   1789.74    447.43
+7511R/W, 11W AR111 WW GU10                                                           10.64   11    117.04     29.26
+FID sklopka AMPARO, 40-2-003/AC, 10kA                                               235.46   23   5415.58   1353.90
+Papir, prozorčić i vijci za HSED0xUW2S                                                1.48   10     14.80      3.70
+
+                                                                                                         ----------
+UKUPNO                                                                                                    324613.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

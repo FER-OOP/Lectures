@@ -1,0 +1,26 @@
+Račun br. 1082088
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+PRIMOLUX LED 35W 4050lm/840 opal ECG IP44, dužine 1235mm,bb                         854.62   12  10255.44   2563.86
+Porter-S LED 6x1W 3000K 420lm, IP65, bijele boje                                    732.94    2   1465.88    366.47
+FLEXLED ROLL 3D 24V, 3m,  5000K                                                     750.35   30  22510.50   5627.63
+Savitljiva cijev (srednje), M20, 750N, predožičena sa 3x2.5                        1258.82   12  15105.84   3776.46
+Sutil Quadro LED, 30W, 3000K, 1957lm, 110°, IP40, sive boje                         513.13   11   5644.43   1411.11
+Gumom iz. i oplašten 1-žilni kabel 1,8/3 kV NSGAFöu 35 crni                          10000   30 300000.00  75000.00
+Panik svjetiljka KW FLUO 8W, CPS sustav, stropna                                    271.93   24   6526.32   1631.58
+Odvodnik prenapona COMBTEC kl.B/C TT 275/12,5+H                                    2162.18    8  17297.44   4324.36
+Trostruka ugradna utičnica za kanale SIGNA RAL9001                                  420.16   22   9243.52   2310.88
+Serijski ormar AS, 2-vrata, 2000x1000x400 (VxŠxD), RAL 7035                        4823.96    8  38591.68   9647.92
+FN Zaštita od munje, DC isklop , 1000VDC, za 2MPPT                                 6638.43   28 185876.05  46469.01
+Tel. ormarić n/ž za 5 letvica 2/10, bez bravice                                     224.52   30   6735.60   1683.90
+Podnožje Vartec TII, 1-polno, za VVM modul, pomoćni kontakt                         129.19    7    904.33    226.08
+Nadgradna svjetiljka SARH 200 T8 2/36W ECG sjajni raster                             610.3   17  10375.10   2593.77
+
+                                                                                                         ----------
+UKUPNO                                                                                                     630532.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,14 @@
+Račun br. 853793
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+IP kontroler                                                                       6300.97    3  18902.91   4725.73
+Metalhalogena žarulja 35W CDM-TC, 3000K, G8,5                                       312.23    9   2810.07    702.52
+
+                                                                                                         ----------
+UKUPNO                                                                                                     21712.98
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

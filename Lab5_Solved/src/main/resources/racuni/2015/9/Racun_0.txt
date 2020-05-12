@@ -1,0 +1,25 @@
+Račun br. 594710
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"Zidni komunikacijski ormar DW Dualbloc, 600x500x515, 19"", 9U"                    1137.04    5   5685.20   1421.30
+Držač za instalacijsku cijev M40, svijetlo-sivi (50 kom.)                           249.81   23   5745.63   1436.41
+Matica PG29 (za uvodnicu M272804--A)                                                  1.86    2      3.72      0.93
+Linijska svj. SERM-LF 112, početni profil,  1x28W, ECG, bb                          546.54   30  16396.20   4099.05
+3f reflektor VITO DC LED 38W 3200lm/830 ECG 20°, crne boje                         1470.55    8  11764.40   2941.10
+NEW TRIA LED DL SQUARE SET, brušeni alum., 6W, 2700K, 38°                           437.43   10   4374.30   1093.57
+Ina-R/A2 LED 50W 4200K 4450lm, IP20, bijele boje                                    941.44    8   7531.52   1882.88
+LED RETROFIT T8 36 S 14,5W 230V 160° 840 2100lm G13 HF 50000                        185.54   25   4638.50   1159.63
+"FIN XS Pole 50 2x4W LED 4000°K, ""Down&Down"", antracit"                          3178.73    7  22251.11   5562.78
+Ugradna downlight svjetiljka EQM 221 1x32W ECG TC-TEL,bijela                        364.25   24   8742.00   2185.50
+Zaštitni prekidač MB 15kA BT 50/3                                                   458.97   15   6884.55   1721.14
+Reflektor SET 150W HIT-DE RX7s IP65 RAL9006 asimetrični                             988.68   22  21750.96   5437.74
+SOPRANA, samost. svj., SL-2, okrugla, bb tekstil, E27                              1250.97   25  31274.25   7818.56
+
+                                                                                                         ----------
+UKUPNO                                                                                                    147042.34
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

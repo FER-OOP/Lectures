@@ -1,0 +1,14 @@
+Račun br. 864412
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Razvodna kutija, podžbukna, Ø70, 40mm, M20, crna                                    100.97   11   1110.67    277.67
+Ugradna svj. ERIS 1x44W DIF,LED 3200lm/840, M600, bijela                           1011.48   30  30344.40   7586.10
+
+                                                                                                         ----------
+UKUPNO                                                                                                    31455.068
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

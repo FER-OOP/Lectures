@@ -1,0 +1,20 @@
+Račun br. 865036
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Umetak za rolete                                                                    679.05   20  13581.00   3395.25
+Bezhalogeni jednožilni vodič H07Z-U 1,5mm2, smeđi                                    10000   26 260000.00  65000.00
+Bočne stranice za Modul 2000/3S, dubine 102mm, tip 16/102                             4160    1   4160.00   1040.00
+Modul signalne svjetiljke, trajno zeleno svjetlo, 230V AC                            446.2    3   1338.60    334.65
+Piktogram Linda 11W strelica napored, vidljivost 20m                                 22.72   28    636.16    159.04
+Krović za zaštitu WSM ormara od kiše, za ormar 1200X400(ŠxD)                          4066   17  69122.00  17280.50
+Prenaponska zaštita, za finu zaštitu uređaja na bus-u                               422.02   15   6330.30   1582.57
+Mary-R LED 12W 4000K 900lm, dim., 350mA, IP20, bijele b.                            175.71    1    175.71     43.93
+
+                                                                                                         ----------
+UKUPNO                                                                                                    355343.78
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

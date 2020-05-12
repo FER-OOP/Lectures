@@ -1,0 +1,32 @@
+Račun br. 1081658
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+NV rastavna sklopka vel.00|160A, 3P, M8, sustav 60mm                                303.91   15   4558.65   1139.66
+Odvodnik prenapona PHOTEC. KLASA II (C) 1000VDC, In 20kA + P                        892.74   24  21425.76   5356.44
+E27 LED tube žarulja, 3000K, za vanjske svjetiljke                                  124.69    5    623.45    155.86
+Damian-R/A2 3x40W G9, 100-240V, IP20, brušeni krom                                  131.95   15   1979.25    494.81
+Kompaktni prekidač snage tip A, 4P, 150kA, 250A                                    4556.21    4  18224.84   4556.21
+Berro Square LED Plafo, 25W, 3000K, 1773lm, IP65, antracit                          583.41   25  14585.25   3646.31
+Fluo cijev T8|T26 36W/827 G13                                                        14.11   20    282.20     70.55
+LED cijev 11,5W, 1400lm, 4000K, 120°, zakretna 90°, L-590mm                         224.17    9   2017.53    504.38
+AIXLIGHT PRO 50 II FRAMELESS armatura,uklj.ugr.okvir,crne b.                        500.12   21  10502.52   2625.63
+Motorna zaštitna sklopka, 3-polna | 20.0 - 25.0A, vel.S0                            315.54   30   9466.20   2366.55
+Levante-M 40 LED 94W 7930lm 3000K asim.,IP66,SKII,antracit                         5434.52   22 119559.44  29889.86
+LED QRB111 žarulja, CREE XB-D LED, 19,5W, 30°, 2700K, dim.                          500.12   16   8001.92   2000.48
+LEDDISK HORN DL, bi.b., 4000K                                                       813.03    5   4065.15   1016.29
+SHORTBOX trafo za EASYTEC II, srebrna b.                                            500.12   21  10502.52   2625.63
+Levante-S 10 LED 24W 2215lm 4000K asim.,IP66, SKII, RAL9003                        2006.63   28  56185.64  14046.41
+Bezhal. kabel s konc.zaštitnim Cu vodičem N2XCH 4x6re/6                              10000   14 140000.00  35000.00
+Otto-I-S/A2 70W Rx7s, 230V, IP20, sive boje                                         277.26    9   2495.34    623.84
+LED MR11 20 2,3W 12V 30° 827 184lm 400cd GU4 15000h                                  80.64   17   1370.88    342.72
+Cilindar brava za WSM ormare EK 333                                                   61.5   12    738.00    184.50
+Priključna stezaljka, opruga, za fi85mm, 3-fazno                                     65.15   28   1824.20    456.05
+
+                                                                                                         ----------
+UKUPNO                                                                                                    428408.72
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

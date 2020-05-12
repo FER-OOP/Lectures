@@ -1,0 +1,29 @@
+Račun br. 758533
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Prednja ploča, čelična, sa otvorom za uređaje, 2G3                                    4160   19  79040.00  19760.00
+LINEA 80M dvostr.parabol.raster 35/49/80W MIRO 8 L-1484mm                            380.7    8   3045.60    761.40
+BIG THEO CEILING OUT, ES111, srebrne boje, max. 75W                                 619.23    9   5573.07   1393.27
+Prednja ploča, čelična, slijepa, 1B6                                                  4160   30 124800.00  31200.00
+"Montaža optičke spojnice na 19"" opt. razdjelnik HSELSxx0yG"                        34.54   15    518.10    129.53
+Poliester ormar 1115x869x320mm (ŠxVxD), 2V,antiplakatni,IP43                       6755.38   19 128352.22  32088.05
+Panik svjetiljka 8W/3h, fluo cijev, IP65                                             222.4   28   6227.20   1556.80
+Preklopnik 4P/32A, mogućnost zaključavanja                                          446.63   27  12059.01   3014.75
+FID sklopka 63-2-003/AC, 10kA                                                       322.64    3    967.92    241.98
+Bezhal. kabel poboljšanih svoj.za sl. požara N2XH-J 3x16rm                           10000   25 250000.00  62500.00
+Levante-S 20 LED 48W 4425lm 4000K asim.,IP66,SKII,RAL9003                          3099.61   29  89888.70  22472.17
+N/Ž okvir+vrata,serijski,2A-42,D400mm,str.pl.+zakr.ruč.,IP54                       4266.13   30 127983.90  31995.97
+Transformator, 1-fazni | 230/230V | 1000VA, IP00                                   1205.39   27  32545.53   8136.38
+Završni profil, širina 5                                                              4160   30 124800.00  31200.00
+EURO SPOT INTEGRIRANI LED, 3000K, 15°,uklj.3F adapter,sr.b.                         875.55   18  15759.90   3939.98
+THEO CEILING OUT stropna svjetiljka GU10, četvrtasta, antr.                         374.92   28  10497.76   2624.44
+NEW TRIA LED DISK strp.ugradb.prsten,okrugli,srebrni 4000K                          938.06    7   6566.42   1641.60
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1018625.3
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

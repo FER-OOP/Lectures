@@ -1,0 +1,23 @@
+Račun br. 580331
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+TV priključnica MO 1M, prolazna, 10d,B 5-2400MHz, crna                               60.33   25   1508.25    377.06
+Sutil-R LED 8W 6000K 537lm, IP40, sive boje                                         126.04   12   1512.48    378.12
+Ugradna svjetiljka SEO XTP T5 2x28W ECG IP54 M625, bijela                          1059.42    1   1059.42    264.86
+NEW TRIA LED DL SQUARE SET, brušeni alum., 6W, 2700K, 38°                           437.43   23  10060.89   2515.22
+Savitljiva cijev (lagana) M20, 320N, 50m, HF, svijelto-siva                          686.4   12   8236.80   2059.20
+Odjelna pločica, crvena, za stezaljku CBD70                                            3.9   26    101.40     25.35
+CARISO Glas, LED  zidna svjetiljka, 7,5W LED,3000K,bijele b.                       1000.75   12  12009.00   3002.25
+Unutarnja vrata za Minipol ormare, poliester, puna, 400X400                         639.79   29  18553.91   4638.48
+Krović za zaštitu od kiše 500x450                                                   774.61   12   9295.32   2323.83
+Panik svjetiljka KX Autotest LED/4W/3h 230VAC montaža.univer                       1256.94   16  20111.04   5027.76
+Grebenasta sklopka, (glavna,crveno/žuta),0-1/3P/40A,na vrata                        244.16    2    488.32    122.08
+
+                                                                                                         ----------
+UKUPNO                                                                                                    82936.836
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,18 @@
+Račun br. 363428
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Josh-S LED 1,2W, IP54, nehrđajući čelik                                              96.98   16   1551.68    387.92
+KARDAMOD SURFACE ROUND QRB DOUBLE, srebrnosiva G53,max.2x75W                       1683.51   19  31986.69   7996.67
+Razvodna kutija, nadžbukna, 75x75x40mm, membrane, IP54, siva                        859.41   20  17188.20   4297.05
+Rita-R/A2 LED 25W 4200K 2450lm, IP20, bijele boje                                   517.18    1    517.18    129.29
+Montažna ploča za kućište E - 338x148mm                                               4130   17  70210.00  17552.50
+Kabel H05VV5-F 34x1,5 sivi                                                           10000   24 240000.00  60000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    361453.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

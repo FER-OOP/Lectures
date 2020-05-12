@@ -1,0 +1,23 @@
+Račun br. 960795
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Multi spojnica, pocinčani čelik, za vodič Ø8-10mm                                     8.06   27    217.62     54.41
+Relej snage, 3C/O, 16A, 60VDC, Faston 187, Tip RM                                    93.99    6    563.94    140.99
+8015G/W, 150W HQI G12 WW                                                             15.71    2     31.42      7.86
+Poklopac za razvodnu kutiju 150x150mm GTDW142--                                     825.54   28  23115.12   5778.78
+Kabel YSLYQY-JZ 4x 4 prozirni                                                        10000    5  50000.00  12500.00
+Levante-M 16 LED 38W 3750lm 4000K LT-L,IP66,SKII,RAL9006                            3855.2    5  19276.00   4819.00
+"Optički prespojni panel 19"", 1U, uklj. 16 spojnica LC SM"                         987.05   15  14805.75   3701.44
+Relej 3 C/O |10A | 220VDC sa LED                                                     83.88   23   1929.24    482.31
+FGL OUT Downlight, MR16, bijele boje                                                185.34    4    741.36    185.34
+Optički prespojni kabel duplex SC/FC, 62,5/125µm OM1, 2.0m                           61.48   19   1168.12    292.03
+LINUX LIGHT šina, 1 metar, uklj. 2 zavr.pok., srebrne boje                           187.2    9   1684.80    421.20
+
+                                                                                                         ----------
+UKUPNO                                                                                                    113533.37
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

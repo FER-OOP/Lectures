@@ -1,0 +1,16 @@
+Račun br. 373924
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kabel H05VV-F (PP/J) 5x4mm2, svijetlo-sivi, 100m                                     10000    4  40000.00  10000.00
+Završni poklopac MFI četvrtasti zatvoreni sa vijcima                                104.83   10   1048.30    262.08
+Meiva-A MR16 Spot, GU5,3, 50W, IP20, podesiva, aluminij                               51.7    3    155.10     38.78
+GLENOS kutni profil 2720-100, 1m, aluminij                                          143.61   25   3590.25    897.56
+
+                                                                                                         ----------
+UKUPNO                                                                                                    44793.652
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

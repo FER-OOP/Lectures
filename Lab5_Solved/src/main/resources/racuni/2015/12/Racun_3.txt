@@ -1,0 +1,20 @@
+Račun br. 412517
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+S/FTP kabel cat.7, 4x2xAWG23/1, 1200MHz, LS0H, plavi, 30%                           480.22   21  10084.62   2521.16
+Napajanje za 3-fazne šine, električni, siva                                          43.25   25   1081.25    270.31
+Kompenzacija  LSFC 14% 250/50kvar 800x2110x500mm Samost.orm.                      66453.58    5 332267.88  83066.97
+LS-FI (KZS), C/10A/30mA, 1P+N, Tip A, 10kA                                          418.89   13   5445.57   1361.39
+GLENOS četvrtasti Profile 3030, 2m, srebrne boje                                    437.43    8   3499.44    874.86
+Kabelska uvodnica s maticom, PG42, IP68                                              19.96   24    479.04    119.76
+"19"" izvlačiva polica, maks. 30 kg tereta, dubine 650mm, 1U"                       437.03    3   1311.09    327.77
+KARDAMOD SURFACE četvrtasti ES111 DOUBLE 2xGU10, crne boje                         1188.46   12  14261.52   3565.38
+
+                                                                                                         ----------
+UKUPNO                                                                                                     368430.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

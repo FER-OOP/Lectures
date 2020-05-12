@@ -1,0 +1,19 @@
+Račun br. 930765
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Baterija RPOWER OGiV 12/80Ah, longlife: 10-12 god.                                 1589.19    6   9535.14   2383.78
+Strujni trafo, prolazni, okrugli, promjer otvora: 35mm                              433.84    9   3904.56    976.14
+Relej 3 C/O |10A | 24VDC, pozlaćeni kontakti, sa LED                                115.85   26   3012.10    753.02
+M-Sweater  cotton-polyester-jersey                                                   278.4   19   5289.60   1322.40
+Wieland konektor, muški, bijele boje, 5-polni                                         8529   25 213225.00  53306.25
+LS-FI (KZS), C/16A/30mA, 3P, Tip A, 10kA                                              4281   21  89901.00  22475.25
+Ormar plast.750x750x420,krov protiv kiše,dno otv.,1 vrata,                            4142    4  16568.00   4142.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     341435.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

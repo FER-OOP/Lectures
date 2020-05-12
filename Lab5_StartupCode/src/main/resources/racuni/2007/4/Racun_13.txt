@@ -1,0 +1,20 @@
+Račun br. 851571
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+HANG UP svjetiljka                                                                  938.06   12  11256.72   2814.18
+Nadgradna svjetiljka SARS 2 ECO T8 2x18W CCG, ind, bijela                           218.89   28   6128.92   1532.23
+Tipka za 3-struku sklopku, bijela                                                    12.65    5     63.25     15.81
+Nadgradna svjetiljka SARH IP54 T5 2x54W ECG, bijela                                1227.12   12  14725.44   3681.36
+Telefonska žica za ranžiranje YV 2x0,5/0,9 crvena-plava                             136.59   26   3551.34    887.83
+Ventilator 230VAC, 15W, 50/60Hz, 160m3/h, 120x120mm                                 114.19    9   1027.71    256.93
+Zaštitni prekidač, C karakteristika, 2A, 3-polni+N, 10kA                            210.54   30   6316.20   1579.05
+"Opt. razdjelnik, 8 niti, SC, 62,5/125µm OM1, izvl.,19"",1U"                         796.8   12   9561.60   2390.40
+
+                                                                                                         ----------
+UKUPNO                                                                                                     52631.18
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

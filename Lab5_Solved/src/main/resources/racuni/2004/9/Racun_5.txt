@@ -1,0 +1,31 @@
+Račun br. 491135
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Filter za ET103020                                                                   19.11   22    420.42    105.11
+ARKTUR SQUARE LED ECO 111W 13600lm/840 ECG IP66 100°,sb                            2340.65   16  37450.40   9362.60
+DASAR 115 ADJUST, MR16, podna ugradna svjetiljka, okrugla                           687.83   14   9629.62   2407.41
+Prihvat sa centrirnim svrdlom za cilindr. pile HSS Bi-metal                         274.48    3    823.44    205.86
+SENSERLED PANEL nadgradni, 10W, 3000K, četvrtasti, sive boje                        531.37   29  15409.73   3852.43
+"Opt. razdjelnik,24 niti, SC, 9/125µm OS2, izvlačivi,19"",1U"                      1863.37   10  18633.70   4658.42
+7838M, TRIMLESS KIT za 7838 & 7910 (10kom)                                          219.81   28   6154.68   1538.67
+Ted-I-R 2x26W G24d-3, 230V, IP20, brušeni krom                                        5.74   15     86.10     21.52
+Aluminijski montažni nosač 2H                                                        11.62   28    325.36     81.34
+Ugradna svjetiljka KVADRA R70 1x28/54W QTI satinirani pokrov                        950.51   22  20911.22   5227.81
+Nadgradna svjetiljka SAP IP54 T5 4x24W ECG, bijela                                 1043.44   16  16695.04   4173.76
+Umetak 1-polne sklopke, na vijak                                                     11.25   21    236.25     59.06
+Razvodna kutija, nadžbukna, 75x75x40mm, membrane, IP54, siva                        859.41    2   1718.82    429.70
+Podnožje za izvlačivi prekidač, 3-polno, za MC4                                    4472.75    9  40254.75  10063.69
+Pokrov D02/E18 podnožja, 2-struki, širina 54mm, sustav 60mm                          10.93   21    229.53     57.38
+Kompaktni prekidač snage tip A, 4P, 150kA, 160A                                    2458.26    3   7374.78   1843.70
+Držač žaruljice sa ugrađenom LED, plavi, 24VAC/DC, vijč. st.                         24.39   18    439.02    109.75
+Univerzalni dimer , 1 x 230V AC‚ 10 ... 250 VA                                     1067.98    8   8543.84   2135.96
+Terra S LED 2W, 3000K, 65lm, 30°, IP67, IK08, inox                                   410.4   30  12312.00   3078.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     197648.7
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

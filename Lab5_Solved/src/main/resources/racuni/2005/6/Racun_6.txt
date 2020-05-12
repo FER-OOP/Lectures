@@ -1,0 +1,26 @@
+Račun br. 985939
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Završna pločica za stezaljku IK150004-A, bež                                           1.6   19     30.40      7.60
+Bezhalogeni kabel s el. funkc. do90 Min. (N)HXH-J5x10reE90                         8446.15   28 236492.22  59123.05
+VAP 70 podna svjetiljka,okr., nehrđ.čelik, E27, max.23W,IP44                       2809.97   30  84299.10  21074.78
+Bimetalni relej, područje podešenja 0.27-0.40A                                      214.32    2    428.64    107.16
+QRB Modul za AIXLIGHT PRO ugradno kućište, mat-bb                                   124.52   24   2988.48    747.12
+Daljinski isklopnik za MC1, 24V AC/DC, sa 3m kabela                                 351.38    4   1405.52    351.38
+Otvoreni prekidač, 4P, 55kA, 1000A, fiksni,vod. str. priklj.                      19632.16    5  98160.80  24540.20
+Otvoreni prekidač, 4P, 80kA, 1600A, izvl., vod. str. priklj.                      52491.54   18 944847.69 236211.91
+Montažna ploča 5PB, 1090x248x13mm, 6 visinskih jedinica                             336.77   10   3367.70    841.92
+T5 fluo cijev 24W High Output, 4000K                                                 62.51    9    562.59    140.65
+Izmj. Fronius Symo 15.0-3-M, 15kW, 3f, IP55, TL 2 MppTracker                      32720.89   28 916184.94 229046.23
+Ceta-S/A2 LED 8x1W 4000K 600lm, IP54, antracit                                      376.27   10   3762.70    940.67
+Finožični PVC-om izolirani vodič H05V-K (P/F) 1mm2, sivi                              93.1    2    186.20     46.55
+Romy-R 2x26W G24q-3, 230V, IP20, brušeni krom                                        59.47   29   1724.63    431.16
+
+                                                                                                         ----------
+UKUPNO                                                                                                    2294441.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

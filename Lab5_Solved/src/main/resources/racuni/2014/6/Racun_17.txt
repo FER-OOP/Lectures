@@ -1,0 +1,27 @@
+Račun br. 360876
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+SIGHT 54 TRACK, četvrt.obl., bijele b.,1x T5,54W,3-f adapter                       1250.97    2   2501.94    625.48
+Nadgradna downlight svjetiljka ARM 294 1x18W CCG TC-D,bijela                        356.65   15   5349.75   1337.44
+Okvir 1/3M line, plavi                                                               35.64   28    997.92    249.48
+FN Prenaponska zaštita, DC isklop, 1000VDC, za 1MPPT                               2925.63   29  84843.27  21210.82
+Osigurač EZII/25A                                                                     2.92   23     67.16     16.79
+Optički prespojni kabel duplex, ST/SC, 9/125µm OS2, 5.0m                             95.04    6    570.24    142.56
+"Opt. razdjelnik,16 niti, ST,50/125µm OM2, izvlačivi,19"",1U"                      1129.42    6   6776.52   1694.13
+Set zaštitnih pokrova (dugi) za stezaljke, za 3-polne MZ3                           140.66    9   1265.94    316.49
+Instalacijski umetak za Minipol ormar 400x300mm, 2x12 modula                        448.56   12   5382.72   1345.68
+Ugradna svj. SELENA OP LED ECO 37W M625 3700lm/830 ECG,bb                           739.14    5   3695.70    923.93
+Elektronski transformator FN I, 12V, 60VA                                            93.26    2    186.52     46.63
+Kabel EYY-J (PP00-Y) 4x2,5 RE                                                        910.8   10   9108.00   2277.00
+Fluo cijev T5|T16 24W/840 G5                                                         18.46   29    535.34    133.83
+Ispravljač, 1-fazni | 230-400/24VDC | 11A                                          1118.72   16  17899.52   4474.88
+Bezhal. kabel HSLH-OZ2x2,5FRNC H-F1žila ž/z ostale crn/siv                           10000   26 260000.00  65000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    399180.56
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

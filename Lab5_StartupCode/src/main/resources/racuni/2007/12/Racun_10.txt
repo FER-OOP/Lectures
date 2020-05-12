@@ -1,0 +1,19 @@
+Račun br. 601060
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+CRYSTAL I Downlight svjetiljka, MR16                                                280.98   29   8148.42   2037.11
+Kompaktni prekidač snage tip A, 4P, 25kA, 250A                                     3239.05   27  87454.35  21863.59
+Tugru-WL-S LED 2x1W, IP20, aluminij                                                 188.22    7   1317.54    329.39
+Distribucijski blok, 4P,125A,1x35|2x16+5x6mm² i 6x16+4x10mm²                        145.12    9   1306.08    326.52
+Spojnica za savitljivu cijev M32, siva (pak. 25 kom.)                               297.96   13   3873.48    968.37
+Design IL ERT-LED 1x3W 230V AC/DC CPS ML, za visoke stropove                       1134.04   18  20412.72   5103.18
+T5 fluo cijev 21W High Efficiency 3000K                                              62.51   26   1625.26    406.32
+
+                                                                                                         ----------
+UKUPNO                                                                                                    124137.84
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

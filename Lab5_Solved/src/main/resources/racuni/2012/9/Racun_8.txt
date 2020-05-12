@@ -1,0 +1,21 @@
+Račun br. 368783
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ugradna svjetiljka SERM 2 A8 L1 T5 1x80W, ECG, bijela                                 8534    3  25602.00   6400.50
+Design LED Reflektor 100W 7800lm neutr. bb 4200K, bijele b.                         2573.7   28  72063.60  18015.90
+Ulična svj. RUBINO LED 110W 11250lm/740 ECG IP66,klasa II,sb                       2818.04   26  73269.04  18317.26
+Prednji pokrov glavnih kontakata, za VC3                                              4380    8  35040.00   8760.00
+Nazidna utičnica sa zaštitom za djecu, bijela, 16A ,IP44                             81.01    6    486.06    121.51
+"Optički prespojni panel 19"", 1U, uklj. 24 spojnice LC MM"                         1028.6   27  27772.20   6943.05
+Kabel LiYCY 5x0,5                                                                   892.58   18  16066.44   4016.61
+SAT koaksijalni adapter F-ž/F-m quick, kutni, CFA 6-02                                11.5   13    149.50     37.38
+Tarifni prekidač s podešavanjem na 25, 35 i 40A, 3-polni                            382.07   25   9551.75   2387.94
+
+                                                                                                         ----------
+UKUPNO                                                                                                     260000.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

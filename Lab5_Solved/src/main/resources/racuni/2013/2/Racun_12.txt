@@ -1,0 +1,24 @@
+Račun br. 603257
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+FFL LS-zaštitna cijev 58 PC 1480 uklj. prstene                                       80.36    7    562.52    140.63
+HORN 2 TURNO GU10 ugradna, ovalna, mat crne b., max. 2x 50W                         437.43    7   3062.01    765.50
+Minijaturni relej, 4C/O, 6A, 6VAC, serije PT                                         38.95    6    233.70     58.43
+Solarlog set kabela 3m za Kostal                                                    213.36   14   2987.04    746.76
+Rastavna sklopka za cilindrične osigurače 10x38mm, 1P+N/32A                          30.16    8    241.28     60.32
+Distribucijski blok, 1P, 80A, 1x16mm² | 2x16mm² + 4x6mm²                                50    7    350.00     87.50
+Cijev, M32, 320N, EN2221, svijetlo siva, 3m (pak. 57m)                               622.2   30  18666.00   4666.50
+Relej, 1 C/O, 12-240V AC/DC, montaža na DIN nosač                                   193.26    8   1546.08    386.52
+Ugradna svjetiljka SEP ECO T8 4x18W ECG IP54 M600, bijela                           421.81   30  12654.30   3163.57
+Kompenzacija  LSFC 14% 200/12,5kvar 800x2110x500mm Sam.orm.                       64880.45   181167848.13 291962.03
+Kabel EYY-O (PP00) 4x16RM                                                            10000    6  60000.00  15000.00
+Nazidna 2-polna sklopka, bijela, 16A, IP44, utične stezaljke                         73.68   20   1473.60    368.40
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1269624.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

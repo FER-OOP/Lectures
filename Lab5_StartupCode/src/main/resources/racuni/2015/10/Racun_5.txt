@@ -1,0 +1,14 @@
+Račun br. 1006817
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LED DMX & PWM Dimer Mono                                                            676.39   15  10145.85   2536.46
+FID sklopka 63-4-05/AC, 10kA                                                           331   18   5958.00   1489.50
+
+                                                                                                         ----------
+UKUPNO                                                                                                    16103.851
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

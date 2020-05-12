@@ -1,0 +1,29 @@
+Račun br. 660261
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Modularna slijepa ploča za AS/KS ormare, 600x50mm, RAL 7035                          62.51    2    125.02     31.25
+Okvir 1/3M line, zeleni                                                               2434    8  19472.00   4868.00
+"Svjetleće tipkalo bez povrata, plosnato, zeleno ""I"""                                 60   10    600.00    150.00
+SAT antena 60/55cm,čel.,36dB,sklopiva ruka,antracit                                 171.92   30   5157.60   1289.40
+DEQ sigur. lampa ERT-LED 230V za CPS MIX mod, ugradna strop                         765.73   12   9188.76   2297.19
+BILAS LED ugradna stropna svj. 20W 2700K 60°, okrugla, cb                          1871.23   12  22454.76   5613.69
+Prednja ploča za utičnicu, bijela                                                    11.52   11    126.72     31.68
+Box priključne stezaljke, za 4-polnu MC1 (4 kom.)                                     80.3   18   1445.40    361.35
+Montažna ploča za IG008201, 380x780x6mm (ŠxVxD)                                     761.02    7   5327.14   1331.79
+Kabel za motorne pogone SLM-JZ 5x4 0,6/1kV sivi                                    3686.33    9  33176.97   8294.24
+Finožični PVC-om izol. vodič H07V-K (P/F) 1,5mm2, crveni HPV                         10000   12 120000.00  30000.00
+Pinta-LR-Q/A1 50W GU10 MR16, 100-240V, IP20, bijele boje                             43.25   14    605.50    151.38
+Nadgradna svjetiljka SARS 2 ECO T8 4x18W ECG, bijela                                279.71    7   1957.97    489.49
+Signalni fleksibilni kabel YSLCY-JZ 18x 0,75 sivi                                    10000   28 280000.00  70000.00
+Print relej, 1N/O, 6A, 5V DC, serije RE                                              20.36   19    386.84     96.71
+Zaštitni prekidač MB 25kA CL 32/3                                                   476.17   22  10475.74   2618.94
+Compact office, senzor pris. HVAC 24V, p/ž, stropni, crni                          1505.38   21  31612.98   7903.24
+
+                                                                                                         ----------
+UKUPNO                                                                                                    542113.44
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

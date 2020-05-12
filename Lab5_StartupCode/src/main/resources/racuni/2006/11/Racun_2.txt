@@ -1,0 +1,22 @@
+Račun br. 611105
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+FFL LS-zaštitna cijev 28/54 PC 1180 uklj. prstene                                    88.73   12   1064.76    266.19
+Zavr.pok. za 1-faznu 3-f šinu, srebrne boje 2 kom.                                   14.36   15    215.40     53.85
+Poklopac za zašt. od prašine za tooll. module, crni, 25 kom                           19.6   27    529.20    132.30
+Prespojni kabel RJ45 cat.6 oklop.,s pregibnicama,zeleni,3m                           20.53    3     61.59     15.40
+Optički prespojni kabel duplex, LC/LC, 50/125µm OM3, 1.0m                             68.6   22   1509.20    377.30
+SFB LED 25W, 4000K, 2000lm, 100-240V, IP54, pc, bijele boje                         549.62   17   9343.54   2335.89
+LED napajanje TC 11W/700mA, slim, MM, IP20                                          175.78   22   3867.16    966.79
+Finožični PVC-om izol. vodič H05V-K (P/F) 0,75mm2, crni HPV                          10000   12 120000.00  30000.00
+E27 LED SMALL BALL žarulja, 260lm , 3000K                                            93.26    6    559.56    139.89
+Nadgradna downlight svjetiljka ARM 292 2x13W CCG TC-D,bijela                        369.84   10   3698.40    924.60
+
+                                                                                                         ----------
+UKUPNO                                                                                                    140848.81
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

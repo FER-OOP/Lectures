@@ -1,0 +1,16 @@
+Račun br. 926305
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+89900/R,  FILTER za QR111, crvene boje                                               17.74   17    301.58     75.39
+Kliješta za krimpanje 0,25-2,5                                                        2303   26  59878.00  14969.50
+Ugradna downlight svjetiljka ERK 207 1-18 TC-DEL ECG bijela                         275.21   13   3577.73    894.43
+Toolless connection utični modul, crveni (pak.=10 kom.)                               6.56   10     65.60     16.40
+
+                                                                                                         ----------
+UKUPNO                                                                                                     63822.91
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

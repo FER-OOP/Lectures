@@ -1,0 +1,23 @@
+Račun br. 773248
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+3f reflektor VITO LED 29W 2100lm/830 40°, bijele boje                               1000.9   14  14012.60   3503.15
+Kontrolna sklopka 2-polna 16A sa signalnom lampicom siva                             90.32   10    903.20    225.80
+KVADRA 70M prolazno ožičenje 3x1,5mm2                                                12.87   26    334.62     83.65
+7918/W, Bijeli profil IP68 , 2m + PMMA opalni pokrov                                168.62   22   3709.64    927.41
+UPS GENIO MaxiGreen 6kVA/ 5,4kW                                                   21176.06   18 381169.09  95292.27
+Punto-A PAR16 Spot GU10 50W IP20 zakretna bijela                                     33.11   29    960.19    240.05
+"Samostojeći komunikacijski ormar DS 600x1300x600, 19"", 27U"                      2970.83    8  23766.64   5941.66
+Fluo cijev T16 49W/830 G5                                                            29.01   26    754.26    188.57
+7306KGD/C/45, COB LED GU10 6,5w CW 45 ° dimabilna 230v                               92.75    9    834.75    208.69
+FID sklopka 125-4-003/AC                                                              4270   30 128100.00  32025.00
+Kabelska stopica 70mm2, M10                                                          18.23   27    492.21    123.05
+
+                                                                                                         ----------
+UKUPNO                                                                                                     555037.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

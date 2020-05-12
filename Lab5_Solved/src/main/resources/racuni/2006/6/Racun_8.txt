@@ -1,0 +1,22 @@
+Račun br. 473967
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Halogena žarulja QT12 50W IRC GY6,35 Energysaver                                     32.88   18    591.84    147.96
+Set za konverziju iz fiksne u izvlačivu izvedbu, za MO3, 3P                           4970   17  84490.00  21122.50
+PROTECTOR K nazidna kutija visine 20mm, bijela                                       30.64   19    582.16    145.54
+DCM modul 2 kruga,pripremni/trajni spoj, 20 lampi /krug, 6A                        1945.63   13  25293.19   6323.30
+89015AT, LED dimabilni DRIVER 700mA 12-15w , ulaz 230v                              145.81   15   2187.15    546.79
+Optički završetak FC, 62,5/125µm OM1, 2.0m (4 kom.)                                   78.1   14   1093.40    273.35
+Uvodnica PG29, mesing                                                                36.46   26    947.96    236.99
+Kompaktni prekidač snage tip AE, 4P, 50kA, 800A+izvl. modul                       17156.27   21 360281.66  90070.41
+Prednja ploča, čelična, sa otvorom za uređaje, 2G4                                    4160   22  91520.00  22880.00
+Utikač za TYTAN II 3x32A sa D02 osiguračima, komplet                                152.53    4    610.12    152.53
+
+                                                                                                         ----------
+UKUPNO                                                                                                     567597.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

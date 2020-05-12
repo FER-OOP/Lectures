@@ -1,0 +1,21 @@
+Račun br. 974020
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+POWER LED žarulja QRB, tople bijele boje                                            483.86   19   9193.34   2298.33
+3f reflektor VITO DC LED 30W 2550lm/840 40°, bijele boje                           1278.14   24  30675.36   7668.84
+Motorna zaštitna sklopka, 3-polna | 2.20 - 3,20A, vel.S00                            200.5   21   4210.50   1052.63
+Panik svjetiljka AS LED 4W 230V AC, za CPS, univ. montaža                           1549.9   28  43397.20  10849.30
+NV osigurač vel. 00, 10A/400V AC                                                     19.92    9    179.28     44.82
+Univerzalni okvir za LED-Panel, 595x595mm, bijele boje                              249.72    5   1248.60    312.15
+Odcjepnik za SB2 sustave u boji                                                     136.38   27   3682.26    920.57
+HSS Bimetal cilindr.pila za rupe, d68mm,bez osovine                                 148.07    2    296.14     74.04
+Kronos-Q/A2 LED 25W 4000K 1750lm, IP20, sive boje                                   659.61    5   3298.05    824.51
+
+                                                                                                         ----------
+UKUPNO                                                                                                     96180.73
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

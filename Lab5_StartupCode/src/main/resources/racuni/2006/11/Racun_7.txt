@@ -1,0 +1,21 @@
+Račun br. 584963
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Glenos akrilni pokrov, četvrtasti pokrov za profile 2609, 2m                        249.72   15   3745.80    936.45
+Tipka sa natpisnim poljem dimenzije 50x50mm, biserno bijela                           2120   18  38160.00   9540.00
+KALOS ASL rotosim. optika 10LED,4000K 24W,antracit, 4 kraka                        4021.12   28 112591.36  28147.84
+Terra-II-R 9W GX53, 100-240V, IP67, nehrđajući čelik                                231.98   10   2319.80    579.95
+Josh-S LED 1,2W 3000K, IP54, mesing                                                 116.92    6    701.52    175.38
+U/UTP inst. kabel cat.6,4x2xAWG23/1,300MHz,PVC,plavi,500m                           296.92    1    296.92     74.23
+Sticker Totem Bear, bijele boje                                                     155.78   25   3894.50    973.63
+GRAFIT, zidna svj., antracit, E27, max.11W                                          343.49   20   6869.80   1717.45
+TRAIL podna svj.LED 650mm 19W,1800lm asim. 4000K                                      3294   19  62586.00  15646.50
+
+                                                                                                         ----------
+UKUPNO                                                                                                    231165.69
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

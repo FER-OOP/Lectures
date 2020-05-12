@@ -1,0 +1,17 @@
+Račun br. 112247
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+EURO CUBE Spot, 4000K, CRI90, 60°, uklj. 3F adapter, sive b.                       1433.11   28  40127.08  10031.77
+Umetak izmjeničnog tipkala, na vijak                                                 15.62   21    328.02     82.00
+Motorna zaštitna sklopka, 3-polna | 2.5 - 4.0A                                      204.98   21   4304.58   1076.15
+Cube-WL-Q 2x35W GU10 MR16, 100-240V, IP54, rusty                                    219.81    1    219.81     54.95
+Kompaktni prekidač snage tip AE, 4P, 50kA, 400A/250A, red. N                       5336.06   21 112057.26  28014.32
+
+                                                                                                         ----------
+UKUPNO                                                                                                    157036.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,18 @@
+Račun br. 464164
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Pozivni modul sa 4 tipke, simplebus, IKALL                                          605.76    2   1211.52    302.88
+Nadgradna svjetiljka SAP ECO T8 2x36W CCG, ind, bijela                              466.49   21   9796.29   2449.07
+DIABO SPOT, srebrne boje, GU10, max. 35W, 1-f adapter                               437.43    2    874.86    218.71
+LED MR16 35 DIM 5W 12V 36° 827 350lm 950cd GU5.3 25000h                              72.65   15   1089.75    272.44
+PLASTRA zidna svjetiljka, GL 104 ROUND, gips, G9, max. 42W                          374.92   17   6373.64   1593.41
+Nap.stezaljka za LINUX LIGHT, srebrne boje                                          218.46    1    218.46     54.62
+
+                                                                                                         ----------
+UKUPNO                                                                                                    19564.521
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

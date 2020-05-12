@@ -1,0 +1,22 @@
+Račun br. 320410
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+EURO SPOT G12, 60°, sa 3-faznim adapterom, srebrne boje                             875.55   19  16635.45   4158.86
+Telefonski pokrov za magazin prenap. zašt., prozirni                                 10.39   15    155.85     38.96
+KADUX LED Triple DL Set, 3000K, 38°, brušeni aluminij                              1250.97   15  18764.55   4691.14
+Savitljiva cijev (srednje) plašt,750N,M25, 50m, EN3341, siva                        721.72   20  14434.40   3608.60
+Pokrov lučne komore za MO2, 4-polni (kao rezervni dio)                                4970   21 104370.00  26092.50
+Bezhalogeni kabel s el. funkc. do30 Min. (N)HXCH4x10re/10E30                         10000   28 280000.00  70000.00
+7902/AL, Aluminijski profil 2m + PC opalni pokrov                                   146.65   16   2346.40    586.60
+Rona-Q LED 30W 3000K 2500lm, IP54, antracit                                         636.47   19  12092.93   3023.23
+PVC-om izol.kabel za srednja meh.opt. YMS -J 5x6 crni                                10000    5  50000.00  12500.00
+Fluo cijev T26 36W/840 G13                                                           25.75   16    412.00    103.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     499211.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

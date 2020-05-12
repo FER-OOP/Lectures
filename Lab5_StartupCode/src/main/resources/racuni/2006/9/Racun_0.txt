@@ -1,0 +1,15 @@
+Račun br. 1029146
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+SAT uzemljenje+prenap. zašt.,9x F-kon.,9x odv.,za HSATS5xxKA                         464.2   23  10676.60   2669.15
+Završni poklopac CLR ravni sa rupom i vijcima                                         51.6    2    103.20     25.80
+NEW TRIA II LED DL SQUARE SET, bruš. alum., 2x6W, 38°, 2700K                        687.83   19  13068.77   3267.19
+
+                                                                                                         ----------
+UKUPNO                                                                                                     23848.57
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

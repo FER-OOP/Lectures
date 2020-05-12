@@ -1,0 +1,24 @@
+Račun br. 177692
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+KVADRA 70M 1x35/49/80W DALI preklapajući uložak                                    1001.55    2   2003.10    500.77
+"""Synchro"" uklopni sat, tjedni program"                                             2103   27  56781.00  14195.25
+Ručni odašiljač sa vezicom, za EL733540, 30m, 868 MHz                                 2104    8  16832.00   4208.00
+Kabel H05VV-F (PP/J) 3x0,75mm2, bijeli, 100m                                         10000    6  60000.00  15000.00
+Brtva za sklopke, za IP44                                                              7.5   11     82.50     20.63
+FlexLED Roll, plave b., 1m, 60LED/m, DC 24V                                         105.76    6    634.56    158.64
+7904R/AL, Aluminijski ugradni profil 2m + PC opalni pokrov                          183.15    1    183.15     45.79
+Kliješta za krimpanje 210808                                                          2303   17  39151.00   9787.75
+Sklopnik vel.00 | 4P | AC1 18A/690V | 24VDC                                         130.17    2    260.34     65.08
+Perforirana stražnja str. za DS/DSZ ormare, 42U, Š=600                              744.12    4   2976.48    744.12
+Y ovjes za svjetiljke, duljine 1,2m                                                  49.02   14    686.28    171.57
+Križna spojnica šina                                                                 28.38   24    681.12    170.28
+
+                                                                                                         ----------
+UKUPNO                                                                                                    180271.55
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,23 @@
+Račun br. 178916
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Relej snage, 3C/O, 16A, 24VDC, Faston 187, Tip RM                                    71.71   17   1219.07    304.77
+Svjetlosna sklopka sa integriranim senzorom, vanjska, IP55                          338.65   14   4741.10   1185.28
+Finožični PVC-om izolirani vodič H07V-K (P/F) 185mm2, crni                         16150.5   27 436063.50 109015.87
+Samostojeći ormar INOX, 2000x600x600mm, IP56, AISI304                             19760.54   20 395210.78  98802.70
+LIPSY 50 M COLOR CONTROL zidna/stropna svj., 55cm, RGB 3000K                       2058.94   14  28825.16   7206.29
+BIG THEO OUT GU10 stropna svj., četvrt.,bi.b.,max.35W                               500.12   13   6501.56   1625.39
+ORION CONE ovjesna, bijela b. , E27, max. 60W, staklo                              1250.97   20  25019.40   6254.85
+Zaštita od dodira (pokrov), za NV podnožja vel.00                                     4837    2   9674.00   2418.50
+Sklopnik 3P |18.5kW (40A) [AC3] / 80A [AC1] | 110V AC                               497.18   22  10937.96   2734.49
+Završna pločica za stezaljku IK690014--, siva                                         3.09   30     92.70     23.17
+IP FLEXLED ROLL 24V, 25W, 5000K, 5m, 60LED/m, IP55                                  500.12   12   6001.44   1500.36
+
+                                                                                                         ----------
+UKUPNO                                                                                                     924286.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

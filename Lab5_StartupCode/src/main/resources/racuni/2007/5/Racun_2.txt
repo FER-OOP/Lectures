@@ -1,0 +1,21 @@
+Račun br. 426116
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Modularni okvir za ormar 1800x800mm, 33 reda                                        674.15   27  18202.05   4550.51
+Reflektor 24° za 70W CMH Spot                                                       124.52   29   3611.08    902.77
+Ind.svj.ARKTUR SQUARE LED 113W 12000lm/765 ECG IP65 120x40°                        2733.37   24  65600.88  16400.22
+Zaštitni prekidač C 10A, 1-polni+N, širine 1 modula                                  94.64   12   1135.68    283.92
+Neizolirana Cu stopica 35mm², M8                                                      5.15   29    149.35     37.34
+Aluminijski profil LBI, D-2000mm Š-29mm V-19mm                                       75.39   11    829.29    207.32
+FID sklopka 125-4-03/AC                                                             1913.7    9  17223.30   4305.82
+BISHADE podna svjetiljka, SL-1, E27                                                1871.23   12  22454.76   5613.69
+SAT set vijaka, Ø10mm,tiple 70mm, 4 kom.                                             31.68   10    316.80     79.20
+
+                                                                                                         ----------
+UKUPNO                                                                                                    129523.19
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

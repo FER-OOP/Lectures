@@ -1,0 +1,30 @@
+Račun br. 1019411
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"Zidni komunikacijski ormar DW Monobloc, 600x500x395, 19"", 9U"                     887.42   27  23960.34   5990.08
+Tipka sa simbolom ključa, termički postojana, biserno bijela                         29.18   15    437.70    109.43
+Sklopnik vel. 0 | 4kW (9A) [AC-3] | 230VAC, 50/60Hz                                 100.92    2    201.84     50.46
+Kabel H03VV-F (PP/L) 3x0,75mm2, žuti 50m kolut                                       10000   17 170000.00  42500.00
+DEBASTO LED COB SPOT, 7W, 3000K, okrugla, crne boje                                 813.03   15  12195.45   3048.86
+Prednja ploča za timer (za EL177030), 15min, bijela                                  71.38   26   1855.88    463.97
+Optički završetak LC, 50/125µm OM3, 2.0m (4 kom.)                                    76.47    9    688.23    172.06
+Bezhal. kabel s konc.zaštitnim Cu vodičem N2XCH 2x2,5re/2,5                          10000   27 270000.00  67500.00
+Priključna kutija, nehrđajući čelik, 200x500x120(VxŠxD),IP66                       1596.09   29  46286.61  11571.65
+Mehanička blokada za sklopnike vel. 0                                                 6.73   30    201.90     50.48
+Stezaljka glavnog voda (za Cu), 1P, 4x35mm²|4x25mm², siva                            50.01   16    800.16    200.04
+Odvodnik prenapona PHOTEC. KLASA II (C) 550VDC, In 20kA                             582.64   24  13983.36   3495.84
+Levante-M 30 LED 71W 6065lm 3000K asim., IP66,SKII,RAL9003                         4644.86   27 125411.22  31352.80
+Transformator, 1-fazni | 230/024V | 250VA, IP00                                     512.67    4   2050.68    512.67
+UPS Genio Flex Plus Dual 2200VA 1980W 5 Min.1/1f/Line-Int.                         5688.54   23 130836.42  32709.11
+Grebenasta sklopka u kućištu, 1-0-2/1P/20A, IP40                                    146.34    4    585.36    146.34
+Self-cont. luminaire KB autotest LED 1h/3h/8h 230V AC wall                         1317.01    5   6585.05   1646.26
+Tipkalo, 16A, 1 N/O, montaža na DIN                                                  47.24   15    708.60    177.15
+
+                                                                                                         ----------
+UKUPNO                                                                                                    806788.94
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

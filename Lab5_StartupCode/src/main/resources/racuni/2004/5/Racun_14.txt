@@ -1,0 +1,23 @@
+Račun br. 511442
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Halogena žarulja HALOLUX 64542 A ES 28W E27                                          17.84   27    481.68    120.42
+Ina-R/A1 50W GU5,3 MR16, 12V, IP20, aluminij                                         69.78   10    697.80    174.45
+Audio/Video KITS                                                                     16.12   22    354.64     88.66
+LED prespojni kabel RJ45 oklopljen,500 MHz,Ea,10GB,plavi,7m                         108.61    6    651.66    162.92
+Nosači za montažu TB profila                                                         50.26   23   1155.98    288.99
+9F13/W, 13W GX53 WW                                                                  11.65    8     93.20     23.30
+Ulična svj. RUBINO LED 110W 12000lm/757 ECG IP66,klasa II,sb                       3048.99   22  67077.78  16769.45
+Relej za nadzor napona, 1 fazni, 1 C/O                                              398.23   28  11150.44   2787.61
+OUT 65 LED DL četvrtasti Set, 9W, 3000K, 38°,  uklj. nap.,cb                        468.69   28  13123.32   3280.83
+Fluokompaktna žarulja TC-D 13W, 2700K, 2-Pin                                         43.76   11    481.36    120.34
+Nadžbukna utičnica, dvostruka, 16A/250V, bijela                                      82.73    4    330.92     82.73
+
+                                                                                                         ----------
+UKUPNO                                                                                                     95598.78
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

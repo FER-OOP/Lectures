@@ -1,0 +1,18 @@
+Račun br. 430696
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+FID sklopka 63-4-003/A, G izvedba, za frekventne pretvarače                        1496.11   16  23937.76   5984.44
+Univerzalna stezaljka 4-35mm², za na sabirnice debljine 5mm                           6.63   19    125.97     31.49
+KALOS jednostr. nosač 500mm za stup Ø 102mm, antracit                              3618.35   27  97695.45  24423.86
+Prespojni kabel RJ45 STP cat.6a/10GB, LS0H, sivi, 2.0m                               36.06   16    576.96    144.24
+PREDNJA PLOČA, S OTVOROM, 2G4K DUGA                                                   4160    6  24960.00   6240.00
+KALU LED 2 FLOOR podna svjetiljka, 2x10W, 3000K, bb/cb                             1558.31   13  20258.03   5064.51
+
+                                                                                                         ----------
+UKUPNO                                                                                                    167554.19
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,14 @@
+Račun br. 293250
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+KADA ZA P/Ž RAZDJELNIK, 4-REDNA, 48+8 MODULA                                        104.44   14   1462.16    365.54
+Univer.opt.kabel A/I-DQ(ZN)BH 4x50/125µm OM3, LS0H-3, nm.                           773.59    1    773.59    193.40
+
+                                                                                                         ----------
+UKUPNO                                                                                                      2235.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

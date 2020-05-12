@@ -1,0 +1,32 @@
+Račun br. 417702
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kompenzacija  LSFC 14% 200/50kvar 600x2000x600mm Samost.orm.                      62670.49   181128068.75 282017.19
+Bezhalogeni kabel s el. funkc. do90 Min.(N)HXCH24x1,5re/6E90                         10000   19 190000.00  47500.00
+Utičnica s poklopcem, 16A, umetak, na vijak, bijela                                   2120   12  25440.00   6360.00
+Vodič (N)YM-J (PGP) 12x1,5mm2, sa zašt. vodičem, svij.-sivi                          10000   27 270000.00  67500.00
+7824, LED POWER SUPPLY CABLE za 7820 / 7821                                          11.15    2     22.30      5.57
+Instal. umetak 4-12K komplet 4 IR prednja pl. čelik                                 990.63    2   1981.26    495.31
+LED žarulja Classic compact Ultra opal 3,5W E14 250lm 2800K                          76.01    8    608.08    152.02
+Natični (djeljivi) strujni trafo, 100/5A, 30x20mm                                     4398   28 123144.00  30786.00
+Bimetalni relej, područje podešenja 0.8-1.2A                                        160.45   13   2085.85    521.46
+NV rastavna pruga vel.00|160A, 3P, M8, sustav 60mm                                  591.25   16   9460.00   2365.00
+Kutnik za theLuxa, bijeli                                                            36.77    9    330.93     82.73
+Kada za brojilo, 4 ploče za brojilo u jednom redu, 2-reda                           925.59    9   8330.31   2082.58
+Vartec modul varistor, VVM, TII, 320V/20kA                                           143.1    2    286.20     71.55
+LED RETROFIT T8 58 S 20W 230V 150° 840 3150lm G13 HF 50000h                         233.93   14   3275.02    818.75
+Mini grijač 60W, 9-36V AC/DC                                                        480.84   29  13944.36   3486.09
+Vodotijesna svjetiljka LINDA Transparente 2-11W TC-S IP65 PC                        411.34   18   7404.12   1851.03
+Svjetiljka Design GX LED, 230V AC/DC, u zid/na zid, 34m                            1240.43   24  29770.32   7442.58
+Linijska svj. SIMPLE LINE LED 1012 32W 3200lm/830 DALI,bb                          1039.44   25  25986.00   6496.50
+INDI REC 2S Downlight, MR16, zakretni,četvrtasti,bijele boje                        218.46   27   5898.42   1474.61
+Industrijska svjetiljka SCUP AL 1x150W,E27,MT,MB, IP65, crna                          8542   17 145214.00  36303.50
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1991249.9
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

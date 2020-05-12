@@ -1,0 +1,31 @@
+Račun br. 351669
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Togra-WL-R 20W E27, 100-240V, IP44, nehrđajući čelik                                268.81   14   3763.34    940.84
+Kabel LiYCY 8x0,5                                                                    10000    5  50000.00  12500.00
+Osigurač EZII/16A                                                                     2.51    6     15.06      3.77
+Teretna sklopka, 3P, 200A, VC2, bez ručice                                          843.01   17  14331.17   3582.79
+"Označna pločica tip CSC ""0"" (100 kom.)"                                            9.83   10     98.30     24.58
+Icarus-Q LED 2x3W 3000K 500lm, IP54, aluminij                                       629.88   23  14487.24   3621.81
+KNX dimer, EM, 20-500VA                                                             883.34   10   8833.40   2208.35
+Kabel H03VV-F (PP/L) 4x0,75mm2, svijetlo-sivi, 50m kolut                             10000   15 150000.00  37500.00
+Panik svje.tip OL  OLED 230VAC/DC CPS dvostrana, sa ovjesom                        2993.19   30  89795.70  22448.92
+Kompaktni prekidač snage tip AF, 3P/200A/36kA                                      1158.99   30  34769.70   8692.42
+KALU TRACK QPAR111 svjetiljka, crna b., uklj. 1-f.adapter                           406.17   14   5686.38   1421.60
+Kompaktni prekidač snage tip A, 3P/80A/36kA, box stezaljke                          580.51   25  14512.75   3628.19
+Baterije 18 kom. longlife OGiV 12V/79Ah s kabelima za ožič.                        25443.4   19 483424.59 120856.16
+Finožični PVC-om izol. vodič H07V-K (P/F) 120mm2, ž/z HPV                            10000   23 230000.00  57500.00
+Bakreno uže 35 mm2                                                                 3877.91   11  42657.01  10664.25
+Voltmetar, montaža na DIN nosač, 500VAC, direktno                                   280.79   25   7019.75   1754.94
+Napajanje 36W, 12V, IP67                                                            170.33   19   3236.27    809.07
+Prednji/stražnji pokrov za zaštitu za DW4Hx1…,Š=500mm                                 6018   21 126378.00  31594.50
+Teretna sklopka, rastavljač (izolator), AMPARO, 32A, 2P                              74.25   11    816.75    204.19
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1279825.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

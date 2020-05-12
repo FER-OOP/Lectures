@@ -1,0 +1,16 @@
+Račun br. 262151
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+ALPA MUSHROOM 75, srebrne boje                                                      938.06    4   3752.24    938.06
+Gumom iz. i oplašten 1-žilni kabel 1,8/3 kV NSGAFöu 70 crni                          10000   22 220000.00  55000.00
+Tipka MO 1M sa simbolom ključa i indikacijom, bijela                                  3.43   23     78.89     19.72
+FlexLED Roll 24V, 5W, 2700K, 1m, 60 LED/m                                           105.76   23   2432.48    608.12
+
+                                                                                                         ----------
+UKUPNO                                                                                                    226263.61
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

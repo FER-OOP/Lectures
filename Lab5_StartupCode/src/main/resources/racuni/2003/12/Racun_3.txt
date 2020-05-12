@@ -1,0 +1,17 @@
+Račun br. 928059
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Signalni fleksibilni kabel YSLCY-OZ 4x 0,5 sivi                                      10000    4  40000.00  10000.00
+ALTRA DICE SPOT, četvrt.,crne boje ,GU10,max. 50W, 3-f adap.                        531.37   29  15409.73   3852.43
+TERANG zidna i stropna svjetiljka, 8W LED, 3000K, oval,rusty                        343.66    8   2749.28    687.32
+Nosač MFI                                                                             51.6   23   1186.80    296.70
+Bezhal. kabel HSLH-OZ2x1,5FRNC H-F 1žila ž/z ostale crn/siv                          10000   13 130000.00  32500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    189345.81
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

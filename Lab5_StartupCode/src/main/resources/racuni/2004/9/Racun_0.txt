@@ -1,0 +1,17 @@
+Račun br. 565346
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Nadžbukni okvir za senzor prisutnosti, bijeli                                        84.99   17   1444.83    361.21
+LED LINK LINE sabirna točka 12xRJ45 cat.6a,12xk.bl.in.kab.                          835.14   12  10021.68   2505.42
+Majica Store kratkih rukava -XX-large-                                              301.79    8   2414.32    603.58
+Kutija za fiksni spoj za vodiče promjera do 8mm, inox efekt                         130.98    4    523.92    130.98
+Kompaktni prekidač snage tip M, 3P/40A/100kA, MC1                                     4963   28 138964.00  34741.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    153368.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

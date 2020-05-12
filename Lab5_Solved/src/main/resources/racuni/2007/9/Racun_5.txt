@@ -1,0 +1,33 @@
+Račun br. 832917
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Motus MS-W 180° 9m senzor pokreta IP44, montaža na zid, crni                         79.11   14   1107.54    276.89
+Ugradna downl. svj. ERM 202 2x18W ECG TC-DEL IP20/44, bijela                        297.24    4   1188.96    297.24
+Ciri-S LED 10W 3000K 700lm, 80°, IP20, aluminij, sive boje                          245.49   24   5891.76   1472.94
+A03VV-F 5x0,75mm2, svijetlo-sivi, 100m kolut                                         10000    4  40000.00  10000.00
+Instalacijski sklopnik 25A | 3 N/O + 1 N/C | 230V AC                                149.19   20   2983.80    745.95
+Shelf Strip 8x prespojna kutija                                                      43.92   13    570.96    142.74
+Kabel JE-LiYCY 16x2x0,5 Bd Si, sivi                                                  10000   19 190000.00  47500.00
+D02 rastavna sklopka CORON 2, 1-polna, 63A                                          206.74    7   1447.18    361.80
+PLENUM MOVE podna svjetiljka, okr., bijele b., E27, max. 25W                       1871.23   11  20583.53   5145.88
+SMD LED žarulja, oblik svijeće, mat, E14, 4W, 3000K, 250lm                           33.11   18    595.98    148.99
+SATIN CONE SHADE, bb/krom                                                          1250.97   16  20015.52   5003.88
+NEW MYRA DISPLAY CURVE, antracit, GU10, max. 50W, IP55                              938.06   12  11256.72   2814.18
+Umetak za rolete sa proširenim ulazima                                             1012.57   21  21263.97   5315.99
+Odvodnik prenapona klase C, TNS, 255V/20kA (SET) + pom. kon.                        735.92    4   2943.68    735.92
+Zaštitni prekidač sa svojstvima rastavljača,D100A,3-polni+N                        1053.32   16  16853.12   4213.28
+Optički prespojni kabel duplex, LC/LC, 9/125µm OS2, 10.0m                           124.84   11   1373.24    343.31
+Elektronski transformator FN III, 12V, 150VA                                        155.78   27   4206.06   1051.52
+Reflektor LED , 10W,4200K,850lm ,100°, IP65 za CPS sustav                           546.09   20  10921.80   2730.45
+FID sklopka 25-2-01/AC, 6kA                                                         206.59    7   1446.13    361.53
+Gumeni kabel, otporan na temperat. do 110° H07G-K 2,5, crni                          10000   18 180000.00  45000.00
+Jednožični PVC-om izolirani vodič H05V-U (P) 1mm2, zeleni                            10000    5  50000.00  12500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     584650.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

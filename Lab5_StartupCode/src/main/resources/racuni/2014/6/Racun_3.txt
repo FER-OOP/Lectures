@@ -1,0 +1,20 @@
+Račun br. 1077029
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Nadzemni kabel E-A2Y 4x95RM, 0,6/1KV                                                 10000   29 290000.00  72500.00
+"IT METER LINE nap. letva s mjeračem snage, 8xshuko, 19"", 1U"                      2318.2   15  34773.00   8693.25
+HSS Bi-metal cilindar pila (kruna), 105/36mm, bez adaptera                          225.17   13   2927.21    731.80
+Poprečna stranica, širina 3/200mm                                                   244.32   15   3664.80    916.20
+Signalni poklopac za razvodne kutije Ø60mm, crveni                                   86.91   19   1651.29    412.82
+FID sklopka 25-4-003/A (puls), 6kA                                                  336.77   13   4378.01   1094.50
+Al-Cu stezaljka 240mm2, žuto/zelena                                                 209.56   30   6286.80   1571.70
+Telekomunikacijski kabel F-YAY 100x2x0,8mm2                                          10000   27 270000.00  67500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     613681.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

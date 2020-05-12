@@ -1,0 +1,21 @@
+Račun br. 408541
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Bezhalogeni jednožilni vodič H05Z-K 0,5mm2, smeđi                                    10000   19 190000.00  47500.00
+Zaštitni prekidač sa svojstvima rastavljača,C 50A,3-polni+N                          963.4   22  21194.80   5298.70
+Signalni fleksibilni kabel YSLCY-JZ 5x25 sivi                                        10000   13 130000.00  32500.00
+1-fazna visokonaponska šina, 2m, bb                                                 313.42   28   8775.76   2193.94
+Finožični PVC-om izolirani vodič H07V-K (P/F) 10mm2, smeđi                          770.13    6   4620.78   1155.20
+Prespojni kabel RJ45 cat.5e neoklopljen, PVC, plavi, 10.0m                           35.03    9    315.27     78.82
+LEVANTE L1 šiljak za montažu u zemlju 60mm, crni                                    232.24   25   5806.00   1451.50
+FID sklopka 63-2-01/AC, 6kA                                                           4271    1   4271.00   1067.75
+Prirubnica veličine II - 8xM32/20 + 2xM40/25                                         81.71    3    245.13     61.28
+
+                                                                                                         ----------
+UKUPNO                                                                                                    365228.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

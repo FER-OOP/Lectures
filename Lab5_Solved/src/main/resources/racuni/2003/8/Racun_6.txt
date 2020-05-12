@@ -1,0 +1,27 @@
+Račun br. 311781
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Sabirnica 3-polna, jezičasta, 35mm², 130 A, korak 27mm, 1m                          736.72   16  11787.52   2946.88
+Odvodnik prenapona klase C (komplet), 1P, 1x20kA/280V, UAS                          143.17   16   2290.72    572.68
+Signalni fleksibilni kabel YSLY-JZ 12x1,5 sivi                                     2025.01   27  54675.27  13668.82
+Sutil Quadro LED, 30W, 3000K, 1957lm, 110°, IP40, sive boje                         513.13    5   2565.65    641.41
+Piktogram Linda 11W strelica napored, vidljivost 20m                                 22.72    2     45.44     11.36
+LED SURFACE SPOT 1800lm, okrugla, srebrna b., 48 LED, 3000K                        1125.94   17  19140.98   4785.24
+Telefonski magazin za prenap. zašt., F izvedba, 8x20 230V                           742.49    5   3712.45    928.11
+ROX zidna svj. G8,5, antracit, 2x35W                                               1871.23    3   5613.69   1403.42
+KARDAMOD SURFACE DOUBLE ES111, srebrne boje                                        1188.46   12  14261.52   3565.38
+P/Ž media razdjelnik, MV... 4-redni, 12+2 modula, viši okvir                        773.38    2   1546.76    386.69
+PLASTRA Cone ovjesna svjetiljka, GX53, gips, trapezoid                              500.12   25  12503.00   3125.75
+Produžna osovina za MC3 i MC4, za ormar maks. dubine 400mm                           62.83   13    816.79    204.20
+Poliester zidni ormar MINIPOL, 400x300x200mm (VxŠxD)                                669.47   30  20084.10   5021.02
+AFDD, series Lisa, C 16 A, 2-pole, 30 mA, type A, 10 kA                            1075.59   26  27965.34   6991.34
+USB 2.0 A/A utičnica s kabelom duljine 60cm, IP65                                   480.92   22  10580.24   2645.06
+
+                                                                                                         ----------
+UKUPNO                                                                                                    187589.45
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

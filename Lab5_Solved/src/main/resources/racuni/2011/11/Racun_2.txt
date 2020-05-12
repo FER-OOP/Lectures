@@ -1,0 +1,15 @@
+Račun br. 767462
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+89060VP, LED DRIVER 24v 100w IP65 100-240v                                          431.01   16   6896.16   1724.04
+Okvir 2/3M line, zlatni                                                              35.64    9    320.76     80.19
+Motorna zaštitna sklopka, 3-polna | 0.16 - 0.25A                                    197.29   18   3551.22    887.80
+
+                                                                                                         ----------
+UKUPNO                                                                                                     10768.14
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

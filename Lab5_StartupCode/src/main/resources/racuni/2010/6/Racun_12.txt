@@ -1,0 +1,23 @@
+Račun br. 832137
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zaštitni prekidač, C karakteristika, 32A, 1-polni, 10kA                              29.17    6    175.02     43.76
+Savitljiva cijev (srednje), M25, 750N, EN3341, 50m, siva                             382.6   11   4208.60   1052.15
+Finožični PVC-om izolirani vodič H07V-K (P/F) 95mm2, ž/z                           7797.46   10  77974.60  19493.65
+Aura 2 LED 23W, 4000K, 2110lm, IP43                                                 842.49    9   7582.41   1895.60
+Ampermetar, montaža na DIN nosač, DC, 25A, direktno                                 581.86   18  10473.48   2618.37
+Optički prespojni kabel duplex, SC/SC, 9/125µm OS2, 1.0m                             76.77   26   1996.02    499.00
+Signalni fleksibilni kabel YSLCY-JZ 3x 1 sivi                                       806.56   23  18550.88   4637.72
+SITRA CUBE zidna svj., četvrtasta, bb, GX53, max. 9W                                 393.5   22   8657.00   2164.25
+LS-FI (KZS), C/40A/100mA, 2P, Tip A, 6kA                                              4281   25 107025.00  26756.25
+Kompaktni prekidač snage tip VE, 3P, 85kA, 630A+izvl. modul                       13121.87   10 131218.70  32804.68
+Phos B40 poluga za stup 114mm + LED vrh,sivi RAL9006                               7783.83   21 163460.44  40865.11
+
+                                                                                                         ----------
+UKUPNO                                                                                                     531322.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,18 @@
+Račun br. 152970
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LONG GRILL 2x54W stropna svjetiljka, srebrne boje                                  2497.05   29  72414.45  18103.61
+Rufus-I-R LED 3W 3000K, IP54, aluminij                                              291.62    2    583.24    145.81
+ADJUST okr. QRB,podni ugradni refl. sa okruglim inox pokr.                          1370.6    9  12335.40   3083.85
+L-SE raster LA R12 T5 1+2x35-80W sa poprečnim lam.,aluminij                         116.66   22   2566.52    641.63
+Bezhal. kabel poboljšanih svoj.za sl. požara N2XH-J 4x2,5re                          10000    6  60000.00  15000.00
+Poklopac 380x190x30mm prozirni - E-D                                                212.37   10   2123.70    530.92
+
+                                                                                                         ----------
+UKUPNO                                                                                                    150023.33
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

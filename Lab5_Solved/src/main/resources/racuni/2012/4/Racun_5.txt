@@ -1,0 +1,23 @@
+Račun br. 139437
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Prirubnica 210x96, za uvodnice: 4xM16, 5xM20, 2xM25, 2xM30                           69.69   22   1533.18    383.30
+Montažna ploča za Maxipol ormare 500X500 (VxŠ), metalna                             194.65   22   4282.30   1070.57
+Adapteri za DIN profil za HSERG086GV/HSER0080GV                                      42.44   22    933.68    233.42
+Finožični PVC-om izolirani vodič H05V-K (P/F) 0,5mm2, žuti                           55.66    2    111.32     27.83
+Prošireni pokrov stezaljki 39 or 34 mm za ARROW BLUE vel. 00                          4821    9  43389.00  10847.25
+Blok pomoćnih kontakata HKM11V lijevi                                                45.04    4    180.16     45.04
+Pokrov za analogni sobni termostat, antracit                                         295.9   12   3550.80    887.70
+Kompaktni prekidač snage tip A, 4P/50A/50kA, MC1                                   1352.81   29  39231.49   9807.87
+NV podnožje 3P, vel.00|160A, na ploču, M8, zaštita od dodira                        190.63   15   2859.45    714.86
+Teretna sklopka, 4P, 200A, opcija: daljinski isklop                                1366.43   12  16397.16   4099.29
+Hotel-card sklopka, alu efekt                                                       214.21   13   2784.73    696.18
+
+                                                                                                         ----------
+UKUPNO                                                                                                    115253.27
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

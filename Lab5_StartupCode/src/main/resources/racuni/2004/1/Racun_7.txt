@@ -1,0 +1,29 @@
+Račun br. 701799
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Toolless connection utični modul, zeleni (pak.=10 kom.)                               6.56   13     85.28     21.32
+Sklopnik vel. 0 | 7,5kW (17A) [AC-3] | 400VAC, 50Hz                                 164.15   13   2133.95    533.49
+Signalni fleksibilni kabel YSLCY-JZ 4x 1,5 sivi                                     1340.9   25  33522.50   8380.63
+Dimer 40-400W, podžbukni                                                            541.46   25  13536.50   3384.13
+Sobni termostat                                                                    1887.89   14  26430.46   6607.61
+ALPA CONE 100 samostojeća svjetiljka, kameno siva                                   938.06   13  12194.78   3048.70
+Transformator, 1-fazni | 230/012V | 63VA, IP00                                      307.56   28   8611.68   2152.92
+Kompenzacija  LSFC 7% 350/50kvar 800x2000x400mm Samost.orm.                       75953.67    3 227861.02  56965.25
+Utičnica (bez pr. ploče),zaštita za djecu,16A,umetak, bijela                         39.99   15    599.85    149.96
+Standardni transformator 12V, 300VA                                                 813.03   29  23577.87   5894.47
+PURI 1 stropna svjetiljka, 1xGU10,sa ukr. prstenom,crvene b.                        312.23   16   4995.68   1248.92
+Kompaktni prekidač snage tip A, 3P, 150kA, 250A, utični                            4301.66   16  68826.56  17206.64
+Zaštitni prekidač, C karakteristika, 4A, 4-polni, 6KA                               195.96   27   5290.92   1322.73
+Zaštitni prekidač, C karakteristika, 6A, 1-polni, 10kA                               26.82   22    590.04    147.51
+Aluminijski profil sa pokrovom, četvr., bijele boje, 1m                              218.8   13   2844.40    711.10
+PlanoCentro LON, senzor prisutnosti, p/ž, stropni, bijeli                             2172   29  62988.00  15747.00
+Golf ručnik za karabinerom                                                           73.68   16   1178.88    294.72
+
+                                                                                                         ----------
+UKUPNO                                                                                                    495268.34
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

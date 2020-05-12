@@ -1,0 +1,32 @@
+Račun br. 1001016
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Linijska svjetiljka SOLO 2 T5 2x24W ECG, bijela                                      252.4    9   2271.60    567.90
+Mini-pomoćni sklopnik 4P | 4 N/O | 48V DC | 10A                                     151.72   16   2427.52    606.88
+Audio/video jedinica, c/b kamera, SB za POWERCOM                                   3938.65   14  55141.10  13785.27
+Tenora WL-1 zidna svjetiljka, E27, max. 60W, kratka, krom/bb                        875.55   21  18386.55   4596.64
+Inverter otočnog sustava 24Vdc/1200W                                               4448.36    5  22241.80   5560.45
+Kronos-I-S/A1 3x50W GU5,3 MR16, 12V, IP20, sive boje                                 79.07    7    553.49    138.37
+Cano-R/A2 LED 15W 4000K 1200lm, IP20, bijele boje                                    425.1   17   7226.70   1806.67
+Sklopnik 3P |5.5kW (14A) [AC3] | 400V AC | + 1N/O (ugrađen)                         146.18   15   2192.70    548.17
+Pleksi vrata za Microkontrol centralu CPS-a                                        1565.94   26  40714.44  10178.61
+N/Ž okvir + vrata 2A-33 D=250mm str.ploča+zakr. ručica, IP54                       3342.58   23  76879.34  19219.84
+Instal. umetak 5-24L komplet 8 IR prednja pl. plastika                             2076.94   10  20769.40   5192.35
+EURO CUBE Spot, 4000K, CRI90, 90°, uklj. 3F adapter, bb                            1433.11   29  41560.19  10390.05
+Meiva-Q/A2 LED 10W 3000K 700lm, IP20, bijele boje                                   366.47   30  10994.10   2748.52
+NV osigurač vel. 1, 50A/400V AC                                                      57.46   18   1034.28    258.57
+Aria-TR-R/A2 70W G12, 230V, IP20, bijele boje                                        29.39   15    440.85    110.21
+Otto-I-Q/A2 35W G8,5, 230V, IP20, sive boje                                         161.18   30   4835.40   1208.85
+Shunt 60mV, 400A                                                                      4398    3  13194.00   3298.50
+HDMI 1.4 kabel, 2xHDMI19 tipA muški, pozlaćeni kontakti, 10m                        129.43   18   2329.74    582.43
+Nosač N/PE sabirnice 10-16mm²                                                         4.26   15     63.90     15.98
+Kabel LiYY 30x0,25                                                                   10000    5  50000.00  12500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    373257.12
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

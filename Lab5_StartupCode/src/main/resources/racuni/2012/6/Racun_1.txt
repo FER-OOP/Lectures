@@ -1,0 +1,14 @@
+Račun br. 106346
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Senzor prisut. stropni,theRonda S360-101,Ø9m,2kanala,siv,n/ž                        918.06   22  20197.32   5049.33
+PIRUS ovj. svjetiljka sa rozetom, krom, E14, max. 40W                               374.92    9   3374.28    843.57
+
+                                                                                                         ----------
+UKUPNO                                                                                                      23571.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

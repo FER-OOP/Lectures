@@ -1,0 +1,26 @@
+Račun br. 619271
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kabel  EYY-J ( PP00-Y)  4x185 SM                                                  61250.28   171041254.75 260313.70
+"Kontrol.bat. Bat-Logg za CPS Maxi 18 bat. od 17Ah-60Ah; 8m"                      15393.36   25 384834.00  96208.50
+"Opt. razdjelnik, 24 niti,LC,50/125µm OM2, izvlačivi,19"",1U"                       993.27    2   1986.54    496.64
+Stezaljka (luster-klema) 12-struka | 6mm²                                              6.9   24    165.60     41.40
+Podnaponski isklopnik 230/240VAC za MZS vel.00/0/2/3                                 98.29   17   1670.93    417.73
+Kabelska uvodnica M16x1.5, poliamid, RAL7035                                          4.63   30    138.90     34.73
+Optički prespojni kabel duplex, SC/SC, 50/125µm OM2, 1.0m                            62.07   20   1241.40    310.35
+Jednožični PVC-om izolirani vodič H07V-U (P) 6mm2, plavi                            477.66    7   3343.62    835.91
+Lano Quadro 40W, M600, 3000K, 3040lm, IP20, 950mA, bijele b.                        364.61   13   4739.93   1184.98
+Majica Store dugih rukava -middle-                                                  255.48    3    766.44    191.61
+Pokrov priključnih stezaljki, za rastavne sklopke vel. 3                             35.98   17    611.66    152.91
+XXXL-Sweater  cotton-polyester-jersey                                                278.4   28   7795.20   1948.80
+IP68 prespojna kutija,3-polna,100mmx40,5mm,6-13mm promjer k.                         87.01   25   2175.25    543.81
+Poliester ormar,vrh zatv. dno otv., 1 vrata 750x500x300(VŠD)                       1802.82   29  52281.78  13070.44
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1503005.9
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

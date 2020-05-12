@@ -1,0 +1,30 @@
+Račun br. 1070273
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Podnožje, bočne stranice, par, za ormare DSS, D=800mm                               483.95   13   6291.35   1572.84
+Plaza-CL-Q 2x20W E27, 100-240V, IP54, sive boje                                     231.98   21   4871.58   1217.90
+MEDO PRO ovjesni pribor, crvene boje                                                 187.2   13   2433.60    608.40
+Mercat-S LED 22W 4000K 1880lm, IP20, sive boje                                       437.6    8   3500.80    875.20
+"Opt. razdjelnik, 8 niti, SC,50/125µm OM3, izvlačivi,19"",1U"                       804.52    4   3218.08    804.52
+NEW TRIA 2 DL četvrtasti Set, 2x6W, 2700K, 38°,crne boje                            625.15    3   1875.45    468.86
+Vrata, metalna, puna za kom. ormare, 42U, širina 800 mm                            1017.21   14  14240.94   3560.24
+TRAIL podna svj.LED 1250mm 19W 1800lm sim. 4000K                                   4853.42   26 126188.92  31547.23
+NEW TRIA LED DL ROUND SET, brušeni aluminij, 6W, 3000K, 38°                         335.72   11   3692.92    923.23
+HQI žarulje E40, 400W, NDL                                                          625.15   26  16253.90   4063.48
+Okvir 2-struki, bijeli                                                               12.03   24    288.72     72.18
+Dimer, uzidni, AB20315W RC                                                          298.38   11   3282.18    820.54
+L-SE spojnica RCP DEEP za T5 i T8 1+2str. (2kom)                                     15.97   21    335.37     83.84
+Modularna slijepa ploča za AS/KS ormare 800x600mm RAL 7035                          240.84   19   4575.96   1143.99
+Krajnji nosač (nosač kutnog profila BK900097)                                        21.46   17    364.82     91.20
+Samostojeći ormar, 1-vrata, 2000x600x400 (VxŠxD), RAL 7035                         3612.97   16  57807.52  14451.88
+Isklopnik 1 N/O 16A, montaža na DIN nosač                                            46.83   13    608.79    152.20
+AFDD, series Lisa, C 13 A, 2-pole, 30 mA, type AC, 10 kA                           1054.14   11  11595.54   2898.89
+
+                                                                                                         ----------
+UKUPNO                                                                                                    261426.45
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

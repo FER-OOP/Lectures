@@ -1,0 +1,27 @@
+Račun br. 198825
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Rast.sklopka 0-1, za razdjelnik,siva, 3-polna, 40A                                  351.25   22   7727.50   1931.88
+Switch 852 - 111 - 5-Port 10/100BASE-TX za DIN šinu                                1496.07    1   1496.07    374.02
+GU10 LED, 5W, tople bijele boje, 60°, nije dim.                                     142.23   27   3840.21    960.05
+Umetak brave, double-bit 3mm                                                         23.23   12    278.76     69.69
+Kronos-II-S/A2 2x50W G53 AR111, 12V, IP20, bijele boje                              278.44   13   3619.72    904.93
+LED DMX & PWM Dimer Mono CC                                                         676.39    9   6087.51   1521.88
+60029, ONE LIGHT T-SHIRT EXTRA LARGE                                                  49.5   25   1237.50    309.38
+Prednja ploča, čelična, slijepa, 2B3                                                  4160    6  24960.00   6240.00
+Najam SAT mjernog uređaja, po danu                                                 1762.73    4   7050.92   1762.73
+Kopča, plava, za LED prespojne kabele, 100 kom.                                      90.88    4    363.52     90.88
+Kabelska uvodnica, gumena, PG9-PG16                                                   4.96   25    124.00     31.00
+GIMBLE PRO G12, Downlight zakretna, bij.                                            531.37   23  12221.51   3055.38
+Relej 3 C/O |10A | 220VDC, pozlaćeni kontakti                                       168.85   25   4221.25   1055.31
+Plastični pokrov LB, ravan/opal 2m                                                   41.88    4    167.52     41.88
+Izolirani kabelski tuljak, dvostruki, žuti, 2x6.0mm²/14mm                             0.78   24     18.72      4.68
+
+                                                                                                         ----------
+UKUPNO                                                                                                     73414.71
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

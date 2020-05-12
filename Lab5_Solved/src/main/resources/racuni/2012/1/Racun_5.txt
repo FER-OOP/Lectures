@@ -1,0 +1,26 @@
+Račun br. 465605
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zaštitni prekidač, C karakteristika, 32A, 1-polni, 10kA                              29.17   29    845.93    211.48
+Zaštitni prekidač AMPARO 6kA, C 13A, 2-polni                                         57.44   28   1608.32    402.08
+Signalni fleksibilni kabel YSLCY-OZ 7x 0,75 sivi                                     10000   22 220000.00  55000.00
+FI-relej 0.3A za strujni trafo W3/400A, A(puls), S izvedba                         1250.08   20  25001.60   6250.40
+KADUX 2 GU10 Downlight, četvrtasti, bijele boje, max. 2x50W                         280.98   28   7867.44   1966.86
+Označna traka-ploča 5 x 1-18 za tip CBD.2                                            17.06   21    358.26     89.56
+Završni pokrov za svjetiljke Solo Line, 2 kom., bijele boje                          25.75   26    669.50    167.38
+EURO SPOT ECG 35, 60° crna G12,35W,uklj. 3f.adapter                                 938.06   25  23451.50   5862.88
+Montažna ploča za Maxipol ormare 1000x750 (VxŠ), poliester                          710.77   19  13504.63   3376.16
+Linijska svjetiljka SOLO 2 1x36W ECG T8 bijela                                         139   24   3336.00    834.00
+Kabel H03VV-F (PP/L) 2x0,75mm2, bijeli, 100m kolut                                  175.07   28   4901.96   1225.49
+3P stezaljka za motornu zaštitnu sklopku vel.0                                       56.66    6    339.96     84.99
+Reflektor Sigma Formo LED 10W 3000K 700lm podesiv IP65 siva                         231.13   16   3698.08    924.52
+Transformator, 1-fazni | 230/024V | 200VA, IP00                                     456.74    4   1826.96    456.74
+
+                                                                                                         ----------
+UKUPNO                                                                                                     307410.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

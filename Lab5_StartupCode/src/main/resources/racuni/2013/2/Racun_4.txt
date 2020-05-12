@@ -1,0 +1,26 @@
+Račun br. 136819
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Prednja ploča, čelična, slijepa, 1B5                                                  4160   16  66560.00  16640.00
+SAT alat za traženje satelita,set za programiranje,SZU 22-00                        258.31   14   3616.34    904.08
+HSS Bi-metal cilindar pila (kruna), 105/36mm, bez adaptera                          225.17    4    900.68    225.17
+"1-struki okvir ""Riva"", inox efekt"                                                54.06   25   1351.50    337.88
+Prespojni kabel RJ45 cat.6 neoklopljen, PVC, crveni, 10.0m                           43.46    7    304.22     76.06
+Utičnica šuko sa zaš. kon.+pokl+ dječ. zaš. na vijak zelena                          21.57   23    496.11    124.03
+ALTRA DICE zidna svj., WL-2, srebrne boje, GU10, max. 50W                           625.15    6   3750.90    937.73
+"Katalog ""RASVJETNA RJEŠENJA 2014"" (na Engleskom)"                                  9843    9  88587.00  22146.75
+Dimer za tipkalo RLC 5-500VA                                                        510.67    7   3574.69    893.67
+LED traka 86 RGB HW Ra=90+ 10,7W/m 932lm/m 24VDC,IP44, l=5m                        1393.45   11  15327.95   3831.99
+ENOLA_C 18 SPOT, okr., crne boje 18W, 3000K, 35°,3-f adapter                       1433.11    1   1433.11    358.28
+Bistabilni relej, 12VAC, 1 N/O, 16A, na DIN nosač                                   136.83   19   2599.77    649.94
+SCUP 3 PC 1x70W,E27, ST, MB, IP20                                                    965.1   23  22197.30   5549.32
+LED-DRIVER, 3VA, 350mA, sa utikačem                                                 124.69   15   1870.35    467.59
+
+                                                                                                         ----------
+UKUPNO                                                                                                     212569.9
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

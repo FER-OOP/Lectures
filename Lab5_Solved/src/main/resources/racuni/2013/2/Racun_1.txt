@@ -1,0 +1,33 @@
+Račun br. 427940
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+SAT crijep s kab. uv.,45x50cm,za stupove 38-60mm,alu,crveni                         229.89   27   6207.03   1551.76
+LINEA 80M dvostr.parabol.raster 35/49/80W MIRO 8 L-1484mm                            380.7   27  10278.90   2569.73
+Susan-R LED 3x1W 3000K 100lm, dimabilna, 350mA, IP20                                 69.94   10    699.40    174.85
+Daljinski isklopnik za MZS vel.00/0/2/3, 20..24VAC                                  106.67    6    640.02    160.01
+"L-SE montažna šina MR 2x58 neožičena; duljina 3072, bijela"                        102.23    6    613.38    153.35
+Kompaktni prekidač snage tip A, 3P/80A/50kA, MC1                                    926.23   24  22229.52   5557.38
+NEW TRIA III QRB111 SQUARE, uklj. opruge, bijele boje                               687.83    6   4126.98   1031.74
+N/Ž okvir + vrata 4A-39 D=300mm str.ploča+zakr. ručica, IP54                       4048.03   23  93104.69  23276.17
+Tipka sa simbolom zvona, termički postojana, bijela                                  29.18   18    525.24    131.31
+Kompenzacija  LSFC 7% 200/25kvar 800x2000x400mm Samost.orm.                       50850.72   201017014.38 254253.59
+"Ploča za zasun, crna, ""Celanex"""                                                   1.62   30     48.60     12.15
+Sabirnica, 4P, jezičasta, 10mm² (63A)|korak 17.8mm| 1m                              225.85   27   6097.95   1524.49
+Bezhalogeni kabel s el. funkc. do90 Min(N)HXCH3x1,5re/1,5E90                         10000   18 180000.00  45000.00
+Poluvodički sklopnik 1-polni | 30A/24-480VAC, 5-24VDC                               642.47   14   8994.58   2248.65
+LS-FI (KZS), C/13A/30mA, 1P+N, Tip A, 6kA                                           286.44   13   3723.72    930.93
+SHORTBOX trafo za EASYTEC II, srebrna b.                                            500.12   19   9502.28   2375.57
+"Optički prespojni panel 19"", 1U, uklj. 12 spojnica LC MM"                         778.67   16  12458.72   3114.68
+E-AYY-O 1x120RM                                                                      10000   13 130000.00  32500.00
+AOT-O LED, 25W, 4000K, IP50, akril, opal, bijele boje                               506.88   14   7096.32   1774.08
+Maskirni razdj. 4M-21, 7-redni, 315 ŠM,1010x980x200mm(VxŠxD)                        2449.8   29  71044.20  17761.05
+Sig. Svj. ZAA 230VAC,8h, bežična, -25°C do35°C,vanjska bat.                        2253.97   24  54095.28  13523.82
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1638501.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

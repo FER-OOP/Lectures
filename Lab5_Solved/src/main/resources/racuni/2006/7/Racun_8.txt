@@ -1,0 +1,14 @@
+Račun br. 1091282
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Telekomunikacijski kabel J-Y(ST)Y 5x2x0,6mm2                                         439.2   14   6148.80   1537.20
+Kabel za punjenje tip2, 20A 1F, 4m duljine                                            8130   17 138210.00  34552.50
+
+                                                                                                         ----------
+UKUPNO                                                                                                     144358.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

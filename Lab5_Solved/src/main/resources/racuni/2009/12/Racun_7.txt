@@ -1,0 +1,29 @@
+Račun br. 316788
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+CORONA stropna svjetiljka, CL-1, okrugla,krom, E27, max. 60W                        449.94    8   3599.52    899.88
+FLEXLED ROLL HIGH LUMEN 24V, 2m, 2700K                                              406.17   30  12185.10   3046.28
+NEW TRIA MINI DL SQUARE, 3W, 3000K, 30°, bijele boje                                205.96   17   3501.32    875.33
+1-f šina HV set 3, bijela b., 2x1m, w. 3x PURI spot, LED                           1125.94    5   5629.70   1407.42
+Planookrugla LED, 40W, 3000K, 2520lm, IP40, bijele boje                             788.87   25  19721.75   4930.44
+Kutni nosač za za AF-S reflektor, bijelo                                            216.84   24   5204.16   1301.04
+MR16 SP Downlight, krom mat                                                          73.22   17   1244.74    311.18
+Glenos akrilni pokrov, obli pokrov za profile 2609, 2m                              249.72    5   1248.60    312.15
+Ovjesni set za TEC 2/4/6 QRB                                                        312.23    9   2810.07    702.52
+Wanda LED 7W, WW, IP20, 700mA, IP20, bijele boje                                    190.58   18   3430.44    857.61
+Pokrov podnožja IS504823--, 3-polni, širina 36mm                                      7.47    9     67.23     16.81
+Grijač 150W/150°C, s priklj. stezaljkama,110-250V AC/DC,IP44                        652.64   25  16316.00   4079.00
+Nadgradna svjetiljka SARH 2 ECO T5 1x80W ECG, bijela                                330.75   25   8268.75   2067.19
+RMQ kućište crno/sivo za 12 tipkala                                                 403.32    6   2419.92    604.98
+KVADRA R70M K5, L-spojnica sa opalnim pokrovom                                      201.05   28   5629.40   1407.35
+Bistabilni relej sa LED, 2 N/O, 230VAC                                              146.35   14   2048.90    512.23
+SOPRANA SOLID ovjesna svjetiljka V-oblik GU10 25W, beton                            938.06    8   7504.48   1876.12
+
+                                                                                                         ----------
+UKUPNO                                                                                                    100830.08
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,25 @@
+Račun br. 105048
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Nazidni okvir bez vrata za Modul 2000 | 5A-24 | dubina 250mm                       1587.91   11  17467.01   4366.75
+Kompaktni prekidač snage tip A, 3P/40A/36kA, box stezaljke                          580.51   24  13932.24   3483.06
+LED RETROFIT T8 36 S 14,5W 230V 160° 840 2100lm G13 HF 50000                        185.54   19   3525.26    881.31
+"Tipka za 2-polnu sklopku, natpis ""I - O"", bijela"                                 33.33   15    499.95    124.99
+AMPARO 2 tipski kućni ormar, 2-redni, nazidni                                       775.88   12   9310.56   2327.64
+FLEX LINE kabelski utikač, cat.7, za kabele AWG23, križni                             6021   21 126441.00  31610.25
+Bezhal. kabel poboljšanih svoj.za sl. požara N2XH-J 3x2,5re                          10000    8  80000.00  20000.00
+Kabel H05VV-F (PP/J) 4x2,5mm2, svijetlo-sivi, 50m                                    10000   25 250000.00  62500.00
+FID sklopka 63-4-03/AC, 6kA                                                         425.06   28  11901.68   2975.42
+UTIX LED Downlight set, 3kom, crne boje                                             374.92    7   2624.44    656.11
+Podno ugradno kućište za TRAIL 1250mm                                              1503.88    8  12031.04   3007.76
+Profil za ojačavanje vrata AS/KS ormara širine 1000mm                                676.6   27  18268.20   4567.05
+Zaštitni prekidač, C karakteristika, 2A, 1-polni+N, 6kA                              90.53   15   1357.95    339.49
+
+                                                                                                         ----------
+UKUPNO                                                                                                     547359.3
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

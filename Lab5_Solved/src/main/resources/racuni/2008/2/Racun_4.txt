@@ -1,0 +1,30 @@
+Račun br. 1047231
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Smith-II-Q LED 3W 3000K 200lm, IP54, bijele boje                                    278.44   22   6125.68   1531.42
+Nosač natpisne pločice za IN022033                                                     2.6    7     18.20      4.55
+Linda Basic LED 2x19W, 4000K, 5304lm, IP65, sive b.,L=1270mm                        772.61    3   2317.83    579.46
+Signalni fleksibilni kabel YSLCY-JZ 5x 1,5 sivi                                    1732.54   29  50243.66  12560.92
+Držač žaruljice sa ugrađenom LED, zeleni, 24VAC/DC,vijč. st.                         24.39   15    365.85     91.46
+PEYOTE POLE 48cm 2x90° 8x1W LED, 40° 4000K antracit                                3537.56   28  99051.68  24762.92
+Gljivasto tipkalo, crno, fi=40mm                                                     42.76   15    641.40    160.35
+Podnožje N voda, vel.00, Mostić/Mostić, 1-pol.                                        4821   12  57852.00  14463.00
+Ina-R/A2 LED 15W 3000K 1000lm, IP20, bijele boje                                    403.13    3   1209.39    302.35
+USB napajanje 5V 1A 2M bijelo                                                       262.83    9   2365.47    591.37
+HT folija za SFL, zelena                                                             99.51   15   1492.65    373.16
+Optički prespojni kabel duplex, SC/SC, 50/125µm OM2, 2.0m                             68.3    2    136.60     34.15
+Sabirnica 3-polna, jezičasta, 16mm², 80 A, korak 18mm, 1m                             4835   20  96700.00  24175.00
+DC sklopnik | 18.5kW | 24V DC | 3N/O                                                704.35    6   4226.10   1056.52
+Okomita vodilica kabela za DS/DSZ/DSI ormare 45U                                    284.96   14   3989.44    997.36
+Prekidač, bežično upravljiv, max. 3500W                                             437.43   22   9623.46   2405.86
+LED RL-A40 4W 827 470lm prozirna E27 15000h Ambiente 15000h                          48.38   17    822.46    205.61
+Prespojni kabel RJ45 cat.6, oklopljeni, LS0H, naranč., 5.0m                         198.68   28   5563.04   1390.76
+
+                                                                                                         ----------
+UKUPNO                                                                                                    342744.94
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

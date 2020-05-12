@@ -1,0 +1,26 @@
+Račun br. 486695
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Linijska svj. SERM 112 2x49W, ECG, bijele boje                                      532.11   21  11174.31   2793.58
+Preklopnik 4P/25A, mogućnost zaključavanja                                          367.51   27   9922.77   2480.69
+Telo-S LED 3W, IP54, sive boje                                                      255.46   18   4598.28   1149.57
+Konzola za svjetiljku SEVEN-CIRCLE                                                  705.94   29  20472.26   5118.06
+Prednja ploča za tel. i stereo zvučničke utičnice, alu efekt                         43.08   10    430.80    107.70
+HSS Bi-metal cilindar pila (kruna), 79/36mm, bez adaptera                           154.98    4    619.92    154.98
+Instalacijski umetak za Minipol ormar 500x400mm, 3x18 modula                        618.66    1    618.66    154.66
+"19"" napojna letva sa 7xshuko+prekidač, PVC, 1.25U, kabel 2m"                      266.84   27   7204.68   1801.17
+Pribor za ovjes sa Y-prihvatom                                                        33.5   17    569.50    142.38
+Bravo monitor, color                                                               3040.36   18  54726.48  13681.62
+Okvir plitki s vratima i umetkom za KVH, 3-redni,36+6 modula                        382.51   19   7267.69   1816.92
+Poliester ormar, vrh i dno zatv., 2 vrata 1000x1000x312(VŠD)                       5256.09   11  57816.99  14454.25
+Cilindrični osigurač, 10x38, 12A, gG, 500V AC                                         2.91   10     29.10      7.28
+Difuzor za svjetiljku LINDA 2/58                                                    106.44   13   1383.72    345.93
+
+                                                                                                         ----------
+UKUPNO                                                                                                    176835.14
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

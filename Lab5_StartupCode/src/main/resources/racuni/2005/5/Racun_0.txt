@@ -1,0 +1,22 @@
+Račun br. 379278
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Adapter za montažu MC1 na sabirnički sistem 60mm, 3P, 160A                          575.58    7   4029.06   1007.27
+Sabirnica, 1P, jezičasta, 16mm² (80A)|korak 17.8mm|1m                                 4230    3  12690.00   3172.50
+LED KNX Dimer RGBW                                                                 3483.64    4  13934.56   3483.64
+DIGI-SAT 3000 koaks.75Ohm 1.02/6.6,90dB,kl.A,PVC,bijeli,500m                        179.52    8   1436.16    359.04
+Strujni trafo, 80/5A, za kabel promjera do 21mm                                      83.36    3    250.08     62.52
+Završna pločica za stezaljku IK200002-C, tip HMM.2, siva                              1.16    9     10.44      2.61
+60028, ONE LIGHT T-SHIRT LARGE                                                        49.5   11    544.50    136.13
+Donji dio zakretne ručice za M2000, plosnati, RAL9016                                 2.11   23     48.53     12.13
+NEW TRIA LED DL SQUARE SET, brušeni alum., 6W, 2700K, 38°                           437.43   29  12685.47   3171.37
+Grijač 45W/105°C, s priklj. stezaljkama, 110-250V AC/DC,IP44                        315.05   16   5040.80   1260.20
+
+                                                                                                         ----------
+UKUPNO                                                                                                      50669.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

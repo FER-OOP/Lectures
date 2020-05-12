@@ -1,0 +1,33 @@
+Račun br. 963392
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+BIG THEO up/down OUT ES111 zidna svj.,četvrt.,bi.b,max.2x75W                        875.55    3   2626.65    656.66
+Rasvjetni stupić Jamba-PL2, E27, 20W, IP54, siva                                    450.78    2    901.56    225.39
+Mono kabelska spojnica, neizolirana, prema DIN, Cu, 16mm²                             9.05   26    235.30     58.82
+LED Push dimer DW (Dynamic White)                                                   740.27    4   2961.08    740.27
+Umetak izmjenične sklopke, na vijak                                                  12.97   19    246.43     61.61
+Zaštitni prekidač, B karakteristika, 40A, 3-polni+N, 10kA                           266.19   22   5856.18   1464.05
+Bezhalogeni kabel s el. funkc. do30 Min. (N)HXH-J3x1,5reE30                          10000    7  70000.00  17500.00
+GLOO PURE 70 podna svjetiljka, antracit, E27, max. 20W                             1000.75   12  12009.00   3002.25
+Hvataljka Ø16, vrh hvataljke Ø10mm, duljina: 1.5m, Alu                               60.34   11    663.74    165.93
+Cilindrični osigurač, 10 x 38, 15A, 600VAC, 300VDC, klasa CC                        103.76    1    103.76     25.94
+TERANG 2, 3000K, oval, rusty                                                        406.17   23   9341.91   2335.48
+Reflektor 12° za 70W CMH Spot                                                       124.52   19   2365.88    591.47
+Nadgradna svjetiljka SARH IP54 T5 4x28W ECG, bijela                                 1821.6    2   3643.20    910.80
+Finožični PVC-om izolirani vodič H07V-K (P/F) 1,5mm2, bijeli                        121.44   27   3278.88    819.72
+Aura 300 zidna i stropna svjetiljka, E27, max. 100W, IP44                           180.78   10   1807.80    451.95
+Završni poklopac TBI ravni sa otvorom                                                83.77   24   2010.48    502.62
+Tris-I-Q/A1 LED 3x1W 3000K 135lm,dimabilna,350mA,IP20,alu                            43.59    8    348.72     87.18
+Zakrilni vijak 30 mm                                                                  4.46    9     40.14     10.03
+Ploča za zaključavanje, za MZS vel.00                                                25.28   17    429.76    107.44
+WAVE WALL zidna svjetiljka 2x4,6W LED, 3000K, 700lm, crne b.                       1125.94   15  16889.10   4222.27
+Krović za zaštitu WSM ormara od kiše, za ormar 600X400 (ŠxD)                          4066   26 105716.00  26429.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    241475.56
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

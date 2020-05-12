@@ -1,0 +1,29 @@
+Račun br. 951139
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+NEW TRIA III GU10 Downlight, četvrtasta, brušeni aluminij                           531.37   22  11690.14   2922.53
+Otvoreni prekidač, 3P, 80kA, 800A, fiksni, vod. str. priklj.                      15153.77   28 424305.56 106076.39
+KYKLOP PATHLIGHT podna svj., antracit,3x1W LED tople bi.b.                          813.03    6   4878.18   1219.55
+Nadgradna svjetiljka SARH-AS T8 1x36W, ECG, bijela                                  367.51   12   4410.12   1102.53
+Poliester ormar, vrh i dno zatv., 2 vrata 1500x750x312 (VŠD)                       4477.32    9  40295.88  10073.97
+SATIN CONE SHADE, bb/krom                                                          1250.97   23  28772.31   7193.08
+Mikro sklopnik 3NO+1NO, 2,2kW, 5A, 24VDC                                            105.47   16   1687.52    421.88
+Industrijska svjetiljka LAMBDA 265/435 400 HIE IP65 uski s.                        1405.22    9  12646.98   3161.74
+Tuljak za 300mm2, pocinčani, DIN norma                                               25.13   23    577.99    144.50
+Prekidač, bežično upravljiv, za ugradne kutije +N 230W                              374.92   24   8998.08   2249.52
+Ampermetarski umetak za TYTAN R, D02, 3P, za 60mm sustav                            479.22   13   6229.86   1557.46
+Proširenje sa accu, bez punjača za USDD330/400 108V 14Ah                           6709.24    8  53673.92  13418.48
+Poliester ormar,vrh zatv. dno otv.,2 vrata 500x1000x300(VŠD)                       4110.07   16  65761.12  16440.28
+Sutil Round LED Panel, 20W, 4000K, 1330lm, IP40, siva                               476.46    1    476.46    119.11
+Neizolirana Cu stopica 35mm², M10                                                     5.56   17     94.52     23.63
+L-SE sjenilo R12 T5 L1 35-80W bijele boje                                            75.08   26   1952.08    488.02
+LED PEN LIGHT PRO, tople bb, 10,5m, 230V                                           1250.97   28  35027.16   8756.79
+
+                                                                                                         ----------
+UKUPNO                                                                                                     701477.9
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

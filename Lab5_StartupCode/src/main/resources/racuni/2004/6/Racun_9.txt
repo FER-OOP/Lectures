@@ -1,0 +1,25 @@
+Račun br. 498384
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+AIXLIGHT PRO II FRAMELESSokr. ugradno kućište, srebrne boje                         813.03   11   8943.33   2235.83
+G12 Modul za AIXLIGHT PRO ugradno kućište, 58°, srebrne boje                        312.23   18   5620.14   1405.04
+Elektronski relej ETU76B sa zašt. funk. LSIN, display                             17236.66   13 224076.58  56019.15
+Kabel za gradilišta XYMM-J 3x2,5 K35 / 500m, žuti                                    10000    3  30000.00   7500.00
+Kondenzatorski sklopnik | 20 kVAr | 220-240V AC                                     402.55    3   1207.65    301.91
+Ugradna svjetiljka SE-ID ECO L1 T5 2x14W ECG M600, bijela                           396.21   10   3962.10    990.52
+TV priključnica, prolazna, 8dB, IP20, bijela, nadžbukna                              30.48    4    121.92     30.48
+Krovna kuka FP 6/45/110, nehrđajući čelik, TÜV                                       89.75   18   1615.50    403.88
+Tipka sa strelicama gore/dolje < >, antracit                                         15.62    7    109.34     27.33
+Ovjesni pribor za 1-10V MEDO LED, 5-žični, bijele boje                                8570   13 111410.00  27852.50
+Set za mont. trapezni lim, za velika opterećenja                                    104.83   10   1048.30    262.08
+Shelf Strip napajanje i konektor                                                     14.69    4     58.76     14.69
+GLENOS kutni profil 27-20-200, 2m, bijele boje                                      374.92    1    374.92     93.73
+
+                                                                                                         ----------
+UKUPNO                                                                                                    388548.53
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

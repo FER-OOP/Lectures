@@ -1,0 +1,26 @@
+Račun br. 290983
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+FID sklopka AMPARO, 63-4-03/A (puls), 10kA                                          673.47   20  13469.40   3367.35
+"19"" izvlačiva polica za dokum., zaključ., dubine 400mm, 2U"                       671.65   24  16119.60   4029.90
+SKALUX COMP ugradna stropna svj., četvrt., bijela, 3000K                           1000.75    9   9006.75   2251.69
+Nazidna serijska sklopka, siva, 10A, IP44, na vijak                                   2102   20  42040.00  10510.00
+Teretna sklopka, 4P, 630A, opcija: daljinski isklop                                3932.89   25  98322.25  24580.56
+Strujni trafo, 60/5A, za kabel promjera do 21mm                                      83.36   28   2334.08    583.52
+Kompaktni prekidač snage tip A, 3P, 25kA, 160A, utični                              2693.9   29  78123.09  19530.77
+Gypsum Square GT1, MR16, GU10, 50W, IP20, bijele boje                                72.99   29   2116.71    529.18
+Gljivasto tipkalo sa 2 N/C, komplet sa kućištem                                     186.13   10   1861.30    465.33
+Zaštitni prekidač, B karakteristika, 32A, 3-polni, 10kA                             106.38    3    319.14     79.78
+GU/GZ 10 TURNO, Downlight, krom mat                                                 142.23   24   3413.52    853.38
+OUT 65 LED DL okrugli Set, 9W, 3000K, 38°, uklj.napajanje,bb                        437.43   29  12685.47   3171.37
+DEBASTO LED COB SPOT, 7W, 3000K, okrugla, crne boje                                 813.03   30  24390.90   6097.73
+Kabel LiYY 2x0,25                                                                    10000   18 180000.00  45000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    484202.22
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

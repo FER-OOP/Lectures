@@ -1,0 +1,33 @@
+Račun br. 183231
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Cano-R/A2 LED 15W 3000K 1095lm, IP20, crne boje                                      425.1    4   1700.40    425.10
+LS-FI (KZS), B/13A/30mA, 2P, Tip A, 10kA                                              4281   22  94182.00  23545.50
+KALU 3 zidna i strop.svj.mat bijela 3x50Wmax.QRB111                                1126.79   20  22535.80   5633.95
+UPS Premium Plus ER 3000VA 2400W 0min, 1f/1f /Online                               6722.72   28 188236.17  47059.04
+LED napajanje 12V/18W IP67                                                            86.1   29   2496.90    624.22
+Montažna ploča za MYRALED WALL, ENOLA_C OUT, sive boje                               93.26    2    186.52     46.63
+AERO 230 GU 10 za 1-faznu visokonaponsku šinu, bb                                   280.98   22   6181.56   1545.39
+"19"" profil / šina 21U za zidne komunikacijske ormare tip DW"                        63.7   14    891.80    222.95
+Finožični PVC-om izolirani vodič H07V-K (P/F) 10mm2, crveni                         770.13   11   8471.43   2117.86
+Pločica Alu 22x22 prazna, samoljepljiva                                               4812   24 115488.00  28872.00
+Izolirani kabelski tuljak, plavi, 16.0mm²/12mm                                         0.5   12      6.00      1.50
+Signalni fleksibilni kabel YSLY-JZ 34x0,75 sivi                                    3625.99    3  10877.97   2719.49
+Bimetalni relej, područje podešenja 0.4-0.6A                                        160.45   26   4171.70   1042.92
+LS-FI (KZS), C/32A/100mA, 2P, Tip A, 6kA                                              4281   20  85620.00  21405.00
+Marra LED traka 14,4W/m 60LEDs/m plava 24VDC IP20                                   476.63   29  13822.27   3455.57
+Kabel EYY-J (PP00-Y) 4x1,5 RE                                                       597.08   18  10747.44   2686.86
+9S23/BL/E, 23W E27 , plave boje                                                       39.7    5    198.50     49.63
+LED napajanje TC 4W/500mA, slim, MM, IP20                                           175.78   29   5097.62   1274.41
+Linijska svj. SERM-LF 112, početni profil,  2x54W, ECG, bb                           552.9    1    552.90    138.23
+FlexLED Roll, RGB, 3m, 48LED/m, DC 24V                                              500.12   23  11502.76   2875.69
+Nosač sabirnica, 185mm, 2100A, 3P, TT-/TTT-Profil                                   194.24   10   1942.40    485.60
+
+                                                                                                         ----------
+UKUPNO                                                                                                    584910.06
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

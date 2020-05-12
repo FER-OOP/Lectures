@@ -1,0 +1,30 @@
+Račun br. 949222
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Reflektor CAPRI simetrični 1x70W RX7S HIT/HST, crna                                 480.92   24  11542.08   2885.52
+Kabel H03VV-F (PP/L) 2x0,75mm2, smeđi, 50m kolut                                     10000   26 260000.00  65000.00
+Optički prespojni kabel duplex, SC/FC, 9/125µm OS2, 1.0m                             76.77   14   1074.78    268.69
+Bezhalogeni instalacijski kabel JE-H(ST)H 4x2x0,8 E90 nar.                           10000   20 200000.00  50000.00
+Gumeni savitljivi kabel NSSHöu-J 7x1,5, žuti                                         10000    4  40000.00  10000.00
+QUADRASYL zidna svj., WL 15,četvrtasta,antracit,GX53,max.11W                        437.43   19   8311.17   2077.79
+LED napajanje 12V/18W IP67                                                            86.1   28   2410.80    602.70
+Motorna zaštitna sklopka, 3-polna | 1.80 - 2.50A, vel.S0                            223.43    3    670.29    167.57
+EURO SPOT COB LED, 3000K, 36°, uklj. 3F adapter, sive boje                          938.06    1    938.06    234.51
+Telekomunikacijski kabel vodonepropusan F-2YA2Y 60x2x0,8                             10000   23 230000.00  57500.00
+Cijevni nosač 1000mm, bijeli par tip dizajn                                         512.31    6   3073.86    768.46
+Prednja ploča za razdjelnike sa kabelskim kanalom, 4G3                                4160   29 120640.00  30160.00
+"Dvostruko svjetleće tipkalo crno/crno, oznake ""+/-"""                              74.47    4    297.88     74.47
+Kombinirani senzor za temperaturu i svjetlo                                        2127.94   29  61710.26  15427.57
+Compact passage, senzor pristunosti 24V, p/ž, stropni, crni                        2859.97    9  25739.73   6434.93
+Paralaelno tipkalo E10, 1A, 230VAC,crvena signalizacija,sivo                          2121   11  23331.00   5832.75
+NV podnožje 3P, vel.00|160A, na ploču, M8                                           168.16   26   4372.16   1093.04
+Kučište MO 2M CUBO, nadžbukno, IP55, bijelo                                          26.88    9    241.92     60.48
+
+                                                                                                         ----------
+UKUPNO                                                                                                    994354.06
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,26 @@
+Račun br. 700409
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Pino-I-WL-R 15W E27, 100-240V, IP44, tikovina+nehrđajući č.                         175.88   10   1758.80    439.70
+XXL-Sweater  cotton-polyester-jersey                                                 278.4   14   3897.60    974.40
+Spojnica (ravna) M40, svijetlo-siva (pak. 25 kom.)                                  413.68   17   7032.56   1758.14
+Plafonjera MALLE LED 12W 1050lm/830 ECG sa 3h EM, bijela                              8518   13 110734.00  27683.50
+"Opt. razdjelnik,12 niti, FC, 62,5/125µm OM1, izvl.,19"",1U"                       1223.53   30  36705.90   9176.48
+IP FLEXLED ROLL 24V, 15W, 5000K, 3m, 60LED/m, IP55                                  374.92    7   2624.44    656.11
+Finožični PVC-om izol. vodič H07V-K (P/F) 10mm2, plavi HPV                           10000   12 120000.00  30000.00
+LED RF WiFi kontroler Touch RGBW - 4 zone - crne boje                               836.68   28  23427.04   5856.76
+Optički prespojni kabel duplex, ST/ST, 62,5/125µm OM1, 2m                            61.77   18   1111.86    277.96
+Panik svjetiljka VM LED 230VAC, MIX mod, montaža strop.                            2151.31    1   2151.31    537.83
+Nathan-Q 13W G24q-1, 230V, IP20, sive boje                                           19.59   23    450.57    112.64
+Zaštitni prekidač AMPARO 6kA, B 25A, 1P+N                                            45.86   25   1146.50    286.63
+KADUX LED Double DL Set, 3000K, 30°, crne boje                                     2184.14   23  50235.22  12558.80
+Relej snage, 1C/O, 16A, 12VDC serije RT, raster 5mm                                  14.47   13    188.11     47.03
+
+                                                                                                         ----------
+UKUPNO                                                                                                    361463.94
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

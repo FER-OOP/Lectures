@@ -1,0 +1,20 @@
+Račun br. 1073622
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+NV rastavna pruga vel.2|400A, 3P, M12, 185mm, nadzor osig.                         2120.87   14  29692.18   7423.05
+Redna stezaljka (vijčani priključak) 35mm², žuto/zelena                              41.43    9    372.87     93.22
+Pokrov stezaljki (gore/dolje), za LTS 400/630, LTS-F 250/400                        113.51    5    567.55    141.89
+Halogena žarulja QR-CBC 35 20W WFL 38° G4                                            21.71    6    130.26     32.56
+Ezio-Q LED 2,5W 3000K 15lm, IP44, bijele boje                                       351.77    9   3165.93    791.48
+FlexLED Roll, plave b., 1m, 60LED/m, DC 24V                                         105.76   15   1586.40    396.60
+Svjetleće tipkalo s povratom, plosnato, crveno                                       38.45   27   1038.15    259.54
+"19"" fiksna polica do maks. 40kg, d=550mm, niskoprofilna"                          204.33   26   5312.58   1328.15
+
+                                                                                                         ----------
+UKUPNO                                                                                                     41865.92
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

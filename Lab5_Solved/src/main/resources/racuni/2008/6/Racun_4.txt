@@ -1,0 +1,32 @@
+Račun br. 715990
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kompaktni prekidač snage tip A, 4P/50A/50kA, MC1                                   1352.81    1   1352.81    338.20
+IBDN prespojni kabel RJ45 UTP cat.6A, sivi, 2.1m                                     65.83    5    329.15     82.29
+Sklopnik 3P |132kW (260A) [AC3] / 450A [AC1] | 230V AC/DC                          5196.07   17  88333.19  22083.30
+Zaštitni prekidač, D karakteristika, 10A, 3-polni, 10kA                             174.55   13   2269.15    567.29
+PRIMOLUX LED 68W 8000lm/840 opal DALI IP44 ,dužine 1535mm,bb                       1509.09   20  30181.80   7545.45
+BIG THEO OUT GU10 stropna svj., četvrt.,bi.b.,max.35W                               500.12   16   8001.92   2000.48
+Nadgradna svjetiljka SAP IP54 T8 4x18W CCG, ind, bijela                             1232.4   21  25880.40   6470.10
+PD 360i/8 MASTER P/Ž zidni senzor prisutnosti IR Ø 8m,bijeli                       1093.49   29  31711.21   7927.80
+Cilindrični osigurač, 14x51, 50A, gG, 500V AC                                          6.5   25    162.50     40.63
+Aluminijski montažni nosač 2H/C                                                      22.11   20    442.20    110.55
+Ugradna svjetiljka SERH 2 A8 L1 T5 1x80W, ECG, bijela                                 8534   29 247486.00  61871.50
+NV rastavna sklopka vel.00|160A, 3P, mostić 70mm², na ploču                         241.87   27   6530.49   1632.62
+Slijepa traka, perforirana, duljine 220mm                                             2.43   13     31.59      7.90
+Rozeta, 5 izlaza, bijele boje                                                       468.69   13   6092.97   1523.24
+Softshell jakna -S-                                                                 595.37    3   1786.11    446.53
+Nadgradna svjetiljka Torno 2 Plafo, E27, 2x18W, IP65, bijela                        231.98   17   3943.66    985.91
+SAT uzemljenje+prenap. zašt.,9x F-kon.,9x odv.,za HSATS5xxKA                         464.2   21   9748.20   2437.05
+Otpor 3W za dimer EVMTV500E                                                          61.86    1     61.86     15.47
+Derek-Q LED 30W 4500K 1770lm, IP53, sive boje                                       583.41    8   4667.28   1166.82
+FIN POLE 100cm LED 2x9x1W 4000K UP & DOWN MAT STAKLO antr.                         5622.59    8  44980.72  11245.18
+
+                                                                                                         ----------
+UKUPNO                                                                                                    513993.22
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

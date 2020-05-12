@@ -1,0 +1,16 @@
+Račun br. 331258
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Togra-WL-R 20W E27, 100-240V, IP44, nehrđajući čelik                                268.81    8   2150.48    537.62
+Bočna stranica za trodijelni sistem, 28 modularnih visina                             4160   28 116480.00  29120.00
+Bezhalogeni jednožilni vodič H07Z-K 1mm2, smeđi                                      10000   15 150000.00  37500.00
+THEO WALL OUT zidna svjetiljka, GU10, max. 35W,četvrt.,antr.                        437.43   29  12685.47   3171.37
+
+                                                                                                         ----------
+UKUPNO                                                                                                    281315.94
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,29 @@
+Račun br. 429327
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Finožični PVC-om izolirani vodič H07V-K (P/F) 16mm2, crni                          1193.14    7   8351.98   2088.00
+Krović za zaštitu WSM ormara od kiše, za ormar 1200X300(ŠxD)                          4066   26 105716.00  26429.00
+9G15A/D/E, 15W E27 DL                                                                 8.78   19    166.82     41.70
+Podnožje prema dubini AS/KS ormara, 300x200mm, RAL 7022                             154.06   21   3235.26    808.82
+FRAME BASIC LED Set, 6W, 3000K, crne boje,uklj.napajanje                            249.72    6   1498.32    374.58
+Sutil Round  LED 8W, 6000K, 560lm, 120°, IP40, sive boje                            126.04   13   1638.52    409.63
+Montažna ploča za IP54, 2A-12                                                         4160   19  79040.00  19760.00
+LED trake plave b., 30,5cm, sa 24 LED, DC 24V                                       113.09   25   2827.25    706.81
+Zaštitni prekidač, C karakteristika, 16A, 4-polni, 10kA                             426.33   11   4689.63   1172.41
+Držać kabela s čavlom, do 25mm                                                      797.64    6   4785.84   1196.46
+41012B/W, KUTNI POKROV, bijele boje                                                  14.69    1     14.69      3.67
+Zaštitni prekidač, C karakteristika, 13A, 2-polni, 10kA                              91.14   25   2278.50    569.63
+Pomoć za montažu pokrova - 30mm                                                      16.75    6    100.50     25.13
+Stezaljka Al-Cu, siva, 95mm2                                                          76.5   12    918.00    229.50
+Ugradna svjetiljka SEO XTP T5 4x54W ECG IP54 M600, bijela                          2169.11   27  58565.97  14641.49
+Marius-R/A2 LED 12W 4000K 1100lm, IP68, nehrđajući čelik                           1758.87    3   5276.61   1319.15
+65017T/12, 12 ° reflektor za 65017                                                  117.25    7    820.75    205.19
+
+                                                                                                         ----------
+UKUPNO                                                                                                    279924.66
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

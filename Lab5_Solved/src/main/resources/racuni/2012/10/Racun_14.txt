@@ -1,0 +1,14 @@
+Račun br. 425967
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Postolje za nazidne razdjelnike M2000 IP30, prednji dio, 4PB                         81.17    1     81.17     20.29
+"Zidni komunikacijski ormar DW Monoblock 600x900x395, 19"",18U"                    1167.63   22  25687.86   6421.96
+
+                                                                                                         ----------
+UKUPNO                                                                                                     25769.03
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

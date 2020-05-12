@@ -1,0 +1,15 @@
+Račun br. 627784
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+P/Ž inst. razdj. 2U-24,8-redni,168 ŠM,1195x590x180 mm(VxŠxD)                       2700.12   17  45902.04  11475.51
+Priključnica 2xRJ45 cat.5e, oklop. univ., 80x80, RAL9010                             69.93   23   1608.39    402.10
+Nadgradna svjetiljka MERA OPAL 1x58W ECG, bijela                                    187.09   13   2432.17    608.04
+
+                                                                                                         ----------
+UKUPNO                                                                                                      49942.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

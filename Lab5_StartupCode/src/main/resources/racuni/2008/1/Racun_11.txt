@@ -1,0 +1,27 @@
+Račun br. 474964
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+SMD LED žarulja, oblik svijeće, mat, E14, dim., 5W 3000K                             63.02   18   1134.36    283.59
+Montažna ploča 2PB, 450x248x13mm, 6 visinskih jedinica                              194.31    9   1748.79    437.20
+N/Ž inst. razdj. 5A-24, 8-redni, 456 ŠM, 1195x1230x250mm                           5031.75   20 100635.00  25158.75
+Barkod čitač za VIP                                                                2219.42    5  11097.10   2774.27
+LED ES111 crne boje, 15W, 30°, 2700K                                                374.92   17   6373.64   1593.41
+Zaštitni prekidač, D karakteristika, 16A, 3-polni+N, 10kA                           217.57   23   5004.11   1251.03
+Unutarnja vrata za Minipol ormare, poliester, puna, 600X500                         721.96   21  15161.16   3790.29
+Modularna slijepa ploča za AS/KS ormare 800x600mm RAL 7035                          240.84   22   5298.48   1324.62
+Zaštitni prekidač, D karakteristika, 32A, 3-polni+N, 10kA                           244.73   22   5384.06   1346.02
+Kanal tip BE-DIN, 50x62.5mm (VxŠ), duljina 2m, RAL 7030                              42.31   16    676.96    169.24
+FI-blok 80A, 4-polni, 300mA, S izvedba, Tip A (Puls)                                  4290    7  30030.00   7507.50
+Nosač MO 1M bez nožica, za knauf kutije                                               4.37   28    122.36     30.59
+7315B/D, 15W PAR30 E27 DL                                                            19.59   14    274.26     68.57
+Priključna stezaljka 2 x M 8 - 1 x V-stezaljka 2 x 35–70 mm2                         62.76    2    125.52     31.38
+Bezhalogeni jednožilni vodič H07Z-U 1,5mm2, narančasti                               10000    4  40000.00  10000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     223065.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

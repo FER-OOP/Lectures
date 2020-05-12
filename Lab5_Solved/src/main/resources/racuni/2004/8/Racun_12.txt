@@ -1,0 +1,20 @@
+Račun br. 1019699
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Montažna ploča za IP54, 3A-21                                                         4160    3  12480.00   3120.00
+Bezhal. kabel HSLH-JZ4x2,5FRNC H-F 1žila ž/z ostale crn/siv                          10000   15 150000.00  37500.00
+"Opt. razdjelnik, 4 niti,SC,50/125µm OM4, izvlačivi,19"",1U"                        504.27   16   8068.32   2017.08
+Cinch audio utičnica, antracit                                                       42.04   15    630.60    157.65
+Uzidni okvir s vratima - M3000, 3U-42                                              1666.27   11  18328.97   4582.24
+LED napajanje TC 13W/12V Slim, MM, IP20                                             175.78   11   1933.58    483.40
+Bezhalogeni kabel s el. funkc. do30 Min. (N)HXH-J5x25reE30                           10000    3  30000.00   7500.00
+"Grebenasta sklopka, ""START""/1P/20A, na vrata"                                    132.69   23   3051.87    762.97
+
+                                                                                                         ----------
+UKUPNO                                                                                                    224493.33
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

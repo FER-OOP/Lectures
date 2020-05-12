@@ -1,0 +1,32 @@
+Račun br. 402877
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Poliester kućište 560x280x100mm sivo - F                                             632.4    1    632.40    158.10
+3-fazna fleksibilna spojnica, siva                                                  101.03   11   1111.33    277.83
+NV osigurač vel. 2, 100A/400V AC                                                     55.04   18    990.72    247.68
+Sklopnik 3P |11kW (24A) [AC3] / 50A [AC1] | 110V AC                                 247.81   22   5451.82   1362.95
+LED Classic Economy žarulja 9,5W E27 2800K 15.000h                                    8581    9  77229.00  19307.25
+"Dvostruko svjetleće tipkalo bijelo/crno, oznake: ""I"" - ""0"""                     75.04    4    300.16     75.04
+Kabel H05VVC4V5-K 12x1,5 sivi                                                        10000    1  10000.00   2500.00
+SEVEN-CIRCLE 70W HIT E27 IP65 SK2 cestovna optika, crna                            3459.53   15  51892.95  12973.24
+Slijepi pokrov - OKA                                                                 70.32   18   1265.76    316.44
+"Zidni komunikacijski ormar DW Monobloc, 600x280x395, 19"", 4U"                     721.54   14  10101.56   2525.39
+PEYOTE POLE 48cm 360° 8x1W LED, 40° 4000K RAL9006                                  3315.41    3   9946.23   2486.56
+FID sklopka AMPARO, 25-2-003/A (puls), 10kA                                         359.83   18   6476.94   1619.23
+"Opt. razdjelnik, 4 niti LC 50/125µm OM4, izvlačivi,19"",1U"                         725.2   27  19580.40   4895.10
+Okvir za IKALL, 1-struki,srebrni                                                    284.29    1    284.29     71.07
+Set za brzu montažu rastavne sklopke vel. 000 na DIN nosač                            6.83   23    157.09     39.27
+LINEA 80M K2 spojnica                                                                27.45    8    219.60     54.90
+Optički prespojni kabel duplex, FC/FC, 50/125µm OM2, 10m                            131.57   15   1973.55    493.39
+89242/ELE/DIM, 2x26/32/42w PL Dim. elektronska prigušnica                            53.56   29   1553.24    388.31
+Zaštitni prekidač AMPARO 6kA, C 6A, 3P+N                                             98.25   29   2849.25    712.31
+Assembly of an 3 pole (DW) LED Flexstrip IP43                                       184.16    8   1473.28    368.32
+
+                                                                                                         ----------
+UKUPNO                                                                                                    203489.58
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

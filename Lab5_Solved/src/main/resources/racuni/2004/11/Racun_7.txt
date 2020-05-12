@@ -1,0 +1,27 @@
+Račun br. 831732
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LS-FI (KZS), C/16A/300mA, 1P+N, Tip AC, 6kA                                         199.43    7   1396.01    349.00
+PMMA pokrov LB, asimetrični                                                          69.35    9    624.15    156.04
+Završni poklopac TBI okrugli s rupom za prolaz kabela                                83.77   19   1591.63    397.91
+CRISTAL MEDIUM LED 9x1W 3000K ASIM. 40°x50° INOX+ugr.kut.                          3246.99    2   6493.98   1623.49
+Kabel H05VV-F (PP/J) 4x2,5mm2, svijetlo-sivi, 500m                                   10000   20 200000.00  50000.00
+NEW TRIA XL okrugla GU10 Downlight, bijele boje                                      187.2   12   2246.40    561.60
+Prednja ploča, čelična, slijepa, 4B3                                                  4160   24  99840.00  24960.00
+Bočne stranice za AS ormare, 2000x800mm (VxŠ) RAL 7035 (par)                       1069.97   20  21399.40   5349.85
+Tipka za serijsku sklopku, bijela                                                       10   21    210.00     52.50
+LED napajanje 24V/60W IP67                                                          195.31   21   4101.51   1025.38
+Teretna sklopka, 3P, 1000A, opcija: daljinski isklop                              10885.14   14 152391.95  38097.99
+"Opt. razdjelnik,16 niti, SC 50/125µm OM4, izvlačivi,19"",1U"                      1326.16   18  23870.88   5967.72
+LED napajanje, 20W, 24V                                                             247.52    8   1980.16    495.04
+89242/ELE, 2x26w/2x32w/2x42w PL elektronska prigušnica                               35.65    1     35.65      8.91
+Kruta lagana cijev, M50, 320N, EN2242, HF, s-siva, 3m (21m)                        4551.69   21  95585.49  23896.37
+
+                                                                                                         ----------
+UKUPNO                                                                                                    611767.25
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

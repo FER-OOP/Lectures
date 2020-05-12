@@ -1,0 +1,31 @@
+Račun br. 1030242
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Vodotijesna svjetiljka DEVA ECO PC 1x58W CCG                                        254.11   10   2541.10    635.28
+TYTAN HC prespojni kabel RJ10, duljina 100cm                                            20   18    360.00     90.00
+Finožični PVC-om izolirani vodič H07V-K (P/F) 240mm2, crni                        20944.35   15 314165.25  78541.31
+Kuka SL 8x35mm Mat. 1.4016, visine 55mm                                             103.38    7    723.66    180.91
+Nazidna izmjenična sklopka, b.bijela, 10A, IP44, na vijak                            46.69   25   1167.25    291.81
+FI-trafo 150A, tip WFR2, za BC900203 I BC900210                                    2088.43   22  45945.46  11486.36
+Podstanica procesorom za Multi-Control za 24 DCM E30                               34016.1    6 204096.61  51024.15
+Mikro pomoćni sklopnik | 3A [AC15] | 230V AC | 4N/O                                  78.96   26   2052.96    513.24
+Kabel LiYCY 1x0,75                                                                   10000   29 290000.00  72500.00
+Uzidni okvir s vratima - M3000, 4U-28                                              1646.12    6   9876.72   2469.18
+Cube-WL-Q 75W E27 PAR30, 100-240V, IP54, sive boje                                  245.32   23   5642.36   1410.59
+ORION CONE 140 ovjesna, bijela b. , E14, max. 40W, staklo                           500.12   26  13003.12   3250.78
+89024E, RGB kontroler za 24vDC LED traku                                            344.67    3   1034.01    258.50
+Otvoreni prekidač, 4P, 80kA, 2500A, izvl., vod. str. priklj.                      83840.15   221844483.25 461120.81
+Samostojeći ormar INOX, 1800x800x500mm, IP56, AISI304                             20314.03   30 609420.88 152355.22
+CRYSTAL I Downlight svjetiljka, MR16                                                280.98   15   4214.70   1053.68
+Kompaktni prekidač snage tip VE, 3P, 150kA, 160A, utični                           3529.86    1   3529.86    882.46
+ARROW-LINE, vel.2, 3P, V-stezaljke, za strujni trafo                                  4821   13  62673.00  15668.25
+Sklopka MO 1M 16A za rolete 1-0-2 bez tipke, na vijak                                20.94    1     20.94      5.24
+
+                                                                                                         ----------
+UKUPNO                                                                                                    3414951.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

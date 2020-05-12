@@ -1,0 +1,23 @@
+Račun br. 350901
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LED RETROFIT RL-A150 20W 230V 827 2452lm mat E27 15000h                              96.46    2    192.92     48.23
+Košulja ženska, dugih rukava, bijela -40-                                           646.59   26  16811.34   4202.83
+Montažni nosač za LED zidni profil,uklj. vijci i tiple, 3kom                         62.51   19   1187.69    296.92
+PATH KIT - 2 pokrova + montažni vijci RAL9006                                       307.63    5   1538.15    384.54
+Perforirana stražnja str. za DS/DSZ ormare, 45U, Š=800                                 835   19  15865.00   3966.25
+Poprečna stranica, širina 2/100mm                                                   127.88   24   3069.12    767.28
+Rezervni ključ MS1 standard                                                          32.76   13    425.88    106.47
+Shelf Strip PIR Sensor                                                              124.52   20   2490.40    622.60
+LED 12-30V AC/DC, bijeli, za montažu na dno kućišta, utične                          38.95   27   1051.65    262.91
+NYCY 3x4RE/4                                                                        2260.8   24  54259.20  13564.80
+Nosač cijevni za paniku tip S1 dužine 300mm, par                                     173.1    7   1211.70    302.93
+
+                                                                                                         ----------
+UKUPNO                                                                                                    98103.055
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,26 @@
+Račun br. 192120
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Modul signalne svjetiljke, trajno zeleno svjetlo                                    173.16   11   1904.76    476.19
+Pako-Q/A2 LED 4x1W 3000K, dimabilna, 350mA, IP20, aluminij                           96.98    9    872.82    218.21
+Finožični PVC-om izol. vodič H05V-K (P/F) 1mm2, žuti HPV                             10000   29 290000.00  72500.00
+Sklopnik 3P |11kW (22A) [AC3] / 32A [AC1] | 400V AC | 1N/C                          256.93   18   4624.74   1156.18
+Smith-II-Q LED 9W 3000K 350lm, IP54, bijele boje                                    417.66   20   8353.20   2088.30
+GLENOS profil 1107-200, 2m, crne boje                                               249.72   16   3995.52    998.88
+Bočne stranice za Modul 2000/3S, dubine 102mm, tip 41/102                             4160   30 124800.00  31200.00
+"1-struki okvir ""Scala"", bijeli"                                                    7.73   18    139.14     34.78
+BILAS Single Spot 15W, 2700K, 25°, okrugla, bijele boje                            1558.31   30  46749.30  11687.33
+Neizolirana Cu stopica 120mm², M10                                                   16.58   15    248.70     62.17
+Energetski kabel 0,6/1kV PP00 (EYY-O) 2x2,5re crni                                  587.97   17   9995.49   2498.87
+NV rastavna sklopka vel.1|250A, M10, nadzor osigur., 60mm                             4832   17  82144.00  20536.00
+Telefonska LSA letvica za uzemljenje 2/38, mont. na nosač                            55.39   11    609.29    152.32
+PD 360/8 Slave P/Ž stropni senzor prisutnosti 8m, bijeli                            851.55   14  11921.70   2980.43
+
+                                                                                                         ----------
+UKUPNO                                                                                                     586358.7
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

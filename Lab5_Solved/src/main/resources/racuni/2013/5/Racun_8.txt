@@ -1,0 +1,17 @@
+Račun br. 300703
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Prespojni kabel RJ45 cat.6 neoklopljen, PVC, zeleni, 10.0m                           43.46    1     43.46     10.86
+Prirubnica 410x96, za uvodnice: 21xM16, 10xM20                                       98.49   29   2856.21    714.05
+Linijska svjetiljka SOLO 2 1x54W ECG T5 bijela                                      207.72   24   4985.28   1246.32
+Instal. umetak 1-18L komplet 6 IR prednja pl. plastika                             1170.28    7   8191.96   2047.99
+"3-struki okvir ""Scala"", biserno bijeli"                                           26.84   30    805.20    201.30
+
+                                                                                                         ----------
+UKUPNO                                                                                                     16882.11
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,17 @@
+Račun br. 411390
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Lamelirana bakrena sabirnica, 736A, duljina 2m, 5x40x1mm                           1233.31   22  27132.82   6783.21
+Montažni okvir za Downunder II i III, PL/R7S,veliki                                   8575   13 111475.00  27868.75
+SAIL zidna svj., WL 1, crne b., 1x3W LED, tbb                                       750.35   13   9754.55   2438.64
+Rastavna sklopka za cilindrične osigurače 14x51mm, 3P+N/50A                         129.21   10   1292.10    323.03
+KB sigurnosna lampa LED 230VAC/ 3h Autotest, univerzalna mon                       1077.58   17  18318.86   4579.71
+
+                                                                                                         ----------
+UKUPNO                                                                                                    167973.31
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

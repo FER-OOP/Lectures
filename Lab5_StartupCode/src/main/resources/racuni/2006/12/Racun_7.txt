@@ -1,0 +1,26 @@
+Račun br. 109188
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kompenzacija  LSK 7% 75/25kvar 600x1250x300mm zidni ormar                         22221.48    4  88885.92  22221.48
+L-SE 3-f modul DM T5 35W                                                            618.37   14   8657.18   2164.29
+Kućište s poklopcem (razvodna kutija) 198x153x76.5mm, IP65                           63.82   20   1276.40    319.10
+Okvir 3x2M line, bež                                                                 14.22    7     99.54     24.89
+Strujni trafo 600/5, 2.5VA, class 1, za SI337010...020...030                        227.39   28   6366.92   1591.73
+Lano Quadro LED M600, 48W, 3000K, 3600lm, IP20,1200mA, bb                           464.13   29  13459.77   3364.94
+Ovjesna svjetiljka OFFICE ECO DIR/IND PAR 2x28W ECG, siva                           508.07   16   8129.12   2032.28
+Francis-R/A2 75W GU10 AR111, 100-240V, IP20, aluminij                               256.48   28   7181.44   1795.36
+Laki gumeni kabel H05RR-F 3x1, crni                                                  10000    7  70000.00  17500.00
+MELAN stropna svjetiljka                                                            449.94   29  13048.26   3262.07
+Magnetski plašt za prolazni trafo MC900105                                         1109.04   15  16635.60   4158.90
+Zaštitni prekidač, B karakteristika, 10A, 3-polni, 10kA                             100.67   23   2315.41    578.85
+Dusa-I-R LED 10x0,2W, dimabilna, IP66, nehrđajući čelik                            1060.73   18  19093.14   4773.29
+Telekomunikacijski kabel J-Y(ST)Y 30x2x0,8mm2                                      4060.14   20  81202.80  20300.70
+
+                                                                                                         ----------
+UKUPNO                                                                                                     336351.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

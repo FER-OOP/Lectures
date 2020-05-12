@@ -1,0 +1,18 @@
+Račun br. 717446
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kabel E-Y2Y-O 4x6RE                                                                  10000   28 280000.00  70000.00
+Samostojeći ormar, 2-vrata, 1800x1600x400 (VxŠxD), RAL 7035                        6431.23    7  45018.61  11254.65
+KALU 3 zidna i strop.svj.mat bijela 3x50Wmax.QRB111                                1126.79   10  11267.90   2816.98
+Ugradna svjetiljka SERH 2 A8 L1 T5 1x54W, ECG, bijela                                 8534   23 196282.00  49070.50
+FO spojnica LC DX 9/125 za toolless, bez prirubnice                                   58.2   12    698.40    174.60
+Downunder OUT LED M, 3,3W, 3000K, bijela boja                                       374.92   29  10872.68   2718.17
+
+                                                                                                         ----------
+UKUPNO                                                                                                    544139.56
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

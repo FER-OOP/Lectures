@@ -1,0 +1,33 @@
+Račun br. 238700
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Okvir 2M line, zlatni                                                                24.38   19    463.22    115.80
+Zaštitni prekidač, D karakteristika, 16A, 4-polni, 10kA                             477.18   18   8589.24   2147.31
+Maskirni razdjelnik 3 širine brojila/ 18 MV                                           4180    8  33440.00   8360.00
+Spojnica sa smolom MU6 Ø23-48mm                                                    1142.63   18  20567.34   5141.83
+Sklopnik 3P |11kW (22A) [AC3] / 32A [AC1] | 24V DC | 1N/C                           353.35    3   1060.05    265.01
+Instalacijski sklopnik 25A | 4 N/O | 230V AC                                        129.89    3    389.67     97.42
+Ovalna svjetiljka 1x60W E27, siva, IP44 SCII, plastična,žiča                         21.56    6    129.36     32.34
+T-Shirt siva -M-                                                                     46.02   14    644.28    161.07
+Vodotijesna svjetiljka DEVA ECO PC 1x36W CCG                                        217.34    1    217.34     54.33
+Jamba-R 20W E27, 100-240V, IP54, antracit                                           197.85   14   2769.90    692.48
+Punto-R LED 7W 3000K 507lm, IP44, bijele boje                                       238.74   10   2387.40    596.85
+"FIN POLE 100cm LED 9x1W 4000K ""DOWN"" MAT STAKLO sive boje"                      3657.17   15  54857.55  13714.39
+LED montažni profil,bez okvira,alu,1m,uklj.satin. pokrov                             187.2   16   2995.20    748.80
+Prednja ploča za PIR senzor pokreta, F/S/R, alu efekt                               105.27   28   2947.56    736.89
+PVC-om izol.kabel za srednja meh.opt. YMS -J 4x6 crni                                10000   16 160000.00  40000.00
+TOOLL. LINE spojnica RJ45-RJ45 oklopljena,kl. Ea 10GB (SFA)                          29.71   27    802.17    200.54
+Svjetleće tipkalo s plos.tipkom,sa LED 24VAC/DC,zeleno,1N/O                          73.17   14   1024.38    256.10
+Ugradna svjetiljka SEP XTP T5 4x14W ECG IP54 M625, bijela                          1091.38    8   8731.04   2182.76
+Baterije 18 kom. longlife OGiV 12V/5,2Ah s kabelima za ožič.                       2957.35   10  29573.50   7393.37
+Kabel H03VV-F (PP/L) 3x0,75mm2, smeđi, 50m kolut                                     10000   24 240000.00  60000.00
+Uzidni okvir s vratima - M3000, 4U-24                                              1414.24    6   8485.44   2121.36
+
+                                                                                                         ----------
+UKUPNO                                                                                                     580074.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

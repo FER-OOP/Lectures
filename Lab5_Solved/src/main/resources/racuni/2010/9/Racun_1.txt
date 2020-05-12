@@ -1,0 +1,27 @@
+Račun br. 488779
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ovjesna/podna svjetiljka Moonlight 380, E27 26W IP54 bijela                         938.74   21  19713.54   4928.38
+Produžna osovina 300mm, za VC1 i VC2                                                104.91   13   1363.83    340.96
+Ugradna downlight svjetiljka EQM 211 1x26W CCG TC-D, bijela                         329.35   19   6257.65   1564.41
+Podnožje N voda, 160A, mostić 1.5-70mm2 (obostrano),na ploču                         96.87   14   1356.18    339.05
+Ugr. downl. SEGON LED 18W ED 1900lm/830,3hEM,MAT IP44 70°,bb                       1278.14   27  34509.78   8627.45
+Izolirana okasta stopica, M8, žuta, 4-6mm2 (pak.=100 kom.)                          135.32    6    811.92    202.98
+Završni pokrov za aluminijski profil sa pokrovom, sreb.boje                          62.51   21   1312.71    328.18
+Fleksibilni plosnati kabel za dizalice H07VVH6-F 4x50, crni                          10000   10 100000.00  25000.00
+Kuka SL 8x35mm Mat. 1.4016, visine 55mm                                             103.38    6    620.28    155.07
+Prednja ploča, čelična, slijepa, 5B18                                                 4160   27 112320.00  28080.00
+Kabel za gradilišta XYMM-J 5x2,5 K35 / 50m, žuti                                     10000    3  30000.00   7500.00
+"Opt. razdjelnik,24 niti, ST,50/125µm OM3, izvlačivi,19"",1U"                      1504.82   21  31601.22   7900.30
+Plosnate stezaljke 63 x 40mm, visina: 5 - 20mm                                      185.05   30   5551.50   1387.88
+Panik svjetiljka PF FLUO 11W, CPSsustav,MIX mod, zidna                             1792.05   11  19712.55   4928.14
+Peri-II-S LED 50W 4000K 4000lm, IP65, crne boje                                     795.63    1    795.63    198.91
+
+                                                                                                         ----------
+UKUPNO                                                                                                    365926.78
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

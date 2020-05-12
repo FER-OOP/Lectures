@@ -1,0 +1,15 @@
+Račun br. 156969
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Valo Medium LED Track spot, 45W, 4000K, 3150lm, IP20, bijela                        795.63   19  15116.97   3779.24
+BK koaks. presp. kabel IEC-m/IEC-ž,ravni,kl.A,bijeli,1.5m                            12.93   28    362.04     90.51
+Baterija RPOWER OGiV 12/65Ah, longlife: 10-12 god.                                 1337.76   17  22741.92   5685.48
+
+                                                                                                         ----------
+UKUPNO                                                                                                     38220.93
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

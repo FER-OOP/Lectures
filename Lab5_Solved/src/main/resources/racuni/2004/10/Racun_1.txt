@@ -1,0 +1,32 @@
+Račun br. 602321
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"Optički prespojni panel 19"", 1U, uklj. 24 spojnice SC MM"                         994.54   23  22874.42   5718.60
+Reflektor FORCA LED 151W 16220lm/757 ECG IP65, as široki,sb                        4134.73   18  74425.14  18606.29
+Linijska svj. SERM-LF 112, početni profil,  1x28W, ECG, bb                          546.54    5   2732.70    683.17
+Sklopnik 3P |45kW (85A) [AC3] / 150A [AC1] | 230V AC                               1292.36    4   5169.44   1292.36
+Pokrov 280x280x80mm sivi - C-GH                                                     337.54    5   1687.70    421.93
+Kutni nosač za za AF-S reflektor, bijelo                                            216.84   11   2385.24    596.31
+Finožični PVC-om izolirani vodič H07V-K (P/F) 6mm2, ž/z                              455.4    4   1821.60    455.40
+Ormar komp. 100kVAr/14%  - 25kVAr /600x2000x400 samostojeći                       47763.37   18 859740.69 214935.19
+3f reflektor VITO DC LED 30W 2500lm/830 ECG 20°, crne boje                         1278.14   11  14059.54   3514.89
+Zaštitni prekidač AMPARO 6kA, C 40A, 3P+N                                           114.51   15   1717.65    429.41
+D02 prilagodni element za D01 osigurače 2 - 16A                                       6.98   25    174.50     43.63
+Utičnica šuko i sklopka izm. IP54 na oprugu vertikalna n/ž                           67.68   10    676.80    169.20
+Završna pločica za stezaljku IK610002--, siva                                         0.89   25     22.25      5.56
+FI-blok 63A, 4-polni, 1A, S izvedba                                                   4290   24 102960.00  25740.00
+Reflektor za Gimble G12, 20°                                                         50.01   15    750.15    187.54
+Neizolirana Cu stopica 50mm², M12                                                     8.32   19    158.08     39.52
+Nazidni okvir bez vrata za Modul 2000 | 3A-24 | dubina 250mm                       1139.82   15  17097.30   4274.32
+Master License za MUG, 1 korisnik                                                  1253.46   24  30083.04   7520.76
+Nosač MO 4M za kupaonski set, s vijcima                                              10.78   30    323.40     80.85
+Kompaktni prekidač snage tip M, 3P/63A/25kA, MC1                                    779.37   17  13249.29   3312.32
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1152108.9
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

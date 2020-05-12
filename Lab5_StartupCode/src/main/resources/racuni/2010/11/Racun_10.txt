@@ -1,0 +1,18 @@
+Račun br. 452911
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Redna stez. (utični priklj.) 6mm², tip HTE.6, žuto/zelena                            18.45    3     55.35     13.84
+"Stezaljka ""A"" 1P, dovod 35mm²|odvodi: 1x(2x25)"                                    43.3   30   1299.00    324.75
+KARDAMOD SURFACE ROUND ES111 SINGLE, bijela GU10 max.75W                            813.03   13  10569.39   2642.35
+Prozirna vrata, akril, za WSM6060xx, otvor: 459X443mm                               643.11    4   2572.44    643.11
+Zaštitni prekidač, B karakteristika, 50A, 3-polni+N, 10kA                           393.27    1    393.27     98.32
+QUAD 1 XL LED zidna svjetiljka 3,2W 3000K, četvrtasta, antr.                        687.83   22  15132.26   3783.06
+
+                                                                                                         ----------
+UKUPNO                                                                                                     30021.71
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

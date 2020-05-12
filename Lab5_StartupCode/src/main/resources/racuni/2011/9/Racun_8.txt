@@ -1,0 +1,31 @@
+Račun br. 730253
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Konzola za svjetiljku SEVEN-CIRCLE                                                  705.94   26  18354.44   4588.61
+Tris-I-Q/A1 LED 3x1W 6000K 180lm,dim.,350mA,IP20,bijele b.                           43.59   15    653.85    163.46
+NEW TRIA DLMI četvrt. downlight , srebrne boje, 4000K, 60°                          1495.8   23  34403.40   8600.85
+Plano četvrtasti LED, 40W, 3000K, 2550lm, IP40, bijele boje                         848.68   25  21217.00   5304.25
+Samonarezni vijak 3.9x32mm, križni, s ravnom glavom                                  38.24   24    917.76    229.44
+IBDN LINE alat za nabacivanje za 110                                                358.73   29  10403.17   2600.79
+Montažni profili 37 mod. visina (za ormare visine 1800mm)                          1292.77   20  25855.40   6463.85
+Kabelska uvodnica s maticom, PG13.5, IP68                                             2.54   25     63.50     15.88
+Ugradna downl. svj. za dod. ERK-Z 207  2-18W TC-DEL ECG                             288.08   10   2880.80    720.20
+Završni poklopac CLR ravni zatvoreni sa vijcima                                       51.6   11    567.60    141.90
+Ulična svj. RUBINO LED 84W 8450lm/740 ECG IP66, klasa II,sb                        2625.63   29  76143.27  19035.82
+Središnji držač za učvršćenje montažne ploče u AS/KS ormaru                         195.22   12   2342.64    585.66
+Komplet vijaka za plombiranje (pak.=10 kom.)                                         56.42   19   1071.98    267.99
+Mini prekidač M22                                                                    69.35   12    832.20    208.05
+Brošura Arrow blue HR 2015                                                               0   20      0.00      0.00
+GLENOS kutna spojnica OUTSIDE, 90°, za Alu Profile,bijele b.                         93.26   24   2238.24    559.56
+Kanal tip BE-DIN, 75x75mm (VxŠ), duljina 2m, RAL 7030                                43.04   16    688.64    172.16
+Kabelska uvodnica s maticom, PG36, IP68                                              13.46   21    282.66     70.67
+Spojnica za savitljivu cijev M25, svijetlo siva, pak.50 kom.                        185.17   18   3333.06    833.27
+
+                                                                                                         ----------
+UKUPNO                                                                                                    202249.61
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

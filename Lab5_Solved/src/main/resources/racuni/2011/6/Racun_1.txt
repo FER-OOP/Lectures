@@ -1,0 +1,18 @@
+Račun br. 945681
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Bakreno uže 16 mm2                                                                  1971.6   25  49290.00  12322.50
+Stezaljka pomoćnog kruga, za MC1/2/3 (box stezaljke)                                 34.79   28    974.12    243.53
+Panik svjetiljka RX LED 3W, CPS sustav, MIX mod, univerzal                         1993.61   18  35884.98   8971.25
+NV podnožje 3P, vel.00|160A, sustav 60mm, M8,zašt. od dodira                        255.54    8   2044.32    511.08
+Plafonjera SLAVO 260 12W 1050lm/840 ECG, bijela                                     354.17    5   1770.85    442.71
+LINDA LED PC 2x30W, 4000K, 8749lm, IP65, Inox kopče, siva                          1529.64    4   6118.56   1529.64
+
+                                                                                                         ----------
+UKUPNO                                                                                                    96082.836
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

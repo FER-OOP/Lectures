@@ -1,0 +1,17 @@
+Račun br. 246762
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Vodotijesna svjetiljka LINDA PC 2x58W ECG IP65 SC II                                469.13   20   9382.60   2345.65
+Osigurač EZII/2A                                                                      6.67   10     66.70     16.67
+Al-Cu stezaljka 240mm2, plava                                                       209.56   16   3352.96    838.24
+Fleksibilni plosnati kabel za dizalice H07VVH6-F 12x1,5,crni                         10000   18 180000.00  45000.00
+Reflektor SET 150W HIT-DE RX7s IP65 crni asimetrični                                 970.9    6   5825.40   1456.35
+
+                                                                                                         ----------
+UKUPNO                                                                                                    198627.67
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

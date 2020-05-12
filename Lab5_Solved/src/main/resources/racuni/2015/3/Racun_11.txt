@@ -1,0 +1,21 @@
+Račun br. 755321
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Pomoćni sklopnik vel.00 | 4P | AC15 6A/230V |24VDC|2N/O+2N/C                        112.76   17   1916.92    479.23
+Vrata s okvirom, čelična, za 3-redni razdjelnik                                        8.9   25    222.50     55.62
+Nadgradna svjetiljka KVADRA 70 1-35/49/80W QTI sat. pokrov                          985.73   18  17743.14   4435.79
+Telekomunikacijski kabel J-Y(ST)Y 2x2x0,8mm2                                         295.5    5   1477.50    369.38
+Philips Master LED Spot GU10, 5.3W, 36°, 2700K, dim.                                220.66    6   1323.96    330.99
+Zavr.pok. za LINUX LIGHT,2 kom.proz. (za mat zlatno i krom)                          31.25   27    843.75    210.94
+T-spojnica za 1-f  3-f šina,lijeva, bb                                               87.01   12   1044.12    261.03
+Okvir 2/3M line, mat crni                                                            54.55   12    654.60    163.65
+Kabelska obujmica za kabel promjera 26-30mm, za ASCAP/ASCAB                         337.76    3   1013.28    253.32
+
+                                                                                                         ----------
+UKUPNO                                                                                                    26239.768
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,32 @@
+Račun br. 500585
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Levante-M 16 LED 38W 3750lm 4000K LT-L,IP66,SKII,RAL9006                            3855.2    5  19276.00   4819.00
+GLENOS ALU ugradni profil sa pokrovom, mat bijele boje, 1m                          687.83   10   6878.30   1719.58
+AIXLIGHT MOD 1 MR16, srebrne boje                                                   172.66   23   3971.18    992.80
+FID sklopka 100-4-03/A (puls)                                                       768.58   20  15371.60   3842.90
+Produžna osovina za MC1 i MC2, za ormar maks. dubine 600mm                           62.83   26   1633.58    408.40
+Otvoreni prekidač, 4P, 66kA, 800A, fiksni, vod. str. priklj.                      21819.56    2  43639.12  10909.78
+Bezhalogeni jednožilni vodič H07Z-K 1,5mm2, smeđi                                    10000   13 130000.00  32500.00
+Berry LED 24W, 3000K, 1440lm, 230V, IP65, plastika, antracit                        397.73   18   7159.14   1789.79
+TERANG 2 XL, 3000K, oval, sive boje                                                 625.15   10   6251.50   1562.88
+NEW TRIA II ES111 SQUARE, GU10, uklj. opruge, crne boje                             562.63    1    562.63    140.66
+SAIL zidna svj., WL 2, crne b., 2x3W LED, tbb                                        844.8    3   2534.40    633.60
+"Zidni kom. ormar DW, bočne stranice, 600x635x595, 19"", 12U"                       1240.1    8   9920.80   2480.20
+Odvodnik prenapona COMBTEC kl.B/C/D TNS 275/12,5+H                                 1547.66   16  24762.56   6190.64
+Mini sklopnik 3P | 4kW [AC3] | 230V AC | + 1N/O (ugrađen)                           134.88    9   1213.92    303.48
+ROX PRO zidna svjetiljka,bi.b., G8,5, 2x35W                                        1871.23   15  28068.45   7017.11
+Bezhalogeni telekomunikacijski kabel J-H(ST)H 10x2x0,6 sivi                          10000   26 260000.00  65000.00
+Gumeni kabel A07RN-R (Gwuö/DSTL) 25rm, crni                                          10000   10 100000.00  25000.00
+LEDDISK HORN DL, sr.b., 4000K                                                       813.03    4   3252.12    813.03
+SITRA CUBE zidna svj., četvrtasta,antracit, GX53,max. 9W                             393.5   30  11805.00   2951.25
+Stražnji priključak za 3-polne MC3 (3 kom.)                                         471.73   26  12264.98   3066.25
+
+                                                                                                         ----------
+UKUPNO                                                                                                    688565.25
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

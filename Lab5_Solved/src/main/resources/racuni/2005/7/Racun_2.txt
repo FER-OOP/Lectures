@@ -1,0 +1,28 @@
+Račun br. 1085207
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"Opt. razdjelnik, 4 niti,LC,50/125µm OM2, izvlačivi,19"",1U"                        710.77   15  10661.55   2665.39
+NEW TRIA 68 GU10 downlight, četvrt., mat bijela b., max. 50W                         187.2   13   2433.60    608.40
+Prespojni kabel RJ45 cat.6 oklop.,s pregibnicama,crveni,5m                           29.39    6    176.34     44.08
+Osnova kanala SIGNA 70/130 RAL9010                                                  115.04   12   1380.48    345.12
+Spojna kutija IP67                                                                   86.33   24   2071.92    517.98
+T8 fluo cijev 18W, 3000K                                                             50.01   23   1150.23    287.56
+Stolni nosač za SMART monitor                                                      1291.76   27  34877.52   8719.38
+Maskirni razdj. 2M-12, 4-redni, 84 ŠM, 595x540x200mm (VxŠxD)                          4180   15  62700.00  15675.00
+Zaštitni prekidač, B karakteristika, 32A, 1-polni, 6kA                                24.3   26    631.80    157.95
+INDI REC 2S Downlight, MR16, zakretni,četvrtasti,bijele boje                        218.46    5   1092.30    273.08
+NEW TRIA MINI DL okrugli SET, Downlight, 3000K, brušeni al.                         299.73   30   8991.90   2247.98
+Signalni fleksibilni kabel YSLCY-JZ 25x 1 sivi                                      5170.3    3  15510.90   3877.72
+Pinta-Q/A1 35W GU4 MR11, 12V, IP20, brušeni krom                                      8.78    2     17.56      4.39
+Tinjalica, bistra, BA9s, 200-250V AC, 0.3W                                           14.31    6     85.86     21.47
+SNR Print relej, 1N/O, 6A, 24VDC                                                     28.81   10    288.10     72.03
+Pokrov za svjetleće tipkalo, crveni                                                   8.52   15    127.80     31.95
+
+                                                                                                         ----------
+UKUPNO                                                                                                    142197.84
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

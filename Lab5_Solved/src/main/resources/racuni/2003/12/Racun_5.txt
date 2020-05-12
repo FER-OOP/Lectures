@@ -1,0 +1,26 @@
+Račun br. 202277
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zaštitni prekidač, C karakteristika, 13A, 3-polni+N, 10kA                           227.41   17   3865.97    966.49
+Završni poklopac TBU ravni sa rupom                                                  83.77   11    921.47    230.37
+Signalni fleksibilni kabel YSLY-JZ 25x1 sivi                                        3280.9   17  55775.30  13943.83
+Dvokrilna vrata puna, za kom. ormare, 42U, Š=800 mm                                1104.22   27  29813.94   7453.49
+FID sklopka AMPARO, 25-2-003/A (puls), 10kA                                         359.83    9   3238.47    809.62
+Energetski napitak                                                                   10.67    4     42.68     10.67
+Aluminijska montažna ploča 1250x2500x3mm, bijele boje                              1306.36   18  23514.48   5878.62
+Otvoreni prekidač, 3P, 80kA, 2000A, fiksni,vod. str. priklj.                      37441.89   11 411860.81 102965.20
+Poliester kućište 190x190x100mm sivo - A                                            225.87   24   5420.88   1355.22
+CONE vanjska svjetiljka E27 ELT, kam.siva                                           437.43   23  10060.89   2515.22
+Reflektor 38° za 70W CMH Spot                                                       124.52   30   3735.60    933.90
+P/Ž media razdjelnik, MVM, 3-redni, 12+2 modula,plitki okvir                        808.13   29  23435.77   5858.94
+Prednja ploča za sklopku sa bravom (EL121920), bijela                                 2114   11  23254.00   5813.50
+Kompaktni prekidač snage tip AE, 4P, 150kA, 400A+izvl. modul                       10275.5   14 143857.00  35964.25
+
+                                                                                                         ----------
+UKUPNO                                                                                                    738797.25
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

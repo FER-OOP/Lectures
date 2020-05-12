@@ -1,0 +1,22 @@
+Račun br. 803891
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Bezhal. kabel HSLH-JZ4x6FRNC H-F 1žila ž/z ostale crn/siv                            10000   15 150000.00  37500.00
+Sig. Svj. ZAA 230VAC, 8h, autot., -25°C do35°C,vanjska bat.                        2253.97   20  45079.40  11269.85
+Zaštitni prekidač, C karakteristika, 10A, 4-polni, 6KA                              123.03   14   1722.42    430.60
+Vezna spojnica V4A, 2-djelna, vodič Ø10 i pl.30| sonda Ø20mm                         76.01    8    608.08    152.02
+LED DMX & PWM Dimer Mono                                                            676.39   22  14880.58   3720.15
+"Optički prespojni panel 19"", 1U, uklj. 4 spojnice SC SM"                          481.51   21  10111.71   2527.93
+Ina-R LED 7W 4000K 530lm, dimabilna, 700mA, IP65, bijele b.                         249.21    2    498.42    124.61
+Softshell jakna -M-                                                                 595.37   14   8335.18   2083.79
+Prespojna ploča, 3 izlaza, 350/500mA,crne b.                                         36.66    2     73.32     18.33
+7910/AL, Aluminijski profil 2m + PC opalni pokrov                                   586.29   14   8208.06   2052.01
+
+                                                                                                         ----------
+UKUPNO                                                                                                    239517.16
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

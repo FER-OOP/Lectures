@@ -1,0 +1,19 @@
+Račun br. 249304
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Prekidač, dvostruki, bežično upravljiv                                              249.72   17   4245.24   1061.31
+DIN-nosač 35/7,5mm za WKS, širina 300mm, pocinčani (5 kom.)                           4065    2   8130.00   2032.50
+Kopče za PEN LIGHT, 100 kom.                                                        155.78   28   4361.84   1090.46
+Pozivno tipkalo, odvojeni binarni ulaz/izlaz, biserno bijelo                          2104   25  52600.00  13150.00
+Ina-R/A1 50W GU10 MR16, 100-240V, IP20, bijele boje                                  56.43    4    225.72     56.43
+LS-FI (KZS), B/25A/30mA, 1P+N, Tip A, 6kA                                           315.05   16   5040.80   1260.20
+Montažna + prednja ploča za MODUL 160, širina 2, za MC1                               4172   19  79268.00  19817.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     153871.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

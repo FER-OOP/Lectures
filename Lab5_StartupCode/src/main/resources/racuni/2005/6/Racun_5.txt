@@ -1,0 +1,15 @@
+Račun br. 111632
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zamjenjiva skala ampermetra za montažu na DIN nosač, 100A/5A                          4399   22  96778.00  24194.50
+Motorna zaštitna sklopka, 3-polna | 2.5 - 4.0A                                      204.98    2    409.96    102.49
+FID sklopka AMPARO, 40-4-01/AC, 10kA                                                  4210    6  25260.00   6315.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    122447.96
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

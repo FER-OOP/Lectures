@@ -1,0 +1,31 @@
+Račun br. 639547
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Instal. umetak 3-45K komplet 15 IR prednja pl. čelik                               3051.47    7  21360.29   5340.07
+SAT z. utičnica 3-struka,R/TV/SAT,kl.A,okvir+kućište,RAL9010                         39.46   27   1065.42    266.35
+Mini sklopnik 3P | 4kW [AC3] | 24V DC | + 1N/C (ugrađen)                            172.87   20   3457.40    864.35
+SAT skidač izolacija koaks.kab. 6.6-6.8mm,za konektiranje                           172.21   15   2583.15    645.79
+Ugradna svjetiljka SEP XTP T8 2x36W ECG IP54 M600, bijela                           1046.7    1   1046.70    261.67
+LS-FI (KZS), B/25A/30mA, 1P+N, Tip A, 10kA                                          429.54   22   9449.88   2362.47
+4-ti pol za LTS20-LTS40 E                                                            67.08   13    872.04    218.01
+Sutil-Q LED 8W 6000K 461lm, IP40, bijele boje                                       132.63    3    397.89     99.47
+Sitra 360 WL zidna svjetiljka, antracit, GX53, max. 9W                              500.12   26  13003.12   3250.78
+Sklopnik 4P |11kW (22A) [AC3] / 32A [AC1] | 230V AC                                 345.22   21   7249.62   1812.41
+Grebenasta sklopka, 1-2/3P/20A, na DIN nosač                                        394.02   24   9456.48   2364.12
+Pokrov 280x190x80mm sivi - B-GH                                                     238.31   19   4527.89   1131.97
+L-Fleece jacket  breathable, waterproof, windproof                                  654.13   13   8503.69   2125.92
+Nosači za LED trake OUTDOOR PRO, 10kom                                               40.02    1     40.02     10.01
+LED DALI reg.intenz.svjetlosti Mono-Touch Dim                                       552.96   11   6082.56   1520.64
+ENOLA ovjesna svjetiljka, bb                                                        500.12    8   4000.96   1000.24
+Upravljač za žaluzine, montaža na DIN nosač                                         847.05   12  10164.60   2541.15
+Ugradna svjetiljka SEP XTP PRISMA TC-L 3x55W ECG,M625,bijela                          8534    4  34136.00   8534.00
+Kabel H05VV-F (PP/J) 3x0,75mm2, bijeli, 100m                                         10000   23 230000.00  57500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    367397.72
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

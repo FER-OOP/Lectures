@@ -1,0 +1,18 @@
+Račun br. 758342
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Označna pločica tip CSC 4 (100 kom.)                                                  9.51    6     57.06     14.27
+Industrijska svj. HB380 19000lm, 157W, 60°, 4000K, RAL9006                          7968.9   27 215160.30  53790.07
+LED torba sa uzorcima LB profila                                                    261.27    7   1828.89    457.22
+Aluminijski profil SLW, glatki                                                      112.89   26   2935.14    733.78
+Prednja ploča sa zakretnom tipkom dimer EL174130, bijela                             57.31    5    286.55     71.64
+Plasto LED 16W, 3000K, 960lm, 230V, IP65, plastika, antracit                        344.67   14   4825.38   1206.35
+
+                                                                                                         ----------
+UKUPNO                                                                                                    225093.31
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

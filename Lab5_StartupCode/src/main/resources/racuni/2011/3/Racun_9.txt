@@ -1,0 +1,25 @@
+Račun br. 539524
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Instalacijski sklopnik 20A | 2 N/O | 230VAC                                         114.94    8    919.52    229.88
+Podnaponski isklopnik 230/240VAC za MZS vel.00/0/2/3                                 98.29   17   1670.93    417.73
+Brošura Arrow blue HR 2015                                                               0   24      0.00      0.00
+ARROW R rastavna pruga za D02 osigurače, 3P/25A, sustav 60mm                        301.94    9   2717.46    679.36
+LED žarulja GU10 R111, dim., 13W, 3000K, 850lm, 24°, 230V                           198.86   19   3778.34    944.59
+Energetski kabel 0,6/1kV PP00 (EYY-O) 2x1,5re crni                                  409.86   15   6147.90   1536.97
+Stace-I-S LED 3x0,2W 6000K, IP20, aluminij                                           96.98    8    775.84    193.96
+Kabel E-AY2Y-O 4x50SM                                                                10000    7  70000.00  17500.00
+Sutil Quadro LED 8W, 4000K, 560lm, 120°, IP40, bijele boje                          132.63   12   1591.56    397.89
+L-SE nosač za DEVA svjetiljke TBP, za montažnu šinu                                  41.57    1     41.57     10.39
+S4H koaks. prespojni kabel, 2xF-konektor, 5 m, bijeli                                24.39   22    536.58    134.14
+Kabel H03VV-F (PP/L) 3x0,75mm2, crni, 500m kolut                                     10000   10 100000.00  25000.00
+AIXLIGHT PRO II okr.FRAME ugradno kućište, srebrne boje                             437.43    1    437.43    109.36
+
+                                                                                                         ----------
+UKUPNO                                                                                                    188617.14
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,15 @@
+Račun br. 640816
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kučište MO 2M CUBO, nadžbukno, IP55, bijelo                                          26.88    8    215.04     53.76
+PRIORI FID sklopka 63-4-03/A, G izvedba                                            1392.29   15  20884.35   5221.09
+Kućni kom. razd.,2-redni,26xTOOL.,3x230V,ravna vrata,RAL9003                        734.67    6   4408.02   1102.01
+
+                                                                                                         ----------
+UKUPNO                                                                                                     25507.41
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

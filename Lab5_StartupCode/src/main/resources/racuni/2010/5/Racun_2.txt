@@ -1,0 +1,28 @@
+Račun br. 790459
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Odvodnik prenapona, Powertec 25kA kl. B/C                                           902.74   17  15346.58   3836.65
+Philips Master LED Spot GU10, 5.3W, 36°, 3000K, dim.                                220.66    8   1765.28    441.32
+NYCY 16x1,5RE/4                                                                    4181.58   21  87813.18  21953.29
+Potenciometar, komplet, 4,7 kOhm                                                    226.04   13   2938.52    734.63
+Nazidni okvir s vratima za Modul 2000 | 4A-45 | dubina 300mm                       4442.33   28 124385.24  31096.31
+Sklopni element za prednju montažu, N/C, utične stezaljke                            19.35   12    232.20     58.05
+Kompaktni prekidač snage tip VE, 3P, 50kA, 250A                                    3234.54    6  19407.24   4851.81
+Marta-R 150W Rx7s, 230V, IP20, brušeni krom                                          77.21   28   2161.88    540.47
+Fluo cijev T26 58W/830 G13                                                           26.83   20    536.60    134.15
+ALTRA DICE SPOT, četvrt.,crne boje ,GU10,max. 50W, 3-f adap.                        531.37    9   4782.33   1195.58
+Signalni fleksibilni kabel YSLCY-OZ 4x1,5                                            10000   13 130000.00  32500.00
+LED OUTDOOR BEAM, 30W, 150°, LED topla b.                                          1126.79   10  11267.90   2816.98
+Zaštitni prekidač AMPARO 6kA, B 25A, 3P+N                                            98.25   18   1768.50    442.13
+Kabel LiYY 8x0,25                                                                    10000    4  40000.00  10000.00
+Noir-TR-Q/A2 50W GU5,3 MR16, 12V, IP20, crne boje                                   119.28    7    834.96    208.74
+Kabel YSLYQY-JZ 3x 2,5 prozirni                                                      10000   19 190000.00  47500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    633240.44
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

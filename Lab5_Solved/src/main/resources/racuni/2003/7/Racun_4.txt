@@ -1,0 +1,15 @@
+Račun br. 787889
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Utičnica, 16A, umetak, termički postojana, biserno bijela                            27.23   13    353.99     88.50
+Finožični PVC-om izolirani vodič H07V-K (P/F) 2,5mm2, bijeli                        195.31   25   4882.75   1220.69
+EUTRAC L-spojnica unutarnja, bij.                                                   312.23    9   2810.07    702.52
+
+                                                                                                         ----------
+UKUPNO                                                                                                    8046.8105
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

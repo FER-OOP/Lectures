@@ -1,0 +1,33 @@
+Račun br. 841954
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+T8 LED zakretna cijev, 11W, 4000K, 850lm, 230V, 60cm                                 69.78   10    697.80    174.45
+Kofer za alat 56-dijelni                                                           1097.89   25  27447.25   6861.81
+Lloyd LED 0,72W 6000K 48lm, dimabilna, IP65                                          66.23   18   1192.14    298.04
+Nadgradna svjetiljka MERA OPAL 1x15W ECG, bijela                                    143.65   18   2585.70    646.42
+Nadžbukna kutija za senzor prisutnosti 110A, bijela                                  84.99   14   1189.86    297.46
+Motorna zaštitna sklopka, 3-polna | 1.80 - 2.50A, vel.S0                            223.43    5   1117.15    279.29
+LED AR111, CREE XT-E LED, 15W, 140°, 2700K                                          312.23    4   1248.92    312.23
+L-SE umetak DM 1.5 ASYM.DOUBLE 1x44W LED 2400lm/840                                   8529    6  51174.00  12793.50
+Označne pločice 'N'', Dekafix DY5 (sadrži 50 oznaka)                                  8.45   24    202.80     50.70
+BIMA I svjetiljka, bijela GU10 1x50W max.,uklj. 1-f.adapter                         308.85   21   6485.85   1621.46
+Kutija za beton MO 3M, dubina 60mm 650°C, 400V                                       27.04   24    648.96    162.24
+Ovjesne kuke od nehrđajućeg čelika za svjet. LINDA 18/36/58W                         16.58    7    116.06     29.01
+Sklopnik vel. 2 | 22kW (50A) [AC-3] | 24VDC                                         772.73    9   6954.57   1738.64
+Završni profil, širina 4                                                              4160   24  99840.00  24960.00
+DIN-nosač 35/7,5mm za WKS, širina 400mm, pocinčani (5 kom.)                           4065   18  73170.00  18292.50
+Kompaktni prekidač snage tip A, 3P, 150kA, 20A                                     2409.72   18  43374.96  10843.74
+Linijska svj. SERH-LL 112, završni profil,  1x35W, ECG, bb                           578.5   17   9834.50   2458.63
+Levante-M 16 LED 38W 3750lm 4000K ulič.opt. LT-M,IP66,antr.                         3855.2    6  23131.20   5782.80
+Držač releja, metalni, za RT print podnožje                                           1.88    1      1.88      0.47
+LED DMX kontroler Mono - bijele boje                                                676.39    6   4058.34   1014.59
+Zaštitni prekidač, C karakteristika, 32A, 3-polni+N, 6kA                            112.77   10   1127.70    281.92
+
+                                                                                                         ----------
+UKUPNO                                                                                                    355599.62
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

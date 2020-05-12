@@ -1,0 +1,16 @@
+Račun br. 1088730
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+EUTRAC 3-fazna nadgradna šina duljine 1 metar, crne boje                            218.46   14   3058.44    764.61
+Fluokompaktna žarulja TC-SEL 7W/827 2G7                                              20.16    7    141.12     35.28
+Finožični PVC-om izolirani vodič H07V-K (P/F) 95mm2, crni                          7797.46   10  77974.60  19493.65
+GLENOS profil 1107-200, 2m, crne boje                                               249.72   17   4245.24   1061.31
+
+                                                                                                         ----------
+UKUPNO                                                                                                     85419.41
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

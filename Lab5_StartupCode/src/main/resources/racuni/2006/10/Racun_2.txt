@@ -1,0 +1,32 @@
+Račun br. 717031
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Lamelirana bakrena sabirnica, 495A, duljina 2m, 5x24x1mm                            681.65   25  17041.25   4260.31
+Utičnica šuko, sa dječjom zaštitom, na vijak, bijela                                  17.5   26    455.00    113.75
+Ugradna svjetiljka SERH XTP T8 2x36W ECG M625, bijela                               1270.4    5   6352.00   1588.00
+Dimabilna elektronika za 10226/10218B/10218F/50226                                   29.39   13    382.07     95.52
+Ručka za montažu na vrata, za 3P MC1, crno/siva, komplet                            299.17   25   7479.25   1869.81
+Ugradna downl. svj. JONA 1x11W,LED DALI 800lm/840, bijela                             8536    1   8536.00   2134.00
+LED-Driver, 40W, 700mA                                                              249.72    9   2247.48    561.87
+MOBIL-PDi/plus univ. servisni daljinski upravljač, zeleni                           246.89   24   5925.36   1481.34
+Vijak sa proširenom glavom, za drvo, 8x100mm                                           3.7    5     18.50      4.63
+Radne cipele broj 43                                                                731.84    6   4391.04   1097.76
+Prospekt-Prod.Portfolio 2009 E                                                           0    1      0.00      0.00
+Metalhalogena žarulja HIT 400W/C/638 E40                                            424.45   14   5942.30   1485.58
+NEW TRIA 3 DL četvrtasti Set, 3x6W, 3000K, 38°, crne boje                          1125.94   14  15763.16   3940.79
+Signalni fleksibilni kabel YSLCY-OZ 3x 2,5 sivi                                      10000   17 170000.00  42500.00
+Poluvodički mot.kontroler 200-440V/200A sa bypass i zaštitom                          4701   15  70515.00  17628.75
+KNX dimer, HM, 20-300VA                                                            1291.81   30  38754.30   9688.58
+COMMO, ovj.svj.,PD-1,okrugla, satin.staklo,GX53 max.13W                             449.94   18   8098.92   2024.73
+Utikač za TYTAN II 3x40A sa D02 osiguračima, komplet                                152.53   23   3508.19    877.05
+Savitljiva cijev (srednje), M20, 750N, EN3341, 50m, siva                            290.81   15   4362.15   1090.54
+Sticker Totem Frog, bijele boje                                                     205.96   17   3501.32    875.33
+
+                                                                                                         ----------
+UKUPNO                                                                                                    373273.28
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

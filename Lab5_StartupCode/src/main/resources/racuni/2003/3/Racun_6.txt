@@ -1,0 +1,29 @@
+Račun br. 680927
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Označne pločice 401-450 (pločica sa 2x od 401-450)                                   16.83   24    403.92    100.98
+NEW TRIA LED DISK stropni ugrad.prsten,okrugli,bijeli 4000K                         938.06   15  14070.90   3517.73
+Elektronska prigušnica ECG QTi DALI 2x14/24/220-240 DALI dim                        350.76   17   5962.92   1490.73
+Pokrov za antensku utičnicu HSBK…, 2 otvora, antracit                                12.97    2     25.94      6.49
+Montažna ploča za MINIPOL ormare, metalna, 400x400mm                                129.76   21   2724.96    681.24
+Zaštitni prekidač sa svojstvima rastavljača,C 32A,3-polni+N                         935.18   13  12157.34   3039.33
+"Opt. razdjelnik, 4 niti, FC 62,5/125µm OM1, izvlačivi,19"",1U"                     687.94   24  16510.56   4127.64
+Rolo-WL 2 E27 2x75W, aluminij, hrđavo smeđe boje                                    245.32    5   1226.60    306.65
+SDL PRO 150 HIT-DE 150W R7s, sa 3-faznim adapterom, bb                             1250.97   24  30023.28   7505.82
+Zaštitni prekidač AMPARO 4.5kA, C 13A, 1P+N, širine 1 modula                         41.95   21    880.95    220.24
+Redna stezaljka (vijčani priključak) 10mm², plava                                     4.38   14     61.32     15.33
+Prednja ploča za EL121820 i EL121910, ter. postojana, bijela                        108.93    7    762.51    190.63
+QUAD 2 zidna svj., četvrt.,bi.b., LED, 2x3W, tople bi.b.                            617.88    2   1235.76    308.94
+Finožični PVC-om izolirani vodič H07V-K (P/F) 10mm2, plavi                          770.13   13  10011.69   2502.92
+Pino-II-WL-R 15W E27, 100-240V, IP44, tikovina+nehrđajući č.                        161.18    3    483.54    120.88
+Sklopka voltmetar.prednja ugrad.sa centralnim pričvrš. 20A                          359.64   30  10789.20   2697.30
+Stezaljka glavnog voda (za Cu), 1P, 4x35mm²|4x25mm², siva                            50.01   25   1250.25    312.56
+
+                                                                                                         ----------
+UKUPNO                                                                                                    108581.64
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,25 @@
+Račun br. 165674
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zavr.pok. za LINUX LIGHT, 2 kom., srebrne boje                                       31.25   28    875.00    218.75
+PRIORI FID sklopka 63-4-03/A, S izvedba                                            1501.15    8  12009.20   3002.30
+LINEA R80M ugradni profil, eloksirani aluminij L-2970mm                             618.52   13   8040.76   2010.19
+"Zasun sivi ""Celanex"""                                                              1.86   26     48.36     12.09
+51400AR/G, 4L KVADRATNA BAZA BOXTECH+ZAOBLJENI RUB, sive b.                         124.52   30   3735.60    933.90
+Bezhalogeni kabel s el. funkc. do90 Min. (N)HXH-J4x10reE90                          6991.9    9  62927.10  15731.78
+ENOLA_C SPOT, okr., bijele b., 9W , 3000K, 55°, 1-f adapter                         938.06   28  26265.68   6566.42
+NV osigurač vel. 00, 20A/400V AC                                                     27.97   29    811.13    202.78
+EASY LIM RF MINI RGB MASTER,12V/DC+24V/DC,sa daljinskim upr.                         187.2   11   2059.20    514.80
+Finožični PVC-om izol. vodič H05V-K(P/F) 0,75mm2,t-plavi HPV                         10000    2  20000.00   5000.00
+"Centrala CPS Midicontrol; Punjač 2,5A / max 32 kruga"                             45070.5   16 721128.00 180282.00
+Sklopnička kombinacija zvijezda/trokut 15kW (30A) AC3| 24VAC                       1686.59   28  47224.52  11806.13
+Q-TECH SPOT GU10, sa 3-faznim adapterom, bb                                         453.92   14   6354.88   1588.72
+
+                                                                                                         ----------
+UKUPNO                                                                                                     911479.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

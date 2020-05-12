@@ -1,0 +1,16 @@
+Račun br. 533000
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Cilindrični osigurač, 10x38, 1A, gG, 500V AC                                          3.17   27     85.59     21.40
+Kompaktni prekidač snage tip VE, 3P/630A/70kA                                       4497.6   29 130430.41  32607.60
+FID sklopka 80-4-003/A (puls)                                                      1148.28   10  11482.80   2870.70
+Ručna svjetiljka AKKU-LED Super                                                      601.4   11   6615.40   1653.85
+
+                                                                                                         ----------
+UKUPNO                                                                                                     148614.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

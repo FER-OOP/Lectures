@@ -1,0 +1,33 @@
+Račun br. 479463
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Teški gumeni kabel H07RN-F 1x4, crni                                                 10000   14 140000.00  35000.00
+Okrugla fluo cijev T8, 40W, 3000K, G10q                                               95.8   17   1628.60    407.15
+Elektronski adresni mod LED panik/sig.svje. 8W, CPS,DIMM                            427.55   27  11543.85   2885.96
+Prespojni kabel RJ45 cat.5e oklopljen, PVC, crveni, 7.0m                             30.94   25    773.50    193.38
+Ovjes za GLENOS ALU PROFIL, 2,5m                                                     187.2    8   1497.60    374.40
+56 hlače, vodo-otporne, sa puno džepova                                             320.04   12   3840.48    960.12
+Okvir za vrata, za MC1, crni, IP40                                                   86.43   21   1815.03    453.76
+AIXLIGHT R2 DUO,HQI111,zaobljena,cr.b,G12,2x70W,bez odsijača                       2809.97   21  59009.37  14752.34
+MERIDIAN BOX vanjska svjetiljka, E27, max. 25W, rusty                               562.63   20  11252.60   2813.15
+Linijska svjetiljka LUCIE T5 1-35/49/80W DALI aluminij                              985.11   19  18717.09   4679.27
+Nadgradna svjetiljka PRIMO H PRISMA T5 2x28W ECG, bijela                            330.75   30   9922.50   2480.63
+Prednja ploča za PIR senzor pokreta, F/S/R, alu efekt                               105.27   30   3158.10    789.52
+Ormar plast.1000x500x312,krov protiv kiše,dno zat.,2 vrata,                           4142   27 111834.00  27958.50
+Kabel H03VV-F (PP/L) 3x0,75mm2, svijetlo-sivi, 50m kolut                             10000   30 300000.00  75000.00
+EUTRAC Ovjes za 3-fazne šine, 60cm, bb                                               187.2   12   2246.40    561.60
+Izolirana utična stopica, 6.3, plava, 1.5-2.5mm² (100 kom.)                          76.95   23   1769.85    442.46
+Paralelna spojnica (kratkospojnik) za 31 stezaljku IK110006-                          4850    4  19400.00   4850.00
+Linijska svj. SERM 220 ASY 1x54W, ECG, bijele boje                                  353.08   11   3883.88    970.97
+Downunder OUT TC-D, G24D-3,l srebrne boje                                           745.42   18  13417.56   3354.39
+Vodotijesna svjetiljka LINDA Transparente 2-36W ECG IP65 PC                         439.03   26  11414.78   2853.70
+NEW TRIA DLMI ROUND Downlight, mat bijele boje, 4000K, 60°                         1433.11   26  37260.86   9315.21
+
+                                                                                                         ----------
+UKUPNO                                                                                                    764386.06
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

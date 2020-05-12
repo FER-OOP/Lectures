@@ -1,0 +1,15 @@
+Račun br. 994688
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Osigurač EZIII/50A                                                                    6.98   29    202.42     50.60
+LED žarulja Classic compact Ultra opal 3,5W E14 250lm 2800K                          76.01   15   1140.15    285.04
+Okvir za ugradnju RX panik lampe u strop                                            290.04   29   8411.16   2102.79
+
+                                                                                                         ----------
+UKUPNO                                                                                                      9753.73
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

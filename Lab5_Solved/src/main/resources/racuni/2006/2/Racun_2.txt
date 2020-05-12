@@ -1,0 +1,21 @@
+Račun br. 1028791
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Poklopac za zašt. od prašine za tooll. module, plavi, 25 kom                          19.6   14    274.40     68.60
+Adapter za montažu pruge vel.00 (SI332350,SI332830) na 185mm                        214.82    3    644.46    161.12
+Linijska svj. SERM-LF 112, početni profil,  2x35W, ECG, bb                          587.96   25  14699.00   3674.75
+Fluo cijev T5|T16 80W/830 G5                                                         24.35   27    657.45    164.36
+Kratkospojnik za 12 stezaljki IK100070-A                                             16.26   26    422.76    105.69
+Luxa 102 FL, LED spot 16W, 3000K, zidna, IP44, bijela                               798.81    7   5591.67   1397.92
+Linijska svj. SERM-LL 112, završni profil,  1x28W, ECG, bb                           498.6   25  12465.00   3116.25
+Ugradna svjetiljka SERM 2 A8 L1 T5 2x54W, ECG, bijela                                 8534   25 213350.00  53337.50
+Pločica + nosač 30x50mm, natpis: 0 I                                                  8.94    5     44.70     11.17
+
+                                                                                                         ----------
+UKUPNO                                                                                                    248149.45
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

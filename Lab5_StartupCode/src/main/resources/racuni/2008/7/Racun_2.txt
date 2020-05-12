@@ -1,0 +1,14 @@
+Račun br. 576717
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Prednja ploča, čelična, slijepa, 4B18                                                 4160   16  66560.00  16640.00
+INOX samostojeći ormar, 2000x800x400mm (VxŠxD)                                    19576.79   23 450266.16 112566.54
+
+                                                                                                         ----------
+UKUPNO                                                                                                    516826.16
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

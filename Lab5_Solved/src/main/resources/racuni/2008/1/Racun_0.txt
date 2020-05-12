@@ -1,0 +1,23 @@
+Račun br. 459412
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+7309AM/D/38, LED MR16 MODULE DL 1x9W 38 ° + DRIVER                                  165.74   18   2983.32    745.83
+Bimetalni relej za sklopnike vel. 0 | 1,80 - 2,50A                                  191.26   10   1912.60    478.15
+Tarifni prekidač s podešavanjem na 16, 20 i 25A, 3-polni                            303.37   18   5460.66   1365.17
+Umetak cilindar brave 2233x + PUSH                                                  182.47   24   4379.28   1094.82
+P/Ž inst. razdj. 2U-42,14-redni,294ŠM,2025x590x250mm(VxŠxD)                        5018.26   26 130474.75  32618.69
+Odstojnik montažnih ploča u AS ormarima visine 1800mm                               406.11    8   3248.88    812.22
+Maria-WL-R LED 6W 3000K 440lm, IP54, bijele boje                                    377.96   29  10960.84   2740.21
+Bimetalni relej, područje podešenja 6.0-9.0A                                        214.32   13   2786.16    696.54
+Sklopnik vel.00 (za PLC) | AC3 5,5kW/400V | 17-30VDC | 1 N/C                        173.73   11   1911.03    477.76
+Nadgradna ind. svjetiljka SBOX AB 1x250W,E40,HS/HI,MB, IP65                         946.01    3   2838.03    709.51
+ALTRA DICE SPOT, četvrt., crni, GU10, max. 50W uklj. adapter                        500.12   21  10502.52   2625.63
+
+                                                                                                         ----------
+UKUPNO                                                                                                    177458.06
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

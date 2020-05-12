@@ -1,0 +1,32 @@
+Račun br. 1006056
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Office II  FSL LED 80W 10200lm,840,D/I, dim, LS/PD, alu.                              6336   25 158400.00  39600.00
+Finožični PVC-om izol. vodič H05V-K (P/F) 0,5mm2,t-plavi HPV                         10000   24 240000.00  60000.00
+Prespojni kabel RJ45 cat.6 oklopljen,s pregibnicama,žuti,1m                          10.41    7     72.87     18.22
+Prednja ploča s otvorom za uređaje ø22,5 mm, biserno bijela                             52   14    728.00    182.00
+Završni poklopac CLU ravni sa rupom i vijcima                                        87.09    6    522.54    130.63
+Panik svjet. KC Wireless sa aku.bat LED 8h 230VAC zidna                            1513.45   29  43890.05  10972.51
+7808, LED RGB kontroler, za 4-žilnu traku                                            53.05    2    106.10     26.52
+D0-Dummy umetak za Tytan R i Coron R                                                  4824   10  48240.00  12060.00
+Motorna zaštitna sklopka, 2-polna | 0.10 - 0.16A                                    128.78   21   2704.38    676.09
+Trakasta obujmica V2A za cijevi Ø8-114mm priklj. 2.5-16mm²                           15.97   19    303.43     75.86
+Ugradna downl. svj. ERM 202 2x26W CCG TC-D IP20/44, bijela                          286.07   28   8009.96   2002.49
+Metalhalogena žarulja 35W CDM-TC ELITE, 3000K, G8,5                                 312.23   19   5932.37   1483.09
+Odjelna stranica za AS ormare, 1800x400mm (VxŠ)                                     382.77   18   6889.86   1722.46
+Uzidni okvir s vratima za Modul 2000 | 2U-21 | dubina 100mm                           4190    6  25140.00   6285.00
+KADUX LED  Single DL Set, 3000K, 30°, brušeni aluminij                              1370.6   13  17817.80   4454.45
+Optički prespojni kabel duplex ST/FC, 50/125µm OM2, 3.0m                            110.92   11   1220.12    305.03
+BOX R7s zidna svjetiljka, četvrt., rđave boje, R7s, max. 80W                        437.43   10   4374.30   1093.57
+Umetak križne sklopke, na oprugu                                                     19.69    7    137.83     34.46
+Grebenasta sklopka, 0-1/1P/20A, na DIN nosač                                         126.2   24   3028.80    757.20
+Zaštita za sab. sistem 39 ili 34 mm za ARROW BLUE vel.01                              4821   28 134988.00  33747.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    702506.44
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,32 @@
+Račun br. 887200
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+VISSARDO zidno ogledalo sa LED osvjetljenjem                                       1063.26    1   1063.26    265.82
+Okvir za ugradnju KX u strop, uski izrez                                            126.78   24   3042.72    760.68
+Montažna šina MR 1x35-80 5x2,5mm²                                                   127.83   22   2812.26    703.07
+MONTAŽANA PLOČA 4CP, 890x294x13mm, VISINA 7 MODULA                                    4160   13  54080.00  13520.00
+Ampermetar, montaža na DIN nosač, DC, 10A, direktno                                 581.86   23  13382.78   3345.69
+Utičnica MO šuko 2M 16A, sa dječjom zaštitom, narančasta                             22.81   26    593.06    148.26
+E-AYY-J 3x240/120SM                                                                  10000    9  90000.00  22500.00
+LINDA LED PC 1x24W, 4000K, 3593lm, IP65, Inox kopče, siva                            812.6   11   8938.60   2234.65
+Prozirna vrata, akril, za WSM1208xx, otvor: 1059X427mm                             1244.11    1   1244.11    311.03
+Arpus-R/A1 35W GU10 MR16, 100-240V, IP54, aluminij                                  388.43   24   9322.32   2330.58
+FID sklopka 40-2-003/A (puls)                                                       494.05   15   7410.75   1852.69
+Svjetleće tipkalo s plos. tipkom, sa LED 230VAC,crveno,1N/C                          95.61   12   1147.32    286.83
+Nosač MO 7M s vijcima                                                                11.56   13    150.28     37.57
+Sklopnik 3P |250kW (450A) [AC3] / 600A [AC1]|230V AC/DC| 2+2                       7974.04   25 199351.00  49837.75
+PARA CONE 20 ovjesna svj., okrugla, crne boje, E27, max. 60W                        750.35   29  21760.15   5440.04
+Assembly of an 3 pole (DW) LED light bar                                            322.37   30   9671.10   2417.77
+Poliester ormar 785x1080x320mm (ŠxVxD), 1 vrata,IP43,RAL7032                       6040.24   23 138925.53  34731.38
+Marina-I-R/A1 LED 3W 4000K 130lm, IP68, nehrđajući čelik                            732.94   29  21255.26   5313.81
+Vodotijesna svjetiljka LINDA PC 2x28W ECG IP65 SC II                                547.94   10   5479.40   1369.85
+PlanoCentro 300, senzor prisutnosti, stropni, crni                                  3959.1   19  75222.90  18805.72
+
+                                                                                                         ----------
+UKUPNO                                                                                                    664852.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

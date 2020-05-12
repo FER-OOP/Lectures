@@ -1,0 +1,18 @@
+Račun br. 155310
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kompenzacija  LSFC 7% 100/25kvar 800x2000x400mm Samost.orm.                       34280.88   21 719898.44 179974.61
+Mavric-R/A2 75W GU10 AR111, 100-240V, IP20, crne boje                                99.51   23   2288.73    572.18
+Sutil Round LED Panel, 20W, 4000K, 1330lm, IP40, siva                               476.46   15   7146.90   1786.73
+VANDALCOM PTT modul                                                                 463.75   22  10202.50   2550.63
+KNX binarni ulaz 16x230V AC/DC                                                     2261.88    6  13571.28   3392.82
+Punto-R 50W GU10 MR16, 100-240V, IP20, bijele boje                                   31.59   26    821.34    205.33
+
+                                                                                                         ----------
+UKUPNO                                                                                                     753929.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

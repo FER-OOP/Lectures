@@ -1,0 +1,21 @@
+Račun br. 152647
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"Natpisna pločica za sobno signalno svj. ""Standard"",140x95mm"                       2104   29  61016.00  15254.00
+Označna pločica tip CSC 9 (100 kom.)                                                  9.51   29    275.79     68.95
+Prednja ploča s natpisnim poljem za 2 x RJ45, biserno bijela                         24.39   12    292.68     73.17
+Viličasta sabirnica 63A za 4xBE5, korak 45mm                                         63.89   24   1533.36    383.34
+Vodotijesna svjetiljka LINDA 2x58W PC EX-ZONE 22 ECG IP65                              762   27  20574.00   5143.50
+Univerzalni dimer 420W, umetak, R, L, C                                               2103    1   2103.00    525.75
+LED napajanje TC 12W/24V, ugradnja u kutiju, IP20                                   276.18   17   4695.06   1173.77
+Instal. umetak 1-24L komplet 8 IR prednja pl. plastika                             1361.57    5   6807.85   1701.96
+Optički prespojni kabel duplex, SC/SC, 9/125µm OS2, 1.0m                             76.77    6    460.62    115.15
+
+                                                                                                         ----------
+UKUPNO                                                                                                     97758.36
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

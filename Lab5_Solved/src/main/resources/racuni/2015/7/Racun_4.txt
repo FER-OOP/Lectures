@@ -1,0 +1,32 @@
+Račun br. 1032404
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"19"" ladica za tipkovnicu i miš, dubine 350mm, 2U, RAL7035"                        791.63   12   9499.56   2374.89
+Držač za cilindrične osigurače Class CC | 3P | 30A/600V                             140.09   15   2101.35    525.34
+Kutni nosač za AF reflektor, crni                                                   202.82   13   2636.66    659.17
+Quartz halogena ž.,Philips Plusline ES R7s,118mm,160W,proz.                          43.76    8    350.08     87.52
+L-SE sjajni odsijač R2 AL2x58 široki,aluminij.                                      100.68    9    906.12    226.53
+Završni poklopac SLI                                                                 83.77   17   1424.09    356.02
+Sabirnica za TYTAN, 4P, jezičasta, 30mm²|korak 27mm| 1m                               4230    7  29610.00   7402.50
+Utikač RJ45 UTP, 8/8-pinski za plosnati telefonski kabel                              1.12    5      5.60      1.40
+Rastavlačka pruga vel.2, 1P isklop, M10                                            1004.23    8   8033.84   2008.46
+Optički prespojni kabel duplex, LC/FC, 62,5/125µm OM1, 2m                            64.44   11    708.84    177.21
+Kompaktni prekidač snage tip A, 3P, 150kA, 40A                                     1605.53   28  44954.84  11238.71
+Zakr. tipka s ručicom,3 pol.,svijetleća,zelena,60°,bez povr.                          75.6   21   1587.60    396.90
+Kabelska obujmica za kabel promjera 34-38mm, za ASCAP/ASCAB                         408.42   27  11027.34   2756.84
+Linijska svj. SERM-LL 112, završni profil,  1x28W, ECG, bb                           498.6   15   7479.00   1869.75
+SOPRANA,PL,PD-3okrugla svj.bijela,tekstil,E27,uklj.bijeli 1f                        312.23   13   4058.99   1014.75
+Aluminijski montažni nosač 5H                                                        31.94   20    638.80    159.70
+Završna pločica za rednu stezaljku IK222006--, zelena                                 1.78    6     10.68      2.67
+Višežični PVC-om izolirani vodič H07V-R (P/M) 16mm2, ž/z                             10000    7  70000.00  17500.00
+N/Ž kutija IP54 za senzor Serije MD i PD, bijela                                     61.04    4    244.16     61.04
+Prednja ploča za tel. i stereo zvučničke utičnice, alu efekt                         43.08   27   1163.16    290.79
+
+                                                                                                         ----------
+UKUPNO                                                                                                    196440.72
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

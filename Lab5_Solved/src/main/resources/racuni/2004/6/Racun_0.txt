@@ -1,0 +1,19 @@
+Račun br. 566241
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+SAT odvodnik prenapona, F-ženski/F-ženski, SZU 6-02                                  30.83    9    277.47     69.37
+LED sustav utikača Mini - produžni kabel mono 100cm IP20                             25.17   21    528.57    132.14
+Vodotijesna svjetiljka LINDA Industrie PC 2-36W ECG IP65                            366.89   13   4769.57   1192.39
+NEW TRIA XL okrugla GU10 Downlight, crne boje                                        187.2   21   3931.20    982.80
+Gumeni savitljivi kabel NSSHöu-J 4x10, žuti                                          10000   20 200000.00  50000.00
+ASTO IV GU10 Spot, brušeni aluminij                                                  562.8    6   3376.80    844.20
+Audio vanjski panel, 16 tipki, sa PTT otvorom                                         4690   23 107870.00  26967.50
+
+                                                                                                         ----------
+UKUPNO                                                                                                    320753.62
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

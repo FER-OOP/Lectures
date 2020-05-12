@@ -1,0 +1,14 @@
+Račun br. 931142
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zamjenjiva skala, 96x96mm, 800/1600/5A AC                                             4399   26 114374.00  28593.50
+1-f strujna šina, nadgradna, 1m, srebrne boje                                       167.94   17   2854.98    713.74
+
+                                                                                                         ----------
+UKUPNO                                                                                                    117228.98
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

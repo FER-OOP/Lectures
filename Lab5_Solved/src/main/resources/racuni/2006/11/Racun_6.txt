@@ -1,0 +1,33 @@
+Račun br. 678224
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LED napajanje FW 100W/24V, MM, IP20                                                1099.13   29  31874.77   7968.69
+UPS Premium Dual ER 3000VA 2400W 0 min.1/1-fazni/Online                            9272.71   10  92727.10  23181.78
+Grebenasta sklopka, 1-0-2/3P/20A,na vrata,centralno učvršć.                         359.64   27   9710.28   2427.57
+Kompaktni prekidač snage tip AE, 4P, 85kA, 1000A+izvl. modul                      24068.44   10 240684.39  60171.10
+Serijski ormar AS, 2-vrata, 1800x1000x500 (VxŠxD), RAL 7035                        4737.33   21  99483.93  24870.98
+Redna stezaljka (utični priključak), 2.5mm², plava                                    2.76   15     41.40     10.35
+Rita-R/A2 70W G8,5, 230V, IP20, sive boje                                             17.9    8    143.20     35.80
+Ugradna svjetiljka VMRO 620 IP54 4-14W M625 opal                                   1175.31   15  17629.65   4407.41
+BIJELI PRSTEN za 10120 i 10142                                                       79.58   20   1591.60    397.90
+Kompenzacija  LSFC 7% 175/25kvar 800x2000x400mm Samost.orm.                       46182.89   17 785109.13 196277.28
+U/UTP inst. kabel cat.6,4x2xAWG23/1,300MHz,PVC,plavi,500m                           296.92   30   8907.60   2226.90
+Udarna špica Ø20mm, pocinčani čelik                                                  13.22    7     92.54     23.14
+Panik svjetiljka WG 6 x 0,5W HP-LED 230V, MIX mod, stropna                         1481.55   29  42964.95  10741.24
+SAT tragač satelita,do 19 orbitalnih pozicija, SZU 21-00                           1406.39   29  40785.31  10196.33
+Pleksi vrata za centralu CPS tip Midicontrol                                       1931.71    5   9658.55   2414.64
+"Zidni komunikacijski ormar DW Dualbloc, 600x370x515, 19"", 6U"                    1033.98   24  24815.52   6203.88
+Zamjenjiva skala, 96x96mm, 80/160/5A AC                                               4399   23 101177.00  25294.25
+BIG THEO UP / DOWN ES111                                                            938.06   16  15008.96   3752.24
+AMPARO 6 tipski kućni ormar, 3-redni, uzidni                                       1356.73   29  39345.17   9836.29
+Ugradna svjetiljka SEP ECO T8 4x18W ECG M625, bijela                                321.13   29   9312.77   2328.19
+Montažna ploča, bakelitna, za IG3618.. 310x130x4mm                                    4130    2   8260.00   2065.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1579323.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

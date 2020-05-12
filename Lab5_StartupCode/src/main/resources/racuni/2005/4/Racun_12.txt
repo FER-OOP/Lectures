@@ -1,0 +1,19 @@
+Račun br. 771336
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+AFDD, series Lisa, B 16 A, 2-pole, 30 mA, A/delayed, 10 kA                         1215.49   16  19447.84   4861.96
+LED RETROFIT RL-A60 9,5W 230V 840 806lm mat E27 15000h                               51.14    6    306.84     76.71
+Pierce-I-R/A2 50W GU10 MR16, 100-240V, IP20, bijele boje                            185.68   12   2228.16    557.04
+Ugradna svjetiljka SEP XTP T5 4x14W ECG IP54 M600, bijela                          1006.67   26  26173.42   6543.35
+Paralelna spojnica (kratkospojnik) za 2 stezaljke IK600010--                         12.36   12    148.32     37.08
+Bakreno uže 70 mm2, pocinčano                                                      8622.07   25 215551.75  53887.94
+MOTUS hibrid motor starter 0.075-0.6A, montaža na DIN nosač                        1505.86   24  36140.64   9035.16
+
+                                                                                                         ----------
+UKUPNO                                                                                                    299996.94
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,27 @@
+Račun br. 362671
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kompaktni prekidač snage tip A, 3P, 150kA, 200A                                    2533.13   15  37996.95   9499.24
+Ovjes za 1-faznu 3-f šinu, bb, 3m                                                    87.01   28   2436.28    609.07
+FORCHINI, ovj.svj., PD-1, okrugla, cb/zlatne b., E27,max.40W                       1014.09    5   5070.45   1267.61
+Linijska svj. SERH-LF 112, početni profil,  1x49W, ECG, bb                          567.33   15   8509.95   2127.49
+DALI Signal Repeater                                                               1654.73   14  23166.22   5791.55
+Ovjesna svjetiljka OFFICE ECO DIR/IND PAR 1x49W ECG, siva                           480.92    9   4328.28   1082.07
+Centralni bistabilni relej, 1 N/O, 24VAC                                            462.06   14   6468.84   1617.21
+Reflektor SET 150W HST E40 IP65 crni asimetrični                                   1077.41   26  28012.66   7003.16
+Kompaktni prekidač snage tip A, 3P, 36kA, 250A, utični                             2781.75   15  41726.25  10431.56
+Fronius Symo Hybrid 5.0-3-S Storagesystem Set 6.0                                    10000   29 290000.00  72500.00
+Razdjelnik nazidni, IP40. 4-redni, 48 modula, prozirna vrata                        226.44   23   5208.12   1302.03
+NV rastavna pruga vel.3|630A, 3P, M12, 185mm, nadzor osig.                         2248.24   29  65198.96  16299.74
+LIGHT EYE 2 GU10, bijela/krom b., 2x GU10, max. 2x 50W                              625.15   13   8126.95   2031.74
+Finožični PVC-om izolirani vodič H07V-K (P/F) 4mm2, bijeli                          313.72   14   4392.08   1098.02
+Elektronski transformator Halotronic 150W 230V/12V                                  199.97    7   1399.79    349.95
+
+                                                                                                         ----------
+UKUPNO                                                                                                     532041.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,18 @@
+Račun br. 911360
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Instal. umetak 1-12L komplet 4 IR prednja pl. plastika                              764.87    7   5354.09   1338.52
+STAKLO za 10226BF reflektor                                                          29.39   28    822.92    205.73
+Gumeni savitljivi kabel NSSHöu-O 1x120, žuti                                         10000   22 220000.00  55000.00
+9G12B/C/E, LED 10,5w CW E27 mat 230v                                                 33.11    1     33.11      8.28
+Adapter za spajanje sklopnika vel.00 na tiskanu pločicu                              13.41   23    308.43     77.11
+Spojnica profila za svjetiljke LUCIE T5                                              13.34    5     66.70     16.67
+
+                                                                                                         ----------
+UKUPNO                                                                                                    226585.27
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,30 @@
+Račun br. 605457
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Tel. ispitni kabel 2/4, duljine 0,5m                                                190.66    6   1143.96    285.99
+KUNO ovjesna svjetiljka, bijele b., 2x T5 35W                                      1433.11   22  31528.42   7882.11
+Senzor pokreta, 3 žice, 3 žice, 180°, 8m, umetak                                    171.52   29   4974.08   1243.52
+Sigma-II-S/A1 LED 30W 3000K 2700lm, IP67, bijele boje                               527.66    4   2110.64    527.66
+Tipkalo dvostruko sa 2 radna kontakta                                                71.79    1     71.79     17.95
+Tinjalica E10 230V AC                                                                 2140   26  55640.00  13910.00
+WORK LIGHT FLOOR, samost. svj. 4x55W TC-L ECG                                      3748.71   18  67476.78  16869.20
+Adapter D01 na D02 Arrow                                                              2.85    4     11.40      2.85
+GLENOS završni pokrov za profile 2609, ravni, crne boje                              62.51    1     62.51     15.63
+DALI PS Bus napajanje za montažu na DIN šinu                                        1036.8   25  25920.00   6480.00
+Bezhalogeni kabel s el. funkc. do30 Min. (N)HXH-J3x6reE30                            10000   23 230000.00  57500.00
+Kompenzacija  LSK 7% 60/10kvar 600x1250x300mm zidni ormar                         24469.42   27 660674.31 165168.58
+Rufus-I-R LED 3W 3000K, IP54, aluminij                                              291.62   13   3791.06    947.76
+Zaštitni prekidač, D karakteristika, 2A, 3-polni, 10kA                              198.55    2    397.10     99.28
+Punto-F/M MR16 Spot round, GU5,3, 50W, IP20, krom                                    16.55    8    132.40     33.10
+Simplebus aktuator relej (10A)                                                     1139.31   28  31900.68   7975.17
+Nick-II-Q 2x26/32/42W G24q, 230V, IP20, bijele boje                                   7.77   20    155.40     38.85
+BRICK LED 24, zidna svj., četvrtasta, bb LED                                        500.12   24  12002.88   3000.72
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1127993.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

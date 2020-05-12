@@ -1,0 +1,17 @@
+Račun br. 795151
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Energetski kabel 0,6/1kV PP00 (EYY-O) 1x70rm crni                                    10000    9  90000.00  22500.00
+Pregibnica žuta za oklopljene ili neoklopljene RJ45 utikače                           0.98   18     17.64      4.41
+Kronos-Q/A2 LED 38W 4000K 2450lm, IP20, sive boje                                   729.23   20  14584.60   3646.15
+Sango-R 25W G9, 100-240V, IP20, aluminij                                            196.16   24   4707.84   1176.96
+Aluminijski profil CLW                                                              261.27    4   1045.08    261.27
+
+                                                                                                         ----------
+UKUPNO                                                                                                    110355.16
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

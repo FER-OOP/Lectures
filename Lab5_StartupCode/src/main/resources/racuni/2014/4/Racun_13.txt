@@ -1,0 +1,33 @@
+Račun br. 1031079
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Završna pločica za stezaljku CBD16, bež                                               4850   21 101850.00  25462.50
+Optička spojnica SC SX,MM,plastična,s prirubnicom,bež,ECO                              6.3   15     94.50     23.63
+ENOLA_B UP/DOWN zidna svjetiljka, 2xGU10, max. 50W, mesing                          625.15   11   6876.65   1719.16
+Sabirnica, 4P, viličasta, 10mm² (63A)|korak 18mm| 214mm                              69.87    5    349.35     87.34
+Bezhalogeni kabel s el. funkc. do30 Min. (N)HXH-J4x10reE30                           10000   29 290000.00  72500.00
+PVC-om izol.kabel za srednja meh.opt. YMS -J 4x6 crni                                10000    1  10000.00   2500.00
+L-SE sjenilo R12 T5 L1 35-80W bijele boje                                            75.08   18   1351.44    337.86
+XXXL-Bodywarmer, podstavljen, vodoodbojan                                           460.23    3   1380.69    345.17
+Samostojeći ormar, 2-vrata, 1800x1600x400 (VxŠxD), RAL 7035                        6431.23   16 102899.68  25724.92
+Produžni kabel, 25-pin, DB25 muško/ženski, 1:1, 2m                                   27.94   27    754.38    188.60
+T5-BAR 54W, Stropna ugradna svjetiljka aluminij                                    1000.75    6   6004.50   1501.13
+Bakrena sabirnica, TTT profil, 2500A, duljina 3.6m,pocinčana                          4835    1   4835.00   1208.75
+Ručka za montažu na vrata, za 3P MC3, crveno/žuta, komplet                          769.25   16  12308.00   3077.00
+Tipka MO 1M sa simbolom zvona i indikacijom, crna                                     8.28    5     41.40     10.35
+Prespojna ploča, 6 izlaza, 350/500mA,crne b.                                         58.62   26   1524.12    381.03
+Kabel LiYY 4x0,25                                                                    10000   13 130000.00  32500.00
+TRUKKO, LED zidna svjetiljka, 60cm                                                  750.35    8   6002.80   1500.70
+Reed-II-R 150W Rx7s, 230V, IP20, brušeni krom                                         7.77   23    178.71     44.68
+Natični (djeljivi) strujni trafo, 100/5A, 30x20mm                                     4398   19  83562.00  20890.50
+Poklopac za razvodnu kutiju 150x150mm GTDW142--                                     825.54   19  15685.26   3921.31
+Dvostruki termostat 0-60°C, 1N/C + 1N/O                                             183.83   12   2205.96    551.49
+
+                                                                                                         ----------
+UKUPNO                                                                                                     777904.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,17 @@
+Račun br. 820865
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Otvoreni prekidač, 3P, 55kA, 1000A, fiksni, prednje priklj.                       12810.65   23 294644.97  73661.24
+Okvir 4x2M line, bež                                                                 25.16    1     25.16      6.29
+Maskirni razdjelnik 5 širina brojila/ 45 MV                                           4180   24 100320.00  25080.00
+Fluokompaktna žarulja TC-D 10W/830 G24D-1                                            27.45    6    164.70     41.18
+AOL 100 LED 5K svjetiljka sa senzorom 140°, crna                                   1752.73   25  43818.25  10954.56
+
+                                                                                                         ----------
+UKUPNO                                                                                                    438973.06
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

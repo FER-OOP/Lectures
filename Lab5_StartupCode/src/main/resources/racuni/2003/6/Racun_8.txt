@@ -1,0 +1,22 @@
+Račun br. 296070
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+KVADRA 70M 1x21/39W DALI preklapajući uložak                                        955.63   27  25802.01   6450.50
+MD-C360i/12 mini senzor pokreta IR, stropni, 360°, Ø12m                            1111.41   10  11114.10   2778.53
+IBDN prespojni kabel RJ45 UTP cat.6A, plavi, 7.6m                                     6804   27 183708.00  45927.00
+Energetski kabel 0,6/1kV PP00 (EYY-O) 1x35rm crni                                    10000    9  90000.00  22500.00
+Kompenzacija  LSFC 7% 100/25kvar 800x2000x400mm Samost.orm.                       34280.88   15 514213.19 128553.30
+Bezhalogeni vatrodojavni instal. kabel JB-H(ST)H 2x2x0,8BMK                          10000   19 190000.00  47500.00
+Medes-I-R/A2 LED 10W 6000K 600lm, IP20, sive boje                                   318.15   17   5408.55   1352.14
+Ugradni okvir za MO2, 3P, -2000A, vodoravne str. priklj.                           8160.33   10  81603.30  20400.82
+Tipka za odjavno tipkalo, bijela                                                      72.2   23   1660.60    415.15
+Kabel JE-LiYCY 8x2x0,5 Bd Si, sivi                                                   10000   21 210000.00  52500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1313509.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

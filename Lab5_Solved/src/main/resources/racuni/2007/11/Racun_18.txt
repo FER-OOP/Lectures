@@ -1,0 +1,32 @@
+Račun br. 349647
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+DIO Podes. PLUG sa toplom bb 1W LED, krom                                           374.92   20   7498.40   1874.60
+Limitator potezne struje                                                           1099.13   19  20883.47   5220.87
+Module za daljinsko upravljanje za VIP                                             8096.69   30 242900.70  60725.18
+EUTRAC T-spoj desna, srebrne boje                                                   625.15   13   8126.95   2031.74
+Linijska svj. SIMPLE LINE LED 2012 63W 6400lm/830 DALI,bb                          1424.42   12  17093.04   4273.26
+Bimetalni relej za sklopnike vel. 3 | 28,00 - 40,00A                                336.67   17   5723.39   1430.85
+AIR INDI 33 zidna/stropna svj.,okr.,bijele b.,9W LED,3000K                          938.06    4   3752.24    938.06
+BIMA I svjetiljka za EASYTEC II šina, srebrne boje                                  406.17   26  10560.42   2640.10
+Bezhalogeni jednožilni vodič H07Z-K 1mm2, sivi                                       10000    7  70000.00  17500.00
+Držač žaruljice sa ugrađenom LED, bijeli, 230VAC,vijčane st.                         42.98    7    300.86     75.21
+NV osigurač vel. 1, 63A/400V AC                                                      45.36    6    272.16     68.04
+Bezhalogeni jednožilni vodič H05Z-K 0,75mm2, plavi                                   10000    1  10000.00   2500.00
+Nadgradna downl. svjetiljka ARM 292 2x18W TC-DEL IP40 bijela                        270.09   21   5671.89   1417.97
+Bezhal. kabel s konc.zaštitnim Cu vodičem N2XCH 4x4re/4                              10000   27 270000.00  67500.00
+UPS AVARA Multi 125kVA 112,5kW 3f/3f online velika kutija                            10000   15 150000.00  37500.00
+Kabelska obujmica za kabel promjera 18-22mm, za ASCAP/ASCAB                         302.13    1    302.13     75.53
+Držač za instalacijsku cijev M25, sivi (pak.100 kom.)                                142.7   11   1569.70    392.42
+Pako LED, 3x1W, 3000K, 200lm, 40°, 350/700mA, bijele boje                           102.55   15   1538.25    384.56
+Rolo-CL medium E27 75W, aluminij, antracit                                          198.86    7   1392.02    348.01
+Odvodnik prenapona COMBTEC kl.B/C TNC 275/12,5                                     1164.06    3   3492.18    873.05
+
+                                                                                                         ----------
+UKUPNO                                                                                                    831077.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

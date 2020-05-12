@@ -1,0 +1,28 @@
+Račun br. 409315
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Fleksibilni plosnati kabel za dizalice H07VVH6-F 4x6, crni                           10000   22 220000.00  55000.00
+Metalhalogena žarulja, 35W 24 ° CDM-R E27 CW CERAMIC                                 16.05   22    353.10     88.27
+Kabel LiYY 7x0,25                                                                    10000    6  60000.00  15000.00
+Audio vanjski panel, 28 tipki, sa PTT otvorom                                         4690   25 117250.00  29312.50
+DENA II zidna svj., E14, brušeni aluminij                                           449.94    4   1799.76    449.94
+Bela Plano, E27 26W IP20, bijela sa prozirnim kabelom                               404.32    7   2830.24    707.56
+Sklopnik vel. 00 | 3kW (7A) [AC-3] | 230VAC, 50/60Hz |1 N/C                             99   27   2673.00    668.25
+Bezhalogeni vatrodojavni instal. kabel JB-H(ST)H 50x2x0,8BMK                         10000   19 190000.00  47500.00
+Pokrov IP44 MD180i/R, MD180i/T, MD/PD180, bijeli                                     241.2   30   7236.00   1809.00
+Prednja ploča sa zakretnom tipkom za dimer, biserno bijela                           15.68   15    235.20     58.80
+Nathan-Q 13W G24d-1, 230V, IP20, brušeni krom                                        19.59   30    587.70    146.93
+Kompaktni prekidač snage tip AF, 3P/250A/25kA                                      1024.27   28  28679.56   7169.89
+Kućište N/Ž, IP55, 8 modula, prozirna vrata                                         157.81   21   3314.01    828.50
+Utičnica sa zatikom, 16A, umetak, utične stezaljke, bijela                           24.22    3     72.66     18.16
+Zaštitni prekidač AMPARO 6kA, C 13A, 1P+N                                            49.23   24   1181.52    295.38
+Veliki kalendar 2017                                                                  9841   29 285389.00  71347.25
+
+                                                                                                         ----------
+UKUPNO                                                                                                    921601.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

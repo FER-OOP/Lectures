@@ -1,0 +1,26 @@
+Račun br. 841207
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Poliester kućište 280x190x100mm sivo - B-EFI                                        209.61    8   1676.88    419.22
+Zakretna ručica za MC4, zaključavanje, na vrata (crna/siva)                         786.33   11   8649.63   2162.41
+Ventilator s filterom 320x320x150mm IP54, 135W, 560m3/h                            1695.19   17  28818.23   7204.56
+Zaštitni prekidač, C karakteristika, 50A, 3-polni+N, 6kA                            295.54    7   2068.78    517.20
+SITRA stropna svjetiljka, okrug., bijele b., GX53, max. 9W                          437.43    8   3499.44    874.86
+LINEA 80M 1x35/49/80W T5 preklapajući uložak, ECG Qti                               606.58   29  17590.82   4397.71
+Aura 3 LED 15W, 3000K, 1940lm, IP43                                                 832.81   16  13324.96   3331.24
+Vodotijesna svjetiljka LINDA PC 2x49W ECG IP65 SC II                                608.13    2   1216.26    304.07
+51200R/W, 2L BAZA BOXTECH+ , bijele boje                                            109.99   18   1979.82    494.95
+Tarifni prekidač s podešavanjem na 25, 32 i 40A, 1-polni                            129.02    7    903.14    225.78
+Zavšetak šiljka za zemlju za NEW MYRA 1+2 svj., antracit b.                         218.46    9   1966.14    491.54
+"19"" profil. nosači, visine 22U za DS-, DSZ-, DSI i DW-ormare"                      65.04   25   1626.00    406.50
+Kabel LiYY 2x0,34                                                                    10000   19 190000.00  47500.00
+LINEA 80M 1x35/49/80W T5 preklapajući uložak, ECG Qti                               606.58    5   3032.90    758.23
+
+                                                                                                         ----------
+UKUPNO                                                                                                     276353.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

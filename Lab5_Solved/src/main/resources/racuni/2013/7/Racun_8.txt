@@ -1,0 +1,18 @@
+Račun br. 503682
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Priključnica prazna 80x80 za 1 modul (SFA/B), kosi izvod                             11.13   18    200.34     50.08
+Radne cipele broj 41                                                                731.84   24  17564.16   4391.04
+Teretna sklopka, 4P, 250A, opcija: daljinski isklop                                1936.37   10  19363.70   4840.92
+ROX PATH LIGHT samost. svj., brušeni aluminij                                      1871.23   23  43038.29  10759.57
+Priključna kutija, čelik, 150x300x120 (VxŠxD), IP66, RAL7035                        215.86   18   3885.48    971.37
+Završni pokrov za aluminijski profil sa pokrovom, sreb.boje                          62.51   30   1875.30    468.82
+
+                                                                                                         ----------
+UKUPNO                                                                                                     85927.26
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

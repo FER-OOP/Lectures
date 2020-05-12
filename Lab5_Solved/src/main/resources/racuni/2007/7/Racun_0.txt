@@ -1,0 +1,29 @@
+Račun br. 985326
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Aline-R LED 25W 3000K 1875lm, IP54, bijele boje                                     527.66    9   4748.94   1187.23
+AMPARO 1 tipski kućni ormar, 1-redni, nazidni                                          508   10   5080.00   1270.00
+Višežični PVC-om izolirani vodič H07V-R (P/M) 240mm2, crni                           10000   20 200000.00  50000.00
+Grebenasta sklopka (glavna, žuto/crvena), 0-1/3P/20A, na DIN                        125.61    9   1130.49    282.62
+Maria-WL-D/I-R LED 6x1W 6000K, IP54, sive boje                                      132.63   26   3448.38    862.10
+Kompaktni prekidač snage tip ME, 3P, 150kA, 140A                                   3730.26   16  59684.16  14921.04
+GLENOS profil 1107-100, 1m, aluminij                                                  93.6   27   2527.20    631.80
+Signalna svjetiljka, plosnata, crvena 230V                                           85.29   29   2473.41    618.35
+GLENOS PROFILE 2609, 1m, srebrne boje                                               143.61   12   1723.32    430.83
+Odvodnik prenapona COMBTEC kl.B/C TNC 275/12,5+H                                   1126.65   18  20279.70   5069.93
+Punto-R/A2 50W GU5,3 MR16, 12V, IP20, krom                                           23.82   27    643.14    160.79
+Optički prespojni kabel duplex, SC/SC, 9/125µm OS2, 3.0m                                91    5    455.00    113.75
+LED traka Flexstrip 72 tople bijele b. IP43 L=5m 24VDC                              1256.6   29  36441.40   9110.35
+Odjelna pločica, crvena, za stezaljku CBD70                                            3.9   11     42.90     10.73
+Kabanica veličina XL                                                                  9843    3  29529.00   7382.25
+Zaštitne rukavice, presvučene, MAXI-vel.11                                            38.7    3    116.10     29.02
+Bezhalogeni kabel s el. funkc. do30 Min. (N)HXH-J4x120rmE30                          10000    1  10000.00   2500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     378323.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

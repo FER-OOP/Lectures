@@ -1,0 +1,17 @@
+Račun br. 907525
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+BILAS SPOT LED, 15W, 2700K, 25°, okrugla, bijele boje                              1558.31   21  32724.51   8181.13
+Kompaktni prekidač snage tip ME, 3P, 50kA, 1400A+izvl. modul                      25990.92   29 753736.69 188434.17
+LUNA 20W HIT PGJ5 uklj. izvor 5° inox okvir                                        2787.94   20  55758.80  13939.70
+Termoskupljajući bužir u kutiji (5m), crni, 25.4/12.7mm                              18.43   16    294.88     73.72
+LS-FI (KZS), C/6A/300mA, 1P+N, Tip A, 10kA                                          392.62   29  11385.98   2846.49
+
+                                                                                                         ----------
+UKUPNO                                                                                                     853900.9
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

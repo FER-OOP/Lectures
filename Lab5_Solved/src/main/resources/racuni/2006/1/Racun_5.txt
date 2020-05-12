@@ -1,0 +1,29 @@
+Račun br. 1081874
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Nadgradna svjetiljka SAP IP54 T5 4x28W ECG, bijela                                 1318.34   21  27685.14   6921.28
+Lamelirana bakrena sabirnica, 1777A, duljina 2m, 10x80x1mm                         4330.34   17  73615.78  18403.95
+THEO UP-DOWN OUT, četvr., antracit b., GU10, max. 2x35W                             687.83   19  13068.77   3267.19
+INDA SPOT GU10 zidna i stropna svjetiljka,max. 50W,crvene b.                        343.66    3   1030.98    257.74
+KB sigurnosna lampa LED 230V za CPS MIX mod, univerzalna mon                       1112.44   11  12236.84   3059.21
+Finožični PVC-om izol. vodič H07V-K (P/F) 4mm2, plavi HPV                            10000   19 190000.00  47500.00
+Okvir za ugradnju RX u strop                                                        253.82   24   6091.68   1522.92
+Motorna zaštitna sklopka, 3-polna | 0.90 - 1.25A, vel.S00                           190.58   28   5336.24   1334.06
+Tipka MO 1M, crna                                                                     6.56   28    183.68     45.92
+Tris-I-STR-R/A1 LED 3x1W 4000K 160lm,dim.,350mA,IP20,sive b.                         86.16   17   1464.72    366.18
+Grebenasta sklopka, 1-0-2/2P/20A,na vrata,centralno učvršć.                         285.44   11   3139.84    784.96
+Dimer, uzidni, AB60600W RC                                                          419.67   22   9232.74   2308.19
+Nazidna izmj. sklopka, svjetleća, siva, 10A, IP44, ut. stez.                         64.49   14    902.86    225.71
+FID sklopka 25-4-003/A (puls), 6kA                                                  336.77   29   9766.33   2441.58
+2-žično napajanje, 110 - 240V AC/2 x 34V DC                                           4690   11  51590.00  12897.50
+Poliester ormar,vrh zatv. dno otv., 1 vrata 750x500x300(VŠD)                       1802.82   24  43267.68  10816.92
+KNX napajanje 320mA                                                                1404.75    8  11238.00   2809.50
+
+                                                                                                         ----------
+UKUPNO                                                                                                    459851.34
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

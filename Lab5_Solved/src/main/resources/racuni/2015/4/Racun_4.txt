@@ -1,0 +1,25 @@
+Račun br. 367865
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kutni nosač za AF reflektor, inox efekt                                             228.65   19   4344.35   1086.09
+Uređaj za binarni ulaz, 4 x AC/DC 24V                                              1443.37   27  38970.99   9742.75
+Ugradna downlight svjetiljka EQM 221 2x18W CCG TC-D, bijela                         401.49   19   7628.31   1907.08
+Nadgradna svjetiljka SAO ECO T8 1x36W ECG, bijela                                   290.88   22   6399.36   1599.84
+Okvir jednostruki 80x80mm za nosač 45x45mm, RAL9010                                   7.27   30    218.10     54.53
+Nazidni okvir s vratima za Modul 2000 | 1A-16 | dubina 250mm                        953.34   20  19066.80   4766.70
+Set za ožičenje sklopničke komb. promjene smijera vel.12                           1000.45   26  26011.70   6502.93
+Kompaktni prekidač snage tip A, 3P/20A/25kA, MC1                                    706.95    9   6362.55   1590.64
+KC komplet piktograma ljevo,desno,dolje                                              31.47   17    534.99    133.75
+89015AT, LED dimabilni DRIVER 700mA 12-15w , ulaz 230v                              145.81   16   2332.96    583.24
+Prednja ploča, plastična, slijepa, 4B13K                                              4160   18  74880.00  18720.00
+Optički prespojni kabel duplex, LC/ST, 50/125µm OM2, 2.0m                            69.34   18   1248.12    312.03
+Signalni fleksibilni kabel YSLY-JB 4x70 sivi                                         10000   13 130000.00  32500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    317998.25
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

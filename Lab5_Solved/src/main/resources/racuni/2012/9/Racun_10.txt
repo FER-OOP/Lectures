@@ -1,0 +1,25 @@
+Račun br. 486905
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Daljinski isklopnik 230V AC za MZ1                                                  210.23   12   2522.76    630.69
+"Optička ladica, prazna, za 24xSC duplex spojnica, 19"""                            338.64   22   7450.08   1862.52
+Umetak 1-polne sklopke, sa indikacijom, na oprugu                                    16.72   27    451.44    112.86
+CRISTAL MEDIUM LED 9x1W 4000K ASIM. 40°x50° INOX+ugr.kut.                          3246.99   23  74680.77  18670.19
+Tipka za EL733150, poziv liječnika, bijela                                           49.51    9    445.59    111.40
+Plosnate stezaljke 30 x 30mm, visina: 5 - 20mm                                       72.36   22   1591.92    397.98
+EASY 719 DC RC, 24VDC,12 digitalnih ulaza, 6 relejnih izlaza                       1587.18   20  31743.60   7935.90
+PATH POLE 100cm 360° 20W HIT GU6,5 antracit                                        4135.77   17  70308.09  17577.02
+Baterija 4,8V 2,0Ah za svjet. sa vl. nap. LED sa LPU modulom                        134.44   29   3898.76    974.69
+ENOLA_B ovjesna, srebrna/crna b., GU10, max. 50W                                    750.35   25  18758.75   4689.69
+Razdjelnik nazidni, IP40. 2-redni, 36 modula, prozirna vrata                         158.7    4    634.80    158.70
+D-RECTION ELITE 50 Spot bijela G12,50W,uklj. 3f.adapter                             752.87   28  21080.36   5270.09
+Aluminijski profil LBR - 2m                                                          68.41   22   1505.02    376.26
+
+                                                                                                         ----------
+UKUPNO                                                                                                    235071.95
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

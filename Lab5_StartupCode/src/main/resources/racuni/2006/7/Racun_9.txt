@@ -1,0 +1,16 @@
+Račun br. 283530
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"Natpisna pločica za umetanje fi=28mm, prozirna, ""DOWN"""                            3.09   30     92.70     23.17
+Osnova kanala SIGNA 70/130 RAL9001                                                  119.27    6    715.62    178.90
+Zakretna tipka CG 4 A175-600 FS2 tipka 0-1                                           160.9   11   1769.90    442.47
+Marra LED traka 4,8W/m 60LEDs/m 300lm/m 3000K 24VDC IP68                            265.26   24   6366.24   1591.56
+
+                                                                                                         ----------
+UKUPNO                                                                                                      8944.46
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

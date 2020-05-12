@@ -1,0 +1,29 @@
+Račun br. 395273
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Pokrov za analogni sobni termostat, antracit                                         295.9    5   1479.50    369.88
+Tipka za serijske sklopke i dvostruka tipkala, bijela                                21.74   17    369.58     92.39
+Kompaktni prekidač snage tip AF, 3P/25A/25kA, box stezaljke                         608.71    2   1217.42    304.36
+Pribor za montažu parcijane MP u AS/KS ormare 800x600 (ŠxD)                         490.59   20   9811.80   2452.95
+SAIL zidna svj., WL 1, crne b., 1x3W LED, tbb                                       750.35    1    750.35    187.59
+QUAD 2 XL LED zidna svjetiljka, 2x3,2W, 3000K, antracit                             875.55   13  11382.15   2845.54
+Halogena žarulja, grlo GU5,3, 50W, 12°                                                2.87   28     80.36     20.09
+SSVGA produžni kabel 4C+5, pozl. kontakti, crni, 5m                                 120.67   24   2896.08    724.02
+Montažna ploča za Maxipol ormare 750x500 (VxŠ), poliester                           301.15   21   6324.15   1581.04
+Nosač natičnih natpisnih pločica dimenzije 17.5 x 28mm                                2.11    5     10.55      2.64
+Video modul s 1 tipkom, VANDALCOM                                                  1086.88   20  21737.60   5434.40
+Motorna zaštitna sklopka, 3-polna | 1.40 - 2.00A, vel.S0                            223.43   20   4468.60   1117.15
+Napajanje 90W, 24V, IP67                                                            495.96    7   3471.72    867.93
+PullTec sajla za povlačenje kabela, M5, Ø4mm, 20m                                  1078.93    5   5394.65   1348.66
+AIXLIGHT PRO 111 LEDDISK, mat bijele boje, 50°                                      750.35   27  20259.45   5064.86
+IT METER LINE nap. letva, pasivna,ul:CEE 16A crv.,izl:18xC13                       1007.14    4   4028.56   1007.14
+Instalacijski sklopnik 40A | 4 N/O | 230VAC                                         349.45    6   2096.70    524.18
+
+                                                                                                         ----------
+UKUPNO                                                                                                     95779.22
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

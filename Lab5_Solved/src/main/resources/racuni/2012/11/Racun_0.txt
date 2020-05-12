@@ -1,0 +1,32 @@
+Račun br. 625733
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+RP print relej, 1C/O, 8A, 12V DC, raster 2,5mm                                       30.76    2     61.52     15.38
+Aluminijski pokrov LBK i LBKI                                                         51.6    7    361.20     90.30
+Prespojni kabel RJ45 cat.6 neoklopljen, PVC, sivi, 3.0m                              16.32    6     97.92     24.48
+Jednožični PVC-om izolirani vodič H07V-U (P) 1,5mm2, zeleni                         102.21   20   2044.20    511.05
+Finožični PVC-om izol. vodič H05V-K (P/F) 0,5mm2, smeđi HPV                          10000   11 110000.00  27500.00
+Zaštitni prekidač sa svojstvima rastavljača,C 50A,3-polni+N                          963.4   13  12524.20   3131.05
+Paralelna spojnica za stezaljku DCP4, 250mm, 38 rupa                                 11.05    1     11.05      2.76
+Minikontrol centrala 8 krugova,160 panik/sigurnosnih svjeti.                         33903    1  33903.00   8475.75
+Teretna sklopka, 4P, 400A, opcija:dalj. isklop+izvl. modul                         5771.13    7  40397.91  10099.48
+Metalna vrata puna s bravicom, za DW ormare 15U, Š=600                              303.96   24   7295.04   1823.76
+Mehanička blokada za sklopnike vel. 0-3                                              46.22    5    231.10     57.78
+KALU ugradna svjetiljka, 3 Spot, 3xES111, brušeni aluminij                         1188.46    8   9507.68   2376.92
+70018,  LED + LASER SVJETILJKA, crne boje                                            36.66   10    366.60     91.65
+DisplayPort kabel, DP20 muški/muški, 3m                                             109.44   13   1422.72    355.68
+"Samostojeći komunikacijski ormar DS 800x2105x800, 19"", 45U"                      4189.46   15  62841.90  15710.48
+Marra LED traka 14,4W/m 2700K 840lm/m, dimabilna, IP68                               483.9   14   6774.60   1693.65
+Adapter za montažu na DIN nosač (za trafo od 30-160VA)                                39.6    6    237.60     59.40
+Montažna ploča 2PB, 450x70x13mm                                                      70.89    7    496.23    124.06
+Paralelna spojnica (kratkospojnik) za 4 stezaljke SCB6                                 6.1   19    115.90     28.98
+7105BLG/W, G9 LED 5,5W WW 230V silikon                                                29.9    5    149.50     37.38
+
+                                                                                                         ----------
+UKUPNO                                                                                                    288839.84
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

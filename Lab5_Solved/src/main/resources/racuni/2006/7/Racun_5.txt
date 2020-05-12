@@ -1,0 +1,23 @@
+Račun br. 669004
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+UPS GENIO iDialog 800VA/480 W / 3 - 5 min.                                          821.91   15  12328.65   3082.16
+Podnaponski isklopnik za MC4, 24V AC                                                623.06    2   1246.12    311.53
+Tipka (pokrov) za svjetleće tipkalo, bijela, plosnata                                 2.27   14     31.78      7.94
+SERH ECO A3 L2 T5 4x24W EVG M625, bijela b.                                           8534   13 110942.00  27735.50
+9S07S/D/E, 7W E27 DL                                                                  5.74    6     34.44      8.61
+Vodotijesna svjetiljka LINDA ST PC 1-18W CCG IP65                                   299.36   27   8082.72   2020.68
+Signalni fleksibilni kabel YSLY-JZ 4x6 sivi                                        2713.17   26  70542.42  17635.61
+Lana-II-R/A2 50W GU5,3 MR16, 230V, IP20, sive boje                                  105.76    4    423.04    105.76
+Kabelski kanal, bez halogena, 50x100mm (VxŠ), 2m, RAL7035                             4863   21 102123.00  25530.75
+Paralelna spojnica (kratkospojnik) za 2 stezaljke IK610004--                          3.49    3     10.47      2.62
+L-SE umetak DM 1.2 PAR-L 1x52W LED 4350lm/840                                      1601.15    4   6404.60   1601.15
+
+                                                                                                         ----------
+UKUPNO                                                                                                    312169.25
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

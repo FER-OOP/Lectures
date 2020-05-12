@@ -1,0 +1,16 @@
+Račun br. 463506
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+NEW TRIA 3 DL četvrtasti Set, 3x6W, 2700K, 38°, crne boje                          1125.94    6   6755.64   1688.91
+LED prespojni kabel RJ45 oklopljen,500 MHz,Ea,10GB,sivi,2m                           48.39   27   1306.53    326.63
+Podnaponski isklopnik za MC1, 220-250V DC, sa 3m kabela                             379.65   12   4555.80   1138.95
+Levante-S 10 LED 24W 2215lm 4000K asim.,IP66, SKII, RAL9006                        1943.54   30  58306.20  14576.55
+
+                                                                                                         ----------
+UKUPNO                                                                                                     70924.17
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,27 @@
+Račun br. 423057
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Grebenasta sklopka, 1-2/3P/10A, na vrata                                            317.19   22   6978.18   1744.54
+Umetak dvostrukog tipkala, na oprugu                                                 22.35   30    670.50    167.63
+Tipkalo s plosnatom tipkom, žuto, uskočno, s držačem                                 42.98   15    644.70    161.18
+Plafonjera ALICA Round TR 1x22W, CCG IP54, bijela                                   258.92   15   3883.80    970.95
+Tipkalo s povratom, plosnato, crno                                                   25.67   21    539.07    134.77
+Reflektor za SUPROS, regularni, uklj. staklo i prisj. prsten                         62.51    9    562.59    140.65
+CARISO 2, LED zidna svjetiljka, 7,5W LED, 3000K, cb/ mesing                        1000.75   20  20015.00   5003.75
+Muriel-R 4x28W G9, 100-240V, IP44, krom                                             483.73   21  10158.33   2539.58
+Podnožje Vartec TII, 2+0 (2 x modul VVM), pomoćni kontakt                           207.62    9   1868.58    467.14
+Elektronski relej ETU45B sa zaštitnom funk. LSIN, display                             4970    7  34790.00   8697.50
+Ina-STR-R 50W GU5,3 MR16, 12V, IP20, bež boje                                        36.66   19    696.54    174.13
+Nadzemni kabel E-A2Y 4x70RM, 0,6/1KV                                                 10000   17 170000.00  42500.00
+Motorna zaštitna sklopka, 3-polna | 45.0 - 63.0A, vel.S3                            731.67   12   8780.04   2195.01
+Nadzemni kabel E-A2Y 4x70RM, 0,6/1KV                                                 10000   16 160000.00  40000.00
+PE-/PE stezaljke, 2xPE (1x25, 7x4mm2) / 2xPE (1x25, 7x4mm2)                          97.72   10    977.20    244.30
+
+                                                                                                         ----------
+UKUPNO                                                                                                     420564.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

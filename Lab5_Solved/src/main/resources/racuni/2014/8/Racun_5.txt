@@ -1,0 +1,33 @@
+Račun br. 371006
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Multifun. I/O Box za Dialog Plus, za kontrolu 3 x 8A releja                        4267.35   11  46940.85  11735.21
+NV osigurač vel. 00, gG/gL, 160A/500V AC                                              4838   18  87084.00  21771.00
+Shunt 60mV, 1000A                                                                     4398   25 109950.00  27487.50
+UPS Premium Plus 2200VA 1760W 6 min.1/1-fazni/Online                               6373.78   10  63737.80  15934.45
+Držač releja, metalni, za RT print podnožje                                           1.88   18     33.84      8.46
+89242/ELE, 2x26w/2x32w/2x42w PL elektronska prigušnica                               35.65   30   1069.50    267.38
+Gumom iz. i oplašten 1-žilni kabel 1,8/3 kV NSGAFöu 50 crni                          10000    8  80000.00  20000.00
+Poprečna stranica, širina 2/200mm                                                   229.04   13   2977.52    744.38
+P/Ž inst. razdj. 2U-21,7-redni,147ŠM,1055x590x250mm(VxŠxD)                          3085.9   13  40116.70  10029.17
+IP FlexLED Roll, bijele b., 5m 60LED/m, DC 12V                                      694.85   23  15981.55   3995.39
+Valo-II-R/A2 LED 2x15W 4000K 2x1200lm, IP20, bijele boje                            729.23    7   5104.61   1276.15
+Preklopnik 3P/40A, mogućnost zaključavanja                                          420.46   23   9670.58   2417.65
+Reflektor 60° za 70W CMH Spot                                                       124.52   18   2241.36    560.34
+Pinta-LR-Q/A1 50W GU10 MR16, 100-240V, IP20, bijele boje                             43.25   26   1124.50    281.13
+ROTOBALL FLOOR 40, bijela b., E27, max. 24W, IP44                                  1063.26   15  15948.90   3987.22
+Kutija za fiksni spoj za vodiče promjera do 8mm, alu efekt                            2120    9  19080.00   4770.00
+LIGHT EYE 1 GU10, bijela/krom b., GU10, max. 50W                                    312.23   10   3122.30    780.58
+Instalacijski sklopnik 25A | 4 N/C | 230V AC/DC, 2ŠM                                214.15   29   6210.35   1552.59
+P/Ž inst. razdj. 4U-33,11-redni,495ŠM,1605x1030x250mm(VxŠxD)                       5644.58   20 112891.60  28222.90
+KALU 3, mat crne b., 3x QRB111, max. 3x 50W                                        1125.94    6   6755.64   1688.91
+RJ11 utikač za konekt. na plosnati kabel, neoklopljen 6/4                              0.7    4      2.80      0.70
+
+                                                                                                         ----------
+UKUPNO                                                                                                    630044.44
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

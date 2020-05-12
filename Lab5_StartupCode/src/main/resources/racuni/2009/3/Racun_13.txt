@@ -1,0 +1,19 @@
+Račun br. 144544
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Prednja ploča za utičnicu, bijela                                                    11.52    8     92.16     23.04
+I-PENDANT PRO LED PANEL PENDULUM 2700K 1295x295mm bijele b.                        1558.31   19  29607.89   7401.97
+Pako LED, 3x1W, 3000K, 200lm, 40°, 350/700mA, crne boje                             102.55   14   1435.70    358.93
+Držač za cilindrične osigurače Class CC | 3P | 30A/600V                             140.09   17   2381.53    595.38
+Finožični PVC-om izol. vodič H07V-K (P/F) 10mm2, sivi HPV                            10000   22 220000.00  55000.00
+SAT/ant. završni otpor 75Ohm za utičnice HSATDD/HSBKDD                                2.36    4      9.44      2.36
+Maskirni razdjelnik 2 širina brojila/ 21 MV                                           4180    7  29260.00   7315.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    282786.72
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

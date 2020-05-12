@@ -1,0 +1,30 @@
+Račun br. 684492
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+NV osigurač vel. 00, 100A/400V AC                                                    19.26   20    385.20     96.30
+Gumom iz. i oplašten 1-žilni kabel 1,8/3 kV NSGAFöu 16 crni                          10000   28 280000.00  70000.00
+Montažni nosač s otvorima (perforirani), 1000x15x5mm (DxŠxV)                          29.8   19    566.20    141.55
+Završetak za WAVE, 2kom srebrne boje                                                    25   25    625.00    156.25
+Podnožje, pred./zadnji pokrov perfor., Š=600 za DS/DSZ/DSS                           67.57   25   1689.25    422.31
+Izolirana natična stopica, 6.3, žuta, 4-6mm2 (pak.=100 kom.)                         96.46   23   2218.58    554.65
+Poluvodički mot.kontroler 200-440V/100A sa bypass i zaštitom                          4701    9  42309.00  10577.25
+Finožični PVC-om izol. vodič H05V-K(P/F) 0,75mm2,naranč. HPV                         10000    6  60000.00  15000.00
+BIG NAILS 80 ras.stupić, E27 max.15W, inox                                           844.8    2   1689.60    422.40
+LOUISSE 1 stropna svj.okrugla,bijela R7s,max.200W                                   813.03    2   1626.06    406.52
+Poprečna stranica, širina 3/200mm                                                   244.32   25   6108.00   1527.00
+Fluokompaktna žarulja TC-SEL 7W/827 2G7                                              20.16    1     20.16      5.04
+"Prespojni panel 10"", prazan, za 12 modula (SFA)(SFB), 1U"                         130.09   27   3512.43    878.11
+89102, Prigušnica za 1xT5 cijev, multiwat, dimabilna 0-10v                           35.65    3    106.95     26.74
+Sklopnička komb. za promjenu smjera vel. 00 / 5,5kW /400V 3P                        311.52    2    623.04    155.76
+Stropni ovjes za LINUX LIGHT, 10cm, srebrne boje                                    155.78   11   1713.58    428.39
+Golf loptica VELOCITY                                                                33.95   10    339.50     84.88
+SAT LNB za dva prijemnika, zaštita od vode, sivi, Ø40mm                             118.07    6    708.42    177.10
+
+                                                                                                         ----------
+UKUPNO                                                                                                    404240.94
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

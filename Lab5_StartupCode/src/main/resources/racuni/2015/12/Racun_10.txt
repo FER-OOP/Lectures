@@ -1,0 +1,28 @@
+Račun br. 244375
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Mono kabelska spojnica, neizolirana, prema DIN, Cu, 10mm²                             5.62   23    129.26     32.31
+Strujni trafo, montaža na DIN nosač, 50/5A, 2VA, Kl. 3                              126.47   29   3667.63    916.91
+Ampermetarski umetak za TYTAN R, D02, 3P, za 60mm sustav                            479.22    2    958.44    239.61
+Prednja ploča za utičnicu sa poklopcem, bijela                                       57.72   17    981.24    245.31
+ERIS 1x44W DIF PV4,LED 3450lm/840, M625, bijela b                                  1043.44   11  11477.84   2869.46
+Razvodna kutija s poklopcem, podžbukna, 80x80xdubina 50mm                           761.87   28  21332.36   5333.09
+Rastavna sklopka za cilindrične osigurače 10x38mm, 3P+N/32A                          54.06   19   1027.14    256.79
+SOPRANA,  CL-1, okrugla, bež tekstil, E27                                            844.8    1    844.80    211.20
+Aluminijski profil LBF - 2m                                                          42.66    7    298.62     74.65
+Modul za vertikalno povezivanje nazidnih elemenata                                    7.31   25    182.75     45.69
+KABEL E-AYY-0 (PP00-AL) 4X150 SE                                                     10000   19 190000.00  47500.00
+"Samostojeći komunikacijski ormar DS 600x1525x800, 19"", 32U"                       3402.6   14  47636.40  11909.10
+Pokrov za signalnu lampicu, plosnati, žuti                                            8.36    2     16.72      4.18
+7303G/D/30, LED 3w GU10 DL 30 °                                                       27.7    2     55.40     13.85
+Nosač sabirnica, 3-polni, s integriranim priklj. stez. 16mm²                         91.46   23   2103.58    525.90
+Adapter 630A, za montažu Siemens 3NP4,3NP5,3KE4,3KA5 na 60mm                          4832    6  28992.00   7248.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     309704.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,17 @@
+Račun br. 876754
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LED prespojni kabel RJ45 oklopljen,500 MHz,Ea,10GB,žuti,0.5m                          37.7   15    565.50    141.38
+POWER CUBE design nap. letva 16A, 4xschuko siva, 2xUSB, 2.1A                        212.07   25   5301.75   1325.44
+Luka-R LED 1/3W 3000K 190lm, dimmbar, 350/700mA, IP65, bb                           124.52    2    249.04     62.26
+Prednja ploča, čelična, slijepa, 1B1                                                  28.7   18    516.60    129.15
+Kabelski kanal, bez halogena, 50x37.5mm (VxŠ), 2m, RAL7035                           68.72    9    618.48    154.62
+
+                                                                                                         ----------
+UKUPNO                                                                                                      7251.37
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

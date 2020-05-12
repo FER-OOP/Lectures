@@ -1,0 +1,26 @@
+Račun br. 797878
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+NEW TRIA LED DL ROUND SET, brušeni alum., 6W, 2700K, 38°                            406.17    1    406.17    101.54
+RUSTY 40 SQUARE vanjska svj.zahrđani čelik, E27 max.11W                             1495.8   18  26924.40   6731.10
+Ključ za DIN 3mm bravu, sa dvostrukom bradom                                         19.04    6    114.24     28.56
+Bistabilni relej, 230VAC, 1 N/O, 10A                                                122.59   29   3555.11    888.78
+AIXLIGHT PRO II okr.FRAME ugradno kućište, srebrne boje                             437.43   23  10060.89   2515.22
+Kabel H05VV-F (PP/J) 5x2,5mm2, svijetlo-sivi, 25m                                    10000    5  50000.00  12500.00
+Napojna letva, 10xshuko, s prenap. zašt., 16A, kabel 1.4m                           168.34   10   1683.40    420.85
+Bezhal. kabel poboljšanih svoj.za sl. požara N2XH-J 1x25rm                           10000   11 110000.00  27500.00
+Ormar komp. 100kVAr/14% -12,5kVAr /600x2000x400 samostojeći                       50791.16   281422152.50 355538.13
+N/PE sumarni odvodnik Protec 100kA kl. B/C                                         1375.78    2   2751.56    687.89
+Montažna ploča za IP54, 3A-18                                                         4160   13  54080.00  13520.00
+Modul signalne svjetiljke, blicajuće svjetlo žuto, 24V DC                           857.34   21  18004.14   4501.04
+EURO SPOT INTEGRIRANI LED, 3000K, 36°,uklj.3F adapter,sr.b.                         875.55    3   2626.65    656.66
+Palos-I-R/A2 LED 26W 3000K 1960lm, IP20, bijele boje                                762.34   22  16771.48   4192.87
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1719130.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

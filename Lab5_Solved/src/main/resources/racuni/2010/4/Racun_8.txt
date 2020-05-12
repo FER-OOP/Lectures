@@ -1,0 +1,32 @@
+Račun br. 379821
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Alessia-R LED 10W 3000K 340lm, IP54, sive boje                                       806.1   22  17734.20   4433.55
+NV rastavna sklopka vel.2|400A, M10, nadzor osig., mont.pl                            4831    7  33817.00   8454.25
+Sabirnica, 2P, jezičasta, 10mm² (63A)|korak 17.8mm| 1m                              141.89    2    283.78     70.94
+Prazni modul, IKALL, crni                                                           170.93   19   3247.67    811.92
+Zaštitni prekidač, C karakteristika, 13A, 2-polni, 6kA                               65.93   22   1450.46    362.61
+Sabirnica, 3P, viličasta, 10mm² (63A)|korak 18mm| 202mm                              89.67   19   1703.73    425.93
+Kompaktni prekidač snage tip VE, 3P, 50kA,1600A+izvl. modul                       55808.97   291618460.13 404615.03
+Halogena žarulja QT14,20W/C, G9 ECO                                                  25.13    7    175.91     43.98
+"VI panik svjetiljka LED 230V za CPS MIXmod; zidna montaža"                        1917.77   24  46026.48  11506.62
+Paralelna spojnica (kratkospojnik) za 31 stezaljku IK110006-                          4850    5  24250.00   6062.50
+U/UTP inst. kabel cat.5e,4x2xAWG24/1,PVC,sivi,kutija 305m                           173.09   12   2077.08    519.27
+Industrijski utikač, 5 polni, 32A 400V Quick, IP44                                   50.09   10    500.90    125.22
+Plafonjera SLAVO 260 10W 750lm/830 ECG sa senzorom, bijela                          631.41   10   6314.10   1578.52
+Osnova kanala SIGNA 70/130 RAL9010                                                  115.04    1    115.04     28.76
+FID sklopka 63-2-003/AC, 10kA                                                       322.64    9   2903.76    725.94
+PD 180i/R MASTER P/Ž zidni senzor prisutnosti IR 180°                              1165.32   30  34959.60   8739.90
+Zaporni vijak M20x1.5, metrički, poliamid                                             0.65   20     13.00      3.25
+Kada za brojilo, 5 ploča za brojilo u jednom redu, 2-reda                          1594.82   17  27111.94   6777.98
+Dekorativni pokrov za KALOS svjetiljku sa 4 kraka, antracit                         418.86    3   1256.58    314.14
+Pozivni modul, 4 tipke, simplebus, POWERCOM                                         768.15    5   3840.75    960.19
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1826242.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

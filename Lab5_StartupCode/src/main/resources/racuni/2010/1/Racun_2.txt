@@ -1,0 +1,21 @@
+Račun br. 521597
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Telekomunikacijski kabel F-vYAY 5x2x0,5, sivi                                        10000    8  80000.00  20000.00
+Linda LED CONIC 2x30W, 4000K, 8575lm                                               1604.35    5   8021.75   2005.44
+Uzidni okvir s vratima+umetak, 3U-12, 100mm (plosnati)                             1199.13   22  26380.86   6595.21
+Optički prespojni kabel duplex, ST/SC, 62,5/125µm OM1, 10m                           92.37   27   2493.99    623.50
+Kompaktni prekidač snage tip VE, 4P, 50kA, 400A+izvl. modul                        9379.76   13 121936.88  30484.22
+Upravljačka kutija , 1 utor za senzore                                              244.68   14   3425.52    856.38
+Bezhalogeni kabel s el. funkc. do30 Min. (N)HXH-O2x2,5reE30                          10000   27 270000.00  67500.00
+BK koaks. presp. kabel IEC-m/IEC-ž,ravni,kl.A,bijeli,2.5m                             17.9   24    429.60    107.40
+Kabel H05VV-F (PP/J) 3x1,5mm2, svijetlo-sivi, 100m                                   10000   28 280000.00  70000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     792688.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

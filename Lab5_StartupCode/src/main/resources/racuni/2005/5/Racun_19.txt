@@ -1,0 +1,19 @@
+Račun br. 1032977
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Mikro pomoćni sklonik 3NO+1NC, 3A, 24VDC                                             101.6   18   1828.80    457.20
+Spojnica za na vrata, za MC2, duljine 60mm                                          312.03   14   4368.42   1092.10
+Ugradna svjetiljka SEP XTP T8 4x36W ECG IP54 M600, bijela                          1386.91   20  27738.20   6934.55
+Podnožje 8-polno I/O 5.0 za XT, RT2x, RT3x, RT4x releje                                 20   19    380.00     95.00
+Komplet piktograma za KW ljevo,desno, dolje                                          15.77   13    205.01     51.25
+AIXLIGHT R2 LONG, QRB111, zaobljena,bi.b., G53, max. 4x50W                         2497.05   21  52438.05  13109.51
+Signalni fleksibilni kabel YSLCY-OZ 5x 0,75 sivi                                     10000   18 180000.00  45000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     266958.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

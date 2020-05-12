@@ -1,0 +1,17 @@
+Račun br. 726046
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ispitivač kabela CableMaster 450, mjerenje duljina                                 2554.36   22  56195.92  14048.98
+Tel. okrugla šipka za do 500 parica, puna šipka                                     220.37    7   1542.59    385.65
+Zaštitni prekidač, D karakteristika, 10A, 2-polni, 10kA                             107.65   18   1937.70    484.43
+UPS Multi lus 10kVA 9kW 30min, 3f/3f /Online /veliko kućište                      52061.68    1  52061.68  13015.42
+LS-FI (KZS), C/16A/30mA, 1P+N, Tip A, 10kA                                          418.89   23   9634.47   2408.62
+
+                                                                                                         ----------
+UKUPNO                                                                                                    121372.36
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

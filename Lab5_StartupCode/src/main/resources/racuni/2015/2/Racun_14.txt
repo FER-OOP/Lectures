@@ -1,0 +1,22 @@
+Račun br. 524108
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Teretna sklopka, rastavljač (izolator), AMPARO, 32A, 1P                              34.38   13    446.94    111.74
+Bezhalogeni jednožilni vodič H07Z-K 6mm2, smeđi                                      10000    6  60000.00  15000.00
+Plastična prirubnica za WSVBF, 25 otvora, bezhalogena, IP65                          54.38    7    380.66     95.17
+S/FTP kabel cat.7, 4x2xAWG23/1, 1000MHz, LS0H, plavi, 30%                           441.71    2    883.42    220.85
+Kabel YSLYQY-J 5x16 prozirni                                                         10000   19 190000.00  47500.00
+HQI žarulje E40, 400W, NDL                                                          625.15   29  18129.35   4532.34
+Signalni fleksibilni kabel YSLY-JZ 5x16 sivi                                       9592.74   27 259003.98  64751.00
+LED DMX kontroler Touch RGBW bijele boje                                            836.68    1    836.68    209.17
+Samostojeći ormar, 1-vrata, 1800x600x400 (VxŠxD), RAL 7035                         3461.99   19  65777.81  16444.45
+Levante-M 44 LED 104W 9940lm 4000K LT-L,IP66,SKII,antracit                         5248.66   20 104973.20  26243.30
+
+                                                                                                         ----------
+UKUPNO                                                                                                    700432.06
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

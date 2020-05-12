@@ -1,0 +1,28 @@
+Račun br. 706177
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Nadgradna downlight svjetiljka ARM 292 1x26W CCG TC-T,bijela                        330.75   15   4961.25   1240.31
+UFO BEAM zidna svj., QT14 40W G9, plave b.                                          625.15   23  14378.45   3594.61
+KVADRA R70M K2 profilna spojnica                                                     29.47    4    117.88     29.47
+"Dvostruko tipkalo s plosnatim tipkama (zelena/crvena)-""I/O"""                      41.95   24   1006.80    251.70
+Okvir 2x2M line, srebrni                                                             28.75   22    632.50    158.13
+Modularna slijepa ploča za AS/KS ormare 600x600mm RAL 7035                          189.54    9   1705.86    426.46
+Sticker Totem Skull, bijele boje                                                    205.96    7   1441.72    360.43
+Kompenzacija  LSFC 7% 350/25kvar 800x2000x400mm Samost.orm.                        78516.9   302355507.00 588876.75
+Kompaktni prekidač snage tip VE, 4P, 50kA, 1600/1000A,red. N                      28649.28    3  85947.84  21486.96
+MEDO 40 LED, ugradna svjetiljka, sive boje                                         1250.97   28  35027.16   8756.79
+LOGICOM krović za P/Ž kućišta, 3 modula                                             777.85    3   2333.55    583.39
+FlexLED Roll, plave b., 1m, 60LED/m, DC 24V                                         105.76   27   2855.52    713.88
+Set baterija za USMLT..X                                                              5170   10  51700.00  12925.00
+WAVE WALL zidna svjetiljka 2x4,6W LED, 3000K, 700lm, crne b.                       1125.94    8   9007.52   2251.88
+Zaštitni prekidač AMPARO 6kA, B 10A, 1-polni                                         19.75   30    592.50    148.13
+Meiva-Q/A2 LED 20W 4000K 1600lm, IP20, bijele boje                                  542.36   15   8135.40   2033.85
+
+                                                                                                         ----------
+UKUPNO                                                                                                    2575351.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,21 @@
+Račun br. 443440
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Vezica 199 x 4.8mm, natural (pak.=100 kom.)                                          19.52   23    448.96    112.24
+Završna pločica za rednu stezaljku IK100070-A, siva                                   6.87   11     75.57     18.89
+L-SE umetak DM 1.5 ASYM.DOUBLE 1x62W LED 3500lm/840                                   8529    5  42645.00  10661.25
+Cilindrični osigurač, 10x38, 25A, gR, 690V                                           62.19    3    186.57     46.64
+Reflektor 24° za 70W CMH Spot                                                       124.52    4    498.08    124.52
+Okvir 2M line, bež                                                                    8.13   18    146.34     36.58
+Izmjenična (kontrolna) sklopka, umetak, utične stezaljke                             71.35   17   1212.95    303.24
+SERH ECO A4 L1 T5 4x24W EVG M600, bijela b.                                          332.3   22   7310.60   1827.65
+Reflektor SET 400W HIT E40 IP65 crni asimetrični                                   1182.44   16  18919.04   4729.76
+
+                                                                                                         ----------
+UKUPNO                                                                                                     71443.11
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

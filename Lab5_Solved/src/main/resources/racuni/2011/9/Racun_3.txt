@@ -1,0 +1,32 @@
+Račun br. 501856
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Siltu-R/A1 LED 18x1W 3000K 810lm,dimabilna,350mA,IP20,alu                           255.46   30   7663.80   1915.95
+"Opt. razdjelnik, 4 niti,SC,50/125µm OM2, izvlačivi,19"",1U"                        473.28   13   6152.64   1538.16
+Transformator, 1-fazni | 230/024V | 800VA, IP00                                    1186.74    9  10680.66   2670.17
+SSVGA kabel 4C+5, pozlaćeni kontakti, crni, 15m                                     241.54   24   5796.96   1449.24
+Flyer prečka L=1000m, crna                                                         1314.96    2   2629.92    657.48
+Podnožje za PT releje, 4 C/O, 6A                                                     31.14   14    435.96    108.99
+LED RF WiFi sučelje                                                                 836.68   26  21753.68   5438.42
+Redna stezaljka (vijčani priključak) 16mm², plava                                     6.75   10     67.50     16.88
+AF S LED 300 reflektor+senzor pokr., 24W, 3000°K,IP44,inox                         4265.65    7  29859.55   7464.89
+Pokrov za 2xRJ45 utičnicu, bijeli                                                    16.09   16    257.44     64.36
+Kliješta sjekača 165 mm                                                               2303    6  13818.00   3454.50
+Panik svjet. KC Wireless sa aku.bat LED 8h 230VAC zidna                            1513.45   13  19674.85   4918.71
+Univer.opt.kabel A/I-DQ(ZN)BH 16x50/125µm OM4, LS0H-3, nm.                          3441.7   14  48183.80  12045.95
+NV rastavna sklopka vel.00|160A, 3P, M8, plombiranje                                  4821    9  43389.00  10847.25
+Vijci + tuljci za stezaljku CBD70                                                      2.6    9     23.40      5.85
+Bezhalogeni kabel s el. funkc. do30 Min. (N)HXH-J3x1,5reE30                          10000   17 170000.00  42500.00
+N/Ž okvir + vrata 4A-39 D=300mm str.ploča+zakr. ručica, IP54                       4048.03   23  93104.69  23276.17
+Kabel EYY-J (PP00-Y) 4x16 RM                                                         10000    9  90000.00  22500.00
+Zaštitna pokrov za RJ45 module, sivi                                                  1.63   30     48.90     12.23
+"Prespojni panel 19"", prazan, za 24 modula, 1U, RA7035, ECO"                         89.2   21   1873.20    468.30
+
+                                                                                                         ----------
+UKUPNO                                                                                                    565413.94
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

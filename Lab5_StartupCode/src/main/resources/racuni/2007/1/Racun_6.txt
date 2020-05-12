@@ -1,0 +1,17 @@
+Račun br. 543915
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+TOOLLESS LINE USB 3.0 A-A spojnica, bijela                                           31.17   15    467.55    116.89
+Ugradna svj. SELENA OP LED ECO 37W M625 3700lm/830 ECG,bb                           739.14   23  17000.22   4250.06
+3f reflektor VITO DC LED 30W 2550lm/840 40°,sive boje                              1278.14   21  26840.94   6710.23
+Kronos-Q/A2 LED 20W 4000K, IP20, bijele boje                                        384.55   24   9229.20   2307.30
+L-SE montažna šina MR 3x35-80 5x1,5mm²                                              290.88   29   8435.52   2108.88
+
+                                                                                                         ----------
+UKUPNO                                                                                                     61973.43
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

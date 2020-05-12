@@ -1,0 +1,33 @@
+Račun br. 604020
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Vodotijesna svjetiljka DEVA PC 2x24W ECG                                            260.47    4   1041.88    260.47
+Sklopnik vel.00 | 4P | AC1 22A/690V | 24VAC                                         137.61   24   3302.64    825.66
+Nosač sabirnica, 3-polni, montaža bez bušenja, sustav 185mm                         205.39    7   1437.73    359.43
+Sylvania GU10 žaruljA, 50W, 50°, 2700K                                               43.76   15    656.40    164.10
+NEW TRIA MR16 ROUND downlight, mat bijele boje, max. 50W                            155.78   12   1869.36    467.34
+"Optički prespojni panel 19"", 1U, uklj. 24 spojnice SC SM"                         860.42    2   1720.84    430.21
+Parabol.uskosnopni odsijač za svjetiljku LINDA 1-18W 100mm                          115.81   22   2547.82    636.95
+LED ES111,  crvene b., 15W, 140°, 2700K                                             374.92    1    374.92     93.73
+"Opt. razdjelnik, 16 niti,LC,50/125µm OM4, izvlačivi,19"",1U"                       913.69    5   4568.45   1142.11
+Dodatni okvir theLuxa P, crni                                                        35.96   15    539.40    134.85
+LS-FI (KZS), B/25A/30mA, 1P+N, Tip AC, 6kA                                          210.18    7   1471.26    367.82
+Motorna zaštitna sklopka, 3-polna | 0.45 - 0.63A, vel.S00                           172.77   26   4492.02   1123.01
+Optički prespojni kabel duplex, LC/FC, 62,5/125µm OM1, 5m                            77.22    4    308.88     77.22
+Zaštitni prekidač MB 15kA BT 50/3                                                   458.97   26  11933.22   2983.30
+Jean-Q/A1 LED 7W 3000K 491lm, IP65, antracit                                        490.65   16   7850.40   1962.60
+KADUX 1 ES111 Downlight, četvrtasti, brušeni al., max. 50W                          531.37   30  15941.10   3985.27
+Bezhalogeni kabel s el. funkc. do90 Min. (N)HXH-J4x50rmE90                         28201.4   17 479423.81 119855.95
+Elektronska prigušnica ECG QTi 1x28/54/220-240                                      141.79    1    141.79     35.45
+ROX ACRYL POLE 60, E27 max. 20W, brušeni aluminij                                  2058.94    9  18530.46   4632.61
+LED napajanje FW 20W/24V, MM, IP20                                                  372.01   23   8556.23   2139.06
+GLENOS profil 1808, 2m, aluminij                                                    249.72   18   4494.96   1123.74
+
+                                                                                                         ----------
+UKUPNO                                                                                                    571203.56
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

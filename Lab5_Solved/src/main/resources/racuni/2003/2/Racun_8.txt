@@ -1,0 +1,26 @@
+Račun br. 1000086
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Dvokrilna vrata perforirana, za kom. ormare, 42U, Š=800 mm                         1441.31    7  10089.17   2522.29
+Kompaktni prekidač snage tip AE, 3P, 50kA, 400A+izvl. modul                        6580.73    5  32903.65   8225.91
+7916/AL, Aluminijski zidni profil 2m + PC opalni pokrov                             659.61   14   9234.54   2308.64
+Ugradna svjetiljka SERH XTP T5 4x54W ECG M600, bijela                                 1796   12  21552.00   5388.00
+Media razdj. za šuplji zid, MVM 3R, 12+2 modula,plitki okvir                        886.44   23  20388.12   5097.03
+Podnožje prema dubini AS/KS ormara, 600x100mm, RAL 7022                             125.79    8   1006.32    251.58
+DMX Wireless Transceiver                                                           1171.35   13  15227.55   3806.89
+Kruta lagana cijev, M40, 320N, EN2242, HF, s-siva, 3m (21m)                        3307.09   18  59527.62  14881.90
+Slušalica STYLE Basic, SB / (za miksane sustave)                                    383.42   21   8051.82   2012.96
+Sklopnik 3P |37kW (74A) [AC3] / 130A [AC1] | 230V AC                               1082.02   17  18394.34   4598.58
+Priključna stezaljka 50mm², stift 20x9                                               17.64   21    370.44     92.61
+Stezaljka glavnog voda (za Cu), 1P, 4x35mm²|4x25mm², plava                           50.01    7    350.07     87.52
+PROFUNO LED Spot, 3000K, 30°, uklj. 3F adapter, srebrne boje                       1250.97   20  25019.40   6254.85
+Sabirnica za TYTAN, 3P, jezičasta, 16mm²|korak 27mm| 1m                             390.78    3   1172.34    293.08
+
+                                                                                                         ----------
+UKUPNO                                                                                                    223287.38
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

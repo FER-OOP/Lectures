@@ -1,0 +1,32 @@
+Račun br. 265454
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"Samostojeći komunikacijski ormar DS 600x1080x600, 19"", 22U"                      2783.98   17  47327.66  11831.92
+"Opt. razdjelnik, 4 niti,LC,50/125µm OM4, izvlačivi,19"",1U"                        516.05    5   2580.25    645.06
+Kabelska obujmica za kabel promjera 26-30mm, za ASCAP/ASCAB                         337.76   27   9119.52   2279.88
+Kronos-II-Q/A2 50W G53 AR111, 12V, IP20, bijele boje                                126.04   18   2268.72    567.18
+Savitljiva cijev (lagana) M25, 320N, 50m, HF, svijelto-siva                         856.97   19  16282.43   4070.61
+Okvir MO 4x2M line, bijeli                                                           23.44    8    187.52     46.88
+IR senzor pokreta, 110°, 8m, 6A, 1M, crni                                           580.38   29  16831.02   4207.75
+Kompenzacija  LSK 14% 43,75/6,25kvar 600x1250x300mm zidni or                      24056.44   24 577354.56 144338.64
+Serijski ormar AS, 2-vrata, 2000x1200x600 (VxŠxD), bez MP                          5129.93    9  46169.37  11542.34
+Otvoreni prekidač, 4P, 55kA, 2000A, fiksni, prednje priklj.                       35202.51   24 844860.25 211215.06
+Montažna ploča 2PB, 450x248x13mm, 6 visinskih jedinica                              194.31   15   2914.65    728.66
+N/PE sabirnica, 63A, s vijcima, duljine 124mm                                        26.62   17    452.54    113.14
+Podnožje prema dubini ormara, 500mm, prolazno, RAL 7022                              196.3   30   5889.00   1472.25
+Shelf Strip LED 10W, 3000K, 750lm, 24V, 90°, IP20, SKIII                            219.81   20   4396.20   1099.05
+Zakretna ručica za modul 2000 (IL009... i IL036...), IP54                           664.43    7   4651.01   1162.75
+Poliester ormar, vrh i dno zatv., 2 vrata 1500x750x312 (VŠD)                       4477.32   19  85069.08  21267.27
+Staklena vrata za AS ormare 2000x600mm, prozirna, RAL 7035                         2433.63   24  58407.12  14601.78
+Signalni fleksibilni kabel YSLCY-JZ 4x 0,5 sivi                                      10000   14 140000.00  35000.00
+Poluvodički motorni kontroler 200-400V/100A bez zaštite                               4701   12  56412.00  14103.00
+Svjetiljka BURSA MS LED 7,5W 220lm 3000K, 180° IP43, bijela                         442.13   18   7958.34   1989.58
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1929131.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

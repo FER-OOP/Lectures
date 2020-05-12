@@ -1,0 +1,16 @@
+Račun br. 568024
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Baterije 18 kom. longlife OGiV 12V/5,2Ah s kabelima za ožič.                       2957.35   15  44360.25  11090.06
+Ugradna svjetiljka SEO PC T5 2x35W, ECG, bijela                                     512.87    8   4102.96   1025.74
+Sklopnik 3P |11kW (24A) [AC3] / 50A [AC1] | 48V AC                                  334.65   10   3346.50    836.63
+"Opt. razdjelnik,24 niti, SC,50/125µm OM2, izvlačivi,19"",1U"                      1435.62   18  25841.16   6460.29
+
+                                                                                                         ----------
+UKUPNO                                                                                                    77650.875
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

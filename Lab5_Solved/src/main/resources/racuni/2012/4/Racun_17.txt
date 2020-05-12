@@ -1,0 +1,19 @@
+Račun br. 954540
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Mini-Lynx, 15W, 4000K, E27                                                           62.51   27   1687.77    421.94
+Punto-R/A1 LED 7W 3000K 513lm,dimabilna,700mA,IP20,aluminij                          99.51   27   2686.77    671.69
+"Samostojeći komunikacijski ormar DS 600x900x600,19"", 18U"                        2634.78    6  15808.68   3952.17
+T5 fluo cijev 24W High Output, 4000K                                                 62.51    7    437.57    109.39
+Potporni izolator, 35x40mm, 2xM6, 5kN                                                14.14   19    268.66     67.17
+Relej 3 C/O |10A | 24VDC, pozlaćeni kontakti                                        114.47    5    572.35    143.09
+KNX dimer, EM, 20-1000VA                                                           1181.51    8   9452.08   2363.02
+
+                                                                                                         ----------
+UKUPNO                                                                                                    30913.879
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

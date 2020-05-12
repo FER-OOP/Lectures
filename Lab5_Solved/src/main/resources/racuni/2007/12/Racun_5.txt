@@ -1,0 +1,25 @@
+Račun br. 708141
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Motorna zaštitna sklopka, 3-polna | 0.11 - 0.16A, vel.S0                            197.49   18   3554.82    888.71
+Signalni fleksibilni kabel YSLCY-JZ 12x 1 sivi                                     2718.23   27  73392.21  18348.05
+Industrijska svjetiljka SCUP AL 1x150W,E27,MT,EB, IP65, crna                          8542   27 230634.00  57658.50
+NV rastavna sklopka vel.3|630A, M12, nadzor osig., mont.pl                         2907.54   11  31982.94   7995.74
+RC 230i IC senzor pokreta, nazidni, IP54, za KNX, bijeli                            2496.8   24  59923.20  14980.80
+PEYOTE 17cm 180° 8x1W LED, 40° 4000K antracit                                      2580.53   23  59352.19  14838.05
+Modul signalne svjetiljke, trajno žuto svjetlo, 230V AC                              446.2   23  10262.60   2565.65
+Okvir MO 1M, line, crni                                                              22.51   21    472.71    118.18
+Industrijska utičnica, 5 polna, 32A, IP44, montaža na zid                            45.02   12    540.24    135.06
+Ugradna svjetiljka SERH ECO A1 L1 T5 4x24W ECG M600, bijela                         447.41   29  12974.89   3243.72
+Energetski kabel 0,6/1kV PP00-Y (EYY-J) 1x50 RM crni                               4056.09    5  20280.45   5070.11
+Instalacijski sklopnik 40A | 4 N/C | 230VAC, 3ŠM                                    444.25    2    888.50    222.13
+Udarna glava za sonde Ø20mm                                                         641.17   29  18593.93   4648.48
+
+                                                                                                         ----------
+UKUPNO                                                                                                     522852.7
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

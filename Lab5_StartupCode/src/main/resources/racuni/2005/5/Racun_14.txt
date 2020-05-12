@@ -1,0 +1,20 @@
+Račun br. 928442
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Finožični PVC-om izol. vodič H05V-K (P/F) 1mm2, žuti HPV                             10000   29 290000.00  72500.00
+Vrata, metalna, perforirana za kom. ormare, 47U, Š=600 mm                              905   28  25340.00   6335.00
+Adapter D01 na D02, za CORON 2                                                        2.85   17     48.45     12.11
+Teški gumeni kabel H07RN-F 19x1,5, crni                                            5870.61   22 129153.41  32288.36
+Industrijska svj. Arktur LED 13500lm,132W,120°,6000K,RAL9006                        4777.3   11  52550.30  13137.58
+Optički prespojni kabel duplex, ST/SC, 50/125µm OM2, 10.0m                           117.6   11   1293.60    323.40
+Zaštitni prekidač MB GR.2 25kA CL 200/3                                            1061.56   13  13800.28   3450.07
+Cu - Main branch term., 1 pole,250A,  1x120mm²,8x25mm²                                4230    5  21150.00   5287.50
+
+                                                                                                         ----------
+UKUPNO                                                                                                     533336.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

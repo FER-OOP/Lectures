@@ -1,0 +1,27 @@
+Račun br. 501566
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+PVC-om izol.kabel za srednja meh.opt. YMS -J 4x1,5 crni                              10000    2  20000.00   5000.00
+"1-struki okvir ""Scala"", inox efekt"                                               54.71    3    164.13     41.03
+Traka označna 10 x 11-20 za HMM2 i CBC.2                                              4850   13  63050.00  15762.50
+Ugradna svjetiljka SEO ECO T8 2x36W ECG M625, bijela                                389.85   11   4288.35   1072.09
+L-SE el. uložak DM 1x80W DALI                                                        527.3    3   1581.90    395.47
+"Optički prespojni panel 19"", 1U, uklj. 4 spojnice LC, MM"                         611.42   14   8559.88   2139.97
+Kabel H03VV-F (PP/L) 3x0,75mm2, bijeli, 100m kolut                                  226.68   26   5893.68   1473.42
+Stolni nosač za hands-free audio jedinicu EASYCOM                                   863.93   13  11231.09   2807.77
+KNX sučelje za tipku 4 kanala                                                       522.96   18   9413.28   2353.32
+Nosač sabirnica, 3-polni, montaža bušenjem, sustav 185mm                            130.78    9   1177.02    294.26
+89001/DMX, pretvarač DMX 512 na 0-10v/1-10v                                         307.84    2    615.68    153.92
+Kabel LiYCY 40x0,25                                                                  10000   18 180000.00  45000.00
+Završni poklopac CLI ravni zatvoreni sa vijcima                                      87.09   29   2525.61    631.40
+Natpisna pločica za S-Releje serije 4                                                 0.46    4      1.84      0.46
+Košulja ženska, dugih rukava, bijela -42-                                           646.59   13   8405.67   2101.42
+
+                                                                                                         ----------
+UKUPNO                                                                                                    316908.12
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

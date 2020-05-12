@@ -1,0 +1,31 @@
+Račun br. 736510
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+EUTRAC 3-fazna nadgradna šina duljine 1 metar, crne boje                            218.46   27   5898.42   1474.61
+Mura-WL-R 9W GX53, 100-240V, IP54, aluminij                                         298.38   27   8056.26   2014.06
+Onda-R/A2 LED 7W 3000K 594lm, IP20, bijele boje                                     411.07   22   9043.54   2260.89
+Kabel H05VV-F (PP/J) 3x0,75mm2, bijeli, 50m                                          10000   17 170000.00  42500.00
+Okvir za prekidač MO3 4-pol 5000A horiz., 4 pom konektora                         35047.37   28 981326.38 245331.59
+Nadgradna svjetiljka SAP IP54 T5 2x54W ECG, bijela                                  928.33   28  25993.24   6498.31
+Dillon-I-R LED 3W 3000K 100lm, IP20, aluminij                                       285.88   12   3430.56    857.64
+Bimetalni relej, područje podešenja 10-14A                                          173.44    1    173.44     43.36
+Blok za pisanje A4                                                                   13.89    9    125.01     31.25
+Ugradni downl. SEGON LED 24W ED 2500lm/830 MAT IP44 70°,bb                          515.93   21  10834.53   2708.63
+Zaštitni prekidač sa svojstvima rastavljača,C 63A,3-polni+N                        1055.35   14  14774.90   3693.72
+Transparent cable 2 pole                                                             25.17   25    629.25    157.31
+N/Ž okvir + vrata 3A-42 D=300mm str.ploča+zakr. ručica, IP54                       3793.91    3  11381.73   2845.43
+Ugradna svj. SELENA LONG LED 1200x300 ED 3850lm/840 MAT,bb                          954.77    4   3819.08    954.77
+Bezhalogeni jednožilni vodič H07Z-K 2,5mm2, crni                                     10000   25 250000.00  62500.00
+AIXLIGHT MOD 2 GU10, srebrne boje                                                   265.26    3    795.78    198.95
+SAT produž.za stup,d=1m, Ø50mm, alu,za HSATMWxxA i HSATMM20A                        121.62    1    121.62     30.41
+C-sabirnica 3P.N., 16mm², 1m                                                        253.21   20   5064.20   1266.05
+Zaštitni prekidač, C karakteristika, 25A, 3-polni+N, 6kA                            112.77    2    225.54     56.38
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1501693.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

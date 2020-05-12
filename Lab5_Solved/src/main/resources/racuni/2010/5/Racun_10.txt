@@ -1,0 +1,23 @@
+Račun br. 126653
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+ Ngr.down.SOLINA 242 LED 24W DALI 2500lm/830 MAT IP20 70°,bb                       1016.38   13  13212.94   3303.24
+Tkanina za svjetleće stropove, sa gumenim rubom                                     661.24   30  19837.20   4959.30
+PEYOTE POLE 48cm 180° 8x1W LED, 40° 4000K antracit                                 3537.56   30 106126.80  26531.70
+Modul signalne svjetiljke, trajno žuto svjetlo, 24V AC/DC                            446.2   16   7139.20   1784.80
+VANDALCOM P/Ž kutija, 1 modul                                                       410.31   22   9026.82   2256.71
+Grebenasta sklopka (glavna, sivo/crna), 0-1/3P/40A, na DIN                          214.89   30   6446.70   1611.68
+Nazidna utičnica s natpisom,bijela,16A,IP44,utične stezaljke                         53.84   21   1130.64    282.66
+Ugradna svjetiljka SEP XTP PRISMA TC-L 3x55W ECG,M600,bijela                          8534   26 221884.00  55471.00
+Jednožični PVC-om izolirani vodič H05V-U (P) 1mm2, smeđi                             10000   21 210000.00  52500.00
+Držač za instalacijsku cijev M32, HF, crni  (pak. 100 kom.)                         449.04   20   8980.80   2245.20
+NV rastavna sklopka vel.00|125A,3P,priključak dolje,na ploču                       1309.47   16  20951.52   5237.88
+
+                                                                                                         ----------
+UKUPNO                                                                                                     624736.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

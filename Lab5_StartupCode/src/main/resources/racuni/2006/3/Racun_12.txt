@@ -1,0 +1,20 @@
+Račun br. 102287
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Grebenasta sklopka, 1-0-2/3P/10A, na vrata                                          208.96    3    626.88    156.72
+AF S LED 300 reflektor+senzor pokr., 24W, 5000°K,IP44,inox                         4926.51   18  88677.17  22169.29
+L-SE sjajni odsijač R1 T8 AL 1x58W široki, aluminij                                  78.34   10    783.40    195.85
+Regulator vlage 40-90%, 1 preklopni kontakt                                         503.61   28  14101.08   3525.27
+Zaštitni prekidač, C karakteristika, 10A, 3-polni, 10kA                             100.67   12   1208.04    302.01
+Prespojni kabel RJ45 STP cat.6a/10GB, LS0H, zeleni, 2.0m                             36.06   30   1081.80    270.45
+PlanoCentro 300, senzor prisutnosti, p/ž,  stropni, crni                            4150.7   23  95466.10  23866.53
+46 hlače, vodo-otporne, sa puno džepova                                             320.04   17   5440.68   1360.17
+
+                                                                                                         ----------
+UKUPNO                                                                                                    207385.16
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

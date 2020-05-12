@@ -1,0 +1,14 @@
+Račun br. 389608
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zaštitni prekidač AMPARO 6kA, B 4A, 1-polni                                          29.82   12    357.84     89.46
+Softshell jakna, ženska -large-                                                     595.37   17  10121.29   2530.32
+
+                                                                                                         ----------
+UKUPNO                                                                                                     10479.13
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

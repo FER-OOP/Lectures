@@ -1,0 +1,16 @@
+Račun br. 340526
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Onda LED Spot, 2x7W, 3000K, 2x464lm, 35° prilag. dim. bijela                        444.19   22   9772.18   2443.04
+N/Ž okvir + vrata 3A-24 D=250mm str.ploča+zakr. ručica, IP54                        3215.1   17  54656.70  13664.18
+Serijski ormar AS, 2-vrata, 2000x1200x400 (VxŠxD), RAL 7035                        5099.82    9  45898.38  11474.59
+Audio vanjski panel, 14 tipki, sa PTT otvorom                                         4690   11  51590.00  12897.50
+
+                                                                                                         ----------
+UKUPNO                                                                                                    161917.27
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

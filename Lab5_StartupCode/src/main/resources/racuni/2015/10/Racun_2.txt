@@ -1,0 +1,14 @@
+Račun br. 722544
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Sklopnik 3P |11kW (22A) [AC3] / 32A [AC1] | 400V AC | 1N/O                          234.49   17   3986.33    996.58
+Kabel za motorne pogone oklopljeni SLCM-JZ 4x6 0,6/1kV sivi                        6530.05   30 195901.50  48975.38
+
+                                                                                                         ----------
+UKUPNO                                                                                                    199887.83
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

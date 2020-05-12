@@ -1,0 +1,16 @@
+Račun br. 571029
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kompaktni prekidač snage tip VE, 3P, 50kA, 630A+izvl. modul                       11174.62   25 279365.50  69841.38
+Poliester zidni ormar MINIPOL, prozirna vrata, 500x400x200mm                       2072.99    9  18656.91   4664.23
+P/Ž razdjelnik MODUL 160, sa prozirnim vratima, 2x24 modula                           4172    3  12516.00   3129.00
+Adapter za montažu na DIN nosač (za trafo od 30-160VA)                                39.6    8    316.80     79.20
+
+                                                                                                         ----------
+UKUPNO                                                                                                    310855.22
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

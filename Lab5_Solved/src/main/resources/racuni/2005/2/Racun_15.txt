@@ -1,0 +1,24 @@
+Račun br. 1014481
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"Opt. razdjelnik, 8 niti, LC,50/125µm OM3, izvlačivi,19"",1U"                        976.4    8   7811.20   1952.80
+Kompaktna sabirnica za 1xFID 4P, 1xLS 3+N, 2xLS 1+N                                 108.13   30   3243.90    810.97
+Telekomunikacijski kabel J-Y(ST)Y 4x2x0,6mm2                                        349.14   18   6284.52   1571.13
+SDL HQI-reflektor, 150W, sa 3-faznim adapterom, srebrne boje                       1125.94    3   3377.82    844.45
+Prenaponska zaštita za fotonaponske sustave 1500V DC                                  4130   13  53690.00  13422.50
+Ugradna downl. svj. ERM 201 1x18W CCG TC-D IP20, bijela                             177.32    6   1063.92    265.98
+Pierce-I-R/A2 70W E27 CDM-R, 230V, IP20, crne boje                                  178.25    2    356.50     89.13
+Metalhalogena žarulja HIT 400W/C/638 E40                                            424.45   25  10611.25   2652.81
+Slijepi pokrov (u ravnini sa zidom), bijeli                                           2120   28  59360.00  14840.00
+Redukcijski element za montažu uređaja na 5mm sabirnicu                              90.56   19   1720.64    430.16
+Proširenje prazno,bez punjača za USMLT-2x7/9/12Ah, 3x7/9Ah                        10164.51   15 152467.64  38116.91
+Reflektor SET 400W HST E40 IP65 crni simetrični                                    1639.63   22  36071.86   9017.96
+
+                                                                                                         ----------
+UKUPNO                                                                                                    336059.25
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

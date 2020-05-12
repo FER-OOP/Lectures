@@ -1,0 +1,15 @@
+Račun br. 1090672
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Staklena vrata sa zakret. ručkom, za DW ormare 4U, Š=600                            537.85   20  10757.00   2689.25
+Svjetleće tipkalo s povratom, visoko, plavo                                          62.91   12    754.92    188.73
+Kompaktni prekidač snage tip M, 3P/80A/100kA, MC1                                     4963   23 114149.00  28537.25
+
+                                                                                                         ----------
+UKUPNO                                                                                                    125660.92
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

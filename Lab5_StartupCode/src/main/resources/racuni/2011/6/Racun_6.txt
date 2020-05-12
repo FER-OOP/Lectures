@@ -1,0 +1,28 @@
+Račun br. 873935
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LINUX LIGHT šina, 2 metra, uklj. 2 zavr.pok., krom                                  374.92   16   5998.72   1499.68
+Adapter za din 35mm, 1M                                                               3.41    1      3.41      0.85
+Minijaturni relej, 4C/O, 6A, 24VDC, serije PT                                        32.52   30    975.60    243.90
+Sklopni element za prednju montažu, 2 N/O, utične stezaljke                           38.7   26   1006.20    251.55
+Finožični PVC-om izolirani vodič H05V-K (P/F) 1mm2, t-plavi                          10000   26 260000.00  65000.00
+NEW TRIA 3 DL četvrtasti Set, 3x6W, 3000K, 38°, brušeni al.                        1188.46   14  16638.44   4159.61
+8015GC/C, 150W G12 CW CERAMIC                                                        14.19   17    241.23     60.31
+Redna stezaljka (vijčani priključak) 120mm², tip CDA, bež                           195.54   15   2933.10    733.27
+Prespojni kabel RJ45 cat.6 neoklopljen, PVC, crveni, 3.0m                            16.32   10    163.20     40.80
+IPERI WL zidna svj., antracit, 48 LED, neutral bi.b., 4000K                         625.15    6   3750.90    937.73
+Finožični PVC-om izol. vodič H05V-K (P/F) 0,5mm2, bijeli HPV                         10000   26 260000.00  65000.00
+Kabel H05VV-F (PP/J) 3x2,5mm2, svijetlo-sivi, 100m                                   10000   14 140000.00  35000.00
+NEW TRIA LED DL okrugli Set, 12W, 2700K, 38°, bijele boje                           875.55   14  12257.70   3064.43
+VANDALCOM slijepi/prazni modul                                                      297.61    4   1190.44    297.61
+Prednja ploča, čelična, slijepa, 1B5                                                  4160   17  70720.00  17680.00
+Dodatni okvir theLuxa, crni                                                          30.32   12    363.84     90.96
+
+                                                                                                         ----------
+UKUPNO                                                                                                     776242.7
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

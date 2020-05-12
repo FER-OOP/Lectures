@@ -1,0 +1,19 @@
+Račun br. 988007
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Minijaturni relej, 2C/O, 12A, 24VDC serije PT                                        34.71   10    347.10     86.77
+LED RETROFIT T8 58 21W 220-240V 190° 840 1800lm G13 30000h                              94   30   2820.00    705.00
+Tarifni prekidač s podešavanjem na 16, 20 i 25A, 3-polni                            303.37   24   7280.88   1820.22
+Držač za instalacijsku cijev M25, HF, crni  (pak. 100 kom.)                         389.97   25   9749.25   2437.31
+Elektronski transformator, slave, 20-60W                                              2103   10  21030.00   5257.50
+HQI-TS Downlight, siva, 150W                                                        283.12    3    849.36    212.34
+GALEN LED Profil sa 15x1W LED, tople bb                                            1871.23    3   5613.69   1403.42
+
+                                                                                                         ----------
+UKUPNO                                                                                                     47690.28
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

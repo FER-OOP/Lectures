@@ -1,0 +1,26 @@
+Račun br. 187352
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+BRICK LED Downunder, okomita, sr.b., tople bi.b. LED                                 383.7   27  10359.90   2589.98
+Konektiranje 2x4 ST SM utikača + zašt. za povlačenje                               1795.48   26  46682.48  11670.62
+Vodotijesna svjetiljka DEVA ECO PC 1x80W ECG                                        297.24   23   6836.52   1709.13
+Motorna zaštitna sklopka, 3-polna | 0.35 - 0.50A, vel.S0                            206.11   26   5358.86   1339.71
+M-Bodywarmer, podstavljen, vodoodbojan                                              460.23   19   8744.37   2186.09
+Regulator temperature 10-60°C, 1 C/O                                                201.56   20   4031.20   1007.80
+Zaštitni prekidač, C karakteristika, 1A, 1-polni, 6kA                                 4465   25 111625.00  27906.25
+Kompaktni prekidač snage tip A, 3P/125A/50kA, utični, MC1                          3316.49   20  66329.80  16582.45
+Kartična sklopka MO 3M 3A osnovna, 15-20s, crna                                     224.77    7   1573.39    393.35
+Držač za instalacijsku cijev M32, sivi (pak.100 kom.)                               196.84   13   2558.92    639.73
+Windows Software za Programiranje EASY 400-700                                      276.12   18   4970.16   1242.54
+GLENOS profil 100, 1m, bijele boje                                                  312.23   25   7805.75   1951.44
+Kompaktni prekidač snage tip A, 4P, 150kA, 100A                                    1938.59   26  50403.34  12600.83
+Sabirnica, 2P, jezičasta, 10mm² (63A)|korak 17.8mm| 1m                              141.89   22   3121.58    780.40
+
+                                                                                                         ----------
+UKUPNO                                                                                                    330401.28
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

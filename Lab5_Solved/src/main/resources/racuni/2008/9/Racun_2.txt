@@ -1,0 +1,21 @@
+Račun br. 1012431
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Halogena žarulja QR-LP 111 ECO 50W FL24° G53                                         98.51   23   2265.73    566.43
+Satinirano staklo za ERK-Z 207 svjetiljke                                            94.78   23   2179.94    544.98
+Motorna zaštitna sklopka, 3-polna | 3.50 - 5.00A, vel.S0                            218.06   14   3052.84    763.21
+Okvir 4x2M line, mat crni                                                             81.9   28   2293.20    573.30
+Sutil Round  LED 18W, 6000K, 1260lm, 120°, IP40, sive boje                          212.21   15   3183.15    795.79
+Grebenasta sklopka, 1-2/2P/20A, na DIN nosač                                        180.27   20   3605.40    901.35
+M-Fleece jacket  breathable, waterproof, windproof                                  654.13    6   3924.78    981.19
+Zaštitni prekidač AMPARO 6kA, C 10A, 3-polni                                         76.11    1     76.11     19.03
+Optički prespojni kabel duplex SC/SC, 50/125µm OM4, 3.0m                            124.44   19   2364.36    591.09
+
+                                                                                                         ----------
+UKUPNO                                                                                                    22945.508
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

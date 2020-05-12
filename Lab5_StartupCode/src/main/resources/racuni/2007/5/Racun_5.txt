@@ -1,0 +1,15 @@
+Račun br. 1025848
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Solid LED traka u kućištu, 15W, 1095lm, 4000K, IP20, siva                           298.38    8   2387.04    596.76
+Halogena žarulja QT14,20W/C, G9 ECO                                                  25.13   13    326.69     81.67
+Kompaktni prekidač snage tip A, 3P/20A/36kA, box stezaljke                          580.51   11   6385.61   1596.40
+
+                                                                                                         ----------
+UKUPNO                                                                                                      9099.34
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

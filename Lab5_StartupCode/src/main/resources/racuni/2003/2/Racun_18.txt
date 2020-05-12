@@ -1,0 +1,20 @@
+Račun br. 1085370
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Razvodna kutija, nadžbukna, 85x85x40mm, membrane, IP54, siva                         891.3    9   8021.70   2005.42
+GLENOS profil 1107-200, 2m, aluminij                                                 187.2   23   4305.60   1076.40
+NYCY 3x4RE/4                                                                        2260.8   19  42955.20  10738.80
+Kutna spojnica za 1-f  3-f šina, vanj., bb                                           64.71   18   1164.78    291.20
+3f reflektor VITO DC LED 38W 3200lm/830 ECG 20°, crne boje                         1470.55    7  10293.85   2573.46
+Reflektor CAPRI simetrični 1x250W E40 HIT/HST, crna                                 677.47   25  16936.75   4234.19
+"Opt. razdjelnik,16 niti, FC, 9/125µm OS2, izvlačivi,19"",1U"                      1791.98   16  28671.68   7167.92
+Stražnja ploča za nazidni Modul 2000 | 2R-28                                        155.28    5    776.40    194.10
+
+                                                                                                         ----------
+UKUPNO                                                                                                    113125.96
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

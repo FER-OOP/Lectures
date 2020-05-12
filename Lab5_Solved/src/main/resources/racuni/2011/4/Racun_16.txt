@@ -1,0 +1,14 @@
+Račun br. 805211
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Držač za RM releje                                                                       3   29     87.00     21.75
+Adapter za din 35mm, 1M                                                               3.41   28     95.48     23.87
+
+                                                                                                         ----------
+UKUPNO                                                                                                    182.48001
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

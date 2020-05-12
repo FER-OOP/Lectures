@@ -1,0 +1,31 @@
+Račun br. 209134
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Papirnata vrećica mala 20x30cm (ŠxV)                                                 12.85   30    385.50     96.38
+LEVANTE B1-P 550mm,zidni nosač za 60-76mm, crna                                    1532.77   13  19926.01   4981.50
+Osnova kanala SIGNA 70/130 RAL9001                                                  119.27    1    119.27     29.82
+Compact passage, senzor prisutnosti KNX, stropni, srebrni                          2617.09   25  65427.25  16356.81
+Bezhal. kabel poboljšanih svoj.za sl. požara N2XH-J 4x120sm                          10000    8  80000.00  20000.00
+Tuljak za 35mm2, pocinčani, DIN norma                                                  3.1   21     65.10     16.27
+7513A/C, LED 13w CW AR111 G53 24 ° 12v                                              165.74   22   3646.28    911.57
+Zamjenjiva skala, 96x96mm, 400/800/5A AC                                              4399   13  57187.00  14296.75
+Kompenzacija  LSFC 14% 200/12,5kvar 800x2110x500mm Sam.orm.                       64880.45   15 973206.75 243301.69
+Modul signalne svjetiljke,treptajuće crveno svjetlo, 230V AC                        606.25    5   3031.25    757.81
+Kabel LiYY 12x0,14                                                                   10000   24 240000.00  60000.00
+ENOLA_B SPOT single, zidna i stropna svjetiljka, GU10,mesing                        562.63    4   2250.52    562.63
+Okvir 2x7M bijeli                                                                    56.43    1     56.43     14.11
+Nadgradna svjetiljka SAP ECO T5 1x35W ECG, bijela                                   498.76    3   1496.28    374.07
+ASTRO TUBE I stropna svj.al-bruš.1xGU10,max.75W                                     343.66   19   6529.54   1632.39
+Ugradbeni pisač za centrale CPS sustava                                            5423.29   11  59656.19  14914.05
+Zaštitni prekidač AMPARO 6kA, C 20A, 3P+N                                            98.25    3    294.75     73.69
+Cirilla LED 10W, 4000K, 864lm, dimabilna, IP20, bijele boje                         351.77   10   3517.70    879.42
+Završni poklopac LBE 30/60 ravni zatvoreni sa vijcima                                 51.6   19    980.40    245.10
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1517776.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

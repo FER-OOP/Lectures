@@ -1,0 +1,28 @@
+Račun br. 307075
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Završni profil, širina 3                                                              4160   17  70720.00  17680.00
+N/Ž inst. razdj. 4A-39, 13-redni, 585 ŠM, 1885x1030x250mm                          6251.52    8  50012.16  12503.04
+Shunt 60mV, 250A                                                                      4398   29 127542.00  31885.50
+Grebenasta sklopka (glavna, sivo/crna), 0-1/4P/20A, na DIN                          166.71   17   2834.07    708.52
+Označa pločica za SNR releje (100 oznaka)                                             0.46   19      8.74      2.18
+Ventilator s filterom 109x109x62mm IP54, 12W, 16m3/h                                443.12    6   2658.72    664.68
+POWERLINE EPL odašiljač, RC, bijeli                                                1697.02    1   1697.02    424.26
+Rastavna pruga vel.2, 1-polni isklop, sistem 185mm, V-stez.                           4823   23 110929.00  27732.25
+PE stezaljka sa 7 odvoda                                                             11.71    1     11.71      2.93
+Maskirni razdjelnik 2 širina brojila/ 45 MV                                           4180   23  96140.00  24035.00
+IBDN prespojni kabel RJ45 UTP cat.6A, zeleni, 7.6m                                    6804   26 176904.00  44226.00
+Tinjalica, bistra, BA9s, 200-250V AC, 0.3W                                           14.31    3     42.93     10.73
+Sklopnik 3P |7.5kW (18A) [AC3] / 32A [AC1] |230VAC|1N/O +VK3                        218.06   11   2398.66    599.66
+Spremnik za dokumentaciju, magnetski, A4                                              42.6   26   1107.60    276.90
+Kond. sklopnik vel.0 | AC6 50kVAr/400VAC | 230VAC | 1N/O                            942.47   25  23561.75   5890.44
+Modul za audio/video jedinicu, 2 tipke, POWERCOM                                    362.27   28  10143.56   2535.89
+
+                                                                                                         ----------
+UKUPNO                                                                                                    676711.94
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

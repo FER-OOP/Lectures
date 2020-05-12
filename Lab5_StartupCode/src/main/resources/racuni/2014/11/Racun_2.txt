@@ -1,0 +1,20 @@
+Račun br. 630123
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Cilindrični osigurač za fotonapon, 10x38, 10A, gPV, 1000V DC                         60.24   10    602.40    150.60
+Utičnica šuko i sklopka, obična, IP54, na oprugu, nadžbukna                           68.3    7    478.10    119.53
+Relej 3 C/O |10A | 24VDC, pozlaćeni kontakti, sa LED                                115.85    5    579.25    144.81
+7307DGD/W/36, COB LED GU10 7W 36 ° dimabilna 230V DARK LIGHT                        112.69   26   2929.94    732.48
+Osigurač EZII/25A                                                                     2.92   13     37.96      9.49
+N-TIC PRO GU10, okrugli pokrov                                                     1307.91    2   2615.82    653.96
+"Ploča za zasun, plava, ""Celanex"""                                                  1.81    8     14.48      3.62
+Peri-III-S LED 2x30W 4000K 4800lm, IP65, crne boje                                 1099.25    9   9893.25   2473.31
+
+                                                                                                         ----------
+UKUPNO                                                                                                      17151.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

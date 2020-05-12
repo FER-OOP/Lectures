@@ -1,0 +1,14 @@
+Račun br. 423894
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Linijska svj. SERM-LL 112, završni profil,  2x28W, ECG, bb                          516.13   16   8258.08   2064.52
+Napojni kabel za za DELF C PRO RGB                                                   43.76    9    393.84     98.46
+
+                                                                                                         ----------
+UKUPNO                                                                                                      8651.92
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

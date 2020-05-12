@@ -1,0 +1,24 @@
+Račun br. 651824
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+VISIO HR-brošura                                                                         0    9      0.00      0.00
+Montažna ploča za AS/KS ormare, 2000x1200mm (VxŠ)                                  1083.49   11  11918.39   2979.60
+Proširenje prazno,bez punjača za USPRP100ER 36V 40Ah                               5563.63    2  11127.26   2781.81
+Adapter za sustav 60mm, EMC, 2 nosača, širine 45mm                                    4832    6  28992.00   7248.00
+TRAIL podna svj. LED 650mm 9W 900lm sim. 4000K                                     2802.68    5  14013.40   3503.35
+Vodič (N)YM-J (PGP) 5x16 mm2, sa zašt. vodičem, svij.-sivi                           10000    8  80000.00  20000.00
+Ugradna svjetiljka SE-ID PAR V2 2x24W,T5, ECG, bijela                                578.5   28  16198.00   4049.50
+Miri-R 9W GX53, 100-240V, IP20, bijele boje                                          19.93    5     99.65     24.91
+Prespojni kabel RJ45 cat.5e neoklopljen, PVC, zeleni, 0.5m                            4.22   18     75.96     18.99
+Grebenasta sklopka, 0-1/3P/20A,na vrata,centralno učvršćenje                        256.48    5   1282.40    320.60
+"2-struki okvir ""Riva"", biserno bijeli"                                            24.95    1     24.95      6.24
+Reflektor FORCA LED 151W 16700lm/757 ECG IP65 50°,sb                               4134.73   13  53751.49  13437.87
+
+                                                                                                         ----------
+UKUPNO                                                                                                     217483.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

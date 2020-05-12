@@ -1,0 +1,21 @@
+Račun br. 846130
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Iris-R 22W 2GX13, 230V, IP20, sive boje,prsten plave b.                             145.81   25   3645.25    911.31
+Nosač natpisne pločice za IN022033                                                     2.6   12     31.20      7.80
+Nosači za montažu na zid 4 kom.                                                      47.56   11    523.16    130.79
+Samostojeći ormar INOX, 1800x600x500mm, IP56, AISI304                             18766.88   30 563006.44 140751.61
+Ugradna svjetiljka SEP ECO T5 4x24W ECG IP54 M600, bijela                           445.86   13   5796.18   1449.04
+Newton asimetrični reflektor 18 LED 149W 4000K, IP66, antr.                        6837.19   29 198278.52  49569.63
+Kompaktni prekidač snage tip M, 3P/40A/100kA, MC1                                     4963    7  34741.00   8685.25
+EUTRAC Podes.-spoj, crne b.                                                         437.43    5   2187.15    546.79
+Kompaktni prekidač snage tip VE, 3P, 50kA, 1600A                                  24894.45   28 697044.56 174261.14
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1505253.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

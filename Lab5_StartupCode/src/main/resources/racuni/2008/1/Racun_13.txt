@@ -1,0 +1,25 @@
+Račun br. 879652
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Poluvodički mot. kontroler 200-440V/34A sa bypass i zaštitom                          4701   25 117525.00  29381.25
+P/Ž inst. razdj. 2U-24,8-redni,168 ŠM,1195x590x180 mm(VxŠxD)                       2700.12    8  21600.96   5400.24
+Lima-R/A2 20W E27, 100-240V, IP20, bijele boje                                       43.92    9    395.28     98.82
+Linda Transparente panik svj. 5x1W ERT-LED 230V za CPS MIX m                       1382.36    9  12441.24   3110.31
+Poklopac 380x280x30mm sivi - D-G                                                     312.2    8   2497.60    624.40
+Energetski kabel 0,6/1kV PP00 (EYY-O) 1x120rm crni                                   10000   28 280000.00  70000.00
+SUPROS MOVE ugradna stropna svjetiljka, 3000lm 3000K,crne b.                       1250.97   30  37529.10   9382.27
+Nazidni okvir s vratima za Modul 2000 | 2A-24 | dubina 250mm                       1387.44    3   4162.32   1040.58
+Podnožje N voda 1-pol.vel.00,  2 x M8                                                10.02   17    170.34     42.59
+Indikator faza, 230/400 VAC, 3-polni                                                135.13    6    810.78    202.70
+Pepeljara, staklena, plava                                                           20.77    6    124.62     31.16
+Bezhalogeni jednožilni vodič H07Z-K 6mm2, crni                                       10000    9  90000.00  22500.00
+Spojnica za savitljivu cijev M63, siva (pak. 8 kom.)                               1185.01   23  27255.23   6813.81
+
+                                                                                                         ----------
+UKUPNO                                                                                                     594512.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

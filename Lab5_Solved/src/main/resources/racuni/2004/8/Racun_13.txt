@@ -1,0 +1,16 @@
+Račun br. 675821
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+PT podnožje 14-polno za PT5x releje, 6A                                              21.29   14    298.06     74.51
+NEW TRIA MR16 Downlight, okrugla, brušeni aluminij                                  174.53    8   1396.24    349.06
+Okvir MO 4x2M line, bijeli                                                           23.44   10    234.40     58.60
+Halogena žarulja QT 12 75W 12V GY6,35                                                 13.8   15    207.00     51.75
+
+                                                                                                         ----------
+UKUPNO                                                                                                    2135.7002
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,18 @@
+Račun br. 543460
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Poliester kućište 540x540x171mm, prozirni poklopac,IP66,sivo                       1282.44    7   8977.08   2244.27
+Tess-R 2x26W G24q-3, 230V, IP20, sive boje                                           19.59   14    274.26     68.57
+NV osigurač vel. 1, 160A/400V AC                                                      45.6   17    775.20    193.80
+Signalni fleksibilni kabel YSLCY-OZ 25x 0,75 sivi                                    10000    9  90000.00  22500.00
+Tipka s ručicom,crna,neosvijetljena,3 polož.,50°,s povratom                          40.08   21    841.68    210.42
+Instalacijski sklopnik 20A | 2 N/O | 24V AC                                         127.08   29   3685.32    921.33
+
+                                                                                                         ----------
+UKUPNO                                                                                                    104553.54
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

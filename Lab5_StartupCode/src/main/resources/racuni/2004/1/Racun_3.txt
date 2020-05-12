@@ -1,0 +1,20 @@
+Račun br. 987795
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Sticker Totem Owl , crne boje                                                       343.66    3   1030.98    257.74
+Ugradna svjetiljka KVADRA R70 1x28/54W QTI satinirani pokrov                        950.51   20  19010.20   4752.55
+Dodatni blok pomoćnih kontakata 2 N/O + 2 N/C (tvornički)                          1204.59    3   3613.77    903.44
+Priključne stezaljke sa pokrovom stezaljki, za 4P MC1                               109.72   25   2743.00    685.75
+PATH KIT - 2 pokrova + montažni vijci antracit                                      307.63   27   8306.01   2076.50
+Signalni fleksibilni kabel YSLY-JZ 4x16 sivi                                       7696.26   22 169317.72  42329.43
+Modul za 4 kamere, RJ45, H.264 kompatibilan, VIP sustav                            2299.88   30  68996.40  17249.10
+Minikontrol cent. 290W 3h,32/20 krugova,7,2Ah  bez DCM mod.                       28756.54   13 373835.00  93458.75
+
+                                                                                                         ----------
+UKUPNO                                                                                                     646853.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

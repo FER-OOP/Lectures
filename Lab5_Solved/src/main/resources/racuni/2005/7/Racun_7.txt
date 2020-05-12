@@ -1,0 +1,23 @@
+Račun br. 1002374
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Pokrov stezaljki za sklopnike veličine 10                                            77.56   23   1783.88    445.97
+LED Panel 100 6W, 4000K, 420lm, Ra>80, dim., bijele boje                            386.75   22   8508.50   2127.13
+LED traka Flex 60 NW IP43 RA90+ 1090lm/m 13,5W/m L=5m 24VDC                        1089.05   14  15246.70   3811.68
+Slijepa traka, perforirana, duljine 220mm                                             2.43   11     26.73      6.68
+51100TR/B,  1L UGRADNA KUTIJA bez vidljivog ruba, crne b.                           145.81    9   1312.29    328.07
+Industrijski utikač, 5 polni, 32A 400V Quick, IP44                                   50.09   12    601.08    150.27
+Plafonjera ALICA Round TR 1x22W, CCG IP54, bijela                                   258.92   21   5437.32   1359.33
+Tugru-WL-S LED 2x1W 6000K, IP20, aluminij                                           188.22    5    941.10    235.27
+Vodotijesna svjetiljka LINDA PC 2x58W ECG IP65 SC II                                469.13    5   2345.65    586.41
+KALU II ES111, Single                                                               687.83   16  11005.28   2751.32
+LUZO INTEGRATED LEDugr.prsten,okrugli,metalbruš.4000K 36°                           635.43   25  15885.75   3971.44
+
+                                                                                                         ----------
+UKUPNO                                                                                                     63094.28
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,27 @@
+Račun br. 796968
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Relej snage, 3C/O, 16A, 24V AC, Faston 187, Tip RM                                  110.98   24   2663.52    665.88
+Vijčano podnožje za RY, raster 3,2mm                                                 19.34    2     38.68      9.67
+7306LGD/D/38, 5LED 5,8w GU10 DL 38 ° dimabilna 230v                                  66.23   23   1523.29    380.82
+Noir-TR-Q/A2 50W GU5,3 MR16, 12V, IP20, bijele boje                                 119.28   22   2624.16    656.04
+Instal. umetak 2-33L komplet 11 IR prednja pl. plastika                            1963.02   21  41223.42  10305.86
+"Natpisna pločica, ""MAN AUTO"", 17.5 x 28mm, natična"                                8.13   23    186.99     46.75
+"Samostojeći komunikacijski ormar DS 600x1970x400, 19"", 42U"                      3434.45   23  78992.35  19748.09
+Medes-III-S/A2 LED 42W 3000K 3150lm, IP20, bijele boje                              762.34    5   3811.70    952.92
+Sabirnica, 4P, viličasta, 1/N/2/N/3/N, 16mm² (80A)|17.8mm|1m                        387.89   27  10473.03   2618.26
+Optički prespojni kabel duplex LC/SC, 50/125µm OM4, 1.0m                            103.65    4    414.60    103.65
+Zaštitni prekidač, B karakteristika, 25A, 3-polni+N, 10kA                           236.92   10   2369.20    592.30
+LED Downlight Siena 68,8W 500lm,36°,828,dimbilan, srebrna b.                        334.65    9   3011.85    752.96
+Kabel YSLYQY-J 5x16 prozirni                                                         10000   17 170000.00  42500.00
+A03VV-F 5x0,75mm2, svijetlo-sivi, 50m kolut                                          10000   27 270000.00  67500.00
+Nazidni okvir s vratima za Modul 2000 | 5A-28 | dubina 250mm                       2641.55   11  29057.05   7264.26
+
+                                                                                                         ----------
+UKUPNO                                                                                                     616389.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

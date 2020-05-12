@@ -1,0 +1,27 @@
+Račun br. 367643
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LS-FI (KZS), C/6A/300mA, 1P+N, Tip AC, 6kA                                          199.43   29   5783.47   1445.87
+Zaštitni prekidač, C karakteristika, 50A, 3-polni+N, 6kA                            295.54   26   7684.04   1921.01
+Kabel H05VV5-F 5x1,5 sivi                                                            10000   26 260000.00  65000.00
+"19"" čelični slijepi pokrov, 2U, RAL 7035"                                          24.64   21    517.44    129.36
+Bimetalni relej za sklopnike vel. 3 | 45,00 - 63,00A                                421.33   30  12639.90   3159.97
+AIXLIGHT R zidna, QRB111, okr.,bi.b., G53, max. 1x50W                               875.55   22  19262.10   4815.52
+NV osigurač vel. 2, 125A/400V AC                                                     55.04   23   1265.92    316.48
+Fabio-R 2x20W E27, 100-240V, IP20, brušeni krom                                      37.67    7    263.69     65.92
+Newton asimetrični reflektor 18 LED 149W 4000K, IP66,RAL9006                       6837.19   16 109395.04  27348.76
+Nadgradna svjetiljka SARM 2 2x24W ECG, bijela                                       354.79   29  10288.91   2572.23
+Kabel LiYCY 10x0,5                                                                 1595.92    3   4787.76   1196.94
+Senzor prisutnosti, 360°, p/ž, stropni, IP54, bijeli                               1090.89    5   5454.45   1363.61
+"Stezaljka ""A"" 4P, dovod 25mm²|odvodi: 3x(4x16)+1x(12x16)"                        227.82   10   2278.20    569.55
+Finožični PVC-om izolirani vodič H05V-K (P/F) 0,5mm2, naran.                         55.66   17    946.22    236.56
+Kliješta sjekača 165 mm                                                               2303   15  34545.00   8636.25
+
+                                                                                                         ----------
+UKUPNO                                                                                                    475112.06
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,24 @@
+Račun br. 830917
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Panik svjetiljka VM LED/3h 230VAC,Autotest, montaža zid                            2014.78   28  56413.84  14103.46
+Signalni fleksibilni kabel YSLY-JZ 3x1,5 sivi                                       545.46    2   1090.92    272.73
+LED napajanje 24V/60W IP67                                                          195.31   18   3515.58    878.90
+Sklopnik vel. 00 | 3kW (7A) [AC-3] | 230VAC, 50/60Hz |1 N/C                             99   12   1188.00    297.00
+Ines-R 22W 2GX13, 230V, IP20, sive boje                                             132.63   27   3581.01    895.25
+MERIDIAN BOX zidna svjetiljka E27, antracit                                         449.94   15   6749.10   1687.27
+61016A/B, Sjenilo crne boje za 61016                                                322.54   18   5805.72   1451.43
+"Dvostruko svjetleće tipkalo bij/crno oznake: ""START""-""STOP"""                    74.55   19   1416.45    354.11
+LED RETROFIT RL-RAL1 35 5W 230V 827 250lm opal S14D 12000h                          126.25    5    631.25    157.81
+Luxa 102-140, LED sa senz., 8W, 3000K, zidna, IP44, crna                            623.66   28  17462.48   4365.62
+Solus-R 50W GU5,3 MR16, 12V, IP44, brušeni krom                                      19.93   25    498.25    124.56
+Kondenzatorska baterija 20,7 kVAr(400V)                                             876.13   21  18398.73   4599.68
+
+                                                                                                         ----------
+UKUPNO                                                                                                    116751.33
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

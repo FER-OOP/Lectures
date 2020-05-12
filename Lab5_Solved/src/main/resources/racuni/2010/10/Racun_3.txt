@@ -1,0 +1,19 @@
+Račun br. 283011
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LED MR16, 5W, 2700K, 38°                                                             93.26   15   1398.90    349.73
+IKALL metal modul, bez tipki, za audio jedinicu                                      549.1    5   2745.50    686.38
+Ispravljač, industrijski, 115-230VAC/12VDC, 5A                                      806.23   22  17737.06   4434.26
+SPEED WORK stalak za 3 špule                                                       1071.13   28  29991.64   7497.91
+7521R/W/24, LED MODULE AR111 21w 24d WW + DRIVER 100-240v                            258.5    1    258.50     64.63
+ENOLA_B Torch zidna svjetiljka, GU10, max. 50W, mesing                                8570    6  51420.00  12855.00
+PVC-om izol.kabel za srednja meh.opt. YMS -J 5x4 sivi                                10000   16 160000.00  40000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     263551.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

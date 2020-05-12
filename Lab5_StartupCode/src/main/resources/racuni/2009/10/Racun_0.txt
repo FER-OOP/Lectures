@@ -1,0 +1,29 @@
+Račun br. 731664
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Punto-R 50W GU5,3 MR16, 12V, IP43, antik mesing                                      17.74   30    532.20    133.05
+Transformator, 1-fazni | 230/230V | 1000VA, IP00                                   1205.39   22  26518.58   6629.64
+Ugradna svjetiljka NOMIA 1x36W,LED 2800lm/830, M600, bijela                        1116.97   12  13403.64   3350.91
+Compact office, senzor pris. HVAC 24V, p/ž, stropni, srebrni                       1711.98    5   8559.90   2139.98
+Prozirno kućište za KW zidna montaža                                                 43.57   16    697.12    174.28
+Stražnja ploča za nazidni Modul 2000 | 4R-39                                        396.13   15   5941.95   1485.49
+Okvir 5-struki, bijeli                                                               25.48    5    127.40     31.85
+SENSER LED PANEL nadgradni, 6W, 3000K, četvrtasti, bijele b.                        406.17   21   8529.57   2132.39
+KC panik lampa 8W 230V EVG za CPS MIX mod,montaža zid                               747.03   18  13446.54   3361.64
+Maskirni razdjelnik 4 širine brojila/ 42 MV                                           4180   27 112860.00  28215.00
+Teški gumeni kabel H07RN-F 4x10, crni                                              5115.66   16  81850.56  20462.64
+Prednja ploča, plastična, slijepa, 2B5K                                               4160    5  20800.00   5200.00
+Poliester kućište 360x360x201mm, prozirni poklopac,IP66,sivo                        735.81   24  17659.44   4414.86
+Ugradna svjetiljka SERH 2 A8 L2 T5 2x24W, ECG, bijela                                 8534   20 170680.00  42670.00
+Kliješta za rezanje žica ravna, promjera žice do 1.0 mm                              62.07    1     62.07     15.52
+Kompenzacija  LSK 7% 68,75/6,25kvar 600x1250x300mm zidni orm                      26014.89    9 234134.02  58533.50
+Okvir plitki s vratima i umetkom za KVH, 4-redni,48+8 modula                        425.45    9   3829.05    957.26
+
+                                                                                                         ----------
+UKUPNO                                                                                                    719632.06
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

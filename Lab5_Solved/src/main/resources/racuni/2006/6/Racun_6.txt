@@ -1,0 +1,31 @@
+Račun br. 100504
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Stezaljka glavnog voda (za Cu), 1P, 2x25mm²|2x16mm², zelena                          16.64   16    266.24     66.56
+2-polni direktni konektor                                                            23.27   14    325.78     81.44
+Krović za zaštitu od kiše 1000x300                                                 1610.26   23  37035.98   9259.00
+Digitalni pozivni modul/šifrarnik+dig. imenik, crni, IKALL                            4690   10  46900.00  11725.00
+DC pomoćni sklopnik | 4A [AC15] | 24V DC | 4N/C                                     298.23   30   8946.90   2236.73
+Energetski kabel 0,6/1kV PP00 (NYY-O)Z 10x1,5re crni                                 10000   29 290000.00  72500.00
+TRITON 3 LED, okr., srebrne boje, 3x1W LED, neutr. bijele b.                        437.43   30  13122.90   3280.72
+Bezhalogeni telekomunikacijski kabel J-H(ST)H 30x2x0,8 sivi                          10000    6  60000.00  15000.00
+Kratkospojnik za 10 stezaljki IK680001|..002|..003|..004                             47.99    6    287.94     71.99
+SEVEN-CIRCLE 150W HST E40 IP65 cestovna optika, crna                               2868.17   12  34418.04   8604.51
+DIABO SPOT 1 stropna svjetiljka , krom, 1x GU10, max. 35W                           437.43    6   2624.58    656.15
+Fluokompaktna žarulja TC-DEL 26W/830 G24Q-3                                          26.83   20    536.60    134.15
+Bimetalni relej, područje podešenja 13-18A                                          228.14    4    912.56    228.14
+Ceta-S/A1 LED 15x1W 6000K 1125lm, IP65, sive boje                                   435.74   30  13072.20   3268.05
+Poliester kućište 270x360x171mm, IP66, RAL 7035 (sivo)                              486.94   29  14121.26   3530.31
+L-SE umetak DM 1.2 Deep 1x52W LED 4900lm/830                                       1326.25   11  14588.75   3647.19
+Q-Line Produžetak, alu-natur                                                        124.52   19   2365.88    591.47
+"Inverter Kaco Powador 36.0; 30kVA; TL3, 3f, 3MPPT, IP65"                         71869.59   141006174.31 251543.58
+Laki gumeni kabel H05RR-F 4x1, crni                                                  10000    9  90000.00  22500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1635700.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

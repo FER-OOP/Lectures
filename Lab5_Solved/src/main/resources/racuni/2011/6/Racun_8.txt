@@ -1,0 +1,17 @@
+Račun br. 474378
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Modul za audio jedinicu, 1 tipka, IKALL, crni                                       272.11   27   7346.97   1836.74
+Staklena vrata za AS ormare 1800x800mm, prozirna, RAL 7035                         2593.22   30  77796.60  19449.15
+IPERI 50 podna svj., antracit, 48 LED, neutral bi.b.,4000K                          687.83    4   2751.32    687.83
+Kabel YSLYQY-JZ 5x 4 prozirni                                                        10000   20 200000.00  50000.00
+Optički prespojni kabel duplex, LC/LC, 62,5/125µm OM1, 5m                            77.22    3    231.66     57.92
+
+                                                                                                         ----------
+UKUPNO                                                                                                    288126.53
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

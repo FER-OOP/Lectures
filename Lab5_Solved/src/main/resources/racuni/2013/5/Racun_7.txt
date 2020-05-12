@@ -1,0 +1,29 @@
+Račun br. 297833
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+MEDO PRO 40 stropna svjetiljka, okrugla, bijele b., T5 40W                         1250.97   17  21266.49   5316.62
+Terra S LED 2W, 3000K, 65lm, 30°, IP67, IK08, inox                                   410.4   14   5745.60   1436.40
+Priključna stezaljka za Al i Cu vodiče, 16-240mm², 630A, M10                        180.23   14   2523.22    630.80
+Prespojni kabel RJ45 STP cat.6a/10GB, LS0H, crveni, 10.0m                            98.51    7    689.57    172.39
+DELWA LED 230 zidna svjetiljka, sr.b., 4W, tople bi.b. LED                          687.83   28  19259.24   4814.81
+Izolirani kabelski tuljak, dvostruki, sivi, 2x0.75mm²/8mm                             0.21   16      3.36      0.84
+Britespot ES111, 35W, 24°,GX10 3000K                                                437.43   21   9186.03   2296.51
+Finn-I-R/A2 70W G8,5, 230V, IP20, sive boje                                           17.9    6    107.40     26.85
+Kabelska zaštitna cijev 80flex+spojnica, crna                                        23.93   30    717.90    179.48
+Prednja ploča, plastična, slijepa, 3B3K                                               4063   23  93449.00  23362.25
+Kabel H05VVC4V5-K 3x0,75 sivi                                                        10000   23 230000.00  57500.00
+Motorni pogon 220-250V DC/208-240V AC (kao rezervni dio)                            5884.8   21 123580.80  30895.20
+Nadgradna svjetiljka PRIMO M PRISMA 2x36W ECG, bijela                               271.64   20   5432.80   1358.20
+Kućište za stezaljke ABS 120/200/75                                                 257.02    3    771.06    192.76
+LED DALI PWM Dimer DW                                                               803.29    3   2409.87    602.47
+Finožični PVC-om izol. vodič H05V-K (P/F) 1mm2, crveni HPV                           10000   22 220000.00  55000.00
+SOPRANA SOLID WL-2, V-oblik                                                         625.15   12   7501.80   1875.45
+
+                                                                                                         ----------
+UKUPNO                                                                                                     742644.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

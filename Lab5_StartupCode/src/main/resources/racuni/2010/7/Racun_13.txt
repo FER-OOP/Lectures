@@ -1,0 +1,22 @@
+Račun br. 763359
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Sutil-Q LED 30W 6000K 2174lm, IP40, bijele boje                                     512.96    9   4616.64   1154.16
+LED Test-modul 12-30V AC/DC                                                          56.44   30   1693.20    423.30
+SERH ECO A8 L1 T5 2x35W EVG M600, bijela b.                                           8534   16 136544.00  34136.00
+D01 (Neozed) osigurač 2A, gL                                                          7.39   11     81.29     20.32
+Optički prespojni kabel duplex, SC/FC, 50/125µm OM2, 3.0m                            74.84    4    299.36     74.84
+316 SENSE-Panel Video, digital-key panel, nehrđ. čelik, VIP                       17180.01    6 103080.06  25770.02
+Ugradna zidna svjetiljka Promenade 40 IP65 LED plavo                                822.22   15  12333.30   3083.32
+Tris-I-STR-R/A1 LED 3x1W 4000K 160lm,dim,350mA,IP20,bijele b                         86.16   30   2584.80    646.20
+Senga LED 10W 860lm, 3000K, 230V, IP65, bijele boje                                 185.68   22   4084.96   1021.24
+Poliester zidni ormar MINIPOL, zatv. u 3 točke,400x300x200mm                        789.73    2   1579.46    394.86
+
+                                                                                                         ----------
+UKUPNO                                                                                                     266897.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

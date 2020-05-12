@@ -1,0 +1,20 @@
+Račun br. 1004027
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zaštitni prekidač sa svojstvima rastavljača, D 80A, 1-polni                         284.89   18   5128.02   1282.01
+N-TIC PRO GU10, četvrtasti pokrov                                                  1307.91    5   6539.55   1634.89
+1 dodatni LED modul za STYLE intercom slušalicu                                      59.55   20   1191.00    297.75
+Poliester zidni ormar MINIPOL,proz. vrata,400x300x200(VxŠxD)                        922.74   11  10150.14   2537.53
+Spojnica (ravna) M40, svijetlo-siva (pak. 25 kom.)                                  413.68   10   4136.80   1034.20
+"Zidni komunikacijski ormar DW Monoblock 600x900x395, 19"",18U"                    1167.63   16  18682.08   4670.52
+Reflektor FORCA LED 151W 17360lm/765 ECG IP65 50°,sb                               4134.73   21  86829.33  21707.33
+Uvodnica PG11 (maticu M273104--- naručiti odvojeno)                                   3.65   21     76.65     19.16
+
+                                                                                                         ----------
+UKUPNO                                                                                                    132733.58
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

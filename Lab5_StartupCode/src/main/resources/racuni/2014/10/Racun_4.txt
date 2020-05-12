@@ -1,0 +1,28 @@
+Račun br. 1059700
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Rokovnik 2017                                                                         9841    2  19682.00   4920.50
+Joystick, 2 položaja, s povratom, okomiti hod                                         4811   14  67354.00  16838.50
+Dvostruka izmjenična sklopka s tipkom, utične stez., bijela                         106.81   17   1815.77    453.94
+Agnes-R LED 7W 4000K 560lm, IP20, bijele boje                                       178.92    9   1610.28    402.57
+Modul za proširenje, EASY 819 AC RC, 230V AC                                          3331   20  66620.00  16655.00
+LED RETROFIT RL-RAL1 35 5W 230V 827 250lm opal S14D 12000h                          126.25   26   3282.50    820.63
+Linijska svj. SERH 220 ASY 2x54W, ECG, bijele boje                                  354.79   29  10288.91   2572.23
+MERIDIAN II, zidna svjetiljka, srebrne boje, E27, max. 60W                          335.72   19   6378.68   1594.67
+Papirnata vrećica, veća                                                              18.23   16    291.68     72.92
+"Sobno signalno svjetlo ""Design"", bijelo-crveno-zeleno"                          1495.71   18  26922.78   6730.69
+"Natpisna pločica, ""AUF"", 12.5 x 28mm, natična"                                     3.09    6     18.54      4.63
+Redna stezaljka (vijčani priključak) 70mm², plava                                    53.98   13    701.74    175.43
+Sklopnik vel. 0 | 5,5kW (12A) [AC-3] | 230VAC, 50/60Hz                              116.64   30   3499.20    874.80
+Dimer 75-1000W, umetak, R, memory funkcija                                          608.48   22  13386.56   3346.64
+Robin-II-Q/A1 75W GU10 AR111, 100-240V, IP20, bijele boje                            99.51   13   1293.63    323.41
+Poliester zidni ormar MINIPOL, zatv. u 3 točke,600x400x230mm                       1313.17   16  21010.72   5252.68
+
+                                                                                                         ----------
+UKUPNO                                                                                                    244157.02
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

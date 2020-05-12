@@ -1,0 +1,19 @@
+Račun br. 932734
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+DC sklopnik | 5.5kW | 24V DC | 3N/O + 1N/C pomoćni kontakt                          555.48    6   3332.88    833.22
+NV osigurač vel. 00, 32A/400V AC                                                     19.18   26    498.68    124.67
+Lingo LED 3W, 24V, dimabilna, IP20                                                   51.36   18    924.48    231.12
+Sutil-R LED 8W 6000K 537lm, IP40, sive boje                                         126.04    7    882.28    220.57
+Montažna ploča za IP54, 5A-42                                                         4160    4  16640.00   4160.00
+Spoj za Hang Up svjetiljke                                                          124.52   21   2614.92    653.73
+Pokrov za ind. dio svjetiljke OFFICE 218 2-28/54W                                       65    2    130.00     32.50
+
+                                                                                                         ----------
+UKUPNO                                                                                                     25023.24
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

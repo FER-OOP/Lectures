@@ -1,0 +1,21 @@
+Račun br. 959385
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kabel, koaksijalni RG59B/U 75 Ohm                                                   236.81   16   3788.96    947.24
+Zaštitni prekidač sa svojstvima rastavljača, C 32A, 3-polni                         597.76   21  12552.96   3138.24
+PMMA pokrov SP četvrtasti / Opal 2m                                                  92.11    4    368.44     92.11
+Zaštitni prekidač, B karakteristika, 10A, 1-polni, 6kA                               22.67   30    680.10    170.02
+Video vanjski panel, 32 tipke, sa PTT otvorom                                      3851.52    7  26960.64   6740.16
+3-fazna završna pločica, siva                                                         8.61    2     17.22      4.30
+Kabel LiYCY 3x1,5                                                                  1081.82    5   5409.10   1352.27
+Ugradna svjetiljka SERS 2 T8 2x58W ECG M625, bijela                                   8534   19 162146.00  40536.50
+Industrijska svjetiljka SCUP PC 1x70W, TC-TEL, ECG, siva                            880.39   24  21129.36   5282.34
+
+                                                                                                         ----------
+UKUPNO                                                                                                    233052.78
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

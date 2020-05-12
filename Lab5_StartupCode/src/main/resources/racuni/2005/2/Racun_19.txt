@@ -1,0 +1,19 @@
+Račun br. 670320
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Rastavna sklopka za cilind. osig. 10x38mm, 1P/20A, Fotonapon                         24.39   21    512.19    128.05
+Sklopnička komb. za promjenu smjera vel. 00 / 5,5kW /400V 3P                        311.52    5   1557.60    389.40
+Lano četvrtasti LED, 60W, 6000K, 4700lm, 1300mA, IP20, bb                          1502.39   18  27043.02   6760.76
+LED Driver 350mA, 1-6W, ne dimabilno                                                 77.89   27   2103.03    525.76
+Držač za montažu LEVANTE B2 550mm crni                                              2071.6   19  39360.40   9840.10
+GLOO PURE 70 podna svjetiljka, antracit, E27, max. 20W                             1000.75   11  11008.25   2752.06
+Ugradna svjetiljka SELENA LED M625 ED 3850lm/840 MAT,bb                             954.77    7   6683.39   1670.85
+
+                                                                                                         ----------
+UKUPNO                                                                                                     88267.88
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

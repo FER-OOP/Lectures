@@ -1,0 +1,21 @@
+Račun br. 1008642
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+7305/D/30, LED 3x1w 12v DL 30 °                                                      16.05    4     64.20     16.05
+Pokrov priključka za SI337000...700…200…710…150 i SI337720                           38.07    6    228.42     57.10
+NV rastavna sklopka vel.00|160A, 3P, M8, plombiranje                                  4821    3  14463.00   3615.75
+FID sklopka 25-2-003/A (puls)                                                        542.8    7   3799.60    949.90
+POWER LIM 2 LED RGB Master upr., 24V uklj. napajanje 60W                           1063.26   30  31897.80   7974.45
+Adaptor za 1-faznu šinu, crna b., električni                                         80.76   15   1211.40    302.85
+LEDPANEL 100 SMD, ugradna stropna, četvrt., srebrna, 3000K                          437.43    6   2624.58    656.15
+Sklopnik vel.3 | 4P | AC1 140A/690V | 230VAC                                       1338.54   10  13385.40   3346.35
+NEW TRIA I QRB Downlight, četvrtasta, brušeni aluminij                              299.73    4   1198.92    299.73
+
+                                                                                                         ----------
+UKUPNO                                                                                                     68873.32
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

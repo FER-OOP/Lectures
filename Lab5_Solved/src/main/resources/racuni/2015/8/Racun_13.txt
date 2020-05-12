@@ -1,0 +1,29 @@
+Račun br. 484169
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Joystick, komplet,2 položaja sa po 1 N/O,bez povrata, vodor.                         229.1   10   2291.00    572.75
+"19"" LED svjetiljka, montaža na vijak ili magnet"                                  698.38    4   2793.52    698.38
+Navojni prsten M22x1.5mm                                                              6.83   26    177.58     44.40
+EUTRAC Ovjes za 3-fazne šine, 60cm, bb                                               187.2   27   5054.40   1263.60
+Aluminijski montažni nosač 5H                                                        31.94    8    255.52     63.88
+Vodotijesna svjetiljka FFL 1x54W ECG IP65                                           268.07    8   2144.56    536.14
+Podnožje prema dubini ASR/KSR ormara, 500x200mm, AISI304                              4056   24  97344.00  24336.00
+"Podžbukni aktuator, 1x AC 230V, 16A; 2 x binarni ulaz"                             759.24   14  10629.36   2657.34
+Podnožje samostoječeg ormara 600x300x200mm                                         1211.04   29  35120.16   8780.04
+Adapter za ugradnju 3-polne MC4 na sustav 185mm, 1440A                             7638.85    8  61110.80  15277.70
+NEW TRIA I ES111 Downlight, četvrtasta, mat bb                                      299.73   25   7493.25   1873.31
+Razvodna kutija za stropnu svjetiljku do 25kg, M6, plava                           1754.14   21  36836.94   9209.24
+GLENOS završni pokrov za Treppenstufen Profile DOWN, 2kom,sb                         99.51   20   1990.20    497.55
+Bezhalogeni jednožilni vodič H07Z-K 16mm2, smeđi                                     10000   27 270000.00  67500.00
+N stezaljka sa 15 odvoda                                                             34.63   27    935.01    233.75
+"19"" napojna letva sa 8xshuko+prekidač, 1U, kabel 2m, RAL7035"                     308.13   12   3697.56    924.39
+NAUTILUS IP67,  vanj.reflektor, QR-CBC 51 35W G6,35                                 167.94   12   2015.28    503.82
+
+                                                                                                         ----------
+UKUPNO                                                                                                    539889.06
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,30 @@
+Račun br. 612654
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Grebenasta sklopka, (glavna,crno/siva), 0-1/3P/25A, na vrata                        168.95    8   1351.60    337.90
+Tipkalo uskočno, plosnato, crno                                                      62.13   25   1553.25    388.31
+Cinda-II-R 10W G4, 12V, IP20, krom                                                   39.36   14    551.04    137.76
+Centralna ploća za podno grijanje sa on/off prekidačem                              109.48   27   2955.96    738.99
+Design IL ERT-LED 1x3W 230V AC/DC ML, ugradna, usmjerena                            845.73    1    845.73    211.43
+Nazidni okvir s vratima za Modul 2000 | 4A-45 | dubina 300mm                       4442.33    2   8884.66   2221.17
+FIN XS Pole 30 4W LED 4000°K, 300lm, siva                                          1999.54    2   3999.08    999.77
+Agnes-R LED 7W 4000K 560lm, IP20, bijele boje                                       178.92    6   1073.52    268.38
+Finožični PVC-om izolirani vodič H07V-K (P/F) 2,5mm2, crni                          195.31    1    195.31     48.83
+LED MEGAMAN GU10 PAR16 6W, 2800K, 360lm, DG, 35°, DIM                                85.63    9    770.67    192.67
+Okvir 2M line, bež                                                                    8.13    9     73.17     18.29
+Blok pomoćnih kontakata za sklopnike vel. 00, 1 N/O+2 N/C                            32.93   22    724.46    181.12
+Ugradna svjetiljka SERH 2 A8 L1 T5 2x28W, ECG, M625, bijela                           8534   18 153612.00  38403.00
+L-SE sjajni odsijač R2 AL2x58 široki,aluminij.                                      100.68   24   2416.32    604.08
+"Kofer s uzorcima ""IT"""                                                             9841   23 226343.00  56585.75
+Vijak sa 6-kutnom glavom, za drvo, DIN571, 8x80mm, pocinčani                        109.05    9    981.45    245.36
+Ugradni downl. SEGON LED 26W DALI 2700lm/840 MAT IP20 70°,bb                        754.62   17  12828.54   3207.14
+Zašt.bridova sa metal.umetkom,debljina stijenke 1-2mm                                23.65    7    165.55     41.39
+
+                                                                                                         ----------
+UKUPNO                                                                                                    419325.28
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

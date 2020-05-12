@@ -1,0 +1,29 @@
+Račun br. 1047384
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Lano PRO LED 43W, 3000K, 4100lm, mikroprizma, DALI, bb                             1231.53    3   3694.59    923.65
+Stezaljka za strujni trafo, sa ispitnom utičnicom, 6mm², bež                         31.86    6    191.16     47.79
+9R04/W/E, LED PAR38 14w E27 IP65 WW                                                  79.58   23   1830.34    457.58
+EURO SPOT QRB111,sa 3-faznim adapterom, bij.                                        813.03   28  22764.84   5691.21
+Dvokatna stezaljka (utični priključak) 2.5mm², siva                                   9.27   30    278.10     69.53
+PEMA zidna svj., crne b.                                                            625.15   16  10002.40   2500.60
+Motorna zaštitna sklopka, 3-polna | 4.50 - 6.30A, vel.S00                           205.37   26   5339.62   1334.91
+CO2 osjetilo sa svjetlosnom signalizacijom                                          2913.3    9  26219.70   6554.93
+Kabel H05VV-F (PP/J) 4x1mm2, svijetlo-sivi, 100m                                     10000   17 170000.00  42500.00
+Poliester zidni ormar MINIPOL, zatv. u 3 točke,800x600x300mm                       2318.37    9  20865.33   5216.33
+Fluo cijev T8|T26 ECO 32W 830                                                        49.02    6    294.12     73.53
+Nadgradna svjetiljka SARH 2 ECO T5 1x28W ECG, bijela                                265.28   24   6366.72   1591.68
+Osigurač DC 300A - max48V, priključak M10                                            63.62   16   1017.92    254.48
+Sklopnik vel.3 | 4P | AC1 140A/690V | 24VAC                                        1338.54    5   6692.70   1673.18
+UPS Genio Flex Plus Dual 2200VA 1980W 5 Min.1/1f/Line-Int.                         5688.54   13  73951.02  18487.76
+Minijaturni relej, 4C/O, 6A, 115VAC                                                  68.12    4    272.48     68.12
+Tehnička olovka, plava, Schrack                                                       5.08    5     25.40      6.35
+
+                                                                                                         ----------
+UKUPNO                                                                                                    349806.44
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

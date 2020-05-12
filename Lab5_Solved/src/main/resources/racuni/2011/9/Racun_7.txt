@@ -1,0 +1,20 @@
+Račun br. 695167
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Puna metalna vrata sa zakret. ručkom, za DW ormare 4U, Š=600                        443.71    1    443.71    110.93
+Signalni fleksibilni kabel YSLCY-JZ 4x10 sivi                                      7445.28   12  89343.36  22335.84
+Metalhalogena žarulja HIT 250W/N/SI E40 FS1                                         201.05    8   1608.40    402.10
+9G03L/W/SE, 48 LED SMD WW 3,5W E14                                                   15.71   20    314.20     78.55
+Uzidna izmjenična sklopka, bijela, 10A, IP44, na vijak                                2107    4   8428.00   2107.00
+Kutija podžbukna MO 7M, dubina 49mm 650°C 500V halogen free                          11.41   22    251.02     62.75
+Košulja ženska, dugih rukava, bijela -40-                                           646.59   26  16811.34   4202.83
+"Dvostruko svjetleće tipkalo bijelo/crno, oznake: ""I"" - ""0"""                     75.04   25   1876.00    469.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    119076.03
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,22 @@
+Račun br. 353525
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Bezhalogeni kabel s el. funkc. do90 Min. (N)HXCH4x4re/4E90                           10000   30 300000.00  75000.00
+Industrijska svj. Arktur LED 13500lm,132W,60°,6000K,RAL9006                           5252    9  47268.00  11817.00
+KVADRA 70 M LED 37W 840 5370lm L-1145mm,DALI,eloksirani alu.                       1064.44    7   7451.08   1862.77
+Spojnica za sabirnice 12x5mm do 20x10mm, 520A, duljina 55mm                          67.18   18   1209.24    302.31
+Postolje za NEW MYRA 1+2 svjetiljke, srebrna b.                                     218.46   19   4150.74   1037.69
+Ina-R/A2 LED 38W 4000K 2450lm, IP20, bijele boje                                     806.1   22  17734.20   4433.55
+Finožični PVC-om izol. vodič H05V-K (P/F) 0,75mm2, smeđi HPV                         10000   17 170000.00  42500.00
+IP FLEXLED ROLL 24V, 15W, 3000K, 3m, 60LED/m, IP55                                  374.92    8   2999.36    749.84
+NEW TRIA GU10 ROUND downlight, brušeni aluminij, max. 50W                           167.94   18   3022.92    755.73
+LED RETROFIT T8 36 18W 220-240V 190° 840 1500lm G13 30000h                           75.26   23   1730.98    432.75
+
+                                                                                                         ----------
+UKUPNO                                                                                                    555566.56
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,22 @@
+Račun br. 797228
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Signalni fleksibilni kabel YSLCY-JZ 4x16 sivi                                     11333.38   22 249334.36  62333.59
+Podna svjetiljka Decco Floor, E27, 20W, IP65, antracit                             1282.57   10  12825.70   3206.42
+LED Panel Round 300 20W 1330lm neutr. bb 4200K, bijele b.                           703.23   12   8438.76   2109.69
+NEPRO LINE zidna svj., 2x24W                                                        1495.8    4   5983.20   1495.80
+LED RL-MR16 50 7,2W 12V 36° 827 621lm 1430cd GU5.3 15000h                            88.78   30   2663.40    665.85
+Finožični PVC-om izolirani vodič H07V-K (P/F) 1,5mm2, crveni                        121.44   27   3278.88    819.72
+Strujni trafo, 250/5A, za kabel promjera do 21mm                                     83.36   30   2500.80    625.20
+EURO SPOT ECG 50, 60°crna,G12,50W,uklj. 3f.adapter                                  938.06   16  15008.96   3752.24
+Finožični PVC-om izol. vodič H05V-K (P/F) 0,5mm2,t-plavi HPV                         10000   11 110000.00  27500.00
+SAT kaskadna jedinica za 9 IN 12 OUT pasivna za HSATS5xxKA                          1521.2   11  16733.20   4183.30
+
+                                                                                                         ----------
+UKUPNO                                                                                                    426767.25
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,20 @@
+Račun br. 699510
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+NEW TRIA I QRB111 SQUARE, uklj. opruge, crne boje                                   268.47   26   6980.22   1745.06
+UFO BEAM zidna svj., QT14 40W G9, plave b.                                          625.15   26  16253.90   4063.48
+Svjetiljka Solo Line T5 1x28W,DALI, bijele boje                                     484.17   17   8230.89   2057.72
+Kompaktni prekidač snage tip VE, 4P, 50kA, 1250A/800A,red. N                      20832.93    6 124997.58  31249.40
+Sklopnik 3P |250kW (450A) [AC3] / 600A [AC1]|230V AC/DC| 2+2                       7974.04   15 119610.60  29902.65
+Gumeni savitljivi kabel NSSHöu-J 4x2,5, žuti                                         10000    8  80000.00  20000.00
+Kronos-Q/A2 LED 25W 4000K 1750lm, IP20, sive boje                                   659.61    7   4617.27   1154.32
+Meiva-Q/A2 LED 20W 3000K 1500lm, IP20, bijele boje                                  542.36   25  13559.00   3389.75
+
+                                                                                                         ----------
+UKUPNO                                                                                                    374249.47
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

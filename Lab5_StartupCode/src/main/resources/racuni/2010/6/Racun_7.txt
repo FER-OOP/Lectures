@@ -1,0 +1,32 @@
+Račun br. 810320
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Nadgradna downlight svj. ARM 294 1x26W ECG TC-TEL, bijela                           292.43   17   4971.31   1242.83
+Analizator mreže SD, 96x96                                                         1482.33   28  41505.24  10376.31
+Prespojni kabel RJ45/RJ11 ISDN, neoklopljeni, crni, 3.0m                               8.3   18    149.40     37.35
+XXL-Bodywarmer, podstavljen, vodoodbojan                                            460.23    7   3221.61    805.40
+Uzidni okvir s vratima - M3000, 4U-12                                               880.52   19  16729.88   4182.47
+LED FLOOD LIGHT,cr.b., 30W, LED bi.b., 120°                                        1871.23    7  13098.61   3274.65
+Valo-R/A2 LED 45W 3000K 2950lm, IP20, crne boje                                     795.63   15  11934.45   2983.61
+PlanoCentro LON, senzor prisutnosti, p/ž, stropni, srebrni                            2172    4   8688.00   2172.00
+D02 rastavna sklopka TYTAN RH1 za 60mm, 24-60V DC, nadzor                             4822   16  77152.00  19288.00
+Natrijeva žarulja HST 150W E40 SUPER 4 Year                                         127.36   24   3056.64    764.16
+Zaštitni prekidač, C karakteristika, 6A, 3-polni+N, 10kA                            200.66   12   2407.92    601.98
+Svjetleće tipkalo s plos.tipkom,sa LED 24VAC/DC,crveno,1N/C                          73.17   15   1097.55    274.39
+Zamjenjiva skala, 96x96mm, 80/160/5A AC                                               4399   27 118773.00  29693.25
+Sklopnik 3P |110kW (210A) [AC3] / 350A [AC1] | 230V AC/DC                          3918.96    9  35270.64   8817.66
+Otvoreni prekidač, 3P, 80kA, 2000A, fiksni,vod. str. priklj.                      37441.89   20 748837.81 187209.45
+Marra LED traka 6,6W/m 4000K 324lm/m, IP54                                            8.95   22    196.90     49.22
+SAT antena 85/80cm,alu,39,5dB,dvostr. pričv. monoblok,antr.                         836.61   15  12549.15   3137.29
+Mura-CL-III-R 9W GX53, 100-240V, IP54, aluminij                                     351.77   17   5980.09   1495.02
+UPS Dialog Dual 4000VA 2400W / Online                                             12821.76    1  12821.76   3205.44
+LED DOWNUNDER MINI, 1W, topla bijela LED, bijelo kućište                            312.23   25   7805.75   1951.44
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1126247.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

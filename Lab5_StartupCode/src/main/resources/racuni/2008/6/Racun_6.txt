@@ -1,0 +1,27 @@
+Račun br. 626511
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kabel LiYCY 2x0,5                                                                   434.14   12   5209.68   1302.42
+Mura-22-R 16W E27, 100-240V, IP54, aluminij                                         696.28    5   3481.40    870.35
+Vodotijesna svjetiljka DEVA ECO PC 1x58W CCG                                        254.11   29   7369.19   1842.30
+Priključna kutija, čelik, 200x300x80 (VxŠxD), IP66, RAL7035                         181.14   14   2535.96    633.99
+Optički prespojni kabel duplex, LC/SC, 50/125µm OM2, 1.0m                            63.55   17   1080.35    270.09
+Bezhal. kabel poboljšanih svoj.za sl. požara N2XH-O 1x35rm                           10000   27 270000.00  67500.00
+Marra LED traka 14,4W/m 2700K 840lm/m, dimabilna, IP68                               483.9    3   1451.70    362.92
+Set za povezivanje, za IL951…IP54 (spojnice i vijci)                                  4170   27 112590.00  28147.50
+Fleksibilni plosnati kabel za dizalice H07VVH6-F 8x1,5, crni                         10000    2  20000.00   5000.00
+Metalhalogena žarulja HIE 400W/N/783 E40 OS                                         424.45   29  12309.05   3077.26
+LED napajanje TC 13W/12V Slim, MM, IP20                                             175.78   13   2285.14    571.28
+Nosač RC senzora pokreta, inox efekt                                                166.49    8   1331.92    332.98
+Bela Plano, E27 26W IP20, krom sa crnim kabelom                                     447.74   30  13432.20   3358.05
+Dimer 75-1000W, umetak, R, memory funkcija                                          608.48   30  18254.40   4563.60
+Poliester zidni ormar MINIPOL, prozirna vrata, 500x400x200mm                       2072.99   27  55970.73  13992.68
+
+                                                                                                         ----------
+UKUPNO                                                                                                     527301.7
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

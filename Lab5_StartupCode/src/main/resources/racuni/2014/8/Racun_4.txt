@@ -1,0 +1,29 @@
+Račun br. 241198
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Finožični PVC-om izolirani vodič H05V-K (P/F) 0,75mm2,t-plav                         72.86    8    582.88    145.72
+Uvodnica PG13,5 (maticu M273105--- naručiti odvojeno)                                  3.8    8     30.40      7.60
+Kabel H03VV-F (PP/L) 4x0,75mm2, bijeli, 100m kolut                                  306.63   26   7972.38   1993.09
+Poliester zidni ormar MINIPOL, prozirna vrata, 400x300x200mm                       1491.92    3   4475.76   1118.94
+Elektronička sklopka za upravljanje roletama, umetak                                792.82   24  19027.68   4756.92
+Muriel-R 3x28W G9, 100-240V, IP44, krom                                             381.17   15   5717.55   1429.39
+HDMI 1.4 kabel, 2xHDMI19 tipA muški, pozlaćeni kontakti, 5m                          85.24   29   2471.96    617.99
+Energetski kabel 0,6/1kV PP00 (NYY-O)Z 10x1,5re crni                                 10000   10 100000.00  25000.00
+Kućni kom. razd.,3-redni,44xTOOL.,4x230V,ravna vrata,RAL9003                        840.95   16  13455.20   3363.80
+Bezhalogeni kabel s el. funkc. do90 Min. (N)HXH-O1x300rmE90                          10000   23 230000.00  57500.00
+AIXLIGHT R OFFICE T5, okr.,sr.b.,max.2xT5 39W+2xES111 75W                          2809.97    3   8429.91   2107.48
+Ugradna indirektna svj. VMRL RWB 2-28/54W ECG M625 perfor.                           859.6   23  19770.80   4942.70
+Terra-R/A1 LED 15W 3000K 850lm, IP67, nehrđajući čelik                             1988.99   20  39779.80   9944.95
+SEVEN-CIRCLE 150W HST E40 IP65 cestovna optika, crna                               2868.17    2   5736.34   1434.08
+Proširenje za USDD650-1000 240V 7Ah (uključuje baterije)                           7212.44   25 180311.00  45077.75
+KARDAMOD SURFACE okrugla ES111 DOUBLE stropna svj. 2xGU10,cb                       1307.91   17  22234.47   5558.62
+Ugradna downlight svjetiljka ERK 207 2-26 TC-DEL ECG bijela                         288.08   12   3456.96    864.24
+
+                                                                                                         ----------
+UKUPNO                                                                                                     663453.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

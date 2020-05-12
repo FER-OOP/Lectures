@@ -1,0 +1,26 @@
+Račun br. 247539
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+KNX Teretna sklopka HM,3x16A                                                       1463.55   16  23416.80   5854.20
+Punto-F MR16 Spot, GU5,3, 50W, IP20, 12V, aluminij                                   46.46    4    185.84     46.46
+Mura-WL-R 9W GX53, 100-240V, IP54, aluminij                                         298.38    5   1491.90    372.98
+Bimetalni relej za sklopnike vel. 00 | 0,22 - 0,32A                                 161.33   23   3710.59    927.65
+Varistor 127-240VAC / 150-250VDC, za sklopnike veličine 0                            35.49    9    319.41     79.85
+EASYLITE SPOT G12                                                                  1188.46   15  17826.90   4456.72
+T5 fluo cijev 24W High Output, 4000K                                                 62.51    2    125.02     31.25
+Maskirni razdjelnik 1 širina brojila/ 24 MV                                           4180   26 108680.00  27170.00
+7900C, Konektor  za 7910/AL, 7912/AL                                                 14.69    1     14.69      3.67
+Jamba-PL 20W, E27, IP54, hrđavo smeđe boje                                          450.78   28  12621.84   3155.46
+Podnožje visine 100mm za ormar 600x600 kpl                                          746.08    9   6714.72   1678.68
+Elektronički izvor napajanja (industrijski) 24VDC|0.75A|18W                         307.23    6   1843.38    460.85
+Ina-TR-R/A2 LED 12W 3000K 1100lm, dimabilna, 700mA, IP20, wh                        234.51   19   4455.69   1113.92
+Sigma-S/A2 LED 12W 6000K 824lm, IP54, sive boje                                     497.24   30  14917.20   3729.30
+
+                                                                                                         ----------
+UKUPNO                                                                                                    196323.97
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

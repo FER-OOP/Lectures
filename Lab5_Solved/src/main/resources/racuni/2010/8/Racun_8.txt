@@ -1,0 +1,32 @@
+Račun br. 1030436
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+KALOS ASL D-ulič.optika 20+10LED,4000K 70W,antracit, 4 kraka                       5171.55   12  62058.60  15514.65
+TRAIL-LIGHT, LED Ugradna svjetiljka, sa 4 bb LED                                    374.92   29  10872.68   2718.17
+NV podnožje 1P, vel.2|400A, montaža vijcima na sabirnicu                            399.77   21   8395.17   2098.79
+Podnožje, bočne stranice, par, za ormare DSS, D=800mm                               483.95    8   3871.60    967.90
+7916/AL, Aluminijski zidni profil 2m + PC opalni pokrov                             659.61    1    659.61    164.90
+Fluo cijev T8|T26 ECO 32W 865                                                        49.02   21   1029.42    257.36
+Osram elektronski transformator HTM 105 12V, 105VA                                  218.46   19   4150.74   1037.69
+Tel. rastavna letvica 2/10 s vijcima, za okruglu šipku                              379.26    2    758.52    189.63
+Slijepi bočni pokrov za rastavne sklopke vel. 00                                     41.13   27   1110.51    277.63
+Svjetleće tipkalo s povratom, plosnato, bez pokrovne leće                            32.52   15    487.80    121.95
+Ugradna downl. svj. ERM 201 1x18W CCG TC-D IP20, bijela                             177.32   21   3723.72    930.93
+LED RF WiFi kontroler MONO predajnik - 4 zone                                       836.68   26  21753.68   5438.42
+Spojnica motorke BES0 vel.0 i sklopnika vel.0 / za DC                                20.18    8    161.44     40.36
+"Optički prespojni panel 19"", 1U, uklj. 12 spojnica SC MM"                         764.43   10   7644.30   1911.08
+NV rastavna sklopka vel.1|250A, M10, nadzor osigur., 60mm                             4832   13  62816.00  15704.00
+Zaštitni prekidač, B karakteristika, 10A, 1-polni+N, 6kA                             54.22   26   1409.72    352.43
+Pokrov za 1xRJ45 Toolless, antracit                                                  12.97   30    389.10     97.28
+Spojnica za instalacijske cijevi KSR DN 50                                           32.83   30    984.90    246.23
+Mini web kamera, USB2.0, 800x600, mikrofon, 4xLED, držač                            129.99    7    909.93    227.48
+Predinstalirani inst. kab. cat.7, 2xkon. bloka, 2xzašt., 20m                        195.71   26   5088.46   1272.11
+
+                                                                                                         ----------
+UKUPNO                                                                                                    198275.89
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

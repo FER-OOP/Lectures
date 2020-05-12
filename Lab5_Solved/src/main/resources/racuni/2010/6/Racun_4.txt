@@ -1,0 +1,28 @@
+Račun br. 398992
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Poliester ormar,vrh zatv. dno otv.,2 vrata 1000x750x300(VŠD)                       4436.18   19  84287.42  21071.86
+ERIS 1x44W DIF PV4,LED DALI, 3450lm/840, M625, bijela b.                           1279.87   26  33276.62   8319.16
+"Opt. razdjelnik, 12 niti,ST,50/125µm OM3, izvlačivi,19"",1U"                       734.31   10   7343.10   1835.78
+89020/ELE, 20w HQI ELE prigušnica                                                    79.07   17   1344.19    336.05
+40003/G, ŠINA 3m, sive boje                                                         298.38   25   7459.50   1864.88
+3P sabirnica za tri motorne zaštitne sklopke veličine 00/0                           39.02   15    585.30    146.32
+BRICK Downunder E14, srebrna                                                        217.45    2    434.90    108.72
+LED-napajanje, 3VA, 700mA                                                           124.69   16   1995.04    498.76
+AIXLIGHT MOD FLAT II ES111, krom / mat crne b.                                      562.63   29  16316.27   4079.07
+Combi okvir podžbukni za kućni razdjelnik 1, RAL9003                                 70.49   16   1127.84    281.96
+Zaštitni prekidač za ugradnju ispred brojila, C 25A, 1-polni                        249.93   25   6248.25   1562.06
+D02 rastavna sklopka TYTAN TH1, 3P, s nadzorom osigurača                            773.86   24  18572.64   4643.16
+F/UTP kabel cat.5e, 4x2xAWG24/1, PE, vanjski, crni, kutija                          347.41   22   7643.02   1910.76
+Pocinčani ovjesni lanac 1m L-S KE                                                     5.58    6     33.48      8.37
+Ugradna downl.svj. KAIN LED 32W 4000K 2350lm 62°, Ral 9003                         1262.34   14  17672.76   4418.19
+N/PE sabirnica sa 12 rupa, 63A, duljine 124mm                                         4150   10  41500.00  10375.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    245840.36
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

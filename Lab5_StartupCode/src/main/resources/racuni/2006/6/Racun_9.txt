@@ -1,0 +1,32 @@
+Račun br. 339864
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+HDMI splitter, HDMI 1.3b, 1 izlaz na 4 uređaja                                     1146.92   11  12616.12   3154.03
+D01 rastavna sklopka TYTAN I, 1-polna, 16A, 50kA                                    121.96   26   3170.96    792.74
+LIGHT EYE 2 GU10 zidna i stropna svj., GU10, max. 2x50W,krom                        687.83   22  15132.26   3783.06
+Postolje za nazidne razdjelnike M2000 IP30, prednji dio, 1PB                         50.26   26   1306.76    326.69
+LS-FI (KZS), C/10A/30mA, 1P+N, Tip A, 10kA                                          418.89   29  12147.81   3036.95
+Poliester ormar,vrh zatv.dno otv.,2 vrata 1000x1000x300(VŠD)                       4949.94   20  98998.80  24749.70
+TOOLL. LINE spojnica RJ45-RJ45 oklopljena,kl. Ea 10GB (SFA)                          29.71   20    594.20    148.55
+Finožični PVC-om izol. vodič H07V-K (P/F) 16mm2, plavi HPV                           10000    6  60000.00  15000.00
+LED PAR16 35 DIM 3,1W 230V 36° 840 230lm 565cd GU10 25000h                           61.28   25   1532.00    383.00
+Adapter za montažu LAM na DIN nosač                                                   4.65    3     13.95      3.49
+Završna pločica za trokatnu stezaljku IK690002--, siva                                 2.6   18     46.80     11.70
+SERH ECO A2 L1 T5 3x24W EVG M625, bijela b.                                         441.05   21   9262.05   2315.51
+Punto-R/A1 LED 7W 3000K 513lm, dim., 700mA, IP20, bijele b.                         102.55   10   1025.50    256.38
+D02 rastavna sklopka ARROW S, 3-polna, 63A                                          290.57   19   5520.83   1380.21
+Natrijeva žarulja HSE 70W/E E27                                                       59.9    4    239.60     59.90
+Tipka sa simbolom ventilatora, svjetleća, bijela                                     26.74   16    427.84    106.96
+SXL ECO, vanj.reflektor, 2xE27, srebrne boje                                        562.36   17   9560.12   2390.03
+FRAME CURVE zidna ugradna svjetiljka LED tople bijele boje                          196.83   15   2952.45    738.11
+Teretna sklopka, 3P, 125A, VC1, bez ručice                                          464.65    8   3717.20    929.30
+Panik svjetiljka KE FLUO 8W, CPS,MIX-mod, univerzalna                              1217.83   16  19485.28   4871.32
+
+                                                                                                         ----------
+UKUPNO                                                                                                    257750.53
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

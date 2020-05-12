@@ -1,0 +1,21 @@
+Račun br. 1018779
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Paralelna spojnica (kratkospojnik) za 10 stezaljki IK600006-                         52.19   12    626.28    156.57
+Kompaktni prekidač snage tip A, 3P/160A/50kA, MC1                                  1579.03    1   1579.03    394.76
+Finožični PVC-om izolirani vodič H07V-K (P/F) 6mm2, sivi                             455.4   29  13206.60   3301.65
+Plafonjera ALICA Round TR 1x22W, CCG IP54, bijela                                   258.92   29   7508.68   1877.17
+Držač žaruljice sa ugrađenom LED, plavi, 24VAC/DC, vijč. st.                         24.39   20    487.80    121.95
+Grebenasta sklopka, 1-0-2/4P/100A, montaža na DIN nosač                            1785.08    3   5355.24   1338.81
+Svjetleće tipkalo s povratom, crveno 230V                                           115.67   12   1388.04    347.01
+Gumeni savitljivi kabel NSSHöu-J 3x95/50, žuti                                       10000   28 280000.00  70000.00
+T8 LED cijev, zakretna, 11W, 6000K, 900lm, 230V, 60cm                                69.78    5    348.90     87.22
+
+                                                                                                         ----------
+UKUPNO                                                                                                     310500.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

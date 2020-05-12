@@ -1,0 +1,31 @@
+Račun br. 197822
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+DAQ sigurnosna lampa ERT-LED 230V za CPS MIX mod, stropna                          1082.05    4   4328.20   1082.05
+LS-FI (KZS), C/16A/30mA, 1P+N, Tip A, 6kA, serija AMPARO                            183.12   23   4211.76   1052.94
+DELSIN LED, zidna i stropna svjetiljka, siva, sa 35 bb. LED                         259.69   13   3375.97    843.99
+Univer. opt.  kabel U-DQ(ZN)BH 8x9µm OS2, nm.                                       731.75   20  14635.00   3658.75
+EURO SPOT LED DISK 800,sa 3-faznim adapterom, bijeli                                875.55   12  10506.60   2626.65
+Teretna sklopka, 3P, 1250A, opcija: daljinski isklopbar                           12380.03   13 160940.39  40235.10
+Glenos završni pokrov za PROFILE 3030, bijele boje                                  105.76   17   1797.92    449.48
+Halogena žarulja QPAR 20 50W 10° E27                                                 49.33    8    394.64     98.66
+Prespojni kabel RJ45 cat.6 oklopljen,s pregibnicama,sivi,5m                          29.39    2     58.78     14.69
+EURO SPOT GU10 bijela,uklj. 3f.adapter                                              374.92    5   1874.60    468.65
+Stace-III-S LED 8W 3000K 450lm, IP54, sive boje                                      437.6   13   5688.80   1422.20
+Kalos 20 LED 48W 3965lm, 4000K ulič.opt. LT-M,IP66, antracit                       4054.63   18  72983.34  18245.83
+SLEEK G12 Spot, bijela,70W, uklj. 48° Reflektor, 3f Adapter                         813.03   16  13008.48   3252.12
+Linijska svjetiljka SOLO 2 T5 2x28W ECG, bijela                                     210.98   21   4430.58   1107.65
+Zaštitni prekidač AMPARO 4.5kA, C 20A, 1P+N, širine 1 modula                         41.95   10    419.50    104.88
+Cave-S LED 1,5W 6000K, IP54, sive boje                                              219.81    7   1538.67    384.67
+PE stezaljka sa 7 odvoda, izolirana                                                  11.71   10    117.10     29.27
+FN Zaštita od munje, DC isklop, 1000VDC, za 1MPPT                                  3433.69   23  78974.87  19743.72
+Signalna svjetiljka visoka, žuta                                                     43.06   23    990.38    247.60
+
+                                                                                                         ----------
+UKUPNO                                                                                                    380275.56
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

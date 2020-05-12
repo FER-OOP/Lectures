@@ -1,0 +1,20 @@
+Račun br. 598902
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Stubišni automat VOWA | 1-12 min., 16A                                              192.12   25   4803.00   1200.75
+Podnožje za HSTMSVL180, visina 100mm                                                986.76   30  29602.80   7400.70
+Tarifni prekidač s podešavanjem na 16, 20 i 25A, 3-polni                            303.37   30   9101.10   2275.27
+Izolirana utična stopica, 6.3, žuta, 4-6mm² (100 kom.)                              137.93   20   2758.60    689.65
+Lugno-R/A1 35W GU10 MR16, 100-240V, IP54, rusty                                     234.51   29   6800.79   1700.20
+Zaštitni prekidač, B karakteristika, 6A, 3-polni, 10kA                              113.04    5    565.20    141.30
+Modul za 3 dodatne color kamere, širine 4 modula                                   3929.43    5  19647.15   4911.79
+Ciri-M LED 20W 3000K, 1400lm, 80°, IP20, aluminij, bijele b.                        411.58   17   6996.86   1749.21
+
+                                                                                                         ----------
+UKUPNO                                                                                                      80275.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

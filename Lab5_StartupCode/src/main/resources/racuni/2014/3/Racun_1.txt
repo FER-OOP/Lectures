@@ -1,0 +1,32 @@
+Račun br. 1015139
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kalos 10 LED 24W 1985lm, 4000K ulič.opt. LT-L,IP66, antracit                       3753.05   28 105085.40  26271.35
+Završni pokrov za DOWNUNDER PROFIL, bijele boje, 2kom.                               31.25   20    625.00    156.25
+NEW TRIA 68 GU10 downlight, četvrt., mat bijela b., max. 50W                         187.2    6   1123.20    280.80
+TRIA II Downlight, aluminij, krom, MR16                                             115.26    8    922.08    230.52
+Fleksibilni priključni vodič, plavi 10mm², duljine 100mm                                 5   18     90.00     22.50
+FI-relej 0.1/0.3A, za strujni trafo W2-U, A(puls), S izvedba                       1101.28    9   9911.52   2477.88
+PATTA-F ugradna stropna svjetiljka 9W 3000K, 38°, okrugla,al                        531.37    4   2125.48    531.37
+Porter-Q LED 2x1W 3000K, IP54, sive boje                                            234.51    6   1407.06    351.76
+Anista Steel GU10 UP/DOWN zidna,GU10,max. 2x35W,nehrđ. čelik                        625.15   10   6251.50   1562.88
+MEDO 60 stropna svjetiljka, četvrt., bijele b., 4x T5 24W                          2184.14   21  45866.94  11466.73
+D02 rastavna pruga CORON R, 3P, 35A fiksno                                          328.51   14   4599.14   1149.79
+GU10 LED, 5W,bijele boje, 30°, nije dim.                                            155.78   25   3894.50    973.63
+Audio/video jedinica, color kamera, SBC za IKALL                                      4690    8  37520.00   9380.00
+Mini sklopnik 3P | 4kW [AC3] | 24V DC | + 1N/O (ugrađen)                            149.19   10   1491.90    372.98
+Ovjesna/podna svjetiljka Moonlight 450, E27 32W IP54 bijela                        1047.04    8   8376.32   2094.08
+Nadgradna svjetiljka SAP ECO T5 2x49W ECG, bijela                                   361.15   26   9389.90   2347.47
+Tipka za 2-struko (pozivno/odjavno) tipkalo, biserno bijela                           2104   14  29456.00   7364.00
+Bezhalogeni kabel HSLH-OZ 2x1FRNC sivi /vodiči crni                                  10000   16 160000.00  40000.00
+DOWNUNDER III zidna svjetiljka za R7s-žarulju 100W                                  745.42   15  11181.30   2795.32
+Zaštitni prekidač, C karakteristika, 10A, 1-polni+N, 6kA                             54.22   27   1463.94    365.99
+
+                                                                                                         ----------
+UKUPNO                                                                                                    440781.22
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

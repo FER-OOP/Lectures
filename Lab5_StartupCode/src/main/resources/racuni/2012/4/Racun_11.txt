@@ -1,0 +1,14 @@
+Račun br. 399898
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Držač bimetala serije LST, vel.0                                                     41.41    3    124.23     31.06
+Helios-Q/A1 50W GU5,3 MR16, 12V, IP20, bijele boje                                   59.64    3    178.92     44.73
+
+                                                                                                         ----------
+UKUPNO                                                                                                       303.15
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,22 @@
+Račun br. 677538
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+NYCY 3x6RE/6                                                                        3103.8    8  24830.40   6207.60
+Kabel za napajanje produžni IEC C13, crni, 3m                                        40.18    4    160.72     40.18
+PMMA pokrov MF ravni / prozirni 2m                                                   92.11   24   2210.64    552.66
+Pokrov za plosnatu tipku, zeleni                                                      5.69   13     73.97     18.49
+INDIGLA WING, 2x36 SMD LED, 15W, 3000K, IP54, bijele boje                             8570    3  25710.00   6427.50
+Robusno tipkalo sa crno-sivim kućištem,crveno, 1 N/O + 1 N/C                        249.55   10   2495.50    623.88
+ALPA CONE 100 samostojeća svjetiljka, srebrne boje                                  938.06    2   1876.12    469.03
+PlanoCentro 000, senzor prisutnosti, pomoćni, stropni , crni                       3165.44   24  75970.56  18992.64
+F-POL podna svj., okrugla, antracit, E27, max. 20W                                 1125.94   28  31526.32   7881.58
+Ulična svjetiljka Oyster 2 HST 150W SC2 230V                                       1650.27   28  46207.56  11551.89
+
+                                                                                                         ----------
+UKUPNO                                                                                                     211061.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

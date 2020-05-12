@@ -1,0 +1,22 @@
+Račun br. 394699
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zaštitni prekidač sa svojstvima rastavljača, C 25A, 4-polni                         934.61   30  28038.30   7009.57
+Pločica + nosač 30x50mm, natpis: ON                                                    8.7   28    243.60     60.90
+Mini-Lynx, 11W, 2700K, E27                                                           62.51   14    875.14    218.79
+Ted-II-R 2x26W G24q-3, 230V, IP20, brušeni krom                                      19.59    9    176.31     44.08
+Kabelski kanal 40X60 (VxŠ), 2m, perforirani, sivi, RAL7030                           31.86   13    414.18    103.54
+P/Ž inst. razdj. 3U-45,15-redni,495ŠM,2160x810x250mm(VxŠxD)                        6590.57   25 164764.25  41191.06
+HQI-TS Downlight, siva, 70W                                                         283.12    5   1415.60    353.90
+Talos-R LED 48W 6000K 3200lm, dimabilna, IP20, bijele boje                          928.09    9   8352.81   2088.20
+Samourezni vijci M5 (pak.=250 kom.)                                                  177.4    9   1596.60    399.15
+Lucy-WL-R 15W E27, 100-240V, IP44, nehrđajući čelik                                   59.3   15    889.50    222.38
+
+                                                                                                         ----------
+UKUPNO                                                                                                    206766.28
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

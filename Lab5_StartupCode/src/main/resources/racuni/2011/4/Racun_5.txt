@@ -1,0 +1,17 @@
+Račun br. 499712
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Solasto ugradna podna svj., GU10, četvrt. , nehrđajući čelik                        343.66    5   1718.30    429.58
+Ovjesna svjetiljka OFFICE ECO DIR PAR 2x28W ECG, siva                               488.98   27  13202.46   3300.61
+Pokrov 190x190x80mm prozirni - A-DH                                                 195.13   12   2341.56    585.39
+Bezhalogeni kabel s el. funkc. do90 Min. (N)HXH-O1x50rmE90                         6529.42   12  78353.04  19588.26
+EUTRAC Podes.-spoj, crne b.                                                         437.43    3   1312.29    328.07
+
+                                                                                                         ----------
+UKUPNO                                                                                                     96927.65
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

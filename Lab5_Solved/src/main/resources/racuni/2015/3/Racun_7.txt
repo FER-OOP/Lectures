@@ -1,0 +1,23 @@
+Račun br. 920177
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+A03VV-F 2x1mm2, bijeli, 50m kolut                                                    10000    9  90000.00  22500.00
+D02 rastavna sklopka CORON 2, 3-polna+N, 63A                                          4824   26 125424.00  31356.00
+NAUTILUS IP67,  vanj.reflektor, QR-CBC 51 35W G6,35                                 167.94   21   3526.74    881.68
+Bijela fascikla Schrack sa mehanizmom                                                27.34    6    164.04     41.01
+N/Ž inst. razdj. 1A-24, 8-redni,104 ŠM,1195x380x250mm                              2523.06   12  30276.72   7569.18
+AIXLIGHT KARDAFRAME 4 x ES111 75W GU10                                              1370.6   13  17817.80   4454.45
+Zaštitni prekidač AMPARO 6kA, C 20A, 3P+N                                            98.25    8    786.00    196.50
+Brtva za utičnice, za IP44                                                             7.5   15    112.50     28.13
+"Zasun, plavi, za plastične prednje ploče, ""Celanex"""                                1.7   28     47.60     11.90
+Serijski ormar AS, 1-vrata, 2000x600x400 (VxŠxD), RAL 7035                         3882.08    5  19410.40   4852.60
+Klizna matica M5 (100 kom.)                                                           4160   18  74880.00  18720.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     362445.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

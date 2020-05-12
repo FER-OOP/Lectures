@@ -1,0 +1,20 @@
+Račun br. 737950
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+DELF C PRO 500, bijela, 30 LED, DC 24V                                               224.2   28   6277.60   1569.40
+FI-blok 40A, 2-polni, 300mA, Tip A (Puls)                                           617.76   17  10501.92   2625.48
+AIXLIGHT PRO II FRAMELESS ugr.kuć.,uklj. ugradni kit, sb                            625.15    2   1250.30    312.58
+Cilindrični osigurač, 10x38, 25A, gG, 400V AC                                         3.82    9     34.38      8.60
+KVADRA R70M K4, X-spojnica sa opalnim pokrovom                                      251.32    8   2010.56    502.64
+Zaštitni prekidač, C karakteristika, 1A, 3-polni+N, 10kA                             328.4    1    328.40     82.10
+Kabel EYY-O (PP00) 4x50SM                                                            10000   15 150000.00  37500.00
+EURO SPOT LED SMALL, 9W COB LED, 3000K, 36°, bijele boje                                 0   18      0.00      0.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    170403.16
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

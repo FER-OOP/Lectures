@@ -1,0 +1,21 @@
+Račun br. 1035494
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Označne pločice '-', (pločica sa 100 oznaka)                                         15.17    6     91.02     22.76
+Stropni ovjes (kratki) za LINUX LIGHT, srebrne boje                                 124.52    3    373.56     93.39
+89090V, DRIVER 240v/DC 24v 0-100w                                                   364.61    3   1093.83    273.46
+Zaštitni prekidač AMPARO 6kA, B 6A, 1-polni                                          22.38   14    313.32     78.33
+Osigurač DC 80A - max48V, priključak M10                                             49.24   11    541.64    135.41
+Nosač natpisne pločice za IN022033                                                     2.6   20     52.00     13.00
+Okvir 7M line, srebrni                                                               61.27   19   1164.13    291.03
+Kompaktni prekidač snage tip A, 3P/250A/36kA,                                      1680.32   19  31926.08   7981.52
+Kabel EYY-O (PP00) 3x35SM                                                            10000   13 130000.00  32500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    165555.58
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

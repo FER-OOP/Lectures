@@ -1,0 +1,29 @@
+Račun br. 461754
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ploča za dimer, sa zakretnom tipkom, alu efekt                                        2103   13  27339.00   6834.75
+Adapter za montažu MC1 na DIN nosač                                                  77.89   18   1402.02    350.51
+Zaštitni prekidač, B karakteristika, 25A, 1-polni, 6kA                               22.99   19    436.81    109.20
+Repeater 5A/Kanal 60W@12V - 120W@24V                                                212.55   16   3400.80    850.20
+Bezhalogeni kabel s el. funkc. do90 Min. (N)HXH-J3x2,5reE90                        1836.78   11  20204.58   5051.15
+"Tipkalo s plosnatom tipkom, bijelo, natpis ""I"", s držačem"                        27.97    2     55.94     13.98
+"IBDN LINE 19"" prespojni panel. 24x, prazni, 1U, crni"                              343.4   26   8928.40   2232.10
+Tipkalo s povratom, zeleno, crni prsten                                              14.66   23    337.18     84.29
+89402D, Dvostruki pokrov za 89402/W                                                 102.55   30   3076.50    769.13
+Kabel EYY-J (PP00-Y) 4x1,5 RE                                                       597.08   13   7762.04   1940.51
+Zaštitni prekidač MB 15kA BT 80/3                                                   458.97   26  11933.22   2983.30
+Zaštitna mreža za svjetiljku CUB pocinčana 5mm                                     1345.84   28  37683.52   9420.88
+FIN POLE 100cm LED 2x9x1W 3000K UP & DOWN MAT STAKLO                               5622.59   24 134942.16  33735.54
+LED traka Flex 60 WW IP43 RA90+ 1050lm/m 13,5W/m L=5m 24VDC                        1089.05    4   4356.20   1089.05
+Magnet 18x6mm                                                                         25.8   19    490.20    122.55
+LED RETROFIT RL-T8 36 S 14W 230V 150° 840 2100lm G13 50000h                         156.05   22   3433.10    858.28
+Gwen-R 150W RX7s, 230V, IP20, brušeni krom                                           19.59   14    274.26     68.57
+
+                                                                                                         ----------
+UKUPNO                                                                                                     266055.9
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

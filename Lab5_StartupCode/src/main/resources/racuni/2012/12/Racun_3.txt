@@ -1,0 +1,21 @@
+Račun br. 932694
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ugradna svjetiljka SERH ECO T8 2x36W ECG M600, bijela                               356.34   22   7839.48   1959.87
+EURO SPOT ECG 70, 60°crna                                                           938.06   17  15947.02   3986.75
+Zamjenjiva skala, 48x48mm, 100/200/5A AC                                              4399   12  52788.00  13197.00
+KNX sučelje USB-KNX                                                                 1341.3    2   2682.60    670.65
+HAUPA Electronic set odvijača standard                                              140.59   20   2811.80    702.95
+LIGHT EYE 1 GU10, bijela/krom b., GU10, max. 50W                                    312.23   16   4995.68   1248.92
+Sklopnik vel.00 (za PLC) | AC3 5,5kW/400V | 17-30VDC | 1 N/O                        173.73   13   2258.49    564.62
+Standardni transformator 12V, 250VA                                                 500.12   18   9002.16   2250.54
+Kabel YSLYQY-JZ 3x 1,5 prozirni                                                      10000   13 130000.00  32500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    228325.23
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

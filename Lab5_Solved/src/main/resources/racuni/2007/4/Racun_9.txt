@@ -1,0 +1,18 @@
+Račun br. 163120
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Majica Store, ženska, kratkih rukava -large-                                        301.79   15   4526.85   1131.71
+Potporni izolator, 42x60mm, 2xM10, 6kN                                               35.28   28    987.84    246.96
+Razdjelnik uzidni, IP40, 1-redni, 12 modula, bijela vrata                           107.97   26   2807.22    701.80
+Transformator, 1-fazni | 400/230V | 100VA, IP00 + osig. sek.                        607.52   12   7290.24   1822.56
+Podnožje prema širini ASR/KSR ormara, 1200x200mm, AISI304                             4056    5  20280.00   5070.00
+Bill-R 2x26W G24q-3, 230V, IP20, bijele boje                                         39.36   20    787.20    196.80
+
+                                                                                                         ----------
+UKUPNO                                                                                                    36679.348
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,16 @@
+Račun br. 802084
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Tel. ormarić n/ž za 3 letvice 2/10, bez bravice                                     172.85   29   5012.65   1253.16
+Metalni držač releja za PT print podnožje PT78603 i PT78604                           1.54   13     20.02      5.01
+VAP SLIM 90 stupić, E27 max. 20W                                                   1127.47   18  20294.46   5073.61
+Tipka s natpisnim poljem za sklopke i tipkala, alu efekt                             50.63    6    303.78     75.94
+
+                                                                                                         ----------
+UKUPNO                                                                                                    25630.908
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

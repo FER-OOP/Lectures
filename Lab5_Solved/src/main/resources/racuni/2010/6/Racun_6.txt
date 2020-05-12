@@ -1,0 +1,14 @@
+Račun br. 944181
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kabel za gradilišta XYMM-J 3x1,5 K35 / 50m, žuti                                     10000   26 260000.00  65000.00
+Linijska svj. SIMPLE LINE LED 2012 62W 6400lm/830 ECG,bb                           1116.38    4   4465.52   1116.38
+
+                                                                                                         ----------
+UKUPNO                                                                                                    264465.53
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

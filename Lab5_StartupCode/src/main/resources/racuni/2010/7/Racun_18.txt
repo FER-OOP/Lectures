@@ -1,0 +1,23 @@
+Račun br. 326029
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Jednožični PVC-om izolirani vodič H05V-U (P) 1mm2, sivi                              10000   16 160000.00  40000.00
+Ugradna kutija za Planux/Smart monitor, za šuplje stijenke                            4690   15  70350.00  17587.50
+LED AR111, CREE XT-E LED, 15W, 30°, 2700K                                           316.63    6   1899.78    474.95
+PD-C360/24 DC24V Slave P/Ž stropni senzor pris. IR 360° Ø24m                       1430.59   15  21458.85   5364.71
+Svjetleće tipkalo s povratom, visoko, žuto                                           62.91    8    503.28    125.82
+SFL PAR36 ES111 SPOT, alum., GU10, max. 75W, uklj. adapter                          500.12   11   5501.32   1375.33
+Bočne stranice za Modul 2000/3S, dubine 102mm, tip 16/102                             4160    9  37440.00   9360.00
+Bezhal. kabel poboljšanih svoj.za sl. požara N2XH-O 1x25rm                           10000   20 200000.00  50000.00
+Napajanje 156W, 12V, IP67                                                           748.84    1    748.84    187.21
+Podnaponski isklopnik 400V AC, trenutno okidanje                                      4230    2   8460.00   2115.00
+Cilindrični osigurač, 8x31, 16A, gG, 400V AC                                          2.85   13     37.05      9.26
+
+                                                                                                         ----------
+UKUPNO                                                                                                    506399.12
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

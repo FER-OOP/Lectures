@@ -1,0 +1,16 @@
+Račun br. 284389
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Poliester zidni ormar MINIPOL, zatv. u 3 točke,500x400x200mm                       1375.57   11  15131.27   3782.82
+Nadgradna svjetiljka SAP IP54 T8 2x36W CCG, bijela                                  946.01    6   5676.06   1419.02
+Okvir 2/3M line, zeleni                                                               2434    5  12170.00   3042.50
+Završni poklopac LBS ravni zatvoreni                                                 50.26   10    502.60    125.65
+
+                                                                                                         ----------
+UKUPNO                                                                                                     33479.93
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

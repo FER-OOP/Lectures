@@ -1,0 +1,32 @@
+Račun br. 290183
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+L-SE spojnica odsijača RCP R2 za T8 2str. (2kom)                                     19.23   20    384.60     96.15
+Tunel stezaljke 2 x 50-240mm2, za 3-polne MC3                                       720.13    2   1440.26    360.07
+Montažna ploča 3PB, 670x70x13mm RAL 7035                                             77.69   15   1165.35    291.34
+Josh-S LED 1,6W, IP54, nehrđajući čelik                                             183.15   23   4212.45   1053.11
+Gumeni savitljivi kabel NSSHöu-J 4x25, žuti                                          10000   17 170000.00  42500.00
+PD-C360i/12 mini senzor prisutnosti IR, stropni, 360°, Ø12m                        1326.56   17  22551.52   5637.88
+Vodotijesna svjetiljka DEVA ECO PC 2x35W ECG                                        290.88    2    581.76    145.44
+NEW TRIA II QRB Downlight, četvrtasta, brušeni aluminij                             562.63    6   3375.78    843.95
+Lano Quadro 48W, M625, 4000K, 3800lm, IP20, 1200mA,bijele b.                        510.42   11   5614.62   1403.66
+KARDAMOD SURFACE ROUND QRB SINGLE, bijela G53, max.75W                             1125.94   26  29274.44   7318.61
+Pregled programa 2014                                                               129.02   19   2451.38    612.85
+Prirubnica za povezivanje WSM ormara, Tip D, 510x96 (ŠxV)                            96.96    3    290.88     72.72
+Pokrov za svjetleće tipkalo, crveni                                                   8.52    4     34.08      8.52
+Instal. umetak 4-45L komplet 15 IR prednja pl. plastika                            3600.42   26  93610.92  23402.73
+Zaštitni prekidač, D karakteristika, 2A, 2-polni, 10kA                              126.67    5    633.35    158.34
+Sklopnička komb. za promjenu smjera vel. 00 / 5,5kW /400V 3P                        311.52   15   4672.80   1168.20
+Signalni fleksibilni kabel YSLCY-OZ 7x 1,5 sivi                                      10000   15 150000.00  37500.00
+Montažna ploča za IP54, 2A-28                                                         4160   12  49920.00  12480.00
+FITU E27 ovjesna svj., E27, max. 60W, okrugla, crne boje                            249.72    5   1248.60    312.15
+Rastavna pruga vel.3, 185mm, priključne stezaljke lijevo,M12                          4823    4  19292.00   4823.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     560754.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

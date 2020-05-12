@@ -1,0 +1,33 @@
+Račun br. 359290
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Univer.opt.kabel A/I-DQ(ZN)BH 24x50/125µm OM2, LS0H-3, nm.                         1349.84    8  10798.72   2699.68
+"Stezaljka ""A"" 5P, dovod 25mm²|odvodi: 5x(2x16)"                                  115.43    9   1038.87    259.72
+Kabelski kanal, bez halogena, 50x37.5mm (VxŠ), 2m, RAL7035                           68.72   17   1168.24    292.06
+Nadgradna downlight svjetiljka ARM 294 2x13W CCG TC-D,bijela                        289.17   18   5205.06   1301.27
+NV rastavna pruga vel.00|160A, 3P, M8, 185mm, nadzor osig.                         1798.74    9  16188.66   4047.17
+"Opt. razdjelnik,12 niti, FC,50/125µm OM2, izvlačivi,19"",1U"                       1268.3   17  21561.10   5390.28
+Signalni fleksibilni kabel YSLY-JZ 12x2,5 sivi                                     3659.39   30 109781.70  27445.42
+Design IL ERT-LED 1x3W 3h 230V AC,  radijalno ,stropna                               900.6   12  10807.20   2701.80
+Relej snage, 2C/O, 8A, 110VDC serije RT, raster 5mm                                  36.06   19    685.14    171.29
+Prednja ploča, čelična, slijepa, 1B6                                                  4160    9  37440.00   9360.00
+Kabel LiYY 24x0,5                                                                    10000   16 160000.00  40000.00
+"Opt. razdjelnik, 24 niti,SC,50/125µm OM4, izvlačivi,19"",1U"                      1107.76    4   4431.04   1107.76
+Sidrena šina na nazidni okvir, 3 širine brojila                                     103.49    9    931.41    232.85
+GLENOS završni pokrov za profil 1107, sive boje                                      31.25   26    812.50    203.13
+Viličasta sabirnica 63A za 3xBE5+pom. kontakt, korak 45mm                            55.62   13    723.06    180.76
+L-SE pokrov R12 T5 1+2x35-80W prizmatični pokrov                                     51.19    1     51.19     12.80
+Proširenje prazno,bez punjača za USMLT, za 65 do 120Ah                             22023.1   30 660693.00 165173.25
+Podnožje, pred./zad. pokrov perf.+filter, Š=600 za DS,-Z,-SS                        124.89   28   3496.92    874.23
+Modul signalne svjetiljke, trajno zeleno svjetlo                                    173.16   24   4155.84   1038.96
+EUTRAC 3-fazna nadgradna šina duljine 1 metar, bijele boje                          224.04    3    672.12    168.03
+Zaštitni prekidač MB 18kA CL 25/3                                                   458.97   19   8720.43   2180.11
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1059362.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

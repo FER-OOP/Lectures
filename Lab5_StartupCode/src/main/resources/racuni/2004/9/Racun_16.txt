@@ -1,0 +1,21 @@
+Račun br. 440289
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+UPS Genio Flex Plus Dual 1500VA 1350W 4 Min.1/1f/Line-Int.                         4350.16   18  78302.88  19575.72
+Miš optički, bežični, mini, 1000/1600dpi,3 tipke,narančasti                         154.36   17   2624.12    656.03
+IP44 nosač, prazan za 2 modula (SFA)(SFB)                                            73.65   28   2062.20    515.55
+Stezaljka 2 pole                                                                     13.35   24    320.40     80.10
+Zaštitni prekidač sa svojstvima rastavljača, C 50A, 3-polni                         614.75   18  11065.50   2766.38
+STAKLENI PRSTEN za 10242AG, bistri                                                    7.94   19    150.86     37.72
+Kabel za mot. pogon sa Cu širmom 2YSLCY 4x25 EMV Stand.                            25515.9   13 331706.72  82926.68
+KALOS ASL D-ulič.optika 20+10LED,4000K 70W,antracit, 2 kraka                       4897.99   24 117551.77  29387.94
+Sklopka Not Aus 80A ugrad.na razdjelnik, 3-polna 1NO/1NC                            508.24    3   1524.72    381.18
+
+                                                                                                         ----------
+UKUPNO                                                                                                     545309.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

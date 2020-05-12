@@ -1,0 +1,18 @@
+Račun br. 644293
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Lano LED, 40W, 4000K, 3200lm, IP65, 120°, M625, bijele boje                         861.86   24  20684.64   5171.16
+Zaštitni prekidač serije BR, C 80A, 3-polni, 10kA                                   550.95   28  15426.60   3856.65
+Završni poklopac LBE 30/60 ravni zatvoreni sa vijcima                                 51.6   11    567.60    141.90
+Nadžbukni okvir PresenceLight                                                       140.63   10   1406.30    351.58
+Kabelska uvodnica s maticom, PG13.5, IP68                                             2.54   21     53.34     13.34
+CORDA ovjesna svjetiljka, bež                                                      1063.26    2   2126.52    531.63
+
+                                                                                                         ----------
+UKUPNO                                                                                                    40265.004
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

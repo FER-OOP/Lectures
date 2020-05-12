@@ -1,0 +1,25 @@
+Račun br. 593123
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Linijska svj. SERM-LL 112, završni profil,  2x35W, ECG, bb                          599.29   22  13184.38   3296.09
+AFDD, series Lisa, C 10 A, 2-pole, 30 mA, type AC, 10 kA                           1096.21    1   1096.21    274.05
+"19"" metalni prsten za okomito vođenje kabela 40x80"                                21.23    1     21.23      5.31
+Termoskupljajući bužir u kutiji (10m), crni, 4.8/2.4mm                                7.15   15    107.25     26.81
+Pila za zidne kutije, d=60mm DE, bez adaptera (GI63202106)                          170.12   22   3742.64    935.66
+Spojnica za sabirnice TTT-profil, 2500A, duljina 95mm                               324.92   13   4223.96   1055.99
+Mehanička blokada za motorni pogon, za MC4                                          3596.6   25  89915.00  22478.75
+Pokrov stezaljki za sklopnike veličine 6                                             52.06   26   1353.56    338.39
+Zaštitni prekidač, D karakteristika, 2A, 3-polni, 10kA                              198.55    5    992.75    248.19
+Kabel EYY-O (PP00) 4x16RM                                                            10000   23 230000.00  57500.00
+Kompaktni prekidač snage tip AE, 4P, 50kA, 400A+izvl. modul                        8722.55   13 113393.15  28348.29
+USB 3.0 A-B mikro kabel, A muški - mikro B muški, 1m, crni                           63.02   13    819.26    204.82
+Instalacijski sklopnik 25A | 4 N/C | 230V AC/DC, 2ŠM                                214.15    2    428.30    107.07
+
+                                                                                                         ----------
+UKUPNO                                                                                                    459277.72
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

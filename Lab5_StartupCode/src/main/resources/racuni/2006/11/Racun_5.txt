@@ -1,0 +1,26 @@
+Račun br. 990935
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Svjetleća oznaka, 250V AC, intenzivno svjetlo                                        21.88   19    415.72    103.93
+VAP 40 podna svjetiljka, okr., nehrđ.čelik, E27,max.23W,IP44                       2184.14   18  39314.52   9828.63
+Zatezač, set 2kom                                                                   124.52   18   2241.36    560.34
+Kućište za 6 tipkala serije MS, crno-sivo                                           123.25    5    616.25    154.06
+SET za PD101/PD102                                                                  115.26   18   2074.68    518.67
+Kabel za gradilišta XYMM-J 5x6 K35 / 500m, žuti                                      10000   30 300000.00  75000.00
+Fluokompaktna žarulja TC-D/E 13W, 4000K, 4-Pin, za ECG                               43.76   16    700.16    175.04
+Nazidni okvir s vratima za Modul 2000 | 4A-42 | dubina 400mm                       4923.66   22 108320.52  27080.13
+Ugradna svjetiljka SEO T8 2x18W ECG M625, bijela                                    329.19    7   2304.33    576.08
+RC član 127-240VAC / 150-250VDC, za sklopnike veličine 6-12                         100.58    8    804.64    201.16
+Stezaljka prizma ARROW BLUE veličina 1                                                4821    1   4821.00   1205.25
+Teretna sklopka, 3P, 1250A, opcija: daljinski isklopbar                           12380.03   26 321880.78  80470.20
+Zaštitni prekidač, C karakteristika, 6A, 2-polni, 6kA                                 78.3    3    234.90     58.72
+Završni poklopac TBU okrugli sa rupom                                                83.77   28   2345.56    586.39
+
+                                                                                                         ----------
+UKUPNO                                                                                                    786074.44
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

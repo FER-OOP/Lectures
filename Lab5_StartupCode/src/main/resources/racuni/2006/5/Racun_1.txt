@@ -1,0 +1,20 @@
+Račun br. 239007
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Rolo-II-WL-R 9W GX53, 100-240V, IP54, sive boje                                     132.63   27   3581.01    895.25
+Spojnica sa smolom MU6 Ø23-48mm                                                    1142.63   12  13711.56   3427.89
+NV osigurač vel. 00, 40A/400V AC                                                     19.35   28    541.80    135.45
+KNX napajanje 320mA                                                                1404.75    9  12642.75   3160.69
+Nadgradna ind. svjetiljka SBOX AB 1x400W,E40,HS/HI,MB, IP65                        1038.63    2   2077.26    519.32
+Pako-R/A1 LED 1W 6000K 60lm, dim., 350mA, IP20, bijele b.                            58.62    2    117.24     29.31
+Distribucijski blok, 4P, 80A, po polu: 1x16mm² | 8x10mm²                             125.2    7    876.40    219.10
+DASAR EXACT MR16, okrugla, podna ugradna svjetiljka                                 687.83   19  13068.77   3267.19
+
+                                                                                                         ----------
+UKUPNO                                                                                                     46616.79
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

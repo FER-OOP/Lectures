@@ -1,0 +1,24 @@
+Račun br. 319226
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kompaktni prekidač snage tip A, 4P, 150kA, 20A                                      3035.6   27  81961.20  20490.30
+Elektronska prigušnica ECG QTi 1x28/54/220-240                                      141.79    7    992.53    248.13
+Pregibnica zelena za oklopljene ili neoklop. RJ45 utikače                             0.98   17     16.66      4.16
+Finožični PVC-om izolirani vodič H05V-K (P/F) 1mm2, sivi                              93.1   30   2793.00    698.25
+"19"" profil. nosači, visine 42U za DS-, DSZ-, DSI i DW-ormare"                     115.23   20   2304.60    576.15
+Lloyd LED 0,72W, dimabilna, IP65                                                     66.23   24   1589.52    397.38
+IBDN LINE alat za nabacivanje za 110                                                358.73    3   1076.19    269.05
+Spojni mostić za N/PE sabirnice SI019260-- i SI019320--                               4834    2   9668.00   2417.00
+Uvodnica PG9 (maticu M273103--- naručiti odvojeno)                                    3.17   20     63.40     15.85
+Maskirni razdj. 2M-45, 15-redni, 315ŠM,2130x540x200mm(VxŠxD)                       3794.11   10  37941.10   9485.28
+Tipka s ručicom,plava,osvijetljena,3 polož.,50°,bez povrata                          44.43   20    888.60    222.15
+Reflektor Sigma Single 50W, 6000K, 3700lm, 120°,alu,antracit                        490.65   25  12266.25   3066.56
+
+                                                                                                         ----------
+UKUPNO                                                                                                    151561.05
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

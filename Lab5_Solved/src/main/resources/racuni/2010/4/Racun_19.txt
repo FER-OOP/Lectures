@@ -1,0 +1,16 @@
+Račun br. 424151
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+N/Ž kutija IP54 za senzor Serije C, bijela                                           87.99   16   1407.84    351.96
+FID sklopka 80-4-03/A (puls)                                                        735.09    2   1470.18    367.55
+Sklopnik 3P |132kW (260A) [AC3] / 450A [AC1] | 230V AC/DC                          5196.07   27 140293.89  35073.47
+Metalhalogena žarulja HIT-DE 400W/842 Fc2                                           357.43   15   5361.45   1340.36
+
+                                                                                                         ----------
+UKUPNO                                                                                                    148533.36
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

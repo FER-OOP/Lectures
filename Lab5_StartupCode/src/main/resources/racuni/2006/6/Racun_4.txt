@@ -1,0 +1,27 @@
+Račun br. 959698
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Plafonjera SLAVO 260 9W 750lm/830 ECG, bijela                                       338.84    3   1016.52    254.13
+GU5,3 grlo sa 40cm VDE kabela                                                          5.4   27    145.80     36.45
+Poluvodički motorni kontroler 200-400V/140A bez zaštite                               4701   27 126927.00  31731.75
+Zakretna tipka s ručicom / 2 položaja / bijela/60°/bez povr.                         59.18    3    177.54     44.39
+Uklopni sat, digitalni, godišnji program, ASTRO, 2 C/O, 3ŠM                        2031.62    8  16252.96   4063.24
+Gumeni savitljivi kabel NSSHöu-O 1x95, žuti                                          10000   24 240000.00  60000.00
+LED Downlight Siena 68,8W 500lm,36°,828,dimbilan, bijela b.                         334.65   13   4350.45   1087.61
+Bezhalogeni kabel s el. funkc. do30 Min. (N)HXH-J4x25rmE30                           10000   26 260000.00  65000.00
+D02 prilagodni uložak (prsten) Neozed 50A                                              2.6   13     33.80      8.45
+Kompaktni prekidač snage tip ME, 3P, 50kA, 220A+izvl. modul                        5888.02    6  35328.12   8832.03
+EURO CUBE Spot, 3000K, CRI90, 30°, uklj. 3F adapter, crne b.                       1433.11    6   8598.66   2149.67
+NEW TRIA LED DL SQUARE SET, mat bijele b., 6W, 2700K, 38°                           406.17   19   7717.23   1929.31
+AIXLIGHT PENDANT SYSTEM, spoj. okvira, srebrne boje                                 155.78   10   1557.80    389.45
+Motorna zaštitna sklopka, 3-polna | 4.0 - 6.3A                                      204.98   11   2254.78    563.70
+Vodič (N)YM-O (PGP) 4x16mm2, bez zašt. vodiča, svij.-sivi                            10000   27 270000.00  67500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     974360.7
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

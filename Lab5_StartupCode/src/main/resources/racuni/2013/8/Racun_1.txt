@@ -1,0 +1,16 @@
+Račun br. 292073
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+TOOLL. LINE spojnica RJ45-RJ45 oklopljena,kl. Ea 10GB (SFA)                          29.71    9    267.39     66.85
+LED napajanje RS 50W/24V, IP20                                                         251    4   1004.00    251.00
+"Krovna vent. jedinica, 2xventilator 35W i termostat, 19"", 4U"                     733.13   25  18328.25   4582.06
+Instal. umetak 4-12L komplet 4 IR prednja pl. plastika                             1087.11    3   3261.33    815.33
+
+                                                                                                         ----------
+UKUPNO                                                                                                     22860.97
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

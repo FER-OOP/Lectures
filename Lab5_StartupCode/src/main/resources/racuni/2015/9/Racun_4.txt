@@ -1,0 +1,24 @@
+Račun br. 954423
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+7306G/C/24, 5LED 7w GU10 CW 24 ° 100-240v                                            64.71   22   1423.62    355.90
+Kompaktni prekidač snage tip A, 4P/100A/50kA, MC1                                   1373.6   25  34340.00   8585.00
+FRAME BASIC LED Set, 6W, 3000K, bijele b.,uklj.napajanje                            249.72   23   5743.56   1435.89
+"Magis 3,5"" COLOR monitor, bijeli, za SBC/KIT sistem"                             2383.54    6  14301.24   3575.31
+Zamjenjiva skala ampermetra za montažu na DIN nosač, 150A/5A                         37.39    8    299.12     74.78
+Držač za instalacijsku cijev M63, sivi (pak.25 kom.)                                871.72   13  11332.36   2833.09
+3-fazni adapter, bij. uklj.nosač                                                      95.8    2    191.60     47.90
+Zaštitni prekidač serije BR, C 125A, 1-polni, 10kA                                    4910    6  29460.00   7365.00
+Transformator, 1-fazni | 400/230V | 1000VA, IP00                                   1204.04   11  13244.44   3311.11
+LED traka spoj. 10mm 2kom                                                               25    2     50.00     12.50
+DASAR 115 ADJUST, MR16, podna ugradna svjetiljka, četvrtasta                        687.83   15  10317.45   2579.36
+Višežični PVC-om izolirani vodič H07V-R (P/M) 10mm2, smeđi                           10000    6  60000.00  15000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     180703.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,19 @@
+Račun br. 523130
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Nadgradna svjetiljka SARH-AS T8 1x36W, ECG, bijela                                  367.51    4   1470.04    367.51
+Zaštitni prekidač MB 25kA BT 32/3                                                   476.17    6   2857.02    714.26
+Okrugla fluo cijev T16-R 60W/830 2G13                                                77.72   14   1088.08    272.02
+Svjetleće tipkalo s plos. tipkom, sa LED 230VAC,zeleno,1N/O                          95.61    4    382.44     95.61
+NEW TRIA GU10 ROUND Downlight, mat crne b., max. 50W                                 187.2    1    187.20     46.80
+Otvoreni prekidač, 3P, 80kA, 1250A, fiksni,vod. str. priklj.                      19371.89    8 154975.13  38743.78
+Pokrov IP20 MD180i/R, MD180i/T, MD/PD180, bijeli                                     87.04   25   2176.00    544.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     163135.9
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

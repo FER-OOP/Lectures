@@ -1,0 +1,31 @@
+Račun br. 419117
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Fluokompaktna žarulja TC-D 10W/830 G24D-1                                            27.45   17    466.65    116.66
+Prirubnica 410x96, za uvodnice: 18xM16, 5xM20, 4xM25, 2xM32                         104.83    5    524.15    131.04
+Bezhalogeni jednožilni vodič H07Z-K 4mm2, crni                                       10000    3  30000.00   7500.00
+LYNAH LED Double Spot, 2x10W,uklj.1f adapter, crne boje                            1683.51    4   6734.04   1683.51
+WALLYX GU10 zidna svj., antik-bronca                                                531.37   25  13284.25   3321.06
+Panik svjetiljka S1 230VAC sa bateri.Autonomija 3h ,stropna                            502   16   8032.00   2008.00
+Podnaponski isklopnik 220-250V DC/208-240V AC (rezervni)                           1510.38   30  45311.40  11327.85
+Elektronska prigušnica ECG QTi DALI 1x18/220-240 DALI dim                           312.75   11   3440.25    860.06
+Montažni nosač 3H                                                                    14.39   12    172.68     43.17
+Plafonjera ALICA Round OP 2x9W, CCG IP54, bijela                                    254.11   20   5082.20   1270.55
+Košulja muška, dugih rukava, bijela -40-                                            586.99   14   8217.86   2054.46
+Profil za montažu DIN nosača na dno, širina 400mm (2 kom.)                            4065   19  77235.00  19308.75
+Ugradna downl.svj. KAIN LED 32W 4000K 2350lm 62°, Ral 9003                         1262.34   12  15148.08   3787.02
+SQUARE POLE 30, E27 max. 20W, brušeni aluminij                                     1433.11   21  30095.31   7523.83
+Tuwa-II-R LED 3W 3000K, IP67, aluminij                                              477.31   24  11455.44   2863.86
+Rastavna sklopka za cilindrične os. 14x51mm, 3P+N/50A sa LED                        234.32   20   4686.40   1171.60
+Cinda-III-R 10W G4, 12V, IP20, krom                                                  37.67   15    565.05    141.26
+AIXLIGHT R2 OFFICE T5,zaobljena,sr.b.,2xT5 54W+2xES111 75W                         2997.68    6  17986.08   4496.52
+PLASTRA, CL-1, četvrt., bijeli gips, GU10, max. 35W                                 374.92   14   5248.88   1312.22
+
+                                                                                                         ----------
+UKUPNO                                                                                                    283685.72
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

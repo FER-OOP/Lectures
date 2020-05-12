@@ -1,0 +1,18 @@
+Račun br. 576482
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Montažna ploča za IP54, 5A-39                                                         4160   29 120640.00  30160.00
+Aluminijski pokrov MF 2m                                                             66.93   19   1271.67    317.92
+PHELIA ovjesna svjetiljka 4, crne boje                                              625.15    8   5001.20   1250.30
+Poliester kućište 540x360x171mm, IP66, RAL 7035 (sivo)                              917.62   17  15599.54   3899.89
+LED ES111 crne boje, 15W, 30°, 2700K                                                374.92   10   3749.20    937.30
+Kabel za gradilišta XYMM-J 4x1,5 K35 / 100m, žuti                                    10000    9  90000.00  22500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    236261.62
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

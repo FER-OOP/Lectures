@@ -1,0 +1,21 @@
+Račun br. 321520
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Poluvodički mot.kontroler 200-440V/170A sa bypass i zaštitom                          4701    1   4701.00   1175.25
+KARDAMOD SURFACE okrugla QRB DOUBLE stropna svj., crne b.                          1683.51   30  50505.30  12626.33
+Dimer 40-600W, podžbukni                                                            708.25   18  12748.50   3187.13
+PLASTRA BOX 1 stropna svj., četvr., bijela, GU10, max. 35W                          500.12   11   5501.32   1375.33
+Kompaktni prekidač snage tip A, 3P/400A/50kA                                       2426.41   12  29116.92   7279.23
+Meiva-Q/A1 LED 10W 3000K 825lm, IP20, aluminij                                      198.86   15   2982.90    745.72
+Telefonska priključnica MO 1M LT RJ11 8/4 ili 6/4, crna                              31.26   21    656.46    164.12
+Tipka s ručicom, 2 položaja, 60°, bez povrata                                        100.7   25   2517.50    629.38
+Nadgradna svjetiljka MERA OPAL 1x21W ECG, bijela                                    167.23   23   3846.29    961.57
+
+                                                                                                         ----------
+UKUPNO                                                                                                    112576.18
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

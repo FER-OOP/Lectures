@@ -1,0 +1,30 @@
+Račun br. 909705
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"Opt. razdjelnik, 8 niti,LC,50/125µm OM4, izvlačivi,19"",1U"                        648.72   17  11028.24   2757.06
+Bakrena sabirnica,TT profil, 1250A, duljina 3.6m,pokositrena                        3171.7    8  25373.60   6343.40
+Geluce LED PR1 Prisma 1x51W, DALI 3650lm/830, M625, 9003                           2328.12    5  11640.60   2910.15
+Set zaštitnih pokrova za stezaljke, za 3-polne MY1                                   60.72   25   1518.00    379.50
+Mehanička blokada do 22A, 230V                                                      383.87    4   1535.48    383.87
+Zaštita od blještanja za reflektor SET 400 crna                                       8514   14 119196.00  29799.00
+Svitak 230VAC LA3024-40                                                              98.13    8    785.04    196.26
+Solid Double LED 30W 4000K 2190lm, IP20                                             359.04    5   1795.20    448.80
+NEAT pano svj.,50cm produž. sa nosačem crne b.,srebrne b.                           500.12    9   4501.08   1125.27
+Ovjesna svjetiljka OFFICE ECO DIR/IND PAR 2x54W ECG, siva                           508.07    8   4064.56   1016.14
+"Samostojeći komunikacijski ormar DS 800x2105x600, 19"", 45U"                      3975.64   18  71561.52  17890.38
+Bočne stranice za Modul 2000, dubine 60mm, tip E-42/60                                4160    7  29120.00   7280.00
+Najam SAT mjernog uređaja, po danu                                                 1762.73   15  26440.95   6610.24
+NEW MYRA 1 svjetiljka, srebrna b., GU10, max. 4W, IP44                              625.15   15   9377.25   2344.31
+9G07B/C/E, LED 6w CW E27 mat 230v                                                    23.31   28    652.68    163.17
+D02 prilagodni uložak (prsten) Neozed 6A                                              2.51    8     20.08      5.02
+N/Ž okvir + vrata 5A-24 D=250mm str.ploča+zakr. ručica, IP54                       4342.72    7  30399.04   7599.76
+LYNAH LED ovjesna svjetiljka, 6x10W, 3000K, hexa, crne boje                        5000.37    7  35002.59   8750.65
+
+                                                                                                         ----------
+UKUPNO                                                                                                     384011.9
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

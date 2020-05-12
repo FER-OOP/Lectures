@@ -1,0 +1,14 @@
+Račun br. 666689
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Bezhal. kabel poboljšanih svoj.za sl. požara N2XH-J 3x10re                           10000   15 150000.00  37500.00
+Poliester kućište 380x190x100mm sivo - E1                                           351.75   24   8442.00   2110.50
+
+                                                                                                         ----------
+UKUPNO                                                                                                     158442.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

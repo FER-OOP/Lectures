@@ -1,0 +1,22 @@
+Račun br. 795379
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LED GU10 5W, 40°, 2700K                                                             155.78   23   3582.94    895.73
+Vremenski relej, multifunkcijski, 12-240VAC/DC, 1 C/O, 8A                           213.08   28   5966.24   1491.56
+Samoljepljivi držač vezica, 28 x 28mm/4.8mm (pak.=100 kom.)                          62.97   27   1700.19    425.05
+Kabel H05VV-F (PP/J) 5x1,5 mm2, crni, 50m                                            10000   11 110000.00  27500.00
+"Kontrol.bat. Bat-Logg ,CPS Maxi, 18 bat. od 65Ah-260Ah; 2,5m"                    14196.18   12 170354.16  42588.54
+LED Push dimer Mini Mono                                                            391.91   11   4311.01   1077.75
+Nadgradna svjetiljka SAO ECO T8 2x36W CCG, ind, bijela                              548.56   19  10422.64   2605.66
+Tris-II-R/A1 LED 3x1W 3000K 135lm,dim.,350mA,IP20,crne boje                          88.02   23   2024.46    506.12
+NYCY 5x6RE/6                                                                       4410.29   28 123488.13  30872.03
+Signalni fleksibilni kabel YSLY-JZ 5x25 sivi                                         10000   14 140000.00  35000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    571849.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

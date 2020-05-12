@@ -1,0 +1,19 @@
+Račun br. 739869
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Solid Double LED 7W 6000K 530lm, IP20                                               124.52    2    249.04     62.26
+Optički prespojni kabel duplex, LC/SC, 9/125µm OS2, 3.0m                             88.95    6    533.70    133.42
+LED napajanje 320W/13,34A, 24VDC IP67                                              1300.19   10  13001.90   3250.47
+Kanal tip BE-DIN, 75x37.5mm (VxŠ), duljina 2m, RAL 7030                              31.81   24    763.44    190.86
+Baterije 18 kom. longlife OGiV 12V/79Ah s kabelima za ožič.                        25443.4   15 381651.00  95412.75
+Ugradna svjetiljka SERS 2 T8 2x18W CCG M600, bijela                                 260.47    8   2083.76    520.94
+FI-blok 63A, 3-polni, 100mA, Tip A (Puls)                                           978.52    4   3914.08    978.52
+
+                                                                                                         ----------
+UKUPNO                                                                                                    402196.94
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

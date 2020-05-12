@@ -1,0 +1,29 @@
+Račun br. 1069388
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Linijska svj. SERM-LF 112, početni profil,  1x49W, ECG, bb                          570.43   27  15401.61   3850.40
+Samostojeći ormar, 1-vrata, 1600x800x400 (VxŠxD), RAL 7035                          3556.6   11  39122.60   9780.65
+LED G9 žarulja, tip SMD LED, 2W, 3000K, 150°                                        124.52   15   1867.80    466.95
+Modul za 4 kamere, RJ45, H.264 kompatibilan, VIP sustav                            2299.88    2   4599.76   1149.94
+N/Ž okvir + vrata 5A-33 D=250mm str.ploča+zakr. ručica, IP54                       4888.54   14  68439.56  17109.89
+Ugradna svj. SELENA LONG LED 1200x300 ED 3850lm/840 MAT,bb                          954.77   11  10502.47   2625.62
+Sklopnik 3P |110kW (210A) [AC3] / 350A [AC1] | 230V AC/DC                          3918.96   24  94055.04  23513.76
+Linijska svj. SERH-LT 112, srednji profil,  1x35W, ECG, bb                          557.71   17   9481.07   2370.27
+Prespojni kabel RJ45 cat.5e oklopljen, PVC, zeleni, 10.0m                            42.63    4    170.52     42.63
+Minijaturni relej, 2C/O, 12A, 230VAC serije PT                                       41.79   23    961.17    240.29
+Zaštitni prekidač AMPARO 6kA, B 6A, 3-polni                                          87.16    8    697.28    174.32
+EURO CUBE Spot, 4000K, CRI90, 30°, uklj. 3F adapter, crne b.                       1433.11   13  18630.43   4657.61
+Kabel H03VV-F (PP/L) 2x0,75mm2, crni, 50m kolut                                      10000   14 140000.00  35000.00
+Aluminijski montažni nosač 1H/C                                                      21.05   15    315.75     78.94
+Kabel LiYCY-TP 5x2x0,25                                                             979.61   16  15673.76   3918.44
+Ina-R/A1 LED 10W 3000K 825lm, IP20, aluminij                                        263.91   14   3694.74    923.68
+Sigurnosna svjetiljka DLQ ERT-LED1,5W,CPS,kvadratna,ugradna                         978.73   20  19574.60   4893.65
+
+                                                                                                         ----------
+UKUPNO                                                                                                    443188.16
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

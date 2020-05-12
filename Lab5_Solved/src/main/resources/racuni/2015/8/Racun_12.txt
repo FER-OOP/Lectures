@@ -1,0 +1,18 @@
+Račun br. 976507
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zaštitni prekidač AMPARO 4.5kA, C 6A, 1P+N, širine 1 modula                          41.95    4    167.80     41.95
+Instal. umetak 2-33K komplet 11 IR prednja pl. čelik                               1869.39   25  46734.75  11683.69
+Savitljiva cijev (srednje), M16, 750N, kolut 50m, siva                              298.55   10   2985.50    746.38
+Aaron-Q 32/42W G24q-4, 230V, IP20, sive boje                                         37.67   19    715.73    178.93
+ENOLA_B UP-DOWN zidna svj., bb, GU10, max. 50W                                      625.15   25  15628.75   3907.19
+Višežični PVC-om izolirani vodič H07V-R (P/M) 10mm2, plavi                           10000    2  20000.00   5000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     86232.53
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

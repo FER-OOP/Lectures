@@ -1,0 +1,32 @@
+Račun br. 945019
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Sklopnik vel. 3|30kW (65A) [AC-3]|2 N/O + 2 N/C|230VAC, 50Hz                        801.39   25  20034.75   5008.69
+Podnožje za PT releje, 4 C/O, 6A                                                     31.14   16    498.24    124.56
+Koaksijalni konektor F-utikač Quick, S4H, pak. 10kom.                                32.19   16    515.04    128.76
+Zaštitni prekidač, C karakteristika, 63A, 1-polni+N, 6kA                            149.18   19   2834.42    708.60
+Kapica za svjetiljku, bez pokrova                                                    18.11   18    325.98     81.50
+Gljivasto tipkalo, crveno, fi=40mm, 1 N/C, deblokada zakr.                           87.74    3    263.22     65.81
+Ulična svj. RUBINO LED 28W 3050lm/757 ECG IP66, klasa II,sb                        2163.57    5  10817.85   2704.46
+Otvoreni prekidač, 3P, 80kA, 2500A, fiksni, prednje priklj.                       52595.28   16 841524.50 210381.13
+Odvodnik prenapona PHOTEC. KLASA II (C) 1000VDC, In 20kA + P                        892.74   17  15176.58   3794.15
+Zaštitni prekidač MB 15kA BT 20/4                                                   458.97   10   4589.70   1147.43
+Baterija RPOWER OGiV 12/12Ah, longlife: 10-12 god.                                  261.82    6   1570.92    392.73
+Dingo Medium LED 30W, 3000K, 2000lm, dim., bijela                                   563.48   18  10142.64   2535.66
+BILAS Single Spot 15W, 2700K, 60°, okrugla, crne boje                              1558.31   21  32724.51   8181.13
+Podesivi stropni ovjes za EASYTEC II                                                155.78   14   2180.92    545.23
+RUSTY PATHLIGHT ras.stupić, 9W G53,hrđavi čelik                                    1433.11   19  27229.09   6807.27
+Nadgradna downl. svjetiljka ARM 291 1x26W TC-TEL IP20 bijela                        286.07    3    858.21    214.55
+ARTE 300 Trafo, krom                                                               1746.03    1   1746.03    436.51
+Batt.box bez punj. za USSP240V +priprema za 2x20x9Ah                               4404.62   13  57260.06  14315.02
+Bezhalogeni kabel s el. funkc. do30 Min. (N)HXH-J4x4reE30                            10000   22 220000.00  55000.00
+Odcjepnik za SB2 sisteme                                                            104.96   17   1784.32    446.08
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1252076.9
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,16 @@
+Račun br. 794439
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Lumo Round LED Downlight, 24W, 4000K, 1550lm, IP44, bijela                          318.15    3    954.45    238.61
+LED Test-modul 12-30V AC/DC                                                          56.44   14    790.16    197.54
+Kabel LiYCY 1x0,5                                                                    10000   25 250000.00  62500.00
+COLOR-KIT, IKALL METAL/ICONA, SLAVE Gateway, VIP, 1 obitelj                       15598.61   14 218380.55  54595.14
+
+                                                                                                         ----------
+UKUPNO                                                                                                    470125.16
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

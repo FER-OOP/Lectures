@@ -1,0 +1,30 @@
+Račun br. 1002898
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Bezhalogeni kabel s el. funkc. do30 Min. (N)HXH-O1x70rmE30                           10000   23 230000.00  57500.00
+Reflektor Sigma Simple LED, 10W, RGB, podesiv, siva                                 397.73    3   1193.19    298.30
+Zaštitni prekidač, C karakteristika, 50A, 1-polni, 10kA                               51.3    2    102.60     25.65
+Zakretna tipka / 40° / sa povratom / oznaka “I-0”                                     61.1    6    366.60     91.65
+TENORA WL-2 zidna svjetiljka sa 2 zgloba, crne boje                                1250.97   14  17513.58   4378.40
+Sklopnik vel. 00 | 4kW (9A) [AC-3] | 230VAC, 50/60Hz |1 N/O                         107.32   22   2361.04    590.26
+Prednja ploča, čelična, slijepa, 4B9                                                  4160   11  45760.00  11440.00
+Prekidač,bežično upravljiv sa 6 memorijskih adresa,max.1000W                        218.46   15   3276.90    819.23
+Svjetleće tipkalo s povratom, plosnato, bez pokrovne leće                            32.52   27    878.04    219.51
+FORCHINI M, PD-1, 50cm, okr., crno/zlatne boje, E27, max.40W                        1495.8    6   8974.80   2243.70
+Panik svjetiljka RM LED 3W, CPS sustav, MIX mod, univerzal.                        1825.04    2   3650.08    912.52
+Označne pločice 1-50 (pločica sa 2 x od 1-50)                                        16.83   13    218.79     54.70
+Potporni izolator, 35x30mm, 2xM6, 4.5kN                                              12.11   23    278.53     69.63
+Kompaktni prekidač snage tip A, 3P, 150kA, 125A                                    2053.48   29  59550.92  14887.73
+Kopča, žuta, za LED prespojne kabele, 100 kom.                                       90.88   30   2726.40    681.60
+GLENOS četvrtasti Profile 3030, 3m, srebrne boje                                    656.24    7   4593.68   1148.42
+3-fazni adapter, bij. uklj.nosač                                                      95.8    7    670.60    167.65
+7350G/GR, 50w GU10, 220v-240v, zelene boje                                            6.58   16    105.28     26.32
+
+                                                                                                         ----------
+UKUPNO                                                                                                    382221.03
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

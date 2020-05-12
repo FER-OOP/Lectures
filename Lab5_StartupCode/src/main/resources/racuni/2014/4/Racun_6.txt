@@ -1,0 +1,22 @@
+Račun br. 238930
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Set nasadnika za ključ 33 kom.                                                        2303   20  46060.00  11515.00
+Signalni fleksibilni kabel YSLCY-OZ 12x 1,5 sivi                                     10000   11 110000.00  27500.00
+Modularna slijepa ploča za AS/KS ormare, 800x100mm, RAL 7035                         84.01   11    924.11    231.03
+RUSTY SQUARE šiljak                                                                 218.46   15   3276.90    819.23
+Prespojni kabel RJ45 cat.5e oklopljen, PVC, žuti, 5.0m                               22.64   24    543.36    135.84
+Pokrov za zaštitu od dodira, za adapter SI327800--                                    4833   26 125658.00  31414.50
+Prednja ploča za termostat EL176251, biserno bijela                                  77.07   14   1078.98    269.74
+Produžni kabel za 700mA napajanja, 1m                                                 37.5   12    450.00    112.50
+Reflektor za Gimble G12, 70°                                                         50.01    8    400.08    100.02
+KALU 3 zidna/stropna svjetiljka,mat crne b.,3xQRB111,max.50W                        1370.6   21  28782.60   7195.65
+
+                                                                                                         ----------
+UKUPNO                                                                                                    317174.03
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

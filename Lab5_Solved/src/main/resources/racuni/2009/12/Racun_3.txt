@@ -1,0 +1,15 @@
+Račun br. 1094727
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Fluokompaktna žarulja TC-Tel 26W 840 Gx24Q-3                                         28.07   12    336.84     84.21
+"Opt. razdjelnik, 12 niti, LC 50/125µm OM4, izvlačivi,19"",1U"                     1422.85    5   7114.25   1778.56
+OUT 65 LED DL okrugli Set, 9W, 3000K, 38°, crne boje                                437.43    5   2187.15    546.79
+
+                                                                                                         ----------
+UKUPNO                                                                                                      9638.24
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

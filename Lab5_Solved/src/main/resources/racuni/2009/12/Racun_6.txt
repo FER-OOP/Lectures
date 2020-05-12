@@ -1,0 +1,32 @@
+Račun br. 830628
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Dusa-I-R LED 10x0,2W, dimabilna, IP66, nehrđajući čelik                            1060.73   25  26518.25   6629.56
+Motorna zaštitna sklopka, 2-polna | 4.0 - 6.3A                                      128.78   28   3605.84    901.46
+Kabel H05VV-F (PP/J) 7x2,5mm2, svijetlo-sivi, 500m                                   10000   18 180000.00  45000.00
+Zaštitni prekidač, B karakteristika, 6A, 3-polni+N, 10kA                            202.05   12   2424.60    606.15
+AIXLIGHT R OFFICE T5, okr.,bi.b., max.2xT5 54W+2xES111 75W                         2997.68    3   8993.04   2248.26
+Pokrov za signalnu lampicu, plosnati, zeleni                                          5.93   28    166.04     41.51
+RETROSIX QRB 1, crne b.                                                             625.15   22  13753.30   3438.33
+FN-Light-halogena žarulja, R7s, 118mm, 100W                                          19.26   29    558.54    139.63
+Ormar plast.1000x1250x312,krov protiv kiše,dno zat.,2 vrata                           4142    3  12426.00   3106.50
+Mario-CL-Q LED 6W 3000K 440lm, IP54, bijele boje                                    344.67   22   7582.74   1895.69
+FID sklopka 80-2-003/AC, 10kA                                                       414.98    2    829.96    207.49
+Panik svjetiljka LED 7M 1.5W 6h NiMh                                                635.41   17  10801.97   2700.49
+TERANG zidna i stropna svj., ovalna, antracit,8W LED, 3000K                         374.92    8   2999.36    749.84
+Kompenzacija  LSK 7% 75/12,5kvar 600x1250x300mm zidni ormar                       25989.26   26 675720.75 168930.19
+Trafo za dodatni monitor 230V / 20VDC, 15VA, širine 5 modula                        512.64   17   8714.88   2178.72
+NEW TRIA 68 GU10 downlight, četvrt., brušeni alum., max. 50W                        163.04   30   4891.20   1222.80
+Telefonski rastavni utikač za 1 paricu, crveni                                        4.45    2      8.90      2.22
+7307G/C, 7w GU10 CW                                                                   5.74    5     28.70      7.18
+Fluo cijev T5|T16 24W/840 G5                                                         18.46   12    221.52     55.38
+MYRA STRAIGHT pano-svjetiljka, antracit                                             813.03   28  22764.84   5691.21
+
+                                                                                                         ----------
+UKUPNO                                                                                                     983010.3
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

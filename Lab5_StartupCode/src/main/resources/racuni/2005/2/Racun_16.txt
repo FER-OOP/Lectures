@@ -1,0 +1,16 @@
+Račun br. 903041
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Mikro sklopnik | 2.2kW (5A) [AC3] | 24V AC | 3NO + 1NO                               81.13    1     81.13     20.28
+BK koaks. presp. kabel IEC-m/IEC-ž,ravni,kl.A,bijeli,2.5m                             17.9    5     89.50     22.38
+Ciri-M LED 20W 3000K, 1400lm, 80°, IP20, aluminij, bijele b.                        411.58    5   2057.90    514.47
+Krović za zaštitu od kiše 750x300                                                   491.21    2    982.42    245.60
+
+                                                                                                         ----------
+UKUPNO                                                                                                    3210.9497
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

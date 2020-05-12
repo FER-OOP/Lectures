@@ -1,0 +1,31 @@
+Račun br. 872317
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ispravljač, 1-fazni | 230-400/24VDC | 11A                                          1118.72    7   7831.04   1957.76
+Svjetiljka TUSLA MS HF LED 10,5 270lm 3000K,360°,IP20,bijela                        423.52   22   9317.44   2329.36
+DIABO SPOT, srebrne boje, GU10, max. 35W, 1-f adapter                               437.43   28  12248.04   3062.01
+Punto-A MR16 Spot, GU5,3, 50W, IP20, 12V, crna                                       23.82    3     71.46     17.86
+Ugradna svjetiljka SERH ECO A5 L1 T5 4x14W ECG M600, bijela                         428.17   15   6422.55   1605.64
+Proširenje sa accu i punjačem za USMLT 480V / 40 x 40 Ah                          51772.67   17 880135.44 220033.86
+SAT gumena uvodnica za stupa/crijep,za stup 38-60mm, crna                            21.73   27    586.71    146.68
+Kompaktni prekidač snage tip AE, 4P, 50kA, 1250A                                  22719.07    1  22719.07   5679.77
+DC zaštitni prekidač, C 20A, 1-polni, 10kA                                           67.64   10    676.40    169.10
+LINUX LIGHT šina, 2 metra, uklj. 2 zavr.pok., srebrne boje                          312.23    5   1561.15    390.29
+DisplayPort kabel, DP20 muški/HDMI19, 5m                                             229.3    1    229.30     57.33
+Tenora CL-1 stropna svjetiljka, E27, 3x23W, bijele boje                            1000.75   11  11008.25   2752.06
+P/Ž media razdjelnik, MV... 4-redni, 12+2 modula, viši okvir                        773.38   13  10053.94   2513.49
+Kliješta za krimpanje 0,75-16                                                         2303   30  69090.00  17272.50
+Montažna ploča za IP54, 3A-42                                                       877.56   26  22816.56   5704.14
+Bezhalogeni kabel s el. funkc. do90 Min. (N)HXCH4x50rm/25E90                         10000   22 220000.00  55000.00
+Pokrov stezaljki za sklopnike veličine 6                                             52.06   11    572.66    143.17
+Podstanica procesorom za Multi-Control za 12 DCM E30                              27401.86   26 712448.38 178112.09
+WAVE PENDANT ovjesna svjetiljka, 9W, 3000K,sa rozetom,mesing                       1808.71   18  32556.78   8139.19
+
+                                                                                                         ----------
+UKUPNO                                                                                                    2020345.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

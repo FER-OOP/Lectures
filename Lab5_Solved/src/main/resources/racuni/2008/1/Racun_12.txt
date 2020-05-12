@@ -1,0 +1,29 @@
+Račun br. 274544
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kompaktni prekidač snage tip A, 3P, 150kA, 63A                                     1302.08   16  20833.28   5208.32
+Nadgradna kutija IP44 MD180i/R,MD180i/T,MD/PD180 bijela                             259.44   30   7783.20   1945.80
+Jednožični PVC-om izolirani vodič H07V-U (P) 1,5mm2, smeđi                          114.35    2    228.70     57.17
+Nosač za montažu u gips stropove za svjetiljku SERM/H (1kom)                          8.84   18    159.12     39.78
+Kabel H05VV-F (PP/J) 3x2,5mm2, svijetlo-sivi, 50m                                    10000   27 270000.00  67500.00
+KNX binarni ulaz 2x8                                                               2261.88   19  42975.72  10743.93
+LED RF WiFi sučelje                                                                 836.68   22  18406.96   4601.74
+LED RF kontroler RGB Set (prijemnik + predajnik)                                    676.39   14   9469.46   2367.36
+"19"" fiksna polica do maks. 80kg, d=450mm, 1U, RAL7035"                             153.4   25   3835.00    958.75
+Nadžbukni okvir compact                                                             140.63    1    140.63     35.16
+Grebenasta sklopka u kućištu (crveno/žuta), 0-1/3P/80A, IP65                        753.89    1    753.89    188.47
+Motorna zaštitna sklopka, 3-polna | 45.0 - 63.0A, vel.S3                            731.67   15  10975.05   2743.76
+Pinta-Q/A1 50W GU10 MR16, 230V, IP20, brušeni krom                                   25.34   26    658.84    164.71
+Ugradna svjetiljka SE-ID PAR MAT V2 2x24W, T5,ECG, bijela                           559.26   12   6711.12   1677.78
+Shelf Strip napajanje i konektor                                                     14.69   24    352.56     88.14
+Bezhalogeni jednožilni vodič H07Z-K 1mm2, sivi                                       10000   23 230000.00  57500.00
+Motorna zaštitna sklopka, 3-polna | 0.28 - 0.40A, vel.S0                            206.11   16   3297.76    824.44
+
+                                                                                                         ----------
+UKUPNO                                                                                                     626581.3
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,21 @@
+Račun br. 177077
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+D02 rastavna sklopka TYTAN T, 3-polna + N, 63A                                      470.76    3   1412.28    353.07
+Levante-M 44 LED 104W 9940lm 4000K ulič.op.LT-M,IP66,RAL9006                       5248.66   24 125967.84  31491.96
+L-SE umetak DM 1.2 ASYM.DOUBLE 1x32W LED 1750lm/840                                 1708.2   14  23914.80   5978.70
+DC pomoćni sklopnik | 4A [AC15] | 24V DC | 2N/O + 2N/C                              298.23    9   2684.07    671.02
+LED traka Flexstrip 48 plava IP43 165lm/m 10W/m L=5m 24VDC                         1130.94    7   7916.58   1979.14
+Zaštitni prekidač, B karakteristika, 63A, 1-polni+N, 10kA                           334.98    7   2344.86    586.22
+"Opt. razdjelnik,24 niti, ST,50/125µm OM3, izvlačivi,19"",1U"                      1504.82    5   7524.10   1881.02
+Instalacijski sklopnik 20A | 2 N/C | 24V AC, uski (1ŠM)                             139.02    1    139.02     34.76
+Spojnica za cijev KSX80/80                                                           31.95   16    511.20    127.80
+
+                                                                                                         ----------
+UKUPNO                                                                                                    172414.73
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

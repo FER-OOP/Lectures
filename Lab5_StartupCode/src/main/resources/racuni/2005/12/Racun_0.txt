@@ -1,0 +1,18 @@
+Račun br. 411312
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LED panel okrugli 60, 4000K, bijele boje                                           1433.11    9  12897.99   3224.50
+KALOS ASL ulič.optika 10LED,4000K 24W,antracit, 4 kraka                            3987.61   28 111653.09  27913.27
+PEYOTE 17cm 2x90° 8x1W LED, 40° 3000K antracit                                     2580.53    8  20644.24   5161.06
+Elektronički izvor napajanja (industrijski) 24VDC|2.5A|60W                          370.46   25   9261.50   2315.38
+Linda LED HS 1x30W, 4000K, 4493lm                                                  1123.73    5   5618.65   1404.66
+Mikro SIM SDHC kartica                                                              169.94   16   2719.04    679.76
+
+                                                                                                         ----------
+UKUPNO                                                                                                    162794.52
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

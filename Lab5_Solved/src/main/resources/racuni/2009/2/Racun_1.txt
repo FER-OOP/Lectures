@@ -1,0 +1,32 @@
+Račun br. 153254
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Sklopnička kombinacija zvijezda/trokut 55kW(109A) AC3|230VAC                       4754.71    2   9509.42   2377.35
+Kompaktni prekidač snage tip A, 3P/250A/50kA,                                      1850.41    1   1850.41    462.60
+N/Ž razdjelnik bez vrata, MODUL 160, 6x33 modula                                    1421.8    8  11374.40   2843.60
+Tipka za 3-struku sklopku, antracit                                                  16.41   27    443.07    110.77
+Marra LED traka 4,8W/m 60LEDs/m plava 24VDC IP68                                    346.53   23   7970.19   1992.55
+GPS antena za BZT2766xx                                                            1379.67   10  13796.70   3449.17
+GLENOS ALU profil sa pokrovom, aluminij, 2m                                        1375.67    1   1375.67    343.92
+"Natpisna pločica za umetanje fi=28mm, prozirna, ""TEST"""                            3.09   12     37.08      9.27
+Elektronska prigušnica ECG QTi-T/E 1x18-57 dim 1-10V                                284.82   14   3987.48    996.87
+Ampermetar, montaža na DIN nosač, DC, 10A, direktno                                 581.86   28  16292.08   4073.02
+Zaštitni prekidač AMPARO 4.5kA, C 6A, 1P+N, širine 1 modula                          41.95   23    964.85    241.21
+Gumeni savitljivi kabel NSSHöu-J 4x6, žuti                                           10000   26 260000.00  65000.00
+QUADRA 44 Downlight                                                                 506.37   21  10633.77   2658.44
+Ugradna svjetiljka SEO PC T5 2x14W, ECG, bijela                                     466.64   12   5599.68   1399.92
+Reflektor SET 400W HIT E40 IP65 crni simetrični                                    1150.48   11  12655.28   3163.82
+Tipka MO 1M sa simbolom zvona, crna                                                    7.5    1      7.50      1.88
+Završna pločica za redne stezaljke 35mm², tip CBC, siva                               4850   19  92150.00  23037.50
+LED žarulja R7s, 118mm, 9W, 600lm, 4000K                                             300.8   13   3910.40    977.60
+Neo-WL-III-R LED 2x1W, IP44, sive boje                                               57.44    9    516.96    129.24
+Bistabilni relej sa LED, 2 N/O, 230VAC                                              146.35    3    439.05    109.76
+
+                                                                                                         ----------
+UKUPNO                                                                                                    453514.03
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

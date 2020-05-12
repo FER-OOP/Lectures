@@ -1,0 +1,32 @@
+Račun br. 448430
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Sklopka, 3-polna, 20A, ugrad.s pred.str. NOT AUS                                    223.09   15   3346.35    836.59
+DIABO SPOT 2 stropna svj. , bijele b., 2x GU10, max. 2x 35W                         750.35   29  21760.15   5440.04
+Reflektor 24°, za SLEEK G12 Spot                                                     99.51   27   2686.77    671.69
+LEVANTE-M 30 LED 60W 4380lm, 3000°K, antracit                                       3855.2   14  53972.80  13493.20
+Kabel EYY-J (PP00-Y) 3x10RE                                                        2975.28   10  29752.80   7438.20
+Senzor prisutnosti 360B KNX, 8m, p/ž, stropni, IP54, crni                          1855.84    9  16702.56   4175.64
+Kabel LiYY 16x0,14                                                                   10000   30 300000.00  75000.00
+Kućište nazidno za 1 modul                                                           31.55   21    662.55    165.64
+Grebenasta sklopka, 1-2/2P/20A,na vrata,centralno učvršćenje                        285.44   14   3996.16    999.04
+PEYOTE POLE 48cm 180° 8x1W LED, 40° 3000K RAL9006                                  3537.56   16  56600.96  14150.24
+OSSA R7s zid.svj.ovalna,al-bruš.R7s,78mm,max.100W                                   500.12    1    500.12    125.03
+Rezervni filter za ventilator 109x109mm, IP54 (pak=5 kom.)                           71.95   29   2086.55    521.64
+WETSY SQUARE vanjska svjetiljka, četvrtasta                                         938.06    6   5628.36   1407.09
+INDI REC 1S Downlight, GU10,kardanski,četvrtasti,bijele boje                         187.2   22   4118.40   1029.60
+Zaštitni prekidač, C karakteristika, 6A, 2-polni, 6kA                                 78.3    8    626.40    156.60
+Kabel YSLYQY-JZ 34x 1,5 prozirni                                                     10000   27 270000.00  67500.00
+Instalacijski sklopnik 25A | 4 N/O | 24V AC                                          136.1   28   3810.80    952.70
+Daljinski isklopnik 220V DC/230V AC (kao rezervni dio)                             1268.48    2   2536.96    634.24
+Relej 3 C/O |10A | 48VAC                                                             71.95    5    359.75     89.94
+Kompaktni prekidač snage tip A, 3P, 36kA, 160A, utični                              2693.9    8  21551.20   5387.80
+
+                                                                                                         ----------
+UKUPNO                                                                                                     800699.7
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

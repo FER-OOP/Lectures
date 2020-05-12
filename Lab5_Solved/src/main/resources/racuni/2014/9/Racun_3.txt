@@ -1,0 +1,18 @@
+Račun br. 160502
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+KADUX 3 ES111 Downlight, četvrtasti, crne boje, max. 3x50W                         1125.94   18  20266.92   5066.73
+Ugradna svjetiljka SERH ECO A5 L1 T5 4x24W ECG M600, bijela                         425.07   30  12752.10   3188.03
+Sklopnik 3P |30kW (62A) [AC3] / 120A [AC1] | 110V AC                                865.66    3   2596.98    649.24
+Tipka MO 1M sa indikacijom, bijela                                                    2.65    3      7.95      1.99
+Uklopni sat, digitalni, dnevni/tjedni program, 2 C/O, 16A                           454.87   15   6823.05   1705.76
+Okvir za Lima svjetiljku, okrugli, siva                                              46.46    9    418.14    104.53
+
+                                                                                                         ----------
+UKUPNO                                                                                                     42865.14
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

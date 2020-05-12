@@ -1,0 +1,20 @@
+Račun br. 555278
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Podnožje Vartec TII, 1+1 (modul VVM + VGM), pomoćni kontakt                         207.62   18   3737.16    934.29
+Sklopnik vel.00 | 4P | AC1 22A/690V | 24VDC                                         157.41   14   2203.74    550.93
+Prednja ploča antenske utičnice sa 4 otvora, biserno bijela                          29.51    1     29.51      7.38
+Metalhalogena žarulja HIE 400W/N/SI E40 FS1                                         201.05   18   3618.90    904.73
+DCF antena za BZT2766xx                                                             742.94   14  10401.16   2600.29
+Downunder OUT LED M, 3,3W, 3000K, srebrnosiva boja                                  374.92   22   8248.24   2062.06
+LED 4W GU4 12V 2800K 36° 600cd                                                      180.42    5    902.10    225.52
+Paralelna spojnica za stezaljku DCP4, 250mm, 38 rupa                                 11.05   16    176.80     44.20
+
+                                                                                                         ----------
+UKUPNO                                                                                                     29317.61
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

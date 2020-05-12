@@ -1,0 +1,18 @@
+Račun br. 782558
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Bezhalogeni telekomunikacijski kabel J-H(ST)H 30x2x0,8 sivi                          10000    4  40000.00  10000.00
+Kabel H05VV-F (PP/J) 3x1,5mm2, bijeli, 500m                                          10000   18 180000.00  45000.00
+Ina-II-R/A1 50W GU10 MR16, 100-240V, IP20, bijele boje                               56.43    2    112.86     28.22
+Montažni nosač s otvorima (perforirani), 1000x15x5mm (DxŠxV)                          29.8    8    238.40     59.60
+6-kutna matica, NUT-HEX-DIN934-I8I-WS17-(A2K)-M10                                       43   26   1118.00    279.50
+Sklopka za upravljanje roletama, umetak, utične stezaljke                           100.35   27   2709.45    677.36
+
+                                                                                                         ----------
+UKUPNO                                                                                                    224178.72
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

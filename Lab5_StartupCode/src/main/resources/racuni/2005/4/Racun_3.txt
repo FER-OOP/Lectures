@@ -1,0 +1,18 @@
+Račun br. 291335
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Grebenasta sklopka u kućištu (crveno/žuta), 0-1/4P/25A, IP65                        380.08   12   4560.96   1140.24
+Strujni trafo, 2000/5A, Tip TAR8-2000, 80x30mm                                      264.04   13   3432.52    858.13
+Priključna sabirnica, viličasta, 10mm²/4P, 26 modula                                  4230   24 101520.00  25380.00
+Tehnička olovka, plava, Schrack                                                       5.08   22    111.76     27.94
+Blueline katalog 2016 EN                                                                 0    8      0.00      0.00
+PEYOTE 17cm 360° 8x1W LED, 40° 4000K antracit                                      2289.96   11  25189.56   6297.39
+
+                                                                                                         ----------
+UKUPNO                                                                                                     134814.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

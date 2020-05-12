@@ -1,0 +1,22 @@
+Račun br. 552942
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+ASTO I GU10 Spot, brušeni aluminij                                                  196.83    8   1574.64    393.66
+Elektronički odvojni relej, 2-struki, 230V, 750VA, umetak                           476.72   24  11441.28   2860.32
+Držač za cilindrične osigurače 22 x 58 | 3P | 100A/690V                             473.03   13   6149.39   1537.35
+SET za PD101/PD102                                                                  115.26   30   3457.80    864.45
+DETT vanjska svjetiljka                                                             731.42   30  21942.60   5485.65
+Umetak križne sklopke, na oprugu                                                     19.69    7    137.83     34.46
+"Opt. razdjelnik,24 niti, ST,50/125µm OM2, izvlačivi,19"",1U"                      1449.28   22  31884.16   7971.04
+Razdjelnik uzidni, IP40, 2-redni, 36 modula, bijela vrata                           161.14   10   1611.40    402.85
+Prednja ploča, čelična, sa otvorom za uređaje, 2G3                                    4160   20  83200.00  20800.00
+Višežični PVC-om izolirani vodič H07V-R (P/M) 10mm2, plavi                           10000   12 120000.00  30000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     281399.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

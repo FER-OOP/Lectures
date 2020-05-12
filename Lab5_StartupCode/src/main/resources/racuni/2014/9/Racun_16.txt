@@ -1,0 +1,24 @@
+Račun br. 173381
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Uzidni okvir s vratima - M3000, 4U-42                                              2417.81    9  21760.29   5440.07
+Tipka MO 1M sa simbolom zvona, crna                                                    7.5   15    112.50     28.13
+LIGHT EYE PENDEL za EASYTEC II, ES111, krom/crne b.                                 625.15   17  10627.55   2656.89
+Ted-I-R 2x26W G24d-3, 230V, IP20, sive boje                                           5.74   20    114.80     28.70
+Ida2 LED 3W, 3000K, 48lm, IP65, alu, sive boje                                      331.49    1    331.49     82.87
+Zaštitni prekidač, C karakteristika, 32A, 1-polni+N, 6kA                             54.22   28   1518.16    379.54
+Kompaktni prekidač snage tip AE, 3P, 150kA, 630A                                   7091.52   22 156013.44  39003.36
+EURO SPOT G12, 15°, sa 3-faznim adapterom, crne b.                                  875.55   10   8755.50   2188.88
+Nazidni okvir s vratima za Modul 2000 | 3A-28 | dubina 250mm                       1528.47   11  16813.17   4203.29
+Završna pločica za stezaljku CBD50, bež                                               4850   22 106700.00  26675.00
+"Natpisna pločica, ""DOWN"", 17.5 x 28mm, natična"                                    8.13   16    130.08     32.52
+Eliot-II-Q LED 1,6W 6000K, IP54, sive boje                                           69.94   29   2028.26    507.07
+
+                                                                                                         ----------
+UKUPNO                                                                                                    324905.25
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

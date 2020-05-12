@@ -1,0 +1,16 @@
+Račun br. 1040990
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"Inverter Kaco Blueplanet 9.0; TL3, 3f, 2MPPT, IP65"                              19525.36   15 292880.38  73220.09
+Aluminijska montažna ploča 1000x2000x3mm, bijele boje                               870.91    8   6967.28   1741.82
+Podesiva spojnica za LINUX LIGHT, srebrne boje                                       187.2   29   5428.80   1357.20
+PEYOTE 17cm 360° 8x1W LED, 40° 4000K RAL9006                                       2289.96    3   6869.88   1717.47
+
+                                                                                                         ----------
+UKUPNO                                                                                                    312146.34
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

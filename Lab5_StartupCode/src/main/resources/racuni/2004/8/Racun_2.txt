@@ -1,0 +1,25 @@
+Račun br. 710930
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Vodotijesna svjetiljka LINDA PC 1x36W ECG IP65 SC II                                378.68   25   9467.00   2366.75
+Panik svjetiljka PF FLUO 11W, CPSsustav,MIX mod, zidna                             1792.05   12  21504.60   5376.15
+Tris-II-R/A1 LED 3x3W 3000K 270lm,dimabilna,700mA,IP20,alu                          116.92   19   2221.48    555.37
+Priključna ploča, 3P, sustav 60mm, 6-50mm² Cu/Al                                    143.27   21   3008.67    752.17
+Ugradna svjetiljka SEP XTP T5 4x28W ECG IP54 M625, bijela                             8534   12 102408.00  25602.00
+PEYOTE POLE 48cm 360° 8x1W LED, 40° 4000K RAL9006                                  3315.41    6  19892.46   4973.11
+"Kontrol.bat. Bat-Logg za CPS Maxi 18 bat. od 17Ah-60Ah; 8m"                      15393.36   25 384834.00  96208.50
+"Kućište sa tri tipkala ""1""-""0""-""2"" (zeleno/crveno/zeleno)"                   266.84   10   2668.40    667.10
+Aaron-Q 32/42W G24q-4, 230V, IP20, sive boje                                         37.67    1     37.67      9.42
+Vince-I-R/A1 8W T5, 230V, IP20, aluminij                                            205.28   10   2052.80    513.20
+Plafonjera SLAVO 260 10W 750lm/830 ECG sa senzorom, bijela                          631.41   26  16416.66   4104.17
+Baterije 18 kom. longlife OGiV 12V/5,2Ah s kabelima za ožič.                       2957.35   16  47317.60  11829.40
+Zaštitni prekidač AMPARO 6kA, B 10A, 1-polni                                         19.75   15    296.25     74.06
+
+                                                                                                         ----------
+UKUPNO                                                                                                     612125.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

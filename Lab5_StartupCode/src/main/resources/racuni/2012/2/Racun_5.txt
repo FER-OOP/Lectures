@@ -1,0 +1,21 @@
+Račun br. 1013520
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+UPS Multi Plus 40kVA 36KW 0min,3f/3f/Online/veliko kuć.                           64863.73   271751320.75 437830.19
+ROX ACRYL POLE 30, E27 max. 20W, brušeni aluminij                                  1558.31   10  15583.10   3895.78
+Pokrovna ploča za sustav 60mm, duljina 700mm, visina 195mm                          182.81    4    731.24    182.81
+Tubus-S LED 15W, 3000K, 1280lm, 230V, SKI, 90°,IP40,aluminij                        331.49   26   8618.74   2154.69
+Linijska svj. SERM-LL 112, završni profil,  1x28W, ECG, bb                           498.6   27  13462.20   3365.55
+THEOS, zidna svj., 101 E27, bb, max. 24W                                            783.63   29  22725.27   5681.32
+Optički prespojni kabel duplex FC/FC, 62,5/125µm OM1, 5.0m                           77.22   19   1467.18    366.80
+Baterije 18 kom. longlife OGiV 12V/68Ah s kabelima za ožič.                       24079.03   28 674212.81 168553.20
+Podnožje S-Releja Serije 4, 14-pinsko, 6A, montaža na DIN                             21.3   14    298.20     74.55
+
+                                                                                                         ----------
+UKUPNO                                                                                                    2488419.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

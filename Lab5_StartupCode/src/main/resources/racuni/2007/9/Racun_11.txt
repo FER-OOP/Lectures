@@ -1,0 +1,16 @@
+Račun br. 520236
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Mikroprizmatični bočni pokrov MF Opal 2m                                             83.66   14   1171.24    292.81
+LED PAR16 35 DIM 3,1W 230V 36° 827 230lm 565cd GU10 25000h                           61.28   20   1225.60    306.40
+Nazidna kutija s okvirom, 2-struka, biserno bijela                                    2120   28  59360.00  14840.00
+Zaštitni prekidač, C karakteristika, 1A, 1-polni, 10kA                               64.68   22   1422.96    355.74
+
+                                                                                                         ----------
+UKUPNO                                                                                                      63179.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

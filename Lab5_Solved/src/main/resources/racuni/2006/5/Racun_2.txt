@@ -1,0 +1,26 @@
+Račun br. 597356
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Vodotijesna svjetiljka DEVA PC 2x18W ECG                                            234.87   13   3053.31    763.33
+65017T/12, 12 ° reflektor za 65017                                                  117.25   21   2462.25    615.56
+"VF panik svjetiljka LED 230V za CPS MIXmod; zidna montaža"                        2512.36   29  72858.45  18214.61
+Kompaktni prekidač snage tip M, 3P, 25kA, 125A                                     1589.55   29  46096.95  11524.24
+LS-FI (KZS), B/20A/30mA, 1P+N, Tip A, 10kA                                          426.69   25  10667.25   2666.81
+Optički prespojni kabel duplex, LC/LC, 9/125µm OS2, 3.0m                             89.54    2    179.08     44.77
+Međuokvir za kućište G - 560x380x50mm                                                438.1    3   1314.30    328.58
+OPEN GRILL SINGLE ovjesna svjetiljka, srebrne boje                                 1871.23   12  22454.76   5613.69
+AFDD, series Lisa, B 20 A, 2-pole, 30 mA, type A, 10 kA                            1118.51   18  20133.18   5033.29
+Bočna stranica za trodijelni sistem, 33 modularne visine                              4160    7  29120.00   7280.00
+"Opt. razdjelnik, 16 niti,LC,50/125µm OM2, izvlačivi,19"",1U"                       790.02   11   8690.22   2172.56
+Industrijska svj. Arktur LED 11900lm,115W,60°,6000K,RAL9006                        4534.89   10  45348.90  11337.23
+Okvir 7M line, zeleni                                                                61.27   14    857.78    214.45
+Nadgradna svjetiljka SAP IP54 T5 4x54W ECG, bijela                                 1319.89   18  23758.02   5939.50
+
+                                                                                                         ----------
+UKUPNO                                                                                                    286994.47
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,25 @@
+Račun br. 343730
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Izolirana okasta stopica, M5, plava, 1.5-2.5mm2 (100 kom.)                           65.43   30   1962.90    490.73
+Pregibnica crvena za oklopljene ili neoklop. RJ45 utikače                             0.84    1      0.84      0.21
+Mrežica s filterom za ventilator, 120x120mm                                          35.34   26    918.84    229.71
+Pokrov za stezaljku za sklop.vel.14, priklj.kab.stopica                               4794   11  52734.00  13183.50
+"1-struki stakleni okvir ""Riva"", alu efekt"                                       424.74   22   9344.28   2336.07
+"Planux monitor 3,5"" u boji, bijela maska"                                        2141.33    7  14989.31   3747.33
+Finožični PVC-om izolirani vodič H07V-K (P/F) 25mm2, crveni                          10000   23 230000.00  57500.00
+Energetski napitak                                                                   10.67   17    181.39     45.35
+UPS Genio Flex Plus Dual 1100VA 990W 5 Min.1/1f/Line-Int.                          4095.09   22  90091.98  22523.00
+FID sklopka 63-4-003/AC, 10kA, s predosiguračem                                     758.75   14  10622.50   2655.63
+Kabel EYY-O (PP00)3x2,5RE                                                            10000   28 280000.00  70000.00
+Maskirni razdjelnik 1 širina brojila/ 12 MV                                           4180    1   4180.00   1045.00
+Svjetlosna sklopka sa integriranim senzorom, vanjska, IP55                          338.65   19   6434.35   1608.59
+
+                                                                                                         ----------
+UKUPNO                                                                                                    701460.44
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

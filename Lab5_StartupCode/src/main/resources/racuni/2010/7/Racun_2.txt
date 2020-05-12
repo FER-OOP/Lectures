@@ -1,0 +1,16 @@
+Račun br. 402976
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kompaktni prekidač snage tip A, 4P, 50kA, 160A                                     2630.93    8  21047.44   5261.86
+Sutil-Q LED 30W 6000K 2174lm, IP40, sive boje                                       512.96    3   1538.88    384.72
+SAT multiswitch 5 IN 16 OUT za quattro/quad LNB,kask.,10m                          2052.18   27  55408.86  13852.22
+Baterije 18 kom. longlife OGiV 12V/156Ah s kabelima za ožič.                      47214.36   261227573.38 306893.34
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1305568.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

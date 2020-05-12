@@ -1,0 +1,17 @@
+Račun br. 803968
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LED Downlight Siena 68,8W 500lm,36°,828,dimbilan, bijela b.                         334.65   16   5354.40   1338.60
+BIG THEO UP/DOWN OUT zidna svjetiljka, ES111, antracit                              813.03   28  22764.84   5691.21
+Kabel za punjenje tip2 na tip 2, 32A 3F, 8m duljine                                   8130   19 154470.00  38617.50
+ROX ACRYL POLE 60, E27 max. 20W, brušeni aluminij                                  2058.94   15  30884.10   7721.02
+Ugradna downl. svj. ERM 202 2x26W CCG TC-D IP20/44, bijela                          286.07   18   5149.26   1287.32
+
+                                                                                                         ----------
+UKUPNO                                                                                                     218622.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

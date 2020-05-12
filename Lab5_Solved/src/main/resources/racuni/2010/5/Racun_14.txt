@@ -1,0 +1,18 @@
+Račun br. 950768
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Višežični PVC-om izolirani vodič H07V-R (P/M) 150mm2, ž/z                            10000    8  80000.00  20000.00
+Potezno tipkalo, bijelo                                                                384   25   9600.00   2400.00
+"Stezaljka ""A"" 1P, dovod 70mm²|odvodi: 1 x (2x50)"                                116.69    5    583.45    145.86
+Maskirni razdj. 5M-45, 15-redni,855ŠM,2130x1180x200mm(VxŠxD)                       5775.44    4  23101.76   5775.44
+Ispravljač, 3-fazni | 400/24VDC | 10A                                                 4547    1   4547.00   1136.75
+Podnožje Vartec TII, 2+0 (2 x modul VVM)                                            136.79    3    410.37    102.59
+
+                                                                                                         ----------
+UKUPNO                                                                                                    118242.58
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

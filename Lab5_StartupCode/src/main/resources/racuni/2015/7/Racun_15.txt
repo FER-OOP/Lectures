@@ -1,0 +1,22 @@
+Račun br. 667391
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Vince-II-S/A1 2x40W E14, 100-240V, IP20, brušeni krom                               197.85   27   5341.95   1335.49
+Odvodnik prenapona PROTEC kl.B/C TNC 275/25+H                                      2002.89   26  52075.14  13018.79
+"IT METER LINE nap. letva s mjeračem snage, 8xshuko, 19"", 1U"                      2318.2   25  57955.00  14488.75
+Optički prespojni kabel duplex, LC/SC, 9/125µm OS2, 10.0m                           133.95    1    133.95     33.49
+Grebenasta sklopka, (glavna,crno/siva), 0-1/3P/80A, na vrata                        493.37    7   3453.59    863.40
+IKALL metal slijepi modul                                                           445.59    3   1336.77    334.19
+Zaštitni prekidač, C karakteristika, 20A, 2-polni, 10kA                             101.46   28   2840.88    710.22
+Zaštitni prekidač, C karakteristika, 2A, 3-polni, 6kA                               157.73    5    788.65    197.16
+Solarlog 1.2 do 100 kWp za više invertera - WiFi                                   7221.66    1   7221.66   1805.41
+Svjetiljka za ormar sa šuko utičnicom                                               750.38   20  15007.60   3751.90
+
+                                                                                                         ----------
+UKUPNO                                                                                                     146155.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

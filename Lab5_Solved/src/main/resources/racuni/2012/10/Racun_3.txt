@@ -1,0 +1,29 @@
+Račun br. 842628
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Sučelje MK2-USB (RJ45 mrežni kabel u setu)                                          520.79   24  12498.96   3124.74
+Otvoreni prekidač, 3P, 66kA, 1250A, fiksni, prednje priklj.                       19059.46    7 133416.22  33354.05
+61016A/W, Sjenilo bijele boje za 61016                                              322.54   11   3547.94    886.98
+Tenora PD-1 ovjesna svjetiljka, E27, 3x60W, crne boje/krom                         1188.46   14  16638.44   4159.61
+LED RETROFIT RAL2 60 DIM 9W 230V 827 450lm opal S14S 20000h                         163.43   20   3268.60    817.15
+Grebenasta sklopka, (glavna,crveno/žuta),0-1/4P/63A,na vrata                        344.51    6   2067.06    516.77
+Reflektor Sigma Trino LED 3x50W,12000lm,4000K  IP65 siva                           1955.71   18  35202.78   8800.70
+Senzor prisut. stropni, thePrema S360-101,100m2,2kan.,bijeli                       1259.82    5   6299.10   1574.77
+Optički prespojni kabel duplex, FC/FC, 9/125µm OS2, 5m                               99.78   28   2793.84    698.46
+SAT zidni nosač Y,R=970mm,V=250mm,2xpl.=175x175mm,stup=50mm                         426.26   26  11082.76   2770.69
+Prednja ploča, čelična, sa otvorom za uređaje, 3G3-L                                  4160   23  95680.00  23920.00
+Senzor prisut. stropni, thePrema S360-101,100m2,2kan.,bijeli                       1259.82   10  12598.20   3149.55
+Teški gumeni kabel H07RN-F 1x1,5, crni                                               10000   17 170000.00  42500.00
+60008, ONE LIGHT PACKING TAPES                                                       16.89    8    135.12     33.78
+Abby-R 70W G12, 230V, IP65, crne boje                                                46.46    2     92.92     23.23
+Zaštitni prekidač AMPARO 6kA, B 25A, 2-polni                                         56.88    7    398.16     99.54
+Set za uzemljenje fotonaponskog montažnog sustav, M10                                 4980   27 134460.00  33615.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    640180.06
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

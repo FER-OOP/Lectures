@@ -1,0 +1,15 @@
+Račun br. 561057
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+NV rastavljač MULTIBLOCK vel.000 do 100A za 60mm sustav                             468.88   22  10315.36   2578.84
+Okvir MO 3x2M, line, crni                                                            32.35   21    679.35    169.84
+LED napajanje, 12W, 12V, za ugr.kut.                                                125.36   14   1755.04    438.76
+
+                                                                                                         ----------
+UKUPNO                                                                                                     12749.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

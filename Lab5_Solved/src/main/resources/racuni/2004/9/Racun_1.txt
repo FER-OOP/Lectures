@@ -1,0 +1,14 @@
+Račun br. 495226
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+NV rastavna sklopka vel.1|250A, M10, nadzor osigur., 60mm                             4832   28 135296.00  33824.00
+Sklopnik vel.00 (za PLC) | AC3 4kW/400V | 17-30VDC | 1 N/O                          145.75   29   4226.75   1056.69
+
+                                                                                                         ----------
+UKUPNO                                                                                                    139522.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

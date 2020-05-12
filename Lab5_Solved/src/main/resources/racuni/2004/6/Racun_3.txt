@@ -1,0 +1,27 @@
+Račun br. 412126
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Punto-R 50W GU10 MR16, 100-240V, IP20, bijele boje                                   31.59   30    947.70    236.93
+NV rastavna pruga vel.00|160A,3P,M8/mostić 70mm²,sustav 60mm                         613.6   20  12272.00   3068.00
+ARKTUR SQUARE PLUS LED 220W 26600lm/765 ECG IP66 55°                               5920.91   11  65130.01  16282.50
+Pierce-I-R/A2 70W E27 CDM-R, 230V, IP20, crne boje                                  178.25   27   4812.75   1203.19
+SUPROS TRACK 3000 SPOT, bijela, 3000lm, 3000K SLM LED, 60°                         1250.97   13  16262.61   4065.65
+"Stezaljka ""A"" 1P, dovod 25mm²|odvodi: 1 x (6x16)"                                 56.39   24   1353.36    338.34
+Kabelska uvodnica M12x1.5, poliamid, RAL7035                                          3.41   12     40.92     10.23
+Označne pločice '21-30', Dekafix DY5 (sadrži 50 oznaka)                               8.45   21    177.45     44.36
+41020/B, mehaničko ojačanje, crne boje                                               14.69   14    205.66     51.41
+Montažna ploča za WKS1530, 125x270x2, pocinčani čelik                                 4065   11  44715.00  11178.75
+Neizolirana Cu stopica 70mm², M8                                                     11.32   19    215.08     53.77
+"Samostojeći komunikacijski ormar DS 600x1080x600, 19"", 22U"                      2783.98   21  58463.58  14615.90
+"Grebenasta sklopka, ""0-1-START""/1P/20A, na vrata"                                211.08   11   2321.88    580.47
+Greb. sklopka za fotonaponske sustave 12A/500VDC                                    404.55   11   4450.05   1112.51
+Prespojni kabel RJ45 STP cat.6a/10GB, LS0H, plavi, 10.0m                             98.51    3    295.53     73.88
+
+                                                                                                         ----------
+UKUPNO                                                                                                    211663.58
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,32 @@
+Račun br. 731268
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LED traka 86 RGB UWW Ra=90+ 10,7W/m, 782lm/m, 24VDC,IP44                           1393.45    8  11147.60   2786.90
+Elektronska prigušnica ECG QTi 2x35/49/220-240                                      204.46   20   4089.20   1022.30
+SOPRANA,  CL-1, okrugla, bež tekstil, E27                                            844.8   24  20275.20   5068.80
+Sklopka, 1-polna, IP20, na vijak, bijela, nadžbukna                                  20.32    3     60.96     15.24
+Izmj. Fronius Symo 20.0-3-M, 20kW, 3f, IP55, TL 2 MppTracker                       39509.1    1  39509.10   9877.28
+DisplayPort kabel, DP20 muški/HDMI19, 5m                                             229.3   16   3668.80    917.20
+Kućni kom. razd.,2-redni,26xTOOL.,3x230V,ravna vrata,RAL9003                        734.67   29  21305.43   5326.36
+KALU 2 zidna i stropna svjetiljka                                                    844.8   11   9292.80   2323.20
+Industrijska svj. CERES 1x140W,LED DALI,17200lm/657, crna                             8536   14 119504.00  29876.00
+Kabelski kanal 80x120 (VxŠ), 2m, perforirani, sivi, RAL7030                          74.05   12    888.60    222.15
+Montažni nosač 3H                                                                    14.39   10    143.90     35.98
+Kompaktni prekidač snage tip A, 3P/32A/50kA, MC1                                    824.65   15  12369.75   3092.44
+Prekidač 400A, 3P, MB3, 36kA -kabelska stopica                                     1334.76   12  16017.12   4004.28
+TRIA II Downlight, aluminij, krom, MR16                                             115.26   21   2420.46    605.11
+Tipka MO 1M sa simbolom svjetla, bijela                                               2.65   13     34.45      8.61
+Ispitivač napona 6-400v                                                               2303    8  18424.00   4606.00
+Trofazni nadzor napona sa BUS vezom RS485                                           895.41    8   7163.28   1790.82
+Elektronska prigušnica ECG QTi 2x36/220-240 dim 1-10V                               350.76   12   4209.12   1052.28
+PERLA stropna svj. 1x1W LED 4000K 10° fres.leća, alu                                385.35   25   9633.75   2408.44
+NV rastavna sklopka vel.1|250A, 3P, box stezaljke, na ploču                           4831    9  43479.00  10869.75
+
+                                                                                                         ----------
+UKUPNO                                                                                                    343636.53
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

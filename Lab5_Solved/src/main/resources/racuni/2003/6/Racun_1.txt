@@ -1,0 +1,21 @@
+Račun br. 547666
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zamjenjiva skala, 72x72mm, 60/120/5A AC                                              10.89   27    294.03     73.51
+Kabel LiYCY 2x1                                                                     676.01   27  18252.27   4563.07
+NEW TRIA LED DL četvrtasti Set, 12W, 2700K, 38°, bijele boje                        938.06   18  16885.08   4221.27
+Pomoćni sklopnik vel.00 | 4P | AC15 6A/230V |24VAC|2N/O+2N/C                        101.65   28   2846.20    711.55
+Sigurnosna svjetiljka DLQ ERT-LED1,5W,CPS,kvadratna,ugradna                         978.73   22  21532.06   5383.01
+Odvodnik prenapona PROTEC kl.B/C TT 275/25+H                                       3231.75   22  71098.50  17774.63
+Kabel H05VV5-F 12x2,5 sivi                                                           10000   26 260000.00  65000.00
+BARRO stropna svjetiljka, CL-1, krom, GU10, max. 50W                                437.43   14   6124.02   1531.01
+GERMA stropna svjetiljka IP65, single, 157cm, 1xT8                                  625.15    4   2500.60    625.15
+
+                                                                                                         ----------
+UKUPNO                                                                                                    399532.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

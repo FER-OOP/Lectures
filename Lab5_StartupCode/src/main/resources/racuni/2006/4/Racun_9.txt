@@ -1,0 +1,29 @@
+Račun br. 991042
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+L-SE raster LB T5 R12 1+2x28/54W sa poprečnim lam. bijeli                           119.92   17   2038.64    509.66
+Ugradna svjetiljka SEP XTP PRISMA TC-L 3x55W ECG,M625,bijela                          8534   24 204816.00  51204.00
+"Grebenasta sklopka, ""HAND-0-AUTO""/3P/20A, na vrata"                                4360   22  95920.00  23980.00
+A03VV-F 5x0,75mm2, crni, 500m kolut                                                  10000   25 250000.00  62500.00
+Kuka ML 6x35mm Mat. 1.4016, visine 45mm                                              73.54   12    882.48    220.62
+Finožični PVC-om izolirani vodič H07V-K (P/F) 185mm2, crni                         16150.5   29 468364.50 117091.13
+NYCY 24x1,5RE/6                                                                     5667.2   25 141680.00  35420.00
+Signalna svjetiljka sa LED 24VAC/DC, glatka leća, zelena                             45.52   30   1365.60    341.40
+Pokrovna pločica za pokrov SI327500, potrebno 1 kom. po fazi                          4833   11  53163.00  13290.75
+NEW TRIA DLMI ROUND Downlight, srebrne boje, 4000K, 60°                            1433.11    7  10031.77   2507.94
+GLENOS profil 1107-100, 1m, aluminij                                                  93.6   24   2246.40    561.60
+TUBE stropna svjetiljka                                                             813.03   22  17886.66   4471.67
+Ugradna svjetiljka SERH 310 T8 2/36W ECG sj. raster                                  696.4   10   6964.00   1741.00
+Nosač za montažu Smart monitora na zid                                               98.86    8    790.88    197.72
+Zaštitni prekidač za ugradnju ispred brojila, C 25A, 1-polni                        249.93    3    749.79    187.45
+Set za ožičenje sklopničke kombinacije zvijezda-trokut vel.0                         52.42   11    576.62    144.15
+Okvir plitki s vratima i umetkom za KVH, 2-redni,24+4 modula                        296.63   12   3559.56    889.89
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1261035.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

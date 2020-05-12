@@ -1,0 +1,22 @@
+Račun br. 578341
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Nadgradna 3fazna strujna šina 2m 16A bijela                                         330.28   22   7266.16   1816.54
+Izvlačivi zapor za izjednačavanje tlaka, IP55 (2 kom.)                               81.87   15   1228.05    307.01
+L-SE montažna šina MR 1x58 7x2,5mm²                                                 150.17   29   4354.93   1088.73
+Baterija RPOWER OGiV 12/40Ah, longlife: 10-12 god.                                  860.09    6   5160.54   1290.14
+PATH POLE 100cm 360° 20W HIT GU6,5 antracit                                        4135.77   30 124073.10  31018.27
+"Opt. razdjelnik, 24 niti,LC,9/125µm OS2, izvlačivi,19"",1U"                       1004.04   17  17068.68   4267.17
+Spojnica (koljeno) M40, bez halogena, svijetlo-siva                                3848.12   24  92354.88  23088.72
+Grebenasta sklopka, 1-2-3/1P/10A, na vrata                                          225.88   13   2936.44    734.11
+Jednožični PVC-om izolirani vodič H05V-U (P) 1mm2, naran.                            10000   11 110000.00  27500.00
+Zaštitni prekidač, C karakteristika, 32A, 1-polni, 6kA                               24.06    8    192.48     48.12
+
+                                                                                                         ----------
+UKUPNO                                                                                                    364635.25
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

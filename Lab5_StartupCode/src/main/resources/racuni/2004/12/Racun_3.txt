@@ -1,0 +1,26 @@
+Račun br. 665477
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kabel H03VV-F (PP/L) 2x0,75mm2, svijetlo-sivi, 50m kolut                             10000   12 120000.00  30000.00
+Montažna ploča za Maxipol ormare 1250x500 (VxŠ), poliester                          710.77   15  10661.55   2665.39
+Ugradna downl. svj. ERM 251 1x35/70/150W CCG G12, bijela                            193.29   16   3092.64    773.16
+Grebenasta sklopka (glavna, žuto/crvena),0-1/3P/125A, na DIN                       1026.65    1   1026.65    256.66
+Teretna sklopka, 4P, 250A, opcija: daljinski isklop                                1936.37    4   7745.48   1936.37
+Fluo cijev T16 14W/840 G5                                                            21.87    5    109.35     27.34
+RETROSIX QRB 1, crne b.                                                             625.15   25  15628.75   3907.19
+Ina-A PAR16 Spot, GU10, 50W, IP20, zakretna, bijela                                  43.25   13    562.25    140.56
+Gumeni savitljivi kabel NSSHöu-J 5x2,5, žuti                                         10000   24 240000.00  60000.00
+Sitra 360 WL zidna svjetiljka, kameno sive b., GX53, max. 9W                        500.12   14   7001.68   1750.42
+Mura-CL-II-R LED 1W 6000K, IP54, aluminij                                            96.98   26   2521.48    630.37
+Halogena žarulja QR-LP 111 75W FL 24° G53                                            73.99   19   1405.81    351.45
+Zaštitni prekidač, B karakteristika, 16A, 3-polni, 10kA                             100.67    7    704.69    176.17
+DELF C 200 PRO, 24V, 12 LED, toplo bijela b., 3000K                                 155.78    3    467.34    116.83
+
+                                                                                                         ----------
+UKUPNO                                                                                                     410927.7
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

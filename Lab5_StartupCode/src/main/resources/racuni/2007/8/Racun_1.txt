@@ -1,0 +1,26 @@
+Račun br. 662480
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+7309AG/C/35, LED 10w GU10 R111 CW 35 °                                              225.39   19   4282.41   1070.60
+NEW TRIA III MR16 Downlight, četvrtasta, brušeni aluminij                           468.69    2    937.38    234.35
+Bimetalni relej za sklopnike vel. 00 | 0,70 - 1,00A                                 161.33    2    322.66     80.67
+L-SE el. uložak DM 2x49W DALI                                                       528.85   17   8990.45   2247.61
+PARA CONE 20 ovjesna svj., okrugla, bijele b., E27, max. 60W                        750.35   27  20259.45   5064.86
+Sklopka MO 1M 16A križna bez tipke, na vijak                                         31.73    9    285.57     71.39
+LED-napajanje, 8VA, 350 mA                                                          124.69    1    124.69     31.17
+Sig. svjetiljka DLQ ERT-LED 1,5W,CPS MIX,kvadratna, ugradna                        1119.13   12  13429.56   3357.39
+Uzidni okvir s vratima+umetak, 2U-21, 100mm (plosnati)                             1563.78   15  23456.70   5864.18
+Halogena žarulja QR-CBC 51 35W SP 10° GU 5,3                                         11.79   15    176.85     44.21
+RC 230i infracrveni senzor pokreta, nazidni, IP54, crni                            1138.52    6   6831.12   1707.78
+Linijska svj. SERH 112 1x54W, ECG, bijele boje                                      476.11   11   5237.21   1309.30
+UPS Multi Plus 20kVA 16kW 0Min.,3f/1f /Online/veliko kućište                      44380.45    6 266282.69  66570.67
+Ugradna svjetiljka SEP XTP PRISMA TC-L 3x55W ECG,M600,bijela                          8534   26 221884.00  55471.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    572500.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

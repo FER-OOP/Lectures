@@ -1,0 +1,23 @@
+Račun br. 1098040
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+RC član 127-240VAC / 150-250VDC, za sklopnike veličine 0                             39.55    2     79.10     19.77
+Pokrov plosnatog tipkala, crveni                                                     13.44   20    268.80     67.20
+Sklopnik vel. 00 | 4kW (9A) [AC-3] | 24VAC, 50Hz | 1 N/O                            107.32    6    643.92    160.98
+Samostojeći ormar INOX, 1800x800x500mm, IP56, AISI304                             20314.03   15 304710.44  76177.61
+Označne pločice, neutral za CBD stezaljke                                             8.53   20    170.60     42.65
+Stezaljka za stakleni osigurač, (vijčani priklj.) 10mm², bež                         31.86   10    318.60     79.65
+BIMA 2 svjetiljka za EASYTEC II, krom, 2x GU10, max. 2x50W                          625.15    2   1250.30    312.58
+Blok pomoćnih kontakata za sklopnike vel. 00, 2 N/O+2 N/C                            41.44   20    828.80    207.20
+PRIORI FID sklopka 80-4-03/A, S izvedba                                            1866.54    2   3733.08    933.27
+Kutija za beton MO 7M, dubina 60mm 650°C, 400V                                       40.01   22    880.22    220.05
+Nadgradna svjetiljka LUCIE 1x21/39W QTI, opal pokrov, eloks.                        636.67   22  14006.74   3501.69
+
+                                                                                                         ----------
+UKUPNO                                                                                                    326890.62
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

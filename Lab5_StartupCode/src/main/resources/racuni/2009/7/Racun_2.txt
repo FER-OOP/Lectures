@@ -1,0 +1,19 @@
+Račun br. 825439
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Josh-Q LED 1,6W 6000K, IP54, nehrđajući čelik                                       219.81    1    219.81     54.95
+Razdjelnik N/Ž, s prozirnim vratima 3R / 42 modula IP65                            1146.92   24  27526.08   6881.52
+Finožični PVC-om izol. vodič H07V-K (P/F) 4mm2, plavi HPV                            10000   28 280000.00  70000.00
+NV rastavna pruga vel.1|250A, 3P, V-stezaljka, sustav 185mm                        1090.99   13  14182.87   3545.72
+Sklopka 0-1, 16A, 1 C/O, montaža na DIN                                              64.31   18   1157.58    289.39
+Izmj. Fronius Symo 7.0-3-M, 7kW, 3f, IP55, TL 2 MppTracker                        21536.36   15 323045.38  80761.34
+Linijska svj. SERM-LT 112, srednji profil,  1x35W, ECG, bb                          560.81   13   7290.53   1822.63
+
+                                                                                                         ----------
+UKUPNO                                                                                                    653422.25
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

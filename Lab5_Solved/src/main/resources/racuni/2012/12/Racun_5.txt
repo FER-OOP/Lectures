@@ -1,0 +1,16 @@
+Račun br. 1067411
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Optička spojnica SC dx, plast., met. košuljica, MM                                    19.9   16    318.40     79.60
+Kompaktni prekidač snage tip A, 4P/63A/50kA, MC1                                   1352.81   12  16233.72   4058.43
+Elektronski transformator 12V, 210VA                                                240.26   26   6246.76   1561.69
+EUTRAC T-spoj desna, crne b.                                                        437.43   11   4811.73   1202.93
+
+                                                                                                         ----------
+UKUPNO                                                                                                    27610.611
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

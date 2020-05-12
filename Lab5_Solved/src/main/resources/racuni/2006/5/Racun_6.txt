@@ -1,0 +1,15 @@
+Račun br. 739452
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Priključna stezaljka 25mm2, ravna, neizolirana                                        8.04   16    128.64     32.16
+Yara 21W T5, 230V, IP20, krom                                                       278.44    7   1949.08    487.27
+LED 85-264V AC plavi za prednju montažu, utične stezaljke                            84.38   23   1940.74    485.18
+
+                                                                                                         ----------
+UKUPNO                                                                                                      4018.46
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

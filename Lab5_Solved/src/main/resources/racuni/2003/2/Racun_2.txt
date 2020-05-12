@@ -1,0 +1,25 @@
+Račun br. 904282
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Tipkalo s povratom, plosnato, bez pokrova (prazno)                                   19.56   26    508.56    127.14
+Bočne stranice za Modul 2000/3S, dubine 102mm, tip 12/102                             4160   17  70720.00  17680.00
+RP print relej, 1C/O, 8A, 12VDC, raster 2,5mm                                        30.76   21    645.96    161.49
+T8 LED cijev, zakretna, 21W, 3000K, 230V, 120cm                                     102.89    7    720.23    180.06
+Linijska svjetiljka SOLO 2 T8 1x18W CCG, bijela                                     118.21   14   1654.94    413.74
+Adapter za sustav 60mm, EEC 80A, 2 nosača, širine 54mm                                4832   30 144960.00  36240.00
+NEW TRIA MINI DL četvrtasti Set, 3W, 3000K, 30°, crne boje                          299.73   15   4495.95   1123.99
+Samonarezni vijak 3.9x16mm, križni, s ravnom glavom                                  24.72   13    321.36     80.34
+Svjetleće tipkalo s povratom, plosnato, zeleno                                       38.45    5    192.25     48.06
+UPS Multi Plus 15kVA 12kW 0Min.,3f/1f /Online/veliko kućište                      43526.97   12 522323.63 130580.91
+LED RETROFIT RL-D40 5W 230V 840 470lm mat E14 15000h                                 46.69   30   1400.70    350.17
+Sklopnik 3P |5.5kW (14A) [AC3] | 24V AC | + 1N/O (ugrađen)                          157.33   24   3775.92    943.98
+BIG THEO wall OUT ES111 zidna svj.,četvrt.,bi.b,GU10,max.75W                        562.63    7   3938.41    984.60
+
+                                                                                                         ----------
+UKUPNO                                                                                                    755657.94
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

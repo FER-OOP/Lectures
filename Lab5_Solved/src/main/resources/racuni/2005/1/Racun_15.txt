@@ -1,0 +1,31 @@
+Račun br. 460353
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Otto-I-S/A2 70W Rx7s, 230V, IP20, sive boje                                         277.26    4   1109.04    277.26
+TRAIL podna svj.LED 650mm 19W 1800lm asim. 3000K                                      3294   13  42822.00  10705.50
+Phil-L-R 20W E27, 100-240V, IP20, krom                                              454.33   25  11358.25   2839.56
+Okvir 2x2M line, plavi                                                               28.75    2     57.50     14.38
+Maya-II-S 8W T5, 230V, IP44, krom                                                   384.55    7   2691.85    672.96
+Telekomunikacijski kabel F-YAY 10x2x0,8mm2                                           10000   28 280000.00  70000.00
+Utičnica šuko dvostruka, IP54, na oprugu horizontalna, N/Ž                           63.62   19   1208.78    302.20
+Zaštitni prekidač sa svojstvima rastavljača, C 20A, 4-polni                         934.61    4   3738.44    934.61
+Ugradna svjet. KVADRA R70 1x35/49/80W QTI satinirani pokrov                        1020.95   26  26544.70   6636.18
+Tel. razvodni ormarić Box VKA2 za 100 par., montaža na nosač                        367.53   26   9555.78   2388.95
+Ugradna podna svjetiljka Tetra 900 IP67 T5 21W 2x42°                               1558.03    6   9348.18   2337.04
+LED prespojni kabel RJ45 oklopljen,500 MHz,Ea,10GB,sivi, 30m                        352.97   26   9177.22   2294.30
+Kronos-I-Q/A1 50W GU5,3 MR16, 12V, IP20, sive boje                                   88.02   30   2640.60    660.15
+Bezhalogeni kabel s el. funkc. do90 Min. (N)HXH-J4x2,5reE90                        2202.11    6  13212.66   3303.17
+6 box stezaljki 4-95mm², za 3-polne MZ1                                              60.78    8    486.24    121.56
+LED torba sa uzorcima TB & SP profila                                               261.27   27   7054.29   1763.57
+LED napajanje, 100W, 24V                                                            627.01    9   5643.09   1410.77
+Nazidni okvir s vratima, 2A-18                                                     2487.77   28  69657.56  17414.39
+IPERI WL zidna svj.,bi.b., 48 LED, neutral bi.b., 4000K                             625.15   24  15003.60   3750.90
+
+                                                                                                         ----------
+UKUPNO                                                                                                    511309.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

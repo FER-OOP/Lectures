@@ -1,0 +1,32 @@
+Račun br. 990560
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zaštitni prekidač AMPARO 4.5kA, C 32A, 1P+N, širine 1 modula                         41.95    6    251.70     62.93
+Montažna + prednja ploča za MODUL 160, širina 3, za MC1                               4172   10  41720.00  10430.00
+Iris-R 22W 2GX13, 230V, IP20, sive boje,prsten plave b.                             145.81    7   1020.67    255.17
+Uzidni okvir s vratima+umetak, 3U-24, 100mm (plosnati)                             1913.42    2   3826.84    956.71
+Helios-S/A2 LED 2x10W 3000K 2x483lm,dimabilna,500mA,IP20,alu                        512.96   13   6668.48   1667.12
+Mura-WL-R 9W GX53, 100-240V, IP54, aluminij                                         298.38   18   5370.84   1342.71
+Kompaktni prekidač snage tip VE, 3P, 50kA, 400A+izvl. modul                        7862.15   24 188691.59  47172.90
+Par cijevnih nosača 500mm, bijeli, montaža strop                                    182.74   15   2741.10    685.28
+Pokrov parapetnog kanala Signo BK 70/110, RAL 9010                                   51.96    6    311.76     77.94
+Jednožični PVC-om izolirani vodič H05V-U (P) 1mm2, plavi                             10000   11 110000.00  27500.00
+Postolje za nazidne razdjelnike, bočni dio, 300mm (par)                             149.44   12   1793.28    448.32
+Sutil Quadro LED 16W, 4000K, 1120lm, 120°, IP40, sive boje                          205.45   24   4930.80   1232.70
+Završni pokrov za nosač sabirnica SI014790--                                          38.7   11    425.70    106.43
+PL nadgradna svj., 2X26W, srebrne boje                                              625.15    2   1250.30    312.58
+Maria-WL-R LED 6W 3000K 440lm, IP54, bijele boje                                    377.96   10   3779.60    944.90
+Zaštitni prekidač sa svojstvima rastavljača, C 40A, 1-polni                         203.83   20   4076.60   1019.15
+EUTRAC Ovjes za 3-fazne šine, 60cm, crne b.                                          187.2    3    561.60    140.40
+Grebenasta sklopka, 1-0-2/3P/10A, na vrata                                          208.96   27   5641.92   1410.48
+Bezhalogeni instalacijski kabel JE-H(ST)H 2x2x0,8 E90 nar.                           10000   10 100000.00  25000.00
+Bezhalogeni kabel s el. funkc. do30 Min. (N)HXH-J5x10reE30                           10000    9  90000.00  22500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    573062.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

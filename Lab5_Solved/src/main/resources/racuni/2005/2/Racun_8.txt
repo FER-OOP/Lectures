@@ -1,0 +1,20 @@
+Račun br. 491309
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+FI-blok 40A, 2-polni, 30mA, Tip A (Puls)                                            713.14    2   1426.28    356.57
+Poliester kućište 560x280x100mm sivo - F                                             632.4    7   4426.80   1106.70
+Teški gumeni kabel H07RN-F 12x2,5, crni                                            4746.28   12  56955.36  14238.84
+LIGHT EYE ovjesna svjetiljka, GU10, max. 75W, crvene boje                           531.37   15   7970.55   1992.64
+Lingo LED 3W, 24V, dimabilna, IP20                                                   51.36   14    719.04    179.76
+Signalni fleksibilni kabel YSLY-JZ 40x0,5 sivi                                       10000   18 180000.00  45000.00
+Samostojeći ormar, 1-vrata, 2000x600x400 (VxŠxD), RAL 7035                         3612.97   28 101163.16  25290.79
+Proširenje sa accu, bez punjača za USDD330/400 108V 14Ah                           6709.24    1   6709.24   1677.31
+
+                                                                                                         ----------
+UKUPNO                                                                                                    359370.44
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

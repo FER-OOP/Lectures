@@ -1,0 +1,22 @@
+Račun br. 186873
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kompenzacija ožičena  17,5/2,5kvar 500x500x300mm zidni ormar                        9902.9    4  39611.60   9902.90
+QUADRASYL sam. svj.,PS 75,četvrtasta,srebrne b.,GX53,max.11W                        731.93   26  19030.18   4757.54
+Tipka sa simbolom svjetla, termički postojana,biserno bijela                         29.18   29    846.22    211.56
+MODUL CONNECT Cu sabirnica 1P, 16mm2/korak 8.9mm/duljine 1m                           50.2   17    853.40    213.35
+Quartz halogena ž., Philips Plusline ES R7s, 78mm,80W,proz.                          43.92   18    790.56    197.64
+RUSTY SLOT 50 ras.stupić asimetr., E27 max.11Wzahrđani čelik                       1558.31    8  12466.48   3116.62
+Ugradna svjetiljka SEP XTP T5 4x24W ECG IP54 M625, bijela                          1094.63    4   4378.52   1094.63
+Marina-I-R/A1 LED 3W 4000K 130lm, IP68, nehrđajući čelik                            732.94    1    732.94    183.24
+Ugradna svjetiljka SERH ECO A1 L2 T5 4x14W ECG M600, bijela                         450.67   23  10365.41   2591.35
+Poklopac 190x190x30mm prozirni - A                                                  139.24   24   3341.76    835.44
+
+                                                                                                         ----------
+UKUPNO                                                                                                     92417.07
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

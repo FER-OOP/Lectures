@@ -1,0 +1,32 @@
+Račun br. 731329
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ugradna svjetiljka SEO XTP T5 4x14W ECG IP54 M625, bijela                          1177.63    2   2355.26    588.82
+Ugradna downl. svj. ERM 201 2x13W CCG TC-D IP20, bijela                             218.89   25   5472.25   1368.06
+Telekomunikacijski kabel F-YAY 100x2x0,8mm2                                          10000   18 180000.00  45000.00
+Okvir 2-struki, antacit                                                              15.62    3     46.86     11.72
+Poliester kućište 180x180x129mm, prozirni poklopac,IP66,sivo                        319.45   21   6708.45   1677.11
+"Mini 4,3"" COLOR-monitor, bijeli, za SBC sistem"                                  2008.81    1   2008.81    502.20
+Kabelska stopica viličasta, izolirana, crv. 0,5-1,0mm², M6                           60.67    5    303.35     75.84
+BILAS LED ugradna stropna svj. 20W 2700K 60°, okrugla, cb                          1871.23    1   1871.23    467.81
+Skidač izolacije instalacijskih kabela                                               172.7   30   5181.00   1295.25
+Maria-WL-DI-R LED 6x1W 6000K, IP54, sive boje                                       165.74   11   1823.14    455.78
+Ugradna svjetiljka SE-ID ECO PAR L1 T5 2x24W ECG M625,bijela                        617.44   16   9879.04   2469.76
+LED napajanje LPF 40W/12V, MM, IP67                                                 468.54    1    468.54    117.14
+NV rastavna sklopka vel.1|250A, 3P, M10, nadzor. osig., 60mm                          4832   28 135296.00  33824.00
+Grebenasta sklopka, 1-0-2/1P/20A,na vrata,centralno učvršć.                         211.08    5   1055.40    263.85
+IP2x zaštita od dodira, za 3-polne MC3 (montaža na MC390045)                         47.87   19    909.53    227.38
+SAT koaks. presp. kabel, 2xF-quick kon.,kl.A, bijeli, 2.5m                           22.45   23    516.35    129.09
+Kompaktni prekidač snage tip VE, 3P/630A/70kA                                       4497.6   11  49473.60  12368.40
+Telekomunikacijski kabel J-Y(ST)Y 20x2x0,6mm2                                      1470.43    4   5881.72   1470.43
+HQI DL 195 Set,70W, srebrne boje uklj. ECG i 1m kabela                              578.81   29  16785.49   4196.37
+Preklopnik 8xRJ45 10/100T bez vent., vanj. napajanje, stolni                           176   27   4752.00   1188.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    430788.03
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

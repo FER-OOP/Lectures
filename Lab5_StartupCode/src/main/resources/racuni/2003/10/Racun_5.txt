@@ -1,0 +1,29 @@
+Račun br. 169142
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+DIGI-SAT 3000 koaks.75Ohm 1.02/6.6,90dB,kl.A,PVC,bijeli,500m                        179.52   10   1795.20    448.80
+NEW TRIA 68 GU10 downlight, okrugli, mat crne b., max. 50W                           187.2   27   5054.40   1263.60
+Prednja ploča, plastična, slijepa, 4B9K                                               4160    5  20800.00   5200.00
+Prsluk Store, muški -middle-                                                         449.7   11   4946.70   1236.68
+Pako-Q/A2 LED 1W 3000K 45lm, dimabilna, 350mA, IP20, crne b.                         37.67   25    941.75    235.44
+Akumulator 3,6V 3,3Ah f.8W/6W 3h                                                    138.45    2    276.90     69.22
+Montažna ploča za IP54, 3A-28                                                         4160   26 108160.00  27040.00
+Finožični PVC-om izolirani vodič H07V-K (P/F) 2,5mm2, crveni                        195.31   10   1953.10    488.27
+LED trake tople bb, 30,5cm, sa 24 LED, DC 24V                                        62.51    8    500.08    125.02
+"Optička ladica, prazna, za 24xLC duplex spojnica, 19"""                            338.64    4   1354.56    338.64
+Gumeni savitljivi kabel NSSHöu-J 4x6, žuti                                           10000   21 210000.00  52500.00
+Prespojni kabel RJ45 cat.6 neoklopljen, PVC, crveni, 1.0m                                9   26    234.00     58.50
+EUTRAC Ovjes za 3-fazne šine, 120cm,srebrne boje                                    312.23    1    312.23     78.06
+Finožični PVC-om izol. vodič H05V-K (P/F) 0,5mm2, ljub. HPV                          10000   21 210000.00  52500.00
+Stražnji priključak za 4-polne MC4 (4 kom.)                                         625.18   11   6876.98   1719.24
+POWER TRAIL LITE, tople bi.b., četvrt. pokrov                                       437.43   20   8748.60   2187.15
+Pokrov lučne komore za MO1, 4-polni (kao rezervni dio)                                4970    7  34790.00   8697.50
+
+                                                                                                         ----------
+UKUPNO                                                                                                     616744.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

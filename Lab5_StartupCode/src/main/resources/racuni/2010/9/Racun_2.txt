@@ -1,0 +1,14 @@
+Račun br. 534083
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"Samostojeći komunikacijski ormar DS 800x1080x800, 19"", 22U"                      3227.34    6  19364.04   4841.01
+Gljivasto tipkalo s povratom, crveno                                                 44.06    5    220.30     55.08
+
+                                                                                                         ----------
+UKUPNO                                                                                                    19584.342
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

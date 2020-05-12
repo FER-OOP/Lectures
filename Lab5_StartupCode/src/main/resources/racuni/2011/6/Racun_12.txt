@@ -1,0 +1,25 @@
+Račun br. 973365
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Cave-II-S LED 2,7W 6000K, IP54, sive boje                                           322.54   16   5160.64   1290.16
+LS-FI (KZS), C/13A/100mA, 2P, Tip A, 10kA                                             4281   16  68496.00  17124.00
+Prednja ploča elektroničke sklopke za rolete, bijela                                 68.54   17   1165.18    291.30
+LED Svj. za slike traka,antik mesing,traka sa 24 bb LED                             750.35    3   2251.05    562.76
+Vodotijesna svjetiljka LINDA Transparente 1-58W ECG IP65 PC                         448.96   14   6285.44   1571.36
+Prednja ploča antenske utičnice sa 4 otvora, biserno bijela                          29.51    6    177.06     44.26
+LED prespojni kabel RJ45 neoklopljen, cat.6, sivi, 10m                               91.72   19   1742.68    435.67
+Nadgradna svjetiljka SARH IP54 T5 4x28W ECG, bijela                                 1821.6    5   9108.00   2277.00
+Kutija za izj. potencijala (4x2,5mm2 i 1x6mm2),umetak,bijela                        201.51    9   1813.59    453.40
+Pokrov za svjetleće tipkalo, individualni                                            13.04   29    378.16     94.54
+Instal. umetak 3-24L komplet 8 IR prednja pl. plastika                             1769.43   30  53082.90  13270.73
+SITRA CUBE zidna svj., četvrtasta, bb, GX53, max. 9W                                 393.5   25   9837.50   2459.38
+Ind.svj.ARKTUR SQUARE LED 147W 13200lm/840 ECG IP65 55°                            3118.34    3   9355.02   2338.76
+
+                                                                                                         ----------
+UKUPNO                                                                                                    168853.22
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

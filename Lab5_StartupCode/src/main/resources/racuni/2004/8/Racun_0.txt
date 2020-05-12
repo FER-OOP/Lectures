@@ -1,0 +1,33 @@
+Račun br. 502841
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Teretna sklopka, 3P, 630A, opcija:dalj. isklop+izvl. modul                         5244.66   22 115382.52  28845.63
+Silikon-Acetat, bijeli, 310ml                                                        39.93    8    319.44     79.86
+Kopče za žlijeb za PEN LIGHT, 10 kom.                                                50.01    8    400.08    100.02
+Proširenje prazno,bez punjača za USMLT, za 40Ah                                   16773.12   23 385781.75  96445.44
+Otvoreni prekidač, 4P, 80kA, 2500A, fiksni,vod. str. priklj.                      69103.13   201382062.63 345515.66
+D02 rastavna sklopka TYTAN TH1, 3P, s nadzorom osigurača                            773.86    9   6964.74   1741.19
+Dvostruka priklj. stezaljka za Cu/Al,sm:2x35-150,se:2x50-185                         48.86    4    195.44     48.86
+Ring za SLEEK G12 Spot, crni                                                         50.01   23   1150.23    287.56
+"Kontrol.bat. Bat-Logg za CPS Maxi 18 bat. od 17Ah-60Ah; 5m"                      14196.18    6  85177.08  21294.27
+LED traka 35 CLW Ra=90+, 7,7W/m, 547lm/m, 24VDC,IP44, l=5m                          870.91    6   5225.46   1306.36
+Zaštitni prekidač MB 18kA CL 16/3                                                   520.33   13   6764.29   1691.07
+Ovjes za LINUX LIGHT, srebrne boje                                                  155.78   17   2648.26    662.07
+PlanoCentro 201, senzor prisutnosti, p/ž,  stropni, crni                            4150.7   18  74712.60  18678.15
+IBDN prespojni kabel RJ45 UTP cat.6A, zeleni, 7.6m                                    6804   14  95256.00  23814.00
+Izolirani kabelski tuljak, dvostruki, bijeli, 2x0.5mm²/8mm                            0.21    9      1.89      0.47
+Majica Store, ženska, kratkih rukava -X-large-                                      301.79    4   1207.16    301.79
+Stezaljka za uzemljenje 3x16 i 4x16mm2                                                4146   23  95358.00  23839.50
+NV osigurač vel. 00, 50A/400V AC                                                     19.92   26    517.92    129.48
+Rob-I-S LED 3W 3000K 150lm, IP20, bijele boje                                       505.69   11   5562.59   1390.65
+Ovjesna svjetiljka, PD 115 E27, okrugla, bb, max. 60W                              1250.97    1   1250.97    312.74
+Tipka MO 1M sa simbolom zvona i indikacijom, crna                                     8.28   13    107.64     26.91
+
+                                                                                                         ----------
+UKUPNO                                                                                                    2266047.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

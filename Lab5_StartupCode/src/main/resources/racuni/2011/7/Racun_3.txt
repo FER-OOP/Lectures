@@ -1,0 +1,33 @@
+Račun br. 329634
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kompaktni prekidač snage tip A, 3P, 25kA, 160A, utični                              2693.9   23  61959.70  15489.92
+Zavr.pok. za LED zidni profil, 2kom (lijevi/desni)                                    12.5   19    237.50     59.38
+TRAIL podna svj.LED 1250mm 19W 1800lm sim. 4000K                                   4853.42    3  14560.26   3640.06
+Kompaktni prekidač snage tip AE, 4P, 150kA, 400A                                    7066.8   14  98935.20  24733.80
+Izmjenjivač 24V DC/ 230VAC 180W sa šuko utičnicom                                   960.91   18  17296.38   4324.09
+"Optički prespojni panel 19"", 1U, uklj. 4 spojnice SC SM"                          481.51   17   8185.67   2046.42
+FI-trafo 400A, tip W3-U, za BC990016 i BC990018                                    2891.08   27  78059.16  19514.79
+Izolir traka, žuto/zelena, 15mm x 10m - COROPLAST                                     6.45   10     64.50     16.13
+Reflektor LED , 10W,4200K,850lm ,100°, IP65 za CPS sustav                           546.09   22  12013.98   3003.50
+N/Ž inst. razdj. 2A-12, 4-redni, 84 ŠM, 640x590x180mm                                 4170   14  58380.00  14595.00
+Instalacijski umetak za Minipol ormar 800x600mm, 5x29 modula                       1147.56   27  30984.12   7746.03
+Maskirni razdj. 2M-24, 8-redni, 168 ŠM,1105x540x200mm(VxŠxD)                       2345.48   19  44564.12  11141.03
+Otvoreni prekidač, 4P, 55kA, 1600A, izvl., vod. str. priklj.                      48065.14   17 817107.38 204276.84
+Ugradna downlight svj. ERM 201 2x18W TC-DEL ECG IP20, bijela                        233.32    4    933.28    233.32
+7615A, 160w R7 230v                                                                   7.94   14    111.16     27.79
+LED RETROFIT RL-A100 DIM 15W 230V 827 1520lm mat E27 25000h                         102.45   30   3073.50    768.38
+Aura 3 Senzor LED 15W, 3000K, 1940lm, IP43                                         1040.02   17  17680.34   4420.08
+Ind.svj.ARKTUR SQUARE LED 113W 9900lm/840 ECG IP65 110°                            2733.37   11  30067.07   7516.77
+Optički prespojni kabel duplex, SC/SC, 50/125µm OM2, 1.0m                            62.07    3    186.21     46.55
+Prespojni kabel RJ45 cat.6 neoklopljen, PVC, crveni, 2.0m                             12.8   26    332.80     83.20
+SERH ECO A8 L1 T5 2x80W EVG M600, bijela b.                                           8534   24 204816.00  51204.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1499548.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

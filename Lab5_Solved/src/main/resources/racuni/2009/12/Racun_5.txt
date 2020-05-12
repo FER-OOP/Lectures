@@ -1,0 +1,22 @@
+Račun br. 108018
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Samostojeći ormar, 1-vrata, 1400x600x300 (VxŠxD), RAL 7035                         3827.55   30 114826.50  28706.63
+Kabel marker, plastični, prozirni, za kabel promjera 10-25mm                          9.43   19    179.17     44.79
+Prednja ploča za tipkalo EL735140, biserno bijela                                     2104    1   2104.00    526.00
+Pokrov 45F za DIII, E33 postolje, za IP74069--                                        4821   19  91599.00  22899.75
+Svjetleće tipkalo s povratom, crveno 230V                                           115.67    1    115.67     28.92
+Redna stezaljka (utični priključak), 4mm², tip HMM.4, siva                            3.98    1      3.98      1.00
+Kompaktni prekidač snage tip A, 4P, 50kA, 160A/100A, red. N                         2762.2   23  63530.60  15882.65
+PATH POLE 17cm 360° 8x1W LED, 40° 4000K RAL9006                                     2067.8   11  22745.80   5686.45
+GU10 grlo 230V sa stezaljkama i zaštitnom kapom                                      15.97   28    447.16    111.79
+Teretna sklopka, 3P, 250A, opcija: daljinski isklop                                1677.72   25  41943.00  10485.75
+
+                                                                                                         ----------
+UKUPNO                                                                                                     337494.9
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

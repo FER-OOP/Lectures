@@ -1,0 +1,32 @@
+Račun br. 446881
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ind.svj.ARKTUR SQUARE LED 113W 11250lm/740 ECG IP65 110°                           2733.37   18  49200.66  12300.17
+Sklopka 1-0-2, 16A, 2 C/O, montaža na DIN nosač                                      87.81   14   1229.34    307.33
+Mini sklopnik 4P | 4kW [AC3] | 24V DC + varistor                                    188.62   28   5281.36   1320.34
+Okvir 1-struki, bijeli                                                                 3.5    7     24.50      6.13
+ASTRO TUBE I stropna svj.al-bruš.1xGU10,max.75W                                     343.66    5   1718.30    429.58
+Zaštitni prekidač, C karakteristika, 6A, 2-polni, 6kA                                 78.3   16   1252.80    313.20
+Mela-R LED 24W 3000K 2150lm, IP20, bijele boje                                      556.89    9   5012.01   1253.00
+"2-struki okvir ""Fashion"", sivi, IP44"                                             149.5   12   1794.00    448.50
+EASY LIM RF SINGLE COLOR SLAVE 12V/DC i 24V/DC                                       62.51   18   1125.18    281.29
+Kronos-S/A2 LED 2x7W 3000K 2x400lm, IP20, sive boje                                  410.4    2    820.80    205.20
+PRIMOLUX LED 51W 5900lm/840 opal ECG IP44, dužine 1535mm,bb                        1054.77   18  18985.86   4746.46
+DIGI-SAT 3030 koaks.75Ohm 1.02/6.8,100dB,kl.A,PVC,bijel,500m                        273.54    7   1914.78    478.70
+CARISO Glas, LED  zidna svjetiljka, 7,5W LED,3000K,bijele b.                       1000.75   28  28021.00   7005.25
+Modul signalne svjetiljke,treptajuće crveno svjetlo,24VAC/DC                        589.36   21  12376.56   3094.14
+Transformator, 1-fazni | 230/024V | 400VA, IP00                                      505.7   28  14159.60   3539.90
+Dodatni pokrov 4. pola, kod motornog pogona, za MC2                                  47.87   25   1196.75    299.19
+Silikon-Acetat, prozirni, 310ml                                                      39.93   24    958.32    239.58
+NV kratkospojnik 160A, vel.00                                                        38.62    4    154.48     38.62
+FORCHINI, ovj.svj., PD-2, okrugla, cb/sb, E27, max. 40W                             875.55   28  24515.40   6128.85
+Pomoćni kontakt (LA3007-LA3074), 6A (230V, AC15), 1 N/C                              23.57   10    235.70     58.92
+
+                                                                                                         ----------
+UKUPNO                                                                                                     169977.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

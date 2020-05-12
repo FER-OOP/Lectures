@@ -1,0 +1,28 @@
+Račun br. 697338
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Steve-II-S LED 6,7W 3000K 56lm, IP65, sive boje                                     732.94   12   8795.28   2198.82
+Tipka za sklopke i tipkala,termički postojana,biserno bijela                         13.74    3     41.22     10.31
+LEDPANEL 100 SMD, nadgradna, četvrt., bijela, 3000K                                 500.12   16   8001.92   2000.48
+Nadgradna svjetiljka SARS 2 ECO T8 2x58W CCG, ind, bijela                           369.06   12   4428.72   1107.18
+BEGEH Security Transponder                                                         2674.67   22  58842.74  14710.68
+Nazidni okvir s vratima za Modul 2000 | 4A-42 | dubina 400mm                       4923.66   23 113244.19  28311.05
+Daljinski isklopnik 110V AC/DC (tvornički ugrađen)                                  1161.4    1   1161.40    290.35
+VINTA, LED 2W, E14, 2700K                                                            80.76    2    161.52     40.38
+Redna stezaljka (vijčani priključak) 6mm², tip AVK, siva                              2.92   22     64.24     16.06
+Kabel H05VV-F (PP/J) 4x2,5mm2, svijetlo-sivi, 50m                                    10000   22 220000.00  55000.00
+PIKA MR16 Downlight, bijele boje                                                     57.44   22   1263.68    315.92
+Utičnica MO 2M IP44, sa poklopcem, 16A, bijela                                       51.89   23   1193.47    298.37
+Tipka za sklopke i tipkala, svjetleća, alu efekt                                     59.75    8    478.00    119.50
+Plafonjera SLAVO 260 12W 1050lm/840 ECG, bijela                                     354.17   21   7437.57   1859.39
+Bezhalogeni telekomunikacijski kabel J-H(ST)H 10x2x0,8 sivi                          10000    6  60000.00  15000.00
+Pokrov stezaljki za sklopnike veličine 6, kratki                                     42.59    4    170.36     42.59
+
+                                                                                                         ----------
+UKUPNO                                                                                                     485284.3
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

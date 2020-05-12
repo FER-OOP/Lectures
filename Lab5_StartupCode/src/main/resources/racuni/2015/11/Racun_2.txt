@@ -1,0 +1,31 @@
+Račun br. 233732
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+KNX dimer, EM, 20-1000VA                                                           1181.51    9  10633.59   2658.40
+Montažna ploča 3PB, 670x70x13mm RAL 7035                                             77.69   27   2097.63    524.41
+LS-FI (KZS), B/32A/100mA, 2P, Tip A, 6kA                                              4281    1   4281.00   1070.25
+SAT multiswitch 9 IN 8 OUT za quattro LNB,unut. napajanje                           790.43   25  19760.75   4940.19
+Rolo-WL 2 E27 2x75W, aluminij, hrđavo smeđe boje                                    245.32   22   5397.04   1349.26
+Linijska svj. SERH-LT 112, srednji profil,  2x80W, ECG, bb                          616.82   19  11719.58   2929.90
+Sabirnica za 2 rastavne sklopke NH00, 35mm², korak 33mm                             140.04   12   1680.48    420.12
+Optički prespojni kabel duplex, ST/FC, 62,5/125µm OM1, 2m                            61.48   22   1352.56    338.14
+Nadgradna svjetiljka SAO ECO T8 1x36W CCG ind, bijela                               367.05    5   1835.25    458.81
+Bruno-WL-I-S 20W E27, 100-240V, IP54, sive boje                                     251.91   10   2519.10    629.78
+Teretna sklopka, 4P, 100A                                                           724.35   23  16660.05   4165.01
+N-TIC PRO MR16, četvrtasti pokr.                                                   1188.46   30  35653.80   8913.45
+Podnožje DC patrona priključka M10                                                   78.62   24   1886.88    471.72
+KNX dimer, HM, 20-300VA                                                            1291.81   26  33587.06   8396.77
+Montažna ploča 4PB, 890x202x13mm, 5 visinskih jedinica                              253.59    1    253.59     63.40
+Proširenje sa accu i punjačem za USMLT 480V / 40 x 65 Ah                          80363.55    3 241090.64  60272.66
+Nosač PE/N sabirnica, 2-polni, za sustav 60mm                                        66.25    1     66.25     16.56
+Potporni izolator visine 50mm, obostrano s maticom M8, 2kV                            4837   25 120925.00  30231.25
+Ina-R 50W GU5,3 MR16, 12V, IP20, aluminij                                            69.78   30   2093.40    523.35
+
+                                                                                                         ----------
+UKUPNO                                                                                                    513493.66
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,15 @@
+Račun br. 520291
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Priključna kutija, čelik, 200x300x80 (VxŠxD), IP66, RAL7035                         181.14    7   1267.98    316.99
+Fleksi spojnica za DELF C PRO RGB                                                    43.76   15    656.40    164.10
+Bakrena sabirnica, TT profil, 1600A, duljina 3.6m                                  4403.08   13  57240.04  14310.01
+
+                                                                                                         ----------
+UKUPNO                                                                                                    59164.418
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

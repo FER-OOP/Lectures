@@ -1,0 +1,32 @@
+Račun br. 737656
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kompaktni prekidač snage tip A, 3P/50A/50kA, MC1                                    802.51   22  17655.22   4413.81
+L-SE sjajni odsijač R12 T5 AL 35-80W duboki, aluminij                               100.68   17   1711.56    427.89
+Prednja ploča, plastična, slijepa, 2B3K                                               4160   12  49920.00  12480.00
+89302,  REPEATER 12-36V RGB+W 4kanal x 5A                                           293.14    1    293.14     73.29
+Ugradna svjetiljka SEP ECO T8 4x18W CCG IP54 M600, bijela                           460.13   14   6441.82   1610.46
+Vanjski pisač za CPS sustave                                                        6343.1   10  63431.00  15857.75
+Alu-prednja ploča, veličina 2                                                        83.42   11    917.62    229.40
+Tris-I-R/A1 LED 3x1W 3000K 135lm,dimabilna,350mA,IP20,alu                            89.21   28   2497.88    624.47
+Nosač baterija 18xNLBA120 - NLBA250 880x1650x590mm                                 8930.25    2  17860.50   4465.13
+Pokrov za svjetleće tipkalo, zeleni                                                   8.52    3     25.56      6.39
+Kofer za alat 56-dijelni                                                           1097.89    8   8783.12   2195.78
+P/Ž stanski kombi razdjelnik, Š595xV785xD116, RAL9010                                 4083    7  28581.00   7145.25
+Henry-II-S 20W E27, 100-240V, IP20, natural                                        1060.73   12  12728.76   3182.19
+Senzor prisutnosti, 180°, 8m, p/ž, zidni, IP54, bijeli                                 953   14  13342.00   3335.50
+LINDA LED PC 2x30W, 4000K, 8749lm, IP65, Inox kopče, siva                          1529.64   16  24474.24   6118.56
+Set za povezivanje AS ormara iznutra (6 kom.)                                       142.08   10   1420.80    355.20
+AIXLIGHT R2 OFFICE T5,zaobljena,sr.b.,2xT5 54W+2xES111 75W                         2997.68   20  59953.60  14988.40
+Ciri-L LED 30W 4000K, 2200lm, 80°, IP20, aluminij, bijele b.                        497.24    7   3480.68    870.17
+TEC reflektor, 4xQRB111, sa 3-faznim adapterom, srebrne boje                       1307.91   24  31389.84   7847.46
+Zaštitni prekidač, C karakteristika, 32A, 3-polni, 10kA                             100.67    6    604.02    151.01
+
+                                                                                                         ----------
+UKUPNO                                                                                                     345512.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

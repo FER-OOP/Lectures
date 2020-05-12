@@ -1,0 +1,17 @@
+Račun br. 427215
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Telekomunikacijski kabel J-Y(ST)Y 50x2x0,6mm2                                       3592.6    2   7185.20   1796.30
+PLASTRA, CL-1, četvrt., bijeli gips, GU10, max. 35W                                 374.92   15   5623.80   1405.95
+Prednja ploča za sklopku sa bravom (EL121920),biserno bijela                        129.53    3    388.59     97.15
+Podnožje N voda vel.00, M8/mostić                                                    47.56   16    760.96    190.24
+Neizolirana Cu stopica 50mm², M10                                                      5.4    2     10.80      2.70
+
+                                                                                                         ----------
+UKUPNO                                                                                                     13969.35
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

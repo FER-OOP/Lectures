@@ -1,0 +1,18 @@
+Račun br. 730233
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Prednja ploča, plastična, slijepa, 5B5K                                               4160   16  66560.00  16640.00
+Elektronski transformator Halotronic 105W 230V/12V                                  122.86   27   3317.22    829.30
+LED LINK LINE sabirna točka 12xRJ45 cat.6a,12xk.bl.in.kab.                          835.14   18  15032.52   3758.13
+Nadgradna svjetiljka PRIMO H PRISMA T5 2x28W ECG, bijela                            330.75   19   6284.25   1571.06
+Prespojni kabel RJ45 STP cat.6a/10GB, LS0H, sivi, 3.0m                               43.43    5    217.15     54.29
+Ventilator s filterom 320x320x150mm IP54, 66W, 370m3/h                             1028.68    3   3086.04    771.51
+
+                                                                                                         ----------
+UKUPNO                                                                                                     94497.18
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,19 @@
+Račun br. 572727
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Postolje ormara IG008205, 1115x950x310mm (ŠxVxD), RAL7035                          2996.22   30  89886.60  22471.65
+Ugradna downl. svj. ERM 251 1x70W CCG RX7s, bijela                                  180.57   26   4694.82   1173.71
+Univer. opt.  kabel U-DQ(ZN)BH 12x50µm OM3, nm.                                    2020.81   29  58603.49  14650.87
+Plosnati kut  za kanal SIGNA 70/110 RAL9001                                         188.19   16   3011.04    752.76
+Gumena uvodnica za kabel, bijele boje 8mm/6mm                                         1.61    6      9.66      2.41
+E-AYY-O 1x300RM                                                                      10000   27 270000.00  67500.00
+Signalni fleksibilni kabel YSLCY-JZ 50x 1 sivi                                       10000   18 180000.00  45000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     606205.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

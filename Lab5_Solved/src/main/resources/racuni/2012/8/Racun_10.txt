@@ -1,0 +1,28 @@
+Račun br. 1068243
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Signalni fleksibilni kabel YSLCY-JZ 25x 1 sivi                                      5170.3   10  51703.00  12925.75
+Fluo cijev T8|T26 36W/840 G13                                                         30.4   22    668.80    167.20
+Senzor prisutnosti 360B KNX, 8m, p/ž, stropni, IP54, bijeli                        1429.58   28  40028.24  10007.06
+D02 rastavna sklopka TYTAN II, 3-polna, 63A, 50kA                                   306.28   13   3981.64    995.41
+Parabol.širokosnopni odsijač za svjetiljku LINDA 2-28W 160mm                        147.06   26   3823.56    955.89
+LIPSY 50 LED stropna svj., okrugla, 30W, 3000K, 2500lm, bb                         1063.26    9   9569.34   2392.33
+Zaštitni prekidač, C karakteristika, 20A, 1-polni+N, 6kA                             54.22   22   1192.84    298.21
+LED napajanje HW 3W/500mA, mini, IP65                                                100.4   24   2409.60    602.40
+Levante-S 10 LED 24W 2215lm 4000K asim.,IP66, SKII, RAL9003                        2006.63   20  40132.60  10033.15
+Ugradna kutija za šuplje stijenke, Ø60, 47mm, narančasta                            313.56    8   2508.48    627.12
+Kabel H05VV-F (PP/J) 7x1,5mm2, svijetlo-sivi, 500m                                   10000   15 150000.00  37500.00
+Zaštitna maska za gljivasta tipkala, žuta                                             23.9   21    501.90    125.47
+Instal. umetak 4-33L komplet 11 IR prednja pl. plastika                            2652.71   13  34485.23   8621.31
+Plastični pokrov SL ravan/proz. 91%,D-2000 Š-58 V-10,7mm                             108.9   12   1306.80    326.70
+Bezhalogeni kabel s el. funkc. do90 Min. (N)HXH-O1x300rmE90                          10000    8  80000.00  20000.00
+Poliester kućište 380x190x100mm sivo - E1                                           351.75   19   6683.25   1670.81
+
+                                                                                                         ----------
+UKUPNO                                                                                                     428995.3
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

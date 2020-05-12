@@ -1,0 +1,19 @@
+Račun br. 986441
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zamjenjiva skala, 96x96mm, 2000/4000/5A AC                                            4399   25 109975.00  27493.75
+Zaštitni prekidač AMPARO 6kA, C 13A, 1-polni                                         27.55    2     55.10     13.77
+Signalni fleksibilni kabel YSLY-JZ 5x2,5 sivi                                      1440.07   28  40321.96  10080.49
+7312M/D/30, LED MODULE DL 4x3w 700mA 30 °                                            52.03   10    520.30    130.07
+Adapter D01 na D02 Arrow                                                              2.85   26     74.10     18.52
+MEDO 60 LED, ugradna svjetiljka, crvene boje                                          8570   28 239960.00  59990.00
+Spojnica sa smolom MU2 Ø3-28mm                                                      268.18   28   7509.04   1877.26
+
+                                                                                                         ----------
+UKUPNO                                                                                                    398415.47
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

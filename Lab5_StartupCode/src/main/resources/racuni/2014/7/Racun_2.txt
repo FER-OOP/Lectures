@@ -1,0 +1,29 @@
+Račun br. 181934
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Aluminijski profil LBF - 2m                                                          42.66   17    725.22    181.30
+P/Ž kutija, 1 modul, POWERCOM/IKALL                                                   45.4   21    953.40    238.35
+Nazidno tipkalo za rolete, sivo, IP44, utične stezaljke                              100.1   24   2402.40    600.60
+Mikroprizmatični bočni pokrov MF Opal 2m                                             83.66   26   2175.16    543.79
+52 traperice, vodootporne,sa puno džepova                                           516.06   11   5676.66   1419.17
+SENSER LED PANEL nadgradni, 10W, 3000K, okrugla, bijele boje                        531.37    8   4250.96   1062.74
+Bezhalogeni kabel s el. funkc. do30 Min.(N)HXH-JZ12x1,5reE30                         10000   17 170000.00  42500.00
+IBDN prespojni kabel RJ45 UTP cat.6A, sivi, 4.6m                                     92.84   20   1856.80    464.20
+FIN XS Wall LED 4W 4000°K, bijela                                                   685.23   19  13019.37   3254.84
+Kabel EYY-J (PP00-Y) 5x4 RE                                                         1780.1   16  28481.60   7120.40
+Perforirana vrata s bravicom, za DW ormare 18U, Š=600                               331.88    3    995.64    248.91
+Elektronski transformator Halotronic 70W 230V/12V                                   111.54   19   2119.26    529.82
+Plafonjera MALLE LED 19W 1800lm/840 ECG, bijela                                     669.79   22  14735.38   3683.85
+D02 rastavna sklopka ARROW S, 1-polna, 16A                                          121.75   18   2191.50    547.88
+Prespojni kabel RJ45 cat.6 neoklopljen, PVC, zeleni, 5.0m                            23.91    5    119.55     29.89
+Fronius Symo Hybrid 5.0-3-S Storagesystem Set 6.0                                    10000   23 230000.00  57500.00
+Kompaktni prekidač snage tip A, 3P, 150kA, 25A                                     2409.72    5  12048.60   3012.15
+
+                                                                                                         ----------
+UKUPNO                                                                                                    491751.47
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

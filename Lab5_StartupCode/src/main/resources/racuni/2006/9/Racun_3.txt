@@ -1,0 +1,19 @@
+Račun br. 277354
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Punto-LR-R/A1 50W GU5,3 MR16, 12V, IP20, brušeni krom                                21.96   21    461.16    115.29
+LED FLOOD LIGHT,cr.b., 10W, LED bi.b., 120°                                         625.15    8   5001.20   1250.30
+N uvodnik sa ispitnom utičnicom, širine 1 modula                                     65.93   10    659.30    164.82
+PlanoCentro 000, senzor prisutnosti, pomoćni, strop , srebrn                       3330.75   30  99922.50  24980.63
+LED prespojni kabel RJ45 oklopljen,500 MHz,Ea,10GB,sivi, 15m                        188.65   26   4904.90   1226.22
+Zaštitni prekidač, C karakteristika, 13A, 2-polni, 10kA                              91.14    1     91.14     22.78
+Kabelska spojnica, izolirana, žuta, 4-6mm²                                          158.05   13   2054.65    513.66
+
+                                                                                                         ----------
+UKUPNO                                                                                                    113094.84
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

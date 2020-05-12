@@ -1,0 +1,15 @@
+Račun br. 249858
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+CRYSTAL VIII Downlight svjetiljka                                                   280.98   17   4776.66   1194.17
+Instalacijski sklopnik 20A | 1 N/O + 1 N/C | 230V AC                                113.32   21   2379.72    594.93
+NV rastavna pruga vel.00|160A, 3P, M8, sustav 185mm                                 615.36   22  13537.92   3384.48
+
+                                                                                                         ----------
+UKUPNO                                                                                                      20694.3
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

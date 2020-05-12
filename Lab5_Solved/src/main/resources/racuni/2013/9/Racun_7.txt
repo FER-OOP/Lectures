@@ -1,0 +1,16 @@
+Račun br. 828858
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Utični modul Ethernet za NA96 i NA96+                                              1557.48   15  23362.20   5840.55
+FIN POLE 100cm 2x 20W HIT GU6,5 UP & DOWN MAT STAKLO si.b.                         6613.75    3  19841.25   4960.31
+Kompaktni prekidač snage tip VE, 3P, 85kA, 800A                                   20584.73   27 555787.75 138946.94
+Ugradna svjetiljka SE-ID PAR MAT V2 2x24W,T5, ECG, bijela                           525.75    3   1577.25    394.31
+
+                                                                                                         ----------
+UKUPNO                                                                                                    600568.44
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

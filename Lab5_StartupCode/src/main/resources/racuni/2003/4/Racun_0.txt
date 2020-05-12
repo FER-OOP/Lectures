@@ -1,0 +1,27 @@
+Račun br. 339391
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Priključna kutija, nehrđajući čelik, 400x400x120(VxŠxD),IP66                       1939.76   24  46554.24  11638.56
+FLEXLED ROLL SLIM 24V, 3m, 2700K                                                    374.92   27  10122.84   2530.71
+LS-FI (KZS), C/32A/30mA, 1P+N, Tip AC, 10kA                                         309.93   19   5888.67   1472.17
+Ugradna svj. SELENA OP LED ECO 37W M600 3700lm/830 ECG,bb                            731.4   19  13896.60   3474.15
+Ugradna svjetiljka SE-ID PAR V2 2x14W,T5, ECG, bijela                               596.03   24  14304.72   3576.18
+FI-blok 80A, 4-polni, 30mA, Tip A (Puls)                                              4290   11  47190.00  11797.50
+Tunel stezaljke 4 x 50-240mm2, za 4-polne MC4                                       1763.8   17  29984.60   7496.15
+Set za montažu Minipol ormara širine 500mm na stup                                  239.36   13   3111.68    777.92
+Finožični PVC-om izol. vodič H07V-K (P/F) 1,5mm2, ljub. HPV                          10000   14 140000.00  35000.00
+Sutil Quadro LED 16W, 4000K, 1120lm, 120°, IP40, bijele boje                        205.45   29   5958.05   1489.51
+EURO SPOT INTEGRIRANI LED, 3000K, 24°,uklj.3F adapter,bi.b.                         875.55   13  11382.15   2845.54
+Pločica + nosač, natpis: START                                                        8.93   27    241.11     60.28
+Kompaktni prekidač snage tip VE, 4P, 50kA, 1000A                                  19161.32   23 440710.38 110177.59
+Distribucijski blok, 4P, 125A, po polu: 2x35mm² | 10x16mm²                          157.33   13   2045.29    511.32
+Relej snage, 1C/O, 12A, 12VDC serije RT, raster 5mm                                  17.12   12    205.44     51.36
+
+                                                                                                         ----------
+UKUPNO                                                                                                     771595.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

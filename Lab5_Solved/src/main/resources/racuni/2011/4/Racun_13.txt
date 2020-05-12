@@ -1,0 +1,28 @@
+Račun br. 406264
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Telekomunikacijski kabel YYSCH 6x0,6mm2, boja slonovače                              10000    7  70000.00  17500.00
+FLEXLED ROLL 3D 24V, 1m, 5000K                                                      312.23   10   3122.30    780.58
+Isklopnik 3 N/O 16A, montaža na DIN nosač                                            71.39   28   1998.92    499.73
+Utikač za TYTAN II 3x40A sa D02 osiguračima, komplet                                152.53   28   4270.84   1067.71
+Instalacijski sklopnik 25A | 1 N/O + 3 N/C | 230V AC                                165.29   18   2975.22    743.80
+N/Ž inst. razdj. 4A-18, 6-redni, 270 ŠM, 915x1030x250mm                            3244.44   19  61644.36  15411.09
+"Opt. razdjelnik,16 niti, LC 50/125µm OM4, izvlačivi,19"",1U"                      1697.17   27  45823.59  11455.90
+Konektiranje 2x12 LC SM utikača + zašt. za povlačen                                4144.42    3  12433.26   3108.31
+Dekorativni pokrov za KALOS svjetiljku sa 4 kraka, antracit                         418.86   23   9633.78   2408.44
+Finožični PVC-om izolirani vodič H07V-K (P/F) 150mm2, crni                        12510.34   25 312758.50  78189.63
+Vartec modul varistor, VVM, TII, 320V/15kA                                           143.1   26   3720.60    930.15
+Panik svjetiljka KE Autotest,LED 3W/3h, univerzalna                                 932.41   10   9324.10   2331.02
+Signalni fleksibilni kabel YSLY-JZ 7x16 sivi                                         10000   23 230000.00  57500.00
+Signalni fleksibilni kabel YSLY-OZ 4x0,75 sivi                                       10000   14 140000.00  35000.00
+Ugradna svjetiljka SEP ECO T8 4x18W ECG IP54 M600, bijela                           421.81    3   1265.43    316.36
+Kronos-S/A2 LED 2x20W 4000K, IP20, sive boje                                        729.23    9   6563.07   1640.77
+
+                                                                                                         ----------
+UKUPNO                                                                                                     915534.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,19 @@
+Račun br. 1088981
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"Inverter Kaco Blueplanet 6.5; TL3, 3f, 2MPPT, IP65"                              16409.43   29 475873.47 118968.38
+Lingo LED 1W 3000K 60lm, 24V, dimabilna, IP20                                        29.39    6    176.34     44.08
+PROFIBUS DP 1x2x0,64 Buskabel za Profibus L2 Fast Connect                           911.81   20  18236.20   4559.05
+Vrata, prozirna za MODUL 160, 5x24 modula                                             4172   16  66752.00  16688.00
+L-SE sjajni odsijač R2 AL2x58 široki,aluminij.                                      100.68   27   2718.36    679.59
+Levante-S 20 LED 48W 3885lm 3000K rotosim.IP66,SKII,RAL9003                        3205.01   25  80125.25  20031.31
+FIN XS Pole 30 2x4W LED 3000°K, 600lm, siva                                        3024.84   12  36298.08   9074.52
+
+                                                                                                         ----------
+UKUPNO                                                                                                     680179.7
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

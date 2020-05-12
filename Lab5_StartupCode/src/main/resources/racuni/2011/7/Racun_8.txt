@@ -1,0 +1,23 @@
+Račun br. 937356
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Odvijač križni  izol. crveni                                                          2303    9  20727.00   5181.75
+Teretna sklopka, 3P, 100A, VC1, s produžnom osovinom                                461.51    2    923.02    230.75
+Newton asimetrični reflektor 18 LED 149W 4000K, IP66, antr.                        6837.19    1   6837.19   1709.30
+"Opt. razdjelnik, 16 niti,LC,50/125µm OM2, izvlačivi,19"",1U"                       790.02   18  14220.36   3555.09
+LED GU10 5,5W, 40°, 3000K                                                           218.46   16   3495.36    873.84
+NYCY 10x2,5RE/4                                                                    3968.05   16  63488.80  15872.20
+Vodotijesna svjetiljka LINDA Transparente 2-28/54W IP65                             591.37    6   3548.22    887.05
+Halogena žarulja QR-CBC 51 20W WFL 38° GU 5,3                                        11.79    7     82.53     20.63
+Kompaktni prekidač snage tip VE, 3P, 150kA, 100A                                   2296.62   15  34449.30   8612.33
+Stezaljke za širinski produžetak, za 3P MC3, 500A, za traku                         505.38   13   6569.94   1642.49
+7815B/G, Kutija za profil 7815, sive boje                                            65.89   29   1910.81    477.70
+
+                                                                                                         ----------
+UKUPNO                                                                                                    156252.53
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

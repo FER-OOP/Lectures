@@ -1,0 +1,23 @@
+Račun br. 1035662
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Nadgradna ind. svjetiljka SBOX AB 1x70W,HI,E27,MB, IP65                             913.44    7   6394.08   1598.52
+PTT brava sa mikroprekidačem, bez ključa                                            484.35   21  10171.35   2542.84
+Signalni fleksibilni kabel YSLY-JB 4x120 sivi                                        10000   28 280000.00  70000.00
+"1-struki okvir ""Fashion"", sivi, IP44"                                              2114    5  10570.00   2642.50
+Q-Line završna kapica, velika, siva, 2 komada                                        86.41   23   1987.43    496.86
+Prespojni kabel RJ45 cat.5e neoklopljen, PVC, plavi, 10.0m                           35.03   22    770.66    192.66
+Utičnica šuko narančasta na oprugu                                                   21.88    9    196.92     49.23
+Solasto ugradna podna svj., GU10, okrugla, nehrđajući čelik                         312.23   18   5620.14   1405.04
+Razvodna kutija, nadžbukna, 85x85x40mm, IP54, siva                                  423.45   13   5504.85   1376.21
+Nadgradna svjetiljka SAO IP54 T8 4x18W CCG, ind, bijela                            1296.78   24  31122.72   7780.68
+Nazidno dvostruko tipkalo, sivo, svjetleće, 2 N/O, IP44                              86.96    8    695.68    173.92
+
+                                                                                                         ----------
+UKUPNO                                                                                                     353033.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

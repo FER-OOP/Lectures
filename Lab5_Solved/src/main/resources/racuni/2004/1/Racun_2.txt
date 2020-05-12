@@ -1,0 +1,26 @@
+Račun br. 666128
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+L-SE montažna šina MR 1x28-54 5x1,5mm²                                              127.83    4    511.32    127.83
+Panik svjet. KD Wireless sa aku.bat LED 8h 230VAC , univ.                          1458.77   27  39386.79   9846.70
+Strujni trafo 250/5, 2.5VA, class 1, za SI337010...020...030                        226.49    9   2038.41    509.60
+Tarifni prekidač s podešavanjem na 16, 20 i 25A, 3-polni                            303.37    1    303.37     75.84
+60029, ONE LIGHT T-SHIRT EXTRA LARGE                                                  49.5    7    346.50     86.63
+Flexstrip 115 DH (Dynamic Home) Ra=90+, 24VDC, IP43, l=5m                          1866.24   30  55987.20  13996.80
+Debasto LED Spot, 8W, 3000K, Ra=80, 360lm, okrugla, sive b.                         813.03   12   9756.36   2439.09
+Rona-Q LED 30W 3000K 2500lm, IP54, bijele boje                                      636.47   26  16548.22   4137.05
+Tipka s ručicom,crvena,osvijetljena,3 polož.,50°,s povratom                          44.43   10    444.30    111.07
+Small Connect sabirnica, 1-polna, siva, duljine 1m                                   69.98   16   1119.68    279.92
+89010D, dimer, 1-10v 12-24v DC 1-kanalni 10A MAX                                     329.8   27   8904.60   2226.15
+SAT koaksijalni F-konektor navojni, za kabele 6.6 - 6.8mm                              1.7    8     13.60      3.40
+Utičnica šuko sa zatikom, vijčane stezaljke, bijela                                  15.94    5     79.70     19.92
+LED prespojni kabel RJ45 oklopljen,500 MHz,Ea,10GB,aqua,5m                           83.13    9    748.17    187.04
+
+                                                                                                         ----------
+UKUPNO                                                                                                    136188.22
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

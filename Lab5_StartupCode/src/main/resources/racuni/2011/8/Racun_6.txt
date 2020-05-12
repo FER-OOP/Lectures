@@ -1,0 +1,26 @@
+Račun br. 814688
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Plafonjera MALLE LED 19W 1800lm/840 ECG, bijela                                     669.79    9   6028.11   1507.03
+BIMA II svjetiljka za 1-faznu šinu, srebrne boje                                    365.29    4   1461.16    365.29
+"Natpisna pločica za umetanje fi=28mm, prozirna, ""CLOSE"""                           3.09   20     61.80     15.45
+Bezhal. kabel HSLH-OZ2x2,5FRNC H-F1žila ž/z ostale crn/siv                           10000   19 190000.00  47500.00
+Ciri-M LED 20W 4000K, 1400lm, 80°, IP20, aluminij, sive boje                        411.58   29  11935.82   2983.95
+Prespojni kabel RJ45 cat.6 oklopljen,s pregibnicama,žuti,3m                          20.53    2     41.06     10.27
+Ugradna svjetiljka SE-ID PAR MAT V2 2x24W, T5,ECG, bijela                           559.26   19  10625.94   2656.49
+Razvodna kutija, nadžbukna, 85x85x40mm, IP54, siva                                  423.45   16   6775.20   1693.80
+Dim. LED driver za Sutil Quadro 30W                                                 209.34   24   5024.16   1256.04
+Ulična svjetiljka GENESIS VP HST 100W IP65 RAL7030                                 1403.98   30  42119.40  10529.85
+FIN POLE 100cm LED 2x9x1W 3000K UP& DOWN MAT STAKLO antracit                       5622.59   17  95584.03  23896.01
+Priključna kutija, nehrđajući čelik, 150x150x120(VxŠxD),IP66                        993.94    3   2981.82    745.46
+STAKLO za 10242AG , satinirani rubovi                                                 7.94   28    222.32     55.58
+"Samostojeći kom. ormar IP54 600x1970x1000 ŠxVxD, 19"", 42U"                       5969.87   24 143276.88  35819.22
+
+                                                                                                         ----------
+UKUPNO                                                                                                    516137.66
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,25 @@
+Račun br. 1038659
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kompaktna sabirnica 4P, 1xFID 4P, 8xSI 1+N, 12 modula                                90.86   15   1362.90    340.73
+LED napajanje, 20W, 12V                                                             247.52   27   6683.04   1670.76
+NIJE RASPOLOŽIVO                                                                  35681.01   12 428172.13 107043.03
+Metalhalogena žarulja 35W CMH-MR16 PRECISE, 25°,4200K,GX10                          312.23    6   1873.38    468.35
+Sklopnik 3P |11kW (24A) [AC3] / 50A [AC1] | 24V AC                                  261.72    8   2093.76    523.44
+EURO SPOT COB LED, 3000K, 36°, uklj. 3F adapter, sive boje                          938.06   25  23451.50   5862.88
+Hotel-card sklopka, alu efekt                                                       214.21   26   5569.46   1392.36
+LED svjetleća oznaka, 230V AC, crvena                                                69.51   25   1737.75    434.44
+"Opt. razdjelnik, 8 niti, SC,50/125µm OM3, izvlačivi,19"",1U"                       804.52    1    804.52    201.13
+Bezhalogeni telekomunikacijski kabel J-H(ST)H 10x2x0,6 sivi                          10000    2  20000.00   5000.00
+Kutija 2x7M za knauf                                                                 51.89    6    311.34     77.83
+Signalna LED svjetiljka na DIN nosač, plava, 230V AC                                 44.07    5    220.35     55.09
+Zaštitni prekidač sa svojstvima rastavljača, C 100A, 4-polni                       1109.42    7   7765.94   1941.48
+
+                                                                                                         ----------
+UKUPNO                                                                                                    500046.06
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

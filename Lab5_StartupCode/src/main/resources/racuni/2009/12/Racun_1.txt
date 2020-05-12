@@ -1,0 +1,30 @@
+Račun br. 213218
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Plosnate stezaljke 25 x 20mm, visina: 5 - 20mm                                       51.31    5    256.55     64.14
+Signalni fleksibilni kabel YSLY-OZ 2x1                                               10000    9  90000.00  22500.00
+Henry-II-S 20W E27, 100-240V, IP20, natural                                        1060.73    4   4242.92   1060.73
+316 ANALOG-Panel Video s 9 tipki, nehrđajući čelik, VIP                           16016.43   30 480492.88 120123.22
+Poliester kućište 180x135x129mm, IP66, RAL 7035 (sivo)                              205.62    6   1233.72    308.43
+NEW TRIA II GU10, četvrt.obl., mat bijele boje, max. 2x 50W                         406.17   24   9748.08   2437.02
+Napajanje za 3-fazne šine, desno, bijela                                             43.25   19    821.75    205.44
+Bezhal. sign. kabel HSLCH-OZ 2x1 FRNC H-F sivi/žila crna                             10000   20 200000.00  50000.00
+Zaštitni prekidač MB 18kA CL 63/3                                                   458.97   15   6884.55   1721.14
+Voltmetarska preklopka, 1P, L-L/L-N, na DIN nosač                                   209.44   15   3141.60    785.40
+ENOLA_B SPOT II, srebrne boje/ crne b., GU10, max. 2x50W                            875.55   21  18386.55   4596.64
+Cilindrični osigurač, 10x38, 6A, gG, 500V AC                                          3.17   25     79.25     19.81
+Zaštitni prekidač za ugradnju ispred brojila, C 50A, 1-polni                        256.76   19   4878.44   1219.61
+Meiva-A MR16 Spot, GU5,3, 50W, IP20, podesiva, bijela                                 51.7   12    620.40    155.10
+IBDN prespojni kabel RJ45 UTP cat.6A, zeleni, 3.0m                                    6804    1   6804.00   1701.00
+Bezhal. kabel s konc.zaštitnim Cu vodičem N2XCH 4x2,5re/2,5                          10000    1  10000.00   2500.00
+Maria-CL-R LED 6W 3000K 440lm, IP54, antracit                                       331.49   28   9281.72   2320.43
+SOPRANA, stolna svjetiljka, TL-2, okrugla, bež tekstil, E27                         750.35   13   9754.55   2438.64
+
+                                                                                                         ----------
+UKUPNO                                                                                                    856627.06
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

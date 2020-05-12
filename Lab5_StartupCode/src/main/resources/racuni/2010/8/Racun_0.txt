@@ -1,0 +1,32 @@
+Račun br. 256785
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Redna stezaljka (vijčani priključak) 2.5 - 4mm², žuto/zelena                          9.43   24    226.32     56.58
+D02 rastavna sklopka ARROW S, 3-polna, 16A                                          275.53   27   7439.31   1859.83
+Vijak M4 25mm                                                                         8.06   22    177.32     44.33
+Završna pločica za stezaljku IK11418x--, bež                                         16.09   15    241.35     60.34
+Teretna sklopka , 4 x 230V AC, 8A                                                  1482.39   16  23718.24   5929.56
+Bezhal. kabel s konc.zaštitnim Cu vodičem N2XCH 3x2,5re/2,5                          10000   24 240000.00  60000.00
+"Optički prespojni panel 19"", 1U, uklj. 8 spojnica LC MM"                          695.08   20  13901.60   3475.40
+Metalhalogena žarulja HIT 1000W/NW E40 HIT E40 NA                                   651.41   17  11073.97   2768.49
+Finožični PVC-om izol. vodič H07V-K (P/F) 4mm2, plavi HPV                            10000   14 140000.00  35000.00
+51401R/W,  4L LINIJSKA BAZA BOXTECH+ , bijele boje                                   77.21   29   2239.09    559.77
+LED HORN 15W, bijela, LED bij.                                                      453.92   29  13163.68   3290.92
+Piktogramska plexi ploča za lampu KB, komplet. 4 piktograma                         325.95    6   1955.70    488.93
+SENSER LED PANEL ugradni, 6W, 3000K, okrugla, bijele boje                           218.46   23   5024.58   1256.15
+"Notepad ""Cube"""                                                                   58.09    1     58.09     14.52
+Ormar plast.750x1000x312,krov protiv kiše,dno zat.,1 vrata,                           4142   29 120118.00  30029.50
+OUT 65 LED DL okrugli Set, 9W, 3000K, 38°, uklj.napajanje,bb                        437.43    9   3936.87    984.22
+L-SE montažna šina MR 2x35-80 5x1,5mm²                                              199.81   16   3196.96    799.24
+Panik svjetiljka PF FLUO 8W, CPS sustav, stropna                                   1386.26   11  15248.86   3812.22
+Okvir za ugradnju RX panik lampe u strop                                            290.04   10   2900.40    725.10
+IP FlexLED Roll, tople bb, 3m, 60LED/m, DC 12V                                      404.74   17   6880.58   1720.15
+
+                                                                                                         ----------
+UKUPNO                                                                                                     611500.9
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

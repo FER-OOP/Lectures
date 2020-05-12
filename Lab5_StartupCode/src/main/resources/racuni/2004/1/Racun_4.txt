@@ -1,0 +1,24 @@
+Račun br. 695267
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+9C05BD/W/SB, LED 5w B15 , dim. 230v, oblik svijeće, mat tbb                          53.05    8    424.40    106.10
+Sigurnosna svjetiljka DLQ ERT-LED1,5W,CPS,kvadratna,ugradna                         978.73   27  26425.71   6606.43
+Bezhalogeni jednožilni vodič H07Z-K 1,5mm2, žuto/zeleni                              10000   12 120000.00  30000.00
+Industrijska svjetiljka SCUP PC 2x42W, TC-TEL, ECG, siva                              8542   16 136672.00  34168.00
+Siltu-R/A1 LED 9x1W 3000K 405lm,dimabilna,350mA,IP20,alu                            136.68   19   2596.92    649.23
+Prednja ploča, plastična, slijepa, 1B3K                                               4160    8  33280.00   8320.00
+"Opt. razdjelnik, 12 niti,LC,50/125µm OM3, izvlačivi,19"",1U"                       715.66   19  13597.54   3399.38
+8007M/C/10, 70W 10 ° CDM-R E27 CW CERAMIC                                            16.05    2     32.10      8.02
+WETSY POWER LED, 3W, tople bb                                                      1558.31    3   4674.93   1168.73
+Kompaktni prekidač snage tip VE, 4P, 85kA, 1000A                                  37470.46   14 524586.44 131146.61
+Aktuator za venecijanere, 4 x 230V AC, 6A                                          1871.76    6  11230.56   2807.64
+FID sklopka 25-4-03/AC, 6kA                                                         238.77    3    716.31    179.08
+
+                                                                                                         ----------
+UKUPNO                                                                                                     874236.9
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

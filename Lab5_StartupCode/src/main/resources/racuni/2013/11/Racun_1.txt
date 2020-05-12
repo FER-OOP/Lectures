@@ -1,0 +1,27 @@
+Račun br. 193349
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Flur zaslon, jednostrani, sa zidnim nosačem                                           2104   23  48392.00  12098.00
+Halogena žarulja QT12 50W IRC GY6,35 Energysaver                                     32.88   27    887.76    221.94
+Krović za zaštitu WSM ormara od kiše, za ormar 600X300 (ŠxD)                          4066    8  32528.00   8132.00
+Pocin?ana zaštitna mreža za Linda 1x35/49/80/58W 1630x180mm                         474.47   10   4744.70   1186.18
+Elektronički izvor napajanja (industrijski) 24VDC|2.5A|60W                          370.46    3   1111.38    277.85
+PURI, kućište, bb, GU10, max. 50W,sa 1-faznim adapterom                             167.94   11   1847.34    461.83
+Utičnica šuko sa kont.+poklop+dječja zaš. na opr. antracit                           31.41   13    408.33    102.08
+LUZO LED DISK strop.ugrad.prsten,okrugli,bij.4000K 85°                              625.15   17  10627.55   2656.89
+Fluokompaktna žarulja TC-Tel 26W 840 Gx24Q-3                                         28.07   22    617.54    154.38
+Grebenasta sklopka, 1-0-2/3P/63A, montaža na DIN nosač                              936.78   19  17798.82   4449.71
+NEW TRIA MR16 ROUND downlight, brušeni aluminij, max. 50W                           174.53    6   1047.18    261.79
+J-Bus/ModBUS sučelje via RS232/RS485 -kartica,ugradnja u UPS                       2389.71   17  40625.07  10156.27
+Prespojni kabel RJ45 cat.5e oklopljen, PVC, plavi, 1.0m                               7.03    3     21.09      5.27
+Pierce-II-R/A2 50W GU10 AR111, 100-240V, IP20, sive boje                            205.28   11   2258.08    564.52
+KALU 1 QPAR stropna svj., brušeni alum., ES111, max. 75W                            562.63   30  16878.90   4219.73
+
+                                                                                                         ----------
+UKUPNO                                                                                                    179793.77
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,15 @@
+Račun br. 847312
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Sklopnik 3P | 4kW (10A) [AC3] | 400V AC | + 1N/O (ugrađen)                          127.16    4    508.64    127.16
+"2-struki okvir ""Scala"", biserno bijeli"                                           15.46   21    324.66     81.17
+Linijska svj. SERH 112 2x35W, ECG, bijele boje                                      530.56   12   6366.72   1591.68
+
+                                                                                                         ----------
+UKUPNO                                                                                                    7200.0195
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

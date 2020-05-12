@@ -1,0 +1,22 @@
+Račun br. 585849
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Sklopka MO 1M 16A križna bez tipke, na vijak                                         31.73   11    349.03     87.26
+NV podnožje, 3-polno, vel.2|400A, 2xM10                                               4821    2   9642.00   2410.50
+Grebenasta sklopka, (glavna,crno/siva), 0-1/3P/32A, na vrata                        204.68   19   3888.92    972.23
+Linijska svj. SERM-LL 112, završni profil,  1x49W, ECG, bb                           581.6    6   3489.60    872.40
+Bezhalogeni kabel s el. funkc. do90 Min. (N)HXH-J4x6reE90                          4203.84   14  58853.76  14713.44
+Kabel LiYCY 4x0,25                                                                   515.1   21  10817.10   2704.27
+0730/18, reflektor za 65622T 18 °                                                    58.62    4    234.48     58.62
+Signalni fleksibilni kabel YSLY-JZ 4x10 sivi                                       5019.52   20 100390.40  25097.60
+Kompaktni prekidač snage tip A, 3P/400A/50kA, MC3                                  5173.65    9  46562.85  11640.71
+SOPRANA SOLID ovjesna svjetiljka Y-oblik, E27 25W, beton                            938.06   16  15008.96   3752.24
+
+                                                                                                         ----------
+UKUPNO                                                                                                    249237.08
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

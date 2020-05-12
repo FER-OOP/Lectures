@@ -1,0 +1,33 @@
+Račun br. 748298
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+DC zaštitni prekidač, C 13A, 2-polni, 10kA                                           200.5   29   5814.50   1453.63
+Dodatno zvono, SB                                                                      140   18   2520.00    630.00
+FLEXLED ROLL SELECT 24V, 3m, 5000K                                                  625.15   13   8126.95   2031.74
+PEMA četvrt. zidna svjetiljka,cr.b., E27, max. 15W                                  500.12    1    500.12    125.03
+Polucilidar (umetak) 5mm, dvostruka brada                                            49.61   21   1041.81    260.45
+DisplayPort kabel, DP20 muški/muški, 5m                                             127.45   16   2039.20    509.80
+Prednja ploča za PIR senzor pokreta, F/S/R, inox efekt                              105.27   11   1157.97    289.49
+Optička spojnica SC sx, plast., ker. košuljica, SM                                   17.82    8    142.56     35.64
+Panik svjetiljka VX Autotest LED/3W/3h 230VAC montaža strop                        3761.59    8  30092.72   7523.18
+Nap.stezaljka za LED PEN LIGHT PRO, 230V, uklj. zav.pok.                             50.01   20   1000.20    250.05
+Teretna sklopka, rastavljač (izolator), AMPARO, 32A, 4P                             154.74    6    928.44    232.11
+Pokrov za antensku utičnicu HSAT…, 4 otvora, antracit                                12.97   22    285.34     71.33
+DOWNUNDER LED 14, zidna ugradna svjetiljka, bb, brušeni al.                         343.66   10   3436.60    859.15
+Nadgradna svjetiljka SARH-AS T5 1x49W, ECG, bijela                                  383.49   15   5752.35   1438.09
+RC 280i infracrveni senzor pokreta, nazidni, IP54, crni                            1559.63   19  29632.97   7408.24
+Stezaljka BK10 BU, 10mm2, za bakrene sabirnice                                         2.6   20     52.00     13.00
+Nadgradna svjetiljka LUCIE 1x28/54W QTI, opal pokrov, eloks.                        720.45    2   1440.90    360.23
+EUTRAC ovjes za 3-fazne šine: 3m Boja: srebrna                                      191.93   22   4222.46   1055.61
+Kabel E-AY2Y-O 4x95SM                                                                10000   26 260000.00  65000.00
+KYKLOP PATHLIGHT podna svj., antracit,3x1W LED tople bi.b.                          813.03    3   2439.09    609.77
+Zaštitni prekidač, B karakteristika, 10A, 1-polni, 6kA                               22.67   14    317.38     79.35
+
+                                                                                                         ----------
+UKUPNO                                                                                                    360943.56
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

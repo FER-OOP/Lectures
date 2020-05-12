@@ -1,0 +1,20 @@
+Račun br. 138347
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Microkontrol cent. 200W3h,4 kruga,80 panik /sig.svjetiljki                        18056.42    3  54169.26  13542.31
+Odvodnik prenapona klase C (komplet), 1+1, 20kA/280V, UAS                           427.92   25  10698.00   2674.50
+Sklopnik vel. 00 | 3kW (7A) [AC-3] | 24VDC | 1 N/C                                  116.88   24   2805.12    701.28
+Kabel EYY-J (PP00-Y) 4x25 RM                                                       8423.88   21 176901.48  44225.37
+Podnožje prema širini ormara (za ormare 5A../.IP55)                                   4160    1   4160.00   1040.00
+PT LED utični modul, crveni, 110-230V AC, EM06                                       11.71    2     23.42      5.86
+Sutil Quadro LED 16W, 3000K, 960lm, 120°, IP40, sive boje                           205.45    1    205.45     51.36
+Plastični poklopac za IG706113, sivi, 400x300x40,bezhalogeni                        274.57   25   6864.25   1716.06
+
+                                                                                                         ----------
+UKUPNO                                                                                                    255826.98
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

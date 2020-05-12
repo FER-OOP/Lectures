@@ -1,0 +1,17 @@
+Račun br. 364541
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Sklopnik vel. 2 | 22kW (50A) [AC-3] | 230VAC, 50/60 Hz                              497.01   14   6958.14   1739.53
+Ugradna svjetiljka SERH 2 T5 2x14W ECG M625, bijela                                 346.72   25   8668.00   2167.00
+Spojnica (koljeno) M25, bez halogena, svijetlo-siva (10kom.)                       1478.16   28  41388.48  10347.12
+FGL OUT Downlight, MR16, srebrne boje                                               211.87   28   5932.36   1483.09
+Cilindrični osigurač za fotonapon, 10x38, 8A, gPV, 1000V DC                          60.24    3    180.72     45.18
+
+                                                                                                         ----------
+UKUPNO                                                                                                      63127.7
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,27 @@
+Račun br. 387432
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+PRIMOLUX LED 38W 4050lm/840, 3h EM, opal ECG IP44, 1235mm,bb                       2148.24   19  40816.56  10204.14
+Motorna zaštitna sklopka, 2-polna | 4.0 - 6.3A                                      128.78    9   1159.02    289.76
+Panik svjetiljka VA LED 4W, CPS sustav,MIX mod, zidna                              3804.89    8  30439.12   7609.78
+Utikač za TYTAN II 3x32A sa D02 osiguračima, komplet                                152.53   28   4270.84   1067.71
+Relej 3 C/O |10A | 60VDC sa LED                                                      74.56   22   1640.32    410.08
+Kabel LiYCY-TP 5x2x0,25                                                             979.61   28  27429.08   6857.27
+Sutil Round  LED 12W, 4000K, 840lm, 120°, IP40, sive boje                           172.33    1    172.33     43.08
+Montažni profil prema šir. i prema dub. AS/KS ormara, 600mm                         483.22    8   3865.76    966.44
+Nadgradna svjetiljka PRIMO M PRISMA 2x24W ECG, bijela                                274.9   12   3298.80    824.70
+Grebenasta sklopka, (glavna,crveno/žuta),0-1/3P/40A,na vrata                        244.16   17   4150.72   1037.68
+EN - katalog Informatička tehnologija                                                    0   20      0.00      0.00
+Produžna osovina 500mm za LTS 250/400/630, LTS F 160/250/400                        181.77   23   4180.71   1045.18
+Minijaturni relej, 4C/O, 6A, 115VAC + LED, serije PT                                 53.06   25   1326.50    331.63
+Jednožični PVC-om izolirani vodič H07V-U (P) 2,5mm2, naran.                            169   17   2873.00    718.25
+Shunt 60mV, 1000A                                                                     4398   20  87960.00  21990.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    213582.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

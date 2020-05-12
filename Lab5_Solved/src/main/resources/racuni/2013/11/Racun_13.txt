@@ -1,0 +1,16 @@
+Račun br. 297912
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Odvodnik prenapona DATEC BUS 30V DC/1A, kl.D                                        648.74   29  18813.46   4703.36
+LED 12-30V AC/DC, zeleni, prednja montaža                                            35.49   16    567.84    141.96
+SOPRANA OVAL podna svj. SL-1, crni tekstil, E27, max. 60W                          1433.11   23  32961.53   8240.38
+Viličasta sabirnica 63A za 3xBE5+pom. kontakt, korak 45mm                            55.62    9    500.58    125.14
+
+                                                                                                         ----------
+UKUPNO                                                                                                    52843.406
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

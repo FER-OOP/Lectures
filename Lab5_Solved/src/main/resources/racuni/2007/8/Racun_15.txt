@@ -1,0 +1,24 @@
+Račun br. 802220
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Linda Basic LED 1x19W, 4000K, 2724lm, IP65, sive b.,L=1270mm                        603.49   30  18104.70   4526.17
+Sutil Quadro LED 22W, 4000K, 1540lm, 120°, IP40, bijele boje                         258.5   24   6204.00   1551.00
+HDMI rotacijski adapter 360°, HDMI A ženski-HDMI A muški                             53.88    4    215.52     53.88
+Prozirno kućište za KW zidna montaža                                                 43.57   28   1219.96    304.99
+NYCY 10x1,5RE/2,5                                                                    10000    6  60000.00  15000.00
+"Zidni komunikacijski ormar SOHO DV 310x248x260 ŠxVxD,10"",4U"                      462.26   10   4622.60   1155.65
+Prednji pokrov glavnih kontakata, za VC3                                              4380   19  83220.00  20805.00
+Bezhal. kabel s konc.zaštitnim Cu vodičem N2XCH 4x70sm/35                            10000   22 220000.00  55000.00
+L-SE el. uložak DM 1x58W ECG                                                        220.44    5   1102.20    275.55
+Modularni okvir za ormar 1800x600mm, 33 reda                                        640.35    4   2561.40    640.35
+Bora-I LED traka 4,8W/m 6000K 180lm/m, IP54                                         132.63   19   2519.97    629.99
+TRITON HORN 4 SET, okr., mat bijele boje,4x3W LED 3000K, 12°                        578.81   10   5788.10   1447.03
+
+                                                                                                         ----------
+UKUPNO                                                                                                    405558.44
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,26 @@
+Račun br. 988784
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Nazidni okvir s vratima za Modul 2000 | 5A-45 | dubina 250mm                       4071.01   10  40710.10  10177.53
+Montažna ploča za IP54, 3A-42                                                       877.56   25  21939.00   5484.75
+TC INDI 255 nadgradna svjetiljka PL, bb                                             813.03    1    813.03    203.26
+Kabel LiYY 5x0,75                                                                    10000    2  20000.00   5000.00
+Puna metalna vrata sa zakret. ručkom, za DW ormare 4U, Š=600                        443.71    6   2662.26    665.57
+MARINE Transformator, 150W                                                          374.92   24   8998.08   2249.52
+Utičnica MO 1M 16A, sa dječjom zaštitom, bijela                                      18.29   30    548.70    137.18
+Fluo cijev T5|T16 54W/865 G5                                                         22.02    2     44.04     11.01
+Prespojni kabel RJ45 STP cat.6a/10GB, LS0H, žuti, 3.0m                               43.43    2     86.86     21.72
+Instal. umetak 3-39L komplet 13 IR prednja pl. plastika                             2704.4   13  35157.20   8789.30
+SIGHT 54, nadgradna svjetiljka, srebrne boje, 54W                                  1125.94   30  33778.20   8444.55
+KALU LED 4 četvrtasti zidna i stropna svjetiljka, 4x10W, cb                        3122.88   12  37474.56   9368.64
+"Zidni kom. ormar DW, bočne stranice, 600x635x595, 19"", 12U"                       1240.1    5   6200.50   1550.13
+Prespojni kabel RJ45 STP cat.6a/10GB, LS0H, sivi, 15.0m                             136.51   14   1911.14    477.78
+
+                                                                                                         ----------
+UKUPNO                                                                                                    210323.67
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

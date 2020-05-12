@@ -1,0 +1,19 @@
+Račun br. 244542
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Pokrovna ploča i prsten za PD-C360/24 i MD-C360/24                                  122.42   20   2448.40    612.10
+Push pull presp. kabel RJ45 STP cat.6a 10GB LS0H sivi 3.0m                           60.87   16    973.92    243.48
+Kompaktni prekidač snage tip A, 4P, 150kA, 250A                                    4556.21   11  50118.31  12529.58
+"19"" profil / šina 12U za zidne komunikacijske ormare tip DW"                       44.25    1     44.25     11.06
+Ovjesna svjetiljka OFFICE ECO DIR PAR 2x35W ECG, siva                               482.62    7   3378.34    844.58
+1-fazni šinski adapter, crna boja                                                    56.26    8    450.08    112.52
+LS-FI (KZS), B/16A/100mA, 2P, Tip A, 10kA                                             4281   26 111306.00  27826.50
+
+                                                                                                         ----------
+UKUPNO                                                                                                     168719.3
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

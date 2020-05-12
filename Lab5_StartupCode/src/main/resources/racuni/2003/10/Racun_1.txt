@@ -1,0 +1,19 @@
+Račun br. 916051
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Napajanje za 3-fazne šine, desno, siva                                               43.25   24   1038.00    259.50
+Juno-I-CL-R 9W GX53, 100-240V, IP54, sive boje                                      175.88   23   4045.24   1011.31
+LED GX53, 8,2W, 600lm, 120°, 3000K                                                  155.78   11   1713.58    428.39
+9G03L/D/E, 48 LED SMD DL 3,5W E27                                                    15.71   16    251.36     62.84
+Fluo cijev T8|T26 ECO 16W/830                                                        49.02   19    931.38    232.85
+Kabelska obujmica za kabel promjera 10-14mm, za ASCAP/ASCAB                         266.49   12   3197.88    799.47
+Plastična prirubnica za WSVBF, 25 otvora, bezhalogena, IP65                          54.38   18    978.84    244.71
+
+                                                                                                         ----------
+UKUPNO                                                                                                    12156.279
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

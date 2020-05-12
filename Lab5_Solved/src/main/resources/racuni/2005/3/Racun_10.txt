@@ -1,0 +1,14 @@
+Račun br. 394675
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+SITRA WALL zidna svj., antracit                                                     437.43   29  12685.47   3171.37
+AL-Cu stezaljka 35-240mm2, 2 dovoda/2 odvoda, plava                                 387.63   20   7752.60   1938.15
+
+                                                                                                         ----------
+UKUPNO                                                                                                     20438.07
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

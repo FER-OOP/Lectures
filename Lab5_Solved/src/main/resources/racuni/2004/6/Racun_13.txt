@@ -1,0 +1,25 @@
+Račun br. 764103
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Instalacijski umetak za Minipol ormar 500x400mm, 3x18 modula                        618.66   29  17941.14   4485.28
+Tuljci,izolirani, dvostruki, 2x16mm2, L2=14mm (pak.50 kom)                           132.4    6    794.40    198.60
+T-Shirt siva -XL-                                                                    46.02   10    460.20    115.05
+Alexa-I-60-R 15W E27, 100-240V, IP54, aluminij                                      941.44    3   2824.32    706.08
+Instalacijski sklopnik 63A | 4 N/C | 24V AC, 3ŠM                                    496.45    9   4468.05   1117.01
+DALI & PUSH DIM DRIVER 50W 230V                                                     364.61    5   1823.05    455.76
+LED KNX Dimer RGBW                                                                 3483.64   27  94058.27  23514.57
+Signalni fleksibilni kabel YSLY-JZ 18x2,5 sivi                                     5693.51   26 148031.25  37007.81
+Savitljiva cijev (srednje), M63, 750N, kolut 25m, HF, crna                        10180.86   25 254521.52  63630.38
+Sabirnica, 4P, jezičasta, 10mm² (63A)|korak 17.8mm| 217mm                            71.32   20   1426.40    356.60
+7827, Montažna kopča za 7830W / 7831W                                                 3.04   27     82.08     20.52
+Sklopnik 3P |18.5kW (40A) [AC3] / 80A [AC1] | 110V AC                               497.18   28  13921.04   3480.26
+F-utikač, natisni, VF nepropusan, za koaks. kabele do 7 mm                            7.81   13    101.53     25.38
+
+                                                                                                         ----------
+UKUPNO                                                                                                     540453.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

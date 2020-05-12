@@ -1,0 +1,28 @@
+Račun br. 723642
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+EURO SPOT INTEGRATED LED, 2700K                                                     875.55   27  23639.85   5909.96
+Pinta-A 1 Spot, GU10, 50W, IP20, zakretna, aluminij                                  63.02   18   1134.36    283.59
+LED prespojni kabel RJ45 oklop.,500 MHz,Ea,10GB, crveni,10m                         141.52   11   1556.72    389.18
+Pokrov za antensku utičnicu HSAT…, 4 otvora, antracit                                12.97   13    168.61     42.15
+Proširenje prazno,bez punjača za USPRP100 36V 7Ah                                  2390.16    5  11950.80   2987.70
+Obujmica za oluk, nehrđajući čelik V2A, Ø80mm                                        17.99    4     71.96     17.99
+GLOO PURE 44 podna svjetiljka, antracit, E27, max. 20W                              813.03   12   9756.36   2439.09
+Linijska svj. SERM-LF 112, početni profil,  1x35W, ECG, bb                          570.43   11   6274.73   1568.68
+Paralelna spojnica, 25mm2 za vel.00, 4P                                              27.45   13    356.85     89.21
+E-AYY-J 3x240/120SM                                                                  10000   27 270000.00  67500.00
+ZENIT LED 30, zidna i stropna svjetiljka, sive boje                                1558.31   15  23374.65   5843.66
+Industrijski utikač, 5 polni, 32A, montaža na zid, IP44                             131.62    7    921.34    230.33
+Tipkalo, izmjeničn,o IP54, na oprugu, nadžbukno                                      36.88   23    848.24    212.06
+Kućište s poklopcem (razvodna kutija) 300x220x120mm                                 316.78    9   2851.02    712.76
+Optički prespojni kabel duplex, SC/FC, 50/125µm OM2, 1.0m                            62.52   16   1000.32    250.08
+Redna stezaljka (vijčani priključak) 16mm², plava                                     6.75   22    148.50     37.13
+
+                                                                                                         ----------
+UKUPNO                                                                                                    354054.34
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

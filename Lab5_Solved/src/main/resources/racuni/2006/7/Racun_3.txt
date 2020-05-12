@@ -1,0 +1,22 @@
+Račun br. 617988
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ovjes za GLENOS ALU PROFIL, 2,5m                                                     187.2   15   2808.00    702.00
+Tinjalica MO 220V 0,4W, za sklopke i tipkala, crvena                                 13.44   10    134.40     33.60
+Sutil Quadro LED 22W, 3000K, 1320lm, 120°, IP40, sive boje                           258.5   27   6979.50   1744.88
+"Samostojeći komunikacijski ormar DS 800x1525x800, 19"", 32U"                      3617.79    5  18088.95   4522.24
+Terra-R LED 1W 3000K 80lm, 350mA, IP67, aluminij                                    190.58   12   2286.96    571.74
+Kompaktni prekidač snage tip VE, 4P, 50kA, 1250A/800A,red. N                      20832.93    7 145830.50  36457.63
+Sutil-R LED 30W 6000K 1997lm, IP40, sive boje                                       397.73   22   8750.06   2187.52
+LS-FI (KZS), C/6A/30mA, 3P+N, Tip A, 6kA                                              4281    6  25686.00   6421.50
+Viličasta sabirnica 63A za 3xBE5, korak 45mm                                         52.54   17    893.18    223.29
+7309CP, Kabel za napajanje za 7309C/RGB, 1m                                          36.66   29   1063.14    265.79
+
+                                                                                                         ----------
+UKUPNO                                                                                                     212520.7
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

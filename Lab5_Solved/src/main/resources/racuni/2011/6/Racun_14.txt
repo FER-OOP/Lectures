@@ -1,0 +1,32 @@
+Račun br. 636159
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Spojnica sa smolom MU2 Ø3-28mm                                                      268.18   26   6972.68   1743.17
+Ugradni okvir za MO1, 3P, -1000A, vodoravne str. priklj.                           5888.99   12  70667.88  17666.97
+SAT priključnica MO 1M, F konektor, osnovna, 0dB, crna                               39.08   26   1016.08    254.02
+Punto-F MR16 Spot, GU5,3, 50W, IP20, 12V, krom                                       27.37   20    547.40    136.85
+Dena-R/A2 75W G53 AR111, 12V, IP20, aluminij                                        132.63   28   3713.64    928.41
+P/Ž inst. razdj. 2U-12, 4-redni, 84 ŠM,640x590x180mm (VxŠxD)                       1946.59   14  27252.26   6813.06
+Poluvodički motorni kontroler 200-400V/85A bez zaštite                                4701    9  42309.00  10577.25
+Zaštitni prekidač, B karakteristika, 4A, 1-polni+N, 10kA                            121.92    4    487.68    121.92
+Otvoreni prekidač, 4P, 66kA, 1250A, izvl., vod. str. priklj.                      36400.46   14 509606.44 127401.61
+Monoblock LED, žuti, 230V AC, kompletna svjetiljka                                   30.42    4    121.68     30.42
+IBDN prespojni kabel RJ45 UTP cat.6A, sivi, 1.2m                                     59.51   17   1011.67    252.92
+Aktuator za rolete bez okvira                                                       764.92    1    764.92    191.23
+Nadzorna ploča sa LCD zaslonom, s ključem, BUS komunikacija                        2110.22    3   6330.66   1582.67
+PLENUM FIX podna svjetiljka, okr., antracit, E27, max. 25W                          938.06   29  27203.74   6800.94
+Halogena žarulja, grlo GU4 MR11, 35W, 30°, 12V                                        3.37   20     67.40     16.85
+Pomoćni sklopnik vel.00 | 4P | AC15 6A/230V | 24VDC | 4 N/O                         118.12    8    944.96    236.24
+Kronos-Q/A2 LED 38W 4000K 2450lm, IP20, sive boje                                   729.23   11   8021.53   2005.38
+Ugradna svjetiljka SERH XTP T5 4x24W ECG M625, bijela                              1335.87   17  22709.79   5677.45
+KVADRA 70M K5, L-spojnica sa opalnim pokrovom                                         8528    8  68224.00  17056.00
+Ella-R 2x26W G24q-3, 230V, IP20, aluminij                                            35.65    8    285.20     71.30
+
+                                                                                                         ----------
+UKUPNO                                                                                                     798258.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

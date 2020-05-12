@@ -1,0 +1,21 @@
+Račun br. 206466
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Bezhalogeni telekomunikacijski kabel J-H(ST)H 2x2x0,6 sivi                           10000    7  70000.00  17500.00
+L-SE umetakDM 1.2 Medium Wide 1x52W LED 5300lm/840                                 1321.44   27  35678.88   8919.72
+Aluminijska spojnica na prešanje sa Cu završetkom, 35mm²                              7031   18 126558.00  31639.50
+Poliester ormar 590x869x320mm (ŠxVxD), 1V, antiplakatni,IP43                       3972.24   20  79444.80  19861.20
+Gumom iz. i oplašten 1-žilni kabel 1,8/3 kV NSGAFöu 50 crni                          10000   27 270000.00  67500.00
+Montažna ploča za IP54, 2A-28                                                         4160   12  49920.00  12480.00
+PD-C180i KNX ECO 1-kanalni senzor prisutnosti                                       2149.1    8  17192.80   4298.20
+Prednja ploča za termostat EL176251, biserno bijela                                  77.07   25   1926.75    481.69
+Ugradna svjetiljka SEP XTP T5 4x28W ECG IP54 M600, bijela                          1152.03   12  13824.36   3456.09
+
+                                                                                                         ----------
+UKUPNO                                                                                                     664545.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

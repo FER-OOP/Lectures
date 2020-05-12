@@ -1,0 +1,25 @@
+Račun br. 1051966
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Vijci + tuljci za stezaljku CBC35                                                     2.43   16     38.88      9.72
+9G12B/C/E, LED 10,5w CW E27 mat 230v                                                 33.11   18    595.98    148.99
+"Natpisna pločica, ""RUNNING"", 17.5 x 28mm, natična"                                 8.13   27    219.51     54.88
+Redna stezaljka (utični priključak), 6mm², siva                                       3.82    5     19.10      4.78
+"3-struki okvir ""Riva"", antracit"                                                   2120   29  61480.00  15370.00
+Pomoćni kontakt za MZS vel.00/0/2/3 (2+0), prednja montaža                            32.6    7    228.20     57.05
+COLOR CONTROL RGBW MASTER sa RF daljinskim upr., 12V/24V                            500.12    3   1500.36    375.09
+Laki gumeni kabel H05RR-F 4x2,5, crni                                              1335.84   20  26716.80   6679.20
+TYTAN HR11 relej za pojedinačni nadzor, 2 C/O, 5A / 250V AC                         361.64   26   9402.64   2350.66
+NIJE RASPOLOŽIVO                                                                  35681.01   24 856344.25 214086.06
+Optička spojnica LC QUAD MM 50/125 s prirubnicom                                     56.87    7    398.09     99.52
+Teretna sklopka, 3P, 200A                                                          1021.88   10  10218.80   2554.70
+GLENOS TREPPENSTUFEN Profile DOWN 100, 1m, aluminij                                 156.11   29   4527.19   1131.80
+
+                                                                                                         ----------
+UKUPNO                                                                                                     971689.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

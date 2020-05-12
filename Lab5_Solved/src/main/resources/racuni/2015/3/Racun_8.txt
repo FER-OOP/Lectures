@@ -1,0 +1,25 @@
+Račun br. 193040
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Senzor prisut. stropni, thePrema P360-101, 100m2, slave,sivi                        2088.8   24  50131.20  12532.80
+Kompaktni prekidač snage tip AF, 3P/100A/18kA, box stezaljke                         529.4   28  14823.20   3705.80
+Cijevni nosač 1000mm, bijeli par tip dizajn                                         512.31   13   6660.03   1665.01
+Kompaktni prekidač snage tip AE, 4P, 50kA, 1250A                                  22719.07    6 136314.42  34078.61
+NEW TRIA II ES111 SQUARE, GU10, uklj. opruge, bijele boje                           562.63   12   6751.56   1687.89
+Senzor za vjetar                                                                   3241.88    8  25935.04   6483.76
+Kabelska uvodnica s maticom, PG9, IP68                                                2.24    9     20.16      5.04
+P/Ž media razdjelnik, MV... 3-redni, 12+2 modula, viši okvir                         633.6   30  19008.00   4752.00
+Savitljivi metar, 16mmx3m                                                             31.3   18    563.40    140.85
+Kabel H05VV5-F 7x2,5 sivi                                                            10000   19 190000.00  47500.00
+LED zidni profil, eloksirani aluminij, 2 metra                                       187.2   30   5616.00   1404.00
+Daljinski isklopnik 230V AC, ugradnja desno, za MY3                                 486.13   12   5833.56   1458.39
+Prespojni kabel RJ45 cat.6 oklopljen,s pregibnicama,sivi,7m                          43.46   14    608.44    152.11
+
+                                                                                                         ----------
+UKUPNO                                                                                                    462265.03
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

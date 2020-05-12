@@ -1,0 +1,26 @@
+Račun br. 648464
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Mia-R 70W G8,5, 230V, IP20, sive boje                                                 5.74   13     74.62     18.65
+Kabel H03VV-F (PP/L) 4x0,75mm2, bijeli, 500m kolut                                   10000    8  80000.00  20000.00
+Samoljepljiva oznaka N, Ø15mm, plava                                                  1.58   20     31.60      7.90
+Nosač baterija 18xNLBA120 - NLBA250 880x1650x590mm                                 8930.25   30 267907.50  66976.88
+Industrijska svj. HB380 14400lm, 132W, 40°, 4000K, RAL9006                          7282.1   10  72821.00  18205.25
+DC sklopnik | 4kW | 24V DC | 4N/O                                                   327.33   28   9165.24   2291.31
+LED prespojni kabel 1m, 2x0,75mm                                                     26.82   10    268.20     67.05
+Kabel LiYCY 7x0,75                                                                 1268.03   20  25360.60   6340.15
+Prednja ploča, plastična, slijepa, 3B12K                                              4063    8  32504.00   8126.00
+KALU TRACK QRB111, srebrne boje, max. 50W, 3-f adapter                              750.35   22  16507.70   4126.92
+Kućište za montažu U6 u beton                                                       326.18   24   7828.32   1957.08
+Označne pločice 'L2'', Dekafix DY5 (sadrži 50 oznaka)                                 8.45    7     59.15     14.79
+Diodna kombinacija DBS10                                                            137.25   13   1784.25    446.06
+I-PENDANT PRO LED PANEL PENDULUM 2700K 1295x295mm bijele b.                        1558.31   30  46749.30  11687.33
+
+                                                                                                         ----------
+UKUPNO                                                                                                    561061.44
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

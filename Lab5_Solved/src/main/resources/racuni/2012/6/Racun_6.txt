@@ -1,0 +1,28 @@
+Račun br. 482717
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kabelska stopica 70mm2, M12                                                          17.79   28    498.12    124.53
+"Opt. razdjelnik, 4 niti,ST,50/125µm OM3, izvlačivi,19"",1U"                        731.51   14  10241.14   2560.29
+AFDD, series Lisa, C 10 A, 2-pole, 30 mA, type A, 10 kA                            1118.51   16  17896.16   4474.04
+KALOS HL ulič.optika 30LED,4000K 70W, antracit, 4 kraka                            5356.95    6  32141.70   8035.43
+Talpa-R/A1 50W GU10 MR16, 100-240V, IP20, bijele boje                                73.32   24   1759.68    439.92
+Marra LED traka 14,4W/m 3000K 1060lm/m, dimabilna, IP20                             265.26   22   5835.72   1458.93
+L-SE umetak 1.5 Medium Wide 1x66W LED 6350lm/830                                      8529    2  17058.00   4264.50
+Bimetalni relej, područje podešenja 17.00-23.00A                                     279.2    1    279.20     69.80
+Zaštitni prekidač AMPARO 6kA, B 20A, 3P+N                                            98.25   12   1179.00    294.75
+Set za učvršćenje dna Maxipol ormara                                                240.67   22   5294.74   1323.68
+SolarLog SensorBox Basic + insolacija + temp senzor                                2396.28    5  11981.40   2995.35
+Ovj. set za MEDO PRO 60, bij.                                                        187.2   14   2620.80    655.20
+Prespojni kabel RJ45 STP cat.6a/10GB, LS0H, zeleni, 5.0m                             58.95   29   1709.55    427.39
+"Prespojni panel 10"", prazan, za 12 modula (SFA)(SFB), 1U"                         130.09    6    780.54    195.13
+Berry LED 16W, 4000K, 960lm, 230V, IP65, plastika, bijele b.                        331.49   30   9944.70   2486.17
+ASTO TUBE II stropna svj.bijela 2xGU10,max.75W                                      625.15   20  12503.00   3125.75
+
+                                                                                                         ----------
+UKUPNO                                                                                                    131723.45
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

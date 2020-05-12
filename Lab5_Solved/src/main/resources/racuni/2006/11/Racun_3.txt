@@ -1,0 +1,23 @@
+Račun br. 437263
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Okvir 1/3M line, smaragdni                                                           59.08   12    708.96    177.24
+Ulična svjetiljka SEVEN-CIRCLE 70W HIT E27 IP65                                       8515   16 136240.00  34060.00
+Zaštitni prekidač C 6A, 1-polni+N, širine 1 modula                                   94.64   13   1230.32    307.58
+Uzidni okvir s vratima - M3000, 5U-45                                              2857.08   26  74284.08  18571.02
+Zaštitni prekidač, B karakteristika, 16A, 1-polni+N, 6kA                             54.22    8    433.76    108.44
+Višežični PVC-om izolirani vodič H07V-R (P/M) 35mm2, ž/z                             10000   14 140000.00  35000.00
+D02 rastavna sklopka TYTAN II, 3-polna, 63A, komplet                               2035.49   13  26461.37   6615.34
+T8 LED zakretna cijev, 21W, 4000K, 1800lm, 230V, 120cm                              102.89    7    720.23    180.06
+Vezna sp. za sonde i uzemlj. profile, 3-dj, Ø25, pl.30+Ø8-10                         33.04    7    231.28     57.82
+"Brošura ""Circuit Protection"", EN"                                                     0   21      0.00      0.00
+Kabelska uvodnica s maticom, PG7, IP68                                                 1.7    3      5.10      1.28
+
+                                                                                                         ----------
+UKUPNO                                                                                                     380315.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

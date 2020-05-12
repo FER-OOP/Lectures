@@ -1,0 +1,26 @@
+Račun br. 759140
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Prednja ploča, čelična, slijepa, 3B5                                                  4160   13  54080.00  13520.00
+Grebenasta sklopka, 0-1/3P/25A, na vrata                                            237.49    6   1424.94    356.24
+Kabel E-AY2Y-J 4x50SM                                                                10000    1  10000.00   2500.00
+Priključna kutija, nehrđajući čelik, 300x500x120(VxŠxD),IP66                       1814.98   18  32669.64   8167.41
+KALU TRACK QRB111, bijele b., max. 50W, uklj. 3-f adapter                           750.35   22  16507.70   4126.92
+Wago utična stezaljka za razvodne kutije, 3 x (0.5-2.5)mm²                             1.1   25     27.50      6.88
+Nazidni okvir s vratima za Modul 2000 | 2A-39 | dubina 250mm                       2120.09   21  44521.89  11130.47
+51400AR/G, 4L KVADRATNA BAZA BOXTECH+ZAOBLJENI RUB, sive b.                         124.52    7    871.64    217.91
+Nazidni okvir bez vrata za Modul 2000 | 5A-24 | dubina 250mm                       1587.91   29  46049.39  11512.35
+LED prespojni kabel RJ45 oklopljen,500 MHz,Ea,10GB,crveni,2m                         52.89   12    634.68    158.67
+Fluokompaktna žarulja TC-DEL 26W/840 G24Q-3                                          26.83    7    187.81     46.95
+Set za podešavanje montažne ploče po dubini za WSM D=155mm                          565.29   11   6218.19   1554.55
+KABEL E-AYY-0 (PP00-AL) 4X70 SE                                                      10000    7  70000.00  17500.00
+Zaštitni prekidač, C karakteristika, 20A, 1-polni+N, 6kA                             54.22   19   1030.18    257.55
+
+                                                                                                         ----------
+UKUPNO                                                                                                    284223.56
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

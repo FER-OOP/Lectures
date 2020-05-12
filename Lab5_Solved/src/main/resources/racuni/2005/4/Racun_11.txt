@@ -1,0 +1,23 @@
+Račun br. 1073376
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zaštitni prekidač AMPARO 6kA, B 25A, 3P+N                                            98.25    5    491.25    122.81
+Standardna bakrena sabirnica, 20x5mm |320A| 2.4m,pokositrena                         520.6    2   1041.20    260.30
+Električarski odvijač, križni, PH-3x150mm, 1000V, izoliran                           56.21   27   1517.67    379.42
+Plasto LED 24W, 3000K, 1440lm, 230V, IP65, plastika, sive b.                        431.01   11   4741.11   1185.28
+BIG THEO CEILING OUT, ES111, srebrne boje, max. 75W                                 619.23    2   1238.46    309.61
+Krović za zaštitu WSM ormara od kiše, za ormar 300X155 (ŠxD)                          4066   23  93518.00  23379.50
+Spojni dio za BK085..., za horizontalnu dogradnju, 2 komada                          24.38    2     48.76     12.19
+LEVANTE L9 stupna spojnica za 48-60mm stup, crna                                    418.09   27  11288.43   2822.11
+Fabio-R 2x20W E27, 100-240V, IP20, bijele boje                                        39.7   28   1111.60    277.90
+Transformator, 1-fazni | 400/230V | 630VA, IP00                                    1006.65   12  12079.80   3019.95
+Monoblock LED, bijeli, 230V AC, kompletna svjetiljka                                 30.42    2     60.84     15.21
+
+                                                                                                         ----------
+UKUPNO                                                                                                   127137.125
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

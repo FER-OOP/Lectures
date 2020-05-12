@@ -1,0 +1,18 @@
+Račun br. 166444
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Signalni fleksibilni kabel YSLY-JZ 7x1,5                                             10000    3  30000.00   7500.00
+Odsijač R1 T8 L1 MB 58W bijeli                                                       71.98   15   1079.70    269.93
+Napajanje, 310W, 230VAC/26VDC, 12A, SELV, 240x120x60mm                             6723.06    1   6723.06   1680.77
+Kabel za Intercom System, 100m                                                       10000   10 100000.00  25000.00
+Križni vijak 80 mm                                                                    7.88   30    236.40     59.10
+Dimabilna DALI elektronika 10226BF/50226BF                                           36.66   10    366.60     91.65
+
+                                                                                                         ----------
+UKUPNO                                                                                                    138405.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

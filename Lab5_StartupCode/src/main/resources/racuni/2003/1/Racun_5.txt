@@ -1,0 +1,23 @@
+Račun br. 507176
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Pill GU10 MR16, 35W, IP65, aluminij, antracit                                       212.21   26   5517.46   1379.36
+SOPRANA, stolna svjetiljka, TL-2, okrugla, bb tekstil, E27                          750.35   16  12005.60   3001.40
+LOGS zidna svjetiljka, četvrt.,bi.b., 6W LED tople bi.b.                           1250.97   18  22517.46   5629.36
+Valo-II-R/A2 LED 2x15W 3000K 2x1095lm, IP20, bijele boje                            729.23   24  17501.52   4375.38
+Sklopka sa NOT-AUS funkc. 3-polna 250A, prednja                                    2618.36   19  49748.84  12437.21
+Matica PG7 (za uvodnicu M272810--A)                                                   0.65    2      1.30      0.32
+Teretna sklopka, rastavljač (izolator), AMPARO, 32A, 4P                             154.74   16   2475.84    618.96
+Komplet brtvi (EMC) za AS/KS ormare                                                 155.59   18   2800.62    700.15
+Kućište za 6 tipkala serije MS, crno-sivo                                           123.25   26   3204.50    801.12
+Finožični PVC-om izol. vodič H07V-K (P/F) 1,5mm2, ž/z HPV                            10000   19 190000.00  47500.00
+Prespojni kabel RJ45 cat.5e oklopljen, PVC, crveni, 0.5m                              5.34    3     16.02      4.01
+
+                                                                                                         ----------
+UKUPNO                                                                                                    305789.16
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,14 @@
+Račun br. 624951
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+DASAR 260 UNI, E27 podna ugradna svjetiljka, okrugla                               2058.94    6  12353.64   3088.41
+Ind.svj.ARKTUR SQUARE LED 113W 9900lm/840 ECG IP65 110°                            2733.37    7  19133.59   4783.40
+
+                                                                                                         ----------
+UKUPNO                                                                                                     31487.23
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

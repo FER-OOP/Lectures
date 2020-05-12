@@ -1,0 +1,29 @@
+Račun br. 228598
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Koaksijalna F-F spojnica (SFA)                                                         8.6    1      8.60      2.15
+Signalni fleksibilni kabel YSLY-OZ 10x0,75 sivi                                      10000   21 210000.00  52500.00
+Pribor za montažu na strop svjetiljke CUB visine 45mm                                 8543   24 205032.00  51258.00
+Tipka MO 1M sa simbolom svjetla, bijela                                               2.65   30     79.50     19.88
+Komplet brtvi za AS/KS ormare, 30x25mm                                               71.11   10    711.10    177.77
+Završni poklopac TBI okrugli s rupom za prolaz kabela                                83.77    4    335.08     83.77
+Kompaktni prekidač snage tip A, 4P, 50kA, 300A/200A, red. N                        3327.51    9  29947.59   7486.90
+Motorna zaštitna sklopka, 2-polna | 0.63 - 1.0A                                     128.78   23   2961.94    740.48
+Video vanjski panel, 1 tipka, bez PTT otvora                                       1082.33   16  17317.28   4329.32
+Nosač za do 4 dodatne utične stezaljke                                               27.47   12    329.64     82.41
+Nadgradna svjetiljka SARH 2 ECO T5 1x54W ECG, bijela                                289.17   25   7229.25   1807.31
+ROX PATH LIGHT samost. svj., brušeni aluminij                                      1871.23   25  46780.75  11695.19
+Prednja ploča za tel. i stereo zvučničke utičnice, alu efekt                         43.08   26   1120.08    280.02
+Kabel za zvučnike (N)YFAZ 2x1,5mm2, bijeli                                           10000    1  10000.00   2500.00
+Stace-I-S LED 3x0,2W 6000K, IP20, aluminij                                           96.98   28   2715.44    678.86
+Levante-M 28 LED 66W 6450lm 4000K LT-L,IP66,SKII,antracit                             4459    3  13377.00   3344.25
+Paralelna spojnica (kratkospojnik) za 2 stezaljke SCB6                                5.12   30    153.60     38.40
+
+                                                                                                         ----------
+UKUPNO                                                                                                     548098.9
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

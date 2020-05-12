@@ -1,0 +1,29 @@
+Račun br. 309477
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Transformator, 1-fazni | 230/024V | 200VA, IP00                                     456.74   23  10505.02   2626.25
+Odjelna pločica, crvena, utična, za stezaljke 6mm2                                    1.42   10     14.20      3.55
+Zaštitni prekidač, B karakteristika, 2A, 1-polni+N, 10kA                            159.36   13   2071.68    517.92
+SOPRANA OVAL stolna svj. TL-1, bijeli tekstil, E27, max. 60W                        938.06    3   2814.18    703.54
+NYCY 30x1,5RE/6                                                                      10000    2  20000.00   5000.00
+Samostojeći ormar INOX, 2000x1000x600mm, IP56, AISI304                             22875.2   27 617630.38 154407.59
+Finožični PVC-om izol. vodič H07V-K (P/F) 240mm2, crni HPV                           10000    2  20000.00   5000.00
+Indikacija uklopa, za prekidač MO, 1 C/O kontakt (tvornički)                        400.74    7   2805.18    701.29
+Kompaktni prekidač snage tip A, 3P/63A/25kA, utični, MC1                           1555.16    3   4665.48   1166.37
+Savitljiva cijev (srednje), M20, 750N, kolut 50m, HF, crna                         1397.52   20  27950.40   6987.60
+Modularna prednja ploča sa otvorom za 4x24 modula, 600x600mm                        259.73   11   2857.03    714.26
+DC zaštitni prekidač, C 32A, 1-polni, 10kA                                           69.35   29   2011.15    502.79
+BIMA II svjetiljka za 3-fazne šine, srebrne boje                                    531.37    7   3719.59    929.90
+FlexLED Roll, plave b., 5m, 60LED/m, DC 24V                                         500.12   30  15003.60   3750.90
+Rita-R/A2 LED 20W 3000K 1500lm, IP20, bijele boje                                   512.96   10   5129.60   1282.40
+IBDN prespojni kabel RJ45 UTP cat.6A, sivi, 4.6m                                     92.84   21   1949.64    487.41
+"Opt. razdjelnik,24 niti, LC,50/125µm OM2, izvlačivi,19"",1U"                      1948.01    8  15584.08   3896.02
+
+                                                                                                         ----------
+UKUPNO                                                                                                     754711.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,14 @@
+Račun br. 908652
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+NV rastavna sklopka vel.2|400A, 3P, M10, na sustav 60mm                            1598.85   12  19186.20   4796.55
+ENOLA_B SPOT single, zidna i stropna svjetiljka,GU10,crne b.                        500.12   14   7001.68   1750.42
+
+                                                                                                         ----------
+UKUPNO                                                                                                    26187.879
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

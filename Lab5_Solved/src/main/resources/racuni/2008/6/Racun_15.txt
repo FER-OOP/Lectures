@@ -1,0 +1,29 @@
+Račun br. 461517
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+NEW TRIA II GU10, četvrt.obl., mat crne b., max. 2x 50W                             406.17    5   2030.85    507.71
+FI-blok 125A, 2-polni, 30mA, Tip A (Puls)                                             4290   16  68640.00  17160.00
+Niskonaponsko grlo, G4-6,35 sa 60cm kabela                                           15.54    1     15.54      3.88
+Prozirna vrata, akril, za WSM6040xx, otvor: 459X243mm                               466.91   20   9338.20   2334.55
+SSVGA produžni kabel 4C+5, pozl. kontakti, crni, 10m                                148.41    4    593.64    148.41
+Pomoćni kontakt za seriju BR, 1 N/O + 1 N/C                                         146.02    4    584.08    146.02
+Kabel za LED trake, 2 kom.                                                           18.75   10    187.50     46.88
+9G07S/D/SE, 7W E14 DL                                                                 3.71   28    103.88     25.97
+Krović za zaštitu WSM ormara od kiše, za ormar 800X210 (ŠxD)                          4066   21  85386.00  21346.50
+Minijaturni relej, 4C/O, 6A, 115VAC                                                  68.12   14    953.68    238.42
+Kabel LiYY 16x0,34                                                                   10000   11 110000.00  27500.00
+H03VVH2-F 2x0,75mm2, sivi YML-fl 50m kolut                                           10000   24 240000.00  60000.00
+Lamelirana bakrena sabirnica, 894A, duljina 2m, 10x32x1mm                          1857.01   18  33426.18   8356.54
+IBDN prespojni kabel RJ45 UTP cat.6A, plavi, 1.2m                                     6804   13  88452.00  22113.00
+Kabel LiYCY 10x2x0,25                                                                10000   28 280000.00  70000.00
+Držač kabela,mont. na dno ormara,za AS/KS ormare šir. 400mm                         142.08   28   3978.24    994.56
+Luxa 102 FL, LED spot 8W, 6000K, zidna, IP44, bijela                                 532.7    8   4261.60   1065.40
+
+                                                                                                         ----------
+UKUPNO                                                                                                    927951.44
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

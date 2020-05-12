@@ -1,0 +1,27 @@
+Račun br. 402515
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Vodotijesna svjetiljka DEVA ECO PC 2x58W ECG                                        282.81   30   8484.30   2121.07
+"Označna pločica tip CSC ""0"" (100 kom.)"                                            9.83   17    167.11     41.78
+VANDALCOM N/Ž kućište, 2 modula                                                     1518.7   25  37967.50   9491.88
+Kompaktni prekidač snage tip AF, 3P/250A/25kA                                      1024.27   19  19461.13   4865.28
+FORCHINI M, PD-2, 40cm, okr., crno/zlatne boje, E27, max.40W                       1188.46   30  35653.80   8913.45
+Samoljepljiva oznaka PE, Ø15mm, žuto/zelena                                            1.7   12     20.40      5.10
+Zaštitni prekidač, C karakteristika, 63A, 4-polni, 10kA                             572.35    3   1717.05    429.26
+P/Ž inst. razdj. 4U-42,14-redni,630ŠM,2025x1030x250mm(VxŠxD)                        6930.6    7  48514.20  12128.55
+Kompaktni prekidač snage tip VE, 4P, 50kA, 800A                                   25791.67   28 722166.75 180541.69
+Victor-I-R LED 25W 3000K 1800lm, IP20, bijele boje                                  981.15   22  21585.30   5396.33
+ENOLA_C OUT WL, okr., antracit, 9W LED, 3000K, 35°                                 1250.97    7   8756.79   2189.20
+Coco 8W T5, 230V, IP20, aluminij                                                     77.21   18   1389.78    347.45
+Khali-I-R/A2 70W G8,5, 230V, IP20, sive boje                                        161.18    5    805.90    201.48
+Adaptor za 1-faznu šinu, crna b., električni                                         80.76   22   1776.72    444.18
+Anista Steel GU10 UP/DOWN zidna,GU10,max. 2x35W,nehrđ. čelik                        625.15   12   7501.80   1875.45
+
+                                                                                                         ----------
+UKUPNO                                                                                                    915968.56
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

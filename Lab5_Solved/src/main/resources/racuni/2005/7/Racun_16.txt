@@ -1,0 +1,24 @@
+Račun br. 736107
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+INOX samostojeći ormar, 1600x600x400mm (VxŠxD)                                    18237.57   18 328276.25  82069.06
+FID sklopka 63-4-03/B (za sve oblike dif. struje), S izvedba                       7869.87   23 181007.02  45251.75
+Pomoćni sklopnik ET, 4A | 230V AC | 4N/O                                            127.16   30   3814.80    953.70
+8007/W, 70W HQI Rx7s WW                                                               8.78    4     35.12      8.78
+Decoring 51mm, srebrne boje                                                          31.25    1     31.25      7.81
+I-VIDUAL LED PANEL za modul 600x600, 4000K, bijele boje                             813.03   30  24390.90   6097.73
+Ina-R/A1 50W GU10 MR16, 100-240V, IP20, bijele boje                                  56.43    2    112.86     28.22
+Okvir 2M line, mat crni                                                              40.32   23    927.36    231.84
+Bezhal. kabel poboljšanih svoj.za sl. požara N2XH-J 4x50sm                           10000    4  40000.00  10000.00
+Pomoćni sklopnik vel.00 | 4P | AC15 6A/230V |24VDC|2N/O+2N/C                        112.76   23   2593.48    648.37
+Ovjes za svjetiljku CERES LED                                                       245.58    9   2210.22    552.55
+"Optički prespojni panel 19"", 1U, uklj. 24 spojnice ST MM"                         862.33    5   4311.65   1077.91
+
+                                                                                                         ----------
+UKUPNO                                                                                                    587710.94
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

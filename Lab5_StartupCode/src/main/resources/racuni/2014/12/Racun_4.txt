@@ -1,0 +1,21 @@
+Račun br. 958062
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+KALOS jednostr. nosač 1000mm za stup Ø 60mm, antracit                               5162.8   29 149721.19  37430.30
+L-SE montažna šina MR 2x58 7x2,5mm²                                                 265.28   20   5305.60   1326.40
+3f reflektor VITO DC LED 30W 2500lm/830 ECG 40°,sive boje                          1278.14   13  16615.82   4153.96
+Kabel EYY-J (PP00-Y) 3x10RE                                                        2975.28   15  44629.20  11157.30
+"VH panik svjetiljka LED 230V za CPS MIXmod; zidna montaža"                        2608.24    7  18257.68   4564.42
+P/Ž inst. razdj. 3U-28,9-redni,297ŠM,1380x810x250mm(VxŠxD)                         3944.24   28 110438.72  27609.68
+Majica Store kratkih rukava -middle-                                                301.79    4   1207.16    301.79
+FRAME BASIC Downlight MR16                                                          112.31   12   1347.72    336.93
+Kabel H05VV-F (PP/J) 7x2,5mm2, svijetlo-sivi, 50m                                    10000   11 110000.00  27500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    457523.06
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

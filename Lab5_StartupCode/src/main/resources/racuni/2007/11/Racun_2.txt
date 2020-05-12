@@ -1,0 +1,19 @@
+Račun br. 604242
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Rita-R/A2 LED 25W 3000K 2010lm, IP20, bijele boje                                   517.18   24  12412.32   3103.08
+T8 LED zakretna cijev, 11W, 4000K, 850lm, 230V, 60cm                                 69.78   21   1465.38    366.35
+MIBO Wall Up/Down, zidna svjetiljka, 2xG9                                           362.58   21   7614.18   1903.55
+Optički prespojni kabel duplex, LC/LC, 50/125µm OM2, 10.0m                          115.23   29   3341.67    835.42
+Instalacijski sklopnik 25A | 1 N/O + 1 N/C | 230V AC                                 123.5   20   2470.00    617.50
+Majica Store, ženska, kratkih rukava -large-                                        301.79    9   2716.11    679.03
+LED 12-30V AC/DC, bijeli, za montažu na dno kućišta                                  35.36    8    282.88     70.72
+
+                                                                                                         ----------
+UKUPNO                                                                                                     30302.54
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

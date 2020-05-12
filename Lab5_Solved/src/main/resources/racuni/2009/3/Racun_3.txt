@@ -1,0 +1,20 @@
+Račun br. 570603
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Reflektor Signlite 4x9W VVG IP65 sa nosačem L=500mm                                 766.83   17  13036.11   3259.03
+Trakasta obujmica V2A za cijevi Ø8-18mm priključak 2.5-16mm²                         11.16   13    145.08     36.27
+Strujni trafo, 400/5A, 30X10                                                        101.91   29   2955.39    738.85
+Prednja ploča, čelična, sa otvorom za uređaje, 2G3-L                                  63.5    3    190.50     47.63
+Battery Box (bez punjača) za USPRD100 36V 14Ah                                     3744.59    1   3744.59    936.15
+LED Flexstrip 115 DW (Dynamic White) - IP43 | CRI/RA 90+                           1866.24   19  35458.56   8864.64
+Stezaljka 1 polna                                                                    12.58   15    188.70     47.17
+TCI LED POWER SUPPLY 20W, 24V                                                       268.47    1    268.47     67.12
+
+                                                                                                         ----------
+UKUPNO                                                                                                    55987.395
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

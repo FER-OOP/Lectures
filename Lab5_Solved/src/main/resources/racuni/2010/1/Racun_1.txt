@@ -1,0 +1,18 @@
+Račun br. 882439
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+6 tunel stezaljki 2 x (35-120mm²) za MZ2                                            220.75    9   1986.75    496.69
+Napajanje 33V DC za 316 TOUCH                                                      1350.39   24  32409.36   8102.34
+Kabel LiYY 36x0,34                                                                   10000    5  50000.00  12500.00
+SENSER LED PANEL nadgradni, 6W, 3000K, četvrtasti, bijele b.                        406.17   27  10966.59   2741.65
+DACU SPACE zidna svj., bb, sa toplom bb LED                                         813.03   25  20325.75   5081.44
+SLR spojnica profila                                                                 50.26   21   1055.46    263.86
+
+                                                                                                         ----------
+UKUPNO                                                                                                   116743.914
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

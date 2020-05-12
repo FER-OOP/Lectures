@@ -1,0 +1,32 @@
+Račun br. 681102
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+89060VP, LED DRIVER 24v 100w IP65 100-240v                                          431.01    5   2155.05    538.76
+Teretna sklopka, 4P, 100A, opcija: daljinski isklop                                 753.25   28  21091.00   5272.75
+Linda LED 2x30W EM 1h, 4000K, 8749lm                                               2483.71   12  29804.52   7451.13
+Nazidni okvir s vratima za Modul 2000 | 3A-18 | dubina 250mm                       1235.04    2   2470.08    617.52
+T-spojnica za 1-f  šina, lijeva, crna b.                                             87.01   10    870.10    217.53
+Kompaktni prekidač snage tip A, 3P, 150kA, 100A, utični                            1680.52   16  26888.32   6722.08
+Prednja ploča, plastična, slijepa, 5B7K                                               4160   26 108160.00  27040.00
+Podnaponski isklopnik za MC2, 380-440VAC+2 ranija pom. kont.                        637.17   20  12743.40   3185.85
+Punjač 2,5A za MultiControl                                                        3192.84   27  86206.68  21551.67
+Zaštitni prekidač, B karakteristika, 13A, 2-polni, 10kA                              80.41   19   1527.79    381.95
+Spojnica (ravna) M40, siva (pak. 25 kom.)                                           457.89   20   9157.80   2289.45
+Dena-R/A2 20W PGJ5, 230V, IP20, brušeni krom                                          2.02    8     16.16      4.04
+Kišobran plavo/srebrni                                                               61.86   18   1113.48    278.37
+Zamjenjiva skala, 72x72mm, 100A DC                                                    9.83   15    147.45     36.86
+NV osigurač vel. 2, 100A/400V AC                                                     55.04   23   1265.92    316.48
+Kabel LiYY 30x0,25                                                                   10000    4  40000.00  10000.00
+Okvir za ugradnju u strop za lampu tip KB                                           112.23    6    673.38    168.35
+Montažni okvir za Downunder II i III, PL/R7S,veliki                                   8575    6  51450.00  12862.50
+Svjetiljka za ormar sa utičnicom sa zatikom, IP20                                    691.1    4   2764.40    691.10
+Standalone Set Micro 2 for 2 modules, Power 500Wx2,5h                             15315.26   29 444142.53 111035.63
+
+                                                                                                         ----------
+UKUPNO                                                                                                     842648.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

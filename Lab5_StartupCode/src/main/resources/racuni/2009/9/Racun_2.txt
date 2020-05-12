@@ -1,0 +1,20 @@
+Račun br. 432717
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LED GU10 žarulja, 4W, SMD LED, 2700K, 40°                                            94.11   24   2258.64    564.66
+"Serverski ormar 600x1970x1000mm (ŠxVxD), 19"", 42U, do 1500kg"                    7280.55   22 160172.09  40043.02
+Suncobran                                                                           437.37    7   3061.59    765.40
+VANO WING 36W zidna svj., TC-L 36W 2G11. srebrne boje                              1433.11   18  25795.98   6449.00
+Otvoreni prekidač, 4P, 80kA, 3200A, fiksni,vod. str. priklj.                      79518.09    6 477108.56 119277.13
+Potenciometar elektronski 0-10V                                                     209.96    4    839.84    209.96
+Ina-R/A1 LED 30W 4000K 2200lm, IP20, bijele boje                                    503.83    5   2519.15    629.79
+Kabel EYY-J (PP00-Y) 5x2,5 RE                                                      1112.18    4   4448.72   1112.18
+
+                                                                                                         ----------
+UKUPNO                                                                                                    676204.56
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

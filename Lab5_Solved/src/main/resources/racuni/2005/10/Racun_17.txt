@@ -1,0 +1,14 @@
+Račun br. 749601
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Montažna ploča 3PB, 19 otvora, 670x70x13mm                                          296.11    8   2368.88    592.22
+Twister Downlights 2-struka, okrugla, srebrne boje                                  143.65   28   4022.20   1005.55
+
+                                                                                                         ----------
+UKUPNO                                                                                                    6391.0796
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

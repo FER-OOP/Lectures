@@ -1,0 +1,31 @@
+Račun br. 256704
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Jednožični PVC-om izolirani vodič H07V-U (P) 4mm2, smeđi                            286.39   28   8018.92   2004.73
+Instalacijski sklopnik 25A | 3 N/O + 1 N/C | 24V AC/DC, 2ŠM                         214.15   14   2998.10    749.52
+Odvodnik prenapona klase C (komplet), 2P, 2x20kA/280V, UAS                          262.07    5   1310.35    327.59
+N/Ž okvir + vrata 3A-21 D=250mm str.ploča+zakr. ručica, IP54                       2925.07   29  84827.03  21206.76
+Montažna ploča za WKS4060, 380x570x2, pocinčani čelik                                 4065   19  77235.00  19308.75
+LED dimer 6-100VA, umetak                                                           197.26   15   2958.90    739.72
+Bezhalogeni kabel s el. funkc. do90 Min. (N)HXH-J3x1,5reE90                        1365.18   18  24573.24   6143.31
+9G06R/W/E, RETRO LED 6W WW G125 E27 230V                                            117.25   10   1172.50    293.13
+"Zasun, crveni, za plastične prednje ploče, ""Celanex"""                               1.7   30     51.00     12.75
+Pomoćni kontakt 5-250V/6A, 1 radni + 1 mirni kontakt                                 51.79   23   1191.17    297.79
+LED traka Flexstrip 48 hladne bijele b. IP43 L-5M                                  1130.94   29  32797.26   8199.31
+KALU 1 QPAR stropna svj., brušeni alum., ES111, max. 75W                            562.63   25  14065.75   3516.44
+Zakretna ručica za montažu direktno na MC4 (crna/siva)                              420.02   15   6300.30   1575.07
+Lugno-R/A1 35W GU10 MR16, 100-240V, IP54, rusty                                     234.51   17   3986.67    996.67
+Prespojna ploča, 6 izlaza, max.700mA,crne b.                                         58.62   25   1465.50    366.38
+Kompenzacija  LSK 14% 75/25kvar 600x1250x300mm zidni ormar                        25477.33    6 152863.98  38216.00
+8318/C/2, 18W 2PIN CW 3U                                                              1.68    5      8.40      2.10
+Enya-III-R 24W 2G11, 230V, IP44, krom                                                483.9   17   8226.30   2056.57
+LED ES111, crvene b., 15W, 30°, 2700K                                               374.92    8   2999.36    749.84
+
+                                                                                                         ----------
+UKUPNO                                                                                                    427049.78
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

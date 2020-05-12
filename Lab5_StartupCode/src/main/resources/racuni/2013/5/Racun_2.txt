@@ -1,0 +1,23 @@
+Račun br. 459084
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kabel EYY-J (PP00-Y) 4x120 SM                                                     37361.01   25 934025.31 233506.33
+Optički prespojni kabel duplex, LC/LC, 62,5/125µm OM1, 10m                            98.3   15   1474.50    368.63
+Poliester kućište 560x280x100mm sivo - F                                             632.4   20  12648.00   3162.00
+Završna pločica za rednu stezaljku IK201004--, plava                                  1.45   18     26.10      6.53
+Video KIT u boji za 1-4 stana, QUADRA/MINI HANDSFREE                               3673.63   30 110208.90  27552.22
+Elektronski transformator  240/12V 20-105VA Dim                                      89.35    3    268.05     67.01
+Bimetalni relej, područje podešenja 4.0-6.0A                                        214.32    8   1714.56    428.64
+Robin-I-R/A2 75W E27 PAR30, 100-240V, IP20, sive boje                               131.95   19   2507.05    626.76
+NEW TRIA XL četvrtasti GU10 Downlight, brušeni aluminij                             218.46   13   2839.98    709.99
+Perforirana bočna str. za DS/DSZ ormare, 42U, D=800                                 644.77    6   3868.62    967.16
+Piktogram Linda 11W strelica dolje, vidljivost 20m                                   23.71    7    165.97     41.49
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1069747.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

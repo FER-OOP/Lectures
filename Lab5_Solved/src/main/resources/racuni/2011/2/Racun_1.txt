@@ -1,0 +1,16 @@
+Račun br. 915919
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LUZO INTERGRATED LEDstr.ugr.prsten,okrugli,bijeli 3000K 36°                         578.81   14   8103.34   2025.84
+Kutni nosač za AF reflektor, crni                                                   202.82   19   3853.58    963.40
+Utičnica šuko sa zatikom, vijčane stezaljke, bijela, crna                             2412   16  38592.00   9648.00
+Audio vanjski panel, 28 tipki, sa PTT otvorom                                         4690    4  18760.00   4690.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     69308.92
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

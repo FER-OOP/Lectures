@@ -1,0 +1,19 @@
+Račun br. 785572
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Signalni fleksibilni kabel YSLY-JZ 5x1,5 sivi                                       895.62   29  25972.98   6493.25
+Kutija podžbukna MO 3M, dubina 49mm 650°C 500V, halogen free                          2.02    5     10.10      2.53
+Kabel H05VV-F (PP/J) 3x1mm2, svijetlo-sivi, 500m                                     10000    6  60000.00  15000.00
+Onda-R/A2 LED 7W 3000K 594lm, IP20, bijele boje                                     411.07   17   6988.19   1747.05
+3-fazna kutna spojnica, lijevo,bijela                                                65.04   30   1951.20    487.80
+FID sklopka 25-4-03/AC, 10kA                                                        252.12   23   5798.76   1449.69
+Ugradna svjetiljka SEO ECO T8 4x18W ECG M625, bijela                                370.77   24   8898.48   2224.62
+
+                                                                                                         ----------
+UKUPNO                                                                                                     109619.7
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

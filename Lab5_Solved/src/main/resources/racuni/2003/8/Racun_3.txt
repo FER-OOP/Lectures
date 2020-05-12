@@ -1,0 +1,33 @@
+Račun br. 704005
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Panik svjetiljka KE FLUO 8W, CPS,MIX-mod, univerzalna                              1217.83    3   3653.49    913.37
+Prespojni kabel RJ45 cat.6 neoklopljen, PVC, zeleni, 1.0m                                9   23    207.00     51.75
+Tuljci, izolirani, 35mm2, L2=25mm (pak.50 kom)                                      107.67   23   2476.41    619.10
+Kućište za 3 tipkala serije MS, crno-sivo                                            61.63   22   1355.86    338.96
+Instalacijski sklopnik 40A | 4 N/O | 230VAC                                         349.45   25   8736.25   2184.06
+Montažna ploča za AS/KS ormare, 1800x800mm (VxŠ)                                    728.21   24  17477.04   4369.26
+Gljiva sa ključem sa 1 N/C kontaktom, komplet                                       254.54   20   5090.80   1272.70
+Fleksibilni priključni vodič, plavi 10mm², duljine 100mm                                 5   22    110.00     27.50
+Preklopnik za maksimalno 4 ulaza (4+1)                                              712.54   16  11400.64   2850.16
+Fabio-R 15W E27, 100-240V, IP20, bijele boje                                         23.82    2     47.64     11.91
+"Označna pločica tip CSC ""0"" (100 kom.)"                                            9.83   29    285.07     71.27
+Okvir 4M line, zagasito bijeli                                                       79.87   21   1677.27    419.32
+Kutna spojnica za 1f.visokonap.ugrad.str.šinu,unutarnje uze                          99.51   23   2288.73    572.18
+PROTECTOR K 230V, fotoelektronički detektor dima, bijeli                            340.56   11   3746.16    936.54
+3f-Reflektor Carril GU10 ES111, 75W, IP20, bijela                                   176.05   11   1936.55    484.14
+Kliješta za rezanje Cu/Al kabela, s oprugom, TL230mm, Ø15mm                          403.2   15   6048.00   1512.00
+7311AG/D, 11w GU10 DL                                                                 5.74    1      5.74      1.43
+"Opt. razdjelnik, 8 niti, SC,50/125µm OM3, izvlačivi,19"",1U"                       804.52    1    804.52    201.13
+Prednja ploča za 1 x RJ45, bijela                                                    22.85   29    662.65    165.66
+Samostojeći ormar INOX, 1800x1000x500mm, IP55, 2V, AISI304                        23605.63    9 212450.67  53112.67
+Zaštita od dodira (pokrov), za NV podnožja vel.1-3                                   12.99   21    272.79     68.20
+
+                                                                                                         ----------
+UKUPNO                                                                                                    280733.28
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

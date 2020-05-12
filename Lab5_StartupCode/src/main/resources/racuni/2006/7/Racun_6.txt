@@ -1,0 +1,24 @@
+Račun br. 656936
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+FGL OUTDOOR GU10, titan                                                             249.72   18   4494.96   1123.74
+AIXLIGHT R DUO, HQI111,okr.,cr.b.,G12,2x70W,bez odsijača                           2809.97    8  22479.76   5619.94
+Odstojnici za niveliranje MC3                                                        75.62   24   1814.88    453.72
+Motorna zaštitna sklopka, 3-polna | 1.6 - 2.5A                                      204.98   12   2459.76    614.94
+Nadgradna svjetiljka SARH IP54 TC-L 3x55W ECG, bijela                              1446.17   15  21692.55   5423.14
+BRICK LED Downunder zidna svj., srebrne boje, topla b. LED                          267.29   21   5613.09   1403.27
+Industrijska svj. Arktur LED 13500lm,132W,40°,6000K,RAL9006                           5252   23 120796.00  30199.00
+Držač kabela, interni, za AS/KS ormare širine 1000mm                                231.01   30   6930.30   1732.58
+Svjetiljka bljeskajuća crvena 230V AC                                               769.07    9   6921.63   1730.41
+Svjetiljka Solo Line T5 1x28W,ECG, bijele boje                                      258.92   23   5955.16   1488.79
+LED 85-264V AC, crveni, prednja montaža                                              52.68   16    842.88    210.72
+LED cijev 23W, 2800lm, 4000K, 120°, zakretna 90°, L-1200mm                          302.98    3    908.94    227.24
+
+                                                                                                         ----------
+UKUPNO                                                                                                    200909.89
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

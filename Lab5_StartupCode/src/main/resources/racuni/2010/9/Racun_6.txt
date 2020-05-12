@@ -1,0 +1,22 @@
+Račun br. 359434
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Paralelna spojnica (kratkospojnik) za 2 stezaljke IK600002--                          3.58   12     42.96     10.74
+50242AG/3, STAKLO za 50242AG , mat rubovi                                             7.26   20    145.20     36.30
+Sigma bater. LED reflektor 3h 20W 4000K IP65 zakr. siva                             622.95   12   7475.40   1868.85
+DIGI-SAT 3000 koaks.75Ohm 1.0/6.6,95dB,kl.A,LS0H,bijeli,500m                        285.83    3    857.49    214.37
+Nadgradna svjetiljka SARS 2 ECO T8 1x36W CCG, ind, bijela                           271.64    7   1901.48    475.37
+Držač za instalacijsku cijev M20, svijetlo-sivi (100 kom.)                           85.07    7    595.49    148.87
+Grebenasta sklopka, 0-1/4P/25A, na DIN, sa ručicom na vrata                         285.38   13   3709.94    927.48
+MD 360/8 senzor pokreta, bijeli                                                     863.79   28  24186.12   6046.53
+Relej za nadzor struje 0.5 - 5A, 230VAC, 1 fazni, 1 C/O                              392.7    9   3534.30    883.58
+Grijač 60W/105°C, s priklj. stezaljkama, 110-250V AC/DC,IP44                        437.78   28  12257.84   3064.46
+
+                                                                                                         ----------
+UKUPNO                                                                                                     54706.22
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

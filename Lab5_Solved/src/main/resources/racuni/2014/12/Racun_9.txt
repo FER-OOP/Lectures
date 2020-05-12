@@ -1,0 +1,18 @@
+Račun br. 625077
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+EUTRAC 3-fazna nadgradna šina duljine 1 metar, bijele boje                          224.04   19   4256.76   1064.19
+Priključna kutija, nehrđajući čelik, 400x600x120(VxŠxD),IP66                       2325.68   13  30233.84   7558.46
+Umetak elektronske sklopke za rolete                                                 82.84   26   2153.84    538.46
+"Opt. razdjelnik, 4 niti,FC,50/125µm OM2, izvlačivi,19"",1U"                        743.78   10   7437.80   1859.45
+LED trake bb, 30,5cm, sa 24 LED, DC 24V                                              62.51   14    875.14    218.79
+Motorna zaštitna sklopka, 3-polna | 10 - 16A                                        257.75   16   4124.00   1031.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    49081.383
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

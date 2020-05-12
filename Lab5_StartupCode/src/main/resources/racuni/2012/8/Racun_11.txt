@@ -1,0 +1,16 @@
+Račun br. 927386
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LED prespojni kabel RJ45 oklopljen,500 MHz,Ea,10GB,crveni,2m                         52.89    8    423.12    105.78
+7908/AL, Aluminijski trokutasti profil 2m + PC opalni pokrov                        271.18   30   8135.40   2033.85
+NEW MYRA WALL svjetiljka, antracit b., GU10, max. 50W, IP55                         562.63   12   6751.56   1687.89
+Relej snage, 1C/O, 16A, 24VDC serije RT, raster 5mm                                  19.34   24    464.16    116.04
+
+                                                                                                         ----------
+UKUPNO                                                                                                     15774.24
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

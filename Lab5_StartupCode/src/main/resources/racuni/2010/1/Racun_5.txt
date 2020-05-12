@@ -1,0 +1,31 @@
+Račun br. 191640
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+KALU 2, mat bijele boje, 2x QRB111, max. 2x 50W                                     750.35   17  12755.95   3188.99
+Nadgradna svjetiljka SARH 200 T8 1/58W ECG sjajni raster                            607.04   23  13961.92   3490.48
+Audio i A/V switch za SB TOP sisteme sa više ulaza                                 1198.54   19  22772.26   5693.07
+Kompenzacija  LSFC 7% 200/25kvar 600x2000x400mm Samost.orm.                       55842.27   261451899.00 362974.75
+Podnožje, prednji dio, za razdjelnike 1A../.                                        198.05   18   3564.90    891.23
+Profil-stezaljka 64 x (5 - 28)mm za TT sabirnice, 1600A                             324.62   24   7790.88   1947.72
+Cinda-II-R 10W G4, 12V, IP20, krom                                                   39.36   13    511.68    127.92
+Teški gumeni kabel H07RN-F 7x4, crni                                                 10000    8  80000.00  20000.00
+SITRA WALL zidna svj., antracit                                                     437.43   26  11373.18   2843.29
+"Sobno signalno svjetlo ""Comfort"", bijelo-crveno-zeleno"                            2104   17  35768.00   8942.00
+LED 85-264V AC plavi za prednju montažu                                              52.68   28   1475.04    368.76
+FRAME BASIC LED,četvrt.,srebrne boje, neutr. bijele boje LED                        196.83   21   4133.43   1033.36
+Adapter 250A, za montažu NSX100 - NSX250 na sustav 60mm                               4832   25 120800.00  30200.00
+DALI USB Mini                                                                      2351.46   12  28217.52   7054.38
+Bezhal. kabel poboljšanih svoj.za sl. požara N2XH-J 4x1,5re                          10000    6  60000.00  15000.00
+Halogena žarulja QR-CBC 51  SP 20W ECO GU5,3 10°                                     34.44   11    378.84     94.71
+Kompaktni prekidač snage tip A, 4P, 150kA, 160A                                    2458.26   12  29499.12   7374.78
+Relej 3 C/O |10A | 115VAC sa LED                                                     80.74   12    968.88    242.22
+Vijak sa upuštenom glavom, za drvo, 6x100 / 60mm                                    106.13   21   2228.73    557.18
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1888099.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

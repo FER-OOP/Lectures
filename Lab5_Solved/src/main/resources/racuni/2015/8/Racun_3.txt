@@ -1,0 +1,31 @@
+Račun br. 265459
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zaštitni prekidač, B karakteristika, 16A, 1-polni, 10kA                              24.55   11    270.05     67.51
+LED RF kontroler Mono - za 1 zonu, bežično tipkalo                                  591.84   24  14204.16   3551.04
+LED PAR38 100 DIM 14W 230V 30° 827 1000lm 3300cd E27 25000h                         193.68   28   5423.04   1355.76
+Senzor prisut. stropni, thePrema P360-101, 100m2,master,bij                         2210.3    2   4420.60   1105.15
+Priključna kutija, čelik, 200x200x80 (VxŠxD), IP66, RAL7035                         156.33   26   4064.58   1016.15
+Solid traka LED 4W 6000K 305lm, IP20                                                109.99   25   2749.75    687.44
+Optički prespojni kabel duplex, LC/SC, 50/125µm OM3, 3.0m                             83.9    1     83.90     20.98
+FLEXLED ROLL 3D 24V, 5m, 5000K                                                      562.63    8   4501.04   1125.26
+Bezhalogeni kabel s el. funkc. do90 Min. (N)HXH-O1x16rmE90                           10000   26 260000.00  65000.00
+NV osigurač vel. 00, 10A/400V AC                                                     19.92   17    338.64     84.66
+L-SE umetak DM 1.5 Medium Wide 1x44W LED 4750lm/840                                1426.94   12  17123.28   4280.82
+Magnet 18x6mm                                                                         25.8   11    283.80     70.95
+Gwen-R 70W RX7s, 230V, IP20, sive boje                                               19.59   28    548.52    137.13
+Kabel EYY-O (PP00) 3x1,5RE                                                           10000   18 180000.00  45000.00
+Gumeni savitljivi kabel NSSHöu-J 4x4, žuti                                           10000   14 140000.00  35000.00
+Ugradna svjetiljka SE-ID ECO L1 T5 2x14W ECG M625, bijela                           511.63    2   1023.26    255.82
+GLASSA stropna svjetiljka TCD 2x26W                                                 938.06    7   6566.42   1641.60
+SFP modul 1000SX LC multimodni VCSEL, 850nm 550m                                     286.7   28   8027.60   2006.90
+Baterija Rpower OGiV 12V/7,2Ah, životni vijek 5 godina                              247.32   30   7419.60   1854.90
+
+                                                                                                         ----------
+UKUPNO                                                                                                     657048.3
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

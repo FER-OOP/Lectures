@@ -1,0 +1,20 @@
+Račun br. 318779
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Paralelna spojnica (kratkospojnik) za 4 stezaljke SCB6                                 6.1   25    152.50     38.13
+Odjelna pločica, crvena, za stezaljku CBD70                                            3.9   22     85.80     21.45
+Nubil-TR-Q 2x20W E27, 100-240V, IP20, bijele boje                                   238.74   13   3103.62    775.91
+Noel-Q/A2 LED 20W 3000K 1500lm, IP20, bijele boje                                   542.36   11   5965.96   1491.49
+SAT antena 100/95cm,alu,40,3dB,dvostr. pričv. monoblok,bij.                        1011.38   25  25284.50   6321.13
+Dora-R 60W E27, 100-240V, IP44, brušeni krom                                        190.58   26   4955.08   1238.77
+Relej za nadzor struje 0.5 - 5A, 230VAC, 1 fazni, 1 C/O                              392.7   15   5890.50   1472.63
+EURO SPOT G12, 15°, sa 3-faznim adapterom, crne b.                                  875.55   19  16635.45   4158.86
+
+                                                                                                         ----------
+UKUPNO                                                                                                     62073.41
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

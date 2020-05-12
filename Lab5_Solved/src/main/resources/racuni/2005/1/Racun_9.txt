@@ -1,0 +1,23 @@
+Račun br. 907833
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Okvir MO 1M line, bijeli                                                              7.34   13     95.42     23.85
+Nadgradna svjetiljka SARH IP54 T8 4x36W CCG ind, bijela                            2347.05   29  68064.45  17016.11
+Motorna zaštitna sklopka, 3-polna | 1.10 - 1.60A, vel.S00                           195.29   16   3124.64    781.16
+KADA ZA P/Ž RAZDJELNIK, 4-REDNA, 48+8 MODULA                                        104.44   22   2297.68    574.42
+Uzdna kada za šuplji zid, za BK072.., KVH, 3R, 36+6 modula                          132.93   26   3456.18    864.04
+Sutil Quadro LED 8W, 6000K, 560lm, 120°, IP40, sive boje                            132.63   30   3978.90    994.73
+Priključne stezaljke za 4-polne MC3 (4 kom.)                                        115.08   14   1611.12    402.78
+Strujni trafo, 500/5A 30X10                                                         101.91   29   2955.39    738.85
+Tipka sa simbolom ključa, bijela                                                     19.35   19    367.65     91.91
+Ormar plast.750x750x420,krov protiv kiše,dno otv.,1 vrata,                            4142    8  33136.00   8284.00
+SOPRANA, ovjesna svjetiljka, PD-3, okrugla, bb tekstil, E27                         593.89   15   8908.35   2227.09
+
+                                                                                                         ----------
+UKUPNO                                                                                                    127995.78
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

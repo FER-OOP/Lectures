@@ -1,0 +1,30 @@
+Račun br. 670226
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Podnožje 3-polno za UAS15                                                            216.6   22   4765.20   1191.30
+7309AGD/C/35, LED 10w GU10 R111 CW dimabilna 35 °                                   231.98   21   4871.58   1217.90
+Kronos-I-S/A1 2x50W GU5,3 MR16, 12V, IP20, sive boje                                102.55    5    512.75    128.19
+Spojnica za sabirnice 12x5mm do 20x10mm, 520A, duljina 150mm                        138.48    2    276.96     69.24
+Vodotijesna svjetiljka DEVA ECO PC 1x28W ECG                                        228.51    5   1142.55    285.64
+Assembly of an LED System according to the customers request                       1104.99   10  11049.90   2762.48
+Sabirnica za 4 rastavne sklopke NH00, 35mm², korak 33mm                             288.35    1    288.35     72.09
+Cleo-R 70W G12, 230V, IP20, bijele boje                                               5.74   28    160.72     40.18
+Podesiva spojnica za LINUX LIGHT, srebrne boje                                       187.2    6   1123.20    280.80
+Ovjes za svjetiljku FRAME duljine 2000mm (1 par)                                    128.45   28   3596.60    899.15
+Gumom iz. i oplašten 1-žilni kabel 1,8/3 kV NSGAFöu 95 crni                          10000   25 250000.00  62500.00
+Iris-R 22W 2GX13, 230V, IP20, sive boje,prsten narančaste b.                        145.81   14   2041.34    510.33
+Elektronska prigušnica ECG QT-M 2x26-32W                                            106.11   20   2122.20    530.55
+Instalacijski sklopnik 25A | 2 N/O | 230V AC                                        130.65   16   2090.40    522.60
+Energetski kabel sa Al vodičima 0,6/1kV E-AYY-J 5x35rm crni                          10000   21 210000.00  52500.00
+40003A/B, 3f šina, četvrtasta, 3m, crne boje                                        397.73    4   1590.92    397.73
+Gumeni nastavak za plastičnu kapu LKT Ø 60                                            5.75    7     40.25     10.06
+Gumom iz. i oplašten 1-žilni kabel 1,8/3 kV NSGAFöu 1,5 crni                         10000   25 250000.00  62500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     745672.9
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,18 @@
+Račun br. 628320
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Potporni izolator, 35x40mm, 2xM6, 5kN                                                14.14   21    296.94     74.24
+Sklopnik vel. 00 | 3kW (7A) [AC-3] | 230VAC, 50/60Hz |1 N/C                             99   26   2574.00    643.50
+Montažni okvir za Downunder I, 50W, mali                                              8575    6  51450.00  12862.50
+Telekomunikacijski kabel YYSCH 3x0,6mm2, boja slonovače                              10000   18 180000.00  45000.00
+Gumena podloška za alarmnu jedinicu, 880x580mm, kabel 5m                              2104   13  27352.00   6838.00
+Završna pločica za rednu stezaljku IK250002-C, siva                                   2.43   13     31.59      7.90
+
+                                                                                                         ----------
+UKUPNO                                                                                                    261704.53
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

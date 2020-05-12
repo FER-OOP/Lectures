@@ -1,0 +1,17 @@
+Račun br. 823507
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Samostojeći ormar, 2-vrata, 2000x1000x500 (VxŠxD), RAL 7035                        5557.09    3  16671.27   4167.82
+PMMA pokrov CL, ravan/transparent                                                    69.35    2    138.70     34.67
+Fleksibilni priključni vodič, plavi 10mm², duljine 325mm                             10.37    8     82.96     20.74
+AL-Cu stezaljka 35-240mm2, 2 dovoda/2 odvoda, plava                                 387.63   13   5039.19   1259.80
+LED DMX kontroler Touch DW bijele boje                                              836.68    5   4183.40   1045.85
+
+                                                                                                         ----------
+UKUPNO                                                                                                     26115.52
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

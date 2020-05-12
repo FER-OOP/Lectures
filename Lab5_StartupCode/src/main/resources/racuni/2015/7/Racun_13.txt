@@ -1,0 +1,25 @@
+Račun br. 548217
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Okrugli vodič Fe/Zn Ø10mm, 1bunt~50kg~81m                                            12.56   16    200.96     50.24
+Bočne stranice za Modul 2000/3S, dubine 102mm, tip 41/102                             4160   10  41600.00  10400.00
+"Montažni profil 600mm, ""click"" montaža na okvir AS ormara"                       355.58   26   9245.08   2311.27
+Pokrov za senzor pokreta, 180° 5m, 2-žični, bijeli                                  164.28   11   1807.08    451.77
+Teretna sklopka, 3P, 400A, opcija: daljinski isklop                                2376.88   16  38030.08   9507.52
+PATH POLE 100cm 360° 8x1W LED, 40° 3000K antracit                                  3896.39   12  46756.68  11689.17
+"Krovna vent. jedinica, 2xventilator 35W i termostat, 19"", 4U"                     733.13    3   2199.39    549.85
+Sango-R 25W G9, 100-240V, IP20, aluminij                                            196.16   19   3727.04    931.76
+Držač za cilindrične osigurače 14 x 51 | 1P | 50A/690V                              109.76    5    548.80    137.20
+LED napajanje LPF 25W/12VMM, IP67                                                    401.6    9   3614.40    903.60
+BULAN stropna svjetiljka, E14 max. 60W E14, srebrne boje                            278.27   28   7791.56   1947.89
+BK koaks. presp. kabel IEC-m/IEC-ž,kutni,kl.A,bijeli,2.5m                            19.74   23    454.02    113.50
+LED GU10 5,5W, 40°, 3000K                                                           218.46   19   4150.74   1037.69
+
+                                                                                                         ----------
+UKUPNO                                                                                                    160125.83
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

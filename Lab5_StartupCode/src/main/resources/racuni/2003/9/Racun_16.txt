@@ -1,0 +1,20 @@
+Račun br. 578485
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Flur zaslon, jednostrani, za stropnu montažu                                          2104    3   6312.00   1578.00
+BULAN GRID zidna svj., okrugla, srebrne b., E27, max. 2x25W                         308.85    8   2470.80    617.70
+Vrata, staklena, za kom. ormare, 42U, širina 600 mm                                 886.97   18  15965.46   3991.36
+LED MR16 50 DIM 8W 12V 36° 830 621lm 1430cd GU5.3 25000h                            106.44    7    745.08    186.27
+FENDA stolna svjetiljka, E27, bez sjenila, krom                                     437.43   21   9186.03   2296.51
+Zaštitni prekidač, B karakteristika, 32A, 2-polni, 10kA                              99.09   16   1585.44    396.36
+Jednožični PVC-om izolirani vodič H07V-U (P) 2,5mm2, ž/z                            189.24   15   2838.60    709.65
+Strujni trafo, 1000/5A 64X20                                                        243.83   12   2925.96    731.49
+
+                                                                                                         ----------
+UKUPNO                                                                                                     42029.37
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

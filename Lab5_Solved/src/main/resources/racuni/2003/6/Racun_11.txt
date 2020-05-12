@@ -1,0 +1,17 @@
+Račun br. 1005975
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Montažna ploča za Maxipol ormare 1000x750 (VxŠ), poliester                          710.77    4   2843.08    710.77
+Trokatna stezaljka (vijčani priključak) 2.5mm², siva, N|L|PE                         41.28   17    701.76    175.44
+GU/GZ 10 TURNO, Downlight, krom                                                     142.23    1    142.23     35.56
+Ovjesni pribor 03                                                                   107.04   17   1819.68    454.92
+Philips CorePro LED bulb E27, 6W, 2700K                                             112.02   17   1904.34    476.08
+
+                                                                                                         ----------
+UKUPNO                                                                                                      7411.09
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

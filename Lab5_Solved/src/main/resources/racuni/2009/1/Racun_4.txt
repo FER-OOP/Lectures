@@ -1,0 +1,32 @@
+Račun br. 1070571
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Teški gumeni kabel H07RN-F 1x240, crni                                               10000   26 260000.00  65000.00
+SITRA stropna svjetiljka, okrug., sive boje, GX53, max. 9W                          437.43    3   1312.29    328.07
+BOX R7s zidna svjetiljka, četvrt.,bi.b., R7s, max. 80W                              437.43   10   4374.30   1093.57
+LYNAH DOUBLE, 2x10W, uklj. 3F adapter, crne boje                                   1683.51    3   5050.53   1262.63
+WAVE PENDANT ovjesna svjetiljka, 9W LED, 3000K, brušeni al.                        1871.23   23  43038.29  10759.57
+EUTRAC ovjes za 3-fazne šine: 1,5m Boja: srebrna                                    159.32    6    955.92    238.98
+LED Driver 320mA 8W za Sutil 2, triac dim.                                           118.6   27   3202.20    800.55
+Signalni fleksibilni kabel YSLCY-JZ 4x16 sivi                                     11333.38   12 136000.56  34000.14
+Motorna zaštitna sklopka, 2-polna | 0.25 - 0.40A                                    128.78   11   1416.58    354.14
+7818, NEONFLEX RBL kontroler                                                         37.67    1     37.67      9.42
+Reflektor za WORK LIGHT FLOOR                                                       312.23   30   9366.90   2341.73
+Zaštitni prekidač, B karakteristika, 16A, 3-polni+N, 10kA                           211.55    6   1269.30    317.33
+Završni poklopac CLR ravni sa rupom i vijcima                                         51.6    4    206.40     51.60
+Pokrovna ploča za 60mm Compact, duljina 700mm,visina 195mm                          141.66    2    283.32     70.83
+N/Ž inst. razdj. 2A-45, 15-redni, 315 ŠM, 2160x590x250mm                            5297.1   27 143021.70  35755.43
+Kabel YSLYQY-JZ 4x 4 prozirni                                                        10000   22 220000.00  55000.00
+3f reflektor VITO LED 29W 2250lm/840 40°, bijele boje                               1000.9    8   8007.20   2001.80
+RC filter PD-C                                                                      144.11    5    720.55    180.14
+AOT-O LED, 25W, 4000K, IP50, akril, opal, bijele boje                               506.88    9   4561.92   1140.48
+Zaštitni prekidač MB GR.2 36kA CL 125/3                                            1175.86   17  19989.62   4997.40
+
+                                                                                                         ----------
+UKUPNO                                                                                                    862815.25
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

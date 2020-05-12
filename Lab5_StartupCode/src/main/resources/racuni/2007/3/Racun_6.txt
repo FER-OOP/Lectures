@@ -1,0 +1,33 @@
+Račun br. 248328
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Francis-S 2x58W T8, 230V, IP65, sive boje                                           298.38   20   5967.60   1491.90
+NV rastavna pruga vel.00|160A, 3P, priklj. stez. 70mm²,185mm                        501.04   28  14029.12   3507.28
+Transparent cable 3 pole                                                             33.46   29    970.34    242.58
+Nathan-Q 13W G24q-1, 230V, IP20, brušeni krom                                        19.59    1     19.59      4.90
+Svjetiljka desing K2  3-8h/230VAC bate.Autotest, univerzalna                           397    7   2779.00    694.75
+"19"" čelični slijepi pokrov, 5U, RAL 7035"                                          42.91   17    729.47    182.37
+"Natpisna pločica, ""DOWN"", 17.5 x 28mm, natična"                                    8.13   15    121.95     30.49
+Poliester ormar,vrh zatv. dno otv.,1 vrata 1000x750x300(VŠD)                       4028.66    9  36257.94   9064.48
+Solid LED traka u kućištu, 15W, 1050lm, 3000K, IP20, siva                           298.38   18   5370.84   1342.71
+Razdjelnik N/Ž, s prozirnim vratima 1R / 14 modula IP65                             630.61   18  11350.98   2837.74
+Porter-Q LED 2x1W 3000K, IP65, sive boje                                            403.13    2    806.26    201.57
+Jakna s kapuljačom -M-                                                              383.49    2    766.98    191.74
+"5-struki okvir ""Fashion"", otp. na grebanje, biserno bijeli"                       75.29   24   1806.96    451.74
+Nazidna serijska sklopka, siva, 10A, IP44, utične stezaljke                          74.56   21   1565.76    391.44
+Stezaljka (luster-klema) 12-struka | 2.5mm²                                           4.54   14     63.56     15.89
+Teretna sklopka, 4P, 400A                                                          2548.84   26  66269.84  16567.46
+7311AG/D, 11w GU10 DL                                                                 5.74    1      5.74      1.43
+A03VV-F 5x0,75mm2, bijeli, 100m kolut                                                10000   18 180000.00  45000.00
+SERH 2 A8 L1 T5 2x54W, ECG, M600, bijel ab.                                         570.43   15   8556.45   2139.11
+Inverter otočnog sustava C12/1200 12Vdc/1200W                                      5575.74   22 122666.28  30666.57
+SAT antena 80/75cm,alu,38,8dB,sklopiva ruka,antracit                                359.48    7   2516.36    629.09
+
+                                                                                                         ----------
+UKUPNO                                                                                                    462621.03
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

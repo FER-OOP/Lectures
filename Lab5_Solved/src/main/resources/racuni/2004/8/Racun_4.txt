@@ -1,0 +1,21 @@
+Račun br. 869835
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kabel H05VV-F (PP/J) 3x1,5mm2, svijetlo-sivi, 500m                                   10000   28 280000.00  70000.00
+Odvodnik prenapona COMBTEC kl.B/C TNS 275/12,5+H                                   1411.15   17  23989.55   5997.39
+LBF montažne kopče                                                                    8.37   11     92.07     23.02
+Tipka sa simbolom zvona, antracit                                                    15.62   11    171.82     42.95
+Kabel YSLYQY-J 4x35 prozirni                                                         10000   30 300000.00  75000.00
+Sklopnik 3P |5.5kW (14A) [AC3] | 24VDC | + 1N/O (ugrađen)                           254.72   18   4584.96   1146.24
+"VH panik svjetiljka LED 230V za CPS MIXmod; zidna montaža"                        2608.24   30  78247.20  19561.80
+Meiva-S/A2 2x50W GU5,3 MR16, 12V, IP20, crne boje                                    106.1   10   1061.00    265.25
+PLASTRA Tube ovjesna svjetiljka, GU10, gips,okrugla                                 406.17   26  10560.42   2640.10
+
+                                                                                                         ----------
+UKUPNO                                                                                                     698707.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

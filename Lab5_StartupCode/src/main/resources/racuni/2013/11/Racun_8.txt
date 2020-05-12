@@ -1,0 +1,19 @@
+Račun br. 313784
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Vrata, metalna, perforirana za kom. ormare, 45U, Š=600 mm                              918    6   5508.00   1377.00
+Dimer za tipkalo RLC 5-500VA                                                        510.67   26  13277.42   3319.35
+Bakrena sabirnica, TTT profil, 2500A, duljina 2.4m,pocinčana                       5223.26    7  36562.82   9140.71
+Profil za montažu DIN nosača na dno, širina 200mm (2 kom.)                            4065    6  24390.00   6097.50
+Motorna zaštitna sklopka, 3-polna | 0.28 - 0.40A, vel.S0                            206.11   13   2679.43    669.86
+Bimetalni relej za sklopnike vel. 3 | 45,00 - 63,00A                                421.33    2    842.66    210.66
+Nosač baterija 18xNLBA120 - NLBA250 880x1650x590mm                                 8930.25   23 205395.75  51348.94
+
+                                                                                                         ----------
+UKUPNO                                                                                                    288656.06
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

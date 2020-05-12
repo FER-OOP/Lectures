@@ -1,0 +1,29 @@
+Račun br. 951568
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zaštitni prekidač, B karakteristika, 63A, 1-polni+N, 10kA                           334.98   28   9379.44   2344.86
+Ugradna ind. svjetiljka SBOX EB 1x150W,HI,E27,EB, IP65                             1766.84   27  47704.68  11926.17
+Upravljačka jedinica za EHTD 420VA/LT1200/LT500, na DIN                             369.62   25   9240.50   2310.13
+Pomoćni kontakt za sklopnik vel. 0-12, 1 N/O, raniji kontakt                         23.72   27    640.44    160.11
+BIG THEO WALL OUT, ES111, srebrne boje                                              506.37    1    506.37    126.59
+Kompaktni prekidač snage tip M, 3P/80A/25kA, MC1                                    906.37    2   1812.74    453.18
+Panik svjetiljka KW Wireless aku.bat LED 8h 230VAC zidna                              1477   24  35448.00   8862.00
+ENOLA_B ovjesna, bijela b., GU10, max. 50W                                          625.15   17  10627.55   2656.89
+LED Razvodna kutija (x3) paralelni spoj                                              20.96    2     41.92     10.48
+Kompenzacija  LSFC 7% 150/12,5kvar 800x2000x400mm Sam.orm.                        45707.85   21 959864.88 239966.22
+Prespojni kabel RJ45 cat.6 oklopljen,s pregibnicama,sivi,15m                         76.39   11    840.29    210.07
+R7S LED, 118mm, 2700K, 120°                                                         230.68   30   6920.40   1730.10
+Gumeni savitljivi kabel NSSHöu-J 5x16, žuti                                          10000    8  80000.00  20000.00
+Montažna ploča za MYRALED WALL, ENOLA_C OUT, sive boje                               93.26   18   1678.68    419.67
+Decoring za ES111 i QRB, srebrne boje                                                50.01   16    800.16    200.04
+Aluminijska spojnica na prešanje sa Cu završetkom, 35mm²                              7031    1   7031.00   1757.75
+Prozirna vrata, akril, za WSM1208xx, otvor: 1059X427mm                             1244.11    6   7464.66   1866.16
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1180001.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

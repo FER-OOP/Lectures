@@ -1,0 +1,15 @@
+Račun br. 426632
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Cijev, M32, 320N, EN2221, svijetlo siva, 3m (pak. 57m)                               622.2    9   5599.80   1399.95
+Kompenzacija ožičena  60/10kvar 500x500x300mm zidni ormar                         11894.49   29 344940.22  86235.05
+EASY 500/700 USB kabel za programiranje (PC-USB)                                    780.91   23  17960.93   4490.23
+
+                                                                                                         ----------
+UKUPNO                                                                                                    368500.97
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

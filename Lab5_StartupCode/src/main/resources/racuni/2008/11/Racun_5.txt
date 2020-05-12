@@ -1,0 +1,19 @@
+Račun br. 1011387
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Pinta-Q/A1 35W GU4 MR11, 12V, IP20, brušeni krom                                      8.78    5     43.90     10.97
+LED Retro svijeća, prozirna, E14, 1,8W, 3000K, 225lm                                 26.52   13    344.76     86.19
+Sklopka za upravljanje roletama, umetak, utične stezaljke                           100.35    8    802.80    200.70
+LINEA 80M polikarbonatni opalni pokrov L-2969mm                                     384.73    6   2308.38    577.10
+Matica PG16, mesing                                                                    1.6    1      1.60      0.40
+Odvodnik prenapona, punjen plinom, 8x6mm, 90V                                        14.69   30    440.70    110.17
+PD-C360i/24 KNX sa senzorom prisutnosti, IR 360° PŽ, Ø24m                          2402.52   24  57660.48  14415.12
+
+                                                                                                         ----------
+UKUPNO                                                                                                     61602.62
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

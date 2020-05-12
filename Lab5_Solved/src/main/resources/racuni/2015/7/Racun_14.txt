@@ -1,0 +1,29 @@
+Račun br. 1097617
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Utičnica šuko, IP54, sa ključem, na oprugu, nadžbukna                               124.73   29   3617.17    904.29
+PIKA MR16 Downlight, zakretna, srebrne boje                                          80.76    6    484.56    121.14
+DRAGAN SENSOR, bijela b., E27, max. 2x24W, IP44, sa senzorom                       1125.94   18  20266.92   5066.73
+SOPRANA ovjesna svjetiljka, PD-2 okrugla, bež tkanina, 3xE27                        938.06    8   7504.48   1876.12
+Kompaktni prekidač snage tip AE, 4P, 85kA, 1000A+izvl. modul                      24068.44   27 649847.88 162461.97
+"Opt. razdjelnik, 12 niti,LC,50/125µm OM4, izvlačivi,19"",1U"                       781.14    3   2343.42    585.85
+Mono kabelska spojnica, neizolirana, prema DIN, Cu, 25mm²                            12.47   19    236.93     59.23
+Spiralno udarno svrdlo, SDS-Plus, 10.0 x 160 mm / 100mm                               42.7    6    256.20     64.05
+Samostojeći ormar, 2-vrata, 2000x1000x400 (VxŠxD) bez MP, R5                          4800   14  67200.00  16800.00
+Rastavna sklopka za cilindrične osigurače 14x51mm, 2P/50A                            71.46   13    928.98    232.24
+Ugradna svjetiljka SERH XTP T5 4x28W ECG M625, bijela                              1642.58   13  21353.54   5338.38
+Prespojni kabel RJ45 cat.5e neoklopljen, PVC, sivi, 7.0m                             24.19   29    701.51    175.38
+L-SE sjenilo R2 2x 58W bijele boje                                                   94.32   14   1320.48    330.12
+Viličasta sabirnica 63A za 2xBE5, korak 45mm                                         41.61   21    873.81    218.45
+AIXLIGHT R zidna, QRB111, okr.,bi.b., G53, max. 1x50W                               875.55   10   8755.50   2188.88
+Geluce LED PB1 opal svj. 1x51W, ECG 3550lm/840, M625, 9003                         1925.54   27  51989.58  12997.40
+Kabel LiYCY-TP 3x2x0,25                                                              692.2    5   3461.00    865.25
+
+                                                                                                         ----------
+UKUPNO                                                                                                     841142.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,31 @@
+Račun br. 1055493
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LED SN napajanje 45W/24V IP20                                                       399.97   11   4399.67   1099.92
+Mehanička blokada za motorni pogon,za MC3 i MC4,duga verzija                       2747.98   22  60455.56  15113.89
+N/Ž kutija IP20 za senzore PD-C360 i MD-C360                                        139.68   28   3911.04    977.76
+Izolacijski element 4 stupnja                                                        49.64   20    992.80    248.20
+Nosač natpisnih pločica dimenzije 12.5 x 27mm                                         2.11   20     42.20     10.55
+Compact passage, senzor prist. 24V, p/ž, stropni, srebrni                          2897.71    7  20283.97   5070.99
+Završna pločica za 2-polnu/3-polnu sabirnicu                                          2.52   11     27.72      6.93
+Kompaktni prekidač snage tip AE, 4P, 85kA, 1250A+izvl. modul                      26925.83    6 161554.98  40388.75
+D02 rastavna sklopka TYTAN II, 3-polna, 35A, komplet                               2035.49   15  30532.35   7633.09
+Grebenasta sklopka, 1-2/2P/20A, na vrata                                            165.36   10   1653.60    413.40
+Višežični PVC-om izolirani vodič H07V-R (P/M) 70mm2, crni                            10000   14 140000.00  35000.00
+Zakretna tipka / 40° / sa povratom / dva položaja                                    59.18    6    355.08     88.77
+Serijski ormar AS, 1-vrata, 2000x800x600 (VxŠxD),bez MP,7035                       3857.81    4  15431.24   3857.81
+Stražnja ploča za nazidni Modul 2000 | 1R-28                                        131.94    8   1055.52    263.88
+Okvir MO 2/3M, line, crni                                                            33.29    6    199.74     49.94
+Spojnica MC4 nadgradna muška, za kabel 4-6mm2                                        21.62   18    389.16     97.29
+AFDD, series Lisa, B 16 A, 2-pole, 30 mA, A/delayed, 10 kA                         1215.49   25  30387.25   7596.81
+Zaštitni prekidač, C karakteristika, 13A, 1-polni+N, 10kA                            74.83   11    823.13    205.78
+Sklopnik 3P |5.5kW (14A) [AC3] | 400V AC | + 1N/O (ugrađen)                         146.18   18   2631.24    657.81
+
+                                                                                                         ----------
+UKUPNO                                                                                                    475126.28
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

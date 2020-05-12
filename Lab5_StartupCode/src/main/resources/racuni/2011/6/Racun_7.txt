@@ -1,0 +1,22 @@
+Račun br. 720270
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Utični interface relej, XT, 2C/O, 8A, 24VAC, 5mm                                     37.19   25    929.75    232.44
+ESSENS 26/2 duboki Downlight, bb                                                    694.85   26  18066.10   4516.52
+Grijač 60W/105°C, s priklj. stezaljkama, 110-250V AC/DC,IP44                        437.78   15   6566.70   1641.68
+Blok za pisanje A4                                                                   13.89   12    166.68     41.67
+Kabel H05VV-F (PP/J) 3x1,5mm2, bijeli, 50m                                           10000   22 220000.00  55000.00
+Odvodnik prenapona, punjen plinom, 8x6mm, 230V                                       13.06    9    117.54     29.39
+A03VV-F 4x1mm2, svijetlo-sivi, 50m kolut                                             10000   25 250000.00  62500.00
+Kabel za punjenje tip2, 32A 3F, 4m duljine                                            8130   21 170730.00  42682.50
+Tris-II-R/A1 LED 3x1W 6000K 180lm,dim.,350mA,IP20,crne boje                          88.02   27   2376.54    594.13
+AIXLIGHT R LONG, QRB111, okr.,sr.b., G53, max. 4x50W                               2497.05    6  14982.30   3745.58
+
+                                                                                                         ----------
+UKUPNO                                                                                                     683935.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

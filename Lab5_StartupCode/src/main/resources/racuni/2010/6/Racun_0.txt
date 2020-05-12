@@ -1,0 +1,27 @@
+Račun br. 492767
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Bezhalogeni kabel s el. funkc. do90 Min. (N)HXH-O1x185rmE90                       22639.45   16 362231.19  90557.80
+Plastični pokrov TB ravan/proziran - D-2000mm Š-24mm V-6mm                           50.26   19    954.94    238.73
+Rolo-CL medium E27 75W, aluminij, hrđavo smeđe boje                                 198.86   27   5369.22   1342.31
+Ugradna svjetiljka SERH 2 A8 L1 T5 1x54W, ECG, bijela                                 8534   14 119476.00  29869.00
+Prekidač,bežično upravljiv sa 6 memorijskih adresa,max.1000W                        218.46   10   2184.60    546.15
+Bezhalogeni kabel s el. funkc. do90 Min. (N)HXH-O1x300rmE90                          10000    8  80000.00  20000.00
+Adapter PK za prekidače i utičnice                                                   13.74    3     41.22     10.31
+Elektronska prigušnica ECG QTi 1x36/220-240 dim 1-10V                               297.08   11   3267.88    816.97
+SSVGA produžni kabel 4C+5, pozl. kontakti, crni, 20m                                 321.9    1    321.90     80.47
+Optički završetak LC/APC, 9/125µm OS2, 2.0m, žuti, 4 kom.                           117.82    8    942.56    235.64
+Pako-S/A2 LED 2x1W 6000K, dimabilna, 350mA, IP20, aluminij                           77.21   29   2239.09    559.77
+BK razdjelnik,1xF-ž-2xF-ž,multimedija,5-1006MHz,BVE 20-01                            18.61   16    297.76     74.44
+Uzidni okvir s vratima - M3000, 2U-28                                               954.55   25  23863.75   5965.94
+Poliester zidni ormar MINIPOL, zatv. u 3 točke,600x500x230mm                       1782.58   12  21390.96   5347.74
+Natpisna pločica za podnožje PT787xx                                                  0.65   28     18.20      4.55
+
+                                                                                                         ----------
+UKUPNO                                                                                                     622599.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

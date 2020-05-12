@@ -1,0 +1,14 @@
+Račun br. 980442
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Finožični PVC-om izolirani vodič H07V-K (P/F) 35mm2, smeđi                         2559.34    7  17915.38   4478.85
+TRAIL podna svj. LED 650mm 9W 900lm sim. 4000K                                     2802.68   12  33632.16   8408.04
+
+                                                                                                         ----------
+UKUPNO                                                                                                     51547.54
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,15 @@
+Račun br. 931432
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ugradna downl. svj. ERM 202 2x18W CCG TC-D IP20/44, bijela                          271.64    7   1901.48    475.37
+Mura-II-Q LED 1W 6000K, IP54, aluminij                                              156.45   29   4537.05   1134.26
+DC sklopnik | 5.5kW | 24V DC | 3N/O + 1N/C pomoćni kontakt                          555.48   30  16664.40   4166.10
+
+                                                                                                         ----------
+UKUPNO                                                                                                    23102.928
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

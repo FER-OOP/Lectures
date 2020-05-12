@@ -1,0 +1,33 @@
+Račun br. 307534
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Cinda-II-R 10W G4, 12V, IP20, krom                                                   39.36   13    511.68    127.92
+Montažna ploča, poliester, zaIG7254... 670x490x4mm                                    4130    4  16520.00   4130.00
+Kompaktni prekidač snage tip AE, 4P, 150kA, 400A+izvl. modul                       10275.5    6  61653.00  15413.25
+Nadgradna svjetiljka SARM 2 1x54W ECG, bijela                                       367.51   14   5145.14   1286.29
+Prespojni kabel RJ45 cat.6 oklop.,s pregibnicama,zeleni,5m                           29.39    7    205.73     51.43
+Dvostruka izmjenična sklopka s tipkom, bijela                                          127   10   1270.00    317.50
+Kompaktni prekidač snage tip AE, 4P, 50kA,1600A+izvl. modul                        71046.3   151065694.50 266423.63
+FENDA sjenilo svjetiljke , bijele boje                                              249.72   14   3496.08    874.02
+"19"" napojna letva s 12xIEC C13, 1U, alu kućište, kabel 2m"                        644.35   11   7087.85   1771.96
+L-SE el. uložak DM 2x58W CCG                                                        330.75   24   7938.00   1984.50
+Ugradna svjetiljka SERS 2 ECO T8 2x36W ECG M600, bijela                             337.11    1    337.11     84.28
+Ormar plast.1000x750x420,krov protiv kiše,dno zat.,2 vrata,                           4142    9  37278.00   9319.50
+Fluokompaktna žarulja TC-TEL 18W/830 Gx24Q-2                                         44.83   19    851.77    212.94
+"Natpisna pločica za umetanje fi=28mm, prozirna, ""OFF"""                             3.09   12     37.08      9.27
+Nosač sabirnica centralnog napajanja, 4P, srednji                                     4836    7  33852.00   8463.00
+Pribor za ovjes 2m, uklj. stropni nosači                                              33.5    5    167.50     41.88
+PE stezaljka sa 15 odvoda                                                            34.63   13    450.19    112.55
+BULAN stropna svjetiljka, E14 max. 60W, bijele boje                                 278.27   27   7513.29   1878.32
+Zaštitni prekidač AMPARO 6kA, B 25A, 3-polni                                         76.11   24   1826.64    456.66
+Helena-I 55W 2G11, 230V, IP20, sive boje                                            324.91   14   4548.74   1137.19
+M48 Area QU-D 2Modula 96LEDs 4000K IP66 227W 21545lm RAL9006                       8871.62   23 204047.27  51011.82
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1460431.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

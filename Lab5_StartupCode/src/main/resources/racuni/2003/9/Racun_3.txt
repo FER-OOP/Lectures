@@ -1,0 +1,32 @@
+Račun br. 475128
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Halogena žarulja HALOLUX 64541 B ES 18W E14, bistra                                  19.85   19    377.15     94.29
+9G05L/D/E, 90 LED DL 4,5W E27                                                        19.59    5     97.95     24.49
+IBDN prespojni kabel RJ45 UTP cat.6A, plavi, 4.6m                                     6804    1   6804.00   1701.00
+Modularna slijepa ploča za AS/KS ormare, 800x100mm, RAL 7035                         84.01   12   1008.12    252.03
+LED SN napajanje 15W/24V IP20                                                       104.83   18   1886.94    471.73
+Nadgradna svjetiljka PRIMO H OPAL T5 1x14W ECG, bijela                              257.21   29   7459.09   1864.77
+Senzor prisut. stropni, PlanoSpot 360, LON, 64m2, bijeli                           1745.51    9  15709.59   3927.40
+Grebenasta sklopka u kućištu, 0-1/1P/20A, IP40                                      127.63   24   3063.12    765.78
+Ugradna svjetiljka SEO XTP T8 4x36W CCG IP54 M600, bijela                          2042.05   28  57177.40  14294.35
+Set za povezivanje AS ormara izvana (6 kom.)                                         320.1   17   5441.70   1360.43
+PD-C360i/12 mini senzor prisutnosti IR, stropni, 360°, Ø12m                        1326.56   13  17245.28   4311.32
+Otvoreni prekidač, 3P, 66kA, 3200A, fiksni,vod. str. priklj.                      56605.11    1  56605.11  14151.28
+Nazidni razdjelnik bez vrata, 4-redni, 48 modula                                    332.95    6   1997.70    499.43
+Ugradna svjetiljka SEP ECO T8 2x36W ECG M600, bijela                                302.04   19   5738.76   1434.69
+Halogena žarulja QT 12 75W 12V GY6,35                                                 13.8   12    165.60     41.40
+Grebenasta sklopka (glavna, žuto/crvena), 0-1/4P/63A, na DIN                        327.33   12   3927.96    981.99
+PlanoCentro LON, senzor prisutnosti, p/ž, stropni, crni                               2172   11  23892.00   5973.00
+EURO CUBE Spot, 3000K, CRI90, 30°, uklj. 3F adapter, crne b.                       1433.11    9  12897.99   3224.50
+Spojnica za cijev KSX80/80                                                           31.95   10    319.50     79.88
+H03VVH2-F 2x0,75mm2, sivi YML-fl 100m kolut                                          10000   12 120000.00  30000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    341814.94
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

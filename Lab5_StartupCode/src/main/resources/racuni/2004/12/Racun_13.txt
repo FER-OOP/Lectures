@@ -1,0 +1,22 @@
+Račun br. 118462
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Teški gumeni kabel H07RN-F 1x2,5, crni                                               10000    6  60000.00  15000.00
+P/Ž inst. razdj. 4U-21,7-redni,315ŠM,1055x1030x250mm(VxŠxD)                        3739.75    2   7479.50   1869.88
+P/Ž kutija, 4 modula, POWERCOM/IKALL                                                 84.07    7    588.49    147.12
+"Samostojeći komunikacijski ormar DS 600x2195x600, 19"", 47U"                      3776.91   17  64207.47  16051.87
+Cano-R/A2 LED 15W 3000K 1095lm, IP20, crne boje                                      425.1    5   2125.50    531.38
+Univerzalni dimer sa tipkalom 20- 400W, umetak, R, L, C                             983.35   19  18683.65   4670.91
+UPS Premium Dual ER 3000VA 2400W 0 min.1/1-fazni/Online                            9272.71   25 231817.75  57954.44
+Ugradna indirektna svj. VMRL RWB 4-14/24W ECG M625 perfor.                          868.45   27  23448.15   5862.04
+Poliester ormar, vrh i dno zatv., 2 vrata 1250x1000x312(VŠD)                       4898.47    8  39187.76   9796.94
+Strujni trafo, 250/5A, za kabel promjera do 21mm                                     83.36   29   2417.44    604.36
+
+                                                                                                         ----------
+UKUPNO                                                                                                    449955.72
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,32 @@
+Račun br. 170165
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+BIMA II svjetiljka za 3-fazne šine, srebrne boje                                    531.37    3   1594.11    398.53
+Prednja ploča za sklopku sa bravom (EL121920), bijela                                 2114   29  61306.00  15326.50
+Finožični PVC-om izolirani vodič H07V-K (P/F) 2,5mm2, crveni                        195.31    9   1757.79    439.45
+6 prednjih priključnih ploča za MZ3                                                 706.49   13   9184.37   2296.09
+Priključna sabirnica, viličasta, 10mm²/4P, 26 modula                                  4230   15  63450.00  15862.50
+Kompaktni prekidač snage tip ME, 3P, 150kA, 220A+izvl. modul                          6244   25 156100.00  39025.00
+Zakretna ručica za MC3, zaključavanje, na vrata (crna/siva)                         543.86   14   7614.04   1903.51
+Elektronički izvor napajanja (industrijski) 24VDC|2.5A|60W                          370.46   21   7779.66   1944.92
+Nadgradna svjetiljka PRIMO M PRISMA 2x14W ECG, bijela                               244.49   26   6356.74   1589.19
+Držač za cilindrične osigurače 22 x 58 | 3P + N | 100A/690V                         595.37    4   2381.48    595.37
+Plafonjera SLAVO 260 9W 750lm/830 ECG, bijela                                       338.84   20   6776.80   1694.20
+Motorni pogon 230V AC/DC za MZ2                                                    1650.12   25  41253.00  10313.25
+7804, napajanje                                                                      51.36   27   1386.72    346.68
+"Samostojeći komunikacijski ormar DS 800x2105x1000, 19"", 45U"                     4652.48   30 139574.41  34893.60
+"WC set ""Sigma"", uzidno napajanje, komplet, biserno bijeli"                      2150.39   13  27955.07   6988.77
+Podžbukna kutija za MAXI monitor, 212x115x50 mm                                      65.74    2    131.48     32.87
+Odjelna stranica za AS ormare, 2200x800mm (VxŠ)                                     765.69   28  21439.32   5359.83
+Višežični PVC-om izolirani vodič H07V-R (P/M) 16mm2, plavi                           10000   12 120000.00  30000.00
+Plafonjera ALICA Round OP 1x22W, CCG IP54, bijela                                   262.02    9   2358.18    589.54
+LINUX LIGHT šina, 2 metra, uklj. 2 zavr.pok., krom                                  374.92    5   1874.60    468.65
+
+                                                                                                         ----------
+UKUPNO                                                                                                     680273.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

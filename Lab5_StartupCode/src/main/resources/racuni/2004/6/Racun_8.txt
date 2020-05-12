@@ -1,0 +1,24 @@
+Račun br. 832122
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+MEDO PRO 60 stropna svj., okr., bijela, 2xT5 24W, 2xTC-L 24W                       2135.48   20  42709.60  10677.40
+Prespojni kabel RJ45 cat.6 oklopljen,s pregibnicama,plavi,3m                         20.53    1     20.53      5.13
+Helios-Q/A2 50W GU5,3 MR16, 12V, IP20, aluminij                                     146.65    4    586.60    146.65
+PVC-om izol.kabel za srednja meh.opt. YMS -J 5x4 crni                                10000   15 150000.00  37500.00
+Nosač MO 4M s vijcima                                                                 9.53   11    104.83     26.21
+Sklopnička komb. za promjenu smjera vel. 3 / 45kW / 400V 3P                        2300.21   21  48304.41  12076.10
+Ugradna downl. svj. ERM 202 2x13W ECG TC-DEL IP20/44, bijela                        308.41   23   7093.43   1773.36
+Kabel LiYCY 6x0,14                                                                   10000   19 190000.00  47500.00
+Transformator, 1-fazni | 230/012V | 63VA, IP00                                      307.56    6   1845.36    461.34
+Gumeni savitljivi kabel NSSHöu-J 3x95/50, žuti                                       10000   18 180000.00  45000.00
+Otto-I-Q/A2 70W G8,5, 230V, IP20, sive boje                                         161.18   13   2095.34    523.83
+Zaštitni prekidač, C karakteristika, 40A, 3-polni+N, 10kA                           247.49    3    742.47    185.62
+
+                                                                                                         ----------
+UKUPNO                                                                                                    623502.56
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

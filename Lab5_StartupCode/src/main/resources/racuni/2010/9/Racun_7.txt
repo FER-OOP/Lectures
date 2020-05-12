@@ -1,0 +1,29 @@
+Račun br. 669851
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"Preklopnik PoE 802.3af, 24xRJ45 10/100, vanj. nap., 19"", 1U"                     4299.22   15  64488.30  16122.08
+L-SE slijepi pokrov DM T8 metal L-1540mm, bijele boje                                51.19   13    665.47    166.37
+KC sigurnosna lampa LED/3h Autotest 230VAC,stropna                                 1189.07    8   9512.56   2378.14
+40003R/W, UGRADNA ŠINA 3m, bijele boje                                              879.43   22  19347.46   4836.86
+NV osigurač vel. 00, gG/gL, 125A/500V AC                                              4838   28 135464.00  33866.00
+Instal. umetak 2-18K komplet 6 IR prednja pl. čelik                                 1212.2   20  24244.00   6061.00
+Teretna sklopka, 3P, 125A, VC1, bez ručice                                          464.65   25  11616.25   2904.06
+Redna stezaljka (utični priključak), 10mm², siva                                      5.93   24    142.32     35.58
+SAT kaskadna jed. EN 50494,9 IN 6 OUT pasivna za HSATSU906KA                       2210.04    3   6630.12   1657.53
+KARDAMOD SURFACE SQUARE ES111 SINGLE,KVADRAtna,bijela max.75                        687.83   24  16507.92   4126.98
+Fleksibilni plosnati kabel za dizalice H07VVH6-F 7x2,5, crni                         10000   21 210000.00  52500.00
+TANI zidna svj., R7s                                                                 393.5   19   7476.50   1869.13
+UPS Premium Plus ER 3000VA 2400W 0min, 1f/1f /Online                               6722.72   11  73949.92  18487.48
+Kabelski kanal, bez halogena, 75x100mm (VxŠ), 2m, RAL7035                           163.43   24   3922.32    980.58
+Prozirni kabel 5x1mm2, 1,25m                                                          8528   21 179088.00  44772.00
+Završna pločica 1-polna, plava                                                        4230   25 105750.00  26437.50
+Otvoreni prekidač, 3P, 55kA, 1600A, fiksni, prednje priklj.                       28432.98    1  28432.98   7108.25
+
+                                                                                                         ----------
+UKUPNO                                                                                                     897238.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

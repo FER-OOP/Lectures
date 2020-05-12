@@ -1,0 +1,16 @@
+Račun br. 381402
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Set vijaka INOX M6                                                                   62.51   26   1625.26    406.32
+Pokrov lučne komore za MO3, 3-polni (kao rezervni dio)                                4970    4  19880.00   4970.00
+Relej za rolete                                                                     143.67   29   4166.43   1041.61
+Relej 2 C/O |10A | 24VAC                                                             64.48   19   1225.12    306.28
+
+                                                                                                         ----------
+UKUPNO                                                                                                    26896.809
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,17 @@
+Račun br. 872988
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Prozirna vrata, akril, za WSM1208xx, otvor: 1059X627mm                             1592.07   14  22288.98   5572.24
+7303G/W/30, LED 3w GU10 WW 30 °                                                         25   17    425.00    106.25
+Dodatni blok pomoćnih kontakata 2 N/O + 2 N/C (tvornički)                          1204.59   21  25296.39   6324.10
+Grijač za ormar 150W, 9-36V AC/DC                                                   732.97   25  18324.25   4581.06
+Motorna zaštitna sklopka, 2-polna | 25.0 - 40.0A                                    128.78   25   3219.50    804.88
+
+                                                                                                         ----------
+UKUPNO                                                                                                     69554.12
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

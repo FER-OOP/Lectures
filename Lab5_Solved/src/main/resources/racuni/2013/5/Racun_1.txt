@@ -1,0 +1,32 @@
+Račun br. 220862
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ugradna svj. SELENA OP LED ECO 37W M600 3700lm/840 ECG,bb                            731.4   18  13165.20   3291.30
+Finožični PVC-om izolirani vodič H07V-K (P/F) 6mm2, bijeli                           455.4   28  12751.20   3187.80
+Senga LED 30W 2570lm, 3000K, 230V, IP65, bijele boje                                411.07    8   3288.56    822.14
+Otvoreni prekidač, 4P, 66kA, 1250A, fiksni,vod. str. priklj.                      25412.61   17 432014.38 108003.59
+Teški gumeni kabel H07RN-F 27x1,5, crni                                              10000   19 190000.00  47500.00
+UPS Multi Plus 15kVA 12kW 0Min.,3f/1f /Online/veliko kućište                      43526.97    2  87053.94  21763.48
+Prednja ploča, plastična, slijepa, 4B4K                                               4063   11  44693.00  11173.25
+Grebenasta sklopka, 1-0-2/4P/63A, montaža na DIN nosač                              969.36   13  12601.68   3150.42
+Sabirnica, 4P, viličasta, 1/N/2/N/3/N, 10mm² (63A)|17.8mm|1m                        287.69   15   4315.35   1078.84
+Završni poklopac profila TBE ravni sa rupom i vijcima                                 50.2   18    903.60    225.90
+9R27/C/E, PAR38 LED COB 16W E27 CW 100-240v                                         126.04   10   1260.40    315.10
+Uvodnica PG9 (maticu M273103--- naručiti odvojeno)                                    3.17    6     19.02      4.76
+Kada za brojilo, 2 ploče za brojilo u jednom redu, 2-reda                           554.01   11   6094.11   1523.53
+Zamjenjiva skala, 96x96mm, 100/200/5A AC                                              4399    7  30793.00   7698.25
+LED napajanje TC 4W/350mA, IP20                                                      150.6   15   2259.00    564.75
+Izolir traka 19mm x 20m, crna, VDE, UV otporna                                        6.14   24    147.36     36.84
+LED Downlight Siena 68,8W 500lm,36°,828,dimbilan, bijela b.                         334.65   10   3346.50    836.63
+Modul signalne svjetiljke,treptajuće plavo svjetlo,24V AC/DC                        769.07   30  23072.10   5768.02
+Nazidni okvir s vratima za Modul 2000 | 3A-42 | dubina 300mm                       3298.59   20  65971.80  16492.95
+Prilagodni okvir 50x50mm, termički postojan, inox efekt                              39.27   14    549.78    137.45
+
+                                                                                                         ----------
+UKUPNO                                                                                                    934300.06
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

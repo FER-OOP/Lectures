@@ -1,0 +1,27 @@
+Račun br. 706732
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Fluokompaktna žarulja TC-L 36W/840 2G11                                              25.28    9    227.52     56.88
+Ugradna downl. svj. ERM 202 1x26W ECG TC-DEL IP20/44, bijela                        286.07   13   3718.91    929.73
+LED DMX & PWM Dimer RGB                                                             753.01   24  18072.24   4518.06
+Okvir za vrata, za MC4, crni, IP40                                                  236.33   15   3544.95    886.24
+Bezhalogeni vatrodojavni instal. kabel JB-H(ST)H 20x2x0,8 E3                         10000   30 300000.00  75000.00
+Rezervni filter za ventilator 145x145mm, IP55 (pak=5 kom.)                           293.1   16   4689.60   1172.40
+TC RASTER 336, nadgradna svjetiljka TC-L 3x36W CCG, bb                              938.06   29  27203.74   6800.94
+Priključak za motorni pogon i isklopnik, za utične MC2                              194.45    1    194.45     48.61
+Punto-R/A1R 50W GU5,3 MR16, 12V, IP20, brušeni krom                                  26.52    1     26.52      6.63
+Distantni vijci za podizanje krovnog panela kod AS/KS ormara                        195.53    3    586.59    146.65
+Nosač MO 4M za kupaonski set, s vijcima                                              10.78   29    312.62     78.15
+Priključna kutija, čelik, 200x300x120 (VxŠxD), IP66, RAL7035                        206.88   30   6206.40   1551.60
+NV osigurač vel. 4, 800A/400V AC                                                    307.89   30   9236.70   2309.18
+Plastični pokrov SL ravan/proz. 91%,D-2000 Š-58 V-10,7mm                             108.9   17   1851.30    462.83
+KC sigurnosna lampa LED 230V za CPS MIX mod, stropna montaža                       1337.04   26  34763.04   8690.76
+
+                                                                                                         ----------
+UKUPNO                                                                                                     410634.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

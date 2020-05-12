@@ -1,0 +1,16 @@
+Račun br. 981002
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Okvir MO 2x2M, line, crni                                                            26.88   15    403.20    100.80
+Umetak brave, double-bit, 3mm,nehrđajući čelik,za WSR ormare                          4066   13  52858.00  13214.50
+Optički završetak LC/APC, 9/125µm OS2, 2.0m, žuti, 4 kom.                           117.82   27   3181.14    795.28
+NV rastavna sklopka ARROW BLUE vel.1|250A, 3P, M10, 60mm                           1330.58    2   2661.16    665.29
+
+                                                                                                         ----------
+UKUPNO                                                                                                      59103.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

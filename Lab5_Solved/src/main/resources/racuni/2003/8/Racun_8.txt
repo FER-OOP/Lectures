@@ -1,0 +1,22 @@
+Račun br. 955843
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ugradna downl. svjetiljka EQM 211 1x26W TC-TEL IP20 bijela                          345.17   30  10355.10   2588.78
+Kronos-Q/A2 LED 25W 4000K 1750lm, IP20, bijele boje                                 696.28   12   8355.36   2088.84
+Tuljci, izolirani, 1.5mm2, L2=8mm (pak.100 kom)                                       9.36   14    131.04     32.76
+Kai-S 28 LED 66W 6330lm, 4000K ulič.opt. LT-M, IP66, RAL9006                       4088.14   28 114467.91  28616.98
+Priključni set, 10-120mm², s pokrovom, 60mm Compact, 3P/5P                            4832   21 101472.00  25368.00
+Bezhalogeni kabel s el. funkc. do30 Min. (N)HXH-J1x70rmE30                           10000   26 260000.00  65000.00
+IP2x zaštita od dodira, za 4-polne MC1 (montaža na MC196741)                         38.48    6    230.88     57.72
+L-SE sjajni odsijač R12 T5 AL 35-80W široki, aluminij                                92.61   22   2037.42    509.36
+Kompaktni prekidač snage tip A, 3P/20A/25kA, MC1                                    706.95   11   7776.45   1944.11
+Finožični PVC-om izolirani vodič H07V-K (P/F) 1,5mm2, naran                         121.44   21   2550.24    637.56
+
+                                                                                                         ----------
+UKUPNO                                                                                                    507376.38
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,23 @@
+Račun br. 972877
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Montažna ploča za IP54, 4A-39                                                         4160    5  20800.00   5200.00
+Teretna sklopka, 4P, 125A, opcija: daljinski isklop                                 962.89    9   8666.01   2166.50
+Nosač uređaja, otvor 22,3mm (1 -4mm panel)                                            6.83    6     40.98     10.24
+SAT zidni nosač Y,R=570mm,V=250mm,2xpl.=150x150mm,stup=50mm                         337.45   15   5061.75   1265.44
+Montažni nosač 1HH                                                                   13.15   11    144.65     36.16
+Sabirnica, 1P, viličasta, okomita, 16mm² (80A)|17.8mm|1m                             82.03   11    902.33    225.58
+Fleksibilni fleks. kabel, cat 5e U/UTP, PVC, sivi, 305m                             588.75    2   1177.50    294.38
+Tipka s ručicom,žuta,3 polož.,50°,lijevo s-desno bez povrata                         45.85    6    275.10     68.77
+Elektronska prigušnica ECG QT-FQ 2x80                                               177.63   24   4263.12   1065.78
+Linijska svj. SERM-LT 112, srednji profil,  2x80W, ECG, bb                          627.99   14   8791.86   2197.96
+Fleksibilni plosnati kabel za dizalice H07VVH6-F 10x1,5,crni                         10000    9  90000.00  22500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     140123.3
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

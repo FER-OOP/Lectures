@@ -1,0 +1,15 @@
+Račun br. 875887
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"Natpisna pločica, ""AUS EIN"", 17.5 x 28mm, natična"                                 8.13   27    219.51     54.88
+Izolir traka, bijela, 15mm x 10m - COROPLAST                                          5.99   30    179.70     44.92
+LED traka 35 CW Ra=90+, 7,6W/m, 680lm/m, 24VDC,IP44, l=5m                           870.91   15  13063.65   3265.91
+
+                                                                                                         ----------
+UKUPNO                                                                                                    13462.859
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

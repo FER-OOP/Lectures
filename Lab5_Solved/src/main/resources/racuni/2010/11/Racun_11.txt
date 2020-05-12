@@ -1,0 +1,20 @@
+Račun br. 279110
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Mura-60-R 16W E27, 100-240V, IP54, aluminij                                         879.43    7   6156.01   1539.00
+Ron-S 8W T5, 230V, IP20, aluminij                                                   198.86   27   5369.22   1342.31
+"Opt. razdjelnik, 24 niti, LC 50/125µm OM4, izvlačivi,19"",1U"                     2316.04   26  60217.04  15054.26
+65611T/B/C, Reflektor LED 15W CW , 3f, 100-240V, crne boje                          351.43   20   7028.60   1757.15
+Redna stezaljka (vijčani priključak) 4mm², tip AVK, siva                               2.6   27     70.20     17.55
+SLOTS WALL, 6,3W LED, tople bijele boje, rusty                                      813.03    7   5691.21   1422.80
+Metalhalogena žarulja HIE-P 100W/WDL COATED E27 FS1                                 379.77   30  11393.10   2848.27
+LELEX 1 downlight, četvrt. brušeni al., neutr. bijele b. LED                        230.68    6   1384.08    346.02
+
+                                                                                                         ----------
+UKUPNO                                                                                                     97309.46
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

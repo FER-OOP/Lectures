@@ -1,0 +1,20 @@
+Račun br. 295008
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+PMMA pokrov LB, asimetrični                                                          69.35    9    624.15    156.04
+Redna stezaljka (vijčani priključak) 6mm², tip CBC, siva                              4.53    2      9.06      2.27
+Sutil Round LED Panel, 16W, 4000K, 1230lm, IP40, siva                               307.84   25   7696.00   1924.00
+Kompaktni prekidač snage tip AF, 3P/63A/18kA, box stezaljke                          529.4    4   2117.60    529.40
+Kabel EYY-O (PP00) 3x10RE                                                            10000   27 270000.00  67500.00
+Jamba-II-WL-R 15W E27, 100-240V, IP54, sive boje                                    175.88   24   4221.12   1055.28
+FID sklopka 63-4-03/AC, 6kA                                                         425.06   14   5950.84   1487.71
+Instalacijski sklopnik 40A | 2 N/O + 2 N/C | 230V AC                                350.19   21   7353.99   1838.50
+
+                                                                                                         ----------
+UKUPNO                                                                                                    297972.78
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

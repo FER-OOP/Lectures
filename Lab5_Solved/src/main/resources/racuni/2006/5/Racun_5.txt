@@ -1,0 +1,18 @@
+Račun br. 750665
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Lano PRO LED 43W, 3000K, 4100lm, mikroprizma, ECG, bb                               980.58   26  25495.08   6373.77
+Tipkalo s plosnatom tipkom, komplet, zeleno, 1 N/O                                   42.76   22    940.72    235.18
+Spremnik za dokumentaciju, samoljepljivi, A4                                         21.38   24    513.12    128.28
+9828/D/2, 28W 2D 2PIN DL                                                              3.71   26     96.46     24.11
+FGL OUTDOOR SQUARE Downlight, MR16, titan                                           218.46   10   2184.60    546.15
+AF S LED 300 reflektor, 8xLED (24W), 3000°K, IP44, bijeli                          3307.61   18  59536.98  14884.25
+
+                                                                                                         ----------
+UKUPNO                                                                                                     88766.96
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

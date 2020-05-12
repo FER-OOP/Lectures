@@ -1,0 +1,19 @@
+Račun br. 928544
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+NEW TRIA LED DISK,stropna ugr.arm., okrugla, sb,2700K, 60°                          938.06    9   8442.54   2110.64
+KALU TRACK QPAR111 svjetiljka, crna, uklj. 3-f adapter                              500.12   22  11002.64   2750.66
+FlexLED Roll, RGB, 3m, 48LED/m, DC 24V                                              500.12   30  15003.60   3750.90
+"Zidni kom. ormar DW, bočne stranice, 600x770x495, 19"", 15U"                      1275.59   15  19133.85   4783.46
+Bočne stranice za Modul 2000/3S, dubine 102mm, tip 21/102                             4160   14  58240.00  14560.00
+Audio vanjski panel, 10 tipki, sa PTT otvorom                                         4690   24 112560.00  28140.00
+Pella-S LED 2x3W 3000K 2x210lm, IP54, bijele boje                                   381.17   24   9148.08   2287.02
+
+                                                                                                         ----------
+UKUPNO                                                                                                     233530.7
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

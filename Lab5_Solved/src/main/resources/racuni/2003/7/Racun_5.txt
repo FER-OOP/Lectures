@@ -1,0 +1,22 @@
+Račun br. 694882
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+NEW TRIA MR16 ROUND downlight, mat bijele boje, max. 50W                            155.78   22   3427.16    856.79
+AF S LED 300 reflektor+senzor pokr., 24W, 5000°K,IP44,inox                         4926.51   26 128089.25  32022.31
+Tipka s ručicom,plava,osvijetljena,3 polož.,50°,bez povrata                          44.43    3    133.29     33.32
+"Zidni komunikacijski ormar SOHO DV 310x337x260 ŠxVxD,10"",6U"                      497.61   29  14430.69   3607.67
+Bezhalogeni jednožilni vodič H05Z-K 0,5mm2, smeđi                                    10000   14 140000.00  35000.00
+3f reflektor VITO DC LED 30W 2550lm/840 20°,sive boje                              1278.14   24  30675.36   7668.84
+Minijaturni relej, 4C/O, 6A, 220VDC, serije PT                                       78.38   16   1254.08    313.52
+Nadgradna ind. svjetiljka SBOX AB 1x100W,HI,E27,MB, IP65                            903.51   29  26201.79   6550.45
+Mara-I-R LED 30W 3000K 2500lm, IP20, bijele boje                                    622.95   12   7475.40   1868.85
+ACRYLBOX 1kom ES111, crne b./prozirno                                               562.63    9   5063.67   1265.92
+
+                                                                                                         ----------
+UKUPNO                                                                                                     356750.7
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

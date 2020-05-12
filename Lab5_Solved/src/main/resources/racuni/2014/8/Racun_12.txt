@@ -1,0 +1,20 @@
+Račun br. 461891
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ugradna svjetiljka SE-ID PAR V2 1x24W,T5,ECG, bijela                                732.08   28  20498.24   5124.56
+FID sklopka 40-2-03/AC, 6kA                                                         191.37   25   4784.25   1196.06
+PMMA pokrov MF ravni  / Opal 2m                                                      100.4   30   3012.00    753.00
+Spojnica (koljeno) M40, svijetlo-siva                                              1843.69   28  51623.32  12905.83
+Zamjenski set LED traka 6x0,5W za fluo 6/8W s MLED400 za CPS                        501.64   19   9531.16   2382.79
+Tris-I-Q/A1 LED 3x1W 3000K 135lm,dim.,350mA,IP20,crne b.                             43.59   17    741.03    185.26
+Pločica Alu 22x22 prazna, samoljepljiva                                               4812    6  28872.00   7218.00
+GLENOS kutna spojnica OUTSIDE, 90°, za Alu Profile, crne b.                          93.26    5    466.30    116.58
+
+                                                                                                         ----------
+UKUPNO                                                                                                     119528.3
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

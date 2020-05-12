@@ -1,0 +1,28 @@
+Račun br. 809515
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+KALOS ASL ulič.optika 40LED,4000K 90W,antracit, 2 kraka                            5713.34   17  97126.78  24281.70
+V-mostić VB 2x50/2                                                                    74.2   18   1335.60    333.90
+Teški gumeni kabel H07RN-F 1x25, crni                                                10000   15 150000.00  37500.00
+Fluokompaktna žarulja TC-D 13W/830 G24D-1                                            27.45   28    768.60    192.15
+Bruno-WL-I-S 20W E27, 100-240V, IP54, sive boje                                     251.91    6   1511.46    377.86
+Mehanička blokada za sklopnike vel. 0-3                                              46.22   21    970.62    242.65
+Adapter za elektroničke uređaje, bijeli                                              13.08    9    117.72     29.43
+Matica M32x1.5, metrička, poliamid                                                     1.7   16     27.20      6.80
+Pomoćni kontakt, sig. isklopa, montaža lijevo, 1 C/O za MY1                          92.59   29   2685.11    671.28
+ORION CONE ovjesna, bijela b. , E27, max. 60W, staklo                              1250.97   10  12509.70   3127.42
+Stražnja ploča za nazidni Modul 2000 | 4R-24                                        297.99   13   3873.87    968.47
+Signalni fleksibilni kabel YSLY-JZ 5x1,5                                             10000   12 120000.00  30000.00
+Plafonjera MALLE LED 24W 2200lm/840 ECG, bijela                                     669.79    7   4688.53   1172.13
+Serijski ormar AS, 1-vrata, 1800x1000x400 (VxŠxD), RAL 7035                        4231.83   12  50781.96  12695.49
+COB LED GU10, dim., 8W, 3000K, 480lm, 60°, 230V                                     144.46    8   1155.68    288.92
+Jednožični PVC-om izolirani vodič H07V-U (P) 2,5mm2, smeđi                          189.24   20   3784.80    946.20
+
+                                                                                                         ----------
+UKUPNO                                                                                                    451337.66
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

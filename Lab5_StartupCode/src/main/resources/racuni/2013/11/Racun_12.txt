@@ -1,0 +1,25 @@
+Račun br. 239662
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Priključna kutija, nehrđajući čelik, 400x600x120(VxŠxD),IP66                       2325.68    5  11628.40   2907.10
+Telefonska žica za ranžiranje YV 2x0,5/0,9 crvena-plava                             136.59   20   2731.80    682.95
+BNC konektor za krimpanje                                                             4690    7  32830.00   8207.50
+Vodotijesna svjetiljka LINDA Industrie PC 2-18W ECG IP65                            304.99   16   4879.84   1219.96
+Phos B42 dvostruka poluga za stup 76mm siva RAL9006                                8039.73   27 217072.70  54268.18
+Signalni fleksibilni kabel YSLCY-JZ 5x 6 sivi                                      5302.88   14  74240.32  18560.08
+Signalni fleksibilni kabel YSLY-JZ 4x1 sivi                                         543.44   17   9238.48   2309.62
+Pomoćni sklopnik 4P | 12A | 230V AC | 3N/O + 1N/C                                   133.82    9   1204.38    301.10
+SUPROS TRACK 3000 Spot, 3000lm 3000K SLM LED, 60°, crne boje                       1250.97   20  25019.40   6254.85
+Kompaktni prekidač snage tip AE, 3P, 50kA,1250A+izvl. modul                       16868.33   16 269893.28  67473.32
+KADUX 3 ES111 Downlight, četvrtasti, crne boje, max. 3x50W                         1125.94   13  14637.22   3659.30
+Prizma stezaljke za rastavnu sklopku,50-150/120-240mm²,Cu/Al                         74.22   14   1039.08    259.77
+DURANZ ovjesna svjetiljka 2x35W T5                                                 1014.09    7   7098.63   1774.66
+
+                                                                                                         ----------
+UKUPNO                                                                                                    671513.56
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

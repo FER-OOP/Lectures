@@ -1,0 +1,23 @@
+Račun br. 170499
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Traka označna 10 x 51-60 za HMM2 i CBC.2                                              4850   20  97000.00  24250.00
+Bezhalogeni jednožilni vodič H07Z-K 1,5mm2, sivi                                     10000    5  50000.00  12500.00
+SolarLog senzor temp. za SensorBox Commercial                                      1326.16   25  33154.00   8288.50
+Kliješta za krimpanje tuljaka, 0,5-16mm2                                            313.03   18   5634.54   1408.64
+MOBIL-PDi/Mdi univ. servisni daljinski upravljač, srebrni                           245.58   21   5157.18   1289.30
+Potporni izolator visine 20mm, obostrano s maticom M6, 0.6kV                         11.79   16    188.64     47.16
+Palos-II-R/A2 35W G8,5, 230V, IP20, sive boje                                       277.26   18   4990.68   1247.67
+Udarna glava za sonde Ø20mm                                                         641.17    8   5129.36   1282.34
+Završni poklopac TBF okrugli s rupom za prolaz kabela                                50.26   23   1155.98    288.99
+A03VV-F 5x0,75mm2, crni, 100m kolut                                                  10000    4  40000.00  10000.00
+Plastično postolje za suncobran                                                      109.3   26   2841.80    710.45
+
+                                                                                                         ----------
+UKUPNO                                                                                                     245252.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

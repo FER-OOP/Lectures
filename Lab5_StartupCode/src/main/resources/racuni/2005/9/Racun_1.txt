@@ -1,0 +1,31 @@
+Račun br. 985357
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+SITRA WALL UP-DOWN zidna svjetiljka, antracit                                       449.94   14   6299.16   1574.79
+Tipkalo, 16A, 1 N/O + 1 N/C, montaža na DIN                                          58.29    2    116.58     29.14
+Teški gumeni kabel H07RN-F 3x10, crni                                                10000    2  20000.00   5000.00
+Gljivasto tipkalo sa 1 N/O + 1 N/C, komplet sa kućištem                             199.43    5    997.15    249.29
+VANDALCOM audio modul, bez tipki                                                    352.57    2    705.14    176.29
+Otvoreni prekidač, 3P, 66kA, 3200A, izvl., vod. str. priklj.                      73425.19    1  73425.19  18356.30
+Prednja ploča, čelična, slijepa, 1B5                                                  4160    2   8320.00   2080.00
+LED ugr.profil,eloks.alu. 1m, uklj.satinirani pokrov                                191.93   24   4606.32   1151.58
+Zaštitni prekidač za ugradnju ispred brojila, C 100A,1-polni                        269.53   24   6468.72   1617.18
+Quartz halogena ž., Philips Plusline ES R7s, 78mm,48W,proz.                          43.92   24   1054.08    263.52
+Vodič (N)YM-O (PGP) 3x1,5mm2, bez zašt. vodiča, svij.-sivi                           10000   19 190000.00  47500.00
+NEW TRIA DLMI četvrt. downlight, mat bijele boje, 3000K, 60°                        1495.8   21  31411.80   7852.95
+Ugradna svjetiljka SERH XTP T8 4x36W ECG M625, bijela                              2426.17   25  60654.25  15163.56
+Podnožje prema širini AS/KS ormara, 600x200mm, RAL 7022                             487.52   13   6337.76   1584.44
+Kuka SL 8x35mm Mat. 1.4016, visine 55mm                                             103.38    6    620.28    155.07
+NV osigurač vel. 1, 250A/400V AC                                                     50.89    8    407.12    101.78
+Držač vrata u otvorenom položaju za WSM ormare                                      129.64    4    518.56    129.64
+Kompaktni prekidač snage tip A, 4P/63A/50kA, MC1                                   1352.81    5   6764.05   1691.01
+Linijska svjetiljka SOLO 2 T8 2x18W ECG, bijela                                     140.55   29   4075.95   1018.99
+
+                                                                                                         ----------
+UKUPNO                                                                                                    422782.12
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

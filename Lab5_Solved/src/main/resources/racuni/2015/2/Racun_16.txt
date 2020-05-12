@@ -1,0 +1,28 @@
+Račun br. 945648
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Uzidni okvir s vratima - M3000, 2U-45                                              2019.01   24  48456.24  12114.06
+Batt.box bez punj. za USSP240V +priprema za 2x20x9Ah                               4404.62   18  79283.16  19820.79
+LS-FI (KZS), C/13A/100mA, 3P, Tip A, 10kA                                             4281   21  89901.00  22475.25
+P/Ž stanski kombi razdjelnik, Š595xV785xD116, RAL9010                                 4083   10  40830.00  10207.50
+Teretna sklopka, rastavljač (izolator), AMPARO, 32A, 2P                              74.25   23   1707.75    426.94
+Spojnica za savitljivu cijev M20, siva (pak. 100 kom.)                              155.55   17   2644.35    661.09
+Podnožje 11-polno SE 11, za MT3x releje sa 3 C/O                                     19.97    5     99.85     24.96
+Lucy-WL-R 15W E27, 100-240V, IP44, nehrđajući čelik                                   59.3   21   1245.30    311.32
+Zaštitni prekidač MB 18kA CL 80/4                                                   617.24    2   1234.48    308.62
+Fazna pregrada za vel.00, duga                                                        4821   25 120525.00  30131.25
+Finožični PVC-om izolirani vodič H07V-K (P/F) 70mm2, ž/z                           6000.14    8  48001.12  12000.28
+44 traperice, vodootporne,sa puno džepova                                           516.06   11   5676.66   1419.17
+"Bit 1/4"", PH 1, dulj. 25mm, žuti, za uvrtanje u meku podlogu"                      11.82   14    165.48     41.37
+BIG THEO CEILING OUT, ES111, bb, max. 75W                                           687.83   28  19259.24   4814.81
+Sklopnik vel. 2 | 15kW (32A) [AC-3] | 24VAC, 50Hz                                   333.54   11   3668.94    917.24
+DASAR FLAT LED, tople bb LED, podna ugr.,inox pokrov                                562.63   10   5626.30   1406.57
+
+                                                                                                         ----------
+UKUPNO                                                                                                    468324.88
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

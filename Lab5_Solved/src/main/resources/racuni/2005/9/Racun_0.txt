@@ -1,0 +1,18 @@
+Račun br. 909382
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Digital Multi Control 200/200A za MultiPlus i Quattro                              1194.39   15  17915.85   4478.96
+Ugradna svjetiljka SERH ECO T8 4x18W ECG M600, bijela                               316.32   14   4428.48   1107.12
+LED prespojni kabel RJ45 oklopljen,500 MHz,Ea,10GB,sivi,2m                           48.39    7    338.73     84.68
+Bezhal. kabel poboljšanih svoj.za sl. požara N2XH-J 4x35rm                           10000   22 220000.00  55000.00
+Poklopac za razvodnu kutiju 150x150mm GTDW142--                                     825.54   27  22289.58   5572.40
+Prednja ploča elektroničke sklopke za rolete, antracit                                2103    4   8412.00   2103.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    273384.66
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,19 @@
+Račun br. 762577
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LED HORN 9W, srebrne boje, LED bb                                                   731.77   19  13903.63   3475.91
+SAT stup d=2m, Ø50mm, bez završne kape, pocinčani čel. 1.5mm                        168.23   11   1850.53    462.63
+Zaštita od dodira priključnih stezaljki, za 4-polne MC2                              78.48   22   1726.56    431.64
+Prozirna vrata, akril, za WSM6060xx, otvor: 459X443mm                               643.11    2   1286.22    321.55
+SAT ispitivač signala, pozicioniranje tanjura, SZU 17-02                            229.61   24   5510.64   1377.66
+EURO CUBE Spot, 3000K, CRI90, 30°, uklj. 3F adapter, sb                            1433.11   11  15764.21   3941.05
+"Prespojni panel 19"", prazan, za 24 modula (SFA)(SFB), 1U"                         128.78    3    386.34     96.58
+
+                                                                                                         ----------
+UKUPNO                                                                                                    40428.133
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

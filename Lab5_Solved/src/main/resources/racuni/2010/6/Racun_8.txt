@@ -1,0 +1,18 @@
+Račun br. 942404
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Sklopnik vel. 0 | 7,5kW (17A) [AC-3] | 24VAC, 50Hz                                  167.01    3    501.03    125.26
+Zaštitni prekidač, C karakteristika, 6A, 3-polni, 10kA                              117.32   29   3402.28    850.57
+Terra-R LED 3W 3000K 240lm, IP67, nehrđajući čelik                                   395.7   16   6331.20   1582.80
+Adaptor za 1-faznu šinu, bijela b., električni                                       80.76    5    403.80    100.95
+Transportne ušice, M12 (4 kom.)                                                      69.58   27   1878.66    469.67
+Bezhal. kabel s konc.zaštitnim Cu vodičem N2XCH 4x2,5re/2,5                          10000   23 230000.00  57500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    242516.97
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

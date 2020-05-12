@@ -1,0 +1,19 @@
+Račun br. 759239
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Proširenje sa accu, bez punjača za USDD500/600 192V 12Ah                           9225.21   30 276756.31  69189.08
+Bočna stranica za trodijelni sistem, 33 modularne visine                              4160   30 124800.00  31200.00
+CAMARA IP44 zidna svj., krom , E14, max. 60W                                        625.15    9   5626.35   1406.59
+Yela-R 2x26/32/42W G24q, 230V, IP20, bijele boje                                      7.77   28    217.56     54.39
+DASAR 260 UNI, E27 podna ugradna svjetiljka, okrugla                               2058.94   11  22648.34   5662.08
+Vodotijesna svjetiljka DEVA ECO PC 1x36W ECG                                        225.25   15   3378.75    844.69
+LINEA 80M polikarbonatni opalni pokrov L-2969mm                                     384.73   29  11157.17   2789.29
+
+                                                                                                         ----------
+UKUPNO                                                                                                    444584.47
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

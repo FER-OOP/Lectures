@@ -1,0 +1,32 @@
+Račun br. 166867
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+8107/D/2, 7W 2PIN DL                                                                  1.68   16     26.88      6.72
+Krovna kuka FP 6/55/140, nehrđajući čelik, TÜV                                        96.1   30   2883.00    720.75
+Kopče, 100kom pak.                                                                  155.78    8   1246.24    311.56
+Kompenzacija  LSFC 7% 93,75/6,25kvar 600x2000x400mm Sam.orm.                       37621.3    3 112863.91  28215.98
+Zaštitni prekidač AMPARO 4.5kA, C 13A, 1P+N, širine 1 modula                         41.95   19    797.05    199.26
+Bočne stranice za Modul 2000/3S, dubine 102mm, tip 28/102                             4160   12  49920.00  12480.00
+Tipka za serijsku sklopku i dvostruko tipkalo, alu efekt                             51.05   25   1276.25    319.06
+FID sklopka 40-4-01/A (puls)                                                        547.11    8   4376.88   1094.22
+Nazidni okvir bez vrata za Modul 2000 | 2A-45 | dubina 250mm                       1701.33   13  22117.29   5529.32
+Univerzalna stezaljka 16-120mm², za na sabirnice deblj. 10mm                         27.86   13    362.18     90.54
+LYNAH LED ovjesna svjetiljka, 4x10W 3000K square, bijele b.                        3122.88    4  12491.52   3122.88
+Držač kabela, interni, za AS/KS ormare širine 800mm                                 195.53   27   5279.31   1319.83
+Mario-WL-Q LED 6W 3000K 440lm, IP54, bijele boje                                    397.73   15   5965.95   1491.49
+Tipkalo s povratom, visoko, crno                                                     45.25   19    859.75    214.94
+Curt-I-S/A2 4x70W G12, 230V, IP20, sive boje                                        237.72    9   2139.48    534.87
+Tel. držač razmaka za okruglu šipku, 2.5mm                                            1.78   27     48.06     12.01
+Stezaljka (mostić) za vel. 3, 150 - 300mm²                                           42.94   24   1030.56    257.64
+Pomoćni kontakt za MZS vel.00/0/2/3 (1+1), montaža sa strane                          32.6   25    815.00    203.75
+Kontakt za vrata/prozor, bijeli                                                     129.26    4    517.04    129.26
+Spojnica za savitljivu cijev M25, siva (pak. 50 kom.)                               202.82   27   5476.14   1369.04
+
+                                                                                                         ----------
+UKUPNO                                                                                                    230492.48
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

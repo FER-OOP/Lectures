@@ -1,0 +1,15 @@
+Račun br. 510899
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Savitljiva cijev (srednje), M25, 750N, EN3341, 50m, siva                             382.6   11   4208.60   1052.15
+Zaštitni prekidač C 16A, 1-polni+N, širine 1 modula                                  94.64   20   1892.80    473.20
+T8-LED, 18W, 6500K, G13, 1200mm                                                     374.92   11   4124.12   1031.03
+
+                                                                                                         ----------
+UKUPNO                                                                                                   10225.5205
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

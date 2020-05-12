@@ -1,0 +1,19 @@
+Račun br. 882733
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Završetak za cijev (brtva), Ø20/15mm, nepropusni                                    313.56   18   5644.08   1411.02
+Set brtvi za sklopke i utičnice, 2-struki, za IP44                                   12.97    3     38.91      9.73
+Grebenasta sklopka, 1-2-3/1P/10A, na vrata                                          225.88   11   2484.68    621.17
+Kompenzacija  LSFC 14% 250/50kvar 800x2110x500mm Samost.orm.                      66453.58   191262618.00 315654.50
+Montažna ploča za AS/KS ormare, 2000x1200mm (VxŠ)                                  1083.49   16  17335.84   4333.96
+Mini-pomoćni sklopnik 4P | 3 N/O + 1 N/C | 230V AC | 10A                            134.88    3    404.64    101.16
+51300AR/G,  3L BAZA BOXTECH+  ZAOBLJENI RUBOVI, sive boje                            88.02   19   1672.38    418.09
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1290198.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

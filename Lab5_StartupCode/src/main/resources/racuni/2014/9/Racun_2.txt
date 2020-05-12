@@ -1,0 +1,22 @@
+Račun br. 645348
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Neo-WL-III-R LED 2x1W, IP44, sive boje                                               57.44    8    459.52    114.88
+Bezhalogeni kabel s el. funkc. do90 Min. (N)HXCH4x50rm/25E90                         10000   22 220000.00  55000.00
+"Natpisna pločica, ""OFF ON"", 17.5 x 28mm, natična"                                  8.13   29    235.77     58.94
+LED DOWNUNDER MINI, 1W, topla bijela LED, srebrno kućište                           312.23   12   3746.76    936.69
+Luna-R 45W E27, 100-240V, IP54, bijele boje                                        1172.58   10  11725.80   2931.45
+Krajnji kut za kanal SIGNA 70/110 RAL 9001                                           62.68    7    438.76    109.69
+Jones-II-R 20W E27, 100-240V, IP20, bijele boje                                    1758.87    7  12312.09   3078.02
+Ventilacijska prirubnica za WSM ormare, Tip B, 310x96 (ŠxV)                          31.48   28    881.44    220.36
+"Zasun sivi ""Celanex"""                                                              1.86   16     29.76      7.44
+Trokatna stezaljka (vijčani priključak) 2.5mm², siva                                 14.63    2     29.26      7.32
+
+                                                                                                         ----------
+UKUPNO                                                                                                    249859.17
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,30 @@
+Račun br. 392239
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Trokatna stezaljka (vijčani priključak) 2.5mm², bež, 2P+PE                           20.64   17    350.88     87.72
+Vijak sa 6-kutnom glavom, za drvo, DIN571, 8x80mm, pocinčani                        109.05   24   2617.20    654.30
+Telefonska priključnica MO 1M LT RJ11 8/4 ili 6/4, crna                              31.26    8    250.08     62.52
+IBDN prespojni kabel RJ45 UTP cat.6A, sivi, 7.6m                                    126.61   12   1519.32    379.83
+Sklopnik 3P | 4kW (10A) [AC3] | 48V AC | + 1N/O (ugrađen)                           176.92   15   2653.80    663.45
+Nazidna utičnica s bravicom i 2 ključa, bijela, 16A, IP44                           359.69   17   6114.73   1528.68
+Nadgradna svjetiljka Tabla 1 Plafo, E27, 18W, IP65, siva                             218.8    8   1750.40    437.60
+Bočne stranice za Modul 2000, dubine 60mm, tip E-12/60                                4160   22  91520.00  22880.00
+N/Ž okvir + vrata 3A-21 D=250mm str.ploča+zakr. ručica, IP54                       2925.07    9  26325.63   6581.41
+LED prespojni kabel RJ45 neoklopljen, cat.6, sivi, 5m                                59.64   29   1729.56    432.39
+Aluminijski profil TBI - 2m                                                          119.6    1    119.60     29.90
+Sutil Round LED Panel, 20W, 4000K, 1330lm, IP40, bijela                             476.46   29  13817.34   3454.33
+U/UTP kabel cat.6, 4x2xAWG24/1, 300MHz, LS0H-3-25, plavi                            490.29   28  13728.12   3432.03
+Optička spojnica SC SX,SM,keramička,s prirubnicom,plava,ECO                           8.26   26    214.76     53.69
+"Grebenasta sklopka, ""ON-OFF""/1P/20A, na vrata"                                    95.12   12   1141.44    285.36
+Nadžbukni okvir ECO-IR 360                                                          140.63    4    562.52    140.63
+Finožični PVC-om izol. vodič H07V-K (P/F) 2,5mm2,t-plavi HPV                         10000   10 100000.00  25000.00
+EM modul za Led Downlight 3h, trajni spoj, IP20                                     464.13   16   7426.08   1856.52
+
+                                                                                                         ----------
+UKUPNO                                                                                                    271841.47
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

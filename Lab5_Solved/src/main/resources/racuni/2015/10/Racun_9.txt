@@ -1,0 +1,14 @@
+Račun br. 452864
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Voltmetar, 48x48mm, 500V AC                                                         129.76    8   1038.08    259.52
+Otvoreni prekidač, 4P, 55kA, 1250A, izvl., vod. str. priklj.                      30672.17    4 122688.68  30672.17
+
+                                                                                                         ----------
+UKUPNO                                                                                                    123726.76
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

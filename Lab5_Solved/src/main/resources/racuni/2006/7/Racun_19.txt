@@ -1,0 +1,17 @@
+Račun br. 647900
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+2-struko (pozivno/odjavno) tipkalo sa zaslonom, bis. bijelo                           2104   18  37872.00   9468.00
+Zaštitni prekidač, C karakteristika, 63A, 4-polni, 10kA                             572.35    1    572.35    143.09
+Pako-R/A1 LED 3W 6000K 120lm, dim., 700mA, IP20, bijele b.                           46.46   30   1393.80    348.45
+Ugradni okvir za AS/KS, 2000x1000mm, za umetak Modul 2000                             4067    6  24402.00   6100.50
+Glenos završni pokrov za PROFILE 3030, bijele boje                                  105.76    2    211.52     52.88
+
+                                                                                                         ----------
+UKUPNO                                                                                                     64451.67
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

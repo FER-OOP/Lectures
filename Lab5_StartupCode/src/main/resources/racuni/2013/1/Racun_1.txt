@@ -1,0 +1,32 @@
+Račun br. 777913
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Bezhal. kabel HSLH-JZ4x4FRNC H-F 1žila ž/z ostale crn/siv                            10000   10 100000.00  25000.00
+Bimetalni relej za sklopnike vel. 2 | 7,00 - 10,00A                                  218.9   12   2626.80    656.70
+Sajla za mehaničku blokadu, duljina 1000mm                                          290.81   15   4362.15   1090.54
+Signalni fleksibilni kabel YSLCY-JZ 3x1,5                                            10000   25 250000.00  62500.00
+Tipka s ručicom,crvena,3 pol.,50°,lijevo s-desno bez povrata                         45.85    9    412.65    103.16
+Plaza-I-S LED 3W 6000K, IP54, sive boje                                             205.28   11   2258.08    564.52
+Montažna ploča za MINIPOL ormare, poliester, 400x300mm                               84.47    9    760.23    190.06
+PEMA zidna svj., crne b.                                                            625.15    8   5001.20   1250.30
+Podnožje za HSTMSVL120, visina 100mm                                                980.08   16  15681.28   3920.32
+Dena-R/A2 70W G8,5, 230V, IP20, brušeni krom                                          17.9    4     71.60     17.90
+"Opt. razdjelnik, 4 niti,SC, 9/125µm OS1, izvlačivi,19"",1U"                           678    5   3390.00    847.50
+Ovjes za 1-faznu 3-f šinu, crna boja, 3m                                             87.01   26   2262.26    565.57
+Lano četvrtasti LED, 60W, 4000K, 4700lm, 1300mA, IP20, bb                          1502.39   13  19531.07   4882.77
+LED žarulja GU10, 5Leds, 7W, 3000K, dim., 400lm, 24°                                 89.54   25   2238.50    559.63
+BK koaks. presp. kabel IEC-m/IEC-ž,kutni,kl.A,bijeli,2.5m                            19.74    9    177.66     44.42
+Podnožje prema širini ASR/KSR ormara, 1000x100mm, AISI304                             4056    3  12168.00   3042.00
+Linijska svj. SERH-LL 112, završni profil,  2x80W, ECG, bb                           635.9   11   6994.90   1748.73
+Jednožični PVC-om izolirani vodič H07V-U (P) 1,5mm2, zeleni                         102.21    5    511.05    127.76
+Nadgradna svjetiljka SARS 2 ECO T8 1x18W CCG, ind, bijela                              287    7   2009.00    502.25
+Kabel LiYY 18x0,25                                                                   10000    8  80000.00  20000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     510456.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

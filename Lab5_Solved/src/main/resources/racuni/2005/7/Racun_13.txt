@@ -1,0 +1,31 @@
+Račun br. 217167
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kabelska stopica 185mm2, M10                                                         62.01   28   1736.28    434.07
+Zaštitni prekidač AMPARO 4.5kA, B 20A, 1P+N, širine 1 modula                         41.95   17    713.15    178.29
+Prisjedni vijak za EZII, 10A                                                          3.09   28     86.52     21.63
+Slušalica STYLE / za IdealKIT (8270)                                                625.18   30  18755.40   4688.85
+Zaštita od dodira priključnih stezaljki, za 3-polne MC1                              44.35    7    310.45     77.61
+Bezhal. kabel poboljšanih svoj.za sl. požara N2XH-J 4x50sm                           10000    9  90000.00  22500.00
+Metalhalogena žarulja HIT-DE-CE 150W/830 RX7S                                       245.73   26   6388.98   1597.24
+Ugradna svjetiljka SE-ID ECO L2 TC-L 2x40W ECG M625, bijela                         591.68    2   1183.36    295.84
+KALU 1 QPAR stropna svj., mat bijele b., ES111, max. 75W                            531.37   10   5313.70   1328.43
+Flyer ulična svjetiljka, asim. 35 LED 82W 7735lm 4000K                             4995.07   22 109891.54  27472.88
+Prilagodni okvir 50x50mm, termički postojan, biserno bijeli                          12.11   27    326.97     81.74
+Pult donja jedinica širine 800mm, s montažnom pločom                               2962.13    2   5924.26   1481.06
+Podnožje N voda, 250A, M8 (obostrano), odvojivo, na ploču                              105   27   2835.00    708.75
+Izolir traka, crvena, 15mm x 10m - COROPLAST                                          5.69   24    136.56     34.14
+Završni poklopac CLF ravni sa rupom i vijcima                                         51.6   26   1341.60    335.40
+Kompaktni prekidač snage tip ME, 3P, 50kA, 875A                                   14942.06   14 209188.83  52297.20
+UPS MultiPlus 12kVA 10,8kW, 0min,3f/3f/Online/veliko kuć.                         43526.97    9 391742.72  97935.68
+Lumo-R LED 15W 3000K 950lm, IP44, bijele boje                                       245.32   15   3679.80    919.95
+SATINIRANO STAKLO za 10226BF                                                         14.69   20    293.80     73.45
+
+                                                                                                         ----------
+UKUPNO                                                                                                    849848.94
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

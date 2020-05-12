@@ -1,0 +1,21 @@
+Račun br. 830356
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Cano-R/A2 LED 15W 4000K 1200lm, IP20, crne boje                                      425.1   15   6376.50   1594.13
+Zašt.bridova sa metal.umetkom,debljina stijenke 1-2mm                                23.65    5    118.25     29.56
+Uređaj za zatvaranje pomoću poluge, za MC1                                          226.46   23   5208.58   1302.15
+MEDO RING 60 LED ovjesna svjetiljka, bijele boje                                   3748.71   17  63728.07  15932.02
+Rezervni filter za ventilator 109x109mm, IP54 (pak=5 kom.)                           71.95   24   1726.80    431.70
+Sutil Round  LED 8W, 4000K, 560lm, 120°, IP40, bijele boje                          126.04   19   2394.76    598.69
+Kabel EYY-J (PP00-Y) 5x50SM                                                          10000    4  40000.00  10000.00
+PARA DOME II 320, E27                                                               938.06   21  19699.26   4924.81
+FI-trafo 400A, tip WFR3, za BC900303 I BC900310                                    4031.97   14  56447.58  14111.89
+
+                                                                                                         ----------
+UKUPNO                                                                                                     195699.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

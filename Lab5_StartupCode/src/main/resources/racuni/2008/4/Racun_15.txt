@@ -1,0 +1,18 @@
+Račun br. 239304
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Linijska svj. SIMPLE LINE LED 1012 32W 3200lm/830 DALI,bb                          1039.44   19  19749.36   4937.34
+Nadgradna svjetiljka SAO ECO T8 1x36W ECG, bijela                                   290.88    6   1745.28    436.32
+Uzidni okvir s vratima - M3000, 4U-33                                              1881.14   11  20692.54   5173.14
+Minijaturni relej, 4C/O, 6A, 24VDC + LED, serije PT                                  38.13   28   1067.64    266.91
+Optički prespojni kabel duplex, LC/LC, 62,5/125µm OM1, 2m                            64.44   13    837.72    209.43
+SAT zid. nosač,R=180mm,V=250mm,ploča=150x150mm,stup=50mm,alu                         70.19    6    421.14    105.29
+
+                                                                                                         ----------
+UKUPNO                                                                                                     44513.68
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

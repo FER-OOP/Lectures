@@ -1,0 +1,14 @@
+Račun br. 654447
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Stroj za savijanje za LINUX LIGHT                                                  1125.94   12  13511.28   3377.82
+Vodotijesna svjetiljka LINDA Ind. sa bater. 1h PC 2-36W IP65                        979.35   14  13710.90   3427.72
+
+                                                                                                         ----------
+UKUPNO                                                                                                     27222.18
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

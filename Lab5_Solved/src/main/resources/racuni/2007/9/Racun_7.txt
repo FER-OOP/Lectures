@@ -1,0 +1,15 @@
+Račun br. 608247
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Sklopnik vel. 2 | 18,5kW (40A) [AC-3] | 230VAC, 50/60 Hz                            375.46   23   8635.58   2158.90
+Razdjelnik nazidni, IP40. 1-redni, 8 modula, bijela vrata                            88.05   20   1761.00    440.25
+Optički prespojni kabel duplex, SC/SC, 50/125µm OM3, 2.0m                            74.25   19   1410.75    352.69
+
+                                                                                                         ----------
+UKUPNO                                                                                                     11807.33
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

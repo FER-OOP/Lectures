@@ -1,0 +1,18 @@
+Račun br. 577563
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Otvoreni prekidač, 4P, 55kA, 2000A, fiksni, prednje priklj.                       35202.51    6 211215.06  52803.77
+SERH ECO A9 L1 T5 3x24W EVG M600, bijela b.                                           8534    3  25602.00   6400.50
+Kućište sa gl. skl. za MZS tip BE5, crveno/žuta ručica, IP54                        125.74   16   2011.84    502.96
+Mikro sklopnik | 2.2kW (5A) [AC3] | 24V AC | 3NO + 1NO                               81.13   18   1460.34    365.08
+Prekidač, bežično upravljiv, max. 3500W                                             437.43   26  11373.18   2843.29
+"Inverter Kaco Powador 14.0; 12.5kVA; TL3, 3f, 2MPPT, IP65"                       25977.36    7 181841.52  45460.38
+
+                                                                                                         ----------
+UKUPNO                                                                                                    433503.94
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

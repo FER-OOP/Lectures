@@ -1,0 +1,30 @@
+Račun br. 933215
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+RP print relej, 1C/O, 8A, 12V DC, raster 2,5mm                                       30.76    4    123.04     30.76
+Stezaljka glavnog voda (za Cu), 1P, 2x25mm²|2x16mm², siva                            16.64   13    216.32     54.08
+L-SE sjajni odsijač R1 T8 AL 1x58W široki, aluminij                                  78.34   13   1018.42    254.60
+Bezhalogeni inst.kabel pob.svoj. za sl.požara NHXMH-J 5x16rm                         10000   15 150000.00  37500.00
+Držač za cilindrične osigurače 14 x 51 | 1P | 50A/690V                              109.76   18   1975.68    493.92
+GIOTTO'S Nap.stezaljka, 2kom Set, krom                                               57.61   10    576.10    144.02
+FID sklopka AMPARO, 63-2-003/AC, 10kA                                               307.05   25   7676.25   1919.06
+Okvir 4x2M line, mat crni                                                             81.9    1     81.90     20.48
+Kabel EYY-J (PP00-Y) 4x25 RM                                                       8423.88    1   8423.88   2105.97
+Okvir za vrata, za MC1, crni, IP40                                                   86.43   20   1728.60    432.15
+Fluokompaktna žarulja TC-TEL 32W/840 Gx24Q-3                                         44.83   23   1031.09    257.77
+Optički prespojni kabel duplex, SC/SC, 50/125µm OM2, 5.0m                           105.87   12   1270.44    317.61
+SAT steznik za stup Ø38-60mm,steznikom+2 vij.+mat.,p. čelik                         127.45   17   2166.65    541.66
+Odvodnik prenapona klase D (patrona) GG, N/PE, 40kA/260V,UAS                        217.37    6   1304.22    326.05
+Izmjenična sklopka, 10A, umetak, vijčane stezaljke                                   29.03   11    319.33     79.83
+T5-okrugla fluo cijev, 40W, 2700K                                                   125.36   25   3134.00    783.50
+PlanoCentro LON, senzor prisutnosti, stropni, crni                                    2172    4   8688.00   2172.00
+Fluokompaktna žarulja TC-TEL 18W/830 Gx24Q-2                                         44.83   30   1344.90    336.23
+
+                                                                                                         ----------
+UKUPNO                                                                                                    191078.83
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

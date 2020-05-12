@@ -1,0 +1,17 @@
+Račun br. 1080681
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Panik svjetiljka WG FLUO 9W, CPS sustav, stropna                                   1123.64    3   3370.92    842.73
+Transformator, 1-fazni | 400/024V | 250VA, IP00                                     512.67   12   6152.04   1538.01
+Finožični PVC-om izolirani vodič H07V-K (P/F) 70mm2, plavi                         6000.14   27 162003.78  40500.95
+T5 fluo cijev, 8W, 4000K                                                             31.25    9    281.25     70.31
+P/Ž inst. razdj. 1U-28,9-redni,117ŠM,1380x380x250mm(VxŠxD)                          3284.8    7  22993.60   5748.40
+
+                                                                                                         ----------
+UKUPNO                                                                                                    194801.58
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,26 @@
+Račun br. 1042594
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Luka-R LED 1/3W 4000K 200lm, dimmbar, 350/700mA, IP65, bb                           124.52   27   3362.04    840.51
+LS-FI (KZS), B/25A/30mA, 1P+N, Tip A, 10kA                                          429.54    3   1288.62    322.15
+Reflektor za AIXLIGHT R/R2 38*                                                       62.51   28   1750.28    437.57
+Nadgradna downlight svj. ARM 291 1x13W ECG TC-DEL, bijela                           298.79   16   4780.64   1195.16
+Baterije 18 kom. longlife OGiV 12V/264Ah s kabelima za ožič.                      80742.31   201614846.25 403711.56
+LED MEGAMAN CLASSIC E27 A60, 14W, 2800K, 1521lm                                     171.44   16   2743.04    685.76
+KALU ugradna svjetiljka, 1 Spot, 1xES111, max. 50W,crne boje                        374.92   13   4873.96   1218.49
+"Sweat-jakna ""romb"" -middle-"                                                      249.8   25   6245.00   1561.25
+Kabel LiYCY-TP 2x2x0,5                                                              900.68   12  10808.16   2702.04
+Reflektor FORCA LED 151W 16220lm/757 ECG IP65, as široki,sb                        4134.73    4  16538.92   4134.73
+Izmjenjivač Phoenix C 24/1200 24VDC / 1200VA                                       5684.02    7  39788.14   9947.04
+Josh-Q LED 1,6W 3000K, IP54, mesing                                                 136.68    3    410.04    102.51
+Montažna ploča za Maxipol ormare 1250x750 (VxŠ), poliester                          881.48    8   7051.84   1762.96
+Tipka MO 1M sa indikacijom, crna                                                       7.5   28    210.00     52.50
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1714696.9
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

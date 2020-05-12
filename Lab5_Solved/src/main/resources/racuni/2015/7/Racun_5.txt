@@ -1,0 +1,17 @@
+Račun br. 235740
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+USB 2.0 kabel, USB A muški - B muški, sivi, 2m                                       15.04    3     45.12     11.28
+Linijska svj. SERM-LF 112, početni profil,  2x35W, ECG, bb                          587.96   18  10583.28   2645.82
+Kabel H05VV5-F 5x1 sivi                                                              10000    1  10000.00   2500.00
+Instal. umetak 2-28K komplet 9 IR prednja pl. čelik                                1602.25    1   1602.25    400.56
+Okvir MO 2/3M line, bijeli                                                            9.37    3     28.11      7.03
+
+                                                                                                         ----------
+UKUPNO                                                                                                     22258.76
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

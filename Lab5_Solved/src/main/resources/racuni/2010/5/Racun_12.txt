@@ -1,0 +1,32 @@
+Račun br. 210698
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Sig.svj.sa bat. DEQ Autotest ERT-LED 1h,3h,8h 230VAC ugradna                        973.25    1    973.25    243.31
+Kabelska zaštitna cijev 50flex+spojnica, crna                                        13.13   27    354.51     88.63
+Zavr.pok. za 1-faznu 3-f šinu, crna boja 2 kom.                                      18.75   21    393.75     98.44
+Sutil-R LED 30W 6000K 1997lm, IP40, sive boje                                       397.73   25   9943.25   2485.81
+Fluo cijev T16 39W/840 G5                                                             30.4   21    638.40    159.60
+FID sklopka, glavna, 63-4-03/AC                                                    1148.63   30  34458.90   8614.72
+Ind.svj.ARKTUR SQUARE LED 184W 16500lm/840 ECG IP65 110°                           3387.84   25  84696.00  21174.00
+VAYNISSA zidna i stropna svjetiljka, 4x LED, bijele boje                            875.55    9   7879.95   1969.99
+Zatvarač, 4-polni, veličina 2 (kao rezervni dio)                                      4970   19  94430.00  23607.50
+Panik svjetiljka Linda 36W, MIX-mod, industr.                                       843.01   12  10116.12   2529.03
+Panik svjetiljka KC FLUO 11W, CPS sustav,zidna                                      435.59    7   3049.13    762.28
+PT Podnožje 14-polno + dioda za PT5x releje sa DC svitkom                            26.15    3     78.45     19.61
+Izolirani kabelski tuljak, dvostruki, crni, 2x1.5mm²/12mm                             0.29   24      6.96      1.74
+Osigurač DC 355A - max48V, priključak M10                                            63.62   20   1272.40    318.10
+Savitljiva cijev (srednje), M50, 750N, kolut 25m, HF, crna                          5369.6   13  69804.80  17451.20
+Vrata, metalna, puna za kom. ormare, 45U, širina 800 mm                            1055.37    2   2110.74    527.68
+Univerzalna spojnica šina                                                            22.25   28    623.00    155.75
+Razvodna kutija, nadžbukna, 75x37x40mm, IP54, siva                                  382.81   28  10718.68   2679.67
+Tipla za gips karton, lijevani cink, W-GS, Tip Z, 14,5x33mm                         369.56   22   8130.32   2032.58
+Pozivni modul sa 6 tipki, simplebus, IKALL                                           654.3    6   3925.80    981.45
+
+                                                                                                         ----------
+UKUPNO                                                                                                    343604.44
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

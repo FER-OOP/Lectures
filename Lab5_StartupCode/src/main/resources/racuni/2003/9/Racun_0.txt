@@ -1,0 +1,18 @@
+Račun br. 607288
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Tipka sa strelicama gore/dolje < >, antracit                                         15.62   10    156.20     39.05
+Nico-R/A1 35W GU10 MR16, 100-240V, IP65, bijele boje                                198.86   28   5568.08   1392.02
+Završna pločica za trokatnu stezaljku IK680002|…004 , siva                            6.86   20    137.20     34.30
+Grebenasta sklopka 0-1/2P/32A/1kV DC, na DIN nosač                                  387.64   22   8528.08   2132.02
+Tipka za upr. roletama (za 112800 i 111800), bijela                                  30.64    4    122.56     30.64
+Spojnica motorke BES3 vel.3 i sklopnika vel.3 / za AC                                 47.1   23   1083.30    270.82
+
+                                                                                                         ----------
+UKUPNO                                                                                                     15595.42
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

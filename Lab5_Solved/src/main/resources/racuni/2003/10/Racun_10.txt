@@ -1,0 +1,27 @@
+Račun br. 697040
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+PATTA-F ugradna stropna svjetiljka 9W 3000K, 38°, okrugla,al                        531.37    4   2125.48    531.37
+Prednja ploča, plastična, slijepa, 5B18K                                              4160    3  12480.00   3120.00
+Compact passage, senzor prisut. HVAC/light, stropni, crni                          2157.12    2   4314.24   1078.56
+Nosač CL and LBKI                                                                     51.6   16    825.60    206.40
+Sklopnička komb. za promjenu smjera vel. 3 / 37kW / 400V 3P                         1863.3   26  48445.80  12111.45
+AFDD, series Lisa, C 10 A, 2-pole, 30 mA, A/delayed, 10 kA                         1264.15    9  11377.35   2844.34
+Kabel LiYCY 5x0,14                                                                   10000   15 150000.00  37500.00
+HORN MINI LED Downlight,okrugla bijela,LED toplo bijela 350m                         187.2   24   4492.80   1123.20
+Stakleni pokrov DL 220 LED IP44 sa montažnim priborom, proz.                         83.77   30   2513.10    628.27
+Kabel LiYCY 7x0,5                                                                  1124.33   25  28108.25   7027.06
+Papir za printer BD004                                                               43.57    6    261.42     65.35
+Samourezni vijci M6 (pak.=250 kom.)                                                  177.4    8   1419.20    354.80
+PlanoCentro KNX, senzor prisutnosti, stropni, crni                                 2832.23   21  59476.83  14869.21
+Bimetalni relej U85, područje podešenja 80-120A                                     788.75    7   5521.25   1380.31
+DC zaštitni prekidač, C 20A, 1-polni, 10kA                                           67.64   25   1691.00    422.75
+
+                                                                                                         ----------
+UKUPNO                                                                                                    333052.25
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

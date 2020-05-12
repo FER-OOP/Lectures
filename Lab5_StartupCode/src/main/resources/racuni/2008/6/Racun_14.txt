@@ -1,0 +1,33 @@
+Račun br. 828952
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+L-SE sjajni odsijač R12 T5 AL 28/54W duboki, aluminij                                81.44    7    570.08    142.52
+Elektronički odvojni relej, 1-struki, 230V, 750VA, umetak                           458.64   24  11007.36   2751.84
+Media razdj. za šuplji zid, MVM 3R, 12+2 modula, viši okvir                         857.65   20  17153.00   4288.25
+Kompaktni prekidač snage tip AF, 3P/40A/25kA, box stezaljke                         608.71   28  17043.88   4260.97
+Plafonjera MALLE LED 24W 2200lm/840 ECG sa senzorom, bijela                        1016.38   22  22360.36   5590.09
+Bočne stranice za Modul 2000/3S, dubine 150mm, tip 16/150                             4160   27 112320.00  28080.00
+Vrata, metalna, visoka za MODUL 160, 2x24 modula                                    476.21   15   7143.15   1785.79
+Luxa 102 FL, LED spot 16W, 6000K, zidna, IP44, crna                                 798.81   26  20769.06   5192.27
+Držač elastične rebraste cijevi promjera 29mm (pak. 10 kom.)                        159.89   14   2238.46    559.61
+SAT ormarić čel., perf. ploča, zaključ.,300x400x200,RAL7035                         338.31    2    676.62    169.15
+Glenos akrilni pokrov, četvrtasti pokrov za profile 2609, 1m                        124.86    5    624.30    156.07
+Ring za SLEEK G12 Spot, krom                                                         56.26   14    787.64    196.91
+Teretna sklopka, rastavljač (izolator), 125A, 3P                                    138.84    2    277.68     69.42
+7515A/C, LED 15W AR111 G53 CW 36 ° 12V AC/DC                                        119.28    9   1073.52    268.38
+Ovjesni set za MEDO PRO 60 četvrt., srebrne boje                                     187.2    4    748.80    187.20
+Bob-II-Q LED 8W 4000K 500lm, IP20, sive boje                                        165.74   11   1823.14    455.78
+SOPRANA OVAL podna svj. SL-1, bijeli tekstil, E27, max. 60W                        1433.11   29  41560.19  10390.05
+Relej, 2 C/O, 12-240V AC/DC, montaža na DIN nosač                                   278.15    8   2225.20    556.30
+9F13/D, 13W GX53 DL                                                                  11.65   20    233.00     58.25
+KVADRA 70M prolazno ožičenje 3x1,5mm2                                                12.87   17    218.79     54.70
+EUTRAC stropna rozeta, srebrne boje                                                 578.81   26  15049.06   3762.27
+
+                                                                                                         ----------
+UKUPNO                                                                                                     275903.3
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,21 @@
+Račun br. 1072973
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Plosnate stezaljke 50 x 63mm, visina: 5 - 20mm                                      245.85    6   1475.10    368.78
+Plafonjera ALICA Round OP 1x16W, CCG IP54, bijela                                   270.09   27   7292.43   1823.11
+Ispravljač, 1-fazni | 230/24VDC | 10A                                              1622.28   26  42179.28  10544.82
+Dina-R LED 12W 3000K 1100lm,dimm.,700mA,IP64,brušeni krom                           161.18   19   3062.42    765.60
+Nadgradna svjetiljka SAO ECO T5 2x49W ECG, bijela                                   405.83   25  10145.75   2536.44
+Teretna sklopka, 4P, 160A, opcija: daljinski isklop                                1147.13   24  27531.12   6882.78
+MOTUS hibrid motor starter 0.18-2.4A,montaža na sustav 60mm                        1492.49   22  32834.78   8208.70
+Samoljepljivi držač vezica, 28 x 28mm/4.8mm (pak.=100 kom.)                          62.97    6    377.82     94.46
+Neo-WL-III-R LED 1W 6000K, IP44, sive boje                                           57.44    1     57.44     14.36
+
+                                                                                                         ----------
+UKUPNO                                                                                                    124956.15
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

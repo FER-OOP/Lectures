@@ -1,0 +1,30 @@
+Račun br. 265479
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ugradna downl. svj. ERM 253 1x35/70/150W CCG G12, bijela                             198.1   23   4556.30   1139.08
+Adapter za polucilindar, za ASLSC501-S                                               44.96    5    224.80     56.20
+Audio/Video KITS                                                                     16.12    1     16.12      4.03
+Pult metalni 985x1000x400 (VxŠxD)                                                  4758.64    2   9517.28   2379.32
+SKALUX COMP stropna svj. CL-1 , četvrt., bijela, 3000K                             1125.94    8   9007.52   2251.88
+Motorna zaštitna sklopka, 3-polna | 1.80 - 2.50A, vel.S00                           205.37   26   5339.62   1334.91
+Prenaponska zaštita, za finu zaštitu uređaja na bus-u                               422.02   18   7596.36   1899.09
+LED sustav utikača Mini - Mono 6x IP20                                               150.6    1    150.60     37.65
+KARDAMOD SURFACE ROUND QRB SINGLE, bijela G53, max.75W                             1125.94    5   5629.70   1407.42
+41004A/B/R, 3f napajanje, desno, crne boje                                           43.92   19    834.48    208.62
+PMMA pokrov LB, uski snop                                                            69.35   10    693.50    173.38
+GLENOS akrilni pokrov za profil 1107, 1m                                             62.51   27   1687.77    421.94
+41002/W,  ADAPTER, bijele boje                                                        29.9   17    508.30    127.07
+AFDD, series Lisa, B 20 A, 2-pole, 30 mA, A/delayed, 10 kA                         1264.15    6   7584.90   1896.23
+GLENOS završni pokrov za profile 2609, četvrtasti, crne boje                        124.52   24   2988.48    747.12
+Blok pomoćnih kontakata za sklopnik vel. 0-12, 2 N/O + 2 N/C                         41.97    1     41.97     10.49
+SAT ormarić čel., perf. ploča, zaključ.,600x600x200,RAL7035                         696.65   29  20202.85   5050.71
+MERIDIAN 3 zidna svj.bijela,E27,max.25W                                             531.37   22  11690.14   2922.53
+
+                                                                                                         ----------
+UKUPNO                                                                                                     88270.69
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

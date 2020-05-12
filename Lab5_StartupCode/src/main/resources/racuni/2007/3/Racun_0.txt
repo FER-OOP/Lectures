@@ -1,0 +1,33 @@
+Račun br. 487993
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Stražnji priključak za 4-polne MC4 (4 kom.)                                         625.18    7   4376.26   1094.06
+Montažna ploča za AS/KS ormare, 1600x1200mm (VxŠ)                                   888.26   18  15988.68   3997.17
+Ugradna svjetiljka SERS 2 T8 2x58W ECG M600, bijela                                 535.99   18   9647.82   2411.96
+Podnožje osigurača, D02/E 18, 1P sa pokrovom, 63A, Neozed                            14.47   17    245.99     61.50
+Razvodna kutija, nadžbukna, 100x100x40mm, IP54, siva                                504.88   16   8078.08   2019.52
+Video vanjski panel, 10 tipki, sa PTT otvorom                                         4690   28 131320.00  32830.00
+D01 (Neozed) osigurač 10A, gL                                                         4.22   25    105.50     26.37
+Halogena žarulja QR-LP 111 ECO 50W SP 6° G53                                         98.51   18   1773.18    443.30
+Strujni trafo, 800/5A 60X20                                                         243.83   28   6827.24   1706.81
+Strujni trafo, montaža na DIN nosač, 80/5A, 3VA, Kl. 3                              127.03   14   1778.42    444.60
+Adapter za montažu MC1 na DIN nosač                                                  77.89    9    701.01    175.25
+ROTOBALL SWING 25 ovjesna svjetiljka, E27, bijele boje                              875.55   27  23639.85   5909.96
+Ugradna svjetiljka SE-ID ECO PAR L2 T5 2x14W ECG M600,bijela                        596.03   28  16688.84   4172.21
+Sutil-R LED 40W 6000K 2800lm, IP40, bijele boje                                     762.34   24  18296.16   4574.04
+Kondenzatorski sklopnik | 25 kVAr | 220-240V AC                                     463.36    6   2780.16    695.04
+SDL PRO 70, HIT-DE 70W R7s, sa 3-faznim adapterom,srebrne b.                       1125.94   14  15763.16   3940.79
+Lumo-R LED 24W 4000K 1500lm, IP44, sive boje                                        304.97    7   2134.79    533.70
+Combi okvir podžbukni za kućni razdjelnik 2, RAL9003                                 83.62   21   1756.02    439.01
+NV rastavna sklopka vel.2|400A, 3P, M10, na sustav 60mm                            1598.85   18  28779.30   7194.83
+Vodotijesna svjetiljka DEVA ECO PC 2x35W ECG                                        290.88   27   7853.76   1963.44
+Podložna pločica M6 (pak.=100 kom.)                                                   2.19   24     52.56     13.14
+
+                                                                                                         ----------
+UKUPNO                                                                                                    298586.78
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

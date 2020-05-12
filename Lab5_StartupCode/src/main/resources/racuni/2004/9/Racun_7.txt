@@ -1,0 +1,20 @@
+Račun br. 956257
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Strujni trafo, 100/5A, za kabel promjera do 21mm                                     83.36    5    416.80    104.20
+Adapter za RUBINIO LED 60/76 mm, sive boje                                          359.33    2    718.66    179.66
+Piktogram PRVA POMOČ za tip  KS                                                     207.36   21   4354.56   1088.64
+Mono kabelska spojnica, neizolirana, prema DIN, Cu, 10mm²                             5.62   13     73.06     18.26
+Set za povezivanje AS ormara izvana (6 kom.)                                         320.1    9   2880.90    720.23
+Fleksibilni plosnati kabel za dizalice H07VVH6-F 4x16, crni                          10000   29 290000.00  72500.00
+Signalni fleksibilni kabel YSLY-JZ 5x1,5 sivi                                       895.62   16  14329.92   3582.48
+SUPROS TRACK 3000 Spot, 3000lm 3000K SLM LED, 60°, crne boje                       1250.97   24  30023.28   7505.82
+
+                                                                                                         ----------
+UKUPNO                                                                                                    342797.16
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

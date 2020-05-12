@@ -1,0 +1,31 @@
+Račun br. 766435
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+FI-blok 40A, 2-polni, 30mA, Tip A (Puls)                                            713.14    2   1426.28    356.57
+Pokrov IP20 MD180i/R, MD180i/T, MD/PD180, krem bijeli                                87.04   10    870.40    217.60
+ROBOT II za Rosen Lite i Glu-Trax šine, zakretni                                     93.26    4    373.04     93.26
+Montažni profil prema šir. i prema dub. AS/KS ormara, 400mm                         404.42    7   2830.94    707.74
+Okvir viši s vratima i umetkom za KVH, 1-redni, 12+2 modula                         269.98   18   4859.64   1214.91
+Telefonski magazin za prenaponsku zaštitu, H izvedba, prazan                        129.49   18   2330.82    582.71
+Podes. ovjes za LINUX LIGHT, krom                                                   218.46    5   1092.30    273.08
+Motorna zaštitna sklopka, 3-polna | 0.28 - 0.40A, vel.S0                            206.11    6   1236.66    309.17
+316 ANALOG-Panel Video s 7 tipki, nehrđajući čelik, VIP                           15273.64    2  30547.28   7636.82
+GU10 grlo sa 18cm žicama                                                              5.91    6     35.46      8.86
+Bimetalni relej, područje podešenja 0.4-0.6A                                        160.45    7   1123.15    280.79
+AL-Cu stezaljka 2,5-50mm2, 2 dovoda/2 odvoda, žuto/zelena                            88.94   25   2223.50    555.88
+Reflektor za Gimble G12, 70°                                                         50.01   10    500.10    125.03
+Strujni trafo, 800/5A 60X20                                                         243.83   27   6583.41   1645.85
+Finožični PVC-om izol. vodič H07V-K (P/F) 4mm2, crveni HPV                           10000   11 110000.00  27500.00
+Sklopnik vel. 3 | 37kW (80A) [AC-3] | 24VAC, 50Hz                                   892.24   11   9814.64   2453.66
+Bimetalni relej za sklopnike vel. 0 | 17,00 - 22,00A                                191.26    5    956.30    239.07
+Ciri-M LED 20W 4000K, 1400lm, 80°, IP20, aluminij, bijele b.                        411.58   20   8231.60   2057.90
+Otvoreni prekidač, 4P, 55kA, 1000A, izvl., vod. str. priklj.                      28380.62    8 227044.95  56761.24
+
+                                                                                                         ----------
+UKUPNO                                                                                                    412080.47
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

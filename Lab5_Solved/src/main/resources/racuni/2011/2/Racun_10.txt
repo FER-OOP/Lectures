@@ -1,0 +1,32 @@
+Račun br. 627523
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+TINTO CONE SHADE, crne b./krom                                                     1250.97   26  32525.22   8131.30
+Mike-I-S-R/A2 LED 1W 3000K, dimabilna, 350mA, IP20, sive b.                          96.98   10    969.80    242.45
+Nadgradna svjetiljka SARH IP54 T8 4x36W CCG ind, bijela                            2347.05    6  14082.30   3520.58
+Damian-R/A2 3x40W G9, 100-240V, IP20, brušeni krom                                  131.95   15   1979.25    494.81
+Adapter M2000 za Cu sabirnicu, kratki                                                 4160   22  91520.00  22880.00
+SAT zid. nosač,R=350mm,V=250mm,ploča=175x175mm,stup=50mm,alu                          95.9   14   1342.60    335.65
+Zaštita kabela FW (2 kom.)                                                           41.91   25   1047.75    261.94
+N-TIC SPOT, 50mm, krom mat za GU/GZ10, sa rozetom                                    206.3    1    206.30     51.58
+Kanal s poklopcem LE, 60x110mm (VxŠ), duljina 2m, RAL 9010                           70.39   25   1759.75    439.94
+IP2x zaštita od dodira, za 4-polne MC3 (montaža na MC396801)                         74.83    4    299.32     74.83
+PRIORI FID sklopka 40-4-03/A, S izvedba                                            1392.29   26  36199.54   9049.88
+Otvoreni prekidač, 3P, 55kA, 800A, fiksni, vod. str. priklj.                      10519.09    6  63114.54  15778.63
+Kabel LiYCY 16x2x0,14                                                                10000    5  50000.00  12500.00
+FORCHINI M, PD-2, 40cm, okr., crno/srebrne boje, E27,max.40W                       1188.46   21  24957.66   6239.42
+Kućište sa glavnom sklopkom, BE6                                                    338.42   12   4061.04   1015.26
+Kompaktni prekidač snage tip A, 3P, 150kA, 50A, utični                             1867.16   11  20538.76   5134.69
+Finožični PVC-om izol. vodič H07V-K (P/F) 4mm2, plavi HPV                            10000   14 140000.00  35000.00
+Video vanjski panel, 52 tipke, sa PTT otvorom                                         4690    3  14070.00   3517.50
+Univerzalna stezaljka 95-185mm², za sabirnice 20x5 - 30x10                           78.38    9    705.42    176.35
+Modul za ugradnju EKEY čitača otiska prsta IKALL METAL                                   0    1      0.00      0.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     499379.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

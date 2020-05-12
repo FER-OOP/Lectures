@@ -1,0 +1,25 @@
+Račun br. 509528
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Rezervno staklo za plafonjeru AURA 2                                                160.87   17   2734.79    683.70
+Svjetiljka, 60cm                                                                    128.24    8   1025.92    256.48
+NAVIGATOR za 3-fazne šine, G8,5,bez reflektora, srebrne boje                        1131.4   12  13576.80   3394.20
+DCF antena za BZT2766xx                                                             742.94    3   2228.82    557.21
+BIMA I svjetiljka za EASYTEC II šina, srebrne boje                                  406.17   22   8935.74   2233.94
+Vodotijesna svjetiljka DEVA ECO PC 1x36W CCG                                        217.34    8   1738.72    434.68
+Svjetleće tipkalo s plos. tipkom, sa LED 230VAC,crveno,1N/C                          95.61    9    860.49    215.12
+Ugradna svjetiljka SERH 2 A8 L2 T5 2x54W, ECG, bijela                                 8534    7  59738.00  14934.50
+Traka označna 10 x 41-50 za HMM2 i CBC.2                                              4850   22 106700.00  26675.00
+Prespojni kabel RJ45 cat.5e oklopljen, PVC, crveni, 2.0m                             10.54   21    221.34     55.33
+Fluo cijev T5|T16 49W/830 G5                                                          22.8   26    592.80    148.20
+SAT kapa za stup promjera 50mm, polietilen, crni                                      2.13    4      8.52      2.13
+Ugradna svjetiljka SERH 2 A2 L2 T5 3x24W, ECG, bijela                                 8534   25 213350.00  53337.50
+
+                                                                                                         ----------
+UKUPNO                                                                                                    411711.94
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

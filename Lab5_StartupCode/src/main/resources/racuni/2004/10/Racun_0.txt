@@ -1,0 +1,24 @@
+Račun br. 714613
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Bezhalogeni kabel s el. funkc. do30 Min(N)HXCH4x240rm/120E30                         10000    6  60000.00  15000.00
+Linijska svj. SERH-LF 112, početni profil,  1x49W, ECG, bb                          567.33    5   2836.65    709.16
+Industrijsko kućište sivo, sivi poklopac, 130x95x65mm, IP65                          58.21    2    116.42     29.10
+Kompenzacija  LSK 7% 17,5/2,5kvar 600x1250x300mm zidni ormar                      18657.54    3  55972.62  13993.16
+Dvokrilna vrata staklo, za kom. ormare, 45U, Š=800 mm                              1572.44   27  42455.88  10613.97
+Sklopnik vel. 3 | 30kW (65A) [AC-3] | 24VDC                                        1060.63    9   9545.67   2386.42
+Duke-S/A1 LED 24x1W 3000K 1400lm, IP65, sive boje                                   662.99   16  10607.84   2651.96
+Prespojni kabel RJ45 cat.5e oklop., 1GB, sivi, 3m                                    16.46   29    477.34    119.33
+Nick-III-Q 2x13/18W G24q, 230V, IP20, brušeni krom                                    7.77   21    163.17     40.79
+Završni poklopac CLI okrugli sa rupom i vijcima                                      87.09    3    261.27     65.32
+Bezhalogeni kabel s el. funkc. do30 Min. (N)HXH-O1x240rmE30                          10000   29 290000.00  72500.00
+Linijska svj. SIMPLE LINE LED 1012 32W 3200lm/830 DALI,bb                          1039.44    3   3118.32    779.58
+
+                                                                                                         ----------
+UKUPNO                                                                                                     475555.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

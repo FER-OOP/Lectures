@@ -1,0 +1,22 @@
+Račun br. 171739
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+DC sklopnik | 7.5kW | 24V DC | 3N/O + 1N/O pomoćni kontakt                          380.35   16   6085.60   1521.40
+Signalna svjetiljka, plosnata, zelena 24V                                            67.21    5    336.05     84.01
+Utičnica šuko sa kont.+poklop+dječja zaš. na opr. antracit                           31.41   19    596.79    149.20
+"19"" fiksna polica do maks. 150kg, d=950mm, 1U, RAL7035"                           307.98   30   9239.40   2309.85
+9G04M/W/E, LED WW 4W E27 100-240V                                                     29.9    3     89.70     22.42
+AF S LED 300 reflektor, 8xLED (24W), 5000°K, IP44, inox                            4138.33   19  78628.27  19657.07
+Mia-R 35W G8,5, 230V, IP20, bijele boje                                               5.74    8     45.92     11.48
+Prednja ploča, plastična, slijepa, 2B12K                                              4160   26 108160.00  27040.00
+Sabirnica, 4P, viličasta, 1/N/2/N/3/N, 10mm² (63A)|17.8mm|1m                        287.69   23   6616.87   1654.22
+Otto-I-Q/A2 35W G8,5, 230V, IP20, sive boje                                         161.18   19   3062.42    765.60
+
+                                                                                                         ----------
+UKUPNO                                                                                                    212861.03
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

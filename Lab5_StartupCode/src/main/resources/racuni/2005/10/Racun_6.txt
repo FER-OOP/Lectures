@@ -1,0 +1,18 @@
+Račun br. 387610
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+7028BP/G, Držač za 7028B LED FLOODLIGHT, sive boje                                   33.11    4    132.44     33.11
+Kompenzacija  LSFC 7% 125/25kvar 600x2000x400mm Samost.orm.                       41447.85   14 580269.94 145067.48
+LIGHT EYE BALL GU10 ovjesna svjetiljka GU10 max. 50W, bakar                         406.17   27  10966.59   2741.65
+Montažna ploča za AS/KS ormare, 1800x800mm (VxŠ)                                    728.21   22  16020.62   4005.16
+Jamba-II-WL-R 15W E27, 100-240V, IP54, sive boje                                    175.88    4    703.52    175.88
+Označne pločice 201-250 (pločica sa 2x od 201-250)                                   16.83    5     84.15     21.04
+
+                                                                                                         ----------
+UKUPNO                                                                                                     608177.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

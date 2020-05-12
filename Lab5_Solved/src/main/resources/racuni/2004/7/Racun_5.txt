@@ -1,0 +1,23 @@
+Račun br. 772326
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ida2 LED 3W, 3000K, 48lm, IP65, alu, bijele boje                                    331.49    6   1988.94    497.23
+Senzor prisut. stropni, theRonda P360-100,Ø24m,1kanal,bijeli                       1285.63   26  33426.38   8356.59
+TYTAN HC prespojni kabel RJ10, duljina 100cm                                            20    2     40.00     10.00
+LED prespojni kabel RJ45 neoklopljen, cat.6, sivi, 3m                                45.72   28   1280.16    320.04
+Samourezni vijak, 4.2x9.5mm (1 kom.)                                                  0.16   13      2.08      0.52
+Redna stezaljka (vijčani priključak) 4mm², narančasta                                 6.86   29    198.94     49.74
+LED OUTDOOR BEAM, 30W, 150°, LED topla b.                                          1126.79    8   9014.32   2253.58
+L-SE LSK 1.5 1x44W LMW 4500lm 830 Dali, bijele boje                                1466.03   16  23456.48   5864.12
+NEW TRIA 2 DL četvrtasti Set, 2x6W, 2700K, 38°,crne boje                            625.15    4   2500.60    625.15
+Sphinx 104-360, senzor prisutnosti, 1 kanal, p/ž, stropni                           471.26   29  13666.54   3416.64
+QUICK CONNECT LINE ut. modul RJ45 cat.6a,bez kont.bl.(SFA)                           42.61   22    937.42    234.36
+
+                                                                                                         ----------
+UKUPNO                                                                                                     86511.86
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

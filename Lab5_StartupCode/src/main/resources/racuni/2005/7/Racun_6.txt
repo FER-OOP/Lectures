@@ -1,0 +1,32 @@
+Račun br. 693710
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kabelska stopica 10mm2 M8                                                             2.44   28     68.32     17.08
+Profil za LED trake, 1 metar                                                         22.33   24    535.92    133.98
+Panik svjet. KD Wireless sa aku.bat LED 8h 230VAC , univ.                          1458.77    3   4376.31   1094.08
+Telekomunikacijski kabel J-Y(ST)Y 30x2x0,6mm2                                      2163.65    2   4327.30   1081.82
+Tuljci,izolirani, dvostruki, 2x6mm2, L2=14mm (pak.100 kom)                           71.73   14   1004.22    251.06
+Fluo cijev T16 54W/830 G5                                                            30.87    2     61.74     15.43
+AIXLIGHT R DUO,HQI111,okr.,sr.b.,G12,2x70W,bez odsijača                            2809.97   23  64629.31  16157.33
+Zamjenjiva skala, 72x72mm, 200/400/5A AC                                              4399   25 109975.00  27493.75
+Kada za brojilo, 5 ploča za brojilo u jednom redu, 2-reda                          1594.82   30  47844.60  11961.15
+Okvir plitki s vratima i umetkom za KVH, 2-redni,24+4 modula                        296.63   22   6525.86   1631.47
+7201G/W, LED 2w MR11 GU10 WW                                                         53.05   24   1273.20    318.30
+Reflektor za AIXLIGHT R/R2 38*                                                       62.51    4    250.04     62.51
+PLENUM MOVE podna svjetiljka, okr., bijele b., E27, max. 25W                       1871.23   15  28068.45   7017.11
+Pločica + nosač 30x50mm, natpis: OFF ON                                              10.06    1     10.06      2.52
+Panik svjetiljka VA LED 4W, CPS sustav,MIX mod, zidna                              3804.89   22  83707.58  20926.89
+Okvir MO 1/3M line, bijeli                                                            9.37   19    178.03     44.51
+Završni poklopac TBI ravni sa otvorom                                                83.77   10    837.70    209.43
+Pomoćni kontakt za BE5, 1 N/O + 1 N/C, bočna ugradnja                                33.55   17    570.35    142.59
+LED MR16 žarulja, 4W, SMD LED, 2700K, 40°                                            93.26   12   1119.12    279.78
+Pomoćni kontakt, 2 C/O kontakta, vijčana montaža                                     58.05    6    348.30     87.07
+
+                                                                                                         ----------
+UKUPNO                                                                                                    355711.44
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

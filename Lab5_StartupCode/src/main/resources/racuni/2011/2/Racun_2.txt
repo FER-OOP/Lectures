@@ -1,0 +1,15 @@
+Račun br. 151681
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+FN Prenaponska zaštita, DC isklop, 1000VDC, za 1MPPT                               2925.63    1   2925.63    731.41
+DC zaštitni prekidač, C 3A, 2-polni, 10kA                                             4474   16  71584.00  17896.00
+Kada za brojilo, 1 ploča za brojilo u jednom redu, 2-reda                           402.22   14   5631.08   1407.77
+
+                                                                                                         ----------
+UKUPNO                                                                                                     80140.71
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

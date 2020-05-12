@@ -1,0 +1,23 @@
+Račun br. 133811
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Redna stezaljka (vijčani priključak) 70mm², žuto/zelena                              59.13   23   1359.99    340.00
+Sklopnik 3P |7.5kW (18A) [AC3] / 32A [AC1] | 48V AC | 1N/O                          267.66   30   8029.80   2007.45
+Vatrodojavni kabel  JB-Y(St)Y 6x2x0,8                                               952.29   10   9522.90   2380.72
+Brzovezujući cement za montažu (pak.5 kg)                                            73.72   27   1990.44    497.61
+Sutil Quadro LED, 16W, 3000K, 884lm, 110°, IP40, sive boje                          249.21   21   5233.41   1308.35
+Poklopac za priključni/rezervni prostor 54mm za sustav 60mm                          63.51   28   1778.28    444.57
+Vodotijesna svjetiljka DEVA ECO PC 2x36W ECG                                        239.68    2    479.36    119.84
+LED DMX/RDM Decoder RGBW (4CH)                                                     1045.09   17  17766.53   4441.63
+Nubil-TR-Q 2x20W E27, 100-240V, IP20, bijele boje                                   238.74   14   3342.36    835.59
+Nadgradna svjetiljka SARS 2 ECO T8 1x58W CCG, ind, bijela                           313.21   29   9083.09   2270.77
+Okvir MO 4x2M line, bijeli                                                           23.44   15    351.60     87.90
+
+                                                                                                         ----------
+UKUPNO                                                                                                    58937.758
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

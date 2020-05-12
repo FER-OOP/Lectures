@@ -1,0 +1,20 @@
+Račun br. 249347
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Podložna pločica, ravna, DIN125A / M8 / d=8.4mm                                       13.2   24    316.80     79.20
+Spojnica za savitljivu cijev M25, HF, narančasta (50 kom.)                          181.96   23   4185.08   1046.27
+Prespojni kabel RJ45 STP cat.6a/10GB, LS0H, crveni, 0.5m                             24.82   17    421.94    105.49
+Teški gumeni kabel H07RN-F 4x95, crni                                             42002.04   10 420020.38 105005.09
+Priključni kabel za IU008523, 2x1,5mm2, duljine 1m, bijeli                           87.19   29   2528.51    632.13
+Ugradna svjetiljka SEP T5 4x14W, ECG, M625 bijela                                   364.25    2    728.50    182.13
+Marra LED Strip 4,8W/m, 60LEDs/m, 300lm/m, 4000K, 24VDC IP68                        265.26   17   4509.42   1127.35
+Fluo cijev T5|T16 35W/865 G5                                                         24.35   17    413.95    103.49
+
+                                                                                                         ----------
+UKUPNO                                                                                                    433124.53
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

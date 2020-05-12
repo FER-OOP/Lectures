@@ -1,0 +1,32 @@
+Račun br. 109124
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kabanica veličina L                                                                   9843   27 265761.00  66440.25
+Priključna sabirnica, viličasta, 10mm²/4P, 20 modula                                  4230   23  97290.00  24322.50
+Prespojni kabel RJ45 STP cat.6a/10GB, LS0H, sivi, 5.0m                               58.95   17   1002.15    250.54
+Odvodnik prenapona PHOTEC. KLASA II (C) 550VDC, In 20kA + PO                        696.55   27  18806.85   4701.71
+NEW TRIA MINI DL okrugli SET, Downlight, 3000K,bijele boje                          280.98    2    561.96    140.49
+"Natpisna pločica, ""STÖRUNG"", 12.5 x 28mm, natična"                                 3.09   28     86.52     21.63
+Svijetleća tipka s ručicom,2 položaja,bijela,60°,bez povrata                          75.6    7    529.20    132.30
+SAT ormarić čel., perf. ploča, zaključ.,600x600x200,RAL7035                         696.65   24  16719.60   4179.90
+Natična priključna stezaljka za sabirnicu 10mm, M8, 490A                             66.43   30   1992.90    498.23
+Spojnica za 3/4 polne slopnike (vel. 0 - vel. 0)                                      5.91   19    112.29     28.07
+Sklopnik vel.3 | 4P | AC1 140A/690V | 24VAC                                        1338.54   11  14723.94   3680.99
+Ugradni okvir za MO2, 3P, -3200A, vodoravne str. priklj.                          15200.83    4  60803.32  15200.83
+RJ11 utikač za konekt. na plosnati kabel, neoklopljen 6/4                              0.7   25     17.50      4.38
+7311AG/D, 11w GU10 DL                                                                 5.74   20    114.80     28.70
+Transformator 230V - 12V AC, 50-150W, dim.                                          122.66   19   2330.54    582.64
+MEDO 40 LED, stropna svjetiljka, crne boje                                         1433.11   17  24362.87   6090.72
+Delora-R LED 4x0,2W 6000K, IP20, aluminij                                           116.92   30   3507.60    876.90
+FIN XS Wall LED 4W 4000°K, bijela                                                   685.23    5   3426.15    856.54
+DC zaštitni prekidač, C 4A, 2-polni, 10kA                                           183.75   15   2756.25    689.06
+Odvodnik prenapona PROTEC kl.B/C TNS 275/25                                        2819.61   25  70490.25  17622.56
+
+                                                                                                         ----------
+UKUPNO                                                                                                     585395.7
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

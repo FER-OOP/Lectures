@@ -1,0 +1,32 @@
+Račun br. 226183
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ugradna svjetiljka SEO ECO T8 2x36W ECG M600, bijela                                345.17   24   8284.08   2071.02
+Kabel za motorne pogone oklopljeni SLCM-JZ 4x25 0,6/1kV sivi                      22010.48   21 462220.09 115555.03
+Nadgradna svjetiljka PRIMO H OPAL T5 1x35W ECG, bijela                              377.13   28  10559.64   2639.91
+Zaštitni pokrov, IP55, otvaranje s obje strane                                     1802.26   20  36045.20   9011.30
+Flyer ulična svjetiljka, asim. 40 LED 94W 8840lm 4000K                             5030.39    6  30182.34   7545.58
+DASAR LED HV PRO ugradna, okrugla,SST, 6W, 3000K, 230V, IP67                       1307.91   27  35313.57   8828.39
+Ugradna svjetiljka SEO XTP T5 2x28W ECG IP54 M625, bijela                          1059.42   18  19069.56   4767.39
+Kompaktni prekidač snage tip VE, 3P, 85kA, 1600A+izvl. modul                      59795.89    3 179387.67  44846.92
+Prozirna vrata, akril, za WSM7050xx, otvor: 550X343mm                               634.23    2   1268.46    317.11
+Signalni fleksibilni kabel YSLY-OZ 2x6 sivi                                          10000   22 220000.00  55000.00
+PRIRUBNICA SA PERFORACIJAMA, VEL.3, 636x130x18mm                                    212.16   28   5940.48   1485.12
+Gljivasto tipkalo, crveno, fi=40mm, 1 N/C, deblokada zakr.                           87.74   28   2456.72    614.18
+Utičnica, 16A, zaštita za djecu, umetak, biserno bijela                              25.82   15    387.30     96.82
+Rezervni filter za ventilator 252x252mm, IP55 (pak=5 kom.)                          421.82   22   9280.04   2320.01
+Produženi priključak, 2 otvora, za 3P MC4, do 1400A                                 855.65    2   1711.30    427.83
+Prozirna vrata, akril, za WSM8060xx, otvor: 659X443mm                               822.44   21  17271.24   4317.81
+Završni poklopac TBU ravni zatvoreni                                                 83.77   11    921.47    230.37
+"Stezaljka ""A"" 1P, dovod 35mm²|odvodi: 1x(2x35)"                                   44.14   20    882.80    220.70
+7305BG/C/50, LED 5w CW GU10 50 ° 220-240v                                            58.12   30   1743.60    435.90
+Okvir 1-struki, bijeli                                                                 3.5   24     84.00     21.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1043009.7
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

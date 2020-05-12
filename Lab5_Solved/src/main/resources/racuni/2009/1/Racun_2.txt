@@ -1,0 +1,30 @@
+Račun br. 1066895
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ispravljač, industrijski, 115-230VAC/12VDC, 10A                                     930.27   14  13023.78   3255.95
+Telekomunikacijski kabel F-YAY 5x2x0,6mm2                                            10000   11 110000.00  27500.00
+CRISTAL MEDIUM LED 9x1W 3000K SIM. 80° INOX+ugr.kut.                               2973.64   15  44604.60  11151.15
+Nadgradna svjetiljka SARM 2 2x28W ECG, bijela                                       441.05   26  11467.30   2866.82
+Zero LED 2x18W, 4000K, 4910lm, Ra>80, IP40, prizma, bijela                         1812.43   30  54372.90  13593.22
+Kompenzacija  LSFC 7% 250/50kvar 800x2000x400mm Samost.orm.                       57832.29    3 173496.88  43374.22
+9G07S/C/SE, 7W E14 CW                                                                 3.71   13     48.23     12.06
+Krajnji držač, montaža na DIN nosač, tip BT/3, crni, vijčani                          2.19   30     65.70     16.43
+Bezhalogeni kabel s el. funkc. do30 Min. (N)HXH-O1x240rmE30                          10000   19 190000.00  47500.00
+EUTRAC nosač ovjesa za 3-fazne šine, srebrne boje                                    61.33   14    858.62    214.65
+Ovjesna svjetiljka OFFICE ECO DIR PAR 1x54W ECG, siva                               474.56   23  10914.88   2728.72
+7306GD/C/24, 5LED 7w GU10 CW 24 ° 230V dimabilna                                     89.54    5    447.70    111.93
+T5 fluo cijev 28W, 4000K                                                             62.51   20   1250.20    312.55
+Navi TomTom Start CE Traffic                                                        1886.2   16  30179.20   7544.80
+Označna traka-ploča 5 x 1-18 za tip CBD.2                                            17.06   13    221.78     55.44
+Kompaktni prekidač snage tip VE, 4P, 50kA, 630A                                    7340.31   15 110104.65  27526.16
+Sklopnik vel. 00 | 3kW (7A) [AC-3] | 24VAC, 50Hz | 1 N/O                                99   18   1782.00    445.50
+Sklopnik vel. 00 | 5,5kW (12A) [AC-3] | 24VAC, 50Hz | 1 N/C                         131.76   15   1976.40    494.10
+
+                                                                                                         ----------
+UKUPNO                                                                                                     754814.7
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

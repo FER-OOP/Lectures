@@ -1,0 +1,28 @@
+Račun br. 1079285
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Spojnica za 3/4 polne slopnike (vel. 0 - vel. 0)                                      5.91    3     17.73      4.43
+Ugradna svjetiljka SERH XTP T8 4x18W ECG M600, bijela                              1279.87   25  31996.75   7999.19
+Staklena vrata za AS ormare 1800x600mm, prozirna, RAL 7035                         2042.72    9  18384.48   4596.12
+Relej 3 C/O |10A | 24VAC                                                             57.31    4    229.24     57.31
+Nosač sabirnica, 3-polni, montaža bez bušenja, sustav 100mm                         164.95    2    329.90     82.47
+NEOZED vijčana kapa, D01 (E14), 16A / 400V, plastična                                  4.3   15     64.50     16.13
+Natrijeva žarulja HST 150W E40 SUPER 4 Year                                         127.36   20   2547.20    636.80
+ESSENS 26/2 duboki Downlight, bb                                                    694.85    8   5558.80   1389.70
+Mela Small LED Plafo, 12W, 3000K, 1000lm, IP20, bijela                              298.38   17   5072.46   1268.11
+ENOLA_B UP-DOWN zidna svj., bb, GU10, max. 50W                                      625.15    3   1875.45    468.86
+LED RETROFIT RL-C40 4W 230V 827 470lm prozirna E14 AL 15000h                         43.92   30   1317.60    329.40
+Finožični PVC-om izol. vodič H07V-K (P/F) 6mm2, bijeli HPV                           10000   18 180000.00  45000.00
+Kompaktni prekidač snage tip A, 3P, 25kA, 250A, utični                             2207.88   21  46365.48  11591.37
+Relej za nadzor faza, 230V AC, 1 C/O, 5A                                            302.11    2    604.22    151.05
+N-TIC PRO GU10, četvrtasti pokrov                                                  1307.91    1   1307.91    326.98
+Ugradna svjetiljka SEO PC T5 1x28W, ECG, bijela                                     461.83    2    923.66    230.91
+
+                                                                                                         ----------
+UKUPNO                                                                                                    296595.38
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

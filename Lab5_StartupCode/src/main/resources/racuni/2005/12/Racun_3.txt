@@ -1,0 +1,15 @@
+Račun br. 625197
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Uzdužna stranica, 12 visinskih jedinica (100 mm)                                     276.6    8   2212.80    553.20
+7912/AL, Aluminijski profil  2m + PC opalni pokrov                                  403.13    7   2821.91    705.48
+9R04/W/E, LED PAR38 14w E27 IP65 WW                                                  79.58    7    557.06    139.26
+
+                                                                                                         ----------
+UKUPNO                                                                                                      5591.77
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

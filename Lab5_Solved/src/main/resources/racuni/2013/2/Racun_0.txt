@@ -1,0 +1,33 @@
+Račun br. 394483
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Univer. opt.  kabel U-DQ(ZN)BH 8x9µm OS2, nm.                                       731.75   26  19025.50   4756.38
+Vrata sa zakretnim zasunom 4T-45                                                      4170   21  87570.00  21892.50
+Poklopac sa 2 vijka za razvodne kutije Ø60mm i Ø70mm, bijeli                        171.94   10   1719.40    429.85
+Kabelski kanal 80X60 (VxŠ), 2m, perforirani, sivi, RAL7030                           45.85   12    550.20    137.55
+Bistabilni relej, 230VAC, 2 C/O, 16A, na DIN nosač                                  190.38    1    190.38     47.60
+Kabel za gradilišta XYMM-J 5x2,5 K35 / 500m, žuti                                    10000   29 290000.00  72500.00
+Kućni komunikac. razdj., 1-redni, 8xTOOLL., 1x230V, RAL9003                         665.11   20  13302.20   3325.55
+LED RETROFIT RL-D40 DIM 6W 230V 827 470lm mat E14 25000h                             54.83   26   1425.58    356.40
+D01 rastavna sklopka TYTAN I, 3-polna, 16A, 50kA                                      4824   20  96480.00  24120.00
+Kućište n/ž Š204xV45xD80mm za HSEMDR6W0F, RAL9010                                    22.32   25    558.00    139.50
+7303G/D/30, LED 3w GU10 DL 30 °                                                       27.7   28    775.60    193.90
+Henry-I-S 20W E27, 100-240V, IP20, natural                                          996.69    3   2990.07    747.52
+Finožični PVC-om izolirani vodič H07V-K (P/F) 2,5mm2, crveni                        195.31   15   2929.65    732.41
+Podstanica procesorom za Multi-Control za 24 DCM                                  24724.68    8 197797.44  49449.36
+Samoljepljive oznake za strujne krugove                                              12.07   20    241.40     60.35
+Bakrena sabirnica, TTT profil, 2500A, duljina 3.6m,pocinčana                          4835    5  24175.00   6043.75
+Tipka s ručicom,žuta,3 polož.,50°,lijevo bez-desno s povrat.                         45.85   16    733.60    183.40
+Ventilator 230VAC, 15W, 50/60Hz, 160m3/h, 120x120mm                                 114.19    1    114.19     28.55
+Sabirnica, U-4-L1+L3 16mm²/18mm/duljine 1m                                           98.54    1     98.54     24.64
+LED AR111, crvene b., 19,5W, 140°, 2700                                             562.63    5   2813.15    703.29
+Tipkalo (1 N/O), kompletno, 10A, na oprugu, bijelo                                   21.41    7    149.87     37.47
+
+                                                                                                         ----------
+UKUPNO                                                                                                    743639.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

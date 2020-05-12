@@ -1,0 +1,27 @@
+Račun br. 475901
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Prizma stezaljka, dvostruka, 2 x 150mm², vel. 3                                     128.15    4    512.60    128.15
+S4H koaks. prespojni kabel, 2xF-konektor, 5 m, bijeli                                24.39   12    292.68     73.17
+Flexstrip 115 DH (Dynamic Home) Ra=90+, 24VDC, IP43, l=5m                          1866.24    9  16796.16   4199.04
+LED Driver 420mA 18W za Sutil 2, triac dim.                                         145.13    5    725.65    181.41
+Ugradna podna svjetiljka Tetra 900 IP67 T5 21W 2x42°                               1558.03   27  42066.81  10516.70
+Zaštitni prekidač MB 18kA CL 25/3                                                   458.97   20   9179.40   2294.85
+NYCY 30x1,5RE/6                                                                      10000   12 120000.00  30000.00
+Tipka s ručicom,žuta,3 polož.,50°,lijevo bez-desno s povrat.                         45.85   30   1375.50    343.88
+LS-FI (KZS), C/16A/10mA, 1-polni+N, Tip A                                           475.72    4   1902.88    475.72
+Linijska svj. SERH-LL 112, završni profil,  1x54W, ECG, bb                           496.9    4   1987.60    496.90
+M-Collar jakna, vodoodbojna sa puno džepova                                         330.46    2    660.92    165.23
+Uvodnica PG42 (maticu M273110--- naručiti odvojeno)                                  66.25   17   1126.25    281.56
+Nosač za 1 modul, 45x22,5mm, ravan izvod, RAL9010                                     4.75   14     66.50     16.63
+Kruta pojačana cijev, M20, 750N, EN3341, crna, 3m(pak. 111m)                        460.37   14   6445.18   1611.29
+Dimabilna elektronika za 2x42w downlight svjetiljke                                   8553   16 136848.00  34212.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    339986.12
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

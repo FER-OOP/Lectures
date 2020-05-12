@@ -1,0 +1,31 @@
+Račun br. 436362
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Sklopnik vel. 00 | 4kW (9A) [AC-3] | 24VDC | 1 N/C                                  119.35   25   2983.75    745.94
+Prospekt-Priori 2009 N                                                                   0   22      0.00      0.00
+Relej snage, 2C/O, 8A, 12VDC serije RT, raster 5mm                                   14.89    6     89.34     22.34
+Poliester kućište 540x270x171mm, prozirni poklopac,IP66,sivo                          4130   26 107380.00  26845.00
+"Natpisna pločica, ""0 I"", 12.5 x 28mm, natična"                                     3.09   28     86.52     21.63
+Bat. RPOWER OGiV 12/100Ah, longlife: 10-12 god., pred. klema                       2237.22   13  29083.86   7270.96
+Bimetalni relej za LA1, područje podešenja 8-11A                                    389.71   13   5066.23   1266.56
+Aluminijski profil CLI                                                              156.44   12   1877.28    469.32
+Plosnate stezaljke 25 x 20mm, visina: 5 - 20mm                                       51.31   23   1180.13    295.03
+TEC reflektor, 1xQRB111, sa 1-faznim adapterom                                      468.69   26  12185.94   3046.49
+Nosač tel. letvica za prihvat do 10 LSA letvica, D=30mm                              141.4   25   3535.00    883.75
+FID sklopka 40-4-03/B, za sve oblike diferencijalne struje                         4766.09   15  71491.34  17872.84
+Kombinirani senzor za temperaturu i svjetlo                                        2127.94   29  61710.26  15427.57
+Optički završetak LC, 50/125µm OM3, 2.0m (4 kom.)                                    76.47   21   1605.87    401.47
+Palos-II-R/A2 70W G8,5, 230V, IP20, bijele boje                                     277.26    3    831.78    207.95
+Finožični PVC-om izol. vodič H07V-K (P/F) 2,5mm2, crveni HPV                         10000   16 160000.00  40000.00
+Prednja ploča, plastična, slijepa, 3B1K                                               4160    7  29120.00   7280.00
+SERH ECO A2 L1 T5 3x14W EVG M600, bijela b.                                         348.28    7   2437.96    609.49
+UPS GENIO Net Power 800VA/480W, 4min 1f/1f, Line-int.                               863.38   14  12087.32   3021.83
+
+                                                                                                         ----------
+UKUPNO                                                                                                     502752.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

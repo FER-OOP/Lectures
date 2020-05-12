@@ -1,0 +1,28 @@
+Račun br. 1078498
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Bezhal. kabel poboljšanih svoj.za sl. požara N2XH-J 3x4re                            10000    5  50000.00  12500.00
+Halogena žarulja QR-C 51 ALU 35W WFL 36° GU 5,3                                      17.68   10    176.80     44.20
+Sklopka zvijezda/trokut 3P/7,5 kW/32A                                               307.89   24   7389.36   1847.34
+FLEXLED ROLL HIGH LUMEN 24V, 1m, 2700K                                              218.46   12   2621.52    655.38
+FLEXLED ROLL 3D 24V, 3m, 5000K                                                      406.17   26  10560.42   2640.10
+9G15L/D/E, LED GLOBE 15w DL E27 95mm 230v                                            63.02   17   1071.34    267.83
+Natrijeva žarulja HST 70W E27 4 Year                                                102.15   27   2758.05    689.51
+"""Synchro"" uklopni sat, tjedni program"                                             2103   16  33648.00   8412.00
+"Preklopnik 24x10/100/1000+4xSFP dijeljeno,SNMP,stack,19"""                        4237.82   10  42378.20  10594.55
+Jednožični PVC-om izolirani vodič H05V-U (P) 1mm2, plavi                             10000   11 110000.00  27500.00
+Priključna stezaljka 6-50mm², stift, ravna, duga                                     16.33    9    146.97     36.74
+Instalacijski umetak za Minipol ormar 800x600mm, 5x29 modula                       1147.56    5   5737.80   1434.45
+Neizolirana Cu stopica 50mm², M8                                                      5.49    3     16.47      4.12
+DASAR FLAT LED, tople bb LED, podna ugr.,inox pokrov                                562.63   23  12940.49   3235.12
+Sigurnosna svjetiljka ZAA 230VAC, auton 3h, autotest , zidna                       1796.54   17  30541.18   7635.29
+NV rastavna sklopka vel.2|400A, M10, nadzor osig., mont.pl                            4831   19  91789.00  22947.25
+
+                                                                                                         ----------
+UKUPNO                                                                                                    401775.62
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

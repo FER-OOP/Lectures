@@ -1,0 +1,33 @@
+Račun br. 258331
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Napajanje za 1faznu visokonap.str.šinu,ugrad.lijevo,bijeli                           68.25   30   2047.50    511.88
+SEO T5 4x24W, ECG, M600 bijela b.                                                     8534    2  17068.00   4267.00
+Magnet 18x6mm                                                                         25.8   17    438.60    109.65
+Nadzemni kabel E-A2Y 4x95RM, 0,6/1KV                                                 10000   21 210000.00  52500.00
+Daljinski isklopnik za MC1, 208-250V AC/DC, sa 3m kabela                            267.14   18   4808.52   1202.13
+Instalacijski sklopnik 63A | 4 N/C | 230V AC                                        494.01   19   9386.19   2346.55
+Sklopnik vel. 00 | 4kW (9A) [AC-3] | 24VAC, 50Hz | 1 N/C                            102.44   27   2765.88    691.47
+Joystick, komplet, 2 položaja sa po 1 N/O,bez povrata, okom.                         229.1    3    687.30    171.83
+Kompaktni prekidač snage tip AE, 4P, 85kA, 1250A                                  23488.86   27 634199.19 158549.80
+Zakrilni vijak 80 mm                                                                  8.13   26    211.38     52.85
+P/Ž razdjelnik MODUL 160, sa prozirnim vratima, 3x24 modula                           4172    2   8344.00   2086.00
+LED Panel Round 180 11W 750lm tople bb 2800K, bijele b.                             441.51   21   9271.71   2317.93
+9022L/D, T8 LED staklena cijev 22w DL 150cm , 230v, mat                              96.13   27   2595.51    648.88
+Zaštitni prekidač AMPARO 6kA, C 13A, 1-polni                                         27.55   10    275.50     68.88
+Elektronički izvor napajanja (industrijski) 24VDC|2.5A|60W                          370.46   29  10743.34   2685.83
+Zaštitni prekidač AMPARO 6kA, C 16A, 3-polni                                         76.11   30   2283.30    570.83
+Ezio-Q LED 2,5W 3000K 15lm, IP44, bijele boje                                       351.77   16   5628.32   1407.08
+Instalacijski umetak za WSM ormare, 4x27 modula                                     418.87    2    837.74    209.43
+Kabel H03VV-F (PP/L) 3x0,75mm2, svijetlo-sivi, 500m kolut                            10000    9  90000.00  22500.00
+Prednja ploča, plastična, slijepa, 2B4K                                               4160   18  74880.00  18720.00
+Zakretna ručica za MC4, zaključ., na vrata, 0/1 (crna/siva)                         955.85    3   2867.55    716.89
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1089339.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

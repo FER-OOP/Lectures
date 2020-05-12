@@ -1,0 +1,31 @@
+Račun br. 255805
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Metalhalogena žarulja, 35W 10 ° PAR30 E27 WW CERAMIC                                 16.05   19    304.95     76.24
+Ciri-M LED 20W 4000K, 1400lm, 80°, IP20, aluminij, bijele b.                        411.58    3   1234.74    308.68
+Međuokvir za kućište F - 560x280x50mm                                               420.58   19   7991.02   1997.75
+Napajanje 100W, 12V, IP67                                                           331.21   19   6292.99   1573.25
+Preklopka CG 8 A213-600FT2                                                             434    7   3038.00    759.50
+Nadgradna svjetiljka SAP ECO T8 1x58W ECG, bijela                                   463.23    6   2779.38    694.85
+Modularna prednja ploča sa otvorom za 1x35 modula, 800x150mm                        125.64   16   2010.24    502.56
+Završni profil, širina 4                                                              4160   25 104000.00  26000.00
+Modul za audio jedinicu, 0 tipki, POWERCOM                                          179.65   29   5209.85   1302.46
+NEW TRIA I QRB111 SQUARE, uklj. opruge, crne boje                                   268.47   25   6711.75   1677.94
+Senzor prisutnosti 360B KNX, 8m, p/ž, stropni, IP54, crni                          1855.84   23  42684.32  10671.08
+Sabirnica, 3P, viličasta, 10mm² (63A)|korak 18mm| 1m, AMPARO                        128.37   19   2439.03    609.76
+Signalni fleksibilni kabel YSLCY-OZ 25x 1 sivi                                       10000   11 110000.00  27500.00
+Tipka za sklopke ili tipkala, bijela                                                 10.62   26    276.12     69.03
+Finožični PVC-om izolirani vodič H07V-K (P/F) 10mm2, smeđi                          770.13   26  20023.38   5005.85
+Podnožje prema dubini AS/KS ormara, 600x200mm, RAL 7022                              204.9   10   2049.00    512.25
+EUTRAC T-spoj desna, bb                                                             437.43   18   7873.74   1968.43
+Fluokompaktna žarulja TC-L 36W/830 2G11                                              40.18   21    843.78    210.95
+L-SE raster LB T8 R2 2x58W bijele boje                                              167.85   17   2853.45    713.36
+
+                                                                                                         ----------
+UKUPNO                                                                                                    328615.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

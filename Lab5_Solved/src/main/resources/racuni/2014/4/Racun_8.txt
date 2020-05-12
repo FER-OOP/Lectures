@@ -1,0 +1,25 @@
+Račun br. 604540
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+KNX Kombi-aktor roleta 4 kanala                                                    2320.67    7  16244.69   4061.17
+MINI ALU TRACK LED SPOT 1W, tople bb LED, krom kućište                              374.92   28  10497.76   2624.44
+Završni poklopac TBF ravi s rupom za prolaz kabela                                   50.26    2    100.52     25.13
+PIPOFLEX zidna svj., crna b., 4W, 3000K                                             437.43    9   3936.87    984.22
+COB LED MODUL za AIXLIGHT PRO montažni okvir, 12°,srebrne b.                          8570    2  17140.00   4285.00
+SAT prozorski uvod,prozirna folija,2xF-ž.konektor,25cm                               55.98    4    223.92     55.98
+"Opt. razdjelnik, 4 niti,ST,50/125µm OM2, izvlačivi,19"",1U"                        681.91   12   8182.92   2045.73
+SERH ECO A3 L2 T5 4x14W EVG M625, bijela b.                                         479.37    4   1917.48    479.37
+41022/W,  ZAVRŠNI POKROV, bijele boje                                                 3.37   22     74.14     18.53
+Serijski ormar AS, 1-vrata, 1800x1000x600 (VxŠxD), RAL 7035                        4415.38    5  22076.90   5519.22
+50 hlače, vodo-otporne, sa puno džepova                                             320.04    1    320.04     80.01
+NV rastavna sklopka vel.000|125A, 3P, stez. 50mm²,na ploču                          267.17    8   2137.36    534.34
+Podnožje, pred./zadnji pokrov, Š=600 za DS/DSZ/DSS/DSP                               65.63   20   1312.60    328.15
+
+                                                                                                         ----------
+UKUPNO                                                                                                      84165.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

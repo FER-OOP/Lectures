@@ -1,0 +1,29 @@
+Račun br. 603905
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Bezhal. sign. kabel HSLCH-JZ 5x1 FRNC H-F sivi/žila crna                             10000    3  30000.00   7500.00
+Zaštitni pokrov za duple tipke                                                       14.73   21    309.33     77.33
+Podes. LINUX LIGHT stropni držač, srebrne boje                                       187.2   24   4492.80   1123.20
+Nadgradna svjetiljka SARM 2 1x35W ECG, bijela                                        388.3   20   7766.00   1941.50
+Perforirana bočna str. za DS/DSZ ormare, 45U, D=1000                                785.99   18  14147.82   3536.96
+Grebenasta sklopka, 1-2/2P/20A,na vrata,centralno učvršćenje                        285.44    4   1141.76    285.44
+MEDO PRO 40 stropna svjetiljka, okrugla, srebrna b., T5 40W                        1250.97    3   3752.91    938.23
+Meiva-S/A2 2x50W GU5,3 MR16, 12V, IP20, aluminij                                     106.1    3    318.30     79.57
+LED GU10 5W, 40°, 4000K                                                             155.78   25   3894.50    973.63
+Nadgradna ind. svjetiljka SBOX AB 1x150W,HS/HI,E40,EB, IP65                        1238.45   28  34676.60   8669.15
+Zaštitni prekidač, B karakteristika, 32A, 2-polni, 6kA                               65.28    2    130.56     32.64
+BNC konektor za krimpanje                                                             4690   17  79730.00  19932.50
+Bezhalogeni kabel s el. funkc. do90 Min. (N)HXH-J5x25rmE90                        17252.57   11 189778.28  47444.57
+61016A/W, Sjenilo bijele boje za 61016                                              322.54   11   3547.94    886.98
+Višežični PVC-om izolirani vodič H07V-R (P/M) 185mm2, crni                           10000   22 220000.00  55000.00
+PHO zidna svjetiljka, 3W LED, 3000K, bijele boje                                    437.43   20   8748.60   2187.15
+Označne pločice '201-250', Dekafix DY5 (sadrži 50 oznaka)                             8.45   29    245.05     61.26
+
+                                                                                                         ----------
+UKUPNO                                                                                                     602680.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

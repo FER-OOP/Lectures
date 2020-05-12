@@ -1,0 +1,15 @@
+Račun br. 991998
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zaštitni prekidač MB 15kA BT 32/3                                                   458.97   19   8720.43   2180.11
+MODUL CONNECT izolirano tijelo sabirnice, 4P (za ISS90916--)                         53.65   26   1394.90    348.73
+Signalni fleksibilni kabel YSLY-JZ 21x0,5 sivi                                     1748.73    5   8743.65   2185.91
+
+                                                                                                         ----------
+UKUPNO                                                                                                     18858.98
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

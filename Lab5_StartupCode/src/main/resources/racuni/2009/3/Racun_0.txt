@@ -1,0 +1,23 @@
+Račun br. 340238
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+FI-blok 40A, 3-polni, 30mA, Tip AC                                                    4290   19  81510.00  20377.50
+Univer. opt.  kabel U-DQ(ZN)BH 12x9µm OS2, nm.                                      716.59   30  21497.70   5374.43
+Pomoćni sklopnik 4P | 12A | 230V AC | 4N/O                                          131.22   30   3936.60    984.15
+7610, 100w R7s 220v-240v                                                              7.94   19    150.86     37.72
+Sticker Bones, bijele boje                                                           80.76    3    242.28     60.57
+Optički završetak ST, 50/125µm OM3, 2.0m (4 kom.)                                    76.92   27   2076.84    519.21
+Bakrena sabirnica,TT profil, 1250A, duljina 3.6m,pokositrena                        3171.7   17  53918.90  13479.72
+Plafonjera RKL 2 1x60 E27 IP40 bijela                                               125.66   14   1759.24    439.81
+UPS Power Dialog Plus 6000VA / 4200W                                               21625.3    5 108126.50  27031.63
+Polo majica siva -S-                                                                 95.66   24   2295.84    573.96
+Spiralni kanal VF40, fi=40mm, duljina 500mm                                           73.7    4    294.80     73.70
+
+                                                                                                         ----------
+UKUPNO                                                                                                     275809.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

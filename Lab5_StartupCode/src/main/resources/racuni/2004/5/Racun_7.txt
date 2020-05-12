@@ -1,0 +1,17 @@
+Račun br. 755707
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"Zidni kom. ormar DW, bočne stranice, 600x770x495, 19"", 15U"                      1275.59   19  24236.21   6059.05
+Bezhalogeni kabel s el. funkc. do90 Min. (N)HXCH4x10re/10E90                         10000   26 260000.00  65000.00
+BK koaks. presp. kabel IEC-m/IEC-ž,ravni,kl.A,bijeli,2.5m                             17.9   18    322.20     80.55
+Maria-CL-R LED 6x1W 6000K, IP54, sive boje                                          165.74    1    165.74     41.44
+89113/ELE, 1x13w PL elektronska prigušnica                                           53.56   25   1339.00    334.75
+
+                                                                                                         ----------
+UKUPNO                                                                                                    286063.16
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

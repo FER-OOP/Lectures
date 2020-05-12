@@ -1,0 +1,33 @@
+Račun br. 996593
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Osigurač EZIII/63A                                                                    7.06   16    112.96     28.24
+Pozivno tipkalo za monitor, umetak, 24V DC, max. 20mA                                 2104   27  56808.00  14202.00
+Podnožje prema dubini AS/KS ormara, 600x200mm, RAL 7022                              204.9    1    204.90     51.23
+Zaštitni prekidač, B karakteristika, 40A, 4-polni, 6kA                              144.59   12   1735.08    433.77
+Rozeta, 10,3cm x 22cm x 5,1cm, bijele boje                                           93.26    1     93.26     23.32
+PIPOFLEX zidna svj., crna b., 4W, 3000K                                             437.43   13   5686.59   1421.65
+Grebenasta sklopka u kućištu, uvodnica M20, 1-0-2/1P/16A                            246.94   16   3951.04    987.76
+Poliester kućište 190x190x100mm sivo - A                                            225.87   23   5195.01   1298.75
+Fluokompaktna žarulja TC-D 18W/827 G24D-2                                            27.45    9    247.05     61.76
+FIN XS Pole 30 4W LED 4000°K, 300lm, antracit                                      1999.54   29  57986.66  14496.66
+UPS Premium Dual ER 2200VA 1760W 0 min.1/1-fazni/Online                            8889.75   14 124456.50  31114.12
+Sklopnik vel. 00 | 3kW (7A) [AC-3] | 24VDC | 1 N/O                                  116.88    3    350.64     87.66
+Završni poklopac profila MFR četvrtasti sa vijcima                                    50.2   11    552.20    138.05
+MD 120 nazidni senzor pokreta, 500VA, 120° IP44, crni                               300.28    2    600.56    150.14
+Pokrov za antensku utičnicu HSAT…, 4 otvora, bijeli                                    8.9   23    204.70     51.17
+Razvodna kutija, nadžbukna, 75x75x40mm, membrane, IP54, siva                        859.41    8   6875.28   1718.82
+Kabel H05VVC4V5-K 7x2,5 sivi                                                         10000    5  50000.00  12500.00
+Jednožični PVC-om izolirani vodič H05V-U (P) 1mm2, žuti                              10000   28 280000.00  70000.00
+Aline-R LED 25W 3000K 1875lm, IP54, bijele boje                                     527.66   30  15829.80   3957.45
+Vremenski relej, kašnjenje ukl./iskl.,24-240VAC/DC, 1 C/O,8A                        199.08   24   4777.92   1194.48
+Ugradna svjetiljka SERM 2 A8 L1 T5 2x35W, ECG, bijela                                 8534   15 128010.00  32002.50
+
+                                                                                                         ----------
+UKUPNO                                                                                                     743678.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

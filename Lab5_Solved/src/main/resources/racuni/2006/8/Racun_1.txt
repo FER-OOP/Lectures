@@ -1,0 +1,22 @@
+Račun br. 535286
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"Natpisna pločica, ""CLOSE"", 17.5 x 28mm, natična"                                   8.13    8     65.04     16.26
+7308G/D/45, LED 7w GU10 DL 45 °                                                      47.47    2     94.94     23.74
+Panik svjetiljka QG FLUO 18W, CPS sustav, MIX, pikto., zidna                       1123.64   22  24720.08   6180.02
+Sklopnik 3P |250kW (450A) [AC3] / 600A [AC1]|230V AC/DC| 2+2                       7974.04   17 135558.69  33889.67
+7305BG/C/50, LED 5w CW GU10 50 ° 220-240v                                            58.12    7    406.84    101.71
+Pomoćni kontakt, normal, 1 C/O, za MZ                                                31.91    3     95.73     23.93
+Poluvodički motorni kontroler 200-400V/140A bez zaštite                               4701   24 112824.00  28206.00
+FID modul za MC1, 4P, 300mA, tip A, ugradnja desno                                 1697.93    8  13583.44   3395.86
+Voltmetar, 72x72mm, 300V AC                                                         109.72    1    109.72     27.43
+Okvir 4M line, smaragdni                                                             79.87   13   1038.31    259.58
+
+                                                                                                         ----------
+UKUPNO                                                                                                    288496.78
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

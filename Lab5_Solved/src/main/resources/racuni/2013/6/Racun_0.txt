@@ -1,0 +1,32 @@
+Račun br. 298857
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Grebenasta sklopka u kućištu, uvodnica M20, 0-1/1P/16A                              218.15   23   5017.45   1254.36
+Nazidna utičnica sa zaštitom za djecu, bijela, 16A ,IP44                             81.01   22   1782.22    445.56
+"Natpisna pločica, ""›"", 12.5 x 27mm, samoljepljiva"                                 8.13   17    138.21     34.55
+Cilindrični osigurač, 22x58, 63A, gG, 500V AC                                        11.62   29    336.98     84.25
+Finožični PVC-om izolirani vodič H07V-K (P/F) 1,5mm2, žuti                          121.44   23   2793.12    698.28
+LS-FI (KZS), B/6A/30mA, 1P+N, Tip AC, 10kA                                          309.93    9   2789.37    697.34
+"Optički prespojni panel 19"", 1U, uklj. 24 spojnice SC MM"                         994.54   28  27847.12   6961.78
+Strujni trafo 200/5, 1.5VA, class 1, za SI337010...020...030                          4833   27 130491.00  32622.75
+7912/AL, Aluminijski profil  2m + PC opalni pokrov                                  403.13   11   4434.43   1108.61
+Cilindrični osigurač, 10x38, 16A, gG, 500V AC                                         2.91   30     87.30     21.83
+Potporni izolator, 35x30mm, 2xM6, 4.5kN                                              12.11   18    217.98     54.50
+Nadgradna svjetiljka SARS 2 ECO T8 1x18W ECG, bijela                                231.77   23   5330.71   1332.68
+MARINE IP 44 Transformator, 12V, 60VA                                               219.47   22   4828.34   1207.08
+Podnožje prema dubini ASR/KSR ormara, 500x100mm, AISI304                              4056    4  16224.00   4056.00
+LED GX53 žarulja, 7.5W, 450lm, 6 SMD LED, 25°, 3000K                                302.94    3    908.82    227.20
+Bezhalogeni instalacijski kabel JE-H(ST)H 2x2x0,8 E90 nar.                           10000   22 220000.00  55000.00
+Vodotijesna svj. Dewy LED, 45W, 4000K, 4000lm, IP65, siva                           563.48   30  16904.40   4226.10
+SNR relej, komplet 1 C/O, 6A, 24VDC                                                  100.4   25   2510.00    627.50
+RY relej, 1C/O, 8A, 24VDC, raster 3,2mm                                              22.19   30    665.70    166.43
+NEW MYRA WALL LED zidna svj., srebrna b., 5W, 3000K, IP55                           938.06   24  22513.44   5628.36
+
+                                                                                                         ----------
+UKUPNO                                                                                                     465820.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

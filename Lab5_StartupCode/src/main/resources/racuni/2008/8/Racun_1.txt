@@ -1,0 +1,28 @@
+Račun br. 177345
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+D02 rastavna sklopka CORON 2, 3-polna, 25A fiksno                                   305.14   24   7323.36   1830.84
+Vijci + tuljci za stezaljku DAS4                                                      1.31   17     22.27      5.57
+Ugradna svjetiljka SELENA OP LED 39W M625 4150lm/830 ECG,bb                         908.49   27  24529.23   6132.31
+Relej, 1 C/O, 12-240V AC/DC, montaža na DIN nosač                                   193.26   28   5411.28   1352.82
+Fluokompaktna žarulja TC-S 11W 840 G23 OS                                             19.7   21    413.70    103.43
+"19"" fiksna polica do maks. 150kg, d=650mm, 1U, RAL7035"                           242.04    4    968.16    242.04
+Luksomat, bežični                                                                   312.23   20   6244.60   1561.15
+Instal. umetak 1-24K komplet 8 IR prednja pl. čelik                                1317.58    5   6587.90   1646.97
+Linijska svj. SERM-LF 112, početni profil,  2x49W, ECG, bb                          591.22   23  13598.06   3399.51
+Prespojni kabel RJ45 cat.6 neoklopljen, PVC, plavi, 1.0m                                 9    1      9.00      2.25
+Elektronska prigušnica ECG QT-M 1x26-42W                                            100.52    9    904.68    226.17
+Rita-R/A2 LED 30W 3000K 2100lm, IP20, bijele boje                                   732.94   20  14658.80   3664.70
+Aluminijski profil SLR, D-2000mm Š-60mm V-50mm                                       293.2   13   3811.60    952.90
+Nadgradna svjetiljka SARH 2 ECO T5 4x14W ECG, bijela                                341.91   25   8547.75   2136.94
+Zaštitni prekidač, C karakteristika, 50A, 3-polni, 6kA                              191.04   22   4202.88   1050.72
+Označne pločice 'L', (pločica sa 100 oznaka)                                         15.17   22    333.74     83.43
+
+                                                                                                         ----------
+UKUPNO                                                                                                    97567.016
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

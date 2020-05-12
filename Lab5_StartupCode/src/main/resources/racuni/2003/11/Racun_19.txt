@@ -1,0 +1,18 @@
+Račun br. 570736
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ovjesna svjetiljka OFFICE ECO DIR/IND PAR 1x28W ECG, siva                           480.92   26  12503.92   3125.98
+AIXLIGHT PRO FLAT okr.FRAME 1 ugradno kućište, mat-bb                               218.46    2    436.92    109.23
+Priključna sabirnica, viličasta, 10mm²/4P, 32 modula                                  4230   27 114210.00  28552.50
+Halogena žarulja, grlo GU5,3, 20W, 38°                                                3.21   24     77.04     19.26
+ADJUST okr. QRB,podni ugradni refl. sa okruglim inox pokr.                          1370.6   28  38376.80   9594.20
+Glenos završni pokrov za PROFILE 2020, crne boje, 2 kom                              62.51   11    687.61    171.90
+
+                                                                                                         ----------
+UKUPNO                                                                                                     166292.3
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

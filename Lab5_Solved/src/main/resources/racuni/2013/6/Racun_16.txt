@@ -1,0 +1,33 @@
+Račun br. 291518
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+7902R/AL, Aluminijski ugradni profil 2m + PC opalni pokrov                          146.65   18   2639.70    659.92
+PVC-om izol.kabel za srednja meh.opt. YMS -J 5x6 crni                                10000   15 150000.00  37500.00
+Optički prespojni kabel duplex SC/SC, 50/125µm OM4, 2.0m                            111.67    4    446.68    111.67
+DIAZED vijčana kapa, DII (E27), 25A / 500V, porculanska                               6.18   21    129.78     32.44
+Halogena žarulja QR-LP 111 ECO 35W FL 24° G53                                        98.51   12   1182.12    295.53
+Samourezni vijci M6 (pak.=250 kom.)                                                  177.4   16   2838.40    709.60
+Optička spojnica SC SX,MM,plastična,s prirubnicom,bež,ECO                              6.3    4     25.20      6.30
+Signalni fleksibilni kabel YSLY-JZ 4x1,5                                             10000    6  60000.00  15000.00
+PROTECTOR K nazidna kutija visine 27mm, bijela                                       34.79   28    974.12    243.53
+Kondenzatorska baterija 12,5 kVAr(400V) za prigušnice 7%                            770.45   11   8474.95   2118.74
+Podnaponski isklopnik za MC1, 24V AC, sa 3m kabela                                  383.83   22   8444.26   2111.06
+Montažna ploča za AS/KS ormare, 1800x600mm (VxŠ)                                    586.13   23  13480.99   3370.25
+Tipka za sklopke ili tipkala, bijela                                                 10.62    7     74.34     18.58
+Luka-R LED 1W, dimabilna, 350mA, IP20, aluminij                                      58.62    2    117.24     29.31
+Bimetalni relej, područje podešenja 2.7-4A                                          160.45   26   4171.70   1042.92
+Zaštitni prekidač, B karakteristika, 63A, 3-polni+N, 10kA                           383.84   19   7292.96   1823.24
+NV osigurač vel. 00, 63A/400V AC                                                     19.92    1     19.92      4.98
+Voltmetar/Ampermetar, digitalni, 0-500V AC, trafo.../5A                             709.62    7   4967.34   1241.83
+Sphinx 331 S KNX, senzor pokreta, 1 kanal, ugr., stropni                            1222.5   26  31785.00   7946.25
+Joystick, komplet,2 položaja sa po 1 N/O,bez povrata, vodor.                         229.1    4    916.40    229.10
+Izolir traka, ljubičasta, 15mm x 10m - COROPLAST                                      5.69    7     39.83      9.96
+
+                                                                                                         ----------
+UKUPNO                                                                                                    298020.97
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

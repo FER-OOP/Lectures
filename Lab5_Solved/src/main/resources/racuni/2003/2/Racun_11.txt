@@ -1,0 +1,18 @@
+Račun br. 326799
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Sklopni element za montažu na dno kućišta, N/O, utične                               19.18   21    402.78    100.69
+"Opt. razdjelnik,12 niti, ST,50/125µm OM2, izvlačivi,19"",1U"                       969.57   10   9695.70   2423.93
+Plastična brava za TYTAN II                                                          24.55   16    392.80     98.20
+Industrijska utičnica, 5 polna, 32A, IP44, ugradna, kosa                            106.38   17   1808.46    452.12
+Ugradna svjetiljka SERS 2 ECO T8 4x18W ECG M600, bijela                             260.47   24   6251.28   1562.82
+Motorna zaštitna sklopka, 3-polna | 0.16 - 0.25A                                    197.29   19   3748.51    937.13
+
+                                                                                                         ----------
+UKUPNO                                                                                                     22299.53
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,33 @@
+Račun br. 115224
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Josh-S LED 1,6W, IP54, nehrđajući čelik                                             183.15   29   5311.35   1327.84
+KALU TRACK QRB111 SPOT, crna b., QRB111, max. 50W                                   750.35   13   9754.55   2438.64
+LOGICOM krović za P/Ž kućišta, 6 modula                                            1175.34   29  34084.86   8521.21
+Utičnica, 16A, umetak, na vijak, crvena                                               2121   30  63630.00  15907.50
+Set zaštitnih pokrova (dugi) za stezaljke, za 3-polne MZ3                           140.66   20   2813.20    703.30
+ARTE 300 Trafo, krom                                                               1746.03   27  47142.81  11785.70
+LED napajanje, 36W, 24V                                                             449.26   24  10782.24   2695.56
+Sklopnik vel. 0 | 5,5kW (12A) [AC-3] | 24VAC, 50Hz                                  116.64    4    466.56    116.64
+Kompaktni prekidač snage tip M, 3P/63A/25kA, MC1                                    779.37   19  14808.03   3702.01
+Stražnja ploča za nazidni Modul 2000 | 3R-33                                        280.78    4   1123.12    280.78
+"Ručno tipkalo ""Comfort"", bijelo, kabel duljine 2m"                               419.22   10   4192.20   1048.05
+Podno ugradno kućište za TRAIL 650mm                                               1059.57   29  30727.53   7681.88
+Zaštitni prekidač, B karakteristika, 6A, 1-polni, 6kA                                25.68   19    487.92    121.98
+LED ES111, CREE XB-D LED, 17W, 30°, 2700K, d                                         508.4    7   3558.80    889.70
+Relej, 2 C/O, 12-240V AC/DC, montaža na DIN nosač                                   278.15   24   6675.60   1668.90
+Alexa-I-25-R 15W E27, 100-240V, IP54, aluminij                                      782.28   28  21903.84   5475.96
+Tris-I-Q/A1 LED 3x1W 6000K 180lm,dim.,350mA,IP20,bijele b.                           43.59   19    828.21    207.05
+DIO Podes. PLUG, GX53, krom                                                         312.23   26   8117.98   2029.49
+Nap.stezaljka za LINUX LIGHT, srebrne boje                                          218.46   13   2839.98    709.99
+COLOR CONTROL zidni panel, ugr./ngr. montaža, 12V/24V                               562.63   13   7314.19   1828.55
+Grebenasta sklopka u kućištu, 0-1/2P/20A, IP40                                      146.34   29   4243.86   1060.96
+
+                                                                                                         ----------
+UKUPNO                                                                                                    280806.84
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

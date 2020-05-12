@@ -1,0 +1,19 @@
+Račun br. 304993
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Dingo-R LED 5W 3000K 350lm, IP53, sive boje                                         145.81   18   2624.58    656.15
+Elektronska prigušnica ECG QTi DALI 1x18/220-240 DALI dim                           312.75   12   3753.00    938.25
+Okomita vodilica kabela za DS/DSZ/DSI ormare 27U                                    195.71   16   3131.36    782.84
+FIN XS Pole 30 2x4W LED 3000°K, 600lm, antracit                                    3024.84   24  72596.16  18149.04
+D02 rastavna sklopka ARROW S, 3-polna, 25A                                          275.53   19   5235.07   1308.77
+7838E, Završni pokrov za 7838 (2kom)                                                 43.92   12    527.04    131.76
+Sabirnica, 3P, viličasta, 10mm² (63A)|korak 18mm| 202mm                              89.67   25   2241.75    560.44
+
+                                                                                                         ----------
+UKUPNO                                                                                                     90108.96
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

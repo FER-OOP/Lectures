@@ -1,0 +1,20 @@
+Račun br. 196645
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"19"" montažni profil visine 38U (za AS ormare visine 1800mm)"                        4067   28 113876.00  28469.00
+ROX PATH LIGHT samost. svj., brušeni aluminij                                      1871.23   27  50523.21  12630.80
+Luxa 102-140, LED sa senz., 8W, 6000K, zidna, IP44, crna                            623.66   10   6236.60   1559.15
+Elektr. prigušnica ECG QTi DALI T/E 1x26/230-240 DALI dim                           284.82   10   2848.20    712.05
+Izolirani kabelski tuljak, crveni, 10.0mm²/18mm                                       0.39   18      7.02      1.75
+GIOTTO'S izolirana spojnica za uže, krom, 2 kom.                                     99.51   11   1094.61    273.65
+Niskonaponsko grlo, G4-6,35 sa 15cm kabela                                            12.5   18    225.00     56.25
+PRIORI FID sklopka 63-4-03/A, S izvedba                                            1501.15    7  10508.05   2627.01
+
+                                                                                                         ----------
+UKUPNO                                                                                                    185318.69
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

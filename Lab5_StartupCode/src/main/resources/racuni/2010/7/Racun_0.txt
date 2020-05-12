@@ -1,0 +1,32 @@
+Račun br. 701087
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Podnožje S-Releja Serije 4, 14-pinsko, 6A, montaža na DIN                             21.3   13    276.90     69.22
+Linda LED 1x24W EM 1h, 4000K, 3296lm                                               2065.99   14  28923.86   7230.96
+Eliot-II-Q LED 1,6W, IP54, sive boje                                                 77.21    3    231.63     57.91
+Pokrov lučne komore za MO1, 3-polni (tvornički ugrađen)                               4970    9  44730.00  11182.50
+Kompaktni prekidač snage tip ME, 3P, 50kA, 1400A                                  23635.48    9 212719.33  53179.84
+Elektronska prigušnica za CDM 70W                                                   374.92   14   5248.88   1312.22
+ADEGAN podna svj.,bijela, E27 štedna žarulja,max. 24W,IP54                         2058.94    6  12353.64   3088.41
+3f reflektor VITO DC LED 38W 3400lm/840 40°, crne boje                             1470.55    6   8823.30   2205.83
+Potporni izolator visine 40mm, obostrano s maticom M8, 2kV                           33.92    5    169.60     42.40
+N/Ž inst. razdj. 2A-42, 14-redni, 294 ŠM, 2025x590x250mm                           4991.17    9  44920.53  11230.13
+Panik svjet. KD Wireless sa aku.bat LED 8h 230VAC , univ.                          1458.77    5   7293.85   1823.46
+Ovjesni pribor za TRAIL svjetiljke, duljina = 1,5m                                  974.09   10   9740.90   2435.23
+T8-LED, 18W, 4000K, G13, 1200mm                                                     374.92   13   4873.96   1218.49
+Metalno podnožje za poliester ormare, nisko, 50x480x284(VŠD)                        800.26   30  24007.80   6001.95
+LIGHT EYE MR16 Spot za LINUX LIGHT, krom                                            437.43   26  11373.18   2843.29
+Kabel H05VV-F (PP/J) 3x0,75mm2, svijetlo-sivi, 100m                                  10000    9  90000.00  22500.00
+Fluokompaktna žarulja TC-Tel 26W 840 Gx24Q-3                                         28.07    3     84.21     21.05
+FlexLED Roll, bijele b., 5m, 60LED/m, DC 24V                                        500.12    3   1500.36    375.09
+Signalna svjetiljka, glatka leća, crvena                                             19.35   17    328.95     82.24
+U/UTP inst. kabel cat.5e, 4x2xAWG24/1, PVC,plavi,kutija 305m                        173.09    1    173.09     43.27
+
+                                                                                                         ----------
+UKUPNO                                                                                                     507774.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

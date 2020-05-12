@@ -1,0 +1,24 @@
+Račun br. 1042841
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+PERFORMANCE LINE RJ45 modul oklop., kl. Ea 10GB PoE+, 24kom                            546    2   1092.00    273.00
+Kućište sa glavnom skl. za MZS tip BE5,crno/siva ručica,IP54                         88.61   22   1949.42    487.35
+Push pull presp. kabel RJ45 STP cat.6a 10GB LS0H sivi 5.0m                           80.34    5    401.70    100.42
+Viano-II-R/A1 LED 6x1W 6000K 360lm,dim.,350mA,IP20,crne b.                          119.28   17   2027.76    506.94
+Clara-II-SC LED 2x3W 3000K 2x210lm, IP54, antracit                                  344.67   23   7927.41   1981.85
+Sklopnik 3P |7.5kW (18A) [AC3] / 32A [AC1] | 24V DC | 1N/C                          288.71    3    866.13    216.53
+Iris-R 55W 2GX13, 230V, IP20, sive boje,prsten ljubičaste b.                        298.38    8   2387.04    596.76
+Luxa 102-140, LED sa senz., 8W, 6000K, zidna, IP44, crna                            623.66    1    623.66    155.91
+Ina-R/A2 LED 50W 3000K 3950lm, IP20, bijele boje                                    941.44    2   1882.88    470.72
+KADUX 1 ES111 Downlight, četvrtasti, bijele boje, max. 50W                          500.12   16   8001.92   2000.48
+ALPA CONE 100 samostojeća svjetiljka, kameno siva                                   938.06    5   4690.30   1172.57
+A03VV-F 3x1mm2, crni, 50m kolut                                                      10000   13 130000.00  32500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    161850.22
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

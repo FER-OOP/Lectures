@@ -1,0 +1,32 @@
+Račun br. 880908
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+NEW TRIA LED DL okrugli Set, 25W, 3000K, 30°, crne boje                            1307.91    7   9155.37   2288.84
+Motorna zaštitna sklopka, 3-polna | 16 - 25A                                        204.98   22   4509.56   1127.39
+9G09S/D/SE, 9W E14 DL                                                                 3.71    7     25.97      6.49
+Optički prespojni kabel duplex SC/FC, 62,5/125µm OM1, 5.0m                           74.25   29   2153.25    538.31
+Linijska svj. SERM 112 1x80W, ECG, bijele boje                                      554.45    9   4990.05   1247.51
+MEDO 60 stropna svjetiljka, četvrt., bijele b., 4x T5 24W                          2184.14    4   8736.56   2184.14
+Dekorativni pokrov za KALOS svjetiljku sa 4 kraka, antracit                         418.86    1    418.86    104.72
+Pokrov elektronske sklopke za rolete, antracit                                       295.9   21   6213.90   1553.47
+ENOLA_C OUT CL stropna svj.,okr.,bijele b.,9W LED,3000K,35°                        1125.94    8   9007.52   2251.88
+Softshell jakna -M-                                                                 595.37   15   8930.55   2232.64
+ACCANTO LEDspot, zidna svjetiljka,cr.b.,E27, LED tople bi.b.                        938.06    7   6566.42   1641.60
+Zaštitni prekidač AMPARO 6kA, B 20A, 3P+N                                            98.25    3    294.75     73.69
+Gumeni savitljivi kabel NSSHöu-O 1x150, žuti                                         10000   19 190000.00  47500.00
+Video KIT u boji za 1-4 stana, QUADRA/MINI HANDSFREE                               3673.63   29 106535.27  26633.82
+Linijska svj. SERH 220 ASY 1x28W, ECG, bijele boje                                  341.91   30  10257.30   2564.32
+Grebenasta sklopka, 1-2-3/1P/10A, na vrata                                          225.88    7   1581.16    395.29
+Mini-Lynx, 15W, 4000K, E27                                                           62.51    7    437.57    109.39
+Bat. Ormar za SPM/SPH, 20x40Ah, bez punjača baterija, za ER                       32454.51   13 421908.63 105477.16
+Hands-free audio jedinica EASYCOM za VIP, crna                                      925.53   25  23138.25   5784.56
+Vodotijesna svjetiljka DEVA ECO PC 2x36W ECG                                        239.68    9   2157.12    539.28
+
+                                                                                                         ----------
+UKUPNO                                                                                                     817018.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

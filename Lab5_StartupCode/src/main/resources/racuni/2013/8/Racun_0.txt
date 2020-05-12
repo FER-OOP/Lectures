@@ -1,0 +1,17 @@
+Račun br. 722982
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ulična svjetiljka Oyster 3 HST 250W SC2 230V                                       2250.39   13  29255.07   7313.77
+Montažna ploča 265x215x1.5mm, pocinčani čelični lim                                   4130   22  90860.00  22715.00
+SQUARE DICE, 1xGU10                                                                 374.92    5   1874.60    468.65
+LED žarulja Classic Opal 10,5W E27 Dimmable 810lm 2800K                             226.03   25   5650.75   1412.69
+Kondenzatorska baterija 10,3 kVAr(400V)                                              507.9   21  10665.90   2666.47
+
+                                                                                                         ----------
+UKUPNO                                                                                                    138306.33
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,20 @@
+Račun br. 341876
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kompaktna sabirnica 4P, 1xFID 4P,1xSI 3P,5xSI 1+N, 12 modula                         87.37   29   2533.73    633.43
+FID sklopka 63-4-01/B, za sve oblike diferencijalne struje                         6923.23   21 145387.83  36346.96
+Optička spojnica SC dx, plast., met. košuljica, MM                                    19.9    8    159.20     39.80
+Samostojeća svjetiljka SVO TC-L 4x55W senzor + dim                                 6314.81   30 189444.30  47361.07
+Pierce-II-R/A2 50W GU10 AR111, 100-240V, IP20, crne boje                            205.28   29   5953.12   1488.28
+FID sklopka 80-4-03/A (puls)                                                        735.09   10   7350.90   1837.73
+Kabel LiYCY 14x0,25                                                                  10000   18 180000.00  45000.00
+Kabel LiYCY 16x0,34                                                                  10000   26 260000.00  65000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     790829.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

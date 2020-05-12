@@ -1,0 +1,16 @@
+Račun br. 709828
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"SMART monitor 3,5"", bijeli, VIP"                                                 3217.13   20  64342.60  16085.65
+Metalhalogena žarulja, 20W G8,5 COOL WHITE CERAMIC                                   16.05   16    256.80     64.20
+Prednja ploča, plastična, slijepa, 3B3K                                               4063    8  32504.00   8126.00
+Paralelna spojnica (kratkospojnik) za 4 stezaljke SCB6                                 6.1   17    103.70     25.92
+
+                                                                                                         ----------
+UKUPNO                                                                                                      97207.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

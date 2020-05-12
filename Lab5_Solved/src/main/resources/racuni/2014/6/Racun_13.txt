@@ -1,0 +1,30 @@
+Račun br. 424524
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Audio vanjski panel, 6 tipki, sa PTT otvorom                                          4690   30 140700.00  35175.00
+Grebenasta sklopka u kućištu, uvodnica M20, 1-0-2/1P/16A                            246.94   10   2469.40    617.35
+Tess-R 2x26W G24q-3, 230V, IP20, brušeni krom                                        19.59    7    137.13     34.28
+Nazidno tipkalo, bijelo, 1 N/O, 10A, IP44, na vijak                                   2102   17  35734.00   8933.50
+Zaštitni prekidač AMPARO 6kA, B 20A, 3-polni                                         76.11    4    304.44     76.11
+PARA 380 reflektor, red, E27, max. 260W                                             813.03   15  12195.45   3048.86
+Završni poklopac SLR                                                                 50.26    4    201.04     50.26
+Zaštitni prekidač sa svojstvima rastavljača, C 100A, 1-polni                        223.75   23   5146.25   1286.56
+V-stezaljka VK160, 35-70mm²                                                          31.22   23    718.06    179.51
+Umetak termostata 1 N/C, sa ON/OFF sklopkom, 10(4)A, 250V AC                         632.6   30  18978.00   4744.50
+1-4 stana intercom KIT, QUADRA/MINI                                                3458.48   14  48418.72  12104.68
+"Samostojeći kom. ormar DSZ, rastavljiv,800x1970x1200,19"",42U"                    5293.33   23 121746.59  30436.65
+Ina-A 2 LED, 12W, 3000K, 730lm, 38°, dimm, IP20, bijela                             185.68   28   5199.04   1299.76
+3-fazna T-spojnica, siva                                                             108.3   16   1732.80    433.20
+Marra LED traka 14,4W/m 2700K 980lm/m, dimabilna, IP68                              364.61   29  10573.69   2643.42
+Zaštitni od dodira (dvodijelni pokrov) za NV podnožja vel.00                          4832   20  96640.00  24160.00
+Icarus-Q LED 2x3W 3000K 500lm, IP54, aluminij                                       629.88    7   4409.16   1102.29
+L-SE sjajni odsijač R12 T5 AL 35-80W široki, aluminij                                92.61   16   1481.76    370.44
+
+                                                                                                         ----------
+UKUPNO                                                                                                    506785.53
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

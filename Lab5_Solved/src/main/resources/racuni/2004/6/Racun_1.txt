@@ -1,0 +1,24 @@
+Račun br. 411408
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Prespojni kabel RJ45 cat.5e neoklopljen, PVC, crveni, 3.0m                           12.38    3     37.14      9.28
+Dodatno kvadratno kućište  tip B2 za svjetiljku  NLILD                              139.51   10   1395.10    348.77
+IBDN prespojni kabel RJ45 UTP cat.6A, plavi, 3.0m                                     6804   16 108864.00  27216.00
+Spojnica za savitljivu cijev M63, svijetlo siva, pak.8 kom.                        1120.66    3   3361.98    840.49
+Električna brava 24E (5-12V)                                                        535.59   27  14460.93   3615.23
+Pokrovna pločica za pokrov SI327500, potrebno 1 kom. po fazi                          4833   30 144990.00  36247.50
+APOLLO Zidni nosač 4 kom., bb                                                       115.26    5    576.30    144.07
+Zaštitni prekidač, B karakteristika, 10A, 2-polni, 10kA                              94.33   24   2263.92    565.98
+Ugradna svj. SELENA OP LED ECO 37W M625 3700lm/840 ECG,bb                           739.14   14  10347.96   2586.99
+Univerzalna stezaljka 1.5-16mm², za na sabirnice deblj. 5mm                           3.66   29    106.14     26.53
+Panik svjetiljka KS bijela Autotest LED/3W/3h 230VAC mont. u                       1326.66   30  39799.80   9949.95
+Svjetiljka SOLO 2x35W EVG                                                           156.22    6    937.32    234.33
+
+                                                                                                         ----------
+UKUPNO                                                                                                     327140.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

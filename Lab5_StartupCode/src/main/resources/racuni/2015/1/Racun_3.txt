@@ -1,0 +1,14 @@
+Račun br. 601408
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Aluminijski profil LBE, D-2000mm Š-25mm V-25mm                                       83.77   10    837.70    209.43
+Optički prespojni kabel duplex, LC/ST, 62,5/125µm OM1, 2m                            61.48   24   1475.52    368.88
+
+                                                                                                         ----------
+UKUPNO                                                                                                      2313.22
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

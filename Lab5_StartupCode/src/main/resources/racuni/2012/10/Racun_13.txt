@@ -1,0 +1,21 @@
+Račun br. 1050353
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Halogena žarulja QR-CBC51 WFL 50W ECO GU5,3 36°                                      34.44    3    103.32     25.83
+Pokrov podnožja IS504823--, 3-polni, širina 27mm                                      5.44   14     76.16     19.04
+Wieland konektor, muški, bijele boje, 3-polni                                        60.34   19   1146.46    286.61
+Teški gumeni kabel H07RN-F 4x25, crni                                             11930.46    2  23860.92   5965.23
+TRISTAN nadgradna svjetiljka T8, 36W CCG, bb                                        625.15   24  15003.60   3750.90
+Perforirana vrata s bravicom, za DW ormare 21U, Š=600                               461.38   21   9688.98   2422.25
+N/Ž okvir+vrata,serijski,1A-42,D400mm,str.pl.+zakr.ruč.,IP54                        4769.3   11  52462.30  13115.57
+Kabel LiYCY 12x0,34                                                                  10000   18 180000.00  45000.00
+Telekomunikacijski kabel vodonepropusan F-2YA2Y 6x2x0,8                              10000   29 290000.00  72500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    572341.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

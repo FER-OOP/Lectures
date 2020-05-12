@@ -1,0 +1,30 @@
+Račun br. 1015446
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+HORN MINI LED Downlight,okrugla bijela,LED toplo bijela 350m                         187.2   12   2246.40    561.60
+QUAD 1 XL LED zidna svjetiljka 3,2W 3000K, četvrtasta, antr.                        687.83   26  17883.58   4470.90
+PRIMOLUX LED 51W 5900lm/840 opal DALI IP44, dužine 1535mm,bb                       1378.29   21  28944.09   7236.02
+EURO CUBE Spot, 3000K, CRI90, 90°, uklj. 3F adapter, bb                            1433.11    4   5732.44   1433.11
+Luka-R LED 1/3W 3000K 190lm, dimmbar, 350/700mA, IP65, bb                           124.52    6    747.12    186.78
+Podnožje prema dubini AS/KS ormara, 500x100mm, RAL 7022                             109.97    6    659.82    164.96
+Zaštitni prekidač, C karakteristika, 20A, 4-polni, 10kA                             425.31    8   3402.48    850.62
+L-SE LSK 1.5 1x44W DEEP 6100lm 830 Dali, bijele boje                               1566.87    9  14101.83   3525.46
+SERH ECO A4 L2 T5 4x14W EVG M625, bijela b.                                           8534   10  85340.00  21335.00
+L-SE umetak DM 1.2 PAR-L 1x32W LED 2500lm/830                                      1629.85    7  11408.95   2852.24
+AFDD, series Lisa, C 16 A, 2-pole, 30 mA, type A, 10 kA                            1075.59   18  19360.62   4840.15
+Kompaktna sabirnica 4P, 3 x FID 4P,18 x LS 1+N auf 1TE                              164.25   18   2956.50    739.13
+Podnožje Vartec TII, 2+0 (2 x modul VVM), pomoćni kontakt                           207.62   18   3737.16    934.29
+Elektronska prigušnica ECG QTi 2x28/54/220-240                                      161.96    6    971.76    242.94
+Nadgradna svjetiljka SALENA LED 39W 4050lm/840 SLB ECG,bb                           831.55    9   7483.95   1870.99
+Signalni fleksibilni kabel YSLY-JB 4x50 sivi                                         10000   11 110000.00  27500.00
+VANDALCOM audio/video modul, bez tipki                                              452.76   21   9507.96   2376.99
+KNX Kombi-aktor roleta 4 kanala                                                    2320.67   27  62658.09  15664.52
+
+                                                                                                         ----------
+UKUPNO                                                                                                    387142.78
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

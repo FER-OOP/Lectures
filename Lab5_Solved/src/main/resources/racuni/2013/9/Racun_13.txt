@@ -1,0 +1,17 @@
+Račun br. 851085
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zaštitni prekidač, C karakteristika, 50A, 3-polni, 10kA                             199.61    5    998.05    249.51
+Ugradna svjetiljka SERH 2 A8 L2 T5 1x35W, ECG, bijela                                 8534    5  42670.00  10667.50
+Poklopac za RJ45 Toolless Line sa zaštitom od prašine, 1M, b                         11.81   26    307.06     76.76
+Svjetlosna sklopka sa integriranim senzorom, vanjska, IP55                          338.65   10   3386.50    846.63
+Prespojni kabel RJ45 cat.5e neoklopljen, PVC, crveni, 10.0m                          35.03   28    980.84    245.21
+
+                                                                                                         ----------
+UKUPNO                                                                                                     48342.45
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

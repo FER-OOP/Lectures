@@ -1,0 +1,26 @@
+Račun br. 654616
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Prenaponska zaštita 12V za Mono trake                                                126.9   28   3553.20    888.30
+VANDALCOM P/Ž kutija, 3 modula                                                      481.88   28  13492.64   3373.16
+Samostojeći ormar, 1-vrata, 1600x800x300 (VxŠxD), RAL 7035                         3934.15   12  47209.80  11802.45
+Priključna stezaljka 6-25mm², okomita, jezičasta                                     10.16    9     91.44     22.86
+Prozirna vrata, akril, za WSM6060xx, otvor: 459X443mm                               643.11    9   5787.99   1447.00
+Panik svjetiljka RX LED 3W, CPS sustav, MIX mod, univerzal                         1993.61    2   3987.22    996.80
+Prednja ploča, čelična, slijepa, 3B3                                                  4160   24  99840.00  24960.00
+ENOLA_C SPOT, okr., bijele b., 9W , 3000K, 55°, 1-f adapter                         938.06   23  21575.38   5393.85
+Prednja ploča, čelična, slijepa, 2B10                                                 4160   14  58240.00  14560.00
+Ormar plast.1000x500x312,krov protiv kiše,dno zat.,2 vrata,                           4142   25 103550.00  25887.50
+MINI ALU TRACK LED SPOT 1W, tople bb LED, krom kućište                              374.92    3   1124.76    281.19
+Pokrov stezaljki za LA301513 i LA301763                                              260.5    1    260.50     65.13
+Kućište, bez vrata, 1-redno, 12+1 modula, IP40                                       108.7   24   2608.80    652.20
+Levante-M 40 LED 94W 7930lm 3000K asim.,IP66,SKII,antracit                         5434.52    4  21738.08   5434.52
+
+                                                                                                         ----------
+UKUPNO                                                                                                     383059.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

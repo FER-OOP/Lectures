@@ -1,0 +1,23 @@
+Račun br. 813477
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+7510R/D/45, 10W 12v 45 ° LED AR111 DL G53                                            92.75   16   1484.00    371.00
+Bimetalni relej, područje podešenja 6-9A                                            166.79   25   4169.75   1042.44
+Sobni kontroler Conttouch, aluminij metalik                                        3664.58   13  47639.54  11909.88
+F/FTP inst. kabel cat.6a, 4x2xAWG23/1, 500MHz, LS0H, plavi                          386.73    1    386.73     96.68
+Tipka sa natp. poljem i simbolom svjetla, svjetleća, bijela                          56.66   15    849.90    212.48
+Aluminijska spojnica na prešanje sa Cu završetkom, 50mm²                              7031    2  14062.00   3515.50
+Kompaktni prekidač snage tip A, 4P/100A/50kA, MC1                                   1373.6    3   4120.80   1030.20
+AIR INDI Display svjetiljka, 7.6W LED, 3000K, bijele boje                           813.03   18  14634.54   3658.64
+Bezhalogeni jednožilni vodič H05Z-K 1mm2, ljubičasti                                 10000   23 230000.00  57500.00
+Prekidač, bežično upravljiv, za ugradne kutije, 200W Halogen                        374.92   18   6748.56   1687.14
+Nosač MO 3M s vijcima                                                                 4.22   18     75.96     18.99
+
+                                                                                                         ----------
+UKUPNO                                                                                                    324171.78
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

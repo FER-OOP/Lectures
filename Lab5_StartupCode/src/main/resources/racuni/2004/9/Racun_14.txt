@@ -1,0 +1,26 @@
+Račun br. 501228
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Panik svjetiljka KSW  LED, 230VAC,3h, bežična, stropna mont                        1702.27   18  30640.86   7660.21
+Kompaktni prekidač snage tip AE, 3P, 50kA, 630A+izvl. modul                       10525.21   15 157878.16  39469.54
+Postolje vel.00 H, S3/T, RAL7032                                                   2583.25    1   2583.25    645.81
+Pokrov za NV podnožje vel. 00                                                         4821   30 144630.00  36157.50
+Mikro reverz.sklopn.komb. Sa meh.blokadom 2,2kW, 24VDC/NO                            230.3    7   1612.10    403.02
+Metalhalogena žarulja 70W CDM-TD, WDL, Rx7s                                         249.72    4    998.88    249.72
+Rastavljač TYTAN R/3P za D02 i 10x38 osigurače 50A, za 60mm                         343.06   12   4116.72   1029.18
+"Opt. razdjelnik, 12 niti,LC,50/125µm OM3, izvlačivi,19"",1U"                       715.66    9   6440.94   1610.23
+Ampermetar, 48x48mm, 10A AC, direktno                                               131.62   12   1579.44    394.86
+Ampermetar, 96x96mm, AC, za strujni mjerni trafo …/5A                               108.75    6    652.50    163.13
+Okvir 1M line, plavi                                                                 24.38   25    609.50    152.38
+Magnetski plašt za prolazni trafo MC900140                                         1340.77   17  22793.09   5698.27
+TV-Module (PAL/NTSC) za VIP                                                        3089.09    7  21623.63   5405.91
+Fluokompaktna žarulja TC-L 36W/830 2G11                                              40.18   30   1205.40    301.35
+
+                                                                                                         ----------
+UKUPNO                                                                                                    397364.44
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

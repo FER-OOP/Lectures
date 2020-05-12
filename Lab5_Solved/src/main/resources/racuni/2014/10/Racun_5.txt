@@ -1,0 +1,22 @@
+Račun br. 965448
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kompenzacija  LSFC 7% 350/50kvar 800x2000x400mm Samost.orm.                       75953.67   292202656.50 550664.13
+Bijela fascikla Schrack sa mehanizmom                                                27.34    1     27.34      6.84
+D01 (Neozed) osigurač 10A, gL                                                         4.22   17     71.74     17.93
+Fluo cijev T5|T16 54W/830 G5                                                         42.35   18    762.30    190.57
+Nosač pločice, prazan, 30x50mm                                                        2.76   14     38.64      9.66
+L-SE stropni nosač SB                                                                 8529   13 110877.00  27719.25
+Kompaktni prekidač snage tip VE, 3P, 50kA, 250A                                    3234.54   10  32345.40   8086.35
+Maskirni razdjelnik 4 širine brojila/ 28 MV                                           4180   21  87780.00  21945.00
+Vezica 188 x 4.8mm, natural (pak.=100 kom.)                                          16.84   24    404.16    101.04
+Klizna matica M5 (100 kom.)                                                           4160   23  95680.00  23920.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    2530643.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,28 @@
+Račun br. 328283
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zaštitni prekidač, C karakteristika, 0.5A, 1-polni, 6kA                               4465    2   8930.00   2232.50
+NAUTILUS SPIKE LED KOMPAKT, 230V, tbb LED                                           449.94   27  12148.38   3037.09
+Ugradna svjetiljka SERM 2 A8 L2 T5 1x24W, ECG, bijela                                 8534   13 110942.00  27735.50
+3f reflektor VITO DC LED 30W 2500lm/830 ECG 20°,sive boje                          1278.14   25  31953.50   7988.38
+LED Test-modul 85-264V AC                                                            58.05    1     58.05     14.51
+Dihtung za IP65                                                                      90.57    9    815.13    203.78
+Okvir MO 2x7M soft, crni mat                                                          2434   13  31642.00   7910.50
+Nadgradna svjetiljka SARH 2 ECO T5 4x24W ECG, bijela                                364.25   10   3642.50    910.63
+Rezervno staklo za plafonjeru AURA 2                                                160.87   15   2413.05    603.26
+Zaštitni prekidač, C karakteristika, 4A, 1-polni+N, 6kA                              90.53   20   1810.60    452.65
+TRITON LED Downlight 6x3W, mat bb, LED tople bb                                     868.91    8   6951.28   1737.82
+Montažni komplet E1, 1-redni, 15 montažnih širina                                   345.83   24   8299.92   2074.98
+LIGHT EYE ovjesna svjetiljka GU10, max. 50W, zelene boje                            406.17   22   8935.74   2233.94
+"19"" vodilica kabela s 5 velikih prstena 70x40, 1U, RAL7035"                        71.13   28   1991.64    497.91
+Internet Controlstation                                                            1871.23   17  31810.91   7952.73
+Maskirni razdjelnik 2 širina brojila/ 24 MV                                           4180   18  75240.00  18810.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     337584.7
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

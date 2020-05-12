@@ -1,0 +1,20 @@
+Račun br. 230073
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+8107/W/2, 7W 2PIN WW                                                                  1.68   30     50.40     12.60
+7105BLG/W, G9 LED 5,5W WW 230V silikon                                                29.9   16    478.40    119.60
+Okvir viši s vratima i umetkom za KVH, 3-redni, 36+6 modula                          388.6   15   5829.00   1457.25
+Nadgradna svjetiljka SAP ECO T5 4x14W ECG, bijela                                   316.32   30   9489.60   2372.40
+Redna stez. (utični priklj.) 2.5mm², tip HTE.2, žuto/zelena                          13.74   13    178.62     44.65
+Podnožje za HSTMSVL240, visina 200mm                                               1198.66   25  29966.50   7491.63
+Ugradni downl. SEGON LED 20W DALI 1900lm/840 MAT IP44 70°,bb                        739.14   14  10347.96   2586.99
+Natpisna pločica za isklop u nuždi, 33x50mm, “Not-Aus”                               15.68    2     31.36      7.84
+
+                                                                                                         ----------
+UKUPNO                                                                                                     56371.84
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

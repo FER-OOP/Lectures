@@ -1,0 +1,20 @@
+Račun br. 530190
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+89142/ELE, 1x26w/1x32w/1x42w PL el.prigušnica                                        39.36   30   1180.80    295.20
+Poluvodički mot.kontroler 200-440V/42A sa bypass i zaštitom                           4701   12  56412.00  14103.00
+GLENOS ALU ugradni profil sa pokrovom, mat bijele boje, 2m                         1375.67   14  19259.38   4814.85
+Reflektor za AIXLIGHT R/R2 38*                                                       62.51   26   1625.26    406.32
+FlexLED Roll Pro, bijele b., 3m, 60LED/m, DC 24V                                    562.63   16   9002.08   2250.52
+Uzidni okvir s vratima+umetak, 3U-18, 100mm (plosnati)                             1607.01   13  20891.13   5222.78
+Dihtung za IP65                                                                      90.57   18   1630.26    407.57
+LS-FI (KZS), B/10A/100mA, 3P, Tip A, 10kA                                             4281    1   4281.00   1070.25
+
+                                                                                                         ----------
+UKUPNO                                                                                                    114281.91
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

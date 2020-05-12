@@ -1,0 +1,28 @@
+Račun br. 228957
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Sklopnik vel. 00 | 3kW (7A) [AC-3] | 110VAC, 50Hz | 1 N/C                               99   12   1188.00    297.00
+Grebenasta sklopka, 1-0-2/1P/20A, na vrata                                           113.2    9   1018.80    254.70
+Krović za zaštitu od kiše 500x450                                                   774.61    7   5422.27   1355.57
+41016/B,  T konektor, crne boje                                                      33.11   11    364.21     91.05
+Svjetiljka za ormar sa šuko utičnicom                                               750.38   16  12006.08   3001.52
+Kompaktni prekidač snage tip A, 4P, 50kA, 300A                                     3906.97   10  39069.70   9767.42
+NIJE RASPOLOŽIVO                                                                  35681.01   23 820663.25 205165.81
+EUTRAC Flexi-spojnica,siva_                                                         437.43    1    437.43    109.36
+Zaštitni prekidač, C karakteristika, 32A, 1-polni+N, 6kA                             54.22   27   1463.94    365.99
+Ventilator s filterom 252x252x113mm IP54, 41W, 231m3/h                              845.18   26  21974.68   5493.67
+Ugradni nosač profila SL                                                              50.2   15    753.00    188.25
+Nap.stezaljka za WAVE, 2kom krom                                                     68.25   14    955.50    238.88
+Izolir traka, plava, 15mm x 10m - COROPLAST                                           5.99   22    131.78     32.94
+Finožični PVC-om izolirani vodič H07V-K (P/F) 25mm2, smeđi                         1827.67   26  47519.42  11879.86
+LED panel okrugli, 40W 4000K 2930lm dim. 1-10V, alu, bb                            1558.31    5   7791.55   1947.89
+Nadgradna kutija IP44 MD180i/R,MD180i/T,MD/PD180 bijela                             259.44    8   2075.52    518.88
+
+                                                                                                         ----------
+UKUPNO                                                                                                     962835.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

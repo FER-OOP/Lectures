@@ -1,0 +1,30 @@
+Račun br. 531528
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zaštitni prekidač, C karakteristika, 2A, 3-polni+N, 10kA                            210.54   10   2105.40    526.35
+Redna stezaljka (vijčani priključak) 10mm², tip CBC, plava                             6.5   13     84.50     21.13
+Finožični PVC-om izolirani vodič H07V-K (P/F) 16mm2, ž/z                           1193.14    3   3579.42    894.86
+Sigma-II-S/A1 LED 30W 3000K 2700lm, IP67, bijele boje                               527.66    8   4221.28   1055.32
+Mrežica s filterom za ventilator, 120x120mm                                          35.34    2     70.68     17.67
+Spremnik za dokumentaciju, samoljepljivi, A5                                         23.25    6    139.50     34.88
+Mehanička blokada za 3-polne MZ1                                                     34.44   28    964.32    241.08
+USB 2.0 produžni kabel, USB A muški/ženski, sivi, 3m                                  13.5   13    175.50     43.88
+VAP 40 podna svjetiljka, okr., nehrđ.čelik, E27,max.23W,IP44                       2184.14   21  45866.94  11466.73
+Solid Double LED 7W 4000K 510lm, IP20                                               124.52   23   2863.96    715.99
+T-Shirt siva -M-                                                                     46.02   22   1012.44    253.11
+Strugač za led                                                                       44.52   27   1202.04    300.51
+Kompaktni prekidač snage tip AE, 3P, 85kA, 1000A+izvl. modul                      17867.58    9 160808.22  40202.05
+NYCY 10x2,5RE/4                                                                    3968.05   21  83329.05  20832.26
+50242AG/3, STAKLO za 50242AG , mat rubovi                                             7.26   13     94.38     23.60
+Rezervni nož za HSETOOL01F, sistem LSA                                               53.25   29   1544.25    386.06
+Nick-I-Q 150W Rx7s, 230V, IP20, brušeni krom                                          7.77   19    147.63     36.91
+52 hlače, vodo-otporne, sa puno džepova                                             320.04    5   1600.20    400.05
+
+                                                                                                         ----------
+UKUPNO                                                                                                     309809.7
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

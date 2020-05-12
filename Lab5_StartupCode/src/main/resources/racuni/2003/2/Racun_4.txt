@@ -1,0 +1,21 @@
+Račun br. 171143
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+FORCHINI, ovj.svj., PD-1, okrugla, bb/zlatne b., E27,max.40W                       1188.46   23  27334.58   6833.65
+LS-FI (KZS), B/16A/30mA, 1P+N, Tip AC, 6kA                                          210.18   17   3573.06    893.26
+SAT koaksijalni F-utikač, natisni, za kabel DIGI-SAT 3011 PE                          6.46    1      6.46      1.62
+Luxa 103-200, senzor pokreta, zidni, podžbukni, 200°                                469.48   23  10798.04   2699.51
+Samostojeći ormar INOX, 1800x1000x500mm, IP55, 2V, AISI304                        23605.63   29 684563.31 171140.83
+LED RETROFIT RL-D40 5W 230V 840 470lm mat E14 15000h                                 46.69   17    793.73    198.43
+Bezhalogeni jednožilni vodič H07Z-K 50mm2, crni                                      10000   23 230000.00  57500.00
+Međuokvir za kućište E - 380x190x50mm                                               267.09    4   1068.36    267.09
+Potenciometar, komplet, 1 kOhm                                                      226.04   16   3616.64    904.16
+
+                                                                                                         ----------
+UKUPNO                                                                                                     961754.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

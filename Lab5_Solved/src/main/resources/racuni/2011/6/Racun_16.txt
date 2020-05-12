@@ -1,0 +1,33 @@
+Račun br. 402165
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zaštitni prekidač, C karakteristika, 50A, 1-polni, 10kA                               51.3   24   1231.20    307.80
+Nadgradna svjetiljka SAP ECO T5 2x49W ECG, bijela                                   361.15   22   7945.30   1986.32
+Pino-I-WL-R 15W E27, 100-240V, IP44, tikovina+nehrđajući č.                         175.88    1    175.88     43.97
+AFDD, series Lisa, B 20 A, 2-pole, 30 mA, A/delayed, 10 kA                         1264.15    4   5056.60   1264.15
+FI-trafo 400A, tip WFR3, za BC900303 I BC900310                                    4031.97   11  44351.67  11087.92
+TRAIL podna svj.LED 1250mm 37W 3600lm sim. 4000K                                   5554.17   24 133300.08  33325.02
+WORKLIGHT LED SL-1, bijela b., uklj. 3x PHILIPS LED, 3000K                         9381.33   24 225151.92  56287.98
+Nadgradna svjetiljka MERA OPAL 1x21W ECG, bijela                                    167.23    7   1170.61    292.65
+Nadgradna svjetiljka SAO IP54 T8 4x36W CCG, bijela                                 1510.09   24  36242.16   9060.54
+Prirubnica 410x96, za uvodnice: 21xM16, 10xM20                                       98.49   15   1477.35    369.34
+P/Ž razdjelnik MODUL 160, sa prozirnim vratima, 6x24 modula                           4172   24 100128.00  25032.00
+DASAR 215 UNI, E27 podna ugradna svjetiljka, okrugla                               1307.91    3   3923.73    980.93
+L-SE el. uložak DM 2x36W ECG                                                        266.83    9   2401.47    600.37
+Set za direktno spajanje 2 vodiča na pruge sa V-stezaljkama                         773.25   18  13918.50   3479.63
+Poliester kućište 540x360x201mm, IP66, RAL 7035 (sivo)                             1002.25   27  27060.75   6765.19
+Modul MT400 panik svjetilke EVG za MIX mod                                          482.79    8   3862.32    965.58
+Ciri-M LED 20W 4000K, 1400lm, 80°, IP20, aluminij, sive boje                        411.58   17   6996.86   1749.21
+Sklopka 2polna IP54 16A na vijak n/ž                                                 62.52   27   1688.04    422.01
+Konektiranje 2x12 ST MM utikača + zašt. za povlačenje                              3152.16    5  15760.80   3940.20
+Signalni fleksibilni kabel YSLY-OZ 5x1,5 sivi                                        10000    8  80000.00  20000.00
+Instalacijski sklopnik 40A | 4 N/C | 230VAC, 3ŠM                                    444.25    2    888.50    222.13
+
+                                                                                                         ----------
+UKUPNO                                                                                                     712731.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,14 @@
+Račun br. 749571
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ugradna downlight svj. ERM 200 LED,26W,2000lm,4000K,bijela                          653.43    5   3267.15    816.79
+Bezhalogeni telekomunikacijski kabel J-H(ST)H 20x2x0,6 sivi                          10000   12 120000.00  30000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    123267.15
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

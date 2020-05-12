@@ -1,0 +1,15 @@
+Račun br. 486650
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Grebenasta sklopka u kućištu (crveno/žuta), 0-1/3P/40A, IP65                        329.94   17   5608.98   1402.24
+Relej 3 C/O |10A | 24VDC, pozlaćeni kontakti                                        114.47   28   3205.16    801.29
+LED PAR16 35 DIM 3,1W 230V 36° 830 230lm 565cd GU10 25000h                           46.84   16    749.44    187.36
+
+                                                                                                         ----------
+UKUPNO                                                                                                     9563.581
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

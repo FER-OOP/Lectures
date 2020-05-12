@@ -1,0 +1,20 @@
+Račun br. 547377
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Fluo cijev T5|T16 13W, 4000K                                                         43.76   30   1312.80    328.20
+Panik svjetiljka ESCAPE 2824 1h/M, bijela                                           480.92   17   8175.64   2043.91
+Cilindrični osigurač, 22x58, 125A, gG, 500V AC                                       22.19   21    465.99    116.50
+Prednja ploča za termostat EL176221 i EL176221, inox efekt                            2103   29  60987.00  15246.75
+"Natpisna pločica, ""STÖRUNG"", 12.5 x 28mm, natična"                                 3.09   24     74.16     18.54
+RC 280i infracrveni senzor pokreta, nazidni, IP54, smeđi                           1559.63   13  20275.19   5068.80
+Prespojna kutija za LED-spots u serijskom spoju, 2 kom.                              68.25   24   1638.00    409.50
+Compact passage, senzor prisutnosti KNX, stropni, srebrni                          2617.09    9  23553.81   5888.45
+
+                                                                                                         ----------
+UKUPNO                                                                                                   116482.586
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

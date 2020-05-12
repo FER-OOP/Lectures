@@ -1,0 +1,28 @@
+Račun br. 417789
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Tuljak za 120mm2, pocinčani, DIN norma                                                4.52   16     72.32     18.08
+INOX samostojeći ormar, 1800x1000x400mm (VxŠxD)                                   22429.36   22 493445.91 123361.48
+Audio vanjski panel, 18 tipki, sa PTT otvorom                                      2347.64   29  68081.55  17020.39
+Signalni fleksibilni kabel YSLY-JB 4x50 sivi                                         10000   14 140000.00  35000.00
+Kompaktni prekidač snage tip VE, 3P, 50kA, 250A                                    3234.54    5  16172.70   4043.18
+Ugradna svjetiljka SERH ECO A3 L1 T5 4x14W EVG M600, bijela                         410.64   13   5338.32   1334.58
+DCF antena za BZT2766xx                                                             742.94   27  20059.38   5014.85
+Košulja muška, dugih rukava, bijela -43-                                            586.99   10   5869.90   1467.47
+PTT modul, IKALL, crni                                                              263.39    4   1053.56    263.39
+"Notepad ""Cube"""                                                                   58.09   20   1161.80    290.45
+LED RF WiFi kontroler Touch RGBW - 4 zone - crne boje                               836.68   22  18406.96   4601.74
+Levante-S 20 LED 48W 4425lm 4000K rotosim.,IP66,SKII,RAL9003                       3205.01   28  89740.28  22435.07
+Gwen-R 70W RX7s, 230V, IP20, sive boje                                               19.59   20    391.80     97.95
+Dvostruka izmjenična sklopka s tipkom, na vijak, bijela                             117.72    6    706.32    176.58
+Kompaktni prekidač snage tip VE, 4P, 85kA, 1250A                                  42336.88   19 804400.69 201100.17
+Pinta-STR-Q 50W GU5,3 MR16, 12V, IP20, bež boje                                      18.41   22    405.02    101.25
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1665306.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

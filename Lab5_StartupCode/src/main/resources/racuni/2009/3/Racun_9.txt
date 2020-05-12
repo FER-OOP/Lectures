@@ -1,0 +1,15 @@
+Račun br. 298641
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+NEW TRIA LED DL četvrtasti Set, 25W, 3000K, 30°, bijele boje                        1370.6   15  20559.00   5139.75
+Završni poklopac CLW četvrtasti zatvoreni sa vijcima                                  51.6   15    774.00    193.50
+Instalacijski umetak za Minipol ormar 800x600mm, 5x29 modula                       1147.56    6   6885.36   1721.34
+
+                                                                                                         ----------
+UKUPNO                                                                                                     28218.36
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

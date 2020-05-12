@@ -1,0 +1,15 @@
+Račun br. 123166
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"4-struki okvir ""Riva"", alu efekt"                                                137.16    2    274.32     68.58
+Bezhalogeni jednožilni vodič H05Z-K 1mm2, narančasti                                 10000   27 270000.00  67500.00
+KALOS HL ulič.optika 40LED,4000K 90W, antracit, 4 kraka                            5851.08    8  46808.64  11702.16
+
+                                                                                                         ----------
+UKUPNO                                                                                                    317082.94
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

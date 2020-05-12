@@ -1,0 +1,20 @@
+Račun br. 411904
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kabel za uzemljenje 6mm², 300mm žuto/zeleni                                           11.3   30    339.00     84.75
+P/Ž kutija, 1 modul, POWERCOM/IKALL                                                   45.4   27   1225.80    306.45
+Nadgradna svjetiljka SARH 2 ECO T8 2x58W ECG, bijela                                378.68    2    757.36    189.34
+GLENOS PROFILE 2508, 2m, aluminij                                                   155.78    4    623.12    155.78
+Teretna sklopka, glavni modul,  3 x AC 230/400 V‚ 10 AX                            1454.59   21  30546.39   7636.60
+Signalni fleksibilni kabel YSLY-JZ 18x0,75 sivi                                      10000   13 130000.00  32500.00
+Bimetalni relej za sklopnike vel. 3 | 28,00 - 40,00A                                336.67   11   3703.37    925.84
+Teretna sklopka, 4P, 1000A, opcija: daljinski isklop                              12161.16   30 364834.81  91208.70
+
+                                                                                                         ----------
+UKUPNO                                                                                                     532029.9
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,21 @@
+Račun br. 653964
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+V-dvostruka stezaljka 2x35-70mm sm                                                  110.25    5    551.25    137.81
+Poliester kućište 270x180x171mm, IP66, RAL 7035 (sivo)                              346.69    8   2773.52    693.38
+"Bit-umetak 1/4"", TX20, duljine 25mm, bijeli"                                       18.58   17    315.86     78.96
+Reflektor 12°, za SLEEK G12 Spot                                                     99.51    5    497.55    124.39
+LIGHT EYE ovjesna svjetiljka sa rozetom, ES111                                      531.37    7   3719.59    929.90
+MEDO PRO 90 stropna svj., 4x 24W, 2x 39W, okrugla, bb                              3122.88   17  53088.96  13272.24
+Hvataljka Ø16, vrh hvataljke Ø10mm, duljina: 1.5m, Alu                               60.34   24   1448.16    362.04
+Bezhalogeni kabel s el. funkc. do90 Min. (N)HXH-J3x6reE90                          3538.96   12  42467.52  10616.88
+Meiva-Q/A1 LED 6W 4000K 485lm, IP20, bijele boje                                    119.28   17   2027.76    506.94
+
+                                                                                                         ----------
+UKUPNO                                                                                                   106890.164
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

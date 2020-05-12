@@ -1,0 +1,15 @@
+Račun br. 255974
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Poliester ormar, vrh i dno zatv., 2 vrata 750x1000x312 (VŠD)                       4594.36   11  50537.96  12634.49
+Instal. umetak 4-21K komplet 7 IR prednja pl. čelik                                1596.42   20  31928.40   7982.10
+Tarifni prekidač s podešavanjem na 16, 20 i 25A, 3-polni                            303.37   25   7584.25   1896.06
+
+                                                                                                         ----------
+UKUPNO                                                                                                     90050.61
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

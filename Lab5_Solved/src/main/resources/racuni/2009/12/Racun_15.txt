@@ -1,0 +1,31 @@
+Račun br. 235617
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+9G04M/W/E, LED WW 4W E27 100-240V                                                     29.9    8    239.20     59.80
+TRAIL podna svj.LED 1250mm 19W 1800lm sim. 4000K                                   4853.42   12  58241.04  14560.26
+Prespojni kabel RJ45 cat.6 neoklopljen, PVC, sivi, 15.0m                             64.01   24   1536.24    384.06
+DASAR 260, HIT-T, 70W, podna ugradna svjetiljka, okrugla                           2371.86   21  49809.06  12452.27
+SOPRANA SOLID zidna svjetiljka, WL-1 , siva, E14, max. 60W                          625.15    8   5001.20   1250.30
+TIGLA ROUND Downlight, satinirani akril                                             280.64    5   1403.20    350.80
+Instal. umetak 2-45K komplet 15 IR prednja pl. čelik                               2475.44    2   4950.88   1237.72
+KALU TRACK QPAR111 svjetiljka, bijela b., uklj. 1-f.adapter                         406.17    2    812.34    203.09
+Bezhal. kabel s konc.zaštitnim Cu vodičem N2XCH 3x2,5re/2,5                          10000   29 290000.00  72500.00
+Zaštitni prekidač, C karakteristika, 40A, 3-polni, 6kA                               100.4   12   1204.80    301.20
+Podno ugradno kućište za TRAIL 650mm                                               1059.57   16  16953.12   4238.28
+Utičnica MO šuko 2M 16A, sa zaštitnim kontaktom, crna                                27.98    4    111.92     27.98
+Aluminijski montažni nosač 2H                                                        11.62   19    220.78     55.19
+Adapter 3 za visine 68mm za nove redne uređaje                                        73.9    7    517.30    129.32
+Prednja ploča s otvorom za uređaje ø22,5 mm, biserno bijela                             52   15    780.00    195.00
+Kompaktni prekidač snage tip A, 3P, 150kA, 32A                                      1314.9   30  39447.00   9861.75
+Nosač pločice za Joystick, 2 pol., okomiti (za 2 x 27x27mm)                          11.87   26    308.62     77.15
+Nazidna utičnica, siva, 16A, IP44, vijčane stezaljke                                  2102   13  27326.00   6831.50
+Montažni profili 41 mod. visina (za ormare visine 2000mm)                             4063   25 101575.00  25393.75
+
+                                                                                                         ----------
+UKUPNO                                                                                                    600437.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

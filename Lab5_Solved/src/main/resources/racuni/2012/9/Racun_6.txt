@@ -1,0 +1,21 @@
+Račun br. 331924
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+TRAPECCO samostojeća svjetiljka, 10W, 3000K, antracit b.                           1250.97    6   7505.82   1876.45
+Tel. razvodni ormarić Box VKA8 za 280 par., montaža na nosač                        710.85   18  12795.30   3198.82
+Nadgradna svjetiljka SAO ECO T5 1x49W ECG, bijela                                    332.3    7   2326.10    581.52
+FID sklopka 40A, 4P, 30mA, Tip EV, za električna vozila                            4602.19   18  82839.42  20709.86
+Zaštitni prekidač, B karakteristika, 6A, 3-polni+N, 10kA                            202.05    8   1616.40    404.10
+Terra-R/A2 LED 3x1W 3000K 245lm, IP65, nehrđajući čelik                             424.25   29  12303.25   3075.81
+Prednja ploča, čelična, slijepa, 4B1                                                  4160   28 116480.00  29120.00
+Redna stezaljka (vijčani priključak) 10mm², tip AVK, siva                             4.38   10     43.80     10.95
+FGL OUT Downlight, MR16, srebrne boje                                               211.87   21   4449.27   1112.32
+
+                                                                                                         ----------
+UKUPNO                                                                                                    240359.34
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

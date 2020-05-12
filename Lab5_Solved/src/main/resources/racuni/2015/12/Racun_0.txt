@@ -1,0 +1,17 @@
+Račun br. 108882
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Glenos akrilni pokrov, četvrtasti pokrov za profile 2609, 2m                        249.72   10   2497.20    624.30
+Laki gumeni kabel H05RR-F 5x1,5, crni                                              1069.68   11  11766.48   2941.62
+Ind.svj.ARKTUR SQUARE LED 113W 9900lm/840 ECG IP65 120x40°                         2733.37   13  35533.81   8883.45
+Zaštitni prekidač, C karakteristika, 10A, 3-polni, 10kA                             100.67   12   1208.04    302.01
+Poklopac 560x380x30mm sivi - GY-G                                                   445.88   10   4458.80   1114.70
+
+                                                                                                         ----------
+UKUPNO                                                                                                    55464.332
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

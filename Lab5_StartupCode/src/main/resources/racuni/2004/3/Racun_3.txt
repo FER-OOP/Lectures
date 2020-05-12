@@ -1,0 +1,21 @@
+Račun br. 892079
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+TERANG 2 XL, 3000K, oval, sive boje                                                 625.15    5   3125.75    781.44
+Finožični PVC-om izolirani vodič H05V-K (P/F) 0,5mm2, plavi                          55.66   29   1614.14    403.53
+Stropna svjetiljka Teito2 round, E27, 3x20W, IP54, siva                             351.43    9   3162.87    790.72
+Utičnica s poklopcem, 16A, umetak, bijela                                            41.87   25   1046.75    261.69
+Maskirni razdjelnik 2 širina brojila/ 28 MV                                           4180   21  87780.00  21945.00
+Teretna sklopka, rastavljač (izolator), 40A, 3P                                     116.46   19   2212.74    553.18
+Stopica 10/M10 neizolirana                                                            2303    2   4606.00   1151.50
+Priključna stezaljka 6-50mm², okomita, jezičasta, duga                               18.45   28    516.60    129.15
+Prozirna vrata, akril, za WSM1208xx, otvor: 1059X427mm                             1244.11    5   6220.55   1555.14
+
+                                                                                                         ----------
+UKUPNO                                                                                                     110285.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

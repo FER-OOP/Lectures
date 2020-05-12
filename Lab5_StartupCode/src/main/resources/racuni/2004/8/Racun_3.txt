@@ -1,0 +1,21 @@
+Račun br. 974520
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LED napajanje TD 20W/350mA CC, IP20                                                    251   20   5020.00   1255.00
+EURO SPOT ECG 70, 15°,crna                                                          938.06   16  15008.96   3752.24
+Aria-TR-R/A2 75W G53 AR111, 12V, IP20, bijele boje                                   51.36   30   1540.80    385.20
+Multimode-Relej, 2C/O, 10A, 12VAC 8-polni, AgNi 90/10, MT                            62.95    1     62.95     15.74
+"Ploča za zasun, siva, ""Celanex"""                                                   1.81    2      3.62      0.90
+Priključni modul N, 10-120mm², s pokrovom, 60mm Compact, 5P                           4832    1   4832.00   1208.00
+Janine-II-R 50W GU5,3 MR16, 12V, IP20, aluminij                                      88.02   12   1056.24    264.06
+Linijska svj. SERH-LF 112, početni profil,  2x54W, ECG, bb                          549.64    7   3847.48    961.87
+Vodič (N)YM-J (PGP) 4x2,5mm2, sa zašt. vodičem, svij.-sivi                          855.14   22  18813.08   4703.27
+
+                                                                                                         ----------
+UKUPNO                                                                                                    50185.133
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,25 @@
+Račun br. 162271
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Otvoreni prekidač, 4P, 66kA, 2000A, fiksni,vod. str. priklj.                      43899.19   231009681.38 252420.34
+Set za montažu za svj. LINDA(zid/strop)+/- 45° za 18/36/58W                          43.31   30   1299.30    324.83
+Kompaktni prekidač snage tip ME, 3P, 150kA, 220A+izvl. modul                          6244   13  81172.00  20293.00
+Tipkalo s plosnatom tipkom, plavo, s držačem                                         24.39   10    243.90     60.97
+Podnaponski isklopnik za MC2, 380-440VAC+2 ranija pom. kont.                        637.17   10   6371.70   1592.92
+Nosač za SPEED WORK XC900001--                                                      126.29   12   1515.48    378.87
+V-dvostruka stezaljka 2x35-70mm sm                                                  110.25    9    992.25    248.06
+Poklopac, 190x190x30mm sivi - A                                                     139.32   21   2925.72    731.43
+NV rastavna sklopka vel.1|250A, 3P, M10, nadzor. osig., 60mm                          4832   15  72480.00  18120.00
+Kabel LiYCY 2x1,5                                                                   846.03    9   7614.27   1903.57
+Podnaponski isklopnik za MC1, 220-250V DC, sa 3m kabela                             379.65    8   3037.20    759.30
+Postolje za nazidne razdjelnike, bočni dio, 400mm (par)                             185.05   22   4071.10   1017.78
+Zaštitni prekidač AMPARO 6kA, C 13A, 3-polni                                         87.62   28   2453.36    613.34
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1193857.9
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

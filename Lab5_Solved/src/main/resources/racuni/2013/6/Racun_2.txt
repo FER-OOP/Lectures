@@ -1,0 +1,28 @@
+Račun br. 897002
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Podnaponski isklopnik za MC4, 380-440V AC                                           778.82   13  10124.66   2531.17
+Ispravljač, 1-fazni | 230/24VDC | 5A                                               1076.63    7   7536.41   1884.10
+Kompenzacija  LSK 7% 25/5kvar 600x1250x300mm zidni ormar                          19446.29   17 330586.91  82646.73
+Sabirnica za Neozed, 1P, jezičasta, 16mm² (80A)|27mm|1m                               96.9    2    193.80     48.45
+CU sabirnica 1m/20x3mm2perforirana 8,5Ø, razmak otvora 32 mm                         304.4   23   7001.20   1750.30
+Push pull presp. kabel RJ45 STP cat.6a 10GB LS0H sivi 1.5m                           46.03   26   1196.78    299.20
+GLENOS profil 1808-200, 2m, crne boje                                               287.23   13   3733.99    933.50
+Prednja ploča, čelična, slijepa, 3B6                                                  4160   23  95680.00  23920.00
+51200AR/W,  2L BAZA BOXTECH+  ZAOBLJENI RUBOVI, bijele boje                          73.32   19   1393.08    348.27
+Nadgradna svjetiljka SAP ECO T8 1x36W ECG, bijela                                   273.19   14   3824.66    956.17
+Relej 3 C/O |10A | 60VDC sa LED                                                      74.56   28   2087.68    521.92
+Instalacijski sklopnik 25A | 1 N/O + 1 N/C | 24V AC                                  123.5   18   2223.00    555.75
+FID sklopka 100-4-03/A, S izvedba, za frekventne pretvarače                        1101.86   15  16527.90   4131.98
+Podnaponski okidač za MB1,2,3 230-240VAC                                              4381    5  21905.00   5476.25
+Kabel LiYCY 10x2x0,14                                                                10000   14 140000.00  35000.00
+Optički prespojni kabel duplex ST/ST, 50/125µm OM3, 5.0m                            101.57   30   3047.10    761.78
+
+                                                                                                         ----------
+UKUPNO                                                                                                    647062.25
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,30 @@
+Račun br. 282643
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Tipka sa simbolom svjetla, biserno bijela                                             30.4   30    912.00    228.00
+P/Ž inst. razdj. 4U-18,6-redni,270ŠM,915x1030x250mm(VxŠxD)                         3616.91   15  54253.65  13563.41
+Arktur2 160W, 21000lm, 4000K, 120°, DALI                                           4402.94   26 114476.44  28619.11
+Stropni ovjes za LINUX LIGHT, 21cm                                                  124.52   19   2365.88    591.47
+Stezaljka Al-Cu, žuto-zelena, 50mm2                                                  42.98   19    816.62    204.15
+SERH 2 A1 L1 T5 4x14W, ECG, M600, bijela b.                                         557.71   16   8923.36   2230.84
+Print relej SR4, 2 N/O+2 N/C, 24VDC, 8A, 5mm                                          3522   18  63396.00  15849.00
+Pokrov za ind. dio svjetiljke OFFICE 218 2-28/54W                                       65   17   1105.00    276.25
+Bezhalogeni telekomunikacijski kabel J-H(ST)H 10x2x0,8 sivi                          10000   25 250000.00  62500.00
+N/Ž inst. razdj. 1A-12, 4-redni, 52 ŠM, 640x380x180mm(VxŠxD)                          4170   24 100080.00  25020.00
+Transformator, 1-fazni | 230/024V | 1000VA, IP00                                    973.14    9   8758.26   2189.56
+H03VVH2-F 2x0,75mm2, smeđi, YML-fl 100m kolut                                        10000   27 270000.00  67500.00
+Nadgradna svjetiljka SARH 2 ECO T8 2x58W CCG, ind, bijela                           421.81   15   6327.15   1581.79
+Grebenasta sklopka sa ključem, 0-1/1P/20A, na DIN nosač                             342.27   19   6503.13   1625.78
+Bravo monitor, color                                                               3040.36   27  82089.73  20522.43
+Sigma bater. LED reflektor 3h 10W 4000K IP65 zakr. siva                             366.47   20   7329.40   1832.35
+Zaštitni prekidač, B karakteristika, 40A, 1-polni+N, 10kA                           204.99   25   5124.75   1281.19
+Sklopnik vel.0 | 4P | AC1 35A/690V | 24VAC                                          171.61    9   1544.49    386.12
+
+                                                                                                         ----------
+UKUPNO                                                                                                     984005.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

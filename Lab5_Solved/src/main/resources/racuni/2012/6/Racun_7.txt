@@ -1,0 +1,15 @@
+Račun br. 365163
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Energetski kabel 0,6/1kV PP00-Y (EYY-J) 1x95 RM crni                               7629.46   12  91553.52  22888.38
+Grebenasta sklopka, 0-1-2-3/1P/10A, na vrata                                        225.88   12   2710.56    677.64
+Transformator, 1-fazni | 230/024V | 160VA, IP00                                     292.69   29   8488.01   2122.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                   102752.086
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

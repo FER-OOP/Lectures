@@ -1,0 +1,24 @@
+Račun br. 471947
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Maria-WL-R LED 6W 3000K 440lm, IP54, bijele boje                                    377.96   14   5291.44   1322.86
+Pokrov za senzor pokreta 3 žice, 180°, 8m, antracit                                   2421   19  45999.00  11499.75
+Vrata, metalna, perforirana za kom. ormare, 42U, Š=600 mm                           886.97   14  12417.58   3104.40
+Svjetleće tipkalo s plos. tipkom, sa LED 230VAC,zeleno,1N/O                          95.61   15   1434.15    358.54
+Optički slijepi modul za SC DX otvore, 25 kom.                                       39.35   24    944.40    236.10
+EUTRAC zavr.pokl. za 3-fazne šine, srebrne boje                                      30.75    8    246.00     61.50
+Teretna sklopka, 3P, 630A, VC4, s produžnom osovinom                               2068.24    6  12409.44   3102.36
+USB 2.0 A-B mini kabel, A muški - mini B muški, crni, 3.0m                           14.21   19    269.99     67.50
+Reflektor FORCA LED 151W 17360lm/765 ECG IP65 50°,sb                               4134.73   18  74425.14  18606.29
+FITU E27 ovjesna svj., E27, max. 60W, okrugla, crne boje                            249.72    7   1748.04    437.01
+Aluminijski profil LBKI                                                              87.09    4    348.36     87.09
+Uzidni okvir s vratima - M3000, 3U-33                                              1190.64   12  14287.68   3571.92
+
+                                                                                                         ----------
+UKUPNO                                                                                                    169821.22
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

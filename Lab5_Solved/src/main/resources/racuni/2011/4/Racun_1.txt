@@ -1,0 +1,22 @@
+Račun br. 381884
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+CONTONE IP44, 16W, 890lm, 3000-2000K dim., četvrtasta, bb                           687.83   15  10317.45   2579.36
+LED Downlight Siena 68,8W 500lm,36°,828,dimbilan, bijela b.                         334.65   15   5019.75   1254.94
+"Pokrov plosnatog tipkala, crni, oznaka ""0"""                                       13.44   29    389.76     97.44
+Montažna ploča za IP54, 2A-33                                                         4160    1   4160.00   1040.00
+SAT kaskadna jedinica za 9 IN 6 OUT pasivna za HSATS5xxKA                            846.7    1    846.70    211.68
+Punto-R 35W GU4 MR11, 12V, IP20, brušeni mesing                                       6.92   11     76.12     19.03
+Kompaktni prekidač snage tip A, 4P, 150kA, 300A                                    3450.22   19  65554.18  16388.54
+7306BD/W/45, LED 12W PAR30 E27 WW dimabilna 45 ° 230V                               231.98   11   2551.78    637.95
+Maskirni razdjelnik 2 širina brojila/ 21 MV                                           4180    5  20900.00   5225.00
+Izlazni filter za IUKNF6523A,-7523,-8523A,320x320x39mm,IP54                         269.41   12   3232.92    808.23
+
+                                                                                                         ----------
+UKUPNO                                                                                                   113048.664
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

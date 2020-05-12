@@ -1,0 +1,30 @@
+Račun br. 301351
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kompaktni prekidač snage tip M, 3P, 50kA, 160A                                     2081.03   12  24972.36   6243.09
+FID sklopka 80-4-03/AC, 10kA                                                        583.77   29  16929.33   4232.33
+Halogena žarulja QT 9 5W 12V G4                                                      10.54   22    231.88     57.97
+Nadgradna svjetiljka SARM 2 1x80W ECG, bijela                                       412.19    1    412.19    103.05
+QUADRO-DUE HCI-T 2x70 G12, downlight svj.                                           367.67    2    735.34    183.84
+Prsluk Store, ženski -large-                                                         449.7   27  12141.90   3035.48
+"Samostojeći kom. ormar IP54 800x1970x800 ŠxVxD, 19"", 42U"                        6039.06   13  78507.78  19626.95
+Pia-R 50W GU10 MR16, 100-240V, IP20, sive boje                                       57.44    6    344.64     86.16
+LED MEGAMAN GU10 PAR16 6W, 2800K, 360lm, DG, 35°, DIM                                85.63   21   1798.23    449.56
+Majica Store kratkih rukava -XX-large-                                              301.79   27   8148.33   2037.08
+Kompaktni prekidač snage tip A, 3P, 25kA, 125A                                     1419.39   19  26968.41   6742.10
+Serijski ormar AS, 1-vrata, 2000x400x400(VxŠxD),bez MP,7035                        4062.87    9  36565.83   9141.46
+Metalhalogena žarulja HIT-CE TC 35W/930 PB G8,5                                     178.71   17   3038.07    759.52
+Industrijska svj. Arktur LED 13500lm,132W,40°,6000K,RAL9006                           5252   17  89284.00  22321.00
+Razdjelnik nazidni, IP65, 2-redni, 24 modula, prozirna vrata                        266.43   22   5861.46   1465.36
+Kompaktni prekidač snage tip A, 4P, 25kA, 160A                                     2337.75   18  42079.50  10519.88
+Maskirni razdj. 4M-28, 9-redni, 405 ŠM,1335x980x200mm(VxŠxD)                       3272.03    2   6544.06   1636.01
+X- spojnica za 1-faznu šinu, nadgradna, crna b.                                     124.52    9   1120.68    280.17
+
+                                                                                                         ----------
+UKUPNO                                                                                                     355684.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

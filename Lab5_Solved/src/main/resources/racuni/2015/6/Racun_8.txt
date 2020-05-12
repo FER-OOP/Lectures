@@ -1,0 +1,31 @@
+Račun br. 434703
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Finožični PVC-om izol. vodič H05V-K (P/F) 1mm2, sivi HPV                             10000   29 290000.00  72500.00
+Izolirani kabelski tuljak, dvostruki, crni, 2x1.5mm²/8mm                              0.21   22      4.62      1.15
+Nazidni okvir s vratima za Modul 2000 | 4A-24 | dubina 250mm                       2154.28    4   8617.12   2154.28
+Kutni profil, duljina 1m                                                              57.8   17    982.60    245.65
+7301/V, LED 12v , ljubičaste boje MR16                                               10.81    5     54.05     13.51
+Tipka MO 1M sa simbolom svjetla, crna                                                  7.5    7     52.50     13.12
+Elektronski transformator, slave, 50-200W                                             2103   26  54678.00  13669.50
+Kabel LiYCY 4x0,5                                                                   739.77   10   7397.70   1849.43
+Adapter za sustav 60mm, EEC 63A, 1 nosač, širine 63mm                               179.02    9   1611.18    402.80
+Kabel za mot. pogon sa Cu širmom 2YSLCY 4x16 EMV Stand.                           15749.95    5  78749.75  19687.44
+Modul za audio jedinicu, 1 tipka, POWERCOM                                          274.58   26   7139.08   1784.77
+NEPRO LINE zidna svj., 2x24W                                                        1495.8   11  16453.80   4113.45
+Teretna sklopka , 8 x 230V AC, 2A                                                  1651.96   10  16519.60   4129.90
+Set za ožičenje Zvijezda-Trokut komb. vel.2-2-0                                      71.37    7    499.59    124.90
+Prirubna ploča 916x211x5mm, za IL951…IP54 (pak.=2 kom.)                               4170   14  58380.00  14595.00
+Vanjski kutnik PK 110*70                                                             37.85   12    454.20    113.55
+Kabel 6mm2, crni, TÜV odobrenje, pakiranje 500m                                    1320.04   23  30360.92   7590.23
+89302A, REPEATER 350mA RGB+W 4kanal x 4.2-12.6W                                     331.49    7   2320.43    580.11
+Bezhalogeni kabel s el. funkc. do90 Min. (N)HXH-O2x2,5reE90                          10000    8  80000.00  20000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     654275.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

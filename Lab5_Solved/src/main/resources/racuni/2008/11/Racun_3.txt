@@ -1,0 +1,14 @@
+Račun br. 104969
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Finožični PVC-om izolirani vodič H07V-K (P/F) 4mm2, zeleni                          313.72   13   4078.36   1019.59
+Sabirnica, 4P, jezičasta, 10mm² (63A)|korak 17.8mm| 1m                              225.85    1    225.85     56.46
+
+                                                                                                         ----------
+UKUPNO                                                                                                      4304.21
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

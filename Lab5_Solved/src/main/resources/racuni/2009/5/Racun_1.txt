@@ -1,0 +1,23 @@
+Račun br. 606335
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+KABEL E-AYY-J (PP00-AL) 4X50 SE                                                      10000    8  80000.00  20000.00
+Kućište sa gl. skl. za MZS tip BE5, crveno/žuta ručica, IP54                        125.74    3    377.22     94.31
+Bezhalogeni jednožilni vodič H07Z-K 6mm2, plavi                                      10000    8  80000.00  20000.00
+BULAN GRID zidna svj., okrugla, hr.boje, E27, max. 2x25W                            343.66   17   5842.22   1460.56
+20° reflektor 0712                                                                   29.39    3     88.17     22.04
+Gumeni bomboni Store, 15g                                                             3.17    5     15.85      3.96
+Valo-R/A2 LED 45W 4000K 3000lm, IP20, sive boje                                     795.63   27  21482.01   5370.50
+ARROCK SAND 70 samost. svj., kamen, E27, max. 15W                                  2809.97   14  39339.58   9834.89
+Kutnik za theLuxa P, crni                                                            44.02   30   1320.60    330.15
+Podnožje prema širini AS/KS ormara, 1200x100mm, RAL 7022                            456.49   12   5477.88   1369.47
+DASAR GX53 podna ugradna svjetiljka, okrugla                                        562.63    9   5063.67   1265.92
+
+                                                                                                         ----------
+UKUPNO                                                                                                    239007.19
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

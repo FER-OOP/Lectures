@@ -1,0 +1,27 @@
+Račun br. 206247
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ugradni downl. SEGON LED 18W ED 1900lm/830 MAT IP44 70°,bb                          485.13   28  13583.64   3395.91
+Zaštitni prekidač, B karakteristika, 6A, 1-polni+N, 10kA                             98.86    4    395.44     98.86
+Grebenasta sklopka, 1-2-3-4/1P/20A, na vrata                                        147.92    8   1183.36    295.84
+SCUP 3 PC 1x150W, E27,HI/ST, EB, IP20                                              1375.74    8  11005.92   2751.48
+Sklopnik vel.00 (za PLC) | AC3 3kW/400V | 17-30VDC | 1 N/C                          137.95   25   3448.75    862.19
+Nazidna izmjenična sklopka, siva, 10A, IP44, utične stez.                            44.06   15    660.90    165.23
+Okvir 3x2M line, plavi                                                               34.38   13    446.94    111.74
+Montažna ploča 3PB, 19 otvora, 670x70x13mm                                          296.11   21   6218.31   1554.58
+Poluvodički motorni kontroler 220-400V/42A bez zaštite                                4701    5  23505.00   5876.25
+Ina-R/A1 LED 12W 3000K 787lm, dimabilna, IP20, aluminij                             278.44    6   1670.64    417.66
+Modul predajne stanice SUD                                                         8329.34   16 133269.44  33317.36
+Ind.svj.ARKTUR SQUARE LED 184W 19000lm/740 ECG IP65 110°                           3387.84    2   6775.68   1693.92
+NEW TRIA 68 GU10 downlight, okrugli, mat crne b., max. 50W                           187.2   26   4867.20   1216.80
+Nadgradna downlight svj. ARM 292 2x13W ECG TC-DEL, bijela                              278   13   3614.00    903.50
+FGL OUTDOOR SQUARE Downlight, MR16, bijele boje                                     218.46   14   3058.44    764.61
+
+                                                                                                         ----------
+UKUPNO                                                                                                    213703.67
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,22 @@
+Račun br. 888108
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Podes. spoj za Rosen Lite i Glu-Trax šine                                            68.25   29   1979.25    494.81
+Ampermetarska preklopka, 1P/20A/0-1-2-3/AC21/na DIN šinu                            197.89    3    593.67    148.42
+FI-blok 40A, 2-polni, 300mA, Tip AC                                                   4290   30 128700.00  32175.00
+Pločica + nosač 30x50mm, natpis: AUS EIN                                              8.77    5     43.85     10.96
+Francis-S/A2 2x75W GU10 AR111, 100-240V, IP20, aluminij                             366.47   30  10994.10   2748.52
+SKALUX ugradna stropna svj., četvrt., bijela, 3000K                                 938.06   30  28141.80   7035.45
+Prespojni kabel RJ45 cat.5e neoklopljen, PVC, plavi, 0.5m                             4.22   14     59.08     14.77
+Porter-S LED 4x1W 3000K, IP65, sive boje                                            557.06   25  13926.50   3481.63
+Kompaktni prekidač snage tip VE, 3P, 85kA, 1250A                                  31631.06   20 632621.19 158155.30
+BILAS SPOT LED, 15W, 2700K, 60°, okrugla, bijele boje                              1558.31   17  26491.27   6622.82
+
+                                                                                                         ----------
+UKUPNO                                                                                                     843550.7
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,26 @@
+Račun br. 596520
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kabel marker, plastični, prozirni, za kabel promjera 10-25mm                          9.43    6     56.58     14.15
+Daljinska sklopka osvjetljena sa brtvenom kapicom                                   301.05   10   3010.50    752.63
+"19"" fiksna polica do maks. 150kg, d=850mm, 1U, RAL7035"                           286.45   29   8307.05   2076.76
+Wago utična stezaljka za razvodne kutije, 5 x (0.5-2.5)mm²                            1.58    9     14.22      3.56
+Ormar plast.750x1000x312,krov protiv kiše,dno otv.,1 vrata,                           4142   23  95266.00  23816.50
+Ugradna svjetiljka SERH ECO A1 L2 T5 4x14W ECG M625, bijela                         532.11   25  13302.75   3325.69
+Podložna pločica za zakretnu ručicu za M2000, RAL7035                                 4160   19  79040.00  19760.00
+Bezhal. kabel HSLH-JZ 5x1FRNC H-F 1žila ž/z ostale crn/siv                           10000   30 300000.00  75000.00
+Tipka sa crvenim prozorčićem, antracit                                               16.41   24    393.84     98.46
+Nadgradna svjetiljka SARH-AS T5 1x28W, ECG, bijela                                  380.23    6   2281.38    570.35
+Vodotijesna svjetiljka LINDA Transparente 1-28/54W IP65                             571.36    1    571.36    142.84
+Cjevčica za zaštitu opt. spoja, duljine 60mm, pak.=100 kom.                         327.22   11   3599.42    899.85
+IP68 prespojna kutija, 3-polna                                                      124.69   12   1496.28    374.07
+Uzdužna spojnica za 1f.visokonap.ugrad.str.šinu,bijela                               68.25    6    409.50    102.37
+
+                                                                                                         ----------
+UKUPNO                                                                                                    507748.88
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

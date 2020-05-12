@@ -1,0 +1,30 @@
+Račun br. 443070
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zamjenjiva skala, 96x96mm, 300/600/5A AC                                             12.17   11    133.87     33.47
+Kabel E-AY2Y-O 3x240/120SM                                                           10000   28 280000.00  70000.00
+"19"" profil. nosači, visine 32U za DS-, DSZ-, DSI i DW-ormare"                      95.04   21   1995.84    498.96
+Ind.svj.ARKTUR SQUARE LED 147W 15900lm/765 ECG IP65 110°                           3118.34    6  18710.04   4677.51
+Relej 2 C/O |10A | 115VAC                                                            65.69   16   1051.04    262.76
+Stropna svj. Rolo-CL small, GU10 QPAR 16, 35W, IP54, siva                           144.46    9   1300.14    325.04
+ENOLA_B PD-1 ovjesna svjetiljka, GU10, max. 50W, mesing                             562.63   16   9002.08   2250.52
+Bistabilni relej, 230VAC, 1 C/O, 16A, na DIN nosač                                   125.2    7    876.40    219.10
+Elektronska prigušnica ECG QTi DALI 2x14/24/220-240 DALI dim                        350.76   13   4559.88   1139.97
+Ugradna downl. svjetiljka EQM 212 1x26W TC-TEL IP43 bijela                          391.56   25   9789.00   2447.25
+GLENOS zidni profil 20cm, uklj. zavr.pokl., crne boje                                187.2   16   2995.20    748.80
+DRAGAN SENSOR, bijela b., E27, max. 2x24W, IP44, sa senzorom                       1125.94    6   6755.64   1688.91
+Prednja ploča antenske utičnice sa 3 otvora, inox efekt                              74.55   17   1267.35    316.84
+9C03C/D/SE, 60 LED SMD DL 3W  E14                                                    10.64    3     31.92      7.98
+Grebenasta sklopka, 1-2/3P/20A, na DIN nosač                                        394.02   21   8274.42   2068.60
+Ugradna kutija za šuplje stijenke, Ø68, 61mm, M20, naranč.                          809.85   11   8908.35   2227.09
+Zaštitni prekidač, D karakteristika, 4A, 2-polni, 10kA                              128.42    6    770.52    192.63
+FGL OUTDOOR SQUARE Downlight, MR16, bijele boje                                     218.46   30   6553.80   1638.45
+
+                                                                                                         ----------
+UKUPNO                                                                                                    362975.44
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

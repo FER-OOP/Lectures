@@ -1,0 +1,25 @@
+Račun br. 636544
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Halogena žarulja QT12 25W IRC GY6,35 Energysaver                                     32.88   15    493.20    123.30
+Sklopnik 3P |11kW (24A) [AC3] / 50A [AC1] | 48V DC                                  354.82   17   6031.94   1507.98
+Nadgradna svjetiljka PRIMO M PRISMA 1x18W ECG, bijela                               202.91   28   5681.48   1420.37
+Zaštitni pokrov vodiča brojila                                                        4160   12  49920.00  12480.00
+Traka označna 10 x 11-20 za HMM2 i CBC.2                                              4850    4  19400.00   4850.00
+Baterija GEL 12V/110Ah Deep cycle                                                  2422.44   27  65405.88  16351.47
+LOGICOM krović za P/Ž kućišta, 6 modula                                            1175.34   19  22331.46   5582.86
+"Svjetleće tipkalo bez povrata, plosnato, zeleno ""I"""                                 60   10    600.00    150.00
+61010A/B, Sjenilo crne boje za 61010/61012/61014                                    263.91    4   1055.64    263.91
+Nadgradna svjetiljka PRIMO M PRISMA 2x18W ECG, bijela                                223.7    5   1118.50    279.63
+LED 12-30V AC/DC, zeleni, za montažu na dno kućišta                                  35.36    1     35.36      8.84
+Linijska svj. SERM-LL 112, završni profil,  2x28W, ECG, bb                          516.13   15   7741.95   1935.49
+Sabirnica, 1P, viličasta, okomita, 20mm² (100A)|17.8mm|1m                           132.89   23   3056.47    764.12
+
+                                                                                                         ----------
+UKUPNO                                                                                                    182871.88
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

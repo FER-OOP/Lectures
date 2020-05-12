@@ -1,0 +1,20 @@
+Račun br. 716001
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Označne pločice '21-30', Dekafix DY5 (sadrži 50 oznaka)                               8.45    2     16.90      4.22
+Kabelska uvodnica M40x1.5, poliamid, RAL7035                                         35.25    1     35.25      8.81
+Kabel H05VVC4V5-K 4x0,75 sivi                                                        10000    1  10000.00   2500.00
+EUTRAC centralno napajanje za 3-fazne šine, bij.                                    224.04   19   4256.76   1064.19
+Kanal tip BE-DIN, 75x50mm (VxŠ), duljina 2m, RAL 7030                                32.97    1     32.97      8.24
+Kabel EYY-J (PP00-Y) 5x10RE                                                          10000    2  20000.00   5000.00
+Nosač sabirnica, 4-polni, učvršćenje iznutra, sustav 60mm                             91.3   17   1552.10    388.03
+"WC set ""Sigma"", napajanje na DIN, komplet, biserno bijeli"                      2016.79   26  52436.54  13109.14
+
+                                                                                                         ----------
+UKUPNO                                                                                                    88330.516
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,23 @@
+Račun br. 993573
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+N/Ž okvir+vrata,serijski,3A-42,D400mm,str.pl.+zakr.ruč.,IP54                       4605.51   29 133559.78  33389.95
+Telekomunikacijski kabel F-YAY 20x2x0,6mm2                                           10000    1  10000.00   2500.00
+7807, završni pokrov, za 4-žilnu traku                                                1.35   28     37.80      9.45
+SAT multiswitch 17 IN 8 OUT za quattro/quad LNB,nap. do 10m                        3171.56   20  63431.20  15857.80
+Prednja ploča, plastična, slijepa, 4B10K                                              4160   27 112320.00  28080.00
+89011D, Dimabilni DRIVER 230v 350mah 11w LED 1-10v                                  293.14   16   4690.24   1172.56
+"Prespojni panel 19"", prazan, za 24 modula, 1U, RA7035, ECO"                         89.2   27   2408.40    602.10
+Spojnica za instalacijske cijevi KSR DN 110                                          73.98   23   1701.54    425.39
+Konektiranje 2x4 LC SM utikača + zašt. za povlačenje                               1876.41    5   9382.05   2345.51
+Bakreno uže 25 mm2                                                                 3026.03   21  63546.63  15886.66
+Linijska svjetiljka SOLO 2 T8 2x58W CCG, bijela                                     218.89   29   6347.81   1586.95
+
+                                                                                                         ----------
+UKUPNO                                                                                                    407425.47
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

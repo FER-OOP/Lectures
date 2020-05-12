@@ -1,0 +1,29 @@
+Račun br. 379939
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zaštitni prekidač AMPARO 6kA, C 40A, 1P+N                                            47.24   21    992.04    248.01
+Set za povezivanje, za IL951…IP54 (spojnice i vijci)                                  4170   23  95910.00  23977.50
+Francis-S 2x18W T8, 230V, IP65, sive boje                                           159.16   16   2546.56    636.64
+Sutil-R LED 40W 6000K 2800lm, IP40, bijele boje                                     762.34    1    762.34    190.59
+Gumeni savitljivi kabel NSSHöu-O 1x120, žuti                                         10000   19 190000.00  47500.00
+Okrugla fluo cijev T16-R 40W/840 2G13                                               106.11   20   2122.20    530.55
+Bimetalni relej za sklopnike vel. 00 | 0,90 - 1,25A                                 161.33   19   3065.27    766.32
+9012/W, 12W T4 WW                                                                     1.85   25     46.25     11.56
+Metalni stabilizator za kutnu spojnicu za 1f.strujnu šinu                             37.5   12    450.00    112.50
+89020A/ELE, 1x20w HQI ELE prigušnica za GE lamp                                      53.56   11    589.16    147.29
+Brtva za utičnice, za IP44                                                             7.5   20    150.00     37.50
+Sučelje komunikacijski VE. Direct na USB                                            510.86   19   9706.34   2426.58
+Spojnica (ravna) M25, svijetlo-siva (pak. 50 kom.)                                  185.17   10   1851.70    462.93
+LED RETROFIT RL-D25 2W 230V 827 230lm prozirna E14 AL 15000h                            45    7    315.00     78.75
+EASY LIM PRO RF daljinski upr.                                                       74.85    2    149.70     37.42
+Pako-R/A1 LED 1W 6000K 60lm, dimabilna, 350mA, IP20, crne b.                         46.46   10    464.60    116.15
+Finožični PVC-om izol. vodič H07V-K (P/F) 16mm2, ž/z HPV                             10000    5  50000.00  12500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    359121.12
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

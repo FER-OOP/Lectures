@@ -1,0 +1,19 @@
+Račun br. 243137
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+QUADRA 44 Downlight                                                                 506.37   20  10127.40   2531.85
+"Samostojeći komunikacijski ormar DS 800x900x800,19"", 18U"                        3049.17   11  33540.87   8385.22
+Dvokrilna vrata staklo, za kom. ormare, 45U, Š=600 mm                                 1403   24  33672.00   8418.00
+Ovjes za svjetiljku FRAME duljine 2000mm (1 par)                                    128.45    2    256.90     64.22
+Spojnica motorke BES2 vel.2 i sklopnika vel.2 / za AC                                42.03    2     84.06     21.01
+Tris-II-R/A1 LED 3x1W 6000K 180lm,dim.,350mA,IP20,bijele b.                          88.02    5    440.10    110.02
+Clara-II-SC LED 2x6W 3000K 2x420lm, IP54, bijele boje                               424.25   18   7636.50   1909.13
+
+                                                                                                         ----------
+UKUPNO                                                                                                     85757.83
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

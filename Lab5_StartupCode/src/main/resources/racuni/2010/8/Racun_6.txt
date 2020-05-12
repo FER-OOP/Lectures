@@ -1,0 +1,23 @@
+Račun br. 726507
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Priključna stezaljka 6-25mm², okomita, jezičasta                                     10.16    9     91.44     22.86
+9G07B/C/E, LED 6w CW E27 mat 230v                                                    23.31    9    209.79     52.45
+Serijski ormar AS, 1-vrata, 1800x600x400 (VxŠxD),bez MP,7035                       3463.83   18  62348.94  15587.24
+Pokrov za svjetleće tipkalo, bijeli                                                   8.52    7     59.64     14.91
+Zaštitni prekidač, B karakteristika, 63A, 3-polni+N, 10kA                           383.84   14   5373.76   1343.44
+DC sklopnik | 7.5kW | 24V DC | 3N/O + 1N/C pomoćni kontakt                          380.35   19   7226.65   1806.66
+50242AG/4/C, STAKLENI PRSTEN za 50242AG , proziran                                    7.26   13     94.38     23.60
+Bimetalni relej za sklopnike vel. 2 | 11,00 - 16,00A                                 218.9    7   1532.30    383.07
+Bezhal. kabel s konc.zaštitnim Cu vodičem N2XCH 4x150sm/70                           10000   10 100000.00  25000.00
+KALU 1 QPAR stropna svj., mat bijele b., ES111, max. 75W                            531.37   16   8501.92   2125.48
+8007/GR, 70W HQI Rx7s , zelene boje                                                  15.71    1     15.71      3.93
+
+                                                                                                         ----------
+UKUPNO                                                                                                    185454.53
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

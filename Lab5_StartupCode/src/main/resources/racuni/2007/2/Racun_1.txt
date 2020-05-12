@@ -1,0 +1,20 @@
+Račun br. 1090485
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Podnožje osigurača DII, E27 (do 25A), 1P, stezaljke 10mm²                            44.41    3    133.23     33.31
+Kada za brojilo, 5 ploča za brojilo u jednom redu, 3-reda                          2108.19    2   4216.38   1054.09
+Marra LED traka 14,4W/m 2700K 1060lm/m, dimabilna, IP20                             265.26   25   6631.50   1657.88
+SAT z.ut. 4-struka,R/TV/2xSAT,kl.A,okvir+kućište,RAL9010                             50.51    1     50.51     12.63
+Podnaponski isklopnik 24V DC (kao rezervni dio)                                    1510.38   22  33228.36   8307.09
+Signalni fleksibilni kabel YSLY-JZ 50x1 sivi                                         10000   30 300000.00  75000.00
+Vijci + tuljci za stezaljku CBC35                                                     2.43    1      2.43      0.61
+Finožični PVC-om izol. vodič H05V-K (P/F) 1mm2, ljub. HPV                            10000   19 190000.00  47500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     534262.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

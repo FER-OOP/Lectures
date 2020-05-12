@@ -1,0 +1,26 @@
+Račun br. 304721
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+POLE PARC podna svjetiljka, antracit, 2G11, 55W, IP44                              3748.71   19  71225.49  17806.37
+P/Ž inst. razdj. 4U-12,4-redni,180ŠM,640x1030x250mm(VxŠxD)                            4190   11  46090.00  11522.50
+Audio i A/V switch za SB TOP sisteme sa više ulaza                                 1198.54    5   5992.70   1498.18
+Poliester ormar, vrh i dno zatv., 1 vrata 1000x500x312 (VŠD)                       2465.51   30  73965.30  18491.32
+Telefonska sabirnica za uzemljenje, 2/10                                             37.27   19    708.13    177.03
+Meiva-Q/A1 LED 10W 3000K 825lm, IP20, bijele boje                                   231.98    6   1391.88    347.97
+Porter-S LED 4x1W 3000K 280lm, IP65, bijele boje                                    557.06    1    557.06    139.26
+SUPROS MOVE okrugli, bijeel b., 3000lm, 3000K SLM LED, 60°                         1250.97    2   2501.94    625.48
+Bezhalogeni jednožilni vodič H07Z-K 16mm2, crni                                      10000    7  70000.00  17500.00
+RUSTY CONE podna svjetiljka, E14 max. 40W, zahrđani čelik                          1250.97   19  23768.43   5942.11
+52 traperice, vodootporne,sa puno džepova                                           516.06   20  10321.20   2580.30
+Dodatni pokrov 4. pola, kod motornog pogona, za MC2                                  47.87   13    622.31    155.58
+LED-napajanje, 3VA, 350mA                                                           124.69   16   1995.04    498.76
+Telefonski magazin za prenap. zašt., F izvedba, 8x20 230V                           742.49   12   8909.88   2227.47
+
+                                                                                                         ----------
+UKUPNO                                                                                                    318049.34
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

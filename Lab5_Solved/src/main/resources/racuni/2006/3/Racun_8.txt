@@ -1,0 +1,31 @@
+Račun br. 245034
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zaštitni prekidač, C karakteristika, 63A, 1-polni+N, 6kA                            149.18    7   1044.26    261.07
+Nazidni okvir s vratima za Modul 2000 | 2A-24 | dubina 250mm                       1387.44   30  41623.20  10405.80
+Kabel LiYCY 2x1,5                                                                   846.03   25  21150.75   5287.69
+Elektronski relej ETU27B sa zaštitnom funkcijom LSING                              9024.68    1   9024.68   2256.17
+9G03L/W/SE, 48 LED SMD WW 3,5W E14                                                   15.71   15    235.65     58.91
+Otvoreni prekidač, 3P, 80kA, 2000A, izvl., vod. str. priklj.                      48793.95   16 780703.19 195175.80
+DAQ sigurnosna lampa ERT-LED 230V za CPS MIX mod, stropna                          1082.05   12  12984.60   3246.15
+7836A/C, Bistri pokrov 2m za 7836/7836R                                             109.99   29   3189.71    797.43
+Zaštitni prekidač, B karakteristika, 25A, 3-polni+N, 6kA                            112.77   15   1691.55    422.89
+Ines-R 22W 2GX13, 230V, IP20, sive boje                                             132.63   13   1724.19    431.05
+Napajanje, 24V DC, 1A, montaža na DIN nosač, SELV                                   387.58   16   6201.28   1550.32
+NEW TRIA, QRB Downlight, okrugla, brušeni aluminij                                  280.98   29   8148.42   2037.11
+Clara 2 LED 2x6W, 3000K, 2x420lm, 230V, IP54, antracit                              424.25    4   1697.00    424.25
+Bezhalogeni kabel s el. funkc. do90 Min. (N)HXCH4x4re/4E90                           10000   29 290000.00  72500.00
+Otvoreni prekidač, 3P, 66kA, 1000A, izvl., vod. str. priklj.                      20725.96   12 248711.53  62177.88
+RC 130i infracrveni senzor pokreta, nazidni, IP54, smeđi                            996.97   26  25921.22   6480.30
+GL 104 E27, četvrtasta, bb Gips, max. 15W                                           335.72   15   5035.80   1258.95
+Kutija za beton MO 7M, dubina 60mm 650°C, 400V                                       40.01   20    800.20    200.05
+Stezaljka ECB plavo/zelena, dovod: 1x25mm² | odvod: 7x4mm²                           89.67    7    627.69    156.92
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1460515.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

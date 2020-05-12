@@ -1,0 +1,18 @@
+Račun br. 823253
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Walt-II 54W T5, 230V, IP20, sive boje                                               879.43   20  17588.60   4397.15
+Bočne stranice za Modul 2000/3S, dubine 150mm, tip 24/150                             4160   10  41600.00  10400.00
+LS-FI (KZS), C/16A/30mA, 3P, Tip A, 10kA                                              4281   11  47091.00  11772.75
+EURO SPOT INTEGRIRANI LED, 3000K, 24°,uklj.3F adapter,cr.b.                         875.55   10   8755.50   2188.88
+GLENOS PROFILE 2609, 1m, srebrne boje                                               143.61    1    143.61     35.90
+Dvostruka priklj. stezaljka za Cu/Al,sm:2x35-150,se:2x50-185                         48.86   24   1172.64    293.16
+
+                                                                                                         ----------
+UKUPNO                                                                                                    116351.35
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

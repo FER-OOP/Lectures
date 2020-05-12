@@ -1,0 +1,20 @@
+Račun br. 588050
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+N/Ž okvir + vrata 2A-21 D=250mm str.ploča+zakr. ručica, IP54                       2610.49   14  36546.86   9136.71
+LS-FI (KZS), C/2A/30mA, 1P+N, Tip AC, 10kA                                          395.79   15   5936.85   1484.21
+Nadgradna svjetiljka SAP ECO T5 1x28W ECG, bijela                                    468.2   21   9832.20   2458.05
+Reflektor SET 150W HIT-DE RX7s IP65 crni asimetrični                                 970.9    2   1941.80    485.45
+DVI-D kabel, DVI-D(24+1) muško - muški, 3m                                           74.31    8    594.48    148.62
+Tipka za sklopke i tipkala,termički postojana,biserno bijela                         13.74   23    316.02     79.00
+LS-FI (KZS), C/16A/30mA, 1P+N, Tip A, 10kA                                          418.89   19   7958.91   1989.73
+NYCY 12x2,5RE/4                                                                    4456.84   21  93593.64  23398.41
+
+                                                                                                         ----------
+UKUPNO                                                                                                    156720.77
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

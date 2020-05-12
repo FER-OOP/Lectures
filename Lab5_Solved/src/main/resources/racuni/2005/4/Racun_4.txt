@@ -1,0 +1,16 @@
+Račun br. 985928
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Teški gumeni kabel H07RN-F 1x240, crni                                               10000    4  40000.00  10000.00
+Nadgradna svjetiljka SAO ECO T8 4x18W CCG, ind, bijela                              372.32   26   9680.32   2420.08
+Sklopnik 3P |7.5kW (18A) [AC3] / 32A [AC1] | 415V AC | 1N/O                         200.39   19   3807.41    951.85
+Držač za montažu LEVANTE B2 550mm crni                                              2071.6    8  16572.80   4143.20
+
+                                                                                                         ----------
+UKUPNO                                                                                                     70060.53
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

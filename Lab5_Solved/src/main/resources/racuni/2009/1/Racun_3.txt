@@ -1,0 +1,25 @@
+Račun br. 1006669
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Vodotijesna svjetiljka LINDA Transparente 1-36W ECG IP65 PC                         417.16   13   5423.08   1355.77
+Vodotijesna svjetiljka LINDA Industrie PC 1x28-54W IP65                             427.24   18   7690.32   1922.58
+Motorni pogon za MC4, 48-60V DC                                                       4962    3  14886.00   3721.50
+Olovna BATERIJA 12V/300W za panik sustav i UPS                                      234.65   11   2581.15    645.29
+Priključna kutija, čelik, 200x400x80 (VxŠxD), IP66, RAL7035                         198.87   10   1988.70    497.17
+Instal. umetak 1-24L komplet 8 IR prednja pl. plastika                             1361.57   28  38123.96   9530.99
+GLENOS profil 1107-100, 1m, bijele boje                                             124.86   28   3496.08    874.02
+Podnaponski isklopnik za MC4, 380-440VAC+2 ranija pom. kont.                        967.38    9   8706.42   2176.60
+Plafonjera ALICA Round TR 1x60W max, E27, IP54, crna                                   195   18   3510.00    877.50
+Signalni fleksibilni kabel YSLY-JZ 18x0,75 sivi                                      10000    9  90000.00  22500.00
+NAUTILUS LED 304 S, 3x1W, tbb                                                       788.36   21  16555.56   4138.89
+Baterija 3,6V 0,6Ah za svjetiljke sa vl. napajanjem LED, 3h                         118.88   30   3566.40    891.60
+Compact passage, senzor prisut. 360°, HVAC, stropni, bijeli                        1689.89   13  21968.57   5492.14
+
+                                                                                                         ----------
+UKUPNO                                                                                                    218496.25
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

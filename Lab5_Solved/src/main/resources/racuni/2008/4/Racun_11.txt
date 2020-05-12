@@ -1,0 +1,21 @@
+Račun br. 1095521
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+IT METER LINE nap. letva s mj. snage,36xC13+6xC19,eth.,2xsen                       7579.21    4  30316.84   7579.21
+Ina-TR-R/A2 LED 12W 3000K 1100lm, dimabilna, 700mA, IP20, wh                        234.51    3    703.53    175.88
+Pokrov stezaljki za sklopnike veličine 6                                             52.06    2    104.12     26.03
+Pomoćni sklopnik ET, 4A | 230V AC | 2N/O + 2N/C                                     127.16   19   2416.04    604.01
+Prespojni kabel RJ45 STP cat.6a/10GB, LS0H, žuti, 10.0m                              98.51    3    295.53     73.88
+"19"" ladica za tipkovnicu i miš, dubine 350mm, 2U, RAL7035"                        791.63   16  12666.08   3166.52
+Gumeni savitljivi kabel NSSHöu-O 1x150, žuti                                         10000   13 130000.00  32500.00
+Prednja ploča, čelična, slijepa, 3B4                                                  4160   10  41600.00  10400.00
+Laki gumeni kabel H05RR-F 2x2,5, crni                                                10000   18 180000.00  45000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    398102.12
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

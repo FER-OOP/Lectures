@@ -1,0 +1,18 @@
+Račun br. 172130
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Finožični PVC-om izolirani vodič H05V-K (P/F) 1mm2, naranč.                           93.1   25   2327.50    581.88
+Strujni trafo, 1500/5A 64x20                                                        290.12   14   4061.68   1015.42
+L-SE pokrov 2x58W opalni pokrov                                                     111.85   13   1454.05    363.51
+Adapter za ARROW LINE vel.00 - 100mm na 185mm                                         4821   18  86778.00  21694.50
+LED Panel Round 300 20W 1330lm neutr. bb 4200K, bijele b.                           703.23   25  17580.75   4395.19
+"Montažni nosači za 19"" okvir za ormare 900 mm dubine, par"                        110.92   10   1109.20    277.30
+
+                                                                                                         ----------
+UKUPNO                                                                                                    113311.18
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,33 @@
+Račun br. 215104
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Senzor pokreta 180°, 8m, 2-žični, antracit                                          213.52    3    640.56    160.14
+SAT odvodnik prenapona, F-ženski/F-ženski, SZU 6-02                                  30.83   20    616.60    154.15
+Set za ožičenje sklopničke komb. promjene smijera vel.12                           1000.45    4   4001.80   1000.45
+Zaštitni prekidač, D karakteristika, 25A, 1-polni, 10kA                              65.48   14    916.72    229.18
+Prednja ploča za razdjelnike sa kabelskim kanalom, 5G4                                4160    1   4160.00   1040.00
+Komplet Piktograma za lampu KC sa prizmatičnim poklopcem                             53.73   28   1504.44    376.11
+Ugradna svjetiljka SERH 310 T8 2x36W VVG sjajni raster                              281.26   12   3375.12    843.78
+Rastavna sklopka za cilindrične osigurače 14x51mm, 3P/50A                            95.45    4    381.80     95.45
+Tipka, 2-struka, za ELG740140, biserno bijela                                        98.21   13   1276.73    319.18
+E27, 15W, štedna žarulja, spiralna, 2700K                                            79.41    6    476.46    119.12
+Konektiranje 2x4 ST SM utikača + zašt. za povlačenje                               1795.48   18  32318.64   8079.66
+Nazidni okvir s vratima za Modul 2000 | 1A-18 | dubina 250mm                       1037.21   26  26967.46   6741.86
+LED žarulja Compact Globe, 10W, 810lm, E27, 2800K                                   200.59   18   3610.62    902.65
+Sutil Round  LED 12W, 4000K, 840lm, 120°, IP40, bijele boje                         172.33   20   3446.60    861.65
+Punto-A PAR16 Spot GU10 50W IP20 zakretna bijela                                     33.11   30    993.30    248.33
+Minijaturni relej, 4C/O, 6A, 115VAC, serije PT                                       39.28   24    942.72    235.68
+Kompaktni prekidač snage tip A, 3P/200A/36kA,                                      1584.17   12  19010.04   4752.51
+41018/G,  X konektor, sive boje                                                       39.7   16    635.20    158.80
+"Opt. razdjelnik,16 niti, SC, 9/125µm OS2, izvlačivi,19"",1U"                      1409.36   21  29596.56   7399.14
+Ugradna svjetiljka SE-ID PAR MAT V2 1x14W, T5,ECG, bijela                           544.83   18   9806.94   2451.74
+Adapter za spajanje sklopnika vel.00 na tiskanu pločicu                              13.41   10    134.10     33.53
+
+                                                                                                         ----------
+UKUPNO                                                                                                    144812.39
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

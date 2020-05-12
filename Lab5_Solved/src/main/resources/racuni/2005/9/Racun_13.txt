@@ -1,0 +1,19 @@
+Račun br. 385316
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Metalhalogena žarulja 20W CMH-T SuperMini, 3000K, GU6,5                             312.23   15   4683.45   1170.86
+Cilindrični osigurač, 14x51, 25A, gG, 690V AC                                          6.1   18    109.80     27.45
+Joystick, 2 položaja, s povratom, okomiti hod                                         4811   17  81787.00  20446.75
+Kontrolna sklopka 2-polna 16A sa crvenim natpisom bijela                             91.92   28   2573.76    643.44
+Grebenasta sklopka sa ključem, 0-1/1P/20A, na DIN nosač                             342.27   28   9583.56   2395.89
+Nosač SLT                                                                             51.6   11    567.60    141.90
+Nadgradna svjetiljka PRIMO H OPAL T5 1x14W ECG, bijela                              257.21    3    771.63    192.91
+
+                                                                                                         ----------
+UKUPNO                                                                                                   100076.805
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

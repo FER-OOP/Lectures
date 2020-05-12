@@ -1,0 +1,15 @@
+Račun br. 445193
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Gumena uvodnica za kabel, crne boje 12mm/10m                                          1.61   19     30.59      7.65
+PROFUNO LED, 3000K, 30°, uklj. 1f adapter, bijele boje                             1250.97   12  15011.64   3752.91
+Grijač 150W/150°C, s priklj. stezaljkama,110-250V AC/DC,IP44                        652.64   26  16968.64   4242.16
+
+                                                                                                         ----------
+UKUPNO                                                                                                    32010.871
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

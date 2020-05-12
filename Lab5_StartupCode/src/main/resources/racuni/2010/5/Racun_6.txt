@@ -1,0 +1,16 @@
+Račun br. 751844
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zaštitni prekidač, C karakteristika, 10A, 1-polni, 6kA                               22.67    4     90.68     22.67
+Kabanica veličina XXL                                                                 9843    1   9843.00   2460.75
+Tipka sa ključem,3 pol.,2x50°,bez povr.,ključ izvl. u I+0+II                         92.73   21   1947.33    486.83
+Zaštitni prekidač za ugradnju ispred brojila, C 100A,1-polni                        269.53   24   6468.72   1617.18
+
+                                                                                                         ----------
+UKUPNO                                                                                                     18349.73
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

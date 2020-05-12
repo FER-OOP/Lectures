@@ -1,0 +1,18 @@
+Račun br. 844409
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kompaktni prekidač snage tip VE, 4P, 85kA, 1250A+izvl. modul                      27070.89   29 785055.81 196263.95
+Punto-R 50W GU5,3 MR16, 12V, IP43, mesing                                            17.74    5     88.70     22.17
+Bezhalogeni kabel s el. funkc. do30 Min. (N)HXCH4x10re/10E30                         10000   19 190000.00  47500.00
+RC 230i infracrveni senzor pokreta, nazidni, IP54,inox efekt                       1290.73   12  15488.76   3872.19
+Blok pomoćnih kontakata za sklopnike vel. 00, 1 N/O+3 N/C                            41.44   30   1243.20    310.80
+Najlonska tipla ZEBRA, ZX-KST, 12x66mm                                              335.61   19   6376.59   1594.15
+
+                                                                                                         ----------
+UKUPNO                                                                                                     998253.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

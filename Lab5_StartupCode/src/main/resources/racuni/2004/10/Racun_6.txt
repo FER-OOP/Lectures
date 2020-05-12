@@ -1,0 +1,25 @@
+Račun br. 641525
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Industrijski utikač - Multigrip, 5 polni, 32A, IP44                                   4320   20  86400.00  21600.00
+Uzidni okvir s vratima za Modul 2000 | 2U-12 | dubina 100mm                           4190   23  96370.00  24092.50
+Sutil-Q LED 30W 4000K 2174lm, IP40, sive boje                                       512.96   22  11285.12   2821.28
+Označne pločice 301-350 (pločica sa 2x od 301-350)                                   16.83   28    471.24    117.81
+Baterija RPOWER OGiV 12/65Ah, longlife: 10-12 god.                                 1337.76   14  18728.64   4682.16
+"FIN POLE 100cm LED 9x1W 4000K ""DOWN"" MAT STAKLO sive boje"                      3657.17   14  51200.38  12800.09
+Kompaktni prekidač snage tip VE, 4P, 50kA, 250A                                    3941.12   16  63057.92  15764.48
+NEW TRIA MINI DL četvrtasti Set, 3W, 3000K, 30°, crne boje                          299.73   22   6594.06   1648.51
+PERFORMANCE LINE paralelna kliješta za zatvaranje RJ45 modul                           342    6   2052.00    513.00
+SDL PRO 70, HIT-DE 70W R7s, sa 3-faznim adapterom,srebrne b.                       1125.94    7   7881.58   1970.39
+Držač kabela, interni, za AS/KS ormare širine 600mm                                 142.08   19   2699.52    674.88
+ARROW-BLOC vel.3 za sustav 100mm, odlaz dolje                                         4821   26 125346.00  31336.50
+Punto-F/M MR16 Spot round, GU5,3, 50W, IP20, krom                                    16.55    6     99.30     24.82
+
+                                                                                                         ----------
+UKUPNO                                                                                                     472185.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

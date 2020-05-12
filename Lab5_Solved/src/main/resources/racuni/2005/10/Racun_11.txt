@@ -1,0 +1,19 @@
+Račun br. 667003
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Priključnica 2xRJ45 cat.5e, neoklopljena, 80x80, RAL9010                             31.66   28    886.48    221.62
+PRIORI FID sklopka 40-4-003/A, G izvedba                                           1131.45   17  19234.65   4808.66
+Kompaktni prekidač snage tip AF, 3P/80A/18kA, box stezaljke                          529.4   24  12705.60   3176.40
+Roze-WL-S LED 6x0,2W 6000K, IP20, aluminij                                           79.07    7    553.49    138.37
+TYTAN R rastavna pruga za D02 i 10x38mm, 3P/35A, sustav 60mm                        339.67   22   7472.74   1868.19
+BK razdjelnik,1xF-ž-2xF-ž,multimedija,5-1006MHz,BVE 20-01                            18.61   29    539.69    134.92
+Tipka za odjavno tipkalo, bijela                                                      72.2    7    505.40    126.35
+
+                                                                                                         ----------
+UKUPNO                                                                                                     41898.05
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

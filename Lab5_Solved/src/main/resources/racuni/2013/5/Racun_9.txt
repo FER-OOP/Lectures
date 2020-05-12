@@ -1,0 +1,15 @@
+Račun br. 306281
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+NEW TRIA I MR16 downlight, četvrt., brušeni aluminij,max.50W                         187.2    5    936.00    234.00
+Završni poklopac CLU ravni zatvoreni sa vijcima                                      87.09   28   2438.52    609.63
+Zaštitni prekidač, C karakteristika, 10A, 2-polni, 6kA                               63.66    4    254.64     63.66
+
+                                                                                                         ----------
+UKUPNO                                                                                                      3629.16
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

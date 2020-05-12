@@ -1,0 +1,19 @@
+Račun br. 1030559
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Mehanička blokada za sklopnike vel.6-12                                              79.59    5    397.95     99.49
+P/Ž stanski kombi razdjelnik, Š595xV785xD116, RAL9010                                 4083   26 106158.00  26539.50
+CRISTAL SMALL LED 4x1W 3000K SIM. 80° INOX + ugradna kutija                        2102.09   23  48348.07  12087.02
+Okvir 2/3M line, zeleni                                                               2434    2   4868.00   1217.00
+NYCY 4x1,5RE/1,5                                                                   1285.24   30  38557.20   9639.30
+Bezhal. kabel poboljšanih svoj.za sl. požara N2XH-J 5x1,5re                          10000   12 120000.00  30000.00
+Pokrov 45F za DIII, E33 postolje, za IP74069--                                        4821   23 110883.00  27720.75
+
+                                                                                                         ----------
+UKUPNO                                                                                                    429212.25
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

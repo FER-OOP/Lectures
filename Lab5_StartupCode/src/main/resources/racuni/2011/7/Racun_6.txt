@@ -1,0 +1,32 @@
+Račun br. 633424
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+SFP modul 1000BaseLX LC singlemodni 1310nm, 10km                                       466   24  11184.00   2796.00
+7826, Montažna kopča za 7820W / 7821W                                                 3.04    6     18.24      4.56
+Dan-/Noć sklopnik, 3-polni, 25A                                                     657.28    9   5915.52   1478.88
+FID sklopka 63-4-003/AC, 10kA, G izvedba                                            905.91   18  16306.38   4076.59
+Produžna osovina za MC1 i MC2, za ormar maks. dubine 400mm                            31.7   10    317.00     79.25
+Zaštitni prekidač AMPARO 6kA, C 20A, 3-polni                                         76.11   30   2283.30    570.83
+Rezervni nož za HSETOOL01F, sistem LSA                                               53.25   30   1597.50    399.38
+Panik svjetiljka QG FLUO 8W, CPS sustav, pikto.,zidna                               634.34   21  13321.14   3330.29
+Redna stez. (utični priklj.) 2.5mm², tip HTE.2, žuto/zelena                          13.74   21    288.54     72.14
+Meiva-Q/A2 LED 40W 4000K 3300lm, IP20, bijele boje                                  967.46    5   4837.30   1209.33
+Prespojni kabel RJ45 cat.5e oklopljen, PVC, crveni, 0.5m                              5.34   20    106.80     26.70
+FIN XS Pole 30 4W LED 4000°K, 300lm, antracit                                      1999.54   17  33992.18   8498.04
+Standardna bakrena sabirnica,30x10mm |630A| 3.6m,pokositrena                        2031.9   22  44701.80  11175.45
+9S23/Y/E, 23W E27 , žute boje                                                         39.7   21    833.70    208.43
+Pribor za ovjes za M48, duljina= 1,5m                                               281.41   28   7879.48   1969.87
+Gljivasto tipkalo, crveno, fi=40mm, deblokada povlačenjem                            71.38    5    356.90     89.22
+Poliester kućište 135x135x129mm, prozirni poklopac,IP66,sivo                        269.77   11   2967.47    741.87
+Senga LED 15W 1400lm, 4000K 100-240V, IP44, sa senzorom, bb                          395.7    3   1187.10    296.78
+Teretna sklopka, rastavljač (izolator), 100A, 1P                                     41.48   23    954.04    238.51
+Tipkalo s povratom, zeleno, crni prsten                                              14.66   29    425.14    106.29
+
+                                                                                                         ----------
+UKUPNO                                                                                                    149473.55
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

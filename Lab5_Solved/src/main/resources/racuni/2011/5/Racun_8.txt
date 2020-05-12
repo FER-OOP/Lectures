@@ -1,0 +1,32 @@
+Račun br. 186154
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+L-SE el. uložak DM 1x49W ECG                                                        244.49    5   1222.45    305.61
+Halogena žarulja QT 12 35W 12V GY6,35                                                13.03   23    299.69     74.92
+EUTRAC Ovjes za 3-fazne šine, 120cm crne b.                                         218.46   14   3058.44    764.61
+Pinta-Q/A2 50W GU10 MR16, 100-240V, IP20, bijele boje                                63.02   10    630.20    157.55
+Pokrov IP20-BS 1 MD180i/R,PD180i/R,MD/PD180, bijeli                                  69.21   29   2007.09    501.77
+Kabel H03VV-F (PP/L) 3x0,75mm2, žuti 50m kolut                                       10000   19 190000.00  47500.00
+TERANG 2, 3000K, oval, sive boje                                                    406.17    2    812.34    203.09
+Kabel EYY-J (PP00-Y) 3x25/16RM/RE                                                    10000   16 160000.00  40000.00
+Audio jedinica, SB                                                                  883.81   27  23862.87   5965.72
+Kruta lagana cijev, M20, 320N, EN2242, HF, s-siva, 3m (111m)                       1070.39   11  11774.29   2943.57
+Senga LED 10W 900lm, 4000K, 230V, IP65, antracit                                    185.68   19   3527.92    881.98
+PlanoCentro 000, senzor prisutnosti, pomoćni, p/ž , crni                           3310.11   19  62892.09  15723.02
+Montažni nosač za LED zidni profil,uklj. vijci i tiple, 3kom                         62.51    8    500.08    125.02
+Pokrov priključnih stezaljki na adapteru MC391700--                                  95.34   28   2669.52    667.38
+Kompaktni prekidač snage tip VE, 4P, 50kA, 800A                                   25791.67   25 644791.75 161197.94
+DALI CS Kombi-senzor                                                               1014.58   21  21306.18   5326.54
+Tipka s ručicom,crvena,osvijetljena,2 polož.,50°,s povratom                          44.43   28   1244.04    311.01
+Optički prespojni kabel duplex, LC/SC, 50/125µm OM3, 10m                            144.78   23   3329.94    832.48
+I-BED WALL SHORT, 3,8W, 3000K, CRI=80, crne boje                                    938.06    9   8442.54   2110.64
+LED RETROFIT RL-C40 FG 4W 230V 827 470lm mat E14 15000h                              40.39   29   1171.31    292.83
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1143542.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

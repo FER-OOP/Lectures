@@ -1,0 +1,26 @@
+Račun br. 571447
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+DOWNUNDER LED 15 zidna svj., br.alu.d, tople bb LED                                 343.66    7   2405.62    601.41
+LS-FI (KZS), C/40A/100mA, 1P+N, Tip AC, 10kA                                          4281   27 115587.00  28896.75
+Završni poklopac TBF kutni zatvoreni                                                 50.26   16    804.16    201.04
+Paralelna spojnica za stezaljku CBD10                                                 4.77   11     52.47     13.12
+Prizma stezaljke 1,5-70mm2, za vel.1 - 3, (set)                                      19.85   22    436.70    109.18
+Print relej SR2, 2 C/O, 24VDC, 6A, 5mm                                              112.78   14   1578.92    394.73
+Daljinski isklopnik za MC2/3,24VAC/DC, sa ranijim pom. kont.                         512.5   27  13837.50   3459.38
+Bimetalni relej za sklopnike vel. 00 | 0,35 - 0,50A                                 161.33    8   1290.64    322.66
+Kutija podžbukna MO 7M, dubina 60mm 650°C,500V halogen free                          14.06    1     14.06      3.52
+Signalni fleksibilni kabel YSLY-JB 5x10 sivi                                         10000   14 140000.00  35000.00
+LS-FI (KZS), B/13A/30mA, 1P+N, Tip AC, G izvedba, 10kA                              609.79   28  17074.12   4268.53
+Transformator 230V - 12V AC, 10-60W, dim.                                            46.46   26   1207.96    301.99
+PlanoCentro 201, senzor prisutnosti, stropni, crni                                  3959.1    9  35631.90   8907.98
+Spojnica za 3/4 polne slopnike (vel. 0 - vel. 0)                                      5.91    7     41.37     10.34
+
+                                                                                                         ----------
+UKUPNO                                                                                                    329962.44
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

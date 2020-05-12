@@ -1,0 +1,24 @@
+Račun br. 527724
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zaštitni prekidač, B karakteristika, 13A, 2-polni, 10kA                              80.41   27   2171.07    542.77
+Alan-I-S 40W G9, 100-240V, IP20, aluminij                                           227.25   22   4999.50   1249.88
+Utičnica MO šuko 2M 16A, sa dječjom zaštitom, na vijak, crna                         27.98    8    223.84     55.96
+IBDN prespojni kabel RJ45 UTP cat.6A, zeleni, 7.6m                                    6804   10  68040.00  17010.00
+Jednožični PVC-om izolirani vodič H05V-U (P) 1mm2, bijeli                            10000   25 250000.00  62500.00
+Okvir MO 3x2M, line, crni                                                            32.35   18    582.30    145.57
+Razdjelnik uzidni, IP40, 1-redni, 18 modula, bijela vrata                           123.25   22   2711.50    677.88
+Sklopka za ugradnju polucilindar brave,1P,10A/250VAC,za IP44                        530.11   24  12722.64   3180.66
+Skidač izolacije instalacijskih kabela                                               172.7   12   2072.40    518.10
+Montažna ploča za AS/KS ormare, 1800x1200mm (VxŠ)                                   976.89    9   8792.01   2198.00
+Samourezni vijak, 4.2x9.5mm (1 kom.)                                                  0.16   28      4.48      1.12
+Fluo cijev T8|T26 ECO 51W 830                                                        51.97    1     51.97     12.99
+
+                                                                                                         ----------
+UKUPNO                                                                                                     352371.7
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

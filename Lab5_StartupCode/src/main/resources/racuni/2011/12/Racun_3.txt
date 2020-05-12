@@ -1,0 +1,23 @@
+Račun br. 937009
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Fluokompaktna žarulja TC-DEL 13W/840 G24Q-1                                          26.06    5    130.30     32.58
+M-Bodywarmer, podstavljen, vodoodbojan                                              460.23   17   7823.91   1955.98
+Strujni trafo, 600/5A, 30X10                                                        101.91   11   1121.01    280.25
+LED traka nap.stez. 15mm,RGB, sa 50cm Kabel, 1kom                                    62.51   19   1187.69    296.92
+Staklena vrata za AS ormare 2000x800mm, prozirna, RAL 7035                         2931.14   15  43967.10  10991.77
+DOWNUNDER LED 27 zidna svj., kam.siva, tople bb LED                                 335.72    5   1678.60    419.65
+Linijska svj. SERH-LF 112, početni profil,  1x28W, ECG, bb                          536.92   21  11275.32   2818.83
+"Opt. razdjelnik, 12 niti,SC,50/125µm OM4, izvlačivi,19"",1U"                       745.49   12   8945.88   2236.47
+Plosnata traka Fe/Zn 40 x 4.0mm, 1bunt~50kg~39m                                      12.56   20    251.20     62.80
+Kabel 4mm2, crni, TÜV odobrenje, pakiranje 500m                                    1089.03   21  22869.63   5717.41
+PLENUM FIX podna svjetiljka, okr., bijele b., E27, max. 25W                         938.06   27  25327.62   6331.90
+
+                                                                                                         ----------
+UKUPNO                                                                                                   124578.266
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

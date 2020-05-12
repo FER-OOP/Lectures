@@ -1,0 +1,31 @@
+Račun br. 685460
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+9G01/GR/B, LED BALL žarulja 0,5w B22 230v, zelene boje                               16.05   18    288.90     72.22
+Spojnica (koljeno) M40, bez halogena, svijetlo-siva                                3848.12   15  57721.80  14430.45
+LED 12-30V AC/DC plavi za prednju montažu, utične stezaljke                          38.95   22    856.90    214.23
+KABEL E-AYY-J (PP00-AL)  4X150 SM                                                  7493.86   10  74938.60  18734.65
+MIBO STRAIGHT svjetiljka za ogledala, 2xG9                                          437.43   27  11810.61   2952.65
+Signalni fleksibilni kabel YSLCY-JZ 4x 1 sivi                                      1082.83   26  28153.58   7038.39
+D02 rastavna sklopka TYTAN T, 3-polna + N, 63A                                      470.76   24  11298.24   2824.56
+Poliester ormar, vrh i dno zatv., 2 vrata 1000x1000x312(VŠD)                       5256.09   14  73585.26  18396.31
+NEW TRIA MINI DL okrugli SET, Downlight, 3000K, brušeni al.                         299.73   29   8692.17   2173.04
+Uzdna kada za šuplji zid, za BK072.., KVH, 1R, 12+2 modula                          106.28   18   1913.04    478.26
+Prednja ploča antenske utičnice sa 4 otvora, alu efekt                               84.82   10    848.20    212.05
+Linijska svjetiljka SOLO 2 1x18W ECG T8 bijela                                      127.83   14   1789.62    447.40
+Sklopnik vel.3 | 4P | AC1 110A/690V | 24VAC                                         879.84   21  18476.64   4619.16
+Instal. umetak 3-45K komplet 15 IR prednja pl. čelik                               3051.47   22  67132.34  16783.08
+Kabel  EYY-J ( PP00-Y)  4x185 SM                                                  61250.28   231408756.50 352189.13
+Finožični PVC-om izol. vodič H07V-K (P/F) 4mm2, smeđi HPV                            10000   30 300000.00  75000.00
+Marker za grupno označavanje, montaža na IK623002--                                   4851   27 130977.00  32744.25
+ROX OUT LED UP/DOWN,topla b. LED 2x3W                                              1063.26   26  27644.76   6911.19
+Jamba-WL-R 2x20W E27, 100-240V, IP54, rusty                                         271.18   15   4067.70   1016.92
+
+                                                                                                         ----------
+UKUPNO                                                                                                    2228952.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

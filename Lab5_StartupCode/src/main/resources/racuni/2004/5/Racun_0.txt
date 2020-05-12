@@ -1,0 +1,14 @@
+Račun br. 105234
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kabelska uvodnica, gumena, PG9-PG11                                                   3.35   11     36.85      9.21
+Zaštitni prekidač, D karakteristika, 16A, 1-polni, 10kA                              53.58    3    160.74     40.19
+
+                                                                                                         ----------
+UKUPNO                                                                                                       197.59
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,30 @@
+Račun br. 898136
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Mura-CL-II-R LED 1W 3000K, IP54, aluminij                                           219.81   20   4396.20   1099.05
+Finožični PVC-om izolirani vodič H05V-K (P/F) 0,5mm2,t-plavi                         55.66    9    500.94    125.24
+"Katalog ""RASVJETNA RJEŠENJA 2014"" (na Engleskom)"                                  9843   27 265761.00  66440.25
+NEW TRIA LED 3W DL SQUARE SET, mat bijele b., 3W, 38°, 3000K                        249.72   21   5244.12   1311.03
+Kompaktni prekidač snage tip M, 3P/100A/25kA, MC1                                   838.82    9   7549.38   1887.34
+Kompaktni prekidač snage tip VE, 3P, 85kA, 1600A                                  45743.49   18 823382.81 205845.70
+Osigurač EZIII/35A                                                                    6.18   18    111.24     27.81
+DRAGAN SENSOR, bijela b., E27, max. 2x24W, IP44, sa senzorom                       1125.94    7   7881.58   1970.39
+T5-BAR 24W, Stropna ugradna svjetiljka aluminij                                     625.15   15   9377.25   2344.31
+ESSENS 26/2 duboki Downlight, bb                                                    694.85   24  16676.40   4169.10
+PROTECTOR K nazidna kutija visine 27mm, bijela                                       34.79   22    765.38    191.35
+LED RETROFIT RL-HRL125 54W 230V 6000lm E27 32000h                                  1388.54   28  38879.12   9719.78
+Ugr. downl. SEGON LED 18W ED 1900lm/830,3hEM,MAT IP44 70°,bb                       1278.14   19  24284.66   6071.17
+WAVE WALL zidna svjetiljka, 2x4,6W LED, 3000K, 700lm, al.                          1250.97   23  28772.31   7193.08
+Glenos akrilni pokrov, četvrtasti pokrov za profile 2609, 1m                        124.86   28   3496.08    874.02
+Uzidna izmjenična sklopka, bijela, 10A, IP44, na vijak                                2107   22  46354.00  11588.50
+Svjetleće tipkalo s plosnatom tipkom, prozirno, uskočno                              42.98   17    730.66    182.66
+Ampermetar, 96x96mm, AC, za strujni mjerni trafo …/5A                               108.75   30   3262.50    815.63
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1287425.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

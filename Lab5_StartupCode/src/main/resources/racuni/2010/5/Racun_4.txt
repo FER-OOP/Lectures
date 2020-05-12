@@ -1,0 +1,16 @@
+Račun br. 880942
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Mini grijač 30W, 9-36V AC/DC                                                        330.83   15   4962.45   1240.61
+Natrijeva žarulja HST-DE NAV-TS 150W RX7s-24 2000°K                                 278.46    4   1113.84    278.46
+LED OUTDOOR BEAM, srebrne boje, 10W, tb, 120°                                        393.5    5   1967.50    491.87
+70020, HID SVJETILJKA 50W ,  punjiva                                               1325.99   27  35801.73   8950.43
+
+                                                                                                         ----------
+UKUPNO                                                                                                     43845.52
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

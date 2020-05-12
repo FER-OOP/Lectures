@@ -1,0 +1,25 @@
+Račun br. 298090
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Frekvencmetar, 96x96mm, 45 - 65Hz, 230V                                             304.89    6   1829.34    457.34
+Tores-TR-Q 2x20W E27, 100-240V, IP20, bijele boje                                    66.23   15    993.45    248.36
+Kabel LiYCY-TP 6x2x0,75                                                            2700.01    8  21600.08   5400.02
+"2-struki okvir ""Fashion"",otp. na grebanje, biserno bijeli"                        15.46    3     46.38     11.60
+Maya-II-S 8W T5, 230V, IP44, krom                                                   384.55   16   6152.80   1538.20
+"Haupa ""Vario"" 10-djelni set zamjenjivih nastavaka odvijača"                      242.45   22   5333.90   1333.47
+Finožični PVC-om izol. vodič H07V-K (P/F) 1,5mm2, ljub. HPV                          10000    5  50000.00  12500.00
+Završna pločica za stezaljku IK690014--, siva                                         3.09   20     61.80     15.45
+Kompenzacija  LSFC 7% 400/25kvar 800x2000x400mm Samost.orm.                       85541.93   201710838.63 427709.66
+Telekomunikacijski kabel F-YAY 100x2x0,6mm2                                          10000    9  90000.00  22500.00
+Design IL ERT-LED 1x3W 3h 230V AC,  radijalno ,stropna                               900.6    7   6304.20   1576.05
+"4-struki okvir ""Riva"", bijeli"                                                    66.97   26   1741.22    435.30
+Završni poklopac SLR                                                                 50.26    6    301.56     75.39
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1895203.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

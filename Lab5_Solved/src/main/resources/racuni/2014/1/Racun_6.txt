@@ -1,0 +1,14 @@
+Račun br. 627875
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Profil-stezaljka 101 x (20 - 42)mm za TT sabirnice, 1600A                             4832   11  53152.00  13288.00
+Zaštitni prekidač AMPARO 6kA, C 16A, 1P+N                                            47.24   17    803.08    200.77
+
+                                                                                                         ----------
+UKUPNO                                                                                                     53955.08
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

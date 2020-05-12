@@ -1,0 +1,17 @@
+Račun br. 686092
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Teški gumeni kabel H07RN-F 5x1,5, crni                                             1136.47   14  15910.58   3977.65
+Držač za XT, RP4 releje                                                               1.94   19     36.86      9.22
+"3-struki okvir ""Riva"", biserno bijeli"                                            42.75   24   1026.00    256.50
+LED MR11 20 2,3W 12V 30° 827 184lm 400cd GU4 15000h                                  80.64   21   1693.44    423.36
+Bezhal. kabel s konc.zaštitnim Cu vodičem N2XCH 12x2,5re/4                           10000    9  90000.00  22500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    108666.88
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

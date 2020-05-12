@@ -1,0 +1,29 @@
+Račun br. 894054
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Dodatni kabel za programiranje, SB                                                  270.14   19   5132.66   1283.17
+Kabel LiYCY 40x0,25                                                                  10000   26 260000.00  65000.00
+Cijev, M20, 320N, EN2221, svijetlo siva, 3m (pak. 111m)                             273.74   19   5201.06   1300.26
+Kompenzacija ožičena  52,5/7,5kvar 500x500x300mm zidni ormar                      11690.66    1  11690.66   2922.67
+"19"" okom. set nosača za police za kom. orm. D=900/1000/1200"                       29.25   26    760.50    190.13
+LED napajanje RS 50W/24V, IP20                                                         251   25   6275.00   1568.75
+VANDALCOM audio modul, 2 tipke                                                      564.47   14   7902.58   1975.64
+SQUARE Downlight, krom                                                              105.76   27   2855.52    713.88
+KNX Teretna sklopka,16x10(16)A                                                     2889.87   10  28898.70   7224.67
+FRAME BASIC LED,četvrt.,srebrne boje, neutr. bijele boje LED                        196.83   22   4330.26   1082.57
+Kompaktni prekidač snage tip VE, 3P, 150kA, 100A                                   2296.62   18  41339.16  10334.79
+Završni pokrov (lijevi+desni) za nosač sabirnica SI014300--                         108.47    9    976.23    244.06
+Pomoćni kontakt 3A (230VAC15), (1+1) za K3 175..316, bočni                           96.02    4    384.08     96.02
+Kai-S 28 LED 66W 6330lm, 4000K ulič.opt. LT-L, IP66, RAL9006                       4088.14    9  36793.26   9198.31
+SENSERLED PANEL nadgradni, 10W, 3000K, četvrtasti, sive boje                        531.37    7   3719.59    929.90
+Spojnica profila za svjetiljke LUCIE T5                                              13.34    7     93.38     23.35
+Kabel YSLYQY-JZ 25x 1,5 prozirni                                                     10000    5  50000.00  12500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    466352.62
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

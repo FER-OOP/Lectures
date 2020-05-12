@@ -1,0 +1,33 @@
+Račun br. 748830
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Poliester zidni ormar MINIPOL, prozirna vrata, 600x500x230mm                        2293.7   19  43580.30  10895.08
+"1-struki okvir ""Fashion"", termički postojan, bijeli"                               8.75   27    236.25     59.06
+TYTAN HR11 relej za ukupni nadzor, 2 C/O, 5A / 250V AC                              341.65   18   6149.70   1537.42
+Perforirana bočna str. za DS/DSZ ormare, 45U, D=800                                 688.28   17  11700.76   2925.19
+L-SE sjajni odsijač R12 T5 AL 28/54W duboki, aluminij                                81.44   19   1547.36    386.84
+INOX samostojeći ormar, 2000x800x400mm (VxŠxD)                                    19576.79   12 234921.47  58730.36
+L-SE umetak DM 1.5 Medium Wide 1x44W LED 4450lm/830                                1402.89   21  29460.69   7365.17
+LS-FI (KZS), B/16A/30mA, 3P, Tip A, 10kA                                              4281   23  98463.00  24615.75
+Nadgradna svjetiljka SAP ECO T8 1x58W ECG, bijela                                   463.23    9   4169.07   1042.27
+9S07S/W/E, 7W E27 WW                                                                  5.74    6     34.44      8.61
+Motorna zaštitna sklopka, 3-polna | 10 - 16A                                        257.75   18   4639.50   1159.88
+Daljinski isklopnik za MC4, 110-130V AC/DC                                          644.79   18  11606.22   2901.55
+Industrijska svj. CERES 1x140W,LED,17200lm/657, crna                                  8536   28 239008.00  59752.00
+Kabel za zvučnike LFZ-XY 2x2,5mm2, prozirni                                         800.49    8   6403.92   1600.98
+Multimode-Relej, 2C/O,10A, 230VAC 8-polni, AgNi 90/10,LED,MT                         71.32   29   2068.28    517.07
+TEC 2 QRB zidna i stropna svjetiljka  max. 2x50W                                    875.55   27  23639.85   5909.96
+Grebenasta sklopka 0-1/2P/32A/1kV DC, na DIN nosač                                  387.64    4   1550.56    387.64
+Oscar-III-R 15W E14, 100-240V, IP20, krom                                           403.13   21   8465.73   2116.43
+Tipka za sklopke i tipkala, bijela                                                    8.17    6     49.02     12.26
+SB2/SBC riser, 1 linija IN - 2 linije OUT                                           668.28    5   3341.40    835.35
+HDMI rotacijski adapter 360°, HDMI A ženski-HDMI A muški                             53.88   10    538.80    134.70
+
+                                                                                                         ----------
+UKUPNO                                                                                                     731574.3
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,33 @@
+Račun br. 976600
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Set zaštitne opreme Würth (rukavice + 2x naočale)                                   395.16   20   7903.20   1975.80
+Smith-II-Q LED 3W 3000K 200lm, IP54, bijele boje                                    278.44    9   2505.96    626.49
+Optički prespojni kabel duplex LC/FC, 50/125µm OM2, 10.0m                           126.96    8   1015.68    253.92
+Napajanje 33V DC za 316 TOUCH                                                      1350.39   22  29708.58   7427.15
+Okvir 1/3M line, srebrni                                                             35.64   17    605.88    151.47
+Telekomunikacijski kabel J-Y(ST)Y 20x2x0,6mm2                                      1470.43   16  23526.88   5881.72
+Adapter, viličasti, preko sabirnice, za BE5, 25mm2, gore                              46.6   18    838.80    209.70
+Reflektor FORCA LED 151W 14470lm/740 ECG IP65, as široki,sb                        4134.73   10  41347.30  10336.83
+LED RETROFIT RL-A100 14,5W 230V 840 1521lm mat E27 15000h                           105.67   30   3170.10    792.52
+Unutarnja vrata za Minipol ormare, poliester, puna, 500X400                         730.57   14  10227.98   2557.00
+Design IL ERT-LED 1x3W 230VAC 3h sa bat.bežič,AT, SPOT,strop                       1658.41   16  26534.56   6633.64
+Zaštitni prekidač, D karakteristika, 16A, 3-polni+N, 10kA                           217.57   12   2610.84    652.71
+Kabel za gradilišta XYMM-J 5x1,5 K35 / 50m, žuti                                     10000    7  70000.00  17500.00
+Lucy-30-R 15W E27, 100-240V, IP44, nehrđajući čelik                                  80.59   23   1853.57    463.39
+Dvostruko tipkalo, zeleno/crveno, 24V                                               151.66   10   1516.60    379.15
+Bezhalogeni jednožilni vodič H07Z-U 1,5mm2, crni                                     10000    3  30000.00   7500.00
+Stražnja ploča za nazidni Modul 2000 | 4R-33                                         341.6    7   2391.20    597.80
+Inverter EasySolar24/1600/40 MPPT100/50                                           12155.68   15 182335.19  45583.80
+Montažna ploča za Maxipol ormare 750X1000 (VxŠ), metalna                            629.44   30  18883.20   4720.80
+NEW TRIA I QRB111 SQUARE, uklj. opruge, crne boje                                   268.47   11   2953.17    738.29
+Bat.3,2V 3Ah za LED svjet. sa vl. napajanjem ,KSC,KMB i ZAW                         273.69    2    547.38    136.85
+
+                                                                                                         ----------
+UKUPNO                                                                                                    460476.03
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

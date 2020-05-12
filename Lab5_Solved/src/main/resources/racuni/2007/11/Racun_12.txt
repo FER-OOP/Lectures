@@ -1,0 +1,20 @@
+Račun br. 770954
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Košulja ženska, dugih rukava, bijela -38-                                           646.59   17  10992.03   2748.01
+Nazidni okvir s vratima za Modul 2000 | 4A-24 | dubina 250mm                       2154.28    8  17234.24   4308.56
+Dena-R/A2 70W G8,5, 230V, IP20, crne boje                                             17.9   24    429.60    107.40
+Pomoćni kontakt za seriju BR, 1 N/O + 1 N/C                                         146.02   20   2920.40    730.10
+Nadžbukna kutija za senzor prisutnosti 110A, bijela                                  84.99   28   2379.72    594.93
+Izolir traka, plava, 15mm x 10m - COROPLAST                                           5.99   11     65.89     16.47
+Podnožje za HSTMSVL120, visina 100mm                                                980.08   28  27442.24   6860.56
+Držač za cilindrične osigurače 10 x 38 | 1P | 32A/690V                               31.31   22    688.82    172.21
+
+                                                                                                         ----------
+UKUPNO                                                                                                    62152.938
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

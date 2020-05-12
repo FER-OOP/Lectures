@@ -1,0 +1,28 @@
+Račun br. 957841
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Izmj. Fronius Symo 4.5-3-M, 4.5kW, 3f, IP55, TL 2 MppTracker                      17721.07    5  88605.35  22151.34
+Solid LED traka u kućištu, 15W, 1050lm, 3000K, IP20, siva                           298.38   11   3282.18    820.54
+Teretna sklopka, 3P, 1250A, opcija: daljinski isklopbar                           12380.03   11 136180.33  34045.08
+Nadgradna svjetiljka SAP IP54 T8 2x36W CCG, ind, bijela                            1305.93   13  16977.09   4244.27
+GU10 SP Downlight, krom mat                                                         205.96   13   2677.48    669.37
+Gljivasto tipkalo bez povrata, crveno, deblokada pritiskom                            61.1   19   1160.90    290.23
+M2000 SET, N/Ž do 24 modularne visine, RAL7035, 1 ručica                             31.38    7    219.66     54.92
+Okvir za n/ž ugradnju HSED0xUWxS, 80x40x80mm, RAL9010                                    7    3     21.00      5.25
+Zaštita za sab.sistem,izl. 39 ili 34 mm za ARROW BLUE vel.00                          4821   10  48210.00  12052.50
+Optički prespojni kabel duplex, SC/SC, 50/125µm OM3, 5.0m                            117.6   20   2352.00    588.00
+Piktogram Linda 11W strelica lijevo, vidljivost 20m                                  23.71    4     94.84     23.71
+Fluokompaktna žarulja TC-SEL 9W/827 2G7                                              20.16   21    423.36    105.84
+Finožični PVC-om izolirani vodič H07V-K (P/F) 2,5mm2, crni                          195.31    2    390.62     97.65
+Završna pločica za stezaljku IK632004--, zelena                                       1.22   23     28.06      7.02
+Sabirnica, 4P, viličasta, 10mm² (63A)|korak 18mm| 214mm                              69.87   29   2026.23    506.56
+Završni poklopci za GLENOS ALU profil sa pokrovom,2 kom.                            124.52   14   1743.28    435.82
+
+                                                                                                         ----------
+UKUPNO                                                                                                     304392.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

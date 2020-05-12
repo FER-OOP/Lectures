@@ -1,0 +1,25 @@
+Račun br. 303922
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+ALTRA DICE SPOT, četvrt., crni, GU10, max. 50W uklj. adapter                        500.12    3   1500.36    375.09
+Tipka s ručicom,crna,neosvijetljena,2 polož.,90°,bez povrata                         40.41   14    565.74    141.43
+FRAME BASIC Downlight MR16                                                          112.31   16   1796.96    449.24
+Lumo Round LED Downlight, 24W, 4000K, 1550lm, IP44, bijela                          318.15   20   6363.00   1590.75
+Tipka s ručicom,žuta,osvijetljena,3 polož.,50°,s povratom                            44.43   20    888.60    222.15
+Kabel EYY-J (PP00-Y) 7x1,5 RE                                                      1237.67   16  19802.72   4950.68
+Distantni vijak visine 60mm, M4, unutarnji i vanjski navoj                           16.66   25    416.50    104.13
+NEW TRIA LED DL ROUND SET, mat bijele b., 6W, 2700K, 38°                            374.92   13   4873.96   1218.49
+FGL OUTDOOR SQUARE Downlight, MR16, srebrne boje                                    218.46   13   2839.98    709.99
+FID sklopka 40-4-003/A (puls)                                                       650.13   19  12352.47   3088.12
+Pokrov za antensku utičnicu HSAT…, 4 otvora, antracit                                12.97   13    168.61     42.15
+Paralelna spojnica (kratkospojnik) za 31 stezaljku IK110006-                          4850   12  58200.00  14550.00
+Signalni fleksibilni kabel YSLY-JZ 34x0,5 sivi                                       10000   29 290000.00  72500.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     399768.9
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

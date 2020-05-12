@@ -1,0 +1,30 @@
+Račun br. 944533
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"Prespojni panel 19"", prazan, za 24 modula (SFA)(SFB), 1U"                         128.78    3    386.34     96.58
+Cijev, M25, 320N, EN2221, svijetlo siva, 3m (pak. 57m)                              412.66   17   7015.22   1753.80
+Signalna svjetiljka, glatka leća, žuta, s držačima                                   19.35   29    561.15    140.29
+Nap.stezaljka za 1-f  3-f šina,lijeva, bb                                            44.94   10    449.40    112.35
+Aluminijski montažni nosač 5H/C                                                      38.13   21    800.73    200.18
+Bočne stranice za Modul 2000/3S, dubine 102mm, tip 45/102                             4160   26 108160.00  27040.00
+LED SURFACE SPOT 1800lm, okrugla, srebrna b., 48 LED, 3000K                        1125.94   13  14637.22   3659.30
+Instalacijski sklopnik 25A | 1 N/O + 3 N/C | 24V AC                                 160.66    7   1124.62    281.15
+Kućište s poklopcem (razvodna kutija) 88x88x45.5mm, IP44                             12.59   16    201.44     50.36
+Kronos-S/A2 LED 2x10W 3000K 2x700lm, IP20, bijele boje                              732.94    6   4397.64   1099.41
+Signalni fleksibilni kabel YSLY-OZ 2x1 sivi                                         305.62   23   7029.26   1757.31
+Košulja muška, dugih rukava, bijela -42-                                            586.99   15   8804.85   2201.21
+Nick-I-Q 70W Rx7s, 230V, IP20, bijele boje                                            7.77    1      7.77      1.94
+Josh-Q LED 1,6W 6000K, IP54, nehrđajući čelik                                       219.81    5   1099.05    274.76
+Plafonjera ALICA Round TR 1x16W, CCG IP54, crna                                     238.13   23   5476.99   1369.25
+Ugradna downlight svjetiljka DL 50 1-18 TC-D VVG bijela                              35.52   19    674.88    168.72
+Svjetiljka Solo Line T5 1x54W,ECG, bijele boje                                      292.43   22   6433.46   1608.37
+Podnaponski isklopnik za MC2 i MC3, 24V DC                                          495.51   28  13874.28   3468.57
+
+                                                                                                         ----------
+UKUPNO                                                                                                    181134.28
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

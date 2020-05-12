@@ -1,0 +1,25 @@
+Račun br. 285243
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+7838P, OVJES KIT za 7838                                                            146.65   25   3666.25    916.56
+Svjetiljka Solo Line T5 1x24W,DALI, bijele boje                                     480.92   11   5290.12   1322.53
+Tel. ormarić n/ž za 5 letvica 2/10, bez bravice                                     224.52   10   2245.20    561.30
+"19"" okvir (rack) jednodjelni 27U, 616x1365x600"                                  1107.49   26  28794.74   7198.68
+Ugradna svjetiljka SE-ID ECO PAR L1 TC-L 2x40W ECG M625,bij.                        644.12   19  12238.28   3059.57
+Ina-Q/A1 LED 12W 3000K 1100lm,dimabilna,350mA,IP20,aluminij                         165.74   14   2320.36    580.09
+Finožični PVC-om izol. vodič H07V-K (P/F) 2,5mm2, plavi HPV                          10000   24 240000.00  60000.00
+Adapter za sustav 60mm 580A,3P,ABB T5 i Allen-Bradley 140G-K                          4832   26 125632.00  31408.00
+Marra LED traka 14,4W/m 2700K 840lm/m, dimabilna, IP68                               483.9   30  14517.00   3629.25
+Prozirno kućište za KW zidna montaža                                                 43.57   17    740.69    185.17
+LED SN napajanje 75W/24V IP20                                                       609.63   12   7315.56   1828.89
+Spojnica za savitljivu cijev M40, siva (pak. 25 kom.)                               457.89   19   8699.91   2174.98
+Bezhalogeni kabel s el. funkc. do30 Min. (N)HXH-O2x2,5reE30                          10000    6  60000.00  15000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     511460.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

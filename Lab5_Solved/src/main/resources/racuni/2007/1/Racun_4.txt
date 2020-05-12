@@ -1,0 +1,33 @@
+Račun br. 1041462
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Kompenzacija  LSFC 14% 325/25kvar 800x2110x500mm Samost.orm.                      85347.63   201706952.63 426738.13
+Dekorativni prsten sa pokrovom za ENOLA_C,okr.,srebrne boje                         124.52   12   1494.24    373.56
+Utičnica šuko sa poklop. i dječjom zašt. na vijak antracit                           25.63   20    512.60    128.15
+Tris-II-R/A1 LED 3x3W 3000K 270lm,dimabilna,700mA,IP20,alu                          116.92   25   2923.00    730.75
+Sonda (3 štapa) za nadzor nivoa, 400mm                                              598.12    2   1196.24    299.06
+Meiva-Q/A2 LED 10W 3000K 700lm, IP20, bijele boje                                   366.47   21   7695.87   1923.97
+Prednja ploča sa zakretnom tipkom za dimer, bijela                                   15.53    4     62.12     15.53
+Natrijeva žarulja HSE 70W/E E27                                                       59.9   23   1377.70    344.43
+Vodič (N)YM-J (PGP) 5x1,5mm2, sa zašt. vodičem, svij.-sivi                          622.38   25  15559.50   3889.88
+MERIDIAN BOX zidna svj.,antracit,E27,max.20W,sa det.pokreta                         813.03    5   4065.15   1016.29
+Plasto LED 16W, 3000K, 960lm, 230V, IP65, plastika, sive b.                         344.67   18   6204.06   1551.02
+Janine-II-Q 50W GU5,3 MR16, 12V, IP20, aluminij                                     172.33    2    344.66     86.17
+Kabel E-AY2Y-O 4x150SM                                                               10000   12 120000.00  30000.00
+Sklopnička komb. za promjenu smjera vel. 00 / 3kW / 400V 3P                         245.46   25   6136.50   1534.13
+Box stezaljke za Cu/Al 70-240mm², za pruge vel. 1-2                                  109.3   14   1530.20    382.55
+Kabel H03VV-F (PP/L) 4x0,75mm2, bijeli, 500m kolut                                   10000   19 190000.00  47500.00
+Ispravljač, 1-fazni | 230-400/24VDC | 6A                                            695.67   15  10435.05   2608.76
+Poliester ormar, vrh i dno zatv., 3 vrata 1500x1000x312(VŠD)                       4825.57   24 115813.67  28953.42
+Finožični PVC-om izolirani vodič H07V-K (P/F) 4mm2, crni                            313.72   12   3764.64    941.16
+GLENOS završni pokrov za profile 2609, ravni, sive boje                              62.51   12    750.12    187.53
+LED ES111, crne boje, 17W, 30°, 2700K                                               562.63   23  12940.49   3235.12
+
+                                                                                                         ----------
+UKUPNO                                                                                                    2209758.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

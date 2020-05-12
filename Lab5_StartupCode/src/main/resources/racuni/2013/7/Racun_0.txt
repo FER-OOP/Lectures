@@ -1,0 +1,20 @@
+Račun br. 285730
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+FORCHINI M, PD-2, 40cm, okr., crno/srebrne boje, E27,max.40W                       1188.46   10  11884.60   2971.15
+Tanic-TR LED 2x4W 3000K, IP54, sive boje                                            596.59   13   7755.67   1938.92
+Sklopka, 3 N/O + 1 N/C, 16A, montaža na DIN nosa?                                    69.07   16   1105.12    276.28
+Zaštitni prekidač, D karakteristika, 16A, 2-polni, 10kA                             105.59   17   1795.03    448.76
+Set za montažu svjetiljke LINDA zidni +/- 90° za 18/36/58W                           45.77    8    366.16     91.54
+Završna pločica za rednu stezaljku IK111035--, plava                                  4850   13  63050.00  15762.50
+Zakr. tipka s ručicom,3 pol.,svijetleća,plava,60°,bez povr.                          71.63   19   1360.97    340.24
+Kondenzatorski sklopnik | 12.5 kVAr | 220-240V AC | 1 N/C                           341.81    5   1709.05    427.26
+
+                                                                                                         ----------
+UKUPNO                                                                                                     89026.59
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

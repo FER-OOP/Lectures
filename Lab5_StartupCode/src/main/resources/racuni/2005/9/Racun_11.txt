@@ -1,0 +1,19 @@
+Račun br. 581827
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Serijski ormar AS, 1-vrata, 2000x800x400 (VxŠxD), RAL 7035                         4136.75   28 115829.00  28957.25
+P/Ž media razdjelnik, MVM, 3-redni, 12+2 modula,plitki okvir                        808.13    3   2424.39    606.10
+NEW MYRA WALL SPOT zidna svjetiljka, 2xGU10, IP55, antracit                        1000.75    1   1000.75    250.19
+NEW TRIA DLMI ROUND Downlight, srebrne boje, 3000K, 60°                            1433.11   23  32961.53   8240.38
+Završni poklopac TBR okrugli sa otvorom                                              51.19   24   1228.56    307.14
+Kabelska stopica 240mm2, za MC3                                                      60.41   21   1268.61    317.15
+Anker za VAP SLIM i SITRA SL                                                        112.18   19   2131.42    532.85
+
+                                                                                                         ----------
+UKUPNO                                                                                                    156844.27
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

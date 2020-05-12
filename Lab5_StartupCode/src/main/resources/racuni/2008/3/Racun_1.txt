@@ -1,0 +1,24 @@
+Račun br. 618500
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"Pozivno tipkalo + utičnica za ""Comfort"" tipkala, bijelo"                           2104   16  33664.00   8416.00
+Voltmetar, 96x96mm, 500V AC                                                         125.58   14   1758.12    439.53
+Pult metalni 985x1200x400 (VxŠxD)                                                  5489.38   28 153702.64  38425.66
+Cilindrični osigurač za fotonapon, 10x38, 15A, gPV, 1000V DC                         60.24   30   1807.20    451.80
+Industrijski utikač, 5 polni, 32A 400V Quick, IP44                                   50.09   21   1051.89    262.97
+Utični modul, LonWorks za NA96 i NA96+                                             2621.93   11  28841.23   7210.31
+GLENOS TREPPENSTUFEN Profile UP 100, 1m, aluminij                                    218.8   15   3282.00    820.50
+Ugradna svjetiljka SERH 2 A8 L1 T5 2x49W, ECG, bijela                                 8534   24 204816.00  51204.00
+Tipka MO 1M sa simbolom svjetla, crna                                                  7.5   29    217.50     54.38
+UPS licenca - produženje Powernetguard lic. na dodatnu g.                          1365.55   19  25945.45   6486.36
+Kabel H05VV-F (PP/J) 4 x1,5mm2, svijetlo-sivi, 50m                                   10000    7  70000.00  17500.00
+Pako-Q/A2 LED 1W 6000K 60lm, dim., 350mA, IP20, bijele b.                            57.44   26   1493.44    373.36
+
+                                                                                                         ----------
+UKUPNO                                                                                                    526579.44
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

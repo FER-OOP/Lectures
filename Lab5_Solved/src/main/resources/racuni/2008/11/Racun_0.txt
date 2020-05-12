@@ -1,0 +1,27 @@
+Račun br. 565056
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Bezhalogeni inst.kabel pob.svoj. za sl.požara NHXMH-J 4x4                            10000   27 270000.00  67500.00
+PROFUNO LED, 3000K, 60°, uklj. 1f adapter, srebrne boje                            1250.97    2   2501.94    625.48
+Zaštitni prekidač MB GR.2 25kA CL 125/3                                            1061.56   10  10615.60   2653.90
+Umetak tipkala, na vijak                                                             12.35    8     98.80     24.70
+Ruksak plavo/cveno/bijeli                                                           210.94   28   5906.32   1476.58
+Optički prespojni kabel duplex, LC/LC, 62,5/125µm OM1, 10m                            98.3   13   1277.90    319.48
+Tipka sa simbolom zvona, antracit                                                    15.62   12    187.44     46.86
+Senga LED 30W 2700lm, 4000K, 230V, IP65, antracit                                   411.07   27  11098.89   2774.72
+Kompaktni prekidač snage tip ME, 3P, 150kA, 220A                                   5115.78    5  25578.90   6394.72
+Helios-Q/A2 LED 10W 3000K 483lm,dimabilna,500mA,IP20,alu                            285.88   16   4574.08   1143.52
+SAT zid. nosač,R=300mm,V=250mm,ploča=150x150mm,stup=50mm,alu                          88.8   24   2131.20    532.80
+"Opt. razdjelnik, 12 niti,SC,50/125µm OM3, izvlačivi,19"",1U"                       680.31   16  10884.96   2721.24
+Ugradna downlight svjetiljka EQM 221 2x18W CCG TC-D, bijela                         401.49    2    802.98    200.74
+M2000 SET, P/Ž od 28 modularnih visina, RAL9016, 2 ručice                             4160    5  20800.00   5200.00
+Signalni poklopac za razvodne kutije Ø60mm, crveni                                   86.91   29   2520.39    630.10
+
+                                                                                                         ----------
+UKUPNO                                                                                                    368979.38
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

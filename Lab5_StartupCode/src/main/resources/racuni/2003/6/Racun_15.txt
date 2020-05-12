@@ -1,0 +1,32 @@
+Račun br. 594272
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"Zidni komunikacijski ormar DW Monoblock 600x635x395, 19"",12U"                     985.57   10   9855.70   2463.93
+Bistabilni relej, 12VAC, 2 N/O, 16A, na DIN nosač                                   193.28   13   2512.64    628.16
+Plastični držač PT releja, montaža na podnožje releja                                 1.28    2      2.56      0.64
+Stezaljka pomoćnog strujnog kruga, za MC2(vijčane stezaljke)                         35.98   12    431.76    107.94
+Potporni izolator visine 50mm, obostrano s maticom M10, 2kV                           4837   19  91903.00  22975.75
+IP44 nosač, prazan za 2 modula (SFA)(SFB)                                            73.65   26   1914.90    478.73
+Stražnja ploča za nazidni Modul 2000 | 2R-28                                        155.28   26   4037.28   1009.32
+Serijski ormar AS, 2-vrata, 2000x1000x400 (VxŠxD), RAL 7035                        4823.96   20  96479.20  24119.80
+NEW TRIA LED 3W DL SQUARE SET, mat bijele b., 3W, 38°, 3000K                        249.72    8   1997.76    499.44
+LED žarulja GU9, 3W, 180lm, 2800K DIMM                                              146.29    7   1024.03    256.01
+KABEL E-AYY-J (PP00-AL) 4X50 SE                                                      10000   22 220000.00  55000.00
+Reflektor CAPRI simetrični 1x150W RX7S HIT/HST, crna                                514.58   12   6174.96   1543.74
+Grebenasta sklopka, (glavna,crno/siva), 0-1/3P/20A, na vrata                        128.78   12   1545.36    386.34
+Staklena vrata s bravicom, za DW ormare 9U, Š=600                                   247.98   25   6199.50   1549.88
+Optički prespojni kabel duplex, LC/LC, 50/125µm OM2, 20.0m                          170.47   27   4602.69   1150.67
+Tel. razvodni ormarić Box VKA4 za 140 par., za okruglu šipku                         429.6   23   9880.80   2470.20
+Sabirnica, 4P, viličasta, 10mm² (63A)|korak 18mm| 214mm                              69.87   25   1746.75    436.69
+Razdjelnik nazidni, IP40. 4-redni, 48 modula, prozirna vrata                        226.44   21   4755.24   1188.81
+Ugradna downl. svj. za dod. ERK-Z 207  1-26W TC-DEL ECG                             275.05   24   6601.20   1650.30
+Relej snage, 2 C/O, 8A, 48VDC, raster 5mm,pozlaćeni kontakti                         23.99    9    215.91     53.98
+
+                                                                                                         ----------
+UKUPNO                                                                                                    471881.25
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,25 @@
+Račun br. 837608
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Podnaponski isklopnik 230V AC, trenutno okidanje                                    242.29    3    726.87    181.72
+Zaštitni prekidač AMPARO 6kA, B 16A, 3-polni                                         76.11    5    380.55     95.14
+Podesivi nosači za stropnu montažu za TRAIL, RAL9006                                 444.3    9   3998.70    999.67
+Tess-R 60W E27, 100-240V, IP20, brušeni krom                                         17.74    7    124.18     31.04
+SAT multiswitch 5 IN 12 OUT za quattro LNB,unut. napajanje                          961.51   16  15384.16   3846.04
+Samostojeći ormar, 1-vrata, 2000x600x300 (VxŠxD), RAL 7035                         3704.52   30 111135.60  27783.90
+Pomoćni kontakt, 2 N/O, utične stezaljke                                             39.64   12    475.68    118.92
+AIXLIGHT PRO 111LEDDISK srebrnosive boje,4000K 50°                                  750.35   29  21760.15   5440.04
+Levante-M 40 LED 94W 9040lm 4000K asim.,IP66,SKII,antracit                         5434.52    2  10869.04   2717.26
+Linijska svj. SERH 112 2x54W, ECG, bijele boje                                      488.98   18   8801.64   2200.41
+Ugradna downlight svjetiljka EQM 221 2x32W ECG TC-TEL,bijela                        393.11   16   6289.76   1572.44
+L-SE LSK 1.5 1x68W LMW 7350lm 840 Dali, bijele boje                                1435.41   21  30143.61   7535.90
+"Montažni profil 600mm, ""click"" montaža na okvir AS ormara"                       355.58    1    355.58     88.89
+
+                                                                                                         ----------
+UKUPNO                                                                                                    210445.55
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

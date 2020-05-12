@@ -1,0 +1,27 @@
+Račun br. 727777
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Solarlog set kabela 3m za PowerOne                                                  213.36   19   4053.84   1013.46
+Držač releja serije MT                                                                5.85    5     29.25      7.31
+Ampermetar, montaža na DIN nosač, DC, 10A, direktno                                 581.86    8   4654.88   1163.72
+Bočna stranica za trodijelni sistem, 37 modularnih visina                             4160   19  79040.00  19760.00
+Toollessline komplet kutija                                                         241.02    3    723.06    180.76
+AIXLIGHT PRO 111 LEDDISK, srebrne boje, 50°                                         750.35    8   6002.80   1500.70
+Samourezni vijak, 4.2x9.5mm (1 kom.)                                                  0.16    6      0.96      0.24
+Cube-WL-Q 2x75W E27 PAR30, 100-240V, IP54, bijele boje                              285.03   22   6270.66   1567.67
+Linijska svj. SERH-LF 112, početni profil,  2x54W, ECG, bb                          549.64   22  12092.08   3023.02
+FlexLED Roll, bijele b., 3m, 60LED/m, DC 24V                                        280.98   21   5900.58   1475.15
+M48 Area QU-D 1Modul 48LEDs 4000K IP66 114W 10775lm RAL9006                        4895.69   18  88122.42  22030.61
+BULAN stropna svj., okrugla,E14, max. 60W, satinirano staklo                        280.98   12   3371.76    842.94
+Montažna ploča 5HC-K                                                                 42.03    2     84.06     21.01
+7838/AL, ALUMINIJSKI PROFIL 2,5m                                                    490.99   22  10801.78   2700.44
+Sklopnik vel. 00 | 3kW (7A) [AC-3] | 230VAC, 50/60Hz |1 N/O                             99   24   2376.00    594.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    223524.14
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

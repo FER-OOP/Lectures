@@ -1,0 +1,25 @@
+Račun br. 306757
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Uzidni okvir s vratima - M3000, 5U-28                                              1987.58   18  35776.44   8944.11
+Jednožični PVC-om izolirani vodič H07V-U (P) 1,5mm2, ljub.                          102.21    1    102.21     25.55
+Sklopnik 4P |75kW (150A) [AC3] / 230A [AC1] | 230V AC/DC                            5661.6   28 158524.80  39631.20
+Zaštitna mrežica za panike IL,KI,DAQ                                                414.38   24   9945.12   2486.28
+Maskirni razdjelnik 4 širine brojila/ 39 MV                                           4180   19  79420.00  19855.00
+Energetski kabel 0,6/1kV PP00 (EYY-O) 1x120rm crni                                   10000    2  20000.00   5000.00
+Spojnica (koljeno) M63, bez halogena, crna                                        32671.41   27 882128.06 220532.00
+ENOLA_C CURVED display svj., okrug.,antracit,9W LED, 3000K                            1621   10  16210.00   4052.50
+Modul za audio/video jedinicu, 2 tipke, IKALL, crni                                 314.23   24   7541.52   1885.38
+Krović za zaštitu od kiše, INOX, za WSR ormare 800x300 (ŠxD)                       2479.91   15  37198.65   9299.66
+LED Driver, 1-10V & Push to dimm, 250-700mA, 12-24VDC, 8-16W                        317.64    1    317.64     79.41
+Blok pomoćnih kontakata za sklopnik vel. 0-12, 2 N/O + 2 N/C                         41.97   15    629.55    157.39
+Panik svjetiljka WG FLUO 9W, CPS sustav, MIX-mod, stropna                          1504.16   22  33091.52   8272.88
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1280885.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

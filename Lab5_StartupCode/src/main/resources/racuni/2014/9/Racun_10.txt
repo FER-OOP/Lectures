@@ -1,0 +1,29 @@
+Račun br. 370040
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+AOT-O LED, 38W, 4000K, IP50, akril, opal, bijele boje                                757.7   20  15154.00   3788.50
+Coco 8W T5, 230V, IP20, aluminij                                                     77.21   25   1930.25    482.56
+Adapter za sustav 60mm, EEC, 2 nosača, širine 54mm                                   122.2   16   1955.20    488.80
+"Montažni profil 400mm, ""click"" montaža na okvir AS ormara"                        320.1    1    320.10     80.03
+Rastavljač TYTAN RH1/3P za D02, za 60mm, s nadzorom                                 914.05    7   6398.35   1599.59
+Nosač za montažu Smart monitora na zid                                               98.86    9    889.74    222.43
+RUSTY SQUARE šiljak                                                                 218.46   19   4150.74   1037.69
+Plastično kućište, 400x300x130mm, IP65, bezhalogeno                                 336.44    6   2018.64    504.66
+Dingo Medium LED 30W, 3000K, 2000lm, dim., bijela                                   563.48   29  16340.92   4085.23
+UPS Software UPSmon, puna licenca                                                   768.12   15  11521.80   2880.45
+EURO CUBE Spot, 4000K, CRI90, 60°, uklj. 3F adapter, crne b.                       1433.11   12  17197.32   4299.33
+KALU TRACK QPAR111 svjetiljka, crna, uklj. 3-f adapter                              500.12   11   5501.32   1375.33
+Pozivni modul, 4 tipke, simplebus, POWERCOM                                         768.15    4   3072.60    768.15
+Pomoćni kontakt, normal, montaža lijevo, 1 C/O, za MY1                               92.59   11   1018.49    254.62
+Telefonska priključnica,IP20, na vijak, bijela, nadžbukna                            22.51   14    315.14     78.79
+Prespojni kabel RJ45 cat.5e oklopljen, PVC, sivi, 10.0m                              42.63   20    852.60    213.15
+Nosač sabirnica za sustav 60mm, 5-polni                                              85.93   19   1632.67    408.17
+
+                                                                                                         ----------
+UKUPNO                                                                                                     90269.89
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

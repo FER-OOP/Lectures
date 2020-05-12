@@ -1,0 +1,28 @@
+Račun br. 122793
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zaštitni prekidač MB 15kA BT 32/3                                                   458.97   16   7343.52   1835.88
+Prednja ploča, čelična, slijepa, 4B1                                                  4160    4  16640.00   4160.00
+Bimetalni relej, područje podešenja 52.00-65.00A                                    691.43   29  20051.47   5012.87
+Tuljci,izolirani, dvostruki, 2x10mm2, L2=14mm (pak.100 kom)                         101.99   14   1427.86    356.96
+Odvodnik prenapona, Photec 550VDC/12,5kA kl. B/C                                   1105.52   16  17688.32   4422.08
+Nosač MO 3M s vijcima                                                                 4.22   28    118.16     29.54
+AL-Cu stezaljka 35-240mm2, 2 dovoda/2 odvoda, žuto/zelena                           387.63   22   8527.86   2131.97
+Porter-S LED 2x1W 3000K, IP54, sive boje                                            364.61   18   6562.98   1640.74
+Vodič (H)03VH-H (P/L) 2x0,75, bijeli                                                 177.1   27   4781.70   1195.43
+Vodič (N)YM-J (PGP) 5x16 mm2, sa zašt. vodičem, svij.-sivi                           10000   22 220000.00  55000.00
+"1-struki okvir ""Riva"", biserno bijeli"                                            13.71   23    315.33     78.83
+Okvir MO 2M, line, crni                                                              22.51    8    180.08     45.02
+Bezhalogeni jednožilni vodič H05Z-K 1mm2, plavi                                      10000    5  50000.00  12500.00
+Dvokatna stezaljka (vijčani priključak) 4mm², bež                                     9.67   23    222.41     55.60
+Lingo LED 1W, 24V, dimabilna, IP20                                                   29.39   22    646.58    161.64
+Krovna kuka FP 8/45/110, nehrđajući čelik, TÜV                                      102.12   30   3063.60    765.90
+
+                                                                                                         ----------
+UKUPNO                                                                                                     357569.9
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

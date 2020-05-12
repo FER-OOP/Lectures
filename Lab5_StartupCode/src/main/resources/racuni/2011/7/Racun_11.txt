@@ -1,0 +1,21 @@
+Račun br. 364283
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Poklopac, 190x190x30mm sivi - A                                                     139.32    6    835.92    208.98
+Sklopnik 3P |18.5kW (40A) [AC3] / 80A [AC1] | 24V AC                                456.77   29  13246.33   3311.58
+Utičnica, 16A, umetak, otp. na grebanje, inox efekt                                  56.18   19   1067.42    266.86
+Pokrov priključnih stezaljki, donji, za VC4                                         116.48   10   1164.80    291.20
+Maxime-II-Q LED 6x1W 3000K, IP20, sive boje                                         403.13    5   2015.65    503.91
+Pepeljara, staklena, plava                                                           20.77   15    311.55     77.89
+Downunder OUT LED M, 3,3W, 3000K, srebrnosiva boja                                  374.92   26   9747.92   2436.98
+70026, LED NOĆNA SVJETILJKA, PUNJIVA BS SOCKET, sive boje                            95.29   12   1143.48    285.87
+"Bit-umetak 1/4"", TX10, duljine 25mm, plavi"                                        18.58   22    408.76    102.19
+
+                                                                                                         ----------
+UKUPNO                                                                                                     29941.83
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

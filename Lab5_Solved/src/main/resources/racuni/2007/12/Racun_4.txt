@@ -1,0 +1,14 @@
+Račun br. 489628
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+PD 360i/8 MASTER P/Ž zidni senzor prisutnosti IR Ø 8m,bijeli                       1093.49   11  12028.39   3007.10
+NEOZED vijčana kapa, D02 (E18), 63A / 400V, porculanska                               6.81   20    136.20     34.05
+
+                                                                                                         ----------
+UKUPNO                                                                                                     12164.59
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

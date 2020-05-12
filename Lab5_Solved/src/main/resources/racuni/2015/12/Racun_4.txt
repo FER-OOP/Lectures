@@ -1,0 +1,24 @@
+Račun br. 1007936
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+IBDN prespojni kabel RJ45 UTP cat.6A, sivi, 1.2m                                     59.51   25   1487.75    371.94
+"19"" fiksna polica do maks. 150kg, d=550mm, 1U, RAL7035"                           220.51    9   1984.59    496.15
+Linijska svj. SERM-LT 112, srednji profil,  2x35W, ECG, bb                           581.6   14   8142.40   2035.60
+Sig. svjetiljka DLQ ERT-LED 1,5W,CPS MIX,kvadratna, ugradna                        1119.13   11  12310.43   3077.61
+Rozeta, 5 izlaza, crvene boje                                                       468.69   11   5155.59   1288.90
+"Natpisna pločica, ""0 I"", 12.5 x 28mm, natična"                                     3.09   22     67.98     16.99
+Kompaktni prekidač snage tip A, 3P/63A/100kA, MC1                                  1026.82   14  14375.48   3593.87
+Adapter 200A (montažna ploča na sutav 100mm), 108x315mm(ŠxV)                          4833   11  53163.00  13290.75
+Fluokompaktna žarulja TC-S 11W 840 G23 OS                                             19.7   26    512.20    128.05
+Fluo cijev T16 35W/827 G5                                                            29.01   21    609.21    152.30
+Strujni trafo, 600/5A, 30X10                                                        101.91    9    917.19    229.30
+Punto-A MR16 Spot, GU5,3, 50W, IP20, 12V, bijela                                     28.55   11    314.05     78.51
+
+                                                                                                         ----------
+UKUPNO                                                                                                     99039.87
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

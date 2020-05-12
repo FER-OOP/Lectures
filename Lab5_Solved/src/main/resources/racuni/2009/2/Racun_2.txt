@@ -1,0 +1,29 @@
+Račun br. 1000953
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ormar komp. 100kVAr/14%  - 25kVAr /600x2000x400 samostojeći                       47763.37   301432901.13 358225.28
+Zaštitni prekidač, C karakteristika, 13A, 1-polni+N, 10kA                            74.83    2    149.66     37.42
+Dimer MO 25-300W RLC za tipkalo, mogučnost više tipkala                             300.59   11   3306.49    826.62
+Komplet vijaka za montažu kade za brojila                                            31.55   14    441.70    110.42
+Preklopnik 16xRJ45 10/100/1000T, bez vent., unut. napajanje                         1003.5   16  16056.00   4014.00
+Pokrov IP20-BJSI MD180i/R,PD180i/R,MD/PD180, bijeli                                  69.21   19   1314.99    328.75
+Zakr. ručica direktno na MC1, blok. vrata, zaklj.(crna/siva)                        299.22    1    299.22     74.81
+Rastavna sklopka za cilind. osig. 10x38mm, 2P/20A, Fotonapon                         55.28   13    718.64    179.66
+Adapter za sustav 60mm, EEC 63A, 1 nosač, širine 72mm                                 4832   15  72480.00  18120.00
+LINEA 80M 1x35/49/80W T5 preklapajući uložak, ECG Qti                               606.58    1    606.58    151.65
+Elvis-WL-S LED 3W 6000K, IP54, sive boje                                            123.67   17   2102.39    525.60
+Trafo za zvono 230/12-12-24V AC, 30VA, montaža na DIN nosač                         157.79    5    788.95    197.24
+Linda LED CONIC 2x30W, 4000K, 8575lm                                               1604.35    6   9626.10   2406.52
+Stropni ovjes (kratki) za LINUX LIGHT, srebrne boje                                 124.52    2    249.04     62.26
+Finožični PVC-om izol. vodič H07V-K (P/F) 4mm2, smeđi HPV                            10000    5  50000.00  12500.00
+PHELIA ovjesna svjetiljka 4, crne boje                                              625.15    5   3125.75    781.44
+I-BED WALL SHORT, 3,8W, 3000K, CRI=80, champange                                   1000.75   11  11008.25   2752.06
+
+                                                                                                         ----------
+UKUPNO                                                                                                    1605175.0
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

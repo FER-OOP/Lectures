@@ -1,0 +1,33 @@
+Račun br. 788207
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+SIENA GU10 kućište za EASYTEC II, uklj. prsten 51                                   249.72   18   4494.96   1123.74
+Audio modul, mogućnost spajanja odvojene color kamere, IKALL                       4452.94   27 120229.38  30057.34
+Minijaturni relej, 4C/O, 6A, 230VAC                                                  49.83   29   1445.07    361.27
+Kompaktni prekidač snage tip A, 3P, 150kA, 400A                                    5487.37   20 109747.41  27436.85
+Bezhalogeni kabel s el. funkc. do30 Min.(N)HXCH4x120rm/70E30                         10000   15 150000.00  37500.00
+Pino-II-WL-R 15W E27, 100-240V, IP44, tikovina+nehrđajući č.                        161.18   15   2417.70    604.42
+Kronos-Q/A2 LED 20W 4000K, IP20, sive boje                                          384.55   27  10382.85   2595.71
+Modul za daljinsko upravljanje, FSM                                                 529.46   12   6353.52   1588.38
+CRISTAL MEDIUM LED 9x1W 3000K SIM. 80° INOX+ugr.kut.                               2973.64   15  44604.60  11151.15
+Punto-A PAR16 Set Spot x3 sa LED GU10 4W 3000K, zakr.,krom                          231.98   15   3479.70    869.93
+EUTRAC Flexi-spojnica,siva_                                                         437.43   11   4811.73   1202.93
+Kompaktni prekidač snage tip A, 4P/160A/25kA, MC1                                  2314.81   11  25462.91   6365.73
+Prizma stezaljka, dvostruka, 2 x (35-70)mm², vel. 1                                  97.61   14   1366.54    341.64
+Odvodnik prenapona+pom.kont., Photec 550VDC/12,5kA kl. B/C                         1161.05    2   2322.10    580.53
+Tipka MO 2M, bijela                                                                   4.22    4     16.88      4.22
+Porter-S LED 2x1W 3000K, IP54, sive boje                                            364.61   29  10573.69   2643.42
+SAIL kućište za LINUX LIGHT, srebrne boje                                           312.23   10   3122.30    780.58
+Fluokompaktna žarulja TC-SEL 11W/830 2G7                                             20.16   30    604.80    151.20
+Teretna sklopka, rastavljač (izolator), 100A, 1P                                     41.48    2     82.96     20.74
+NA96-SOFTWARE MIDAS-EVO2                                                           9360.69   12 112328.28  28082.07
+9821/W/2, 21W 2D 2PIN WW                                                              3.71    9     33.39      8.35
+
+                                                                                                         ----------
+UKUPNO                                                                                                    613880.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

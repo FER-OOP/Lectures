@@ -1,0 +1,33 @@
+Račun br. 1026829
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Plostani 4-žični kabel za telefonske prespojne kabele, crni                         138.39    6    830.34    207.59
+Optička spojnica SC DX,MM,plastična,s prirubnicom,bež,ECO                             9.45    1      9.45      2.36
+Zaštitni prekidač serije BR, C 125A, 3-polni, 10kA                                  594.55   11   6540.05   1635.01
+Terra-R/A2 LED 3x1W 3000K 245lm, IP65, nehrđajući čelik                             424.25   15   6363.75   1590.94
+9G12B/C/E, LED 10,5w CW E27 mat 230v                                                 33.11   30    993.30    248.33
+Zaštitni prekidač AMPARO 6kA, C 20A, 1P+N                                            47.24   18    850.32    212.58
+Lano LED 48W, 6000K, 3800lm, IP20, UGR19,120°,M600,bijele b.                        629.88   12   7558.56   1889.64
+Međuokvir za kućište D - 380x280x50mm                                                285.3   21   5991.30   1497.82
+KALU ugradna svjetiljka, 2 Spot, 2xES111, max.2x50W,bijele b                        750.35   17  12755.95   3188.99
+Sklopnik vel. 0 | 4kW (9A) [AC-3] | 24VAC, 50Hz                                     105.73    5    528.65    132.16
+Kutna spojnica za Hang Up                                                           374.92    3   1124.76    281.19
+Triadem ovjesna svjetiljka, E27, 3x60W, bijele boje/krom                           2184.14   11  24025.54   6006.38
+GX53, SMD LED, 2,8W,bi.b., nije dim.                                                124.52   24   2988.48    747.12
+Gumeni kabel A07RN-R (Gwuö/DSTL) 16rm, plavi                                         10000   13 130000.00  32500.00
+Optički prespojni kabel duplex, LC/LC, 9/125µm OS2, 3.0m                             89.54   17   1522.18    380.55
+Elvis-20-S LED 6W 6000K, IP54, sive boje                                            176.22   25   4405.50   1101.38
+YOKI Spot ES111 uklj. prsten za EASYTEC II, krom                                    500.12   21  10502.52   2625.63
+Tarifni prekidač s podešavanjem na 16, 20 i 25A, 1-polni                             89.99   18   1619.82    404.96
+Staklena vrata sa zakret. ručkom, za DW ormare 6U, Š=600                            562.95    7   3940.65    985.16
+KNX sučelje USB-KNX                                                                 1341.3    7   9389.10   2347.28
+Produžna osovina za MC1 i MC2, za ormar maks. dubine 400mm                            31.7   25    792.50    198.13
+
+                                                                                                         ----------
+UKUPNO                                                                                                     232732.7
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

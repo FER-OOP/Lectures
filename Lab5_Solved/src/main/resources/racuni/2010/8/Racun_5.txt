@@ -1,0 +1,25 @@
+Račun br. 865980
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Nadgradna downlight svj. ARM 294 1x13W ECG TC-DEL, bijela                           298.79    7   2091.53    522.88
+Pločica + nosač 30x50mm, natpis: Aus                                                 12.54   11    137.94     34.49
+Mikro pomoćni sklopnik | 3A [AC15] | 24V AC | 3N/O + 1N/C                            78.96   18   1421.28    355.32
+Tunel stezaljke 16-185mm2, za 3-polne MC3                                           516.81   19   9819.39   2454.85
+Komunik. Kartica Profibus (DP-V1, Profidrive V2 PP05), box                         5929.29   25 148232.25  37058.06
+"Grebenasta sklopka, ""STOP-START""/1P/20A, na vrata"                               211.08    4    844.32    211.08
+Strujni trafo, 50/5A, za kabel promjera do 21mm                                      83.36   28   2334.08    583.52
+NV osigurač vel. 000, gG/gL, 63A/500V AC                                             29.49   22    648.78    162.19
+GLENOS PROFILE 2508, 2m, aluminij                                                   155.78    4    623.12    155.78
+Geras-WL-R 15W E27, 100-240V, IP44, nehrđajući čelik                                 73.32   19   1393.08    348.27
+BK razdjelnik,1xF-ž-8xF-ž,multimedija,5-1006MHz,BVE 80-01                            58.11    5    290.55     72.64
+Krović za zaštitu WSM ormara od kiše, za ormar 250X210 (ŠxD)                          4066    5  20330.00   5082.50
+Utičnica šuko, 2-struka, sa kontaktom, na vijak, antracit                            34.07    3    102.21     25.55
+
+                                                                                                         ----------
+UKUPNO                                                                                                    188268.52
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

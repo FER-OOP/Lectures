@@ -1,0 +1,27 @@
+Račun br. 914092
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Aluminijski profil CLI                                                              156.44   28   4380.32   1095.08
+TERRA Inground spot angular, GU10, 35W, IP67, aluminij                              231.98   14   3247.72    811.93
+LOGICOM krović za P/Ž kućišta, 1 modul                                              538.15    1    538.15    134.54
+LS-FI (KZS), C/16A/30mA, 3P+N, Tip A, 6kA                                           616.95    3   1850.85    462.71
+"Opt. razdjelnik, 24 niti,ST,50/125µm OM2, izvlačivi,19"",1U"                       1030.7   30  30921.00   7730.25
+"Opt. razdjelnik,24 niti, ST, 62,5/125µm OM1, izvl.,19"",1U"                       1764.58   30  52937.40  13234.35
+Plafonjera MALLE LED 24W 2200lm/840 ECG, bijela                                     669.79   30  20093.70   5023.42
+Nazidna kutija s okvirom, 1-struka, biserno bijela                                   78.47    9    706.23    176.56
+Lingo LED 6W, 24V, dimabilna, IP20                                                  102.55    4    410.20    102.55
+Plastični pokrov TB, okrugli/opal 2m                                                 75.39   13    980.07    245.02
+Ugradna svjetiljka SEP ECO PC T5 4x14W ECG IP54 M600, bijela                        493.79   19   9382.01   2345.50
+Nosač N/PE sabirnice 25mm2                                                           24.15    4     96.60     24.15
+FI-blok 40A, 2-polni, 100mA, Tip A (Puls)                                           666.37   22  14660.14   3665.03
+Finožični PVC-om izolirani vodič H07V-K (P/F) 35mm2, crni                          2869.02   12  34428.24   8607.06
+7307AG/D, 7w GU10 CFL DAYLIGHT 1:1 size                                               7.77   22    170.94     42.74
+
+                                                                                                         ----------
+UKUPNO                                                                                                    174803.56
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

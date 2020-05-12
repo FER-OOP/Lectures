@@ -1,0 +1,27 @@
+Račun br. 543922
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Jednožični PVC-om izolirani vodič H07V-U (P) 1,5mm2, sivi                           102.21   25   2555.25    638.81
+ORION ovjesna svj. za LINUX LIGHT 1,5m,sjen.+ovj. srebrne b.                        437.43    9   3936.87    984.22
+Terminal clamp for touch-protected system size 00, 185mm                              4833   22 106326.00  26581.50
+Terra L LED 10W, 3000K, 525lm, 24°, IP67, inox                                     1392.23   11  15314.53   3828.63
+LEFA 4 ovjesna svjetiljka, bijele b., 4x 5W LED, 3000K, dim.                       2371.86   23  54552.78  13638.20
+"Grebenasta sklopka (taster),""STOP-START""/1P/20A,na DIN nosač"                     245.3   14   3434.20    858.55
+Sigma bater. LED reflektor 3h 10W 4000K IP65 zakr. siva                             366.47   20   7329.40   1832.35
+Wanda LED 7W, WW, IP20, 700mA, IP20, bijele boje                                    190.58   20   3811.60    952.90
+Kompaktni prekidač snage tip A, 3P/50A/100kA, MC1                                  1046.52   16  16744.32   4186.08
+Grebenasta sklopka, 1-2/1P/20A,na vrata,centralno učvršćenje                        211.08   23   4854.84   1213.71
+3-fazni programabilni digitalni multimetar                                          884.43    9   7959.87   1989.97
+"Zasun, plavi, za plastične prednje ploče, ""Celanex"""                                1.7   13     22.10      5.53
+Battery Box (bez punjača) za USPRD100 36V 14Ah                                     3744.59    4  14978.36   3744.59
+Bimetalni relej za sklopnike vel. 00 | 0,14 - 0,2A                                  179.04   17   3043.68    760.92
+LED 12-30V AC/DC, zeleni, prednja montaža                                            35.49    5    177.45     44.36
+
+                                                                                                         ----------
+UKUPNO                                                                                                    245041.28
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

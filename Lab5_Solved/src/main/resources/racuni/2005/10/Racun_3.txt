@@ -1,0 +1,31 @@
+Račun br. 694768
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Plastični pokrov SL ravan/opal 76%,D2000mm Š-58,6mm V-10,7mm                        117.28   27   3166.56    791.64
+LYNAH LED ovjesna svjetiljka, 4x10W 3000K square, crne boje                        3122.88   14  43720.32  10930.08
+Odvodnik prenapona klase C (komplet), 4P, 4x20kA/280V, UAS                          517.81   21  10874.01   2718.50
+Poliester kućište 540x360x201mm, prozirni poklopac,IP66,sivo                        977.78   15  14666.70   3666.68
+NYCY 3x2,5RE/2,5                                                                   1534.19   13  19944.47   4986.12
+SOPRANA ovjesna svjetiljka, PD-2 okrugla, bež tkanina, 3xE27                        938.06    4   3752.24    938.06
+Traka za zaštitu od korozije, širina: 50mm|duljina: 10m                              63.76   24   1530.24    382.56
+Uzidni okvir s vratima za Modul 2000 | 3U-21 | dubina 100mm                           4190   23  96370.00  24092.50
+Kompaktni prekidač snage tip A, 4P, 150kA, 500A                                    8387.46    3  25162.38   6290.59
+Sphinx 104-360/2, senzor pris., 2 kanala, p/ž, stropni                              628.66   28  17602.48   4400.62
+KASPO svjetiljka za 1-faznu šinu, srebrne boje                                      249.72   16   3995.52    998.88
+LEDPANEL 100 SMD, ugradna stropna, četvrt., srebrna, 3000K                          437.43   21   9186.03   2296.51
+Polo majica siva -L-                                                                 95.66   11   1052.26    263.07
+Levante-S 20 LED 48W 4425lm 4000K asim.,IP66,SKII,RAL9003                          3099.61   12  37195.32   9298.83
+Nubil-Q 50W GU10 MR16, 100-240V, IP20, bijele boje                                   86.16   17   1464.72    366.18
+INA-R/T GU10 PAR16 50W bez ruba, IP20, bijele boje                                   106.1    4    424.40    106.10
+Izolir traka, žuta, 15mm x 10m - COROPLAST                                            5.69   16     91.04     22.76
+Svjetiljka Solo Line T5 1x21W,DALI, bijele boje                                     517.68    8   4141.44   1035.36
+"19"" metalni prsten za okomito vođenje kabela 40x40"                                21.23   28    594.44    148.61
+
+                                                                                                         ----------
+UKUPNO                                                                                                    294934.56
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

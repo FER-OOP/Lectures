@@ -1,0 +1,15 @@
+Račun br. 1060182
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Sutil Round LED Panel, 12W, 4000K, 978lm, IP40, bijela                              198.02   19   3762.38    940.60
+PEYOTE POLE 48cm 360° 8x1W LED, 40° 3000K antracit                                 3315.41   17  56361.97  14090.49
+Marra LED traka 4,8W/m 60LEDs/m 300lm/m 3000K 24VDC IP20                            165.74   10   1657.40    414.35
+
+                                                                                                         ----------
+UKUPNO                                                                                                    61781.746
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

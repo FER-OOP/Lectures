@@ -1,0 +1,31 @@
+Račun br. 308857
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Plafonjera MALLE LED 24W 2200lm/840 ECG sa senzorom, bijela                        1016.38   22  22360.36   5590.09
+Transformator, 1-fazni | 230/230V | 800VA, IP00                                    1186.74   14  16614.36   4153.59
+Kabel YSLYQY-J 4x25 prozirni                                                         10000   26 260000.00  65000.00
+Univer.opt.kabel A/I-DQ(ZN)BH 8x62,5/125µm OM1, LS0H-3, nm.                         915.68   15  13735.20   3433.80
+Ispitivač i certifikator kabela WireXpert 4500 LAN                                   10000   28 280000.00  70000.00
+Aaron-Q 26W G24q-3, 230V, IP20, bijele boje                                          37.67    7    263.69     65.92
+Plastično postolje za suncobran                                                      109.3    3    327.90     81.98
+Stražnja ploča za nazidni Modul 2000 | 1R-21                                        106.13   29   3077.77    769.44
+Nosač natpisa za dupla tipkala, prazan, 30x75mm                                       2.62    1      2.62      0.65
+Teretna sklopka, 4P, 630A, opcija:dalj. isklop+izvl. modul                         6868.85   14  96163.90  24040.97
+Pokrov lučne komore za MO3, 3-polni (tvornički ugrađen)                               4970   18  89460.00  22365.00
+Sklopnik vel. 00 | 3kW (7A) [AC-3] | 230VAC, 50/60Hz |1 N/C                             99    2    198.00     49.50
+Svjetleće tipkalo s povratom, plosnato, bijelo “I”                                   40.89    2     81.78     20.44
+Poliester ormar, vrh i dno zatv., 1 vrata 750x500x312 (VŠD)                        1820.77   20  36415.40   9103.85
+Ugradna svjetiljka SERS 2 ECO T8 2x36W ECG M600, bijela                             337.11   29   9776.19   2444.05
+LED napajanje RS 50W/24V, IP20                                                         251   15   3765.00    941.25
+Yara 28W T5, 230V, IP20, krom                                                       344.67   24   8272.08   2068.02
+Maskirni razdjelnik 2 širina brojila/ 39 MV                                           4180   22  91960.00  22990.00
+Zaštitni prekidač, B karakteristika, 10A, 3-polni+N, 10kA                           230.74   28   6460.72   1615.18
+
+                                                                                                         ----------
+UKUPNO                                                                                                     938934.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

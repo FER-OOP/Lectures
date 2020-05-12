@@ -1,0 +1,20 @@
+Račun br. 1058035
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LED žarulja R7s, 118mm, 9W, 600lm, 4000K                                             300.8   23   6918.40   1729.60
+DASAR EXACT MR16, četvrtasta, podna ugradna svjetiljka                              813.03   20  16260.60   4065.15
+SNR relej, komplet 24V DC 6A, 1 C/O, vijčane stezaljke                              107.52    4    430.08    107.52
+FENDA pokrov                                                                          8570   15 128550.00  32137.50
+PEYOTE 17cm 360° 8x1W LED, 40° 4000K RAL9006                                       2289.96    6  13739.76   3434.94
+Poklopac sa 2 vijka za razvodne kutije Ø60mm i Ø70mm, bijeli                        171.94   10   1719.40    429.85
+Kutni nosač za AF reflektor, crni                                                   202.82   13   2636.66    659.17
+Master License za MUG, 1 korisnik                                                  1253.46   28  35096.88   8774.22
+
+                                                                                                         ----------
+UKUPNO                                                                                                    205351.78
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

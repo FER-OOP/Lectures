@@ -1,0 +1,20 @@
+Račun br. 465353
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+"Natpisna pločica za umetanje fi=28mm, prozirna, ""AUF"""                             3.09    3      9.27      2.32
+H03VVH2-F 2x0,75mm2, smeđi, YML-fl 50m kolut                                         10000   23 230000.00  57500.00
+Savitljiva cijev (srednje), M20, 750N, EN3341, 50m, siva                            290.81   18   5234.58   1308.65
+Otvoreni prekidač, 3P, 55kA, 1600A, fiksni,vod. str. priklj.                      22788.06    6 136728.36  34182.09
+Instalacijski set PlanoSet RQ, srebrni                                               313.2    2    626.40    156.60
+316 ANALOG-Panel Video sa 2 tipke, nehrđajući čelik, VIP                          12566.16   27 339286.31  84821.58
+Senzor prisut. stropni, PlanoSpot 360, LON, 64m2, bijeli                           1745.51   30  52365.30  13091.33
+Neizolirana Cu stopica 25mm², M10                                                     3.58   12     42.96     10.74
+
+                                                                                                         ----------
+UKUPNO                                                                                                     764293.1
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

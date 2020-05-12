@@ -1,0 +1,21 @@
+Račun br. 189439
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Sklopnik vel.3 | 4P | AC1 140A/690V | 24VAC                                        1338.54   23  30786.42   7696.61
+Kućište IP55, zakretna ručica, za MZS vel.2                                          59.13    9    532.17    133.04
+"19"" profil / šina 21U za zidne komunikacijske ormare tip DW"                        63.7    3    191.10     47.78
+Utičnica, 16A, umetak, na vijak, crvena                                               2121   30  63630.00  15907.50
+Razdjelnik uzidni, IP40, 1-redni, 12 modula, bijela vrata                           107.97   30   3239.10    809.78
+Grebenasta sklopka (glavna, žuto/crvena), 0-1/3P/40A, na DIN                        213.08   26   5540.08   1385.02
+Kabel YSLYQY-JZ 12x 0,75 prozirni                                                    10000   20 200000.00  50000.00
+FI-blok 40A, 2-polni, 300mA, S izvedba                                                4290    8  34320.00   8580.00
+NV rastavna sklopka vel.00|160A, 3P, kratak, sustav 60mm                            385.93    1    385.93     96.48
+
+                                                                                                         ----------
+UKUPNO                                                                                                     338624.8
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

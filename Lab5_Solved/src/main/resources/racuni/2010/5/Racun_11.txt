@@ -1,0 +1,27 @@
+Račun br. 931698
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Svjetiljka bljeskajuća crvena 24V AC/DC                                             881.35   26  22915.10   5728.77
+Tel. LSA rastavna letvica 2/10, montaža na okruglu šipku                             39.65   15    594.75    148.69
+Helena-II 4x55W 2G11, 230V, IP20, sive boje                                        2651.82   25  66295.50  16573.88
+Aluminijski pokrov MF 2m                                                             66.93    7    468.51    117.13
+Završni poklopac LBKI sa vijcima                                                     87.09   13   1132.17    283.04
+Video vanjski panel, 12 tipki, sa PTT otvorom                                      1949.64   15  29244.60   7311.15
+FID modul za MC2 (do 250A), 4P, 0.1-3A,tip B,ugradnja odozdo                       8635.52    4  34542.08   8635.52
+Košulja muška, dugih rukava, bijela -39-                                            586.99   20  11739.80   2934.95
+Prizma stezaljke 1,5-70mm2, za vel.1 - 3, (set)                                      19.85   13    258.05     64.51
+Teški gumeni kabel H07RN-F 5x4, crni                                               2604.88    9  23443.92   5860.98
+Punto-A MR16 Spot, GU5,3, 50W, IP20, 12V, aluminij                                   23.48   11    258.28     64.57
+Uklopni sat, analogni, dnevni program, QUARZ, 1 C/O, 3ŠM                            240.67   10   2406.70    601.67
+Kutija obična SIGNA, siva                                                            22.66   10    226.60     56.65
+Montažna ploča za IP54, 5A-28                                                         4160   14  58240.00  14560.00
+Ina-R/A1 LED 6W 3000K 475lm, IP20, aluminij                                         145.81   13   1895.53    473.88
+
+                                                                                                         ----------
+UKUPNO                                                                                                     253661.6
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

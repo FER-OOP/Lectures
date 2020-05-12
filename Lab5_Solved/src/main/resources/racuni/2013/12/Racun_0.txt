@@ -1,0 +1,15 @@
+Račun br. 294461
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ina-R/A2 LED 9W 3000K 700lm, 700mA, IP20, bijele boje                               483.73   28  13544.44   3386.11
+Blokada ručice u položaju OFF,za zaštitne prekidače ser. BR                           4230   29 122670.00  30667.50
+Kabel za gradilišta XYMM-J 5x1,5 K35 / 50m, žuti                                     10000   12 120000.00  30000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    256214.44
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

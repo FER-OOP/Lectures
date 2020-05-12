@@ -1,0 +1,32 @@
+Račun br. 477807
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Krović za zaštitu od kiše 1250x420                                                 1811.51   26  47099.26  11774.82
+Panik svjetiljka Linda 36W, MIX-mod, industr.                                       843.01    5   4215.05   1053.76
+Podnožje za HSTMSVL180, visina 200mm                                               1110.61   13  14437.93   3609.48
+AIXLIGHT KARDATRACK QRB111 za 3-fazne šine                                         1433.11   24  34394.64   8598.66
+Svjetlosna signalizacija E 10 (2W), umetak, bijela                                   80.98   24   1943.52    485.88
+UPS Dialog Dual 10000VA 8000W / Online                                            20685.77    2  41371.54  10342.88
+Zaštitni prekidač, D karakteristika, 20A, 3-polni+N, 10kA                           197.23   25   4930.75   1232.69
+Bistabilni relej, 230VAC, 4 N/O, 16A, na DIN nosač                                  927.44   12  11129.28   2782.32
+Bob-I-R LED 16W 4000K 860lm, IP20, sive boje                                        298.38   10   2983.80    745.95
+LOGS zidna svjetiljka, četvrt., antracit, 6W LED tople bi.b.                       1086.75    7   7607.25   1901.81
+Paralelna spojnica (kratkospojnik) za 2 stezaljke IK110016--                          4850   23 111550.00  27887.50
+Halogena žarulja QT-DE ECO 80W R7s 114,2mm                                           38.62   16    617.92    154.48
+Stražnja ploča za nazidni Modul 2000 | 3R-28                                        233.09   28   6526.52   1631.63
+Bezhalogeni jednožilni vodič H05Z-K 1mm2, narančasti                                 10000   26 260000.00  65000.00
+Motorna zaštitna sklopka, 3-polna | 22.0 - 32.0A, vel.S2                            542.88   28  15200.64   3800.16
+Otvoreni prekidač, 3P, 80kA, 1600A, fiksni, prednje priklj.                       32546.55   11 358012.06  89503.02
+MAP Server za MultiControl za vizualizaciju sustava                                 1331.8   15  19977.00   4994.25
+Konektiranje 2x12 ST SM utikača + zašt. za povlačen                                3901.47    6  23408.82   5852.21
+1P sklopka+serijska sklopka, kompletna, 10A, opruga, bijela                          40.64   17    690.88    172.72
+Aura 2 Senzor LED 11W, 3000K, 1290lm, IP43                                          750.33   17  12755.61   3188.90
+
+                                                                                                         ----------
+UKUPNO                                                                                                    978852.44
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

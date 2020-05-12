@@ -1,0 +1,15 @@
+Račun br. 634199
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Fluo cijev T26 58W/827 G13                                                           26.83    8    214.64     53.66
+Slijepa traka, perforirana, duljine 220mm                                             2.43   10     24.30      6.08
+Prekidač,bežično upravljiv sa 6 memorijskih adresa,max.1000W                        218.46   18   3932.28    983.07
+
+                                                                                                         ----------
+UKUPNO                                                                                                      4171.22
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

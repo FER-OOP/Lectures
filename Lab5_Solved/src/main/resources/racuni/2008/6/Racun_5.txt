@@ -1,0 +1,20 @@
+Račun br. 494445
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Ngr./ovj. svjetiljka OFFICE 218 Dir/Ind 2-28/54W Dali                              1675.31    6  10051.86   2512.97
+Prijemnik za kontrolu roleta                                                        437.43   16   6998.88   1749.72
+KARDAMOD SURFACE DOUBLE ES111, srebrne boje                                        1188.46   29  34465.34   8616.33
+Energetski kabel 0,6/1kV PP00-Y (EYY-J) 1x70 RM crni                               5712.74    2  11425.48   2856.37
+Spiralno udarno svrdlo, SDS-Plus, 8.0 x 160 mm / 100mm                               34.71    5    173.55     43.39
+Montažna šina 3936, dužina 4,15m                                                    298.69   19   5675.11   1418.78
+LS-FI (KZS), C/40A/100mA, 1P+N, Tip AC, 10kA                                          4281   30 128430.00  32107.50
+PLASTRA Tube zidna svjetiljka, 2xGU10, okrugla, gips                                374.92   10   3749.20    937.30
+
+                                                                                                         ----------
+UKUPNO                                                                                                    200969.42
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

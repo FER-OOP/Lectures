@@ -1,0 +1,18 @@
+Račun br. 143830
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Prednja ploča za timer (za EL177030), 15min, bijela                                  71.38    8    571.04    142.76
+Okvir 1M line, srebrni                                                               24.38   15    365.70     91.42
+Bezhalogeni vatrodojavni instal. kabel JB-H(ST)H 20x2x0,8 E3                         10000    2  20000.00   5000.00
+Nadgradna svjetiljka SARH 2 ECO T5 2x49W ECG, bijela                                391.56    2    783.12    195.78
+Ana-SC LED 9W 3000K 600lm, IP54, bijele boje                                        417.66   18   7517.88   1879.47
+Halogena žarulja QT 9 20W 12V G4                                                     11.79   27    318.33     79.58
+
+                                                                                                         ----------
+UKUPNO                                                                                                    29556.068
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

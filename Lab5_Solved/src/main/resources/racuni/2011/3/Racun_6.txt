@@ -1,0 +1,33 @@
+Račun br. 687351
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Gwen-R 150W RX7s, 230V, IP20, brušeni mesing                                         19.59    8    156.72     39.18
+7808, LED RGB kontroler, za 4-žilnu traku                                            53.05    4    212.20     53.05
+Telekomunikacijski kabel F-YAY 20x2x0,8mm2                                           10000   18 180000.00  45000.00
+Josh-Q LED 1,6W 6000K, IP54, nehrđajući čelik                                       219.81   14   3077.34    769.33
+Poklopac 380x280x80mm sivi - D-GH                                                   392.55   24   9421.20   2355.30
+Uvod kabela/zaštita od prašine za DW4H, montažu uvodnica                              6018   26 156468.00  39117.00
+SIGHT 54 TRACK, četvrt.obl., srebrne boje,T5,54W,3-f adapter                       1250.97   23  28772.31   7193.08
+Samostojeći ormar, 2-vrata, 1800x1200x400 (VxŠxD), RAL 7035                        4760.37   22 104728.14  26182.04
+Video vanjski panel, 20 tipki, sa PTT otvorom                                         4690   26 121940.00  30485.00
+Pokrov stezaljki za LA301513 i LA301763                                              260.5   11   2865.50    716.38
+Držač za instalacijsku cijev M40, HF, crni  (pak. 100 kom.)                         708.45    3   2125.35    531.34
+"19"" napojna letva,8xshuko,prekidač,1U,kabel 2m,crna,alu"                             177   22   3894.00    973.50
+LED traka 115 AH 100% Mix 27,2 W/m 2102lm/m 24VDC IP44 l=5m                        1959.55   10  19595.50   4898.88
+Valo-R/A2 LED 45W 3000K 2950lm, IP20, crne boje                                     795.63   26  20686.38   5171.60
+Grebenasta sklopka, 1-0-2/4P/100A, montaža na DIN nosač                            1785.08    1   1785.08    446.27
+Kućni energetski razdjelnik, 2-redni, za 44 modula, RAL9003                         742.49    3   2227.47    556.87
+Kućište s prozirnim poklopcem, 320x260x129mm, IP65                                    4130   18  74340.00  18585.00
+Devin-Q 150W Rx7s, 230V, IP20, brušeni krom                                          19.59   18    352.62     88.15
+Finožični PVC-om izol. vodič H07V-K (P/F) 50mm2, ž/z HPV                             10000   17 170000.00  42500.00
+Podnaponski isklopnik za MC4, 380-440V AC                                           778.82   28  21806.96   5451.74
+Prespojni kabel RJ45 cat.5e neoklopljen, PVC, žuti, 10.0m                            35.03   22    770.66    192.66
+
+                                                                                                         ----------
+UKUPNO                                                                                                     925225.5
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

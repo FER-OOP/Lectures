@@ -1,0 +1,28 @@
+Račun br. 144233
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Mod. nadzora mrežnog napona za uklju. sig. opće rasvjete 4A                         827.11    8   6616.88   1654.22
+Ugradna svjetiljka SERH 2 A8 L1 T5 1x24W, ECG, bijela                                 8534   12 102408.00  25602.00
+Kompenzacija  LSK7% 87,5/12,5kvar 600x1250x300mm zidni ormar                      25277.25   27 682485.75 170621.44
+Fluokompaktna žarulja TC-S 5W/840 G23 OS                                              19.7    4     78.80     19.70
+LED napajanje 15W, 500mA, dim.                                                       187.2   17   3182.40    795.60
+Motorna zaštitna sklopka, 3-polna | 2.80 - 4.00A, vel.S0                            223.43   12   2681.16    670.29
+Poliester kućište 540x540x171mm, prozirni poklopac,IP66,sivo                       1282.44   17  21801.48   5450.37
+Rastavna stezaljka (vijčani priključak) 0.2 - 4mm², plava                            19.26    8    154.08     38.52
+Brojač pogonskih sati, 24VAC, pokrov stezaljki                                      149.03   10   1490.30    372.58
+Bimetalni relej za sklopnike vel. 00 | 7,00 - 10,00A                                161.33   26   4194.58   1048.65
+P/Ž inst. razdj. 4U-42,14-redni,630ŠM,2025x1030x250mm(VxŠxD)                        6930.6    9  62375.40  15593.85
+Mini sklopnik promjene smjera, 4kW | 230V AC                                        446.21   14   6246.94   1561.73
+Utični relej, 4 preklopna kont., 6A, 24V DC, S-Relay Serie 4                         30.68    4    122.72     30.68
+Gumeni nastavak za plastičnu kapu LKT Ø 60                                            5.75    7     40.25     10.06
+Nazidni okvir s vratima za Modul 2000 | 1A-28 | dubina 250mm                       1173.56   24  28165.44   7041.36
+Pomoćni kontakt 3A (230VAC15), (1+1) za K3 175..316, prednji                         83.01    6    498.06    124.51
+
+                                                                                                         ----------
+UKUPNO                                                                                                    922542.25
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,31 @@
+Račun br. 808585
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LED R7s, 7W, 4000K, 600lm, 100-240V                                                 119.28   30   3578.40    894.60
+Spoj za EASYTEC II, krom                                                            155.78   23   3582.94    895.73
+Grebenasta sklopka (glavna, žuto/crvena), 0-1/4P/32A, na DIN                        214.15    8   1713.20    428.30
+LUZO LED DISKstrop.ugradb.prsten,okrugli,bijeli 2700K85°                            625.15   28  17504.20   4376.05
+CRISTAL MEDIUM LED 9x1W 4000K SIM. 80° INOX+ugr.kut.                               2973.64   28  83261.91  20815.48
+Fluo cijev T26 18W/865 G13                                                           19.23    6    115.38     28.85
+Montažni komplet za Modul u omaru, gore                                               9.43   13    122.59     30.65
+Kompaktni prekidač snage tip A, 3P, 150kA, 80A                                     1310.83   17  22284.11   5571.03
+Zaštitni prekidač AMPARO 6kA, C 20A, 3P+N                                            98.25   25   2456.25    614.06
+Glenos akrilni pokrov, obli pokrov za profile 2609, 1m                              124.86   26   3246.36    811.59
+Juno-II-WL-S 2x15W E27, 100-240V, IP54, sive boje                                   249.21    3    747.63    186.91
+Telekomunikacijski kabel YYSCH 5x0,6mm2, boja slonovače                              10000   19 190000.00  47500.00
+Samostojeća svjetiljka SVO TC-L 4x55W sa prekidačem                                4297.57    4  17190.28   4297.57
+Zaštitni prekidač AMPARO 6kA, C 40A, 3P+N                                           114.51   26   2977.26    744.32
+Podnožje N voda vel.00, M8/mostić                                                    47.56   21    998.76    249.69
+DASAR LED HV ugradna, okrugla, SST, 6W , 3000K, 230V, IP67                         1000.75   17  17012.75   4253.19
+"Bit-umetak 1/4"", TX30, duljine 25mm, crveni"                                       18.58   16    297.28     74.32
+Shunt 60mV, 60A                                                                       4398   15  65970.00  16492.50
+Nick-III-Q 2x13/18W G24q, 230V, IP20, brušeni krom                                    7.77   29    225.33     56.33
+
+                                                                                                         ----------
+UKUPNO                                                                                                    433284.66
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

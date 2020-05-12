@@ -1,0 +1,28 @@
+Račun br. 167677
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Tel. okrugla šipka za do 600 parica, puna šipka                                     250.51   16   4008.16   1002.04
+Kronos-I-S/A1 3x50W GU5,3 MR16, 12V, IP20, sive boje                                 79.07   12    948.84    237.21
+Adapter za polucilindar, za ASLSC501-S                                               44.96    1     44.96     11.24
+KALOS HL D-ulič.optika 20+20LED,4000K 90W, antracit,4 kraka                        5851.08   26 152128.08  38032.02
+Sutil Round  LED 30W, 6000K, 2100lm, 120°, IP40, sive boje                          331.49    6   1988.94    497.23
+Ispitivač kabela (RJ45) CableMaster 200                                              657.4    7   4601.80   1150.45
+Mikro sklopnik 3NO+1NO, 2,2kW, 5A, 400VAC                                            84.34   24   2024.16    506.04
+Gumom iz. i oplašten 1-žilni kabel 1,8/3 kV NSGAFöu 1,5 crni                         10000   25 250000.00  62500.00
+Mario-WL-Q LED 6W 3000K 440lm, IP54, antracit                                       397.73    4   1590.92    397.73
+Reflektor FORCA LED 151W 17360lm/765 ECG IP65 50°,sb                               4134.73    5  20673.65   5168.41
+Digitalni šifrarnik, POWERCOM, 2 releja                                            1671.37   17  28413.29   7103.32
+Međuokvir za kućište D - 380x280x50mm                                                285.3   29   8273.70   2068.42
+Finožični PVC-om izol. vodič H05V-K (P/F) 0,5mm2, smeđi HPV                          10000    5  50000.00  12500.00
+MEDO 40 LED, stropna svjetiljka, crvene boje                                       1433.11   12  17197.32   4299.33
+LED MR16, 5W, 2700K, 38°                                                             93.26   20   1865.20    466.30
+Stezaljka glavnog voda (za Al i Cu), 1P,2x35mm²|2x25mm²,siva                         34.04   14    476.56    119.14
+
+                                                                                                         ----------
+UKUPNO                                                                                                    544235.56
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

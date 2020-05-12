@@ -1,0 +1,27 @@
+Račun br. 1004385
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Linda LED PC 1x30W, 4000K, 4493lm, DALI                                            1288.62   29  37369.98   9342.50
+FORCHINI, ovj.svj., PD-2, okrugla, cb/zlatne b., E27,max.40W                        875.55    3   2626.65    656.66
+Ilma-R/A1 LED 15W 3000K 1260lm, IP65, aluminij                                      729.23    5   3646.15    911.54
+Prednja ploča za 2 x RJ45, biserno bijela                                            22.35   26    581.10    145.28
+Flomaster, crni                                                                      24.06   13    312.78     78.19
+Optički prespojni kabel duplex, SC/SC, 50/125µm OM3, 2.0m                            74.25   11    816.75    204.19
+Kabel H03VV-F (PP/L) 3x0,75mm2, crni, 500m kolut                                     10000   11 110000.00  27500.00
+Dvovremenski multifunkcijsi relej, 12-240VAC/DC, 2 C/O, 8A                          338.34    4   1353.36    338.34
+NEW TRIA XL četvrtasti GU10 Downlight, crne boje                                     187.2   30   5616.00   1404.00
+Fluo cijev T26 15W/827 G13                                                           21.71   15    325.65     81.41
+Varistor za svitak 110-230V AC/DC za LA3007-LA3022                                   54.47   12    653.64    163.41
+Utičnica šuko 2struka 45° sa kontaktom, na oprugu antracit                           35.32   12    423.84    105.96
+Slušalica Basic (4+n ožičenje), univerzalna                                         296.46   23   6818.58   1704.65
+Univerzalni dimer , 1 x 230V AC‚ 10 ... 250 VA                                     1067.98    6   6407.88   1601.97
+Bezhalogeni vatrodojavni instal. kabel JB-H(ST)H 20x2x0,8 E3                         10000   28 280000.00  70000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    456952.38
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

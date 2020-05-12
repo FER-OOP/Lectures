@@ -1,0 +1,14 @@
+Račun br. 136565
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+OUT 65 LED DL okrugli Set, 9W, 3000K, 38°, crne boje                                437.43   15   6561.45   1640.36
+Mikro pomoćni sklonik 3NO+1NC, 3A, 24VDC                                             101.6   23   2336.80    584.20
+
+                                                                                                         ----------
+UKUPNO                                                                                                      8898.25
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

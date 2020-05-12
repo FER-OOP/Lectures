@@ -1,0 +1,22 @@
+Račun br. 177181
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+OTDR mjerenje uklj. protokol za SM (9/125µm)                                        306.06   20   6121.20   1530.30
+Kabel H05VV-F (PP/J) 5x1,5mm2, svijetlo-sivi, 500m                                   10000   24 240000.00  60000.00
+Zaštitni prekidač, B karakteristika, 25A, 3-polni, 6kA                               87.36   24   2096.64    524.16
+Optički prespojni kabel duplex, ST/ST, 9/125µm OS2, 2.0m                             81.23   25   2030.75    507.69
+N/Ž inst. razdj. 3A-24, 8-redni, 264 ŠM, 1195x810x250mm                            3293.82   30  98814.60  24703.65
+Nadgradna svjetiljka SARW ECO T8 4x18W CCG, bijela                                  353.08    1    353.08     88.27
+LED MEGAMAN CANDLE clear E14, 6W, 2800K, 470lm, DIM                                 149.99   24   3599.76    899.94
+Tuljci,izolirani, dvostruki, 2x1.5mm2, L2=8mm (pak.100 kom)                          19.35   29    561.15    140.29
+Kompaktni prekidač snage tip A, 3P, 36kA, 200A, utični                             2703.59   15  40553.85  10138.46
+Kompaktni prekidač snage tip ME, 3P, 150kA, 350A+izvl. modul                          6244    3  18732.00   4683.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                    412863.03
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

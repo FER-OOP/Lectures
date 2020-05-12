@@ -1,0 +1,18 @@
+Račun br. 944574
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Zatvarač veličine 1, 4-polni (tvornički ugrađen)                                      4970   27 134190.00  33547.50
+Zaštitni prekidač, C karakteristika, 16A, 3-polni+N, 10kA                            217.2   21   4561.20   1140.30
+Završni poklopac LBE četvrtasti sa rupom i vijcima                                    51.6   28   1444.80    361.20
+Gumeni kabel, otporan na temperat. do 110° H07G-K 6, crni                            10000   12 120000.00  30000.00
+LED MR16 žarulja, 4W, SMD LED, 2700K, 40°                                            93.26    2    186.52     46.63
+Glenos akrilni pokrov za četvrtasti Profile 3030, 3m                                374.58   28  10488.24   2622.06
+
+                                                                                                         ----------
+UKUPNO                                                                                                    270870.75
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

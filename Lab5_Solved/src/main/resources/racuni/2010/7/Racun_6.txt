@@ -1,0 +1,19 @@
+Račun br. 829346
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+LS-FI (KZS), C/16A/100mA, 1P+N, Tip A, 10kA                                         344.99   29  10004.71   2501.18
+LED ES111,  crne boje, 15W, 140°, 2700K                                             374.92   19   7123.48   1780.87
+WETSY LED DISK 300, okrugla, 9W, 2700K                                             1087.42   12  13049.04   3262.26
+SEVEN-CIRCLE 70W HIT E27 IP65 cestovna optika, crna                                3415.29   16  54644.64  13661.16
+Kabel LiYY 8x0,25                                                                    10000   24 240000.00  60000.00
+Instal. umetak 3-28L komplet 9 IR prednja pl. Plastika                             1987.69    8  15901.52   3975.38
+Kabel JE-LiYCY 20x2x0,5 Bd Si, sivi                                                  10000   28 280000.00  70000.00
+
+                                                                                                         ----------
+UKUPNO                                                                                                     620723.4
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

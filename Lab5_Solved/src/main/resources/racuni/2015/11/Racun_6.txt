@@ -1,0 +1,20 @@
+Račun br. 811022
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Instalacijski sklopnik 25A | 4 N/O | 24V AC                                          136.1   18   2449.80    612.45
+FLEXLED ROLL SLIM 24V, 3m, 4000K                                                    374.92   26   9747.92   2436.98
+Kompenzacija  LSFC 7% 300/25kvar 800x2000x400mm Samost.orm.                       68972.26   292000195.50 500048.88
+Zaporni vijak M12x1.5, metrički, poliamid                                             0.65   27     17.55      4.39
+Cube-WL-Q 35W GU10 MR16, 100-240V, IP54, sive boje                                  190.58   24   4573.92   1143.48
+Kabel H05VV5-F 34x0,75 sivi                                                          10000   12 120000.00  30000.00
+Ugradna svjetiljka SERH ECO T5 4x24W ECG IP54 M600, bijela                          541.73   21  11376.33   2844.08
+Grebenasta sklopka (glavna, žuto/crvena), 0-1/4P/80A, na DIN                        585.63   12   7027.56   1756.89
+
+                                                                                                         ----------
+UKUPNO                                                                                                    2155388.2
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

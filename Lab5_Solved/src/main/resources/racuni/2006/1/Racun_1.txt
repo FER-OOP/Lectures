@@ -1,0 +1,20 @@
+Račun br. 194954
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+Fluo cijev T16 49W/840 G5                                                            29.01    7    203.07     50.77
+RUSTY 70 LED ROUND vanjska svjetiljka 3000K IP55, rusty                            2184.14   23  50235.22  12558.80
+Levante-S 20 LED 48W 3885lm 3000K rotosim.IP66,SKII,RAL9003                        3205.01    7  22435.07   5608.77
+"Opt. razdjelnik, 8 niti,SC,9/125µm OS2, izvlačivi,19"",1U"                         570.45    7   3993.15    998.29
+Mura-II-45-R LED 1W 6000K, IP54, aluminij                                           139.22   23   3202.06    800.52
+Zaštitni prekidač MB 18kA BT 80/4                                                   617.24    7   4320.68   1080.17
+Kabelski kanal 80x120 (VxŠ), 2m, perforirani, sivi, RAL7030                          74.05   11    814.55    203.64
+Pokrov priključnih stezaljki za MC3, 4-polni, odlomljivi                            170.37   22   3748.14    937.03
+
+                                                                                                         ----------
+UKUPNO                                                                                                     88951.94
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe
