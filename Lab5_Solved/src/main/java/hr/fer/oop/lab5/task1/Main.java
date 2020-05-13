@@ -17,9 +17,14 @@ import java.util.Map;
 public class Main {
 
 	public static void main(String[] args) {
-		Path racuni = Paths.get("./src/main/resources/racuni"); 
+		Path racuni = Paths.get("./src/main/resources/racuni");
+		Path outputFolder = Paths.get("./output");		
 		
 		try {			
+			if (Files.notExists(outputFolder)) {
+				Files.createDirectory(outputFolder);
+			}
+			
 			AccountsVisitor visitor = new AccountsVisitor();
 			Files.walkFileTree(racuni, visitor);			
 			
