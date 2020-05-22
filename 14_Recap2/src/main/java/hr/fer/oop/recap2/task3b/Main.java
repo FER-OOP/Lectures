@@ -10,25 +10,24 @@ import hr.fer.oop.recap2.task2.QuadrantPredicate;
 
 public class Main {
 
-	public static void main(String[] args) {
-		List<Point> list = new ArrayList<>();
-		list.add(new Point(-5, 12));
-		list.add(new Point(3, -4));
-		list.add(new Point(12, 9));
-		list.add(new Point(3, 4));
-		list.add(new Point(4, 3));
-		list.add(new Point(-9, 12));
-		list.add(new Point(-5, -12));				
-		
-		DistanceFromOrigin dist = new DistanceFromOrigin();
-		
-		OptionalDouble avg = list.stream()								
-								.filter(new QuadrantPredicate(true, true, false, true))
-								.mapToDouble(p -> dist.apply(p))
-								.average();
-		avg.ifPresentOrElse(
-				val -> System.out.println("Avg = " + val), 
-				() -> System.out.println("No data for selected quadrants")
-			);			
-	}
+  public static void main(String[] args) {
+    List<Point> list = new ArrayList<>();
+    list.add(new Point(-5, 12));
+    list.add(new Point(3, -4));
+    list.add(new Point(12, 9));
+    list.add(new Point(3, 4));
+    list.add(new Point(4, 3));
+    list.add(new Point(-9, 12));
+    list.add(new Point(-5, -12));
+
+    DistanceFromOrigin dist = new DistanceFromOrigin();
+
+    OptionalDouble avg = list.stream()
+      .filter(new QuadrantPredicate(true, false, false, false))
+      .mapToDouble(p -> dist.apply(p))
+      .average();
+    avg.ifPresentOrElse(
+        val -> System.out.println("Avg = " + val),
+        () -> System.out.println("No data for selected quadrants"));
+  }
 }
