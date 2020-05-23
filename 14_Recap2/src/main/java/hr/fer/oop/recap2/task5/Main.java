@@ -6,8 +6,8 @@ public class Main {
 
 	public static void main(String[] args) {
 		PythagoreanTriangles triples = new PythagoreanTriangles(50, 80);
-		for (Ntuple<Long> p : triples)
+		for (Ntuple<Integer> p : triples)
 			System.out.println(p);
 		//triples = new PythagoreanTriangles(50, -2); //throws exception
-	}		
+	}
 }
