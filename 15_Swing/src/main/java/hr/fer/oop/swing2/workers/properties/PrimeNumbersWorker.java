@@ -55,7 +55,7 @@ public class PrimeNumbersWorker extends SwingWorker<List<Integer>, Integer> {
                 //set progress
                 setProgress(100 * count / numberOfPrimes);
                 //publish prime number
-                publish((int) number);
+                publish(number);
 
                 //slow down the thread
                 try {
