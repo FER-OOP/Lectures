@@ -1,4 +1,4 @@
-package hr.fer.oop.collections_and_customclasses.example9;
+package hr.fer.oop.collections_and_customclasses.example7;
 
 import java.util.Comparator;
 

@@ -1,4 +1,4 @@
-package hr.fer.oop.collections_and_customclasses.example10;
+package hr.fer.oop.collections_and_customclasses.example8;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -13,7 +13,7 @@ public class CompositeComparator<T> implements Comparator<T> {
 		this.comparators = new ArrayList<>(comparators.length);
 		Collections.addAll(this.comparators, comparators);
 		// or instead we can do this like
-//		for (Comparator<? super T> c : comparators) {
+//		for (Comparator<T> c : comparators) {
 //			this.comparators.add(c);
 //		}
 	}

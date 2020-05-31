@@ -1,10 +1,12 @@
-package hr.fer.oop.collections_and_customclasses.example9;
+package hr.fer.oop.collections_and_customclasses.example7;
 
 import java.util.Comparator;
 
-public class StudentComparator implements Comparator<Student> {
+import hr.fer.oop.collections_and_customclasses.example4.Student4;
+
+public class StudentComparator implements Comparator<Student4> {
 	@Override
-	public int compare(Student s1, Student s2) {
+	public int compare(Student4 s1, Student4 s2) {
 		int r = s1.getLastName().compareTo(s2.getLastName());
 		if (r != 0)
 			return r;
