@@ -14,7 +14,7 @@ public class Example2 {
 		  .filter(new Predicate<Student>() {
 			@Override
 			public boolean test(Student t) {
-				return t.getFinalGrade()==5;
+				return t.getPoints() >= 40;
 			}
 		   })
 		  .forEach(new Consumer<Student>() {
@@ -28,7 +28,7 @@ public class Example2 {
 		
 		// using lambda
 		students.stream()
-				.filter(s -> s.getFinalGrade()==5)
+				.filter(s -> s.getPoints() >= 40)
 				.forEach(t -> System.out.println(t));
 	}
 	

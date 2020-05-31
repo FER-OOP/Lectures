@@ -8,33 +8,33 @@ public class Example6 {
 
 	public static void main(String[] args) {
 		List<Student> students = StudentData.load();
-
+		int threshold = 20;
 		// using anonymous class
 		double avgGrade = students.stream()
 		  .filter(new Predicate<Student>() {
 			@Override
 			public boolean test(Student t) {
-				return t.getFinalGrade()>2;
+				return t.getPoints() > threshold;
 			}
 		   })
 		  .mapToInt(new ToIntFunction<Student>() {
 			  @Override
 			public int applyAsInt(Student student) {
-				return student.getFinalGrade();
+				return student.getPoints();
 			}
 		  })
 		  .average()
 		  .getAsDouble();
-		System.out.format("Average grade %.2f%n", avgGrade);
+		System.out.format("Average points for students above threshold %.2f%n", avgGrade);
 
 		// using lambda
 		double avgGrade2 = students
 			.stream()
-			.filter(s -> s.getFinalGrade()>2)
-			.mapToInt(s -> s.getFinalGrade())
+			.filter(s -> s.getPoints() > threshold)
+			.mapToInt(s -> s.getPoints())
 			.average()
-			.getAsDouble();		
-		System.out.format("Average grade %.2f%n", avgGrade2);
+			.getAsDouble();		//warning: throws Exception if no data => use .ifPresent or .ifPresentOrElse instead
+		System.out.format("Average points for students above threshold %.2f%n", avgGrade2);
 	}
 	
 }

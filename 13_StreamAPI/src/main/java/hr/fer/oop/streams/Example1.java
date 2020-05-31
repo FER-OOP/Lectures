@@ -19,5 +19,8 @@ public class Example1 {
 		System.out.println();
 		// using lambda
 		students.stream().forEach(t -> System.out.println(t));
+		
+		//or 
+		//students.stream().forEach(System.out::println);
 	}	
 }
