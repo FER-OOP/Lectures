@@ -27,16 +27,9 @@ public class Solution {
   }
 
   private static String sortWord(String word) {
-    Set<Character> sorted = new TreeSet<>();
-
-    for(int i = 0; i < word.length(); i++)
-      sorted.add(word.charAt(i));
-
-    StringBuilder sb = new StringBuilder();
-    for(char c: sorted)
-      sb.append(c);
-
-    return sb.toString();
+    char[] characters = word.toCharArray();
+    Arrays.sort(characters);
+    return new String(characters);
   }
 
   public static void main(String[] args) {
