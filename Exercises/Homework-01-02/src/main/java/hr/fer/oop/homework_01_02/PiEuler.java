@@ -12,6 +12,6 @@ public class PiEuler {
 			sum += 1./((double)i*i);
 			calc5 = (int) (1e5 * Math.sqrt(6 * sum));			
 		}
-		System.out.printf("Pi after %d steps is %.f%n", i, Math.sqrt(6. * sum));					
+		System.out.printf("Pi after %d steps is %f%n", i, Math.sqrt(6. * sum));					
 	}
 }
