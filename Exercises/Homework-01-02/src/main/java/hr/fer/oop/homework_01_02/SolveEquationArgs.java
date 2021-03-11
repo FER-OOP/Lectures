@@ -24,7 +24,7 @@ public class SolveEquationArgs {
 			}
 		}
 		else {
-			System.out.println("Program need arguments for a, b, and c in ax^2 + bx = c");						
+			System.out.println("Program need arguments for a, b, and c in ax^2 + bx + c = 0");						
 		}		
 	}
 
