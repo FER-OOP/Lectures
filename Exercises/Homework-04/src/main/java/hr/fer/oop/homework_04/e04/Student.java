@@ -47,6 +47,9 @@ public class Student extends Person {
 		if (this == obj)
 			return true;
 
+		if (!(obj instanceof Student))
+			return false;
+		
 		Student other = (Student) obj;
 		if (!studentId.equals(other.studentId))
 			return false;

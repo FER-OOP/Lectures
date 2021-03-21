@@ -9,12 +9,12 @@ public class MainClass {
 		
 		Person[] people = new Person[5];
 		
-		people[0] = new Teacher("Dario", "Tuöek", 42, "dario.tusek@fer.hr", "OOP", 10000);
-		people[1] = new Teacher("Doris", "BezmalinoviÊ", 43, "doris.bezmalinovic@fer.hr", "OOP", 10000);
-		people[2] = new Teacher("Perica", "BebiÊ", 35, "perica.bebic@fer.hr", "OOP", 9400);
+		people[0] = new Teacher("Dario", "Tu≈°ek", 42, "dario.tusek@fer.hr", "OOP", 10000);
+		people[1] = new Teacher("Doris", "Bezmalinoviƒá", 43, "doris.bezmalinovic@fer.hr", "OOP", 10000);
+		people[2] = new Teacher("Perica", "Bebiƒá", 35, "perica.bebic@fer.hr", "OOP", 9400);
 		
 		people[3] = new Student("Janko", "Horvat", 18, "0036312123", (short)1);
-		people[4] = new Student("Ana", "KovaË", 20, "0036387656", (short)2);
+		people[4] = new Student("Ana", "Kovaƒç", 20, "0036387656", (short)2);
 
 		double sum = 0;
 		int count = 0;
@@ -39,7 +39,7 @@ public class MainClass {
 		Person p1 = new Person("Ivo","Ivic", 20);
 		Person p2 = new Person("Ivo","Ivic", 20);
 		Person p3 = new Student("Ivo","Ivic", 20, "0036312123", (short)3);
-		Person p4 = new Student("Marko","MariÊ", 25, "0036312123", (short)5);
+		Person p4 = new Student("Marko","Mari√¶", 25, "0036312123", (short)5);
 		
 		System.out.println(p1.equals(p2));		
 		System.out.println(p1.equals(p3));

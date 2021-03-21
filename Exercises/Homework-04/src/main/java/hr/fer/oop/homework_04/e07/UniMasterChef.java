@@ -9,7 +9,7 @@ import hr.fer.oop.homework_04.e06.CompetitionEntry;
 
 public class UniMasterChef {
 	
-	CompetitionEntry[] entries;
+	private CompetitionEntry[] entries;
 	
 	//internal, for addEntry
 	private int idx = 0;
@@ -69,12 +69,12 @@ public class UniMasterChef {
 		Dessert genericDessert = new Dessert("Chocolate Mousse", 120, 300);		
 		Cake cake = new Cake("Raspberry chocolate cake #3", 350.5, 400, false, "birthday");
 		
-		Teacher t1 = new Teacher("Dario", "Tušek", 42, "dario.tusek@fer.hr", "OOP", 10000);
-		Teacher t2 = new Teacher("Doris", "Bezmalinoviæ", 43, "doris.bezmalinovic@fer.hr", "OOP", 10000);
+		Teacher t1 = new Teacher("Dario", "TuÅ¡ek", 42, "dario.tusek@fer.hr", "OOP", 10000);
+		Teacher t2 = new Teacher("Doris", "BezmalinoviÄ‡", 43, "doris.bezmalinovic@fer.hr", "OOP", 10000);
 		
 		Student s1 = new Student("Janko", "Horvat", 18, "0036312123", (short)1);
-		Student s2  = new Student("Ana", "Kovaè", 19, "0036387656", (short)2);
-		Student s3  = new Student("Ivana", "Staniæ", 19, "0036392357", (short)1);
+		Student s2  = new Student("Ana", "KovaÄ", 19, "0036387656", (short)2);
+		Student s3  = new Student("Ivana", "StaniÄ‡", 19, "0036392357", (short)1);
 		
 		UniMasterChef competition = new UniMasterChef(2);
 		

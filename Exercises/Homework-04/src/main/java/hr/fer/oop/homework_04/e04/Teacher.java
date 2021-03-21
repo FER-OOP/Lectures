@@ -54,6 +54,8 @@ public class Teacher extends Person {
 
 	@Override
 	public boolean equals(Object obj) { //paziti na generirani equals code, provjerava i sadržaj atributa nadklase!
+		if (!(obj instanceof Teacher))
+			return false;
 		Teacher other = (Teacher) obj;
 		if (!email.equals(other.email))
 			return false;
