@@ -55,12 +55,12 @@ public class Teacher extends Person {
 	}
 	
 	public void increaseSalary(int percentage) {
-		this.salary *= (percentage/100.);
+		this.salary *= (1+(percentage/100.));
 	}
 	
 	public static void increaseSalary(int percentage, Teacher...teachers) {
 		for (Teacher t: teachers)
-			t.salary *= (percentage/100.);
+			t.salary *= (1+(percentage/100.));
 	}	
 	
 }
