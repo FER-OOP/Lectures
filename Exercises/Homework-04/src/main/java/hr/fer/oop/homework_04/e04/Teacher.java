@@ -45,14 +45,6 @@ public class Teacher extends Person {
 	}
 
 	@Override
-	public int hashCode() {
-		final int prime = 31;
-		int result = super.hashCode();
-		result = prime * result + ((email == null) ? 0 : email.hashCode());
-		return result;
-	}
-
-	@Override
 	public boolean equals(Object obj) { //paziti na generirani equals code, provjerava i sadržaj atributa nadklase!
 		if (!(obj instanceof Teacher))
 			return false;

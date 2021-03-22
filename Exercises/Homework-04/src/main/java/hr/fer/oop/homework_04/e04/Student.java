@@ -35,14 +35,6 @@ public class Student extends Person {
 	}
 
 	@Override
-	public int hashCode() {
-		final int prime = 31;
-		int result = super.hashCode();
-		result = prime * result + ((studentId == null) ? 0 : studentId.hashCode());
-		return result;
-	}
-
-	@Override
 	public boolean equals(Object obj) { //paziti na generirani equals code, provjerava i sadržaj atributa nadklase!
 		if (this == obj)
 			return true;
