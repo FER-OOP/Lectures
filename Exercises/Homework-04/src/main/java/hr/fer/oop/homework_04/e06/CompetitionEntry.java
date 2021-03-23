@@ -58,6 +58,15 @@ public class CompetitionEntry {
 			sum+= ratings[i];
 		
 		return sum/idx; 
+	}
+
+	@Override
+	public boolean equals(Object obj) {
+		//provjere?
+		CompetitionEntry other = (CompetitionEntry) obj;
+		if (!teacher.equals(other.teacher))
+			return false;
+		return true;
 	} 
 	
 }
