@@ -74,7 +74,7 @@ public class Vehicle {
 	}
 	
 	public static void printAllVehiclesWithCargoSpaceGreaterThan(double cargoSize, Vehicle...vehicles) {
-		System.out.println("Wehicles with cargo space greater than " + cargoSize + " litres:");
+		System.out.println("Vehicles with cargo space greater than " + cargoSize + " liters:");
 		for (Vehicle v: vehicles) {
 			if (v instanceof Car)
 				if (((Car)v).getCargoSpace() > cargoSize)
