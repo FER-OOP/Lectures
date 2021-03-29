@@ -1,6 +1,6 @@
 package hr.fer.oop.homework_05.e07;
 
-public class Van extends Vehicle {
+public abstract class Van extends Vehicle {
 
 	private double height;
 
