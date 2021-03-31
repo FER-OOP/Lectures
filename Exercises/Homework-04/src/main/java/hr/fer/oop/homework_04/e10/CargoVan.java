@@ -19,7 +19,7 @@ public class CargoVan extends Van {
 	
 	@Override
 	public double getPricePerDay() {
-		return this.getPrice()*1.1;
+		return super.getPricePerDay() * 1.1;
 	}
 	
 }

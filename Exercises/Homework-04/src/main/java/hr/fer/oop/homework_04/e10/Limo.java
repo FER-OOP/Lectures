@@ -39,6 +39,6 @@ public class Limo extends Vehicle {
 	
 	@Override
 	public double getPricePerDay() {
-		return this.getPrice()*1.5;
+		return super.getPricePerDay() * 1.5;
 	}
 }
