@@ -19,8 +19,6 @@ public class Solution {
 			} finally {
 				System.out.println("finally");
 			}
-		
-
 		}
 		System.out.println(result);
 	}

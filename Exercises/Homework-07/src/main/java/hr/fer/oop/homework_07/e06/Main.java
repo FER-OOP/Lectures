@@ -12,7 +12,7 @@ public class Main {
 				throw new RuntimeException("wrapped exception", e);
 			} finally {
 				System.out.println("finally");
-			}	
+			}
 		} catch (Exception e) {
 			System.out.println(e.getMessage());
 			System.out.println(e.getCause().getMessage());
