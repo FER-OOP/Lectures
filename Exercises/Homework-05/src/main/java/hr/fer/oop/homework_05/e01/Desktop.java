@@ -21,17 +21,6 @@ public class Desktop extends Computer{
 	public String toString() {
 		return super.toString() + ", caseHeight=" + caseHeight;
 	}
-
-	@Override
-	public String getComputerType() {
-		return "Desktop nešto";
-	}
-
-	@Override
-	public double calculatePortabilityScore() {
-		// TODO Auto-generated method stub
-		return 0;
-	}
 	
 	
 }
