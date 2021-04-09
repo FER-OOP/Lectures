@@ -10,7 +10,7 @@ public class Main {
 		KeyValueMapEntry<Integer, String> dinamo = new KeyValueMapEntry<>(3, "Dinamo");
 		//KeyValueMapEntry<Integer, Boolean> fake = new KeyValueMapEntry<>(1, false);
 		//KeyValueMapEntry<Double, String> fake2 = new KeyValueMapEntry<>(1.0d, "Varazdin");
-		System.out.println(calculateAverageKey(real, dinamo));//, fake, fake2));
+		System.out.println(calculateAverageKey(real, dinamo));//, fake, fake2)); // we cannot add fake and fake2 because their parameters are not "aligned" with parameters from "real"
 		
 
 	}
