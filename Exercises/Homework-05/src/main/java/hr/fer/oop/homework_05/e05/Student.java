@@ -34,4 +34,11 @@ public class Student extends Person {
 		return super.toString() + ", academicYear=" + academicYear + ", grades=" + Arrays.toString(grades);
 	}
 
+	@Override
+	public int getGrade() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+	
+
 }

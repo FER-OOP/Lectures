@@ -31,6 +31,18 @@ public class Laptop extends Computer{
 	public String toString() {
 		return super.toString() + ", batteryCapacity=" + batteryCapacity + ", weight=" + weight;
 	}
+
+	@Override
+	public String getComputerType() {
+		// TODO Auto-generated method stub
+		return "Laptop";
+	}
+
+	@Override
+	public double calculatePortabilityScore() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
 	
 	
 	

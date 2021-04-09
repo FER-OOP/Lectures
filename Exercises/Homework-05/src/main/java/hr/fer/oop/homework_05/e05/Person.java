@@ -1,6 +1,6 @@
 package hr.fer.oop.homework_05.e05;
 
-public class Person {
+public abstract class Person {
 
 	private int id;
 	private String name;
@@ -29,6 +29,13 @@ public class Person {
 	@Override
 	public String toString() {
 		return id + ", " + name;
+	}
+	
+	
+	public abstract int getGrade();
+	
+	public final boolean isOutstanding() {
+		return false;
 	}
 	
 }

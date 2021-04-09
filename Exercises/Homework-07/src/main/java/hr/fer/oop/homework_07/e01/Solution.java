@@ -1,5 +1,6 @@
 package hr.fer.oop.homework_07.e01;
 
+import java.util.NoSuchElementException;
 import java.util.Scanner;
 
 import hr.fer.oop.homework_07.e01.model.Person;
@@ -55,6 +56,19 @@ public class Solution {
 		System.out.println("When we increment the number " + numberAsString + " we get: " + result);
 	}
 
+	/**
+	 * More comments related to exceptions. 
+	 * 
+	 * Observe that the code contains "hasNext()" which may throw {@link IllegalStateException}. 
+	 * Such an unchecked exception may happen if the scanner is closed. In our solution, System.in will not be closed so we do not have to deal with this, but be aware of the possibility for such an exception in other cases.
+	 * 
+	 * Next, observe that the code contains "nextLine()" which may throw {@link NoSuchElementException} or {@link IllegalStateException}.
+	 * Check for NoSuchElementException is not necessary because we use hasNext() to check whether we have something for scanner to interpret as the line.
+	 * IllegalStateException will also not happen because we use System.in which we do not close. 
+	 * 
+	 * 
+	 * @param s
+	 */
 	private static void problem02Ping(Scanner s) {
 		System.out.println("problem02Ping()");
 
@@ -68,6 +82,16 @@ public class Solution {
 		}
 	}
 
+	/**
+	 * 
+	 * More comments related to exceptions.
+	 * 
+	 * A person may be null and that seems like a potential issue. 
+	 * However, in this particular code, nothing bad will happen.
+	 * If we pass null as person, the "instanceof" operator will return false.
+	 * 
+	 * @param person
+	 */
 	private static void problem03PrintGrade(Person person) {
 		System.out.println("problem03PrintGrade()");
 

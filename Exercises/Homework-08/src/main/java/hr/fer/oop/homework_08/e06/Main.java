@@ -9,7 +9,7 @@ public class Main {
 		KeyValueMapEntry<Integer, String> real = new KeyValueMapEntry<>(5, "Real Madrid");
 		KeyValueMapEntry<Integer, String> dinamo = new KeyValueMapEntry<>(3, "Dinamo");
 		//KeyValueMapEntry<Integer, Boolean> fake = new KeyValueMapEntry<>(1, false);
-		//KeyValueMapEntry<Integer, Double> fake2 = new KeyValueMapEntry<>(1, 99.00);
+		//KeyValueMapEntry<Double, String> fake2 = new KeyValueMapEntry<>(1.0d, "Varazdin");
 		System.out.println(calculateAverageKey(real, dinamo));//, fake, fake2));
 		
 

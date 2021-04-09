@@ -66,7 +66,7 @@ public class Problem {
 	}
 
 	/**
-	 * Prints the elements from an input array.
+	 * Prints all the elements from an input array.
 	 * 
 	 * @param array
 	 */
