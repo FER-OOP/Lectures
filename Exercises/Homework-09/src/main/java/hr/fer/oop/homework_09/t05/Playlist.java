@@ -37,15 +37,13 @@ public class Playlist {
 		return tracks.get(i-1);
 	}
 	
-	public void move(int position, int move) {
-		Track t = tracks.get(position - 1);
-		tracks.remove(position - 1);
-		tracks.add(position + move - 1,  t );
+	public void move(int position, int move) {		
+		Track t = tracks.remove(position - 1);
+		tracks.add(position + move - 1,  t);
 	}
 	
-	public void deleteAt(int position) {
-		Track track = tracks.get(position);
-		tracks.remove(position - 1);
+	public void deleteAt(int position) {		
+		Track track = tracks.remove(position - 1);
 		duration -= track.getDuration();
 	}
 	
