@@ -3,19 +3,19 @@ package hr.fer.oop.homework_09.t08;
 import java.util.Map;
 import java.util.TreeMap;
 
-public class Polynom {
+public class Polynomial {
 	private TreeMap<Integer, Integer> map = new TreeMap<>();
-	private Polynom() {
+	private Polynomial() {
 		
 	}
-	public Polynom(int...elements) {
+	public Polynomial(int...elements) {
 		for(int i=0; i<elements.length; i+=2) {			
 			map.put(elements[i+1], elements[i]);
 		}
 	}
 	
-	public Polynom plus(Polynom p) {
-		Polynom r = new Polynom();
+	public Polynomial plus(Polynomial p) {
+		Polynomial r = new Polynomial();
 		for(Map.Entry<Integer, Integer> entry : this.map.entrySet()) {
 			r.map.put(entry.getKey(), entry.getValue());
 		}
