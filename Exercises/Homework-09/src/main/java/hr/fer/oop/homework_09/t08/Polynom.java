@@ -16,40 +16,19 @@ public class Polynom {
 	
 	public Polynom plus(Polynom p) {
 		Polynom r = new Polynom();
-		
-		var it1 = this.map.entrySet().iterator();		
-		var it2 = p.map.entrySet().iterator();
-		Map.Entry<Integer, Integer> p1 = it1.hasNext() ? it1.next() : null;
-		Map.Entry<Integer, Integer> p2 = it2.hasNext() ? it2.next() : null;
-		while(p1 != null && p2 != null) {						
-			
-			if (p1.getKey() < p2.getKey()) {
-				r.map.put(p1.getKey(), p1.getValue());
-				p1 = it1.hasNext() ? it1.next() : null;				
-			}
-			else if (p1.getKey() > p2.getKey() ) {
-				r.map.put(p2.getKey(), p2.getValue());
-				p2 = it2.hasNext() ? it2.next() : null;
+		for(Map.Entry<Integer, Integer> entry : this.map.entrySet()) {
+			r.map.put(entry.getKey(), entry.getValue());
+		}
+		for(Map.Entry<Integer, Integer> entry : p.map.entrySet()) {
+			int curr = this.map.getOrDefault(entry.getKey(), 0);
+			int val = entry.getValue();
+			if (curr + val == 0) {
+				r.map.remove(entry.getKey());
 			}
 			else {
-				int val = p1.getValue() + p2.getValue();
-				if (val != 0) {
-					r.map.put(p2.getKey(), val);					
-				}
-				p1 = it1.hasNext() ? it1.next() : null;
-				p2 = it2.hasNext() ? it2.next() : null;
+				r.map.put(entry.getKey(), curr + val);
 			}			
-		}
-		
-		while(p1 != null) {
-			r.map.put(p1.getKey(), p1.getValue());
-			p1 = it1.hasNext() ? it1.next() : null;
-		}
-		while(p2 != null) {			
-			r.map.put(p2.getKey(), p2.getValue());
-			p2 = it2.hasNext() ? it2.next() : null;
-		}
-		
+		}				
 		return r;
 	}
 	
