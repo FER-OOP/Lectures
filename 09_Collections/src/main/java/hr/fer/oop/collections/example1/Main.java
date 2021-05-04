@@ -21,7 +21,7 @@ public class Main {
 			Collections.sort(numbers);
 			
 			System.out.format("Numbers >= %.2f %n", avg);
-			for(double number : numbers) {
+			for(int number : numbers) {
 				System.out.println(number);			
 			}			
 		}				

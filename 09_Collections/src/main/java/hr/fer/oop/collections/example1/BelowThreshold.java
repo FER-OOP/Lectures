@@ -4,7 +4,7 @@ import java.util.function.Predicate;
 
 public class BelowThreshold implements Predicate<Number> {
 
-	private double threshold;
+	private final double threshold;
 
 	public BelowThreshold(double threshold) {
 		this.threshold = threshold;
