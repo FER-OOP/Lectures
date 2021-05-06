@@ -1,25 +1,21 @@
 package hr.fer.oop.homework_09.t01;
 
+import java.util.Collections;
 import java.util.LinkedList;
 import java.util.List;
 
 public class Ladder {
-	private List<String> players;
+	private List<String> players = new LinkedList<>();
 	
 	public Ladder(String...players) {
-		this.players = new LinkedList<>();
-		addPlayers(players);
+		join(players);
 	}
-	
-	private void addPlayers(String...players) {
-		for(String player : players) {
-			if (!this.players.contains(player)) 
-				this.players.add(player);
-		}	
-	}
-	
+		
 	public void join(String... players) {
-		addPlayers(players);	
+		for(String player : players) {
+			if (!this.players.contains(player)) //use additional Hashset when number of players is large
+				this.players.add(player);
+		}
 	}		
 	
 	public void gameFinished(String winner, String looser) {		
@@ -51,7 +47,6 @@ public class Ladder {
 	}
 	
 	public Iterable<String> standings() {
-		return players;		
-	}	
-	
+		return Collections.unmodifiableList(players);		
+	}		
 }
