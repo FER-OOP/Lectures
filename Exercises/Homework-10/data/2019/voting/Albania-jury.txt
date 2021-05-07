@@ -1,0 +1,10 @@
+12 North Macedonia
+10 Switzerland
+ 8 Azerbaijan
+ 7 Cyprus
+ 6 Sweden
+ 5 Italy
+ 4 Greece
+ 3 France
+ 2 Australia
+ 1 Russia

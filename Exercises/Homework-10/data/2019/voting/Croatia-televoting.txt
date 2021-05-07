@@ -1,0 +1,9 @@
+12 Italy
+10 Slovenia
+ 8 Serbia
+ 7 North Macedonia
+ 6 Switzerland
+ 5 Norway
+ 4 Netherlands
+ 3 Iceland
+ 2 San Marino

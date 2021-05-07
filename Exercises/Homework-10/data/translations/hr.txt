@@ -1,0 +1,26 @@
+Malta:Malta
+Albania:Albanija
+Czech Republic:Češka
+Germany:Njemačka
+Russia:Rusija
+Denmark:Danska
+San Marino:San Marino
+North Macedonia:Sjeverna Makedonija
+Sweden:Švedska
+Slovenia:Slovenija
+Cyprus:Cipar
+Netherland:Nizozemska
+Greece:Grčka
+Israel:Izrael
+Norway:Norveška
+United Kingdom:Ujedinjeno kraljevstvo
+Iceland:Island
+Estonia:Estonija
+Belarus:Bjelorusija
+Azerbaijan:Azerbajdžan
+France:Francuska
+Italy:Italija
+Serbia:Srbija
+Switzerland:Švicarska
+Australia:Australija
+Spain:Španjolska

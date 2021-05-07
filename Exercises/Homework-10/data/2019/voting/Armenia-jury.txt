@@ -1,0 +1,10 @@
+12 Sweden
+10 North Macedonia
+ 8 Italy
+ 7 Switzerland
+ 6 Netherlands
+ 5 Russia
+ 4 Malta
+ 3 Czech Republic
+ 2 United Kingdom
+ 1 Belarus
