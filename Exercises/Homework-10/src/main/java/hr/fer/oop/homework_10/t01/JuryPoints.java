@@ -10,7 +10,7 @@ public class JuryPoints {
 			System.exit(1);
 		}
 				
-		PointsSaver.SaveJuryPoints(Integer.parseInt(args[0]), args[1], Arrays.copyOfRange(args, 2, 12));
+		PointsSaver.saveJuryPoints(Integer.parseInt(args[0]), args[1], Arrays.copyOfRange(args, 2, 12));
 	}
 
 }

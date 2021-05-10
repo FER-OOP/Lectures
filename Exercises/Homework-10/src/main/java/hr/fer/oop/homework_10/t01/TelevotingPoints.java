@@ -10,7 +10,7 @@ public class TelevotingPoints {
 			System.exit(1);
 		}
 				
-		PointsSaver.SaveTelevotingPoints(Integer.parseInt(args[0]), args[1], Arrays.copyOfRange(args, 2, 11));
+		PointsSaver.saveTelevotingPoints(Integer.parseInt(args[0]), args[1], Arrays.copyOfRange(args, 2, 11));
 	}
 
 }
