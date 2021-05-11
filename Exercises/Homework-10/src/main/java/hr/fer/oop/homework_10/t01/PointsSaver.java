@@ -5,6 +5,7 @@ import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.io.OutputStreamWriter;
 import java.io.UnsupportedEncodingException;
@@ -30,12 +31,13 @@ public class PointsSaver {
 		 	file.getParentFile().mkdirs();
 		}
 
-		try(Writer writer = new BufferedWriter(
-								new OutputStreamWriter(
-									new BufferedOutputStream(
-										new FileOutputStream(filename)
-									)
-									, StandardCharsets.UTF_8))) {
+//		try(Writer writer = new BufferedWriter(
+//								new OutputStreamWriter(
+//									new BufferedOutputStream(
+//										new FileOutputStream(filename)
+//									)
+//									, StandardCharsets.UTF_8))) {
+		try(Writer writer = new BufferedWriter(new FileWriter(file, StandardCharsets.UTF_8))) {
 			for(int i=0; i<countries.length ; i++) {
 				writer.write(String.format("%2d %s%n", points[i], countries[i]));
 			}

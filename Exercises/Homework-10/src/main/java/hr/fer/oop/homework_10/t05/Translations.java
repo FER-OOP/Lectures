@@ -22,8 +22,8 @@ public class Translations {
 					int ind = filename.indexOf(".txt");
 					String languageCode = filename.substring(0, ind);
 					Map<String, String> translations = new HashMap<String, String>();
-					try(Scanner sc = new Scanner(p, StandardCharsets.UTF_8)) {
-						while(sc.hasNextLine()) {
+					try(Scanner sc = new Scanner(p, StandardCharsets.UTF_8)) { //or you can use Files.readAllLines(p, StandardCharsets.UTF_8)							
+						while(sc.hasNextLine()) {							  //and iterate through returned List<String>
 							String line = sc.nextLine();
 							String[] names = line.split(":");
 							translations.put(names[0], names[1]);							

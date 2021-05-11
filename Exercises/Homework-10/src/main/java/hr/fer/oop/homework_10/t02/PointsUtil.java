@@ -7,6 +7,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
 
@@ -25,15 +26,22 @@ public class PointsUtil {
 		return standings;
 	}
 	
-	public static void updateStandings(Path path, Map<String, Integer> standings) throws IOException {
-		try(Scanner sc = new Scanner(path, StandardCharsets.UTF_8)) {
-			while(sc.hasNextLine()) {
-				String line = sc.nextLine();
-				String country = line.substring(3);
-				int points = Integer.parseInt(line.substring(0, 2).trim());
-				Integer current = standings.getOrDefault(country, 0);
-				standings.put(country, current + points);
-			}
+	public static void updateStandings(Path path, Map<String, Integer> standings) throws IOException {		
+//		try(Scanner sc = new Scanner(path, StandardCharsets.UTF_8)) {
+//			while(sc.hasNextLine()) {
+//				String line = sc.nextLine();
+//				String country = line.substring(3);
+//				int points = Integer.parseInt(line.substring(0, 2).trim());
+//				Integer current = standings.getOrDefault(country, 0);
+//				standings.put(country, current + points);
+//			}
+//		}
+		List<String> lines = Files.readAllLines(path, StandardCharsets.UTF_8); //use in case of small files
+		for(String line : lines) {			
+			String country = line.substring(3);
+			int points = Integer.parseInt(line.substring(0, 2).trim());
+			Integer current = standings.getOrDefault(country, 0);
+			standings.put(country, current + points);
 		}
 	}
 }
