@@ -15,7 +15,6 @@ public class Main {
 		List<Person> persons = Person.loadPersons();
 		List<Person> ladies = new ArrayList<>();
 		
-		// Person.loadPersons()::iterator
 		printPersons(persons, (p)-> p.getAge() < 55, (p)-> p.getName() + ", " + p.getAge());  // A
 		System.out.println();
 		printPersons(persons, (p)-> p.getGender() == Gender.FEMALE, Person::toString);

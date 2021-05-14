@@ -17,8 +17,8 @@ public class Main {
 		.filter((s)->s.length()<4)
 		.map((s)-> { if(s.length()%2==0)
 						return s + " string has an even number of characters";
-					 return s + " string has an odd number of characters";			
-					})
+					 	return s + " string has an odd number of characters";			
+				   })
 		.forEach((i)->System.out.println(i));
 			
 		boolean areAllVragec = new Sequence<>(Person.loadPersons())

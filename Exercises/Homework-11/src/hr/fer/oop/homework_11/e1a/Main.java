@@ -7,9 +7,7 @@ public class Main {
 	public static void main(String[] args) {
 		Integer[] array = { 0, -53, 4, 25, 8, -50};
 		ImmutableContainer ic = new ImmutableContainer(array);
-		//ImmutableCollection ic = new ImmutableCollection(1,2);
-
-		
+				
 		for(Integer i : ic) 
 			System.out.format("%d ", i);
 

@@ -16,7 +16,7 @@ public class ImmutableContainer implements Iterable<Integer> {
 	public Iterator<Integer> iterator() {
 		// Backward iterator 
 		return new Iterator<>() {  
-			//private int index = elements.length - 1;
+			//private int index = numbers.length - 1;
 			private int index;
 			 // we have lost the ability to use constructor in an anonymous class, 
 			 // so an instance block can be used instead

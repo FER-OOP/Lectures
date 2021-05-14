@@ -32,7 +32,7 @@ public class Main {
 		
 		Map<Integer, Integer> map1 = convertIterableToMap(persons,  (p)->p.getId() /*Person::getId*/ , 
 																	(p)->p.getAge() /*Person::getAge*/);
-		map1.forEach((k, v)-> System.out.println(k + ", " + v) );
+		map1.forEach((k, v)-> System.out.println("{" + k + "=" + v + "}") );
 
 	}
 	

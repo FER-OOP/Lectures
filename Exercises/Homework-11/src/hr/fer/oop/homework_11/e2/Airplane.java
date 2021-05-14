@@ -36,7 +36,7 @@ public class Airplane {
 					+ "to %s is loaded with %d kg. %nEnjoy your flight. Currently, our speed is %d%n" 
 					,/*this.*/name, Airplane.this.name, Airplane.this.from, Airplane.this.to, 
 					getOverallCargoWeight(), currentSpeed);
-			// Rijeka airport geo pos: 45.216944,14.570278 in degrees
+			// Rijeka airport geo pos: 45.216944,14.570278
 			// Venice airport geo pos: 45.503164654 12.351165262
 	        flyAround(new Pair<>(45.216944, 14.570278), new Pair<>(45.503164654, 12.351165262));
         }

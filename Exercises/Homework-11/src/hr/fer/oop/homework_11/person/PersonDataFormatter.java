@@ -8,7 +8,7 @@ public interface PersonDataFormatter {
 		System.out.println(format(person));
 	}
 	
-	//solution: entering code into the print method
+	//solution: entering a code into the print method
 	static void printAll(Iterable<Person> persons, PersonDataFormatter formatter) {
 		for(Person person : persons)
 			System.out.format("%s\n", formatter.format(person));
