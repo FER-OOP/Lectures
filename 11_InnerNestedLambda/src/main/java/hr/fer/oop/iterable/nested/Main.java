@@ -1,4 +1,4 @@
-package hr.fer.oop.iterable;
+package hr.fer.oop.iterable.nested;
 
 public class Main {
 	public static void main(String[] args) {
