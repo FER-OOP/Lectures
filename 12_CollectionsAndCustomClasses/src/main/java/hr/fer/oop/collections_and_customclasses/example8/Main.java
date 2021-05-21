@@ -16,9 +16,9 @@ public class Main {
 				);
 
 		// or using default method in Comparator...
-//		 Comparator<Student8> comparator = Student.BY_FIRST_NAME
+//		 Comparator<Student8> comparator = Student8.BY_FIRST_NAME
 //		 .reversed()
-//		 .thenComparing(Student.BY_LAST_NAME)
+//		 .thenComparing(Student8.BY_LAST_NAME)
 //		 .thenComparing(Comparator.naturalOrder());
 
 		Set<Student8> students = new TreeSet<>(comparator);
