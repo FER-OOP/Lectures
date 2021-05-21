@@ -1,7 +1,6 @@
 package hr.fer.oop.streams;
 
 import java.io.UnsupportedEncodingException;
-import java.nio.charset.Charset;
 import java.text.Collator;
 import java.util.Comparator;
 import java.util.Locale;
