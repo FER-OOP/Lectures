@@ -32,16 +32,16 @@ public class EnterNameFrame extends JFrame {
    */
   public EnterNameFrame() {
     setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-    setBounds(10, 10, 500, 200); // postavljanje lokacije i veličine
+    setBounds(10, 10, 500, 200); // location and size
 
-    JPanel panel = (JPanel) getContentPane(); // ovo je potrebno zbog okvira
+    JPanel panel = (JPanel) getContentPane(); // get content pane in order to set border
     panel.setBorder(BorderFactory.createEmptyBorder(5, 5, 5, 5));
 
-    JLabel lblTitle = new JLabel("Naslov");
+    JLabel lblTitle = new JLabel("Title");
     lblTitle.setHorizontalAlignment(SwingConstants.CENTER);
     panel.add(lblTitle, BorderLayout.NORTH);
 
-    JLabel lblName = new JLabel("Unesite ime i prezime:");
+    JLabel lblName = new JLabel("Enter name:");
     panel.add(lblName, BorderLayout.WEST);
 
     JTextField tfInput = new JTextField();

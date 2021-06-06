@@ -38,14 +38,14 @@ public class InputUserDataPanel extends JPanel {
     setLayout(new SpringLayout());
 
     // row 0
-    add(new JLabel("Ime:", SwingConstants.RIGHT));
+    add(new JLabel("Name:", SwingConstants.RIGHT));
 
     tfFirstName = new JTextField();
     tfFirstName.setColumns(10);
     add(tfFirstName);
 
     // row 1
-    add(new JLabel("Prezime:", SwingConstants.RIGHT));
+    add(new JLabel("Surname:", SwingConstants.RIGHT));
 
     tfLastName = new JTextField();
     tfLastName.setColumns(10);
@@ -54,7 +54,7 @@ public class InputUserDataPanel extends JPanel {
     // row 2
     add(new JPanel());
 
-    cbEmail = new JCheckBox("Želite li primati e-mailove?");
+    cbEmail = new JCheckBox("Receive notifications using e-mail?");
     add(cbEmail);
 
     // rox 3
@@ -63,19 +63,19 @@ public class InputUserDataPanel extends JPanel {
     JPanel radioPanel = new JPanel();
     radioPanel
         .setBorder(BorderFactory.createTitledBorder(null,
-            "Kako želite primati e-mailove?", TitledBorder.LEADING,
+            "Notifications interval?", TitledBorder.LEADING,
             TitledBorder.TOP));
     add(radioPanel);
 
     radioPanel.setLayout(new GridLayout(0, 1, 0, 0));
     emailGroup = new ButtonGroup();
-    rbWeekly = new JRadioButton("Tjedno");
+    rbWeekly = new JRadioButton("Weekly");
     radioPanel.add(rbWeekly);
     emailGroup.add(rbWeekly);
-    rbDaily = new JRadioButton("Dnevno");
+    rbDaily = new JRadioButton("Daily");
     radioPanel.add(rbDaily);
     emailGroup.add(rbDaily);
-    rbMonthly = new JRadioButton("Mjesečno");
+    rbMonthly = new JRadioButton("Monthly");
     radioPanel.add(rbMonthly);
     emailGroup.add(rbMonthly);
 

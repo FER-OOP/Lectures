@@ -57,8 +57,7 @@ public class InputUserDataFrame extends JFrame {
       @Override
       public void actionPerformed(ActionEvent e) {
         System.exit(0);
-        // ako želimo ugasiti samo prozor, a ne čitavu aplikaciju
-        //dispose();
+        // use dispose(); in order to end the frame but not the program
       }
     });
 
