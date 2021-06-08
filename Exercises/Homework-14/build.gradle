@@ -10,5 +10,4 @@ repositories {
 }
 
 dependencies {
-	implementation 'net.sourceforge.jexcelapi:jxl:2.6.12'
 }
