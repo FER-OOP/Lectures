@@ -45,7 +45,7 @@ public class Apartment {
         BigDecimal area = new BigDecimal("0");
 
         for (Room room : rooms) {
-            area.add(room.getArea());
+            area = area.add(room.getArea());
         }
 
         return area;
