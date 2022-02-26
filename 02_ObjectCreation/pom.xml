@@ -3,16 +3,19 @@
   <groupId>hr.fer.oop</groupId>
   <artifactId>02_ObjectCreation</artifactId>
   <version>1.0.0</version>
+  <properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
   <build>
-		<plugins>
-			<plugin>
-				<groupId>org.apache.maven.plugins</groupId>
+	<plugins>
+		<plugin>
+			<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-compiler-plugin</artifactId>		
 				<version>3.8.1</version>		
 				<configuration>
-					<release>11</release>		
+					<release>17</release>		
 				</configuration>
 			</plugin>
 		</plugins>
-	</build>
+  </build>
 </project>
