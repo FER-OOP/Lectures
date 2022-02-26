@@ -1,6 +1,6 @@
 # FER-OOP
 
-The epository contains examples used in the [Object Oriented Programming](http://www.fer.unizg.hr/predmet/oop) course at the [University of Zagreb, Faculty of Electrical Engineering and Computing](http://www.fer.unizg.hr).
+The repository contains examples used in the [Object Oriented Programming](http://www.fer.unizg.hr/predmet/oop) course at the [University of Zagreb, Faculty of Electrical Engineering and Computing](http://www.fer.unizg.hr).
 
 The root folder contains the source code of the examples used in the lectures. The folders follow the order of the lectures and all folders, except the first one (01), contain Maven and Gradle settings files to easily import projects into various integrated development environments (e.g. Eclipse and NetBeans). 
 
