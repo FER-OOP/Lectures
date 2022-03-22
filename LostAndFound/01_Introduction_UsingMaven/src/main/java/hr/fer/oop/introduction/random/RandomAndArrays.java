@@ -9,18 +9,23 @@ package hr.fer.oop.introduction.random;
  * integer in the array and print them and their index in the array (in case of duplicated values return the index of first appearing one).
  *  
  * Zadatak 2:
- * Potrebno je napraviti program koji stvara polje cijelih brojeva (int). Velièina polja odreðena je argumentom iz glavnog programa.
- * Možete pretpostaviti da æe korisnik unijeti ispravan argument te nije potrebno izvoditi provjere nad argumentom.
- * Potom polje je potrebno popuniti nasumiènim brojevima iz raspona 0-100.
- * Nakon punjenja polja, program treba silazno ispisati sadržaj polja (od zadnjeg elementa prema prvom). Takoðer potrebno je pronaæi
- * najveæi i najmanji element u polju, te ih ispisati kao i njihove indekse (u sluèaju da se pojave dupliciranje vrijednosti ispisati indeks onog koji se pojavljuje prvi).
+ * Potrebno je napraviti program koji stvara polje cijelih brojeva (int). Veliï¿½ina polja odreï¿½ena je argumentom iz glavnog programa.
+ * Moï¿½ete pretpostaviti da ï¿½e korisnik unijeti ispravan argument te nije potrebno izvoditi provjere nad argumentom.
+ * Potom polje je potrebno popuniti nasumiï¿½nim brojevima iz raspona 0-100.
+ * Nakon punjenja polja, program treba silazno ispisati sadrï¿½aj polja (od zadnjeg elementa prema prvom). Takoï¿½er potrebno je pronaï¿½i
+ * najveï¿½i i najmanji element u polju, te ih ispisati kao i njihove indekse (u sluï¿½aju da se pojave dupliciranje vrijednosti ispisati indeks onog koji se pojavljuje prvi).
  *  
  * @author OOP
  *
  */
 
 public class RandomAndArrays {
-	
+
+	private static int largestInt;
+	private static int smallestInt;
+	private static int indexOfLargest = 0;
+	private static int indexOfSmallest = 0;
+
 	public static void main(String[] args) {
 		
 		if(args.length != 1) {
@@ -31,49 +36,61 @@ public class RandomAndArrays {
 				
 		//parsing value of array size from input parameters
 		int arraySize = Integer.parseInt(args[0]);
-		//creating array of certain size
-		int[] randomArray = new int[arraySize]; //at this point array is filled with null's
-				
-		//filling array with values from 0-100. Since Math.random returns double values from 0-1, 
-		//we need to multiply those with 100 and cast to int
-		for (int i = 0; i < randomArray.length; i++) {
-			randomArray[i] = (int) (Math.random() * 100);
-		}
+
+		//Generating the array of size arraySize
+		int[] randomArray = generateRandomIntArray(arraySize);
 				
 		//printing array backwards on standard output
-		for (int i = randomArray.length -1; i >= 0; i--) {
-			System.out.println("Array[" + i + "] = " + randomArray[i]);
-		}
+		printBackwards(randomArray);
 		
 
-		int largestInt = randomArray[0];
-		int smallestInt = randomArray[0];
+		largestInt = randomArray[0];
+		smallestInt = randomArray[0];
 	//	ALTERNATIVE
-	//	int largestInt = Integer.MIN_VALUE; //we could also put 0 here
-	//	int smallestInt = Integer.MAX_VALUE; //we could also put 100 here
-		
-		int indexOfLargest = 0;
-		int indexOfSmallest = 0;
-		
+	//	largestInt = Integer.MIN_VALUE; //we could also put 0 here or while initiating the integer
+	//	smallestInt = Integer.MAX_VALUE; //we could also put 100 here or while initiating the integer
+
 		//find largest and smallest integer in array
-		for (int i = 0; i < randomArray.length; i++) {
-						
-			if(randomArray[i] > largestInt){
-				largestInt = randomArray[i];
-				indexOfLargest = i;
-			}
-			
-			if(randomArray[i] < smallestInt){
-				smallestInt = randomArray[i];
-				indexOfSmallest = i;
-			}
-		}
+		findLargestAndSmallest(randomArray);
 		
 		System.out.println();
 		System.out.println("Smallest integer in array is: " + smallestInt + " at position [" + indexOfSmallest + "]" );
 		System.out.println("Largest integer in array is: " + largestInt + " at position [" + indexOfLargest + "]" );
 		
 		
+	}
+
+	private static int[] generateRandomIntArray(int arraySize){
+		//creating array of certain size
+		int[] randomArray = new int[arraySize];
+
+		//filling array with values from 0-100. Since Math.random returns double values from 0-1,
+		//we need to multiply those with 100 and cast to int
+		for (int i = 0; i < randomArray.length; i++) {
+			randomArray[i] = (int) (Math.random() * 100);
+		}
+		return randomArray;
+	}
+
+	private static void printBackwards(int[] array){
+		for (int i = array.length -1; i >= 0; i--) {
+			System.out.println("Array[" + i + "] = " + array[i]);
+		}
+	}
+
+	private static void findLargestAndSmallest(int[] array){
+		for (int i = 0; i < array.length; i++) {
+
+			if(array[i] > largestInt){
+				largestInt = array[i];
+				indexOfLargest = i;
+			}
+
+			if(array[i] < smallestInt){
+				smallestInt = array[i];
+				indexOfSmallest = i;
+			}
+		}
 	}
 
 }
