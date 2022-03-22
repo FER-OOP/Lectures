@@ -5,10 +5,7 @@ import java.time.LocalDate;
 public class Polymorphism {
 
 	public static void main(String[] args) {
-		Item[] items = new Item[3];
-		items[0] =  new Beverage("23", "Coca cola", 10, 2);			
-		items[1] = new Food("777", "CaoCao", 2.5, LocalDate.of(2016,5, 11));		
-		items[2] = new Cloth("045", "Simple T-shirt", 350, 54);
+		Item[] items = generateItems();
 		calculatePrice(items);
 	}
 
@@ -21,4 +18,11 @@ public class Polymorphism {
 		System.out.println("Total price = " + price);	
 	}
 
+	private static Item[] generateItems(){
+		Item[] items = new Item[3];
+		items[0] =  new Beverage("23", "Coca cola", 10, 2);
+		items[1] = new Food("777", "CaoCao", 2.5, LocalDate.of(2016,5, 11));
+		items[2] = new Cloth("045", "Simple T-shirt", 350, 54);
+		return items;
+	}
 }
