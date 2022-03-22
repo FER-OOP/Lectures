@@ -2,13 +2,13 @@ package hr.fer.oop.inheritance_polymorphism;
 
 public class Cloth extends Item {
 	private double size;
-	public Cloth(String sku, String name, double size){
-		super(sku, name);
+	public Cloth(String productId, String name, double size){
+		super(productId, name);
 		this.size = size;
 	}
 	
-	public Cloth(String sku, String name, double price, double size){
-		super(sku, name, price);
+	public Cloth(String productId, String name, double price, double size){
+		super(productId, name, price);
 		this.size = size;
 	}
 	

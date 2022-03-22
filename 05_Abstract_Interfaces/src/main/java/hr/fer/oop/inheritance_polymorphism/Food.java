@@ -21,12 +21,12 @@ public class Food extends Item implements Perishable {
 		this.bestBefore = bestBefore;
 	}
 		
-	public Food(String sku, String name, LocalDate bestBefore){
-		super(sku, name);		
+	public Food(String productId, String name, LocalDate bestBefore){
+		super(productId, name);
 		this.bestBefore = bestBefore;
 	}	
-	public Food(String sku, String name, double price, LocalDate bestBefore){
-		super(sku, name, price);		
+	public Food(String productId, String name, double price, LocalDate bestBefore){
+		super(productId, name, price);
 		this.bestBefore = bestBefore;
 	}
 	

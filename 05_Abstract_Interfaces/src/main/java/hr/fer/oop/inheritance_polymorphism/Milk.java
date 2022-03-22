@@ -30,8 +30,8 @@ public final class Milk extends Beverage implements Perishable {
 		this.fatPercentage = fatPercentage;
 	}
 		
-	public Milk(String sku, String name, double price, double volume, MilkType milkType, LocalDate bestBefore){
-		super(sku, name, price, volume);
+	public Milk(String productId, String name, double price, double volume, MilkType milkType, LocalDate bestBefore){
+		super(productId, name, price, volume);
 		this.bestBefore = bestBefore;
 		this.type = milkType;
 	}

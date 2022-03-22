@@ -1,11 +1,11 @@
 package hr.fer.oop.inheritance_polymorphism;
 
 public abstract class Item {	
-	private String sku; //Stock Keeping Unit / ProductNumber
+	private String productId; //Stock Keeping Unit / ProductNumber
 	private String name;
 	private double netSalePrice;
-	public String getSku() {
-		return sku;
+	public String getProductId() {
+		return productId;
 	}	
 	public String getName() {
 		return name;
@@ -27,18 +27,18 @@ public abstract class Item {
 	}
 	public abstract String getItemType();
 	
-	protected Item(String sku, String name){
-		this(sku, name, 0);		
+	protected Item(String productId, String name){
+		this(productId, name, 0);
 	}
 	
-	protected Item(String sku, String name, double price){		
-		this.sku = sku;
+	protected Item(String productId, String name, double price){
+		this.productId = productId;
 		this.name = name;
 		this.netSalePrice = price;
 	}
 	
 	@Override
 	public String toString() {
-		return String.format("%s - %s (%s)", getSku(), getName(), getItemType());
+		return String.format("%s - %s (%s)", getProductId(), getName(), getItemType());
 	}
 }
