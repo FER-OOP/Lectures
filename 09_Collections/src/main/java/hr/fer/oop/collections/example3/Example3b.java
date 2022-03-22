@@ -8,16 +8,16 @@ import java.util.Set;
 // Using list and set...
 // Appropriate set can offer fast lookup!
 
-public class Example3b {
+public class Example3b implements Utils{
 
-	public static void main(String[] args) {
+	public void main(String[] args) {
 
 		String[] names = { "Boris", "Anna", "Boris", "Wang", "Anna", "Li", "Chen", "Li" };
 
 		writeInReverse(names);
 	}
 
-	private static void writeInReverse(String[] names) {		
+	public void writeInReverse(String[] names) {
 		List<String> list = new ArrayList<>();
 		// Set for fast lookup...
 		Set<String> set = new HashSet<>();

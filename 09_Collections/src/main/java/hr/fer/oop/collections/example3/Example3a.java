@@ -2,21 +2,13 @@ package hr.fer.oop.collections.example3;
 
 // Using only given array...
 
-public class Example3a {
+public class Example3a implements Utils {
 
-	public static void main(String[] args) {
+	public void main(String[] args) {
 
 		String[] names = { "Boris", "Anna", "Boris", "Wang", "Anna", "Li", "Chen", "Li" };
 
 		writeInReverse(names);
-	}
-
-	private static void writeInReverse(String[] names) {
-		for (int i = names.length - 1; i >= 0; i--) {
-			if (!isPresentInRange(names[i], names, i + 1, names.length - 1)) {
-				System.out.println(names[i]);
-			}
-		}
 	}
 
 	private static boolean isPresentInRange(String element, String[] array, int fromIndex, int toIndex) {
@@ -28,4 +20,12 @@ public class Example3a {
 		return false;
 	}
 
+	@Override
+	public void writeInReverse(String[] names) {
+		for (int i = names.length - 1; i >= 0; i--) {
+			if (!isPresentInRange(names[i], names, i + 1, names.length - 1)) {
+				System.out.println(names[i]);
+			}
+		}
+	}
 }
