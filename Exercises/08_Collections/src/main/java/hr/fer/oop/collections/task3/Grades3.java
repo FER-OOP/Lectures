@@ -1,20 +1,20 @@
-package hr.fer.oop.pred.kolekcije.av.zad4;
+package hr.fer.oop.collections.task3;
 
 import java.util.*;
 
 public class Grades3 {
 
-	Map<String, Map<String, Integer>> gradesMap;
+	private Map<String, Map<String, Integer>> studentGrades;
 	
 	public Grades3() {
-		gradesMap = new HashMap<>();
+		studentGrades = new HashMap<>();
 	}
 	
-	public void add(String name, String course, Integer grade) {
-		Map<String, Integer> courseGradeMap = gradesMap.get(name);
+	public void add(String student, String course, Integer grade) {
+		Map<String, Integer> courseGradeMap = studentGrades.get(student);
 		if (courseGradeMap == null) {
 			courseGradeMap = new HashMap<String, Integer>();
-			gradesMap.put(name, courseGradeMap);
+			studentGrades.put(student, courseGradeMap);
 		}
 		courseGradeMap.put(course, grade);
 	}
@@ -23,17 +23,17 @@ public class Grades3 {
 		double sum = 0;
 		int count = 0;
 		
-		for (String name : gradesMap.keySet()) {
-			Map<String, Integer> courseGradeMap = gradesMap.get(name);
+		for (String student : studentGrades.keySet()) {
+			Map<String, Integer> courseGradeMap = studentGrades.get(student);
 			if (courseGradeMap.containsKey(course)) {
 				Integer courseGrade = courseGradeMap.get(course);
-				System.out.println(name + " : " + course + " : " + courseGrade);
+				System.out.println(student + " : " + course + " : " + courseGrade);
 				sum += courseGrade;
 				count++;
 			}
 		}
 		
-		System.out.println("Average course grade: " + sum/count);
+		System.out.println("Average course grade: " + sum / count);
 		
 	}
 	
@@ -47,10 +47,10 @@ public class Grades3 {
 		g.add("Matteo", "OOP", 2);
 		g.add("Mario", "OOP", 1);
 		
-		g.add("Mario", "ARH", 4);
-		g.add("Matteo", "ARH", 5);
+		g.add("Mario", "MAT", 4);
+		g.add("Matteo", "MAT", 5);
 		
-		g.courseAvg("ARH");
+		g.courseAvg("MAT");
 
 	}
 

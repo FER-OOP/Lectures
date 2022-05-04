@@ -2,22 +2,22 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>hr.fer.oop</groupId>
-	<artifactId>08_Collections</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>8_Collections</name>
+	<artifactId>08_Collections_Exercises</artifactId>
+	<version>1.0.0</version>
+	<name>08_Collections_Exercises</name>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 	<build>
-		<plugins>
-			<plugin>
-				<groupId>org.apache.maven.plugins</groupId>
-				<artifactId>maven-compiler-plugin</artifactId>
-				<version>3.8.1</version>
+	<plugins>
+		<plugin>
+			<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>		
+				<version>3.8.1</version>		
 				<configuration>
-					<release>11</release>
+					<release>17</release>		
 				</configuration>
 			</plugin>
 		</plugins>
-	</build>
+  </build>
 </project>

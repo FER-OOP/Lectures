@@ -1,26 +1,26 @@
-package hr.fer.oop.pred.kolekcije.av.zad4;
+package hr.fer.oop.collections.task3;
 
 import java.util.*;
 
 public class Grades1 {
 
-	Map<String, Integer> gradesMap;
+	private Map<String, Integer> studentsGrades;
 	
 	public Grades1() {
-		gradesMap = new HashMap<>();
+		studentsGrades = new HashMap<>();
 	}
 	
-	public void add(String name, Integer grade) {
-		gradesMap.put(name, grade);
+	public void add(String student, Integer grade) {
+		studentsGrades.put(student, grade);
 	}
 	
 	public void avgGrades() {
 		double sum = 0;
-		for (Map.Entry<String, Integer> entry : gradesMap.entrySet()) {
+		for (Map.Entry<String, Integer> entry : studentsGrades.entrySet()) {
 			System.out.println(entry.getKey() + " : " + entry.getValue());
 			sum += entry.getValue();
 		}
-		System.out.println("Average grade: " + sum/gradesMap.size());
+		System.out.println("Average grade: " + sum / studentsGrades.size());
 	}
 	
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package hr.fer.oop.pred.kolekcije.av.zad2;
+package hr.fer.oop.collections.task2;
 
 public class Score implements Comparable<Score>{
 
