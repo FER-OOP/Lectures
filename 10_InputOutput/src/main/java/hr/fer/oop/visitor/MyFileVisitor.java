@@ -1,4 +1,4 @@
-package hr.fer.oop.nio.visitor;
+package hr.fer.oop.visitor;
 
 import java.io.IOException;
 import java.nio.file.FileVisitResult;

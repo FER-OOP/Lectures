@@ -1,4 +1,4 @@
-package hr.fer.oop.nio.dirtree;
+package hr.fer.oop.io;
 
 import java.io.IOException;
 import java.nio.file.DirectoryStream.Filter;
