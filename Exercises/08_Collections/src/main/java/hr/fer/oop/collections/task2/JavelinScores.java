@@ -12,10 +12,11 @@ public class JavelinScores {
 	
 	public void add(String name, double score) {
 		Score s = new Score(name, score);
-		int i;
-		for (i=0; i<scores.size(); i++) {
-			if (score > scores.get(i).getScore())
+		int i=0;
+		for(Score curr : scores) {
+			if (score > curr.getScore())
 				break;
+			++i;
 		}
 		scores.add(i, s);
 	}
