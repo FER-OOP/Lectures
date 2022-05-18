@@ -17,7 +17,7 @@ public class YearsOfService implements Predicate<Employee> {
 	@Override
 	public boolean test(Employee t) {
 		Period period = Period.between(t.getEmploymentDate(), onDate);
-		return period.getYears() >= years && period.getYears() < years + 1;
+		return period.getYears() == years;
 	}
 
 }
