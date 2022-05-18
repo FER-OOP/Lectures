@@ -1,0 +1,6 @@
+John Doe;10000;2015;5;23
+Barbara Doe;15000;2020;10;15
+Benjamin Roe;9000;2020;7;3
+Ann James;11000;2020;1;13
+Lucas Logan;8000;2021;5;25
+Marie Johnes;12000;2020;7;3
