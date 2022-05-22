@@ -10,12 +10,12 @@ public class Main {
 
     for(AndroidVersion v: AndroidVersion.values()) {
       System.out.println(v + " " + v.getVersion());
-      printOppinion(v);
+      printOpinion(v);
     }
   }
 
 //	new Java 17 construct (does not require break, and allows multiple values per case)
-	public static void printOppinion(AndroidVersion version) {
+	public static void printOpinion(AndroidVersion version) {
 		switch (version) {
 		case MARSHMALLOW -> 
 			System.out.println(" Marshmallow is too old version!");
@@ -26,7 +26,7 @@ public class Main {
 		}
 	}
 //  
-//	public static void printOppinion(AndroidVersion version) {
+//	public static void printOpinion(AndroidVersion version) {
 //		switch (version) {
 //		case MARSHMALLOW:
 //			System.out.println(" Marshmallow is too old version!");
