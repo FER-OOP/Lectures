@@ -36,7 +36,7 @@ public class RandomAndArrays {
     // parsing value of array size from input parameters
     int arraySize = Integer.parseInt(args[0]);
     // creating array of certain size
-    int[] randomArray = new int[arraySize]; // at this point array is filled with null's
+    int[] randomArray = new int[arraySize]; // at this point array is filled with zeros
 
     // filling array with values from 0-100. Since Math.random returns double values
     // from 0-1,
