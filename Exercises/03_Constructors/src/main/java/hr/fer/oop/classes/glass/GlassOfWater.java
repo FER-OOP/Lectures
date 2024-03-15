@@ -68,11 +68,10 @@ public class GlassOfWater {
 			} else {
 				//entire water overflows
 				currentWaterAmount = 0;
-				overflowVolume = currentIceCubeVolume - glassSize;
-
-				//rounding up the number of cubes to ceiling
-				int overflownIceCubes = (overflowVolume + 49) / 50;
-				currentIceCubeCount -= overflownIceCubes;
+				int maxCubes = glassSize / 50;
+				int overflownIceCubes = Math.max(currentIceCubeCount - maxCubes, 0);
+				
+				currentIceCubeCount = Math.min(currentIceCubeCount, maxCubes);
 
 				System.out.println("All water has overflown. "
 						+ overflownIceCubes + " ice cubes have overflown.");
