@@ -5,7 +5,6 @@ import java.util.function.Predicate;
 
 import hr.fer.oop.lambda.Car;
 import hr.fer.oop.lambda.CarCatalog;
-import hr.fer.oop.lambda.CarType;
 
 
 public class Main {

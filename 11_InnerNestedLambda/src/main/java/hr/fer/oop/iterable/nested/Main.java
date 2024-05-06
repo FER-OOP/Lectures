@@ -10,7 +10,13 @@ public class Main {
 		
 		for(Integer digit1 : number)
 			for(Integer digit2 : number)
-				System.out.printf("%d - %d %n", digit1 , digit2); 
-
+				System.out.printf("%d - %d %n", digit1 , digit2);
+		
+		//in case DigitIterator was public this would also be possible 
+//		Iterator<Integer> iterator = new MyNumber.DigitIterator(number);
+//        
+//        while (iterator.hasNext()) {
+//            System.out.println(iterator.next());
+//        }
 	}
 }

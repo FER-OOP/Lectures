@@ -9,9 +9,13 @@ public class MyNumber implements Iterable<Integer> {
 			throw new IllegalArgumentException("Number must be positive");
 		this.num = num;		
 	}
+	
+	 public int getNumber() {
+        return num;
+    } 
 
 	@Override
 	public Iterator<Integer> iterator() {
-		return new DigitIterator(num);
+		return new DigitIterator(this);
 	}	
 }

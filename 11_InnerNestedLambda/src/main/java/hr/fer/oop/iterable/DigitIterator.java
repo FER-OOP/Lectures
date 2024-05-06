@@ -6,8 +6,9 @@ import java.util.NoSuchElementException;
 public class DigitIterator implements Iterator<Integer> {
 	private int expOf10;
 	private int num;
-	public DigitIterator(int num) {
-		this.num = num;
+
+	public DigitIterator(MyNumber myNumber) {
+		this.num = myNumber.getNumber();
 		expOf10 = (int) Math.pow(10, (int) Math.log10(num));		
 	}
 

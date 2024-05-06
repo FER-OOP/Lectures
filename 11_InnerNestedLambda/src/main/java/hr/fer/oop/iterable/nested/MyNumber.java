@@ -13,14 +13,14 @@ public class MyNumber implements Iterable<Integer> {
 
 	@Override
 	public Iterator<Integer> iterator() {
-		return new DigitIterator(num);
+		return new DigitIterator(this);
 	}	
 	
 	private static class DigitIterator implements Iterator<Integer> {
 		private int expOf10;
 		private int num;
-		public DigitIterator(int num) {
-			this.num = num;
+		public DigitIterator(MyNumber myNumber) {
+			this.num = myNumber.num;
 			expOf10 = (int) Math.pow(10, (int) Math.log10(num));			
 		}
 
