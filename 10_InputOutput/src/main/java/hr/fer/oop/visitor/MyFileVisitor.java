@@ -12,14 +12,12 @@ public class MyFileVisitor extends SimpleFileVisitor<Path> {
 
     @Override
     public FileVisitResult visitFile(Path file, BasicFileAttributes attrs) throws IOException {
-
         if (file.toString().endsWith(".java") || file.toString().endsWith(".class")) {
             print(level, String.format("%s (%s bytes) (%s) ",
                     file.getFileName().toString(),
                     attrs.size(),
                     attrs.lastModifiedTime().toString()), true);
         }
-
         return FileVisitResult.CONTINUE;
     }
 
@@ -27,14 +25,12 @@ public class MyFileVisitor extends SimpleFileVisitor<Path> {
     public FileVisitResult preVisitDirectory(Path dir, BasicFileAttributes attrs) throws IOException {
         print(level, dir.getFileName().toString(), false);        
         level++;
-
         return FileVisitResult.CONTINUE;
     }
 
     @Override
     public FileVisitResult postVisitDirectory(Path dir, IOException exc) throws IOException {
         level--;
-
         return FileVisitResult.CONTINUE;
     }
 

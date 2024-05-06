@@ -17,6 +17,8 @@ public class PathInfoExample {
 				dirName = sc.nextLine();
 				dir = Path.of(dirName);
 			}
+			
+			System.out.println("Choosen directory: " + dir.toAbsolutePath());
 
 			while (true) {
 				System.out.println("Enter file or directory name or quit to quit program:");
@@ -24,32 +26,37 @@ public class PathInfoExample {
 				if ("quit".equalsIgnoreCase(name))
 					break;
 				Path file = dir.resolve(name);
-				showFileInfo(file);
+				showPathInfo(file);
 			}
 		}
 	}
 
-	private static void showFileInfo(Path file) throws IOException {		
-		String absolutePath = file.toAbsolutePath().toString();
+	private static void showPathInfo(Path path) throws IOException {		
+		String absolutePath = path.toAbsolutePath().toString();
 		System.out.println("\t " + absolutePath);
-		Path parent = file.getParent();
-		System.out.println("\t Parent file: " + parent);
-		boolean exists = Files.exists(file);
+		System.out.println("\t Path parts:");
+		for(Path part : path) {
+			System.out.printf(" %s", part.toString());
+		}
+		System.out.println();
+		boolean exists = Files.exists(path);
 		System.out.println("\t File exists?: " + exists);
-		boolean readable = Files.isReadable(file);
+		if (exists) {
+			long fileSize = Files.size(path);
+			System.out.println("\t File size: " + fileSize);
+			boolean isHidden = Files.isHidden(path);
+			System.out.println("\t Is hidden?: " + isHidden);
+		}
+		boolean readable = Files.isReadable(path);
 		System.out.println("\t Can read?: " + readable);
-		boolean writeable = Files.isWritable(file);
+		boolean writeable = Files.isWritable(path);
 		System.out.println("\t Can write?: " + writeable);
-		boolean executable = Files.isExecutable(file);
+		boolean executable = Files.isExecutable(path);
 		System.out.println("\t Can execute?: " + executable);
-		long fileSize = Files.size(file);
-		System.out.println("\t File size: " + fileSize);
-		boolean isFile = Files.isRegularFile(file);
+		
+		boolean isFile = Files.isRegularFile(path);
 		System.out.println("\t Is file?: " + isFile);
-		boolean isDirectory = Files.isDirectory(file);
-		System.out.println("\t Is directory?: " + isDirectory);
-		boolean isHidden = Files.isHidden(file);
-		System.out.println("\t Is hidden?: " + isHidden);
-
+		boolean isDirectory = Files.isDirectory(path);
+		System.out.println("\t Is directory?: " + isDirectory);		
 	}
 }
