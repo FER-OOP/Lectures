@@ -14,7 +14,7 @@ public class DigitIterator implements Iterator<Integer> {
 
 	@Override
 	public boolean hasNext() {
-		return num > 0;
+		return expOf10 > 0;
 	}
 
 	@Override

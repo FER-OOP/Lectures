@@ -26,7 +26,7 @@ public class MyNumber implements Iterable<Integer> {
 		
 			@Override
 			public boolean hasNext() {
-				return num > 0;
+				return expOf10 > 0;
 			}
 		
 			@Override
